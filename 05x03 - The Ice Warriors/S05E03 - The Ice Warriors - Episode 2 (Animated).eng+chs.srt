@@ -210,7 +210,7 @@ GARRETT: Probably atomic powered.
 43
 00:03:25,434 --> 00:03:30,063
 CLENT: Quite. And, er, if we use the ioniser at full power
-很可能。如果我们现在使用离子器
+很可能。如果我们把离子器功率开到最大
 
 44
 00:03:30,153 --> 00:03:33,543
@@ -250,12 +250,12 @@ ARDEN: No, we daren't take the risk. The contamination level would last for five
 51
 00:03:48,658 --> 00:03:51,130
 CLENT: It merely makes the fine control of the heat level even more vital.
-TODO
+只不过需要需要精心控制好热度, 不超过危险阈值就是了(FIXME)
 
 52
 00:03:51,259 --> 00:03:53,228
 DOCTOR: Yes, well, I thought you ought to know.
-是的, 我想你们也知道
+是的, 我想你们也应该知道
 
 53
 00:03:53,569 --> 00:03:57,937
@@ -513,7 +513,7 @@ VICTORIA: Were there others with you?
 104
 00:06:17,139 --> 00:06:30,811
 VARGA: Yes. Our spaceship crashed at the foot of the ice mountain. As we came out to investigate, a great avalanche of snow buried us.
-是的, 我们飞船在冰山的脚下坠毁了。我们出来检查周边情况的时候, 巨大的雪崩淹没了我们
+是的, 我们飞船在冰山的脚下坠毁了。我们出来检查的时候, 巨大的雪崩淹没了我们
 
 105
 00:06:31,693 --> 00:06:36,001
@@ -758,7 +758,7 @@ STORR: Ach, it's nothing.
 153
 00:09:34,809 --> 00:09:42,499
 PENLEY: What I like about you is if a polar bear got you you'd give him indigestion. Feeling fuzzy in the head, eh?
-我喜欢你的是, 就算一头北极熊也会拿你没办法。觉得有点头晕不？
+我喜欢你的是, 就算一头北极熊也会拿你没办法(FIXME)。觉得有点头晕不？
 
 154
 00:09:44,301 --> 00:09:50,160
@@ -868,7 +868,7 @@ PENLEY: The base.
 175
 00:11:21,325 --> 00:11:31,475
 STORR: You're going to hand me in to rehabilitation. Africa. Never trust anybody.
-你是打算把我交过去以便我能恢复。非洲啊。别相信任何人
+你是打算把我交过去以便我能恢复(FIXME)。非洲啊。别相信任何人
 
 176
 00:11:32,295 --> 00:11:37,075
@@ -933,7 +933,7 @@ VICTORIA: What is that?
 188
 00:12:47,252 --> 00:12:52,833
 VARGA: Sonic gun. It will burst your brain with noise.
-音速枪。我将会用噪音爆掉你的脑袋
+音速枪。它会用噪音爆掉你的脑袋
 
 189
 00:12:56,692 --> 00:12:58,372
@@ -1023,7 +1023,7 @@ JAMIE: A nice boss you've got there.
 206
 00:14:12,414 --> 00:14:20,353
 ARDEN: Yes. The trouble with Clent is that he's not a proper scientist, he's an organiser. He should've been born a robot.
-Clent的麻烦事他不是一个科学家, 他是个管理者。他可能生下来就是个机器人
+Clent的麻烦是他不是一个科学家, 他是个管理者。他可能生下来就是个机器人
 
 207
 00:14:20,414 --> 00:14:21,515
@@ -1047,8 +1047,8 @@ GARRETT: It's still on half power, but it's holding well.
 
 211
 00:15:45,510 --> 00:15:50,740
-CLENT: Good. Well?
-还好, 是吧?
+CLENT: Good...Well?
+好...怎样?
 
 212
 00:15:50,740 --> 00:15:56,312
@@ -1076,12 +1076,12 @@ DOCTOR: No, I'm here to help you, if I choose.
 不是, 我在这里是为了帮你, 我选择的
 
 217
-00:16:10,304 --> 00:16:17,735
+00:16:10,304 --> 00:16:17,235
 CLENT: This is the most important job I've ever had. Now, every other project I've handled with ease. Nothing has failed.
 这是我经历过的最重要的任务。我经手过的其它项目都很容易, 没有任何失败。之所以选我来, 就是我从来没有失败过。
 
 218
-00:16:18,304 --> 00:16:23,735
+00:16:17,504 --> 00:16:23,735
 I was chosen because I never fail. When I handpicked the team, I made one vital mistake.
 但我在挑选团队成员的时候, 我犯了一个重大的错误
 
@@ -1103,7 +1103,7 @@ DOCTOR: Temperamental or individual? Creative scientists have to be allowed some
 222
 00:16:37,674 --> 00:16:44,422
 CLENT: Creative? Poppycock. When he walked out of here he proclaimed himself to be criminally, criminally irresponsible.
-有创造力？胡说, 他从这里走出去的时候他就宣称他不再承担任何责任 FIXME
+有创造力？胡说, 他从这里走出去的时候他就宣称他不再承担任何责任(FIXME)
 
 223
 00:16:44,553 --> 00:16:46,833
@@ -1131,12 +1131,12 @@ DOCTOR: So you do need Penley.
 所以你需要 Penley
 
 228
-00:17:03,724 --> 00:17:10,734
+00:17:03,724 --> 00:17:12,534
 CLENT: No, I do not need Penley. But I do need an equivalent brain. But it would be months before anyone else could pick up the knowledge that Penley acquired here.
 不, 我不需要 Penley, 但我需要一个与他相当的大脑。不过仅仅是捡起Penley在这里了解到的那些情况就需要好几个月
 
 229
-00:17:10,724 --> 00:17:14,734
+00:17:12,724 --> 00:17:14,734
 Just isn't time, that's the pertinent issue.
 现在不是时候, 这是最要命的问题
 
@@ -1278,7 +1278,7 @@ DOCTOR: Penley?
 257
 00:20:01,515 --> 00:20:05,276
 PENLEY: You know about me then. My escapades in computer-land.
-你已经了解过我了, 我逃离电脑世界的故事
+你知道我的情况, 我逃离电脑世界的故事
 
 258
 00:20:05,276 --> 00:20:08,467
@@ -1286,12 +1286,12 @@ DOCTOR: They need you here, you know. They need you desperately.
 这里他们需要你, 你看。他们非常需要你
 
 259
-00:20:08,656 --> 00:20:12,226
+00:20:08,656 --> 00:20:12,926
 PENLEY: Needing isn't getting. I'm free of their problems for good.
 那也不代表他们能得到。能不被他们的问题烦绕, 我过得很好
 
 260
-00:20:12,387 --> 00:20:17,046
+00:20:13,287 --> 00:20:17,046
 DOCTOR: They're your problems too, you know. It's your world.
 他们同时也是你的问题, 你知道的, 这也是你的世界
 
@@ -1308,7 +1308,7 @@ DOCTOR: I expect you know what you're doing.
 263
 00:20:25,855 --> 00:20:28,276
 PENLEY: You know it's nice to meet one that they haven't got at yet.
-你知道, 最好是FIXME
+能遇到一个还没有被他们同化的人, 还真是不错啊 (FIXME)
 
 264
 00:20:28,397 --> 00:20:30,116
@@ -1428,7 +1428,7 @@ VARGA: You'll see. Don't try to run away.
 287
 00:22:06,405 --> 00:22:08,966
 VICTORIA: I was only going to watch you.
-我只打算看着你
+我只打算看看你
 
 288
 00:22:09,916 --> 00:22:12,306
@@ -1441,12 +1441,12 @@ PENLEY: Twenty four hours and you'll be your old animal-like self again.
 再过24小时你就又跟老动物一样了。FIXME
 
 290
-00:22:26,838 --> 00:22:37,176
+00:22:26,838 --> 00:22:35,176
 And while you're undergoing repairs, Storr, old chap, I'm going to do a bit of hunting myself, up on the glacier.
 你在这里慢慢养着, Storr, 老伙计。我要要出去探查点情况, 到冰河那里去
 
 291
-00:22:37,338 --> 00:22:41,676
+00:22:35,338 --> 00:22:41,676
 Something strange is happening, Elric Penley, honoured sir.
 总觉得有点不对劲, Elric Penley, 尊敬的先生
 
@@ -1465,3 +1465,7 @@ Something disturbing. Something to do with the ice.
 And if what that particular chap has said is true, if they really need me, it may mean the parting of the ways for us.
 如果那个家伙说的是实情, 如果他们真的需要我, 这就意味着我们得做一个抉择了
 
+295
+00:23:13,416 --> 00:23:23,839
+VARGA: It's done. They are free. And now, to bring them back to life.
+完成了。他们自由了。现在, 让他们复活!
