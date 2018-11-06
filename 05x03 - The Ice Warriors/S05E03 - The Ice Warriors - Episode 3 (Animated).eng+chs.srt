@@ -386,7 +386,7 @@ GARRETT: Return to base and wait for the inevitable disaster.
 78
 00:07:29,678 --> 00:07:34,917
 STORR: Oh no, you don't. I'm not having you set the dogs on me. I'd as soon put an end to her game. Give me that.
-哦, 不要这样。我可受不了这个(fixme), 我要终结她的这个游戏。把那个给我
+哦, 不要这样。我可受不了这个(?), 我要终结她的这个游戏。把那个给我
 
 79
 00:07:34,988 --> 00:07:36,387
@@ -954,7 +954,7 @@ VARGA: We shall be ready for them. But first, Zondal, you have a task to complet
 我们要做好准备应对。但Zondal, 首先你有一个任务要完成
 
 192
-00:14:03,662 --> 00:16:24,169
+00:16:13,662 --> 00:16:24,169
 The propulsion unit. It must be made to function. Time is vital. You must succeed.
 那个推进器, 必须要可以工作。时间很紧, 你必须成功
 
@@ -1307,4 +1307,3 @@ VICTORIA: No, please, please listen to me. Arden's dead, and Jamie's disappeared
 00:22:58,669 --> 00:23:09,979
 VICTORIA: Don't you understand? They're ruthless killers and they'll stop at nothing. Now please, listen to me. There's no time to lose.
 你不明白吗? 他们是无情的杀手, 他们不会停止的。现在, 请听我说, 我们没时间了
-
