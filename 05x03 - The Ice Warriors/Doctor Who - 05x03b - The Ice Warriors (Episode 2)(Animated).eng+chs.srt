@@ -868,12 +868,12 @@ PENLEY: The base.
 175
 00:11:21,325 --> 00:11:31,475
 STORR: You're going to hand me in to rehabilitation. Africa. Never trust anybody.
-你是打算把我交过去以便我能恢复(FIXME)。非洲啊。别相信任何人
+你是打算把我交过去, 送我去非洲聚居地。非洲。不能相信任何人啊
 
 176
 00:11:32,295 --> 00:11:37,075
 PENLEY: I'm going for drugs. And if I don't get them, you're as good as dead.
-我去弄点药。如果我不弄来, 你就死翘翘了。
+我只是去弄点药。如果我不弄来, 你就死翘翘了。
 
 177
 00:11:42,636 --> 00:11:44,455
