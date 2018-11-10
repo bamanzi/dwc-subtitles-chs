@@ -1448,7 +1448,7 @@ Very well. You are standing in the airlock of this spacecraft.
 很好, 你正站在飞船的减压舱．
 
 291
-00:22:08,849 --> 00:23:23,568
+00:23:08,849 --> 00:23:23,568
 Unless you answer my questions, within ten seconds I will take atmospheric pressure around you down to zero.
 如果你不回答我的问题, 在10秒钟之内我就将你那里的空气压力降到 0
 
