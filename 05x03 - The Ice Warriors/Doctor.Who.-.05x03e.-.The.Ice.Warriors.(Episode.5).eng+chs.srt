@@ -1,0 +1,1420 @@
+1
+00:00:04,006 --> 00:00:09,006
+Sincro: wyxchari
+
+2
+00:01:06,114 --> 00:01:07,874
+Who are you?
+你是谁？
+
+3
+00:01:08,080 --> 00:01:10,694
+I never answer questions until I'm properly introduced.
+如果不先问侯我的话, 我不回答任何问题
+
+4
+00:01:12,415 --> 00:01:15,249
+You will answer now.
+你现在就要回答
+
+5
+00:01:17,419 --> 00:01:35,887
+Very well. You are standing in the airlock to this spacecraft.
+Unless you answer my questions within ten seconds, I will take the atmospheric pressure around you down to zero.
+很好, 你正站在飞船的减压舱
+如果你不回答我的问题, 在10秒钟之内我就将你那里的空气压力降到0
+
+6
+00:01:36,212 --> 00:01:38,308
+But... but if you do that my body will explode!
+如果那样的话我的身体会爆掉的
+
+7
+00:01:40,430 --> 00:01:47,816
+One... two... three...
+一．．．二．．．三．．．
+
+8
+00:01:48,041 --> 00:01:52,391
+Oh alright! Alright! But I don't think much of your hospitality!
+好吧, 好吧！但我认为你实在不怎么好客
+
+9
+00:01:54,897 --> 00:01:57,959
+Identify yourself.
+亮明你的身份
+
+10
+00:01:58,210 --> 00:02:04,074
+Me? I... I'm a scientist. I've come to talk with you.
+我？ 我．．．我是一个科学家．我是在找你们谈话的
+
+11
+00:02:04,482 --> 00:02:05,191
+To help you.
+来帮助你们
+
+12
+00:02:05,593 --> 00:02:07,632
+A scientist?
+一个科学家？
+
+13
+00:02:08,346 --> 00:02:11,066
+Yes, yes you could call me that.
+是, 是的你可以这么称呼我
+
+14
+00:02:11,407 --> 00:02:14,288
+You do not look like a scientist.
+你看起来并不像一个科学家
+
+15
+00:02:14,605 --> 00:02:15,959
+Well looks aren't everything you know!
+哦, 看来你并不是什么都懂
+
+16
+00:02:16,544 --> 00:02:23,511
+You look more like a scavenger. We killed him.
+你看起来像是一个流浪汉, 我们刚杀死了一个
+
+17
+00:02:23,847 --> 00:02:27,850
+Well if you kill me, you'll ruin any chance you may have of escape.
+如果你们杀死我, 你就毁掉了逃走的机会了
+
+18
+00:02:28,188 --> 00:02:31,411
+Do you think he can help us?
+你觉得他可能帮助我们吗？
+
+19
+00:02:32,090 --> 00:02:38,913
+He cannot afford to lie. Allow him to enter.
+他不敢撒谎．让他进来
+
+20
+00:02:40,936 --> 00:02:43,132
+Ah, thank you very much, that's very civil of you.
+啊, 非常感谢, 这样就有礼貌多了
+
+21
+00:02:43,295 --> 00:02:44,254
+Oh, my word!
+
+
+22
+00:02:44,437 --> 00:02:46,245
+You claim to be able to help us.
+你宣称说能够帮助我们
+
+23
+00:02:50,125 --> 00:02:57,195
+No... I am sure I can help you. On certain conditions.
+不．．．我确信我能帮助你们, 在某种条件
+
+24
+00:02:57,375 --> 00:03:02,832
+You are our prisoner. It is we who set conditions.
+你是我们的囚犯, 由我们定条件
+
+25
+00:03:05,707 --> 00:03:10,807
+On the contrary, it is you who are the prisoner, and I can help you!
+恰恰相反, 你们才是囚犯．我能帮助你们
+
+26
+00:03:11,308 --> 00:03:24,468
+Not on your terms. Bring in the girl.
+Now we will have two hostages.
+不是按你的条件．带那个女孩儿过来．
+现在我们有两个人质了
+
+27
+00:03:24,681 --> 00:03:32,386
+Well what good will that do? You are buried alive in the heart of this glacier.
+Time is desperately short! You've got no time to bargain over hostages.
+你这么做有什么好处? 你们被困在冰山的中间, 快被活埋了
+已经迫在眉睫了, 你没有时间讨价还价
+
+28
+00:03:32,588 --> 00:03:44,070
+Inside our spaceship, we are safe.
+And with you here, your base will dare not use their secret weapon against us.
+在我们飞船里面, 我们是安全的
+加上你也在这里, 你们的基地不敢使用他们的神秘武器来对付我们
+
+29
+00:03:44,357 --> 00:03:49,074
+Weapon? But, but the ioniser is not a weapon!
+武器？ 但是, 那个离子器不是武器！
+
+30
+00:03:49,307 --> 00:03:50,617
+You know how it works?
+你知道他是怎么工作的？
+
+31
+00:03:50,784 --> 00:03:54,490
+Yes of course! It'll melt the ice and set you free!
+当然知道, 那是用来融化冰川的, 只会把你们放出去
+
+32
+00:03:55,576 --> 00:03:56,889
+You're hurting me!
+你伤到我了
+
+33
+00:03:57,061 --> 00:03:58,030
+Victoria!
+
+34
+00:03:58,224 --> 00:03:59,108
+Oh Doctor!
+喔, 博士
+
+35
+00:03:59,361 --> 00:04:01,005
+Victoria.
+
+36
+00:04:01,843 --> 00:04:04,457
+Oh dear but they've got you too.
+哦, 天啊他们把你也抓住了
+
+37
+00:04:04,648 --> 00:04:06,880
+It's alright. We are not beaten yet.
+没事的, 我们还没被打倒
+
+38
+00:04:07,203 --> 00:04:08,370
+Jamie...
+Jamie 呢？
+
+39
+00:04:08,661 --> 00:04:09,662
+He's alive!
+他还活着
+
+40
+00:04:09,962 --> 00:04:16,052
+If what you say is true, why have you not freed us before?
+如果你说的是真的, 为什么之前没有给我们自由？
+
+41
+00:04:17,648 --> 00:04:20,219
+Well, there are difficulties.
+哦, 这里有些困难
+
+42
+00:04:20,437 --> 00:04:21,722
+What are they?
+什么困难
+
+43
+00:04:22,011 --> 00:04:23,507
+Well...
+这个．．．
+
+44
+00:04:24,234 --> 00:04:26,282
+You will tell us.
+你得告诉我们
+
+45
+00:05:04,282 --> 00:05:10,613
+...Well it's not... it's not much farther now, lad.
+．．．这个, 不是．．．不太太远了, 小子
+
+46
+00:05:10,821 --> 00:05:12,018
+How far are we?
+还有多远
+
+47
+00:05:12,257 --> 00:05:16,473
+Well, we're at the edge of the woods fringing the camp perimeter.
+我们在林子边缘了, 前面就是基地的营地了
+
+48
+00:05:16,895 --> 00:05:18,070
+Can we not rest a while?
+我们不能歇一下吗？
+
+49
+00:05:18,293 --> 00:05:22,111
+I think so - but a couple of minutes, no more.
+我觉得可以 - 不过就几分钟, 不能太长
+
+50
+00:05:22,437 --> 00:05:24,424
+Aye, you're right. The Doctor needs help right away.
+啊, 你说得对, 博士现在正需要帮助呢
+
+51
+00:05:24,801 --> 00:05:26,562
+I wasn't thinking only of the Doctor.
+我考虑的不仅仅是博士
+
+52
+00:05:29,031 --> 00:05:30,602
+Wolves!
+有狼！
+
+53
+00:05:30,823 --> 00:05:36,546
+Yes. Here we're more or less safe, but the last stretch is open country.
+是的, 但我们这里还算是安全的, 但(fixme)
+
+54
+00:05:37,680 --> 00:05:39,495
+I don't help much, do I?
+恐怕我帮不上忙了, 是吧
+
+55
+00:05:39,724 --> 00:05:44,686
+Well I'm not exactly a man of action myself. Storr should be here now, I miss him.
+我自己也不是个擅长动手的人, Storr 在这里就好了, 我想念他
+
+56
+00:05:44,891 --> 00:05:45,745
+Have you no weapons?
+你没有武器吗？
+
+57
+00:05:45,942 --> 00:05:48,323
+Arden's tranquiliser gun, that's all.
+Arden 的麻醉枪, 只有这个
+
+58
+00:05:48,623 --> 00:05:49,663
+Aye, it's not much.
+啊, 作用不大
+
+59
+00:05:49,962 --> 00:05:53,607
+Storr was a huntsman. An expert with a bow and arrow.
+Storr 以前是个猎人, 很善于用弓箭
+
+60
+00:05:53,814 --> 00:05:54,944
+Uhh, it's no good wishing.
+唉, 说这个也没用了 (fixme)
+
+61
+00:05:55,148 --> 00:05:56,970
+Well, I'd better carry on.
+我们还是继续吧
+
+62
+00:05:57,725 --> 00:05:59,245
+Aye, lead on McDuff.
+是啊, 带路吧 fixme
+
+63
+00:06:06,508 --> 00:06:07,827
+Keep very still.
+千万别动
+
+64
+00:06:19,077 --> 00:06:22,281
+So, you are afraid of us?
+看来, 你害怕我们？
+
+65
+00:06:22,524 --> 00:06:29,068
+No, but of your ship. If the ioniser sets off a nuclear holocaust, it will all have be in vain.
+不, 怕的是你的船．如果离子器不小心引发了核反应, 一切都将消于无形了
+
+66
+00:06:30,354 --> 00:06:36,762
+That is good. In that case you dare not act.
+这很好, 这种情况下你也不敢乱来
+
+67
+00:06:37,546 --> 00:06:43,226
+But if you thought there would be no explosion?
+但如果你觉得不会发生爆炸呢？
+
+68
+00:06:44,903 --> 00:06:46,319
+Well?
+什么？
+
+69
+00:06:47,002 --> 00:06:49,490
+Well in that case we'd have... we'd have no choice.
+在那种情况下我们就．．．没有别的选择了
+
+70
+00:06:49,808 --> 00:06:52,989
+You would use the ioniser.
+你将会使用你的离子器
+
+71
+00:06:53,188 --> 00:06:55,457
+But it wouldn't harm the ship, it would release it!
+但它不会伤害到飞船的, 反而会将它释放出来
+
+72
+00:06:55,661 --> 00:06:57,631
+There would be floods.
+这里会被水淹没
+
+73
+00:06:57,959 --> 00:07:01,817
+Our engines would be useless.
+我们引擎就会失效
+
+74
+00:07:02,140 --> 00:07:05,310
+We would be at your mercy.
+我们就只能求你们怜悯了
+
+75
+00:07:06,240 --> 00:07:08,352
+Why did you come here?
+你为什么来这里？
+
+76
+00:07:08,620 --> 00:07:11,575
+To spy? To betray us?
+做间谍？背叛我们？
+
+77
+00:07:12,340 --> 00:07:16,230
+But you could not hope to escape to tell the tale.
+但你不可能再活着逃离这里, 去讲述你的故事了
+
+78
+00:07:16,419 --> 00:07:17,795
+Oh, I always live in hope.
+和, 我永远都活在希望里
+
+79
+00:07:20,149 --> 00:07:23,903
+You have some kind of communicator.
+你带着某种通讯设备
+
+80
+00:07:24,522 --> 00:07:27,889
+You do realise, don't you, that after a certain point, my base will...
+看来你发现了, 是吧．过了一定的时间点, 我的基地就会．．．
+
+81
+00:07:28,165 --> 00:07:31,115
+...have to activate the ioniser regardless of the consequences?
+．．．激活离子器, 不管后果是什么
+
+82
+00:07:31,292 --> 00:07:35,007
+And destroy you and themselves as well?
+不惜杀死你, 杀死他们自己？
+
+83
+00:07:35,347 --> 00:07:36,916
+Is that what would happen?
+这可能发生吗？
+
+84
+00:07:37,539 --> 00:07:39,553
+Give it to me.
+把它给我
+
+85
+00:07:42,281 --> 00:07:46,180
+Ah, they would never know.
+啊, 他们永远也不会知道
+
+86
+00:07:47,776 --> 00:07:50,645
+They would never know.
+他们永远也不会知道
+
+87
+00:07:52,874 --> 00:07:58,430
+The Doctor. You heard what he said.
+博士说的, 你都听到了
+
+88
+00:07:59,426 --> 00:08:07,070
+Regardless of the consequences. Yes. Yes, he's telling us to take the risk.
+不计后果．是的．他在跟我们说要冒这个风险
+
+89
+00:08:07,469 --> 00:08:11,681
+But we can't give the computer the information it needs. It can't instruct us.
+但我们还不能给电脑足够信息, 它没法分析出指令
+
+90
+00:08:11,866 --> 00:08:12,972
+Can the ioniser hold?
+离子器能稳住吗？
+
+91
+00:08:16,183 --> 00:08:22,662
+Present power it's... steadily losing ground. But we dare not increase!
+当前的能量．．．正在慢慢地流失．我们不敢加大功率
+
+92
+00:08:23,600 --> 00:08:43,497
+Summary of orders to all World loniser Stations: The new equation originated from Brittanicus Base
+will be adopted to conditions prevailing in each sector.
+All bases will prepare to use full ioniser attack on the ice in concerted action.
+Zero hour in six hours exactly. Report readiness one hour.
+发往全球各离子站的指令概述：要求在各区域普遍采用大不列颠基地的新方程式．
+所有基地需要按预定程序对冰川施行最大功率的离子器攻击．
+在六个小时内不间断执行(fixme)．请在一个小时内报告准备情况
+
+93
+00:08:46,745 --> 00:08:47,936
+We can't do it.
+我们没法执行这个
+
+94
+00:08:48,161 --> 00:08:50,676
+But if we don't the whole plan must fail.
+如果我们不执行, 整个计划就会失败
+
+95
+00:08:50,854 --> 00:09:00,888
+But if we act and there is an explosion... apart from destroying this base, the contamination could easily...
+但如果我们执行, 就有可能引发爆炸．．．不仅仅是这个基地被摧毁, 整个围困计划就可能轻易地．．．
+
+96
+00:09:01,088 --> 00:09:03,712
+We must state our problem to World Control, now.
+我们必须向世界控制中心陈述我们的情况, 现在就要
+
+97
+00:09:04,065 --> 00:09:11,346
+No wait! We'll give our computer all the information we have.
+等一下！我们要把我们拿到的所有情况提交到电脑
+
+98
+00:09:11,512 --> 00:09:12,494
+It isn't enough!
+那还是不够
+
+99
+00:09:12,693 --> 00:09:15,553
+It may be. Er, it may be.
+只是可能, 哦, 只是可能
+
+100
+00:09:15,796 --> 00:09:17,236
+I know what the computer will say.
+我知道电脑会怎么说
+
+101
+00:09:17,403 --> 00:09:19,737
+No no no no no. Let the computer speak for itself.
+不不不, 让电脑自己说
+
+102
+00:09:19,857 --> 00:09:21,524
+There's only one answer it can give!
+它只可能给出一种答案
+
+103
+00:09:21,640 --> 00:09:23,282
+Come on, quickly. Put the situation to the computer.
+别说了, 快吧．把情况报给电脑
+
+104
+00:09:24,901 --> 00:09:26,836
+Do as you're told!
+你没有听到吗！
+
+105
+00:09:29,682 --> 00:09:30,934
+He's sizing us up.
+它在打量我们
+
+106
+00:09:31,091 --> 00:09:32,224
+Can you not run for it?
+你就不能跑吗？
+
+107
+00:09:32,366 --> 00:09:33,888
+I don't intend to leave you here as...
+我可没打算把你留在这里．．．
+
+108
+00:09:34,047 --> 00:09:36,951
+Well the gun! Use the gun!
+枪！用枪！
+
+109
+00:09:37,151 --> 00:09:40,536
+I could hit the side of the mountain. I'm a scientist, not a gladiator.
+我可能打中的是山崖, 我是一个科学家, 不是一个角斗士
+
+110
+00:09:40,704 --> 00:09:42,019
+Well at least you can try!
+至少要得试一试！
+
+111
+00:09:42,260 --> 00:09:47,129
+Alright. Cross your fingers. Here goes.
+好吧, 你祈祷吧．开始了
+
+112
+00:09:49,802 --> 00:09:55,715
+Quick get me out of here, I'll tackle him! Get a hold of yourself man! Quick, he's nearly on us!
+快把我从这里弄出来, 我来对付它！控制住自己, 朋友！快啊, 它过来了
+
+113
+00:09:57,258 --> 00:10:07,175
+Set up all circuits to new equation. And wait. Further information essential before decision can be taken.
+Prepare to notify World Control in event of emergency.
+已按新方程式设定所有线路, 等待执行．在决策之前任何重要信息可继续提交．
+请做好准备, 一有紧急情况就通知世界控制中心
+
+114
+00:10:11,535 --> 00:10:16,971
+Of course, the computer's right. We must be prepared. And we must wait.
+当然．电脑是正确的．我们必须做好准备, 我也必须等待
+
+115
+00:10:18,297 --> 00:10:20,561
+It is the answer I expected.
+这正是我期望的答案
+
+116
+00:10:24,932 --> 00:10:27,134
+But you don't realise why it made this choice, do you?
+但你并不清楚它为什么做出这个选择, 是吧？
+
+117
+00:10:28,503 --> 00:10:31,199
+Because it is the most logical answer in the circumstances.
+因为这是当前情况下最符合逻辑的答案
+
+118
+00:10:31,963 --> 00:10:37,379
+Of course. And because it's so logical, it can't gamble, it can't take risks.
+当然．正因为它是最符合逻辑的, 它不可能赌博, 不可能冒风险
+
+119
+00:10:37,629 --> 00:10:41,696
+That is its function. To be totally impartial. To serve the community.
+那正是它的功能．做到完全公正, 服务于社区
+
+120
+00:10:41,877 --> 00:10:48,401
+Exactly. And one more aim in its life: to survive.
+正是如此．它的生命就一个目的：生存
+
+121
+00:10:52,290 --> 00:10:54,446
+It has given us its decision.
+它已经给了我们它的决策
+
+122
+00:10:54,654 --> 00:11:00,678
+It is no decision. The computer is playing for time.
+那不是一个决策, 电脑只是在拖延时间
+
+123
+00:11:03,204 --> 00:11:18,448
+Now listen! All of you! We risk destruction either by a radioactive explosion, or, by the slow grind of the glaciers.
+都听着, 你们所有人！我们现在要么会被放射性的爆炸立刻毁掉,要么被冰川慢慢碾压
+
+124
+00:11:19,563 --> 00:11:29,305
+Now there you see that the ice has advanced 100 metres today. Now either way...
+你们可以看到冰山今天已经前进了100米, 所以要么．．．
+
+125
+00:11:29,504 --> 00:11:31,525
+The computer is destroyed.
+电脑已经坏掉了
+
+126
+00:11:33,510 --> 00:11:39,830
+So that, by demanding a decision, we are asking it to commit suicide.
+这种情况下, 我们要求电脑给出一个决策, 就等于要求它自杀
+
+127
+00:11:40,056 --> 00:11:41,356
+It can't do that!
+它做不到！
+
+128
+00:11:43,254 --> 00:11:44,826
+Then what is the answer?
+那答案是什么？
+
+129
+00:11:46,629 --> 00:11:50,152
+We can escape. There's still time to evacuate.
+我们可以逃走, 现在撤离还来得及
+
+130
+00:11:50,329 --> 00:11:55,291
+Perhaps you could face world opinionata. I couldn't.
+也许你可以面对全世界的指责 - 我不行
+
+131
+00:11:56,536 --> 00:12:00,247
+You must notify World Control eventually. The other bases will be waiting.
+最终你还是得通知世界控制中心, 其它的基地还在等着呢
+
+132
+00:12:00,396 --> 00:12:10,481
+I will decide exactly when. For now we do as the computer says.
+Prepare the ioniser, and wait. Now, complete data check please, Miss Garrett.
+正是那时它会做出决策的．现阶段我们按电脑说的做．
+准备好离子器, 然后等着．请完成数据检查, Gattett 小姐
+
+133
+00:12:15,724 --> 00:12:28,100
+Miss Curtis, report to me the moment mark four reaches one-five-oh-oh. One-three-seven-nine, now.
+Curtis 小姐, 第四个读数到达1500的时候请向我报告．现在是1379
+
+134
+00:12:33,047 --> 00:12:41,747
+Well, what do you feel about all this Walters? Bet you didn't think you'd have ice monsters
+and things like that to deal with when you volunteered for the job, did you?
+你对这一切怎么想, Walters？ 你没有想到要对付这些冰雪怪物吧
+诸如此类东西 - 在你报名参加这项工作的时候, 是不？
+
+135
+00:12:44,563 --> 00:12:46,110
+Well, did you?
+是吗？
+
+136
+00:12:46,757 --> 00:12:50,460
+I didn't volunteer.
+我没有报名
+
+137
+00:12:50,947 --> 00:12:54,726
+Ah, yes, well... good man, anyway.
+啊, 是的, 很好．．．不错, 不管怎么说 
+
+138
+00:12:55,579 --> 00:12:57,023
+Penley! Penley, are you alright!
+Penley! Penley, 你没事吧
+
+139
+00:12:57,322 --> 00:12:58,235
+I'll get up...
+我得起来
+
+140
+00:12:58,450 --> 00:12:59,959
+You sure you're alright?
+你确定你没事吧
+
+141
+00:13:00,680 --> 00:13:02,558
+Well he's clawed me, that's all.
+它抓伤了我, 没别的
+
+142
+00:13:02,731 --> 00:13:05,272
+Now we better get away quick. He won't be any friendlier when he wakes up!
+我们最好赶紧走．它要是醒过来就不可能对我们友好了
+
+143
+00:13:10,222 --> 00:13:15,907
+Close engine room. Well?
+关闭引擎室． 怎样？
+
+144
+00:13:16,419 --> 00:13:22,086
+It's an ion reactor, isn't it? Hmm. It could be dangerous, but it wouldn't necessarily explode.
+这是一个离子反应器, 对吧？它是有点危险, 不过不会轻易就爆炸
+
+145
+00:13:22,296 --> 00:13:26,693
+True. But your friends do not know that.
+的确, 但你的朋友们不知道这个
+
+146
+00:13:27,063 --> 00:13:29,046
+Now why don't you let us help you?
+那为什么不让我们来帮你们？
+
+147
+00:13:30,675 --> 00:13:34,823
+We can get what we want without your help.
+没有你们的帮助, 我们也能得到我们需要的
+
+148
+00:13:35,925 --> 00:13:39,257
+But, but what else do you need, apart from escaping from the ice?
+但你们还需要什么呢？不就是从冰上逃走？
+
+149
+00:13:40,975 --> 00:13:47,707
+We have had enough of your questions. Now you will give me answers.
+我们已经受够了你这些问题．现在你得给我们些答案了
+
+150
+00:13:47,926 --> 00:13:49,904
+Well, I've told you all I can about the ioniser.
+在离子器方面, 我能告诉你们的都已经告诉你们了
+
+151
+00:13:50,105 --> 00:13:56,911
+That is only a toy. The base - what is its power source?
+那只是一个玩具．关于基地 - 它的能量来源是什么？
+
+152
+00:13:57,086 --> 00:13:58,646
+Why on earth do you want to know that?
+你为什么想知道这个？
+
+153
+00:13:58,830 --> 00:14:00,730
+Answer.
+回答
+
+154
+00:14:00,928 --> 00:14:03,391
+Oh, so that's what you need is it?
+哦！那正是你们需要的东西, 对不？
+
+155
+00:14:03,564 --> 00:14:05,578
+Answer the Commander's questions.
+回答指挥官的答案
+
+156
+00:14:05,721 --> 00:14:11,573
+Fuel! Fuel for your reactor! And suppose I don't tell you?
+燃料！你们的反应器需要燃料！假设我不告诉你呢？
+
+157
+00:14:11,798 --> 00:14:15,354
+The girl dies, now.
+这个女孩儿就得死, 现在
+
+158
+00:14:16,441 --> 00:14:19,702
+Doctor, don't tell them!
+博士, 别告诉他们
+
+159
+00:14:24,404 --> 00:14:27,248
+Yes, you'll find what you need at the base.
+好吧, 你可以在基地找到你们需要的东西
+
+160
+00:14:28,856 --> 00:14:30,549
+You shouldn't have!
+你不应该的
+
+161
+00:14:30,745 --> 00:14:34,652
+But you, you won't find Leader Clent easy to persuade. He's a very obstinate man!
+不过, 你们会发现组长 Clent 不太容易被说服．他是一个倔强的人
+
+162
+00:14:34,818 --> 00:14:38,286
+He will listen to our sonic cannon.
+他会听命于我们的音速炮的
+
+163
+00:14:38,602 --> 00:14:41,940
+We must act quickly, Commander.
+我们必须感觉行动, 指挥官
+
+164
+00:14:42,148 --> 00:14:52,077
+Isbur and Rintan, wait for me at the entrance to the cave.
+Zondal, you will man the sonic gun.
+Isbur 和 Rintan, 在洞窟门口等这我．
+Zondal, 你带上音速枪
+
+165
+00:14:53,769 --> 00:14:59,087
+You won't succeed! You can't be so inhuman.
+你们不会成功的, 你们不能这么没有人性
+
+166
+00:15:01,276 --> 00:15:05,209
+We only fight to win.
+我们坚决战斗, 争取胜利
+
+167
+00:15:16,200 --> 00:15:18,384
+lon density reading at 1000?
+离子浓度到了1000了吗
+
+168
+00:15:18,653 --> 00:15:19,488
+74 _.
+ 746
+
+169
+00:15:19,697 --> 00:15:20,597
+2000?
+
+170
+00:15:21,155 --> 00:15:22,164
+62 _.
+
+171
+00:15:22,433 --> 00:15:23,481
+3000?
+
+172
+00:15:23,655 --> 00:15:25,198
+43.3 _.
+
+173
+00:15:25,376 --> 00:15:26,721
+4000?
+
+174
+00:15:26,941 --> 00:15:28,033
+39 _.
+
+175
+00:15:28,360 --> 00:15:29,373
+5000?
+
+176
+00:15:29,544 --> 00:15:30,438
+35 _.
+
+177
+00:15:39,726 --> 00:15:41,455
+Reception check-point to Leader Clent.
+前台呼叫组长 Clent
+
+178
+00:15:41,603 --> 00:15:42,421
+Yes, what is it?
+我就是, 什么事？
+
+179
+00:15:42,555 --> 00:15:43,345
+Two new arrivals, Sir.
+来了两个人, 先生
+
+180
+00:15:43,482 --> 00:15:44,705
+Well I don't wish to be disturbed by trifles!
+我可不希望被这些琐事打扰
+
+181
+00:15:44,958 --> 00:15:48,722
+These aren't scavengers Sir. It's the lad that came with the Doctor and Scientist Penley.
+他们不是流浪汉, 先生．是跟着博士来的那个小伙子, 还有科学家 Penley 
+
+182
+00:15:50,480 --> 00:15:52,181
+What?
+什么
+
+183
+00:15:52,481 --> 00:15:54,872
+Clent, I must talk to you. I have news of the Doctor.
+Clent 我必须跟你谈谈, 我有博士的消息
+
+184
+00:15:56,267 --> 00:15:57,104
+Walters!
+你去!
+
+185
+00:15:59,334 --> 00:16:01,388
+Bring the arrivals to me at once.
+把来的两个人立刻带过来
+
+186
+00:16:01,658 --> 00:16:02,217
+Sir.
+好的
+
+187
+00:16:06,433 --> 00:16:08,357
+Density compensator setting, please.
+请给出浓度补偿器设置
+
+188
+00:16:08,633 --> 00:16:17,887
+Density compensator setting: zero-three-nine. Seven-seven-seven. Zero-one. Sequence ends.
+浓度补偿器设置：039, 777, 01, 播报完毕
+
+189
+00:16:18,261 --> 00:16:24,231
+Take all systems up to this level. Everything seems to be proceeding satisfactorily.
+将所有系统调整到这个水平．一切好像进行得还不错
+
+190
+00:16:24,834 --> 00:16:25,563
+Is it?
+是吗？
+
+191
+00:16:26,210 --> 00:16:28,087
+What's wrong?
+怎么了？
+
+192
+00:16:30,211 --> 00:16:31,438
+Penley's come back.
+Penley 回来了
+
+193
+00:16:32,413 --> 00:16:33,411
+Of his own choice?
+他自愿回来的？
+
+194
+00:16:35,262 --> 00:16:36,332
+Apparently.
+看来是
+
+195
+00:16:36,619 --> 00:16:37,715
+Why?
+为什么？
+
+196
+00:16:38,388 --> 00:16:42,816
+We shall soon see. If he tries to start any trouble...
+我们一会儿就明白了．如果他打算捣什么乱．．．
+
+197
+00:16:43,184 --> 00:16:45,753
+Well, he can't be allowed to interfere with the program. Not at this stage.
+我们不可能让他干涉我们的程序, 都到了现在这个地步了
+
+198
+00:16:46,028 --> 00:16:58,430
+No. I no longer need to be tolerant with him. 'Cause he's no longer my equal - he's an outsider.
+不, 我不需要再忍受他了． 因为他不再是个对手(fixme) - 他是个外人
+
+199
+00:16:59,985 --> 00:17:00,767
+Come on then.
+过来吧
+
+200
+00:17:01,565 --> 00:17:02,479
+Put him over here.
+把他放在这里
+
+201
+00:17:02,637 --> 00:17:03,328
+Take it easy.
+轻一点
+
+202
+00:17:04,539 --> 00:17:05,574
+Rest on that Jamie.
+躺在这上面 Jamie
+
+203
+00:17:05,808 --> 00:17:06,410
+Thank you.
+谢谢你
+
+204
+00:17:06,669 --> 00:17:07,436
+Alright there, lad?
+还好吧, 小伙子
+
+205
+00:17:07,767 --> 00:17:08,350
+Thank you.
+谢谢你
+
+206
+00:17:08,532 --> 00:17:10,807
+No stay, Walters. You may be needed.
+等一下, Walters, 可能还需要你
+
+207
+00:17:13,241 --> 00:17:14,720
+I'm not liable to be violent.
+我不打算大闹一场
+
+208
+00:17:14,881 --> 00:17:15,711
+What do you want?
+你想干什么？
+
+209
+00:17:15,859 --> 00:17:18,241
+Well I brought this lad. He's in desperate need of medical supervision.
+我带这个小伙子过来．他迫切需要医护
+
+210
+00:17:18,575 --> 00:17:20,183
+We are not a first-aid center.
+我们这里不是急救中心
+
+211
+00:17:20,360 --> 00:17:21,427
+He's paralysed.
+他瘫痪了
+
+212
+00:17:23,166 --> 00:17:24,142
+How did it happen?
+怎么造成的？
+
+213
+00:17:24,410 --> 00:17:26,034
+He was shot down by the warriors' guns.
+他被那些寒冰勇士的枪射中了
+
+214
+00:17:27,718 --> 00:17:32,293
+Well thank heavens. Their weapons don't deal fatal blows.
+啊谢天谢地, 他们的武器不是致命的
+
+215
+00:17:32,407 --> 00:17:33,829
+Well they killed Arden.
+但他们杀死了 Arden
+
+216
+00:17:34,801 --> 00:17:36,767
+Look you've got to help.
+你必须得帮忙了
+
+217
+00:17:37,010 --> 00:17:41,935
+Er, yes of course boy. Um, Walters will take you to the Medi-Control Centre.
+呃, 当然是, 小伙子．呜, Walters 会把你带到医疗中心去
+
+218
+00:17:42,091 --> 00:17:47,812
+No I didn't mean me, I meant Victoria and the Doctor!
+Look, they're inside the alien spaceship! You've got to help them.
+不, 我不是说我, 我是说 Victoria 和博士
+你看, 他们在外星飞船里, 你必须得帮助他们
+
+219
+00:17:48,061 --> 00:17:49,058
+That isn't possible.
+那是不可能的
+
+220
+00:17:49,245 --> 00:17:50,735
+Well why not? You've got to do something!
+为什么不？你必须得做点什么
+
+221
+00:17:50,912 --> 00:17:56,100
+No, we lost contact with the Doctor over an hour ago. I'm afraid there's no hope.
+不, 我们在一个小时前就跟博士失去联系了, 恐怕没有希望了
+
+222
+00:17:56,664 --> 00:18:06,430
+You mean hope happens to be inconvenient! You've got to stick to your precious schedule, is that it?
+You've got to wave your splendid ioniser about to prove that it works and never mind about human beings!
+你说的没期望其实是怕麻烦！你就只考虑要紧贴你宝贵的进度计划, 是不是？
+你就只想着到处挥舞你的离子器, 以证明它完全可行, 从来不考虑人的死活！
+
+223
+00:18:06,631 --> 00:18:08,008
+The computer has decided!
+电脑已经做出决策了！
+
+224
+00:18:08,173 --> 00:18:13,271
+The compu... Override it! Let the ioniser wait. The computer isn't gonna fall apart because it has to mark time for an hour!
+电脑．．．取消它! 离子器可以让它歇着．电脑又不会散架, 我们不是要再等一个小时吗？ 
+
+
+225
+00:18:13,420 --> 00:18:16,698
+We are marking time. We're not using the ioniser under instructions from the computer itself.
+我们是在待命． 在电脑的指令下, 我们现在并没有开启离子器
+
+226
+00:18:16,924 --> 00:18:17,595
+Why?
+为什么
+
+227
+00:18:17,766 --> 00:18:22,569
+The spaceship may contain a reactor system that could wipe us off this island if we cause it to explode.
+那个飞船的反应器可能会因此而爆炸, 从而把我们从这个岛上都给抹去
+
+228
+00:18:22,752 --> 00:18:23,948
+So what are you gonna do?
+那你们打算怎么办？
+
+229
+00:18:24,145 --> 00:18:26,498
+We obey the computer. We will wait.
+我们听电脑的, 现在就待命
+
+230
+00:18:27,172 --> 00:18:32,690
+Wait? But that's suicide! The glacier's practically on top of us!
+待命？这简直是自杀啊！冰山可切切实实在我们头上！
+
+231
+00:18:37,024 --> 00:18:38,261
+We still have time in hand.
+我们手头还有时间
+
+232
+00:18:38,432 --> 00:18:39,637
+Yes, but if the Doctor, if he's...
+是, 但是如果博士, 如果他．．．
+
+233
+00:18:39,788 --> 00:18:40,276
+No.
+不
+
+234
+00:18:40,426 --> 00:18:42,637
+If the Doctor doesn't contact you, what hope is there?
+如果博士不再联系你们, 还有什么希望？
+
+235
+00:18:42,802 --> 00:18:43,437
+There is hope.
+还是有希望
+
+236
+00:18:43,584 --> 00:18:48,136
+Oh don't be a fool, Clent! You're not a man, you're just a machine's slave.
+哦别犯傻了, Clent! 你不是一个人, 你就是一个电脑奴隶
+
+237
+00:18:51,052 --> 00:19:17,951
+Don't you spit your stupid liberty in my face, Penley.
+We know your kind of freedom - freedom to run away - from responsibilities, from service, from moral judgement.
+I may be a physical coward, Penley, you're a coward in the mind.
+别我在面前喷你那些愚蠢的自由, Penley
+我们知道你那种自由 - 逃走的自由, 免于责任的自由, 免于义务的自由, 免于道德判断的自由
+我可能在行动上有些怯懦, Penley, 你在思想上是个懦夫
+
+238
+00:19:18,192 --> 00:19:25,776
+Well at least I have a mind and not a _ junction box. I would act, but you daren't.
+And so you're going to be destroyed, along with your mechanical master.
+至少我还有思想, 而不是个意识接线盒．我会行动, 但你不敢
+所以你会被毁灭, 带着你的机器主人一起
+
+239
+00:19:25,976 --> 00:19:27,185
+Look, you've got to help us man.
+嘿, 你必须得帮帮我们
+
+240
+00:19:27,338 --> 00:19:28,222
+Jamie, I don't think you're...
+Jamie, 我并不认为你．．．
+
+241
+00:19:28,382 --> 00:19:29,378
+Jamie, take it easy.
+Jamie, 冷静点
+
+242
+00:19:39,296 --> 00:19:41,268
+Ahh! Now, get them out of here!
+啊！ 现在把他们给我赶出去！
+
+243
+00:19:42,389 --> 00:19:48,639
+You'd better take them to the Medi-Control Centre. Get someone to look at the boy.
+Make sure there's a guard for when they come to.
+你最好带他们去医护中心．找个人看一下这个孩子．
+确保他们醒来的时候有一个保安在旁边．
+
+244
+00:19:48,993 --> 00:19:53,874
+Right. Get two guards to control.
+对．叫两个保安到控制室来
+
+245
+00:19:56,719 --> 00:20:01,553
+Penley - he's nothing!
+Penley - 他什么也不是！
+
+246
+00:20:03,946 --> 00:20:10,575
+Our trust is in the great computer. With its aid, we cannot fail.
+我们只信任伟大的电脑．有它的帮助, 我们不可能失败
+
+247
+00:20:14,893 --> 00:20:18,431
+They are now outside their base.
+他们现在在基地外面了
+
+248
+00:20:19,298 --> 00:20:26,402
+Stand by, gun control. Take target readings.
+准备, 射击手．接收目标位置参数
+
+249
+00:20:36,471 --> 00:20:37,867
+Ready.
+就绪
+
+250
+00:20:39,679 --> 00:20:46,622
+Vertical bearing: minus point nine.
+纵轴：-0.9
+
+251
+00:20:47,033 --> 00:20:52,324
+Lateral bearing: three-five.
+侧轴: 35
+
+252
+00:20:56,514 --> 00:21:03,973
+Prepare to charge to frequency three-five.
+准备提升到频率35
+
+253
+00:21:04,839 --> 00:21:12,184
+Frequency three-five.
+频率35
+
+254
+00:21:27,521 --> 00:21:29,436
+It's all right Victoria, don't cry.
+没事的 Victoria, 不要哭
+
+255
+00:21:29,745 --> 00:21:32,589
+It's alright. There's nothing to be afraid of.
+没事的, 没有什么可害怕的
+
+256
+00:21:33,085 --> 00:21:45,249
+But if Varga Rintan is triumphant, then you will have cause to cry.
+不过如果 Varga 和 Rintan 得胜的话, 你们就有得哭了
+
+257
+00:21:45,484 --> 00:21:48,364
+Come along, Victoria, blow. Blow.
+来吧, Victoria, 轰一下, 轰
+
+258
+00:21:48,786 --> 00:21:52,056
+That's better, that's better.
+这就好多了, 好多了
+
+259
+00:21:52,365 --> 00:21:54,881
+We can try and escape with this.
+我们得试试这个, 逃走就靠它了
+
+260
+00:21:55,145 --> 00:21:55,928
+What is it?
+这是什么东西？
+
+261
+00:21:56,206 --> 00:21:58,817
+Ammonium sulphide.
+硫化氨
+
+262
+00:21:59,551 --> 00:22:02,298
+Ammonium sulphide? It's only a stink bomb.
+硫化氨? 只不过是一个臭味弹
+
+263
+00:22:02,567 --> 00:22:07,562
+Yes, you've had the benefits of a classical education. Yes, it is what you'd call a stink bomb.
+是的, 你还是从传统教育获得了不少收益啊．是的, 这就是你说的臭味弹
+
+264
+00:22:07,908 --> 00:22:09,092
+What use is that?
+那有什么用？
+
+265
+00:22:09,307 --> 00:22:14,171
+You'd be surprised. Harmless to humans, but to aliens very possibly deadly!
+你会大吃一惊的．对人类是无害的, 但对于外星人来说可能就是致命的！
+
+266
+00:22:14,768 --> 00:22:19,247
+The gun is now ready, Commander.
+枪已经准备好了, 指挥官
+
+267
+00:22:19,679 --> 00:22:32,629
+Good Zondal. We will now contact the scientists.
+On my command you will fire once. Do you understand?
+很好 Zondal, 我们这就联系这些科学家
+我一声令下你们就发射, 明白了吗？
+
+268
+00:22:33,804 --> 00:22:36,833
+Yes, Commander.
+是的, 指挥官
+
+269
+00:22:37,112 --> 00:22:38,335
+Good.
+很好
+
+270
+00:22:38,776 --> 00:22:40,483
+Zondal! Zondal, look!
+Zondal! Zondal, 你看！
+
+271
+00:22:40,788 --> 00:22:41,728
+What is it?
+这是什么
+
+272
+00:22:41,947 --> 00:22:42,519
+Look!
+看啊
+
+273
+00:22:42,724 --> 00:22:45,145
+Do not try any tricks.
+别想耍花样
+
+274
+00:22:45,471 --> 00:22:48,321
+There's, there's water, seeping into the ship. Just there.
+这里, 这里有一些水, 渗到飞船里面来了, 就在那儿
+
+275
+00:22:48,653 --> 00:22:51,690
+Er, over in the corner there.
+呃, 就在那个角落
+
+276
+00:22:52,022 --> 00:22:57,436
+You tricked me. There is no water.
+你耍我, 根本就没有水
+
+277
+00:22:58,198 --> 00:23:04,199
+What is that? Let me have it. Give it to me at once.
+那是什么东西？ 把它给我, 马上把它给我
+
+278
+00:23:04,718 --> 00:23:08,569
+Zondal! Zondal fire!
+Zondal! Zondal 开枪！
+
+279
+00:23:09,437 --> 00:23:22,468
+Fire now! Zondal fire! Zondal fire! Fire now!
+马上开枪！Zondal 开枪！Zondal 开枪！马上开枪！
+

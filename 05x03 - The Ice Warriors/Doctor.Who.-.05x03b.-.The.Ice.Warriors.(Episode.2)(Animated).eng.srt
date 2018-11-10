@@ -1,0 +1,1135 @@
+1
+00:01:03,945 --> 00:01:04,796
+VICTORIA: Jamie!
+
+2
+00:01:17,233 --> 00:01:21,933
+CLENT: He took just forty five seconds to propose ionisation. No prior knowledge.
+
+3
+00:01:22,224 --> 00:01:24,503
+ARDEN: Well, it took us and the Academy of Scientists years.
+
+4
+00:01:25,165 --> 00:01:27,514
+GARRETT: The computer took three milliseconds.
+
+5
+00:01:27,734 --> 00:01:29,295
+ARDEN: Yes, well, we had to programme it first.
+
+6
+00:01:29,715 --> 00:01:35,025
+CLENT: Quite. Well, before I make a final decision, I want the computer's assessment on this Doctor.
+
+7
+00:01:35,323 --> 00:01:36,954
+GARRETT: We must be absolutely sure.
+
+8
+00:01:38,885 --> 00:01:41,505
+CLENT: State the work potential and community value of the Doctor.
+
+9
+00:01:42,858 --> 00:01:53,037
+COMPUTER: More information is necessary for a full evaluation. High IQ but undisciplined for our needs. Present evaluation, to be used on research projects, but could be obstructive in certain situations.
+
+10
+00:01:53,187 --> 00:01:53,946
+DOCTOR: Oh, there you are.
+
+11
+00:01:54,017 --> 00:01:54,617
+CLENT: Doctor, would you mind
+
+12
+00:01:54,687 --> 00:01:56,397
+DOCTOR: I've been looking everywhere. Why don't you label your doors?
+
+13
+00:01:56,527 --> 00:01:58,097
+CLENT: Yes, this is a private meeting.
+
+14
+00:01:58,156 --> 00:01:59,346
+DOCTOR: Yes, I realise that, and I'm sorry.
+
+15
+00:01:59,446 --> 00:02:01,267
+CLENT: And we have not yet completed our business.
+
+16
+00:02:01,367 --> 00:02:08,029
+DOCTOR: Look, I wouldn't intrude if I didn't think it necessary. What I have to say is extremely important. After all, you did ask me to help you, didn't you?
+
+17
+00:02:08,117 --> 00:02:09,057
+ARDEN: Has something happened to the warrior?
+
+18
+00:02:09,187 --> 00:02:10,196
+DOCTOR: Well, it has something to do with that, yes.
+
+19
+00:02:10,236 --> 00:02:12,076
+CLENT: We have more serious matters on hand.
+
+20
+00:02:12,166 --> 00:02:12,887
+DOCTOR: This is serious!
+
+21
+00:02:12,923 --> 00:02:14,256
+ARDEN: Now let him tell us, Clent. Well?
+
+22
+00:02:14,366 --> 00:02:19,358
+DOCTOR: Thank you. It's the, it's the helmet. It's not what we thought it was.
+
+23
+00:02:20,428 --> 00:02:21,998
+CLENT: It's a prehistoric drinking cup.
+
+24
+00:02:22,307 --> 00:02:25,726
+DOCTOR: No! It has electronic connections.
+
+25
+00:02:26,388 --> 00:02:30,517
+CLENT: E? What are you talking about?
+
+26
+00:02:30,617 --> 00:02:32,778
+ARDEN: But that's impossible. You must be mistaken.
+
+27
+00:02:32,868 --> 00:02:35,938
+DOCTOR: No, I'm positive. You realise what this means?
+
+28
+00:02:36,287 --> 00:02:40,137
+ARDEN: Well it must mean the civilisation he came from must be more advanced than we thought.
+
+29
+00:02:40,226 --> 00:02:42,660
+DOCTOR: Yes, indeed. They even had astronauts, it appears.
+
+30
+00:02:44,037 --> 00:02:44,919
+CLENT: How do you mean?
+
+31
+00:02:45,138 --> 00:02:50,989
+DOCTOR: This headpiece is no warriors tin-hat. It's a highly sophisticated space helmet!
+
+32
+00:02:53,028 --> 00:02:55,467
+CLENT: Aren't you jumping to conclusions, Doctor, for a scientist?
+
+33
+00:02:55,578 --> 00:02:56,918
+ARDEN: But if this is true?
+
+34
+00:02:57,028 --> 00:02:59,277
+DOCTOR: If this is true your project is in danger.
+
+35
+00:02:59,407 --> 00:03:02,948
+CLENT: In what way? How can one preserved body, however old, effect us?
+
+36
+00:03:03,949 --> 00:03:07,858
+DOCTOR: How did he get here? Well, he didn't walk, did he?
+
+37
+00:03:08,169 --> 00:03:09,798
+CLENT: Well, if what you say is true, by spaceship.
+
+38
+00:03:09,898 --> 00:03:11,518
+DOCTOR: Yes, and where is that spaceship now?
+
+39
+00:03:11,548 --> 00:03:20,538
+ARDEN: In the glacier. Then it must still be intact. He had no signs of mutilation. He couldn't have crashed. He must of landed. Clent, can't you see the importance of such a discovery?
+
+40
+00:03:20,699 --> 00:03:23,832
+CLENT: The propulsion unit of the spacecraft is probably
+
+41
+00:03:23,892 --> 00:03:25,273
+GARRETT: Probably atomic powered.
+
+42
+00:03:25,934 --> 00:03:30,563
+CLENT: Quite. And, er, if we use the ioniser at full power
+
+43
+00:03:30,653 --> 00:03:34,043
+DOCTOR: This reactor pile could be exploded or be activated.
+
+44
+00:03:34,123 --> 00:03:34,505
+CLENT: But if we don't
+
+45
+00:03:34,565 --> 00:03:35,857
+GARRETT: The whole area will be contaminated.
+
+46
+00:03:35,927 --> 00:03:41,879
+CLENT: But if we don't use the ioniser, what then? We are part of a world plan. Now, if we hold back that plan cannot go into operation.
+
+47
+00:03:42,918 --> 00:03:44,259
+GARRETT: We could hold it at minimal power.
+
+48
+00:03:44,328 --> 00:03:45,078
+CLENT: Not good enough.
+
+49
+00:03:45,188 --> 00:03:49,088
+ARDEN: No, we daren't take the risk. The contamination level would last for five decades or more.
+
+50
+00:03:49,158 --> 00:03:51,630
+CLENT: It merely makes the fine control of the heat level even more vital.
+
+51
+00:03:51,759 --> 00:03:53,728
+DOCTOR: Yes, well, I thought you ought to know.
+
+52
+00:03:54,069 --> 00:03:58,437
+CLENT: Yes, you were right, thank you. I must inform the computer immediately for its decision.
+
+53
+00:03:58,539 --> 00:03:59,599
+ARDEN: Well, we shall need more facts.
+
+54
+00:04:00,039 --> 00:04:01,699
+CLENT: Well, furnish me with facts then!
+
+55
+00:04:01,769 --> 00:04:02,330
+JAMIE: Doctor!
+
+56
+00:04:02,388 --> 00:04:03,149
+DOCTOR: Jamie!
+
+57
+00:04:03,240 --> 00:04:04,458
+JAMIE: The warrior's come alive!
+
+58
+00:04:04,768 --> 00:04:05,369
+ARDEN: Alive?
+
+59
+00:04:05,439 --> 00:04:05,979
+CLENT, DOCTOR + GARRETT: What?
+
+60
+00:04:06,038 --> 00:04:07,390
+JAMIE: He's taken Victoria. I couldn't stop him!
+
+61
+00:04:07,830 --> 00:04:11,518
+ARDEN: Alive. and I found it.
+
+62
+00:04:15,706 --> 00:04:16,486
+CLENT: Alive?
+
+63
+00:04:16,546 --> 00:04:17,337
+DOCTOR: Strange.
+
+64
+00:04:17,965 --> 00:04:18,907
+CLENT: How did it happen?
+
+65
+00:04:19,217 --> 00:04:23,506
+JAMIE: Well, we were just talking, and I turned, and there he was standing right next to us.
+
+66
+00:04:23,565 --> 00:04:28,748
+ARDEN: That's impossible. To be preserved, yes, but to come alive? Impossible.
+
+67
+00:04:28,827 --> 00:04:30,177
+DOCTOR: For a human being, maybe.
+
+68
+00:04:30,347 --> 00:04:31,466
+ARDEN: What, not human?
+
+69
+00:04:31,577 --> 00:04:32,456
+DOCTOR: Look at this table.
+
+70
+00:04:33,308 --> 00:04:34,098
+CLENT: Well, it's been burned.
+
+71
+00:04:34,207 --> 00:04:35,958
+ARDEN: Well, I used a low voltage especially.
+
+72
+00:04:36,017 --> 00:04:36,927
+DOCTOR: Yes, but a high current.
+
+73
+00:04:36,987 --> 00:04:37,907
+ARDEN: Yes but it was quite safe.
+
+74
+00:04:37,997 --> 00:04:40,118
+DOCTOR: But if that current passed through a low resistance.
+
+75
+00:04:40,188 --> 00:04:41,597
+GARRETT: Extremely high temperatures.
+
+76
+00:04:41,977 --> 00:04:43,818
+CLENT: The intense heat must have shocked him back into life.
+
+77
+00:04:43,948 --> 00:04:48,349
+JAMIE: Oh look, I don't know what you're all talking about, but all I know is Victoria's in danger and what are we doing to save her?
+
+78
+00:04:48,437 --> 00:04:49,716
+DOCTOR: Yes Jamie, you're right. Come on. She can't have gone far.
+
+79
+00:04:49,776 --> 00:04:51,117
+JAMIE: Well, come on then.
+
+80
+00:04:51,616 --> 00:05:00,050
+CLENT: Danger red alert, danger red alert. Intruders within perimeter. Capture and control. Priority one. Repeat to all posts.
+
+81
+00:05:00,270 --> 00:05:01,421
+JAMIE: But within a perimeter? But supposing they're way out of it?
+
+82
+00:05:01,520 --> 00:05:03,521
+ANNOUNCER: Danger red alert, danger red alert. Intruders within perimeter. Capture and control. Priority one.
+
+83
+00:05:03,580 --> 00:05:06,326
+CLENT: Well, that'll be just too bad. Obviously I can't release men for an extensive search outside the base.
+
+84
+00:05:06,446 --> 00:05:09,525
+DOCTOR: But she may be in danger of her life! You can't take that decision!
+
+85
+00:05:13,318 --> 00:05:17,629
+CLENT: Very well. You want an impartial opinion? I shall ask the computer.
+
+86
+00:05:17,690 --> 00:05:18,919
+JAMIE: Oh, not the computer.
+
+87
+00:05:18,979 --> 00:05:20,360
+DOCTOR: It's a waste of time asking the computer.
+
+88
+00:05:25,779 --> 00:05:27,149
+VICTORIA: Who are you?
+
+89
+00:05:28,106 --> 00:05:28,767
+VARGA: (hissing) Varga.
+
+90
+00:05:28,826 --> 00:05:29,956
+VICTORIA: Where are you from?
+
+91
+00:05:30,087 --> 00:05:32,157
+VARGA: From the Red Planet.
+
+92
+00:05:32,875 --> 00:05:42,847
+VICTORIA: Mars? We thought you were dead and then you came alive. What happened?
+
+93
+00:05:43,156 --> 00:05:44,656
+VARGA: Too many questions.
+
+94
+00:05:46,286 --> 00:05:48,256
+VICTORIA: I'm curious, that's all.
+
+95
+00:05:48,547 --> 00:05:51,576
+VARGA: I need answers from you.
+
+96
+00:05:52,057 --> 00:05:54,498
+VICTORIA: I don't think I can help you very much.
+
+97
+00:05:55,726 --> 00:05:57,006
+VARGA: Answers.
+
+98
+00:05:58,097 --> 00:05:59,097
+VICTORIA: Is that a gun?
+
+99
+00:05:59,158 --> 00:06:01,606
+VARGA: How long was I in the ice?
+
+100
+00:06:01,836 --> 00:06:12,407
+VICTORIA: I don't know, I. One of the scientists said you must have been there since the first ice age. Thousands of years ago.
+
+101
+00:06:12,507 --> 00:06:13,798
+VARGA: That cannot be true.
+
+102
+00:06:15,136 --> 00:06:17,168
+VICTORIA: Were there others with you?
+
+103
+00:06:17,639 --> 00:06:31,311
+VARGA: Yes. Our spaceship crashed at the foot of the ice mountain. As we came out to investigate, a great avalanche of snow buried us.
+
+104
+00:06:32,193 --> 00:06:36,501
+VICTORIA: Then the others are still trapped in the glacier, then.
+
+105
+00:06:37,061 --> 00:06:42,361
+VARGA: I will free them. Then we will return to the Red Planet.
+
+106
+00:06:43,251 --> 00:06:46,480
+VICTORIA: How? You can't get them out by yourself.
+
+107
+00:06:46,869 --> 00:06:51,000
+VARGA: You will help. How was I brought to life?
+
+108
+00:06:52,069 --> 00:06:54,080
+VICTORIA: Let the scientists here on Earth help you.
+
+109
+00:06:54,209 --> 00:07:07,739
+VARGA: Tell me! They would not help me. They would keep me as a curiosity, and they would leave my warriors for dead, or destroy them.
+
+110
+00:07:08,369 --> 00:07:11,199
+VICTORIA: No. No, they, they wouldn't.
+
+111
+00:07:11,289 --> 00:07:19,069
+VARGA: But with my men, I can talk from strength. Then we shall decide.
+
+112
+00:07:20,300 --> 00:07:23,700
+VICTORIA: Decide? Decide what?
+
+113
+00:07:24,080 --> 00:07:29,519
+VARGA: Whether to go back to our own world, or to conquer this.
+
+114
+00:07:31,599 --> 00:07:35,300
+CLENT: All relevant factors now presented. How should we act?
+
+115
+00:07:35,401 --> 00:07:36,670
+JAMIE: Och, how's a machine to know?
+
+116
+00:07:36,800 --> 00:07:38,301
+DOCTOR: Come on, Jamie, have patience. Give it a chance.
+
+117
+00:07:38,368 --> 00:07:43,350
+COMPUTER: Ionisation programme should continue as planned. A limited number of lives are expected to be lost.
+
+118
+00:07:43,449 --> 00:07:44,680
+JAMIE: What about Victoria, though?
+
+119
+00:07:44,750 --> 00:07:45,532
+DOCTOR: Shush, Jamie.
+
+120
+00:07:45,600 --> 00:07:52,598
+COMPUTER: However, the suspected presence of an alien spacecraft must be investigated, in case of potentially fissionable material.
+
+121
+00:07:52,819 --> 00:07:55,921
+JAMIE: Spacecraft! Hey, do you reckon that's where the warrior's gone back to?
+
+122
+00:07:55,980 --> 00:07:58,180
+DOCTOR: Well, he didn't come by Shetland Pony, Jamie.
+
+123
+00:07:58,310 --> 00:08:04,311
+COMPUTER: In order to accommodate this priority the workload has been rescheduled to free one scientist investigator.
+
+124
+00:08:04,601 --> 00:08:05,641
+CLENT: Who should be released?
+
+125
+00:08:05,877 --> 00:08:07,346
+COMPUTER: Scientist Arden.
+
+126
+00:08:09,876 --> 00:08:12,978
+CLENT: Well, Arden, do you think you could handle this ice giant single-handed?
+
+127
+00:08:13,379 --> 00:08:15,547
+ARDEN: Well, I shall need at least one guard.
+
+128
+00:08:15,836 --> 00:08:17,277
+JAMIE: Well, what about me then? I could go with him.
+
+129
+00:08:17,316 --> 00:08:18,436
+DOCTOR: Yes, he's a capable lad.
+
+130
+00:08:18,505 --> 00:08:19,947
+CLENT: Well, the computer said one investigator only.
+
+131
+00:08:20,038 --> 00:08:22,167
+DOCTOR: That was from your staff, Jamie's extra.
+
+132
+00:08:22,227 --> 00:08:22,756
+JAMIE: Aye.
+
+133
+00:08:23,956 --> 00:08:26,385
+GARRETT: The mission must be carried out. The computer has ordered it.
+
+134
+00:08:27,915 --> 00:08:33,014
+CLENT: As the Doctor has agreed to help us with the ioniser. Yes, very well, the boy can go.
+
+135
+00:08:33,115 --> 00:08:33,585
+DOCTOR: Oh good.
+
+136
+00:08:33,684 --> 00:08:37,885
+CLENT: But you must leave immediately, because the sooner we know whether there is a reactor buried inside that glacier or not, the better.
+
+137
+00:08:37,974 --> 00:08:40,793
+JAMIE: Aye, maybe, but Victoria's important too, you know.
+
+138
+00:08:42,266 --> 00:08:49,090
+CLENT: You don't seem to realise, boy, the fate of the world could be at stake. The girl must take her chance.
+
+139
+00:08:53,810 --> 00:08:55,689
+STORR: What ye trying to do? Cripple me?
+
+140
+00:08:55,829 --> 00:08:58,990
+PENLEY: You know the trouble with you. Storr? You're just stupid.
+
+141
+00:08:59,089 --> 00:09:01,349
+STORR: How was I to know it would get infected?
+
+142
+00:09:01,349 --> 00:09:03,459
+PENLEY: If you'd listened to me in the first place.
+
+143
+00:09:03,619 --> 00:09:08,529
+STORR: Aye, you'd have stuffed me to the eyeballs with anti-this and anti-that. I'd have been flat on my back for weeks.
+
+144
+00:09:08,659 --> 00:09:10,320
+PENLEY: Where as now, you're fighting fit.
+
+145
+00:09:10,450 --> 00:09:12,979
+STORR: Ach, well, someone has to do things.
+
+146
+00:09:13,108 --> 00:09:15,299
+PENLEY: Mmm. Well, that someone isn't going to be you.
+
+147
+00:09:15,399 --> 00:09:17,249
+STORR: Ach, it's nothing. I'll pull through.
+
+148
+00:09:17,349 --> 00:09:24,793
+PENLEY: Yes, I'm rather afraid you will. But if you don't do what I say you'll soon be in a coma, which at least would give me a bit of peace.
+
+149
+00:09:25,274 --> 00:09:28,096
+STORR: Don't try scare me with all that scientific guff.
+
+150
+00:09:28,204 --> 00:09:33,794
+PENLEY: I'm just telling you, Storr. You got a headache?
+
+151
+00:09:33,934 --> 00:09:35,208
+STORR: Ach, it's nothing.
+
+152
+00:09:35,309 --> 00:09:42,999
+PENLEY: What I like about you is if a polar bear got you you'd give him indigestion. Feeling fuzzy in the head, eh?
+
+153
+00:09:44,801 --> 00:09:50,660
+STORR: I will not let it beat me. Is it going to be bad?
+
+154
+00:09:51,550 --> 00:09:52,592
+PENLEY: You won't know much about it.
+
+155
+00:09:52,721 --> 00:09:55,081
+STORR: My mouth's dry.
+
+156
+00:09:56,022 --> 00:10:01,111
+PENLEY: Here's a what do you call it? A tomato. It's nearly ripe.
+
+157
+00:10:02,712 --> 00:10:07,569
+STORR: Ach, you shouldnae have done that. I've been waiting weeks for that to ripen properly.
+
+158
+00:10:08,150 --> 00:10:09,849
+PENLEY: Take it, it'll do you good.
+
+159
+00:10:09,979 --> 00:10:10,699
+STORR: Ach.
+
+160
+00:10:11,378 --> 00:10:16,259
+PENLEY: Well, there are advantages to living in a plant museum, even this close to the glacier.
+
+161
+00:10:16,369 --> 00:10:19,120
+STORR: Ah, so even a scientist can appreciate it then?
+
+162
+00:10:19,230 --> 00:10:30,611
+PENLEY: Well, there's warmth and food. Selected ancient food plants. Tomatoes, carrots, potatoes, strawberries. A world out of Atlantis.
+
+163
+00:10:31,019 --> 00:10:46,754
+STORR: Aye, helps me picture how it was before they killed off all the plants. There was spring then, and flowers. You could pick the fruit off the trees. Now you rotten scientists (coughs) drop down dead.
+
+164
+00:10:51,414 --> 00:10:52,985
+PENLEY: Even so it's not the nicest way to live.
+
+165
+00:10:53,084 --> 00:10:53,835
+STORR: Aye.
+
+166
+00:10:53,964 --> 00:10:55,654
+PENLEY: An avalanche waiting on your doorstep.
+
+167
+00:10:55,903 --> 00:10:57,414
+STORR: Not leaving here until I have to.
+
+168
+00:10:57,663 --> 00:10:58,444
+PENLEY: Granted.
+
+169
+00:11:03,023 --> 00:11:10,909
+STORR: You're not going out after food, are you? You wouldn't know what to do without me. Where are you going, anyway?
+
+170
+00:11:11,000 --> 00:11:15,950
+PENLEY: Well I've learnt enough from you to take care of myself, and it's for your idiotic sake that I'm going.
+
+171
+00:11:17,579 --> 00:11:19,034
+STORR: Where to?
+
+172
+00:11:19,195 --> 00:11:20,165
+PENLEY: The base.
+
+173
+00:11:21,825 --> 00:11:31,975
+STORR: You're going to hand me in to rehabilitation. Africa. Never trust anybody.
+
+174
+00:11:32,795 --> 00:11:37,575
+PENLEY: I'm going for drugs. And if I don't get them, you're as good as dead.
+
+175
+00:11:43,136 --> 00:11:44,955
+VICTORIA: It's, it's, it's, it's a
+
+176
+00:11:45,614 --> 00:11:46,644
+VARGA: Go on.
+
+177
+00:11:46,803 --> 00:11:57,404
+VICTORIA: It's a black box with wires. They connected it to you, and you came alive. I, well, I don't know how!
+
+178
+00:11:58,964 --> 00:12:17,411
+VARGA: A power source. Resistance. A great heat and then life. This room we came from. We will go back to it.
+
+179
+00:12:20,159 --> 00:12:21,970
+VICTORIA: I'll tell you how to get there.
+
+180
+00:12:22,235 --> 00:12:30,402
+VARGA: You will take me there. Without that power unit, my warriors are lifeless.
+
+181
+00:12:31,032 --> 00:12:36,821
+VICTORIA: But we have to go down the corridors. Supposing someone sees you?
+
+182
+00:12:36,922 --> 00:12:41,761
+VARGA: I shall kill them. And you.
+
+183
+00:12:42,132 --> 00:12:42,760
+VICTORIA: Me?
+
+184
+00:12:42,880 --> 00:12:44,781
+VARGA: If you call for help.
+
+185
+00:12:45,880 --> 00:12:47,532
+VICTORIA: What is that?
+
+186
+00:12:47,752 --> 00:12:53,333
+VARGA: Sonic gun. It will burst your brain with noise.
+
+187
+00:12:57,192 --> 00:12:58,872
+JAMIE: There's no one been here. There's not a mark.
+
+188
+00:12:58,943 --> 00:13:02,532
+ARDEN: Well, we didn't pass them on the way. Now, stand aside lad, will you?
+
+189
+00:13:04,033 --> 00:13:10,118
+JAMIE: We were wrong, then. He's lost out there somewhere, Victoria with him.
+
+190
+00:13:12,691 --> 00:13:32,163
+ARDEN: I can't get a reading. There's something inside there, but all it's doing is creating havoc with this radiation sensor. Arden calling Leader Clent. Arden calling Leader Clent, answer please.
+
+191
+00:13:32,942 --> 00:13:33,973
+CLENT: Clent here. Report.
+
+192
+00:13:34,064 --> 00:13:39,413
+ARDEN: There's no sign of the fugitive or the girl. They didn't, couldn't have come this way.
+
+193
+00:13:39,543 --> 00:13:42,294
+CLENT: That was not the purpose of your mission. Please report correctly.
+
+194
+00:13:42,393 --> 00:13:51,253
+ARDEN: No reading obtainable. The sensor is being jammed by some sort of a screening device. I can't make head nor tail of it.
+
+195
+00:13:51,393 --> 00:13:52,682
+CLENT: But something is in there.
+
+196
+00:13:54,023 --> 00:13:55,021
+ARDEN: Correct.
+
+197
+00:13:55,081 --> 00:13:57,642
+CLENT: Well, come on then, man! Don't waste time. Go in and find out what it is!
+
+198
+00:13:57,642 --> 00:14:00,072
+ARDEN: Well, not with the equipment I have with me now.
+
+199
+00:14:01,312 --> 00:14:04,244
+CLENT: Very well then, return at once. The mission will be repeated with the correct equipment.
+
+200
+00:14:04,413 --> 00:14:07,294
+ARDEN: But this is the proper equipment for the job.
+
+201
+00:14:07,294 --> 00:14:09,943
+CLENT: Obviously not. Don't waste time. Return immediately. Out.
+
+202
+00:14:10,015 --> 00:14:12,474
+JAMIE: A nice boss you've got there.
+
+203
+00:14:12,914 --> 00:14:20,853
+ARDEN: Yes. The trouble with Clent is that he's not a proper scientist, he's an organiser. He should've been born a robot.
+
+204
+00:14:20,914 --> 00:14:22,015
+JAMIE: Let's go on.
+
+205
+00:15:01,439 --> 00:15:04,749
+VICTORIA: No, no, it's not in there. It's further down the corridor.
+
+206
+00:15:39,192 --> 00:15:42,170
+VARGA: The black box. Find it, quickly.
+
+207
+00:15:44,109 --> 00:15:45,890
+GARRETT: It's still on half power, but it's holding well.
+
+208
+00:15:46,010 --> 00:15:51,240
+CLENT: Good. Well?
+
+209
+00:15:51,240 --> 00:15:56,812
+DOCTOR: Well, I still think you ought to get in an expert. Why can't you get one?
+
+210
+00:15:56,812 --> 00:15:57,942
+CLENT: I choose not to.
+
+211
+00:15:59,693 --> 00:16:00,542
+DOCTOR: But why?
+
+212
+00:16:02,143 --> 00:16:03,353
+CLENT: You're not here to question me.
+
+213
+00:16:03,483 --> 00:16:08,054
+DOCTOR: No, I'm here to help you, if I choose.
+
+214
+00:16:10,804 --> 00:16:24,235
+CLENT: This is the most important job I've ever had. Now, every other project I've handled with ease. Nothing has failed. I was chosen because I never fail. When I handpicked the team, I made one vital mistake.
+
+215
+00:16:24,427 --> 00:16:25,736
+DOCTOR: This chap Penley.
+
+216
+00:16:27,088 --> 00:16:31,767
+CLENT: Best man in Europe for ionisation studies. As it turned out, hopelessly temperamental.
+
+217
+00:16:32,933 --> 00:16:38,082
+DOCTOR: Temperamental or individual? Creative scientists have to be allowed some head you know.
+
+218
+00:16:38,174 --> 00:16:44,922
+CLENT: Creative? Poppycock. When he walked out of here he proclaimed himself to be criminally, criminally irresponsible.
+
+219
+00:16:45,053 --> 00:16:47,333
+DOCTOR: It couldn't have been just a simple gesture of protest?
+
+220
+00:16:47,444 --> 00:16:52,784
+CLENT: He was always protesting. This is a team, a team with a mission. If we fail, others cannot succeed.
+
+221
+00:16:52,893 --> 00:16:55,204
+DOCTOR: And your name will suffer. That's important.
+
+222
+00:16:55,293 --> 00:17:02,674
+CLENT: I lead the team. I depend on the experts I picked. My judgement was sound. Others won't see it that way.
+
+223
+00:17:02,775 --> 00:17:04,154
+DOCTOR: So you do need Penley.
+
+224
+00:17:04,224 --> 00:17:15,234
+CLENT: No, I do not need Penley. But I do need an equivalent brain. But it would be months before anyone else could pick up the knowledge that Penley acquired here. Just isn't time, that's the pertinent issue.
+
+225
+00:17:15,393 --> 00:17:21,613
+DOCTOR: Well, I'll try and help you, but I do think you might try trusting human beings instead of computers.
+
+226
+00:17:21,703 --> 00:17:37,473
+CLENT: I trust no one, Doctor. Not any more. Human emotions are unreliable. I'll just go and see that the working area reserved for you in the Medi-Control Centre is ready.
+
+227
+00:17:43,758 --> 00:17:45,117
+VARGA: The power pack.
+
+228
+00:17:45,726 --> 00:17:47,416
+VICTORIA: I'm looking!
+
+229
+00:18:05,211 --> 00:18:09,403
+VICTORIA: Yes, yes, they look like the one. Yes, yes.
+
+230
+00:18:20,671 --> 00:18:23,952
+VARGA: You are coming with me, to the ice mountain.
+
+231
+00:18:24,582 --> 00:18:26,211
+VICTORIA: No, please.
+
+232
+00:18:33,966 --> 00:18:34,894
+CLENT: Who are you?
+
+233
+00:18:37,725 --> 00:18:39,074
+VICTORIA: You killed him!
+
+234
+00:18:42,865 --> 00:18:43,904
+VARGA: Come.
+
+235
+00:19:07,457 --> 00:19:10,528
+PENLEY: I er, I was going to give him this.
+
+236
+00:19:14,898 --> 00:19:23,287
+DOCTOR: Oh, that's disgusting. It's just the thing. Did you do this?
+
+237
+00:19:23,677 --> 00:19:27,467
+PENLEY: I've come very close to it at times. I've never seen him look so peaceful.
+
+238
+00:19:27,567 --> 00:19:31,076
+DOCTOR: Oh, he'll be all right. Did you see who did do it?
+
+239
+00:19:31,428 --> 00:19:34,897
+PENLEY: Yes. A monstrous looking creature. I didn't like the look of him at all.
+
+240
+00:19:35,048 --> 00:19:36,268
+DOCTOR: Was there a girl there?
+
+241
+00:19:36,367 --> 00:19:38,149
+PENLEY: Yes, she seemed scared stiff.
+
+242
+00:19:38,278 --> 00:19:39,527
+DOCTOR: Well, why didn't you try and stop them?
+
+243
+00:19:39,558 --> 00:19:43,207
+PENLEY: Well, I came here to get some drugs for a man who is sick. I couldn't run the risk of getting caught.
+
+244
+00:19:43,207 --> 00:19:44,380
+DOCTOR: But she's only a young girl!
+
+245
+00:19:44,600 --> 00:19:47,590
+PENLEY: She's alive. My friend will die if I don't get back.
+
+246
+00:19:47,590 --> 00:19:49,779
+DOCTOR: Yes. Yes, I see.
+
+247
+00:19:50,679 --> 00:19:52,340
+PENLEY: Are you going after them? I can take you part of the way.
+
+248
+00:19:52,440 --> 00:19:54,870
+DOCTOR: No, no, they're searching already. There's a red alarm all over the base.
+
+249
+00:19:54,939 --> 00:19:56,070
+PENLEY: Well, I've got what I want. I'm off.
+
+250
+00:19:58,056 --> 00:19:58,924
+DOCTOR: Penley?
+
+251
+00:20:02,015 --> 00:20:05,776
+PENLEY: You know about me then. My escapades in computer-land.
+
+252
+00:20:05,776 --> 00:20:08,967
+DOCTOR: They need you here, you know. They need you desperately.
+
+253
+00:20:09,156 --> 00:20:12,726
+PENLEY: Needing isn't getting. I'm free of their problems for good.
+
+254
+00:20:12,887 --> 00:20:17,546
+DOCTOR: They're your problems too, you know. It's your world.
+
+255
+00:20:18,156 --> 00:20:23,366
+PENLEY: My world is up here. Private and no admittance. Well, I'm going to go then.
+
+256
+00:20:23,486 --> 00:20:25,765
+DOCTOR: I expect you know what you're doing.
+
+257
+00:20:26,355 --> 00:20:28,776
+PENLEY: You know it's nice to meet one that they haven't got at yet.
+
+258
+00:20:28,897 --> 00:20:30,616
+DOCTOR: Oh, thank you.
+
+259
+00:20:30,675 --> 00:20:31,531
+PENLEY: Goodbye.
+
+260
+00:20:31,597 --> 00:20:32,286
+DOCTOR: Goodbye.
+
+261
+00:20:37,957 --> 00:20:38,866
+GARRETT: They're in here.
+
+262
+00:20:40,843 --> 00:20:41,554
+DOCTOR: Where's Victoria?
+
+263
+00:20:41,762 --> 00:20:42,542
+GARRETT: Leader Clent!
+
+264
+00:20:42,542 --> 00:20:43,073
+ARDEN: What's happened?
+
+265
+00:20:43,203 --> 00:20:44,233
+CLENT: Where are they?
+
+266
+00:20:44,324 --> 00:20:48,134
+GARRETT: I've just had a message from the perimeter gate. He smashed his way through, taking the girl with him.
+
+267
+00:20:48,454 --> 00:20:51,603
+CLENT: He knocked me out with a power pack.
+
+268
+00:20:51,673 --> 00:20:55,352
+DOCTOR: With a power pack? You mean the one that you used to unfreeze him?
+
+269
+00:20:55,453 --> 00:20:59,443
+CLENT: Yes. And he and the girl have many more.
+
+270
+00:20:59,573 --> 00:21:01,543
+ARDEN: To revitalise others like himself.
+
+271
+00:21:01,613 --> 00:21:05,493
+CLENT: Others? What do you mean. We don't know that there are others.
+
+272
+00:21:05,553 --> 00:21:07,613
+JAMIE: Well now, he'll head for the glacier. Let's get way after him.
+
+273
+00:21:07,682 --> 00:21:14,522
+DOCTOR: No. That's what he wants us to do. That's why he's taken Victoria with him as a hostage. No, we must let him show his hand first.
+
+274
+00:21:14,583 --> 00:21:15,834
+JAMIE: But we can't just stand around waiting?
+
+275
+00:21:15,894 --> 00:21:18,674
+DOCTOR: We're not going to. Only until morning. That'll be time enough.
+
+276
+00:21:18,734 --> 00:21:25,974
+CLENT: No, now! Must I remind you of the mission that you have yet to accomplish?
+
+277
+00:21:26,074 --> 00:21:31,863
+ARDEN: Oh no, Clent, not at night. Not for you or anybody. You've never been out there at night.
+
+278
+00:21:42,025 --> 00:21:52,527
+VARGA: I have located my warriors. When your friends come after us, they will find a surprise.
+
+279
+00:21:54,246 --> 00:21:55,836
+VICTORIA: What are you going to do?
+
+280
+00:21:55,836 --> 00:22:06,005
+VARGA: You'll see. Don't try to run away.
+
+281
+00:22:06,905 --> 00:22:09,466
+VICTORIA: I was only going to watch you.
+
+282
+00:22:10,416 --> 00:22:12,806
+VARGA: You are going to help me.
+
+283
+00:22:22,438 --> 00:23:01,676
+PENLEY: Twenty four hours and you'll be your old animal-like self again. And while you're undergoing repairs, Storr, old chap, I'm going to do a bit of hunting myself, up on the glacier. Something strange is happening, Elric Penley, honoured sir. That warrior, that girl, that funny, scruffy looking chap. Something strange indeed. Something disturbing. Something to do with the ice. And if what that particular chap has said is true, if they really need me, it may mean the parting of the ways for us.
+
+284
+00:23:13,416 --> 00:23:23,839
+VARGA: It's done. They are free. And now, to bring them back to life.
