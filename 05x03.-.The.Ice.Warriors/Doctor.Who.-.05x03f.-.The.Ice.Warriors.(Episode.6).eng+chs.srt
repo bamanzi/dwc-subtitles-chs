@@ -27,7 +27,7 @@ vertical. Eight-five-eight-one-eight-oh lateral. _ controls are set.
 6
 00:01:49,803 --> 00:01:53,322
 The records wing - it's gone! It's demolished!
-
+录像吊灯 - 它没了！垮掉了！
 
 7
 00:01:53,595 --> 00:01:54,501
@@ -47,6 +47,7 @@ Leader Clent, surrender or die!
 10
 00:02:07,314 --> 00:02:08,592
 What in the blazes?
+这是什么鬼？
 
 11
 00:02:08,797 --> 00:02:14,348
@@ -85,89 +86,97 @@ My name is Varga. Do you surrender?
 
 18
 00:02:42,029 --> 00:02:51,068
-Now frankly, you gain nothing by destroying us, Varga. We both
-have urgent needs. I will agree to talk... but nothing more.
+Now frankly, you gain nothing by destroying us, Varga.
+We both have urgent needs. I will agree to talk... but nothing more.
 坦白地说, 毁灭我们你们什么也得不到, Varga.
+我们都有各自迫切的需求, 我同意谈判．．但仅此而已
 
 19
 00:02:51,282 --> 00:02:58,451
-No treachery? If I come in peace
-there must be trust between us.
+No treachery? If I come in peace there must be trust between us.
+没有诡计吧？如果我和平而来, 我们之间必须得有基本的信任
 
 20
 00:02:58,632 --> 00:03:00,934
-Very well. There will be
-no traps, or conditions.
+Very well. There will be no traps, or conditions.
+好, 没有陷阱, 没有条件
 
 21
 00:03:01,247 --> 00:03:05,675
-See that you keep to
-that, for if you lie...
+See that you keep to that, for if you lie...
+最好你能做到, 如果你撒谎的话．．．
 
 22
 00:03:12,503 --> 00:03:13,681
 What does he want?
+他想要什么？
 
 23
 00:03:13,878 --> 00:03:16,062
-Our guards won't stand a chance
-against weapons like that, Sir.
+Our guards won't stand a chance against weapons like that, Sir.
+我们的保安在那样的武器面前一点机会也没有, 头儿
 
 24
 00:03:16,231 --> 00:03:20,810
-Ah, you heard what he said
-- no treachery, only trust.
+Ah, you heard what he said - no treachery, only trust.
+啊, 你们都听到他说的了 - 没有诡计, 只有信任
 
 25
 00:03:21,044 --> 00:03:22,650
 But can we trust him?
+但我们能信任他吗？
 
 26
 00:03:22,811 --> 00:03:27,229
-I'm afraid we have to. He's got the best argument on his side
-- that gun, or whatever it is.
+I'm afraid we have to. He's got the best argument on his side - that gun, or whatever it is.
+恐怕我们不得不．他那边有最好的筹码 - 那种枪 - 也不知道是不是枪
 
 27
 00:03:28,005 --> 00:03:29,385
 We can bluff him though.
+我们可以诈他
 
 28
 00:03:30,283 --> 00:03:30,995
 How?
+怎么搞？
 
 29
 00:03:31,285 --> 00:03:37,183
-He doesn't know the computer's command to wait. We can
-threaten to destroy the glacier, and his ship with it.
+He doesn't know the computer's command to wait. We can threaten to destroy the glacier, and his ship with it.
+他并不知道电脑的命令是要我们待命． 我们可以威胁说要摧毁冰山, 连同他的船一起
 
 30
 00:03:37,370 --> 00:03:39,428
 Yes, yes. Yes possibly.
+是的, 是的, 有可能
 
 31
 00:03:39,631 --> 00:03:42,201
-Well why can't we do it, Sir?
-It's our only chance for survival!
+Well why can't we do it, Sir? It's our only chance for survival!
+那为什么不能这么搞, 头儿？这是我们生存的唯一机会！
 
 32
 00:03:42,387 --> 00:03:44,427
-Because you know the computers decision
-- and its reasons.
+Because you know the computers decision - and its reasons.
+因为你也知道电脑的的决定 - 以及它的理由
 
 33
 00:03:44,638 --> 00:03:47,572
-I know all about that! But it doesn't
-exactly give much thought to us, does it?
+I know all about that! But it doesn't exactly give much thought to us, does it?
+这些我统统知道！ 但我们并没有仔细考虑过这事, 对吧？
 
 34
 00:03:47,740 --> 00:03:50,243
-The computer thinks of everything,
-considers all the facts.
+The computer thinks of everything, considers all the facts.
+电脑会考虑一切, 会把所有的情况纳入考虑
 
 35
 00:03:50,401 --> 00:04:02,864
-And it's supposed to come up with all the answers, isn't it? Well a fat lot of good it's doing us now! Wait,
-it says, wait! With glaciers on the one hand, and, and warriors on the other! Well what price your computer now!
+And it's supposed to come up with all the answers, isn't it? Well a fat lot of good it's doing us now!
+Wait, it says, wait! With glaciers on the one hand, and, and warriors on the other! Well what price your computer now!
+但它也应该提供所有的答案, 对吧？至今为止很多事情它的确干得还都不错！
+待命, 它说, 待命！我们一边要面对冰山, 一边要面对寒冰勇士, 但你的电脑一点代价不用付！
 
 36
 00:04:03,037 --> 00:04:03,888
@@ -175,852 +184,1000 @@ Walters!
 
 37
 00:04:04,130 --> 00:04:19,049
-What we need, is, is someone like, like Penley, or that Doctor! Someone who can think! Not with a machine! And what
-good's your precious computer done anyway? Nothing! Nothing but trouble! And it's time somebody put a stop to it!
+What we need, is, is someone like, like Penley, or that Doctor! Someone who can think! Not with a machine!
+And what good's your precious computer done anyway? Nothing! Nothing but trouble! And it's time somebody put a stop to it!
+我们需要的, 是一个像 Penley 那样的人, 或者那个博士那样的！一个能思考的人, 不是一台机器！
+你那宝贵的电脑干了什么好事了？什么也没有！只带来了麻烦！是时候得某个人来阻止它了！
 
 38
 00:04:29,684 --> 00:04:30,992
 That's Varga's voice.
+那是 Varaga 的声音
 
 39
 00:04:31,846 --> 00:04:34,593
 We are going in now.
+我们现在进来了
 
 40
 00:04:34,953 --> 00:04:36,082
 We must escape.
+我们必须得逃了
 
 41
 00:04:36,288 --> 00:04:45,335
 It's not just a question of escape, Victoria. We've got to take some action.
 Right, this gun that's given Varga control of the base, without it he'd be helpless.
+现在不是逃走的问题, Victoria. 我们得采取一点行动．
+对了, 正是靠了那把枪 Varga 才控制了基地, 没有了这个他就寸步难行了
 
 42
 00:04:45,630 --> 00:04:46,960
 What can we do?
+我们怎么弄？
 
 43
 00:04:56,527 --> 00:05:08,368
-Well now, gentlemen, you, you said no traps. And we for
-our part, have made utterly sure, that there are no traps...
+Well now, gentlemen, you, you said no traps.
+And we for our part, have made utterly sure, that there are no traps...
+好了, 先生们, 你说过没有陷阱的．
+我们这一边, 已经可以绝对地说, 没有任何陷阱
 
 44
 00:05:08,905 --> 00:05:14,630
-I made no promises. I merely
-warned you not to trick me.
+I made no promises. I merely warned you not to trick me.
+但我没有做出过承诺．我只是警告你们不要对我耍花样
 
 45
 00:05:14,869 --> 00:05:16,094
 How can we help you?
+有什么可以帮到你们的？
 
 46
 00:05:16,292 --> 00:05:21,111
-I will tell you what I want
-and you will give it to me.
+I will tell you what I want and you will give it to me.
+我会告诉你们我需要什么, 你们也必须把它给我
 
 47
 00:05:21,345 --> 00:05:34,547
-Oh, come now Varga, that's not the way to talk. We're, both of us, in a very difficult situation. Under
-times like this it beholds us both to proceed with mutual respect and, because the whole world could be...
+Oh, come now Varga, that's not the way to talk. We're, both of us, in a very difficult situation.
+Under times like this it beholds us both to proceed with mutual respect and, because the whole world could be...
+哦, 得了 Varga, 这不是谈判的方式．你我两边现在都身处困境．
+时间紧迫, 我们也就不寒暄了, 因为整个世界可能．．．
 
 48
 00:05:44,212 --> 00:05:48,793
 So much for your word.
+这就是对你那些承诺的答复
 
 49
 00:05:51,037 --> 00:05:53,107
 That was, that was not planned.
+这．．．没想到是这样
 
 50
 00:05:53,309 --> 00:06:05,415
-I have one major requirement: the mercury isotopes
-for my ships reactor. You will give them to me.
+I have one major requirement: the mercury isotopes for my ships reactor. You will give them to me.
+我的主要需求就一个：我飞船的反应器需要汞同位素．你给我这个就是了
 
 51
 00:06:05,772 --> 00:06:07,543
 But we don't use mercury isotopes.
+但我们没有汞同位素啊
 
 52
 00:06:07,825 --> 00:06:11,027
-The Doctor stated
-that you had them here.
+The Doctor stated that you had them here.
+博士说你们这里有
 
 53
 00:06:11,233 --> 00:06:12,405
 Well he was wrong, we have none.
+他搞错了, 我们一丝也没有
 
 54
 00:06:12,720 --> 00:06:14,227
 You are lying.
+你在撒谎
 
 55
 00:06:14,496 --> 00:06:16,020
 What good will it do me?
+这对我也没好处啊
 
 56
 00:06:16,257 --> 00:06:24,812
-Tell me what will happen if we halted your reactor
-in order to remove the fuel elements we need.
+Tell me what will happen if we halted your reactor in order to remove the fuel elements we need.
+如果我们停掉你们的反应器, 自己从中拿取我们需要的燃料, 你觉得会怎么样？
 
 57
 00:06:25,019 --> 00:06:26,060
 You can't do that!
+你不能这么做！
 
 58
 00:06:26,332 --> 00:06:26,985
 Why?
+为什么
 
 59
 00:06:27,354 --> 00:06:29,043
-That reactor gives us
-light, heat and power.
+That reactor gives us light, heat and power.
+那个反应器给我们提供照明、取暖和能源
 
 60
 00:06:29,218 --> 00:06:30,443
 And it powers the ioniser.
+它还为离子器提供能量
 
 61
 00:06:30,640 --> 00:06:35,479
-So that without it, you
-would be completely helpless.
+So that without it, you would be completely helpless.
+这么说, 如果没有这个东西, 你们就完全限于无助了
 
 62
 00:06:35,709 --> 00:06:39,604
-In Arctic conditions like
-these... we'd soon perish.
+In Arctic conditions like these... we'd soon perish.
+在北极圈这样的条件下．．．我们很快会死
 
 63
 00:06:39,838 --> 00:06:42,795
 Where as we would not.
+但我们就不会了
 
 64
 00:06:43,013 --> 00:06:46,526
-You'd be wasting your time. This
-reactor does not use mercury.
+You'd be wasting your time. This reactor does not use mercury.
+你这是浪费时间, 这个反应器并不使用汞 
 
 65
 00:06:46,755 --> 00:06:49,841
 I do not believe you.
+我不相信你
 
 66
 00:06:51,390 --> 00:06:53,003
 But you must.
+但你必须信
 
 67
 00:06:53,251 --> 00:07:01,997
-There is only one way to find out. Where
-are the reactor controls? Tell me now.
+There is only one way to find out. Where are the reactor controls? Tell me now.
+那就只有一个方法来证明了．反应器的控制开关在哪里？现在告诉我
 
 68
 00:07:02,865 --> 00:07:05,565
-Did you hear that? Making
-them shut down the reactor!
+Did you hear that? Making them shut down the reactor!
+你听到了吗？在让他们关掉反应器！
 
 69
 00:07:05,755 --> 00:07:10,453
-Yes. Now this is Varga's main weapon. There's
-just a chance that I can turn it against him.
+Yes. Now this is Varga's main weapon. There's just a chance that I can turn it against him.
+好了, 这是 Varga 主要的武器．我还是有点机会让它＂掉转枪头＂
 
 70
 00:07:10,747 --> 00:07:11,413
 What?
+什么？
 
 71
 00:07:11,642 --> 00:07:15,423
-If I can open these doors...
-there we are! Come on.
+If I can open these doors... there we are! Come on.
+如果我能打开这些门．．．搞定！来吧
 
 72
 00:07:18,514 --> 00:07:19,901
 Now careful. Just stay there.
+现在小心点, 就呆在那里
 
 73
 00:07:20,113 --> 00:07:22,666
 How does this gun operate?
+这个枪是怎么用的？
 
 74
 00:07:22,854 --> 00:07:24,665
 Oh, hurry Doctor, hurry.
+哦, 快点博士, 快点
 
 75
 00:07:25,210 --> 00:07:26,848
 You've got to believe me!
+你得对我有点信心！
 
 76
 00:07:27,105 --> 00:07:29,058
 So you say.
+那你说说
 
 77
 00:07:29,246 --> 00:07:44,171
-Listen, Varga, the power source is locked in directly with the ioniser. Now if we cut the
-power before it is safe, the feedback effect could blast this building into a state of ion flux.
+Listen, Varga, the power source is locked in directly with the ioniser.
+Now if we cut the power before it is safe, the feedback effect could blast this building into a state of ion flux.
+听着, Varga, 电源是直接接到离子器上的, 这是做死的．
+如果我们强行切断, 反馈效应会把这栋建筑炸成粉末
 
 78
 00:07:55,098 --> 00:07:57,487
 What's its temperature range?
+它的温度范围是怎样的？
 
 79
 00:07:57,669 --> 00:07:59,500
 It can melt rock!
+可以将岩石都溶掉！
 
 80
 00:07:59,958 --> 00:08:03,400
-Don't interfere with
-it! It's fully primed.
+Don't interfere with it! It's fully primed.
+别动, 一按就开启了
 
 81
 00:08:03,583 --> 00:08:08,156
 It can melt rock. What a weapon.
+它可以溶掉岩石, 真是个厉害的武器
 
 82
 00:08:08,315 --> 00:08:10,719
-It is not a weapon. It is
-a scientific instrument.
+It is not a weapon. It is a scientific instrument.
+它不是一个武器, 只是一个科学设备
 
 83
 00:08:10,906 --> 00:08:13,524
 I see it differently.
+我的看法不一样
 
 84
 00:08:13,718 --> 00:08:15,806
 It's still a highly dangerous machine.
+它还是一个高危的机器
 
 85
 00:08:15,976 --> 00:08:22,878
-Then run is carefully down to
-safety level. But no tricks.
+Then run is carefully down to safety level. But no tricks.
+现在把它降到安全水平, 小心点, 别耍花样
 
 86
 00:08:24,139 --> 00:08:27,027
 You do it now.
+现在就做
 
 87
 00:08:32,233 --> 00:08:34,599
 It will take some time.
+这会要些时间
 
 88
 00:08:34,823 --> 00:08:39,417
-Doesn't matter. You
-dare not use it anyway.
+Doesn't matter. You dare not use it anyway.
+没关系, 反正你也不敢使用它
 
 89
 00:08:40,105 --> 00:08:41,571
 What?
+什么？
 
 90
 00:08:41,966 --> 00:08:53,764
-Your Doctor friend talked. I know your fear of my
-spaceship. That it will explode if the heat is too great.
+Your Doctor friend talked. I know your fear of my spaceship.
+That it will explode if the heat is too great.
+你的博士朋友说过了, 所以我知道你害怕我的飞船
+而且我知道, 如果温度过高的话, 这会爆炸的
 
 91
 00:08:55,282 --> 00:08:56,711
 Would it?
+会吗？
 
 92
 00:08:59,980 --> 00:09:05,774
 Close it down. Or you die.
+关掉它, 否则你就死了
 
 93
 00:09:06,027 --> 00:09:08,893
-She's the only person qualified
-to disconnect the ioniser safely.
+She's the only person qualified to disconnect the ioniser safely.
+她是唯一受训过如何安全关闭离子器的人
 
 94
 00:09:09,080 --> 00:09:14,518
-What are you qualifications
-for existence?
+What are you qualifications for existence?
+你们有没有受训过如何生存？
 
 95
 00:09:16,348 --> 00:09:17,745
 I'm the leader here!
+我是这里的领导！
 
 96
 00:09:18,390 --> 00:09:25,435
-You have less value to me than your
-colleague, who has certain skills.
+You have less value to me than your colleague, who has certain skills.
+对我而言你没有你的同事有价值, 他们还算有某种技能
 
 97
 00:09:25,672 --> 00:09:29,935
-But she doesn't know everything. I
-have the answers that you require.
+But she doesn't know everything. I have the answers that you require.
+但她并不是什么都知道, 我才有你需要的答案
 
 98
 00:09:30,320 --> 00:09:39,392
-I know all I need to know. If I killed
-you, it would be no great loss to me.
+I know all I need to know. If I killed you, it would be no great loss to me.
+我知道我想了解什么．如果我杀了你, 对我来说没有什么大损失
 
 99
 00:09:39,596 --> 00:09:40,551
 No! Please!
+别, 不要！
 
 100
 00:09:41,198 --> 00:09:54,774
-Then you will do as I say. Run down the machine as
-quickly as is safely possible. No more tricks. At once.
+Then you will do as I say. Run down the machine as quickly as is safely possible.
+No more tricks. At once.
+那就按我说的做, 又快又安全地关掉这台机器．
+不要耍花样, 立即执行
 
 101
 00:10:00,818 --> 00:10:02,420
 Ah, ah.
+啊, 啊
 
 102
 00:10:02,706 --> 00:10:03,780
 What is it you're trying to do?
+你在做些什么呢？
 
 103
 00:10:03,955 --> 00:10:09,617
-Well it's a little difficult to explain,
-Victoria. Oh. Oh dear. Hold this for me, will you?
+Well it's a little difficult to explain, Victoria. Oh. Oh dear. Hold this for me, will you?
+哦, 有一点难解释, Victoria. 哦, 亲爱的, 帮我按住这个, 可以吗？
 
 104
 00:10:12,566 --> 00:10:17,771
 Ah. This gun works on the basis that sound waves
 produce reverberations in the objects in their path.
+啊, 知道这个枪的工作原理了：声波在经过的物体中会产生回响
 
 105
 00:10:18,686 --> 00:10:22,488
-The objects vibrate in sympathy.
-Well I know, my father told me once.
+The objects vibrate in sympathy. Well I know, my father told me once.
+这些物体就会产生共振．我知道这个, 我父亲给我讲过一次
 
 106
 00:10:22,664 --> 00:10:26,675
-Yes, that's right. Well if you can produce
-unsympathetic vibrations, damage results.
+Yes, that's right. Well if you can produce unsympathetic vibrations, damage results.
+对, 就是这样．如果你能产生不和谐的振动, 就可以造成破坏了
 
 107
 00:10:27,083 --> 00:10:29,577
-Damage? Oh, like a
-singer breaking glass.
+Damage? Oh, like a singer breaking glass.
+破坏？哦, 就像一个歌手可以打破杯子
 
 108
 00:10:29,809 --> 00:10:38,431
-Yes. But I want to be able to get at the warriors without it affecting
-the scientists too much. Now, if we change this to frequency seven...
+Yes. But I want to be able to get at the warriors without it affecting the scientists too much.
+Now, if we change this to frequency seven...
+是的, 但我期望的是可以攻击寒冰勇士而不会对科学家造成太大伤害
+现在, 如果我们把频率调到 7...
 
 109
 00:10:38,692 --> 00:10:39,629
 What will that do?
+那会怎么样？
 
 110
 00:10:39,822 --> 00:10:41,321
 Well primarily it affects fluids.
+那主要受影响对象就是液体了
 
 111
 00:10:41,465 --> 00:10:42,789
 What good is that to us?
+这对我们有帮助吗？
 
 112
 00:10:42,954 --> 00:10:48,733
-Well I believe that Varga and his warriors have a
-far greater fluid content than human-beings. There.
+Well I believe that Varga and his warriors have a far greater fluid content than human-beings. There.
+我觉得 Varga 和他那些勇士们体内的液体成分应该比人类要多．就这样
 
 113
 00:10:51,384 --> 00:10:53,429
 If it works, what happens?
+如果这样能行, 会怎样？
 
 114
 00:10:53,603 --> 00:10:54,767
 That's just it, I don't know.
+仅此而已, 我也不太清楚
 
 115
 00:10:54,924 --> 00:10:55,807
 Oh now look, Doctor.
+你看, 博士
 
 116
 00:10:55,937 --> 00:11:00,221
-But I do know that whatever effect it has on the
-scientists, it'll have a far greater one on the warriors.
+But I do know that whatever effect it has on the scientists, it'll have a far greater one on the warriors.
+但我不确定这会对科学家们产生多大影响, 但应该来说它对寒冰勇士的影响会大一点
 
 117
 00:11:00,474 --> 00:11:01,318
 Well how's that?
+怎么个原理？
 
 118
 00:11:01,501 --> 00:11:05,437
-Well apart from the fluid question, their
-helmets will trap and intensify the sound waves.
+Well apart from the fluid question, their helmets will trap and intensify the sound waves.
+除了刚才说的液体方面的问题, 他们的头盔也会积聚更多的声波
 
 119
 00:11:05,619 --> 00:11:09,782
-You mean, it'll knock them out and leave
-the scientists a bit dizzy? Well is that it?
+You mean, it'll knock them out and leave the scientists a bit dizzy? Well is that it?
+你的意思是, 这就会把他们震晕, 而科学家们只会有一点头晕, 对不？
 
 120
 00:11:09,944 --> 00:11:15,847
-Well that's what I'm hoping, but, there is just a vague
-risk that it'll kill everybody. Clent and Penley included.
+Well that's what I'm hoping, but, there is just a vague risk that it'll kill everybody. Clent and Penley included.
+嗯, 这正是我期望的, 但也还是有可能会杀死每个人, 这其中就有 Clent 和 Penley
 
 121
 00:11:18,287 --> 00:11:19,760
 And Jamie?
+还有 Jamie
 
 122
 00:11:51,615 --> 00:11:52,334
 It's done.
+完工了
 
 123
 00:11:52,522 --> 00:11:54,399
 It is safe now?
+现在安全了吗？
 
 124
 00:11:54,670 --> 00:12:02,028
-Yes. Just ticking over. Not even
-holding the ice in check at all.
+Yes. Just ticking over. Not even holding the ice in check at all.
+是的, 正在空转, 完全没有在控制那些冰块
 
 125
 00:12:02,231 --> 00:12:06,180
 Disconnect it completely, now.
+完全断开, 动手！
 
 126
 00:12:08,920 --> 00:12:16,544
-Now we must move quickly, before the
-glacial surge does too much damage.
+Now we must move quickly, before the glacial surge does too much damage.
+现在我们必须快点行动, 以免冰川造成的破坏太大
 
 127
 00:12:16,711 --> 00:12:17,996
 You'll regret this, Varga.
+你会后悔的, Varga
 
 128
 00:12:18,167 --> 00:12:27,579
-At least I will live to regret it.
-Now, the reactor. Shut it down, quickly.
+At least I will live to regret it. Now, the reactor. Shut it down, quickly.
+至少我还能活着后悔．现在, 完全关掉反应器, 快
 
 129
 00:12:36,578 --> 00:12:42,714
-Perfectly at home in ice age conditions.
-Well, we'll soon change all that.
+Perfectly at home in ice age conditions. Well, we'll soon change all that.
+他们在这个冰河时代还挺适应啊。好，我们来改改
 
 130
 00:12:50,143 --> 00:12:52,996
 Shut it down at once.
+立刻停掉
 
 131
 00:12:54,515 --> 00:12:55,172
 Ooh.
+哦
 
 132
 00:12:55,425 --> 00:13:24,540
 The heat. What is happening? There is something wrong.
 You are trying to trick me again. For that you will die!
+有点热，怎么回事？ 什么地方出问题了
+你是不是又在耍我, 你得为此付出代价！
 
 133
 00:13:25,068 --> 00:13:26,381
 No no! It's too dangerous!
+不不！太危险了！
 
 134
 00:13:26,567 --> 00:13:28,323
 It's a risk we must take, Victoria!
+这是我们必要要担的风险, Victoria!
 
 135
 00:13:28,485 --> 00:13:28,961
 Oh!
+噢
 
 136
 00:13:29,127 --> 00:13:31,571
 Now, cross your fingers. Here we go.
+现在, 祈祷吧．现在开动
 
 137
 00:13:51,749 --> 00:14:10,888
-Varga, this is the Doctor. Are you going to retreat, or shall I fire again? Trouble is I dare not use it again,
-if it hasn't killed them all already, another firing most certainly will! Varga! Answer me or I fire again!
+Varga, this is the Doctor. Are you going to retreat, or shall I fire again?
+Trouble is I dare not use it again, if it hasn't killed them all already, another firing most certainly will!
+Varga! Answer me or I fire again!
+Varga, 我是博士．你现在是撤退呢, 还是等我再开一炮？
+问题在于是我也不敢再用, 虽然他们还没有全被干掉, 但再来一次应该就没问题了．
+Varga, 回话, 要不然我还开炮
 
 138
 00:14:12,745 --> 00:14:16,470
 You will die for this.
+你会为此死掉的
 
 139
 00:14:20,280 --> 00:14:21,241
 What are you doing now?
+你现在在干什么？
 
 140
 00:14:21,414 --> 00:14:22,604
 Get well back, Victoria.
+再退一点, Victoria
 
 141
 00:14:22,775 --> 00:14:23,539
 What?
+什么？
 
 142
 00:14:23,751 --> 00:14:25,689
 Stand by for fireworks! Here we go.
+准备看烟火吧, 走你！
 
 143
 00:14:27,641 --> 00:14:30,228
-Now quickly! Let's get out
-of here before they come back!
+Now quickly! Let's get out of here before they come back!
+快点, 我们离开这里, 要不然他们回来了
 
 144
 00:14:53,670 --> 00:14:56,440
 The gun is useless.
+这枪没用了
 
 145
 00:14:57,127 --> 00:14:59,362
 Victoria, see if you can find Jamie.
+Victoria, 看看能不能找到 Jamie
 
 146
 00:15:03,789 --> 00:15:05,795
 Doctor, Jamie's in there. He's alive!
+博士, Jamie 在这里, 他还活着
 
 147
 00:15:06,080 --> 00:15:10,350
-Well thanks heavens for that! Now you get
-back to the TARDIS, and close the doors!
+Well thanks heavens for that! Now you get back to the TARDIS, and close the doors!
+真是感谢上天．现在你回到 TARDIS 去, 把门关上
 
 148
 00:15:18,978 --> 00:15:19,764
 Sorry about that.
+有点对不住
 
 149
 00:15:20,132 --> 00:15:20,786
 Oh.
+哦
 
 150
 00:15:20,985 --> 00:15:23,339
 Up you get. Come along. Ah.
+起来, 来吧
 
 151
 00:15:27,667 --> 00:15:30,245
 What happened? Did you do that?
+发生了什么？是你干的吗？
 
 152
 00:15:30,423 --> 00:15:31,715
 No time for questions. Come along.
+没时间问问题了, 快来
 
 153
 00:15:33,270 --> 00:15:36,982
 So, you allowed them to trick you.
+所以你就让他们给耍了
 
 154
 00:15:38,155 --> 00:15:47,351
 I await your punishment, Commander.
+我等着你的惩罚, 指挥官
 
 155
 00:15:48,386 --> 00:15:59,964
-We have no time. Everything depends on being ready to
-break free from the ice as soon as they evaporate it.
+We have no time. Everything depends on being ready to break free from the ice as soon as they evaporate it.
+我们没有时间了． 他们把冰松动之后, 我们就破冰而出, 一切就看我们是否准备好了
 
 156
 00:16:00,877 --> 00:16:03,768
-Up you get. Come along
-Miss Garrett. There you are.
+Up you get. Come along. Miss Garrett. There you are.
+起来吧．醒醒．Garrett 小姐．好了
 
 157
 00:16:03,987 --> 00:16:06,647
-Clent. The Doctor did something, but
-don't ask me what it was. Are you alright?
+Clent. The Doctor did something, but don't ask me what it was. Are you alright?
+Clent, 博士肯定干了点什么, 但别问我是什么．你没事吧
 
 158
 00:16:06,832 --> 00:16:08,157
-Oh, the ioniser! They
-made me... disconnect it!
+Oh, the ioniser! They made me... disconnect it!
+哦, 离子器！ 他们强迫我．．把它断开了！
 
 159
 00:16:08,389 --> 00:16:10,066
-Then it must be switched
-on again immediately!
+Then it must be switched on again immediately!
+那就必须马上再次打开它！
 
 160
 00:16:10,245 --> 00:16:11,412
 I don't take orders from you!
+我不是听命于你的！
 
 161
 00:16:11,638 --> 00:16:20,121
-Miss Garrett, if we are to obey Computer
-Control, it must be reconnected. Do so please.
+Miss Garrett, if we are to obey Computer Control, it must be reconnected. Do so please.
+Garret 小姐, 如果我们要听从电脑控制中心的命令, 就要重新连好它．请实施
 
 162
 00:16:20,622 --> 00:16:21,724
 Yes, of course.
+好的, 当然
 
 163
 00:16:21,926 --> 00:16:26,284
-Clent! Their spacecraft is
-powered by an ion reactor.
+Clent! Their spacecraft is powered by an ion reactor.
+Clent! 他们的飞船是靠离子反应器驱动的
 
 164
 00:16:28,146 --> 00:16:33,932
-Well that means we dare not use the ioniser
-at full force. That's our last chance gone.
+Well that means we dare not use the ioniser at full force. That's our last chance gone.
+那这就意味着我们不敢最大功率开启离子器, 我们最后的机会也没有了
 
 165
 00:16:34,125 --> 00:16:35,268
 Why, for heavens sake?
+老天啊, 为什么啊？
 
 166
 00:16:35,440 --> 00:16:38,778
-Because of the risk, man!
-You know what would happen.
+Because of the risk, man! You know what would happen.
+因为有风险, 伙计！你知道可能发生什么
 
 167
 00:16:38,933 --> 00:16:41,543
-Of course there's a risk, but it's a
-risk we must take! It's the only way!
+Of course there's a risk, but it's a risk we must take! It's the only way!
+当然会有风险, 但这是我们必须要冒的风险！ 这是唯一的办法！
 
 168
 00:16:41,699 --> 00:16:42,470
 Exactly!
+的确！
 
 169
 00:16:42,602 --> 00:16:43,447
 The computer says no!
+电脑说了不！
 
 170
 00:16:43,582 --> 00:16:44,236
 The computer...
+电脑．．．
 
 171
 00:16:44,394 --> 00:16:47,323
 Is our supreme advisor.
+它是我们权威顾问
 
 172
 00:16:47,469 --> 00:16:49,491
-And what sort of advice
-is that? Do nothing?
+And what sort of advice is that? Do nothing?
+但这是哪门子建议啊？什么也不做？
 
 173
 00:16:49,657 --> 00:16:50,528
 We must obey!
+我们必须服从！
 
 174
 00:16:50,863 --> 00:16:52,629
-And be destroyed? Has the
-computer considered that?
+And be destroyed? Has the computer considered that?
+必须接受毁灭？电脑考虑过这个吗？
 
 175
 00:16:52,759 --> 00:16:54,570
 The computer considers everything.
+电脑会考虑所有可能
 
 176
 00:16:54,729 --> 00:16:57,324
-But that's why in this case you
-cannot rely on its judgement!
+But that's why in this case you cannot rely on its judgement!
+但这正是为什么你不能依赖于它的判断！
 
 177
 00:16:57,485 --> 00:17:00,561
-We trust the computer! It is
-our strength and our guide.
+We trust the computer! It is our strength and our guide.
+我们相信电脑！它是我们的力量, 是我们的向导
 
 178
 00:17:00,704 --> 00:17:01,503
 Not this time!
+现在不是！
 
 179
 00:17:01,643 --> 00:17:02,349
 Well why not?
+为什么不呢
 
 180
 00:17:02,503 --> 00:17:10,284
-Because Jamie, the computer is faced with an insoluble problem. Either
-way it risks destroying itself and this it cannot do. It must play safe.
+Because Jamie, the computer is faced with an insoluble problem.
+Either way it risks destroying itself and this it cannot do. It must play safe.
+因为, Jamie, 电脑目前面临的是无解的问题．
+选哪条路它都可能毁灭它自己, 这正是它不会干的．它必须得求稳
 
 181
 00:17:10,444 --> 00:17:12,054
-Aye, but if it does
-nothing that's just as bad.
+Aye, but if it does nothing that's just as bad.
+哦．但要是它什么也不干岂不是更糟
 
 182
 00:17:12,210 --> 00:17:13,494
 I'll explain to you another time, Jamie.
+我回头再给详细解释, Jamie
 
 183
 00:17:15,203 --> 00:17:16,696
 There's only one way out.
+只有一条出路
 
 184
 00:17:16,847 --> 00:17:17,345
 What?
+什么路？
 
 185
 00:17:17,482 --> 00:17:18,780
 We must override the computer.
+我们必须越过电脑
 
 186
 00:17:18,947 --> 00:17:20,892
 You can't do that!
+你不能这么做！
 
 187
 00:17:21,081 --> 00:17:31,915
-We must. This is a decision for a man to take, not a machine. The computer isn't
-designed to take risks, but that is the essence of mans procrease. We must decide.
+We must. This is a decision for a man to take, not a machine.
+The computer isn't designed to take risks, but that is the essence of mans procrease. We must decide.
+我们必须．这决定得由人来做, 而不是机器．
+电脑的设计中没有冒风险一说, 但这是人类生存的本质．我们必须决策
 
 188
 00:17:32,044 --> 00:17:41,953
 But if you do that soon ruin the world plan! All the ioniser bases must act together!
 Through World Computer Control! If we act too soon it's as bad as being too late!
+你这么做的话, 全球整体计划会毁于一旦！所有的离子器基地必须一起行动！
+通过世界电脑控制中心来协调！如果我们过早行动, 比太晚行动一样不好！
 
 189
 00:17:42,080 --> 00:17:49,376
-Yes I know that, but the other bases haven't got a glacier right on top of them, and apart
-from that, what about these ice warriors? If they live, they threaten our entire civilisation.
+Yes I know that, but the other bases haven't got a glacier right on top of them,
+and apart from that, what about these ice warriors? If they live, they threaten our entire civilisation.
+是的我知道, 但其他基地的冰山形势并没有迫在眉睫
+更何况这里还有那些寒冰勇士, 如果他们活着, 就会对我们的整个文明造成威胁
 
 190
 00:17:49,547 --> 00:17:52,319
 A decision must be taken, and quickly!
+必须要决策了, 快！
 
 191
 00:17:54,294 --> 00:17:55,680
 I can't.
+我不能
 
 192
 00:18:01,459 --> 00:18:04,444
 I daren't.
+我不敢
 
 193
 00:18:04,735 --> 00:18:06,615
 Penley, it's up to you.
+Penley, 看你的了
 
 194
 00:18:09,001 --> 00:18:10,458
 Well Clent?
+怎样 Clent?
 
 195
 00:18:12,024 --> 00:18:13,726
-I reserve the right to
-consult the computer.
+I reserve the right to consult the computer.
+我还是保留向电脑咨询意见的权利
 
 196
 00:18:13,902 --> 00:18:14,728
 Go ahead.
+行吧
 
 197
 00:18:14,945 --> 00:18:24,179
 Problem: alien spacecraft is powered by an ion reactor.
 Dare we use the ioniser? What are the alternatives? Answer.
+问题：外星飞船是靠离子反应器驱动的．
+我们敢开启离子器吗？其它备选方案是什么？请回答
 
 198
 00:18:24,563 --> 00:18:27,751
 It's as though it's gone mad!
+感觉它已经疯了
 
 199
 00:18:31,981 --> 00:18:32,988
 Well Penley?
+怎样 Penley?
 
 200
 00:18:37,522 --> 00:18:42,299
-We will use the ioniser at full strength to turn back
-the glacier. Miss, Miss Garrett, inform World Control.
+We will use the ioniser at full strength to turn back the glacier.
+Miss, Miss Garrett, inform World Control.
+我们将离子器对准冰山, 功率开到最大．
+Garrett 小姐, 通知世界控制中心
 
 201
 00:18:42,796 --> 00:18:46,472
-Er, but the spaceship, if
-you release it from the ice?
+Er, but the spaceship, if you release it from the ice?
+呃, 那个飞船, 要是被我们从冰山里面放出来怎么办？
 
 202
 00:18:47,404 --> 00:18:49,707
-At full strength the
-ioniser will melt rock!
+At full strength the ioniser will melt rock!
+功率开到最大的话, 离子器可以把岩石都溶掉！
 
 203
 00:18:53,779 --> 00:19:02,418
-Commander, the glacier is
-breaking up. Soon we will be free.
+Commander, the glacier is breaking up. Soon we will be free.
+指挥官, 冰山在分裂了, 很快我们就自由了
 
 204
 00:19:03,296 --> 00:19:12,895
-What use is our freedom if we are
-helpless? Our engines must still dead.
+What use is our freedom if we are helpless? Our engines must still dead.
+现在这种情况我们自由有什么用？我们的引擎还是死的
 
 205
 00:19:13,100 --> 00:19:16,093
 I have not given up yet.
+我还没有放弃
 
 206
 00:19:16,300 --> 00:19:22,048
-Nor I. There must be some
-life left in the elements.
+Nor I. There must be some life left in the elements.
+我也没有．里面应该还有一些活着的fixme
 
 207
 00:19:22,221 --> 00:19:24,840
 Commander, power.
+指挥官, 能源
 
 208
 00:19:25,076 --> 00:19:34,846
-What? The ice is our
-friend. We still have power.
+What? The ice is our friend. We still have power.
+什么？冰雪是我们的朋友．我们还有能量
 
 209
 00:19:35,118 --> 00:19:37,198
 Shall I increase it?
+需要我加大功率吗
 
 210
 00:19:37,392 --> 00:19:44,964
-Carefully. We must time full
-take-off boost perfectly.
+Carefully. We must time full take-off boost perfectly.
+小心一些，我们要支撑整个起飞全程
 
 211
 00:19:45,185 --> 00:19:52,368
-And when we are free and in
-flight, we will be invincible.
+And when we are free and in flight, we will be invincible.
+等我们脱困飞起来之后, 我们就是无敌的了
 
 212
 00:19:56,210 --> 00:20:01,569
-Instrument readings on the glacier face show a
-steady rise in temperature. Now near to maximum.
+Instrument readings on the glacier face show a steady rise in temperature. Now near to maximum.
+探测器显示冰山表面温度逐步爬升, 现在已经快达到最大值
 
 213
 00:20:01,855 --> 00:20:02,878
 Well how will we know?
+我们怎么知道这个？
 
 214
 00:20:03,074 --> 00:20:10,909
-The instruments on the ice face have the highest heat _ resistance known to
-man. When they cease to function, everything about them will be destroyed.
+The instruments on the ice face have the highest heat _ resistance known to man.
+When they cease to function, everything about them will be destroyed.
+冰山表面安装的探测器采用了我们已知的最抗热材料．
+如果他们停止工作了, 说明它们周边东西也都被毁了
 
 215
 00:20:15,693 --> 00:20:19,270
-You're wrong! You're
-wrong! We'll all be killed!
+You're wrong! You're wrong! We'll all be killed!
+你错了！你搞错了！我们全都要死了！
 
 216
 00:20:19,589 --> 00:20:21,683
 It is a risk I willingly take!
+这是我愿意承担的风险！
 
 217
 00:20:27,291 --> 00:21:00,279
-It was not power in the engines, Zondal, it was heat, our
-greatest enemy! The heat from the ioniser! The... heeeeeeeeeat...!
+It was not power in the engines, Zondal, it was heat, our greatest enemy!
+The heat from the ioniser! The... heeeeeeeeeat...!
+不是引擎里面的能量, Zondal, 是热能, 我们最大的敌人！
+来自离子器的热能！ 热．．．！
 
 218
 00:21:29,153 --> 00:21:31,199
 Only a minor explosion.
+只有一次微小的爆炸
 
 219
 00:21:31,705 --> 00:21:33,202
 We're safe!
+我们没事！
 
 220
 00:21:34,008 --> 00:21:35,640
 Oh. Goodness me!
+哦, 感谢老天
 
 221
 00:21:36,231 --> 00:21:53,174
 Set all circuits to automatic, Miss Garrett. And tie in with the World loniser instrumentation.
 Clent, will you, er, check these readings with me? And you've a report to prepare haven't you?
+将所有操作设置到自动模式, Garrett 小姐, 接入世界离子控制中心．
+Clent, 你能否跟我一起检查一下这些读数？而且你还有一份报告要准备对吧？
 
 222
 00:21:55,059 --> 00:22:17,147
 Yes, yes, yes I have. Penley. You are the most insufferably irritating
 and infuriating person, I've ever been privileged to work with.
+是的, 我是有．Penley, 你是我有幸共事过的人当中, 最让人气氛, 最不可忍受, 脾气还最暴的一个
 
 223
 00:22:17,349 --> 00:22:18,105
 Thank you.
+谢谢你
 
 224
 00:22:20,450 --> 00:22:29,959
-Can't write a report though, can you? Something I've got to do for
-you. Well don't worry it's something that I've been trained to do.
+Can't write a report though, can you? Something I've got to do for you.
+Well don't worry it's something that I've been trained to do.
+你没法完成一篇报告吧, 能吗？有些事就得我来帮你忙了．
+别担心, 我受过培训, 这事我擅长．
 
 225
 00:22:30,136 --> 00:22:31,251
 Without the computer?
+不用电脑吗？
 
 226
 00:22:37,160 --> 00:22:44,348
-No Penley. I've always written my
-own speeches, and my own reports.
+No Penley. I've always written my own speeches, and my own reports.
+不 Penley, 我一直都是自己写的讲稿, 还有报告
 
 227
 00:22:45,228 --> 00:22:49,533
-Are you going to include...
-Well where's the Doctor?
+Are you going to include... Well where's the Doctor?
+你打算包含．．．咦, 博士那里去了？
 
