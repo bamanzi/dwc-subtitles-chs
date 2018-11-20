@@ -1,1695 +1,1725 @@
 1
+00:00:00,200 --> 00:00:10,000
+Doctor Who (1963) S03x02 Mission to the Unknown 
+《神秘博士》第三季第二故事 未知领域的任务
+
+2
+00:00:10,200 --> 00:00:20,000
+<i>此集故事为第三季第四故事The Daleks' Master Plan的前传</i>
+
+3
+00:00:20,200 --> 00:00:25,000
+【翻译】巴蛮子sz
+
+4
+00:00:25,200 --> 00:00:30,000
+【时间轴】巴蛮子sz
+
+5
+00:00:30,200 --> 00:00:35,000
+【校对】巴蛮子sz
+
+6
+00:00:35,200 --> 00:00:40,000
+<i>基于 opentitles.org 英文字幕翻译</i>
+
+7
+00:00:40,200 --> 00:00:45,000
+<i>时间轴基于动画修复版对齐</i>
+
+8
 00:01:11,915 --> 00:01:19,337
 I... I remember now. I must...
 我...我想起来了．我必须...
 
-2
+9
 00:01:21,071 --> 00:01:21,909
 I must kill...
-我必须杀
+我必须杀...
 
-3
+10
 00:01:24,757 --> 00:01:26,004
 ...I must kill...
+...我必须杀...
 
-4
+11
 00:01:28,002 --> 00:01:29,470
 I must kill.
+我必须杀
 
-5
+12
 00:02:02,256 --> 00:02:05,654
-Why you ever wanted to land on a planet like this in the first place
-I'll never know.
-为什么你一开始就想降落在这样一个星球上？
-我可能永远不知道
+Why you ever wanted to land on a planet like this in the first place, I'll never know.
+为什么你一开始就想降落在这样一个星球上, 我永远不知道
 
-6
+13
 00:02:06,022 --> 00:02:07,157
 This is getting on my nerves.
 我觉得有点紧张了
 
-7
+14
 00:02:10,947 --> 00:02:12,974
 I hate to think what kind of an animal makes a noise like that.
-什么样的动物会发出那样的声音？我不想去考虑这个问题
+我有点不敢去想，什么样的动物会发出那样的声音？
 
-8
+15
 00:02:13,009 --> 00:02:14,215
 Yeah, they're getting closer.
 是啊, 他们越来越近了
 
-9
+16
 00:02:14,562 --> 00:02:17,757
 Yes, all the more reason to stop talking and get on with the job.
 是, 我们更应该少说话, 赶紧把活儿干完
 
-10
+17
 00:02:19,103 --> 00:02:21,221
 Just you listen to me, Cory.
 你听我说, Cory
 
-11
+18
 00:02:22,519 --> 00:02:24,935
 I know my orders were to let you have full reign
 我知道我得到的命令是完全听你的
 
-12
+19
 00:02:25,038 --> 00:02:26,574
 and you've certainly taken advantage of that.
 而且你也很好地利用了这条命令
 
-13
+20
 00:02:26,698 --> 00:02:30,760
 But as Captain of this expedition, my first responsibility is to get this ship off the ground.
 但作为这个探险队的队长, 我的第一责任是让这艘飞船重新飞起来
 
-14
+21
 00:02:31,073 --> 00:02:32,686
 So just... cut the chat.
 那就．．别闲聊了
 
-15
+22
 00:02:33,851 --> 00:02:34,987
 Some other time, hmm?
 换个时间吧, 怎样？
 
-16
+23
 00:02:36,943 --> 00:02:38,054
 Bring that wrench.
 把那个扳手拿来
 
-17
+24
 00:02:44,543 --> 00:02:46,362
 How's it going?
 进展如何？
 
-18
+25
 00:02:46,783 --> 00:02:47,930
 Ah, it's slow.
 啊, 很慢
 
-19
+26
 00:02:48,410 --> 00:02:50,521
 Flare-back melted the retaining bolts
 回火溶掉了固定螺栓
 
-20
+27
 00:02:50,884 --> 00:02:52,220
 it's just solid lumps of Tarnium.
-都是结实的塔金属板啊fixme
+都是结实的塔金属板啊
 
-21
+28
 00:02:54,450 --> 00:02:55,606
 Ah, got some of it free.
+啊，卸下来一些(fixme)
 
-22
+29
 00:02:56,033 --> 00:02:58,088
 I want to have a look round.
 我必须四周巡查一下
 
-23
+30
 00:03:02,881 --> 00:03:04,824
 Listen, if we don't shoot off soon
 嘿, 如果我们还不赶紧起飞
 
-24
+31
 00:03:05,261 --> 00:03:07,523
 we won't make it to the rendezvous with the freighter, you know?
 我们就来不及跟货船汇合了, 你知道的吧？
 
-25
+32
 00:03:07,965 --> 00:03:10,233
 If we're not in the pick-up orbit, they won't wait.
 如果我们那时没赶到接头的轨道, 他们不会等我们的
 
-26
+33
 00:03:10,558 --> 00:03:12,235
 You'll make it, Lowery. Here you are.
 我们会赶上的, Lowery．给你
 
-27
+34
 00:03:12,667 --> 00:03:14,204
 I'm doing the best I can.
 我尽量吧
 
-28
+35
 00:03:14,239 --> 00:03:16,505
 I didn't want to touch down on this lousy planet in the first place, remember?
 我一开始就不想碰这个恶心的星球的, 记得吧？
 
-29
+36
 00:03:16,540 --> 00:03:17,887
 Let's not start that again.
 咱们别再说这个了
 
-30
+37
 00:03:17,922 --> 00:03:19,148
 Just get on with the job would you?
 赶紧把活儿干完行吗？
 
-31
+38
 00:03:21,279 --> 00:03:23,665
 Where the devil's Garvey?
 见鬼, Garvey 又去哪儿了？
 
-32
+39
 00:03:23,700 --> 00:03:24,725
 He should be back by now.
 他这会儿应该在后面
 
-33
+40
 00:03:25,356 --> 00:03:27,499
 No idea. Pass that screwdriver, will you?
 不知道．把螺丝刀给我, 好吗？
 
-34
+41
 00:03:58,352 --> 00:04:00,155
 Kill! Kill!
 杀！杀！
 
-35
+42
 00:04:03,598 --> 00:04:04,728
 Ahh. Managed to get some of it free.
-啊，终于拆下来了
+啊，终于拆下来了(fixme)
 
-36
+43
 00:04:05,135 --> 00:04:06,739
 Look at it - useless!
 你看 - 这不能用了！
 
-37
+44
 00:04:07,116 --> 00:04:08,412
 Get me a spare, will you?
 给我一个备用的, 行吗？
 
-38
+45
 00:04:09,818 --> 00:04:11,084
 No, in the ship.
 没有, 在飞船里呢
 
-39
+46
 00:04:18,171 --> 00:04:20,620
 Ah, it's no good, Cory.
 啊, 这可不妙, Cory
 
-40
+47
 00:04:21,102 --> 00:04:22,128
 You needn't bother with a spare.
 你不用去找备用件了
 
-41
+48
 00:04:22,163 --> 00:04:23,570
 I'm just not gonna be able to fix it.
 我就没法修好它
 
-42
+49
 00:04:31,099 --> 00:04:33,551
 Jeff! Jeff!
 
-43
+50
 00:04:42,866 --> 00:04:45,710
 You've killed him. You've killed Jeff!
 你杀死了他！ 你杀死了他！
 
-44
+51
 00:04:46,070 --> 00:04:47,136
 It was him or you.
 刚才他没死你就死了
 
-45
+52
 00:04:48,684 --> 00:04:50,231
 You didn't give him a chance.
 你都没给他留一个机会
 
-46
+53
 00:04:50,569 --> 00:04:52,250
 You shot him down like an animal.
 就像杀死一个动物一样开枪了
 
-47
+54
 00:04:52,704 --> 00:04:54,083
 You just shot him down!
 你枪杀了他！
 
-48
+55
 00:05:15,312 --> 00:05:16,210
 A Varga thorn.
 一根 Varga 尖刺
 
-49
+56
 00:05:17,223 --> 00:05:18,901
 Wha? V... Varga?
 什么？V... Varga？
 
-50
+57
 00:05:18,936 --> 00:05:19,998
 Careful! Don't prick yourself with it...
 小心！ 别扎到你自己．．．
 
-51
+58
 00:05:20,448 --> 00:05:21,865
 or you'll end up the way Garvey is.
 要不然你就变得跟 Garvey 一样了
 
-52
+59
 00:05:22,491 --> 00:05:23,198
 I'd have to kill you.
 我就不得不杀死你？
 
-53
+60
 00:05:23,233 --> 00:05:24,399
 What do you mean?
 你什么意思？
 
-54
+61
 00:05:24,533 --> 00:05:26,166
 Let's get back into the ship.
 我们回到飞船里说吧
 
-55
+62
 00:05:26,563 --> 00:05:28,693
 What about his personal effects for his family?
-fixme
+他留给家人的个人物品呢？
 
-56
+63
 00:05:28,728 --> 00:05:30,185
 All right. But hurry up.
 没事, 快来吧
 
-57
+64
 00:06:09,196 --> 00:06:11,246
 I didn't intend to tell you anything
-我本来打算完全不告诉你的
+我本来不打算告诉你任何情况的
 
-58
+65
 00:06:11,913 --> 00:06:14,108
 but since we're stuck on this planet and Garvey is dead
 但现在我们被困在这个星球上, Garvey 又死了
 
-59
+66
 00:06:14,691 --> 00:06:16,873
 there are some facts that you're entitled to know.
-有些情况你得知道了
+有些情况你有权知道了
 
-60
+67
 00:06:17,375 --> 00:06:19,072
 Yeah - Jeff Garvey's dead.
 知道 - Jeff Garvey 他死了
 
-61
+68
 00:06:19,654 --> 00:06:22,137
 I mean, we flew together for the last ten years
 我是说, 过去十年我们都一起飞
 
-62
+69
 00:06:22,590 --> 00:06:24,256
 and now he's dead, and you killed him.
-现在他死了, 你杀死了他
+现在他死了, 是你杀死了他
 
-63
+70
 00:06:24,738 --> 00:06:26,948
 You'd better explain that fact and make it good.
-你最好解释一下这个问题, 给出足够的理由
+你最好解释一下, 最好有个不错的理由
 
-64
+71
 00:06:27,021 --> 00:06:28,317
 Sit down and take a look at this.
 坐下, 看看这个
 
-65
+72
 00:06:35,221 --> 00:06:37,490
 Huh! I might have known
 哈！ 我早该知道的
 
-66
+73
 00:06:37,525 --> 00:06:39,631
 "Space Security Service - Licensed to kill".
 太空安全服务队 - 杀人执照
 
-67
+74
 00:06:39,666 --> 00:06:40,734
 That's right.
 对
 
-68
+75
 00:06:40,769 --> 00:06:41,811
 Well count me out.
-fixme
+别把我算在内(fixme)
 
-69
+76
 00:06:41,846 --> 00:06:44,625
 This other document gives me the authority to enlist the aid of any persons
 这还有一份文件, 授权我可以征用任何人
 
-70
+77
 00:06:44,660 --> 00:06:46,624
 civil or military. You were just enlisted.
 不管是平民还是军队．现在你被征用了
 
-71
+78
 00:06:52,552 --> 00:06:55,919
 From now on, Lowery, you can take your orders from me.
 从现在开始, Lowery, 你得听命于我了
 
-72
+79
 00:06:56,376 --> 00:06:58,260
 Yeah, all right, all right.
 行, 好吧, 好吧
 
-73
+80
 00:06:58,661 --> 00:07:00,187
 But I don't fully understand
 但我还是没完全搞懂
 
-74
+81
 00:07:00,646 --> 00:07:02,038
 better fill in a few details.
 最好给我灌输点细节
 
-75
+82
 00:07:02,073 --> 00:07:02,952
 All right.
 行
 
-76
+83
 00:07:03,424 --> 00:07:05,574
 I suppose you've heard of the Daleks?
 我猜你听说过 Daleks 吧？
 
-77
+84
 00:07:06,046 --> 00:07:08,055
 The Daleks invaded Earth a thousand years ago.
 Daleks 在一千多年前入侵过地球
 
-78
+85
 00:07:08,090 --> 00:07:08,859
 That's right.
 对
 
-79
+86
 00:07:08,894 --> 00:07:11,342
 Well, they haven't been active in our galaxy for some time now
 而且, 他们有好一段没在我们这个星系活动了
 
-80
+87
 00:07:11,377 --> 00:07:14,004
 but that doesn't mean they've exactly been sitting around.
 但这并不意味着他们就在干坐着
 
-81
+88
 00:07:14,619 --> 00:07:16,265
 In the last five hundred years
 在过去的500年里面
 
-82
+89
 00:07:16,300 --> 00:07:19,250
 they've gained control of over seventy planets in Ninth Galactic System
 他们已经夺取了九大星系里面的70多个星球的控制权
 
-83
+90
 00:07:19,285 --> 00:07:21,925
 and forty more in the Constellation of Miros.
 还有 Miros 星座的40多个
 
-84
+91
 00:07:22,501 --> 00:07:25,038
 Don't see why that should concern us.
 看不出这跟我们有什么关系
 
-85
+92
 00:07:25,640 --> 00:07:27,821
 I mean, they're both millions of light years away from our galaxy.
 我是说, 这都离我们星系有几百万光年呢
 
-86
+93
 00:07:28,444 --> 00:07:29,579
 Mmm... that's what we all thought.
 唔．．．我们以前也这么想
 
-87
+94
 00:07:30,539 --> 00:07:33,177
 But about a week ago, we had a report from the captain of a space freighter.
 但是一周以前，我们接到一艘太空货船船长的报告
 
-88
+95
 00:07:33,690 --> 00:07:37,779
 His navigator spotted a... a space ship of a type never before used in our system.
 他的导航员看到了一艘太空船，那种类型从来没有在我们星系里出现过
 
-89
+96
 00:07:38,201 --> 00:07:40,838
 He saw it only for a second but he gave us a good description.
 他只看到了一两秒，但足够他给出了清楚的描述了
 
-90
+97
 00:07:41,265 --> 00:07:42,028
 So?
 怎么说？
 
-91
+98
 00:07:42,063 --> 00:07:45,666
 What he described... was a Dalek spaceship.
 他说描述的...是一艘Dalek太空船
 
-92
+99
 00:08:18,905 --> 00:08:20,924
 Freighter XM2, freighter XM2
 货船 XM2, 货船 XM2
 
-93
+100
 00:08:20,959 --> 00:08:22,954
 come in please, come in please!
 收到请回话, 收到请回话！
 
-94
+101
 00:08:22,989 --> 00:08:24,130
 Can you make it work?
 你能搞定它吗？
 
-95
+102
 00:08:24,165 --> 00:08:24,975
 It's got to work!
 必须搞定！
 
-96
+103
 00:08:25,010 --> 00:08:25,999
 It may have been damaged in the crash.
 可能在坠落的时候受损了
 
-97
+104
 00:08:26,034 --> 00:08:26,973
 We must keep on trying!
 我们还得再试试
 
-98
+105
 00:08:27,008 --> 00:08:28,400
 Have you tested the link pulses?
 你有没有测试过链路脉冲？
 
-99
+106
 00:08:28,435 --> 00:08:29,948
 I know what I'm doing.
 我知道我在干什么
 
-100
+107
 00:08:30,480 --> 00:08:32,086
 All right, all right, so the link pulses work.
 好吧, 好吧, 这么说链接脉冲没有问题
 
-101
+108
 00:08:32,121 --> 00:08:33,474
 There could be something else wrong with it.
 可能是别的什么地方坏了
 
-102
+109
 00:08:33,509 --> 00:08:34,771
 What about the Vergometer?
 伟尔热计情况怎样？
 
-103
+110
 00:08:34,806 --> 00:08:35,615
 Have you tested that?
 你测试过吗？
 
-104
+111
 00:08:35,650 --> 00:08:36,921
 Without that you'd never break through the atmosphere.
 没有这东西你别想冲出大气层
 
-105
+112
 00:08:36,956 --> 00:08:38,005
 How can I possibly test that?
 我怎么能够测出来呢？
 
-106
+113
 00:08:38,040 --> 00:08:39,494
 We've just got to take our chance that it hasn't been damaged.
 我们只能赌一把, 赌它还没有损坏了
 
-107
+114
 00:08:39,529 --> 00:08:40,747
 Freighter XM2.
 货船 XM2
 
-108
+115
 00:08:40,782 --> 00:08:42,508
 Freighter XM2, come in please!
 货船 XM2, 收到请回话！
 
-109
+116
 00:08:42,543 --> 00:08:43,563
 Come in please!
 请回话！
 
-110
+117
 00:08:50,174 --> 00:08:51,551
 It's useless.
 没用
 
-111
+118
 00:08:52,123 --> 00:08:54,605
 Are you sure we can't repair this ship?
 你确定我们修不好这艘船了吗？
 
-112
+119
 00:08:55,028 --> 00:08:56,273
 Oh, not a chance.
 哦, 一点机会也没有
 
-113
+120
 00:08:58,582 --> 00:09:01,649
 So you think that the Daleks have established some sort of a base here, is that it?
 这么说你觉得这些 Daleks 在这里建立了基地什么的, 是吧？
 
-114
+121
 00:09:03,377 --> 00:09:05,687
 It could be. This is the most hostile planet in the universe.
 有可能．这是宇宙中最有敌意的星球
 
-115
+122
 00:09:06,773 --> 00:09:08,399
 People from other civilisations avoid it.
 其它文明世界的人都绕开它走
 
-116
+123
 00:09:08,434 --> 00:09:09,889
 I suddenly had a hunch...
 我突然有种感觉．．．
 
-117
+124
 00:09:10,642 --> 00:09:15,507
 that this might make an ideal place for any secret preparations that the Daleks wanted to make.
 这可能是个理想的场所, 那些 Daleks 在这里秘密地准备着些什么
 
-118
+125
 00:09:15,737 --> 00:09:17,193
 That's why we brought this ship down here.
 这就是为什么我们把飞船降落在这里
 
-119
+126
 00:09:18,468 --> 00:09:19,876
 Did you tell anybody else about this hunch of yours?
 你跟别人说过你的这个想法吗？
 
-120
+127
 00:09:19,911 --> 00:09:22,086
 No one - not even your commander.
 谁也没有 - 即使是你的指挥官
 
-121
+128
 00:09:22,121 --> 00:09:23,021
 Huh!
 嘘
 
-122
+129
 00:09:23,056 --> 00:09:24,960
 I just asked for a couple of men and a small rocket.
 我只是申请了几个人, 还有一艘小火箭
 
-123
+130
 00:09:24,995 --> 00:09:26,467
 I didn't even tell him what for.
 我甚至都没有告诉他目的是什么
 
-124
+131
 00:09:26,502 --> 00:09:27,723
 Then why are you telling me?
 那你为什么又告诉我？
 
-125
+132
 00:09:31,959 --> 00:09:33,034
 Because of this
 因为这个
 
-126
+133
 00:09:33,566 --> 00:09:35,595
 a thorn from a Varga plant.
 来自一种名叫 Varga 的植物上的尖刺
 
-127
+134
 00:09:36,209 --> 00:09:39,967
 A thing... part animal, part vegetable, looks like a cactus.
 这种东西．．．半是动物, 半是植物, 看起来有点像仙人掌
 
-128
+135
 00:09:40,445 --> 00:09:42,704
 The poison attacks the brain.
 它的毒性直攻大脑
 
-129
+136
 00:09:43,213 --> 00:09:47,312
 Rational thought is replaced by an overwhelming desire to kill.
 理性思考会消失, 取而代之的是不可抑制的杀戮欲望
 
-130
+137
 00:09:47,728 --> 00:09:49,815
 Eventually the poison seeps through the system
 最终这种毒会渗透出来
 
-131
+138
 00:09:50,327 --> 00:09:52,252
 and the victim is gradually transformed...
 然后受害者就会完全变成．．．
 
-132
+139
 00:09:52,686 --> 00:09:53,690
 into a Varga.
 一个 Varga
 
-133
+140
 00:09:53,725 --> 00:09:55,140
 Well, what's that gotta do with the Daleks?
 那这跟 Daleks 又有什么关系？
 
-134
+141
 00:09:55,175 --> 00:09:57,536
 The only place in the universe where Vargas grow naturally is
 这个宇宙中, Varga 唯一能自然生长的地方
 
-135
+142
 00:09:57,571 --> 00:09:59,169
 on the Daleks' own planet
 就是 Daleks 自己的星球
 
-136
+143
 00:09:59,204 --> 00:10:00,113
 Skaro.
 Skaro 星球
 
-137
+144
 00:10:00,586 --> 00:10:03,931
 If the Vargas are here, the Daleks are too.
 如果 Varga 在这里, 那么 Daleks 也在
 
-138
+145
 00:10:29,586 --> 00:10:32,455
 <i><b>I will receive your reports.</b></i>
 我将接收你们的报告
 
-139
+146
 00:10:33,084 --> 00:10:35,907
 <i><b>First - space monitor control.</b></i>
 首先：太空监控中心
 
-140
+147
 00:10:38,429 --> 00:10:41,333
 <i><b>Space monitor control.</b></i>
 太空监控中心报告
 
-141
+148
 00:10:41,875 --> 00:10:48,020
 <i><b>The emissaries from the seven planets will arrive as arranged.</b></i>
 来自七大星球的密使已经如约抵达了
 
-142
+149
 00:10:49,182 --> 00:10:53,423
 <i><b>Then the conference will begin at first sun.</b></i>
 那么天一亮会议就开始
 
-143
+150
 00:10:54,126 --> 00:10:57,316
 <i><b>Security report?</b></i>
 安全报告？
 
-144
+151
 00:10:57,943 --> 00:11:01,522
 <i><b>Security control.</b></i>
 安全中心报告
 
-145
+152
 00:11:01,995 --> 00:11:05,712
 <i><b>Position of alien space craft located.</b></i>
 外星飞船的位置已经确定
 
-146
+153
 00:11:05,986 --> 00:11:09,081
 <i><b>Our patrol will reach it shortly.</b></i>
 我们的巡逻队将很快到达那里
 
-147
+154
 00:11:09,296 --> 00:11:13,632
 <i><b>The ship and its occupants must be totally destroyed.</b></i>
 那艘飞船和上面的乘客将会被完全消灭掉
 
-148
+155
 00:11:13,935 --> 00:11:16,412
 <i><b>Destroyed! Destroyed!</b></i>
 消灭掉！消灭掉！
 
-149
+156
 00:11:16,980 --> 00:11:18,698
 <i><b>It will be done.</b></i>
 会完成的．
 
-150
+157
 00:11:51,675 --> 00:11:52,693
 Is anything out there?
 外面有什么？
 
-151
+158
 00:11:53,122 --> 00:11:53,935
 Vargas - they're closing in.
 都是 Varga, 他们在逼近
 
-152
+159
 00:11:54,681 --> 00:11:55,519
 Do you mean to say they can move?
 你是说他们可以移动？
 
-153
+160
 00:11:55,810 --> 00:11:56,704
 Very slowly - look.
 很慢, 你看
 
-154
+161
 00:11:57,065 --> 00:11:58,959
 They use their roots to drag themselves along.
 它们用它们的根来拖动前行
 
-155
+162
 00:11:59,185 --> 00:12:00,492
 How long are you gonna be with this... this rescue beacon?
 你搞定这个东西还需要多久．．．这个求救信号？
 
-156
+163
 00:12:01,169 --> 00:12:02,502
 Well this is the recording part.
 这是录制部分
 
-157
+164
 00:12:02,537 --> 00:12:04,040
 Let's hope it wasn't damaged in the crash.
 期望它没在坠落中毁坏
 
-158
+165
 00:12:04,075 --> 00:12:05,391
 We'll soon find out. Can you fix this capsule up?
 很快我们就能知道．你能修好上面的舱体部分吗？
 
-159
+166
 00:12:05,392 --> 00:12:06,396
 Well that's easy enough
 这个很简单
 
-160
+167
 00:12:06,431 --> 00:12:08,174
 but this is the recording mechanism for the message.
 但这是录制消息的部分
 
-161
+168
 00:12:08,726 --> 00:12:10,978
 If we sent the rocket into space without this
 如果我们送入太空的火箭上缺少这个
 
-162
+169
 00:12:11,013 --> 00:12:12,727
 not only would we not be rescued
 不仅我们不会得救
 
-163
+170
 00:12:12,762 --> 00:12:13,983
 but if you put it up early
 但如果你把它挂得太早(fixme)
 
-164
+171
 00:12:14,018 --> 00:12:15,197
 no one would even know we were here.
 没有人会知道我们在这里
 
-165
+172
 00:12:15,232 --> 00:12:16,311
 Hurry up and attach it then.
 快点, 把它接上去
 
-166
+173
 00:12:16,346 --> 00:12:17,277
 All right, all right!
 好吧, 好吧
 
-167
+174
 00:12:17,312 --> 00:12:18,449
 I'm as keen to get out of here as you are.
 我跟你一样, 想快点离开这里
 
-168
+175
 00:12:19,467 --> 00:12:20,352
 Give me those pliers will you?
 把那钳子给我好吗？
 
-169
+176
 00:12:20,885 --> 00:12:22,080
 Nearly finished.
 快完成了
 
-170
+177
 00:12:22,422 --> 00:12:23,140
 Good.
 很好
 
-171
+178
 00:12:23,175 --> 00:12:24,731
 I don't know how long we've got.
 我不知道我们还有多少时间
 
-172
+179
 00:12:25,234 --> 00:12:26,330
 Now the Daleks must know we're here.
 现在 Daleks 一定知道我们在这里了
 
-173
+180
 00:12:26,365 --> 00:12:27,536
 They'll be coming for us soon.
 他们很快就会过来
 
-174
+181
 00:12:27,571 --> 00:12:29,837
 Well I still think you're jumping to conclusions, you know.
 我还是觉得你的推断有点跳跃
 
-175
+182
 00:12:29,872 --> 00:12:31,101
 I mean, just 'cos these...
 我是说, 因为这些．．．
 
-176
+183
 00:12:31,136 --> 00:12:32,125
 what are they...
 不管它们叫什么吧．．．
 
-177
+184
 00:12:32,160 --> 00:12:33,141
 Varga things grow here
 这些 Varga 长在这里
 
-178
+185
 00:12:33,176 --> 00:12:34,611
 it's no proof that the Daleks are here too.
 没有证据表明 Daleks 也在这里
 
-179
+186
 00:12:34,646 --> 00:12:36,086
 Take my word for it, they're here all right.
 相信我的话吧, 他们就在这里, 行不？
 
-180
+187
 00:12:36,578 --> 00:12:38,488
 Yes, but couldn't these Varga things grow here naturally?
 但这些 Varga 就不可能是在这里自然生长出来的？
 
-181
+188
 00:12:39,141 --> 00:12:41,101
 I mean... it's possible, isn't it?
 我是说．．．这是有可能的, 对吧？
 
-182
+189
 00:12:41,136 --> 00:12:43,251
 No, they were developed in Dalek laboratories.
 不, 它们是在 Dalek 的实验室里培养出来的
 
-183
+190
 00:12:43,286 --> 00:12:44,869
 They grow them to give themselves protection.
 他们培养它的时候给了它自我保护能力
 
-184
+191
 00:12:44,904 --> 00:12:46,251
 Well if they're synthetic, that means they...
 如果它们是后天造出来的, 那就意味着它们．．．
 
-185
+192
 00:12:46,286 --> 00:12:48,153
 Look, stop asking questions and get on with the work!
 听着, 别再这么多问题, 赶紧把活干完！
 
-186
+193
 00:12:50,585 --> 00:12:51,777
 All right...
 好吧．．．
 
-187
+194
 00:12:57,599 --> 00:13:02,272
 <i><b>Preceptor readings indicated alien space craft.</b></i>
 探测器数据显示出这是外星飞船
 
-188
+195
 00:13:04,120 --> 00:13:07,602
 <i><b>We will close on it from two directions.</b></i>
 我们将从两个方向逼近它
 
-189
+196
 00:13:08,984 --> 00:13:10,868
 <i><b>We obey.</b></i>
 遵命
 
-190
+197
 00:13:23,841 --> 00:13:25,830
 Those things are getting too close for comfort.
 这些东西靠得太近了, 不太安全
 
-191
+198
 00:13:26,024 --> 00:13:26,828
 I'll fix 'em.
 我就要修好了
 
-192
+199
 00:13:26,863 --> 00:13:28,044
 It's no good, Lowery.
 这不太妙, Lowery
 
-193
+200
 00:13:28,079 --> 00:13:29,169
 They'll only grow again as fast as you can shoot them.
 你打死它们, 它们又很快会长出来
 
-194
+201
 00:13:29,204 --> 00:13:30,465
 At least I'll have had a try at 'em.
 但至少我得试一试
 
-195
+202
 00:13:30,500 --> 00:13:31,490
 Get back to the beacon.
 回去搞定 beacon 吧
 
-196
+203
 00:13:32,469 --> 00:13:34,227
 You sure it'll work?
 你确定它能工作吗？
 
-197
+204
 00:13:35,547 --> 00:13:36,866
 Well it should work
 应该能
 
-198
+205
 00:13:36,901 --> 00:13:39,044
 it's standard safety equipment on all rocket ships.
 这是所有火箭飞船上面的标准安全设备
 
-199
+206
 00:13:39,397 --> 00:13:40,442
 What does it do exactly?
 它具体能干什么？
 
-200
+207
 00:13:41,009 --> 00:13:42,692
 Well, you record the message, SOS
 哦, 你录下口信, SOS 求救信号
 
-201
+208
 00:13:43,144 --> 00:13:44,591
 on this, just like an ordinary tape recorder.
 录入这里, 就像普通的录音带一样
 
-202
+209
 00:13:45,028 --> 00:13:47,038
 The rocket launcher shoots it high into orbit
 火箭发射器就把它送到轨道上
 
-203
+210
 00:13:47,676 --> 00:13:48,862
 once it's in orbit it transmits the message
 一旦它进入轨道, 它就能传送录下的口信
 
-204
+211
 00:13:48,897 --> 00:13:49,836
 simple.
 很简单
 
-205
+212
 00:13:49,871 --> 00:13:52,691
 From what we know about the Daleks, we've got to be picked up.
 以我们现在对 Daleks 的了解, 他们得赶紧把我们救走
 
-206
+213
 00:13:53,223 --> 00:13:54,408
 Well it's tuned into a special frequency
 ．．．它就会编码到一个特殊的频率
 
-207
+214
 00:13:54,443 --> 00:13:56,134
 and there are listening posts all over the galaxy.
 在整个星系都遍布着接收站
 
-208
+215
 00:13:56,169 --> 00:13:57,463
 Our people should get the message.
 我们的人应该能收到信息
 
-209
+216
 00:13:57,498 --> 00:13:58,548
 And all we have to do...
 我们必须要做的．．．
 
-210
+217
 00:13:58,583 --> 00:14:00,728
 is to stay alive until they get here.
 就是坚持活到他们到达这里
 
-211
+218
 00:14:13,786 --> 00:14:15,249
 That's the biggest rocket ship I've ever seen.
 那是我见过的最大的飞船
 
-212
+219
 00:14:15,797 --> 00:14:17,189
 It's like nothing we've got.
 跟我们的一点也不像
 
-213
+220
 00:14:17,224 --> 00:14:18,634
 It's from an outer galaxy.
 它是从我们星系来的
 
-214
+221
 00:14:19,076 --> 00:14:20,941
 Yeah, but what's it doing in a God-forsaken planet like this?
 是, 但它到这样一个鬼星球来做什么？
 
-215
+222
 00:14:21,030 --> 00:14:22,202
 I don't know.
 我不知道
 
-216
+223
 00:14:22,523 --> 00:14:23,747
 But I'll tell you this
 但我跟你说
 
-217
+224
 00:14:24,231 --> 00:14:26,346
 there's something very big going on here,
 这里一定有什么大事
 
-218
+225
 00:14:26,742 --> 00:14:29,236
 and if the Daleks are involved,
 而且如果有 Daleks 参与的话
 
-219
+226
 00:14:29,271 --> 00:14:32,068
 you can bet your life our whole galaxy is in danger!
 可以打赌说我们整个星系都有危险！
 
-220
+227
 00:14:36,645 --> 00:14:40,077
 <i><b>The ship from the planet Gearon...</b></i>
 这艘飞船来自 Gearon 星．．．
 
-221
+228
 00:14:40,740 --> 00:14:44,558
 <i><b>...and the beginning of the Great Alliance.</b></i>
 ．．．从而开启了大联盟时代
 
-222
+229
 00:14:58,394 --> 00:15:00,265
 That should just about do it.
 fixme
 
-223
+230
 00:15:00,761 --> 00:15:02,695
 Give me the capsule will you.
 把那个火箭给我好吗
 
-224
+231
 00:15:02,730 --> 00:15:03,609
 I'll record the message.
 我来录口讯
 
-225
+232
 00:15:04,152 --> 00:15:05,287
 What is it?
 什么东西？
 
-226
+233
 00:15:05,322 --> 00:15:06,695
 There's something out there moving.
 外面有什么东西在移动
 
-227
+234
 00:15:06,730 --> 00:15:07,922
 Vargas?
 是 Varga?
 
-228
+235
 00:15:08,171 --> 00:15:10,431
 No. Moving too quickly.
 不, 移动得很快
 
-229
+236
 00:15:10,834 --> 00:15:13,002
 Come on, we've gotta... gotta get away.
 快来, 我们得．．．得躲开
 
-230
+237
 00:15:13,446 --> 00:15:14,359
 What about the distress signal?
 求救信号怎么版？
 
-231
+238
 00:15:14,394 --> 00:15:16,370
 Take it with us, launch it as soon as we get a chance.
 带上它, 一有机会就发射
 
-232
+239
 00:15:16,742 --> 00:15:18,009
 All right. Which way?
 好吧, 走哪边？
 
-233
+240
 00:15:18,044 --> 00:15:18,994
 Over here.
 这边
 
-234
+241
 00:15:22,671 --> 00:15:24,539
 They won't be the only ones, so watch out.
 他们肯定不只一个, 所以小心点
 
-235
+242
 00:15:25,899 --> 00:15:26,921
 Cory!
 Cory!
 
-236
+243
 00:15:26,956 --> 00:15:28,770
 Get down and don't make a sound!
 蹲下, 别出声！
 
-237
+244
 00:15:48,542 --> 00:15:51,556
 <i><b>The ship is empty. The crew has gone.</b></i>
 飞船是空的, 船员已经跑了
 
-238
+245
 00:15:52,759 --> 00:15:54,390
 <i><b>We will search for them.</b></i>
 我们要寻找他们
 
-239
+246
 00:15:55,225 --> 00:15:57,908
 <i><b>Destroy the ship. Fire!</b></i>
 摧毁这艘飞船． 开火！
 
-240
+247
 00:16:02,366 --> 00:16:04,670
 It's just falling apart!
 它垮掉了！
 
-241
+248
 00:16:05,082 --> 00:16:06,721
 Come on!
 快来！
 
-242
+249
 00:16:35,176 --> 00:16:37,822
 Come on man! Come on!
 快来啊, 快！
 
-243
+250
 00:16:38,154 --> 00:16:39,369
 They'll be looking for us now!
 他们现在在找我们
 
-244
+251
 00:16:51,970 --> 00:16:56,235
 <i><b>Report destruction of alien ship to control.</b></i>
 向控制中心报告外星飞船已被摧毁
 
-245
+252
 00:16:56,563 --> 00:16:58,618
 <i><b>I obey.</b></i>
 遵命
 
-246
+253
 00:16:59,019 --> 00:17:02,216
 <i><b>Advise that we will now seek out the crew.</b></i>
 建议我们现在开始寻找它的船员
 
-247
+254
 00:17:02,592 --> 00:17:04,867
 <i><b>Alert all patrols.</b></i>
 通知所有巡逻队员
 
-248
+255
 00:17:05,920 --> 00:17:07,511
 <i><b>We obey.</b></i>
-遵命
+我们遵命
 
-249
+256
 00:17:18,081 --> 00:17:21,236
-<i><b>With the arrival of our ally</b></i>
-随着我们盟友的到来
+<i><b>With the arrival of our ally Malpha</b></i>
+随着我们盟友 Malpha 的到来
 
-250
+257
 00:17:21,637 --> 00:17:24,195
-<i><b>Malpha, we are enough.</b></i>
-fixme
+<i><b>we are enough.</b></i>
+我们都到齐了
 
-251
+258
 00:17:24,753 --> 00:17:27,240
 <i><b>The meeting can now begin.</b></i>
 会议现在开始
 
-252
+259
 00:17:27,667 --> 00:17:29,656
 No it can't.
 不, 还不能
 
-253
+260
 00:17:30,159 --> 00:17:31,635
 <i><b>What is wrong?</b></i>
 什么情况？
 
-254
+261
 00:17:31,670 --> 00:17:35,413
 There is a hostile presence among us.
 我们中间有一个坏人
 
-255
+262
 00:17:35,827 --> 00:17:37,890
 <i><b>What do you mean?</b></i>
 你什么意思？
 
-256
+263
 00:17:38,277 --> 00:17:39,804
 On arrival here
 我一到达这里
 
-257
+264
 00:17:40,287 --> 00:17:43,966
 I am told that there are hostile influences
 就被告知这里有敌对势力
 
-258
+265
 00:17:44,338 --> 00:17:46,960
 from the solar system among us.
 来自我们的太阳系
 
-259
+266
 00:17:50,687 --> 00:17:52,488
 <i><b>Not among us.</b></i>
 不在我们中间
 
-260
+267
 00:17:52,938 --> 00:17:55,460
 Then here - on the planet Kembel.
 那就是这里 - Kembel 星上
 
-261
+268
 00:17:56,072 --> 00:17:59,650
 <i><b>Some beings have landed from the planet Earth</b></i>
 有些从地球来的生物降落到这里了
 
-262
+269
 00:18:00,082 --> 00:18:04,167
 <i><b>hostile beings from the centre of the solar system.</b></i>
 来自太阳系中心的敌对生物
 
-263
+270
 00:18:04,951 --> 00:18:10,372
 <i><b>But do not worry, their spaceship has been destroyed.</b></i>
 不过不用担心, 他们的飞船已经被摧毁了
 
-264
+271
 00:18:10,894 --> 00:18:13,710
 What about the beings?
 那些人呢？
 
-265
+272
 00:18:14,220 --> 00:18:16,159
 <i><b>They cannot escape.</b></i>
 他们跑不了
 
-266
+273
 00:18:16,603 --> 00:18:20,890
 <i><b>At this moment they are being hunted down.</b></i>
 现在我们正在追捕他们
 
-267
+274
 00:18:21,412 --> 00:18:23,442
 <i><b>They will be destroyed.</b></i>
 他们会被摧毁
 
-268
+275
 00:18:23,904 --> 00:18:25,622
 Are you sure?
 你确定吗？
 
-269
+276
 00:18:26,296 --> 00:18:28,705
 <i><b>They cannot get away.</b></i>
 他们不可能逃脱
 
-270
+277
 00:18:29,179 --> 00:18:33,350
 Suppose they send a message through this universe?
 假如他们已经往宇宙发了信息呢？
 
-271
+278
 00:18:33,973 --> 00:18:36,656
 <i><b>They will not have time.</b></i>
 他们没有足够时间
 
-272
+279
 00:18:37,127 --> 00:18:40,874
 <i><b>If they do not die by our Varga plants</b></i>
 即使他们没死在我们的 Varga 植物上
 
-273
+280
 00:18:41,488 --> 00:18:43,624
 <i><b>my patrols will kill them!</b></i>
 我的巡逻队也会杀了他们
 
-274
+281
 00:18:44,000 --> 00:18:47,527
 <i><b>They will be exterminated! Exterminated!</b></i>
 他们会被摧毁！摧毁！
 
-275
+282
 00:18:52,099 --> 00:18:53,335
 This way.
 这边请
 
-276
+283
 00:19:00,540 --> 00:19:02,418
 Agreed.
 同意
 
-277
+284
 00:19:02,878 --> 00:19:05,613
 Agreed.
 同意
 
-278
+285
 00:19:07,533 --> 00:19:11,039
 <i><b>All are agreed. It is done.</b></i>
 所有都同意．完成了
 
-279
+286
 00:19:11,432 --> 00:19:15,525
 <i><b>The seven great powers of the outer galaxies are one.</b></i>
 外星系七大势力已经合一
 
-280
+287
 00:19:16,051 --> 00:19:20,745
 Our galactic domination... We are the mightiest in the universe!
 我们的星际统治．．．我们是全宇宙最强大的！
 
-281
+288
 00:19:25,880 --> 00:19:30,598
 This is indeed an historic moment in the history of the universe!
 这真是宇宙历史中最具历史性的一刻
 
-282
+289
 00:19:31,427 --> 00:19:34,512
 We six from the outer galaxies
 我们来自外星系的六大成员
 
-283
+290
 00:19:35,033 --> 00:19:38,011
 joining with the power from the solar system
 与太阳系的力量合在一起
 
-284
+291
 00:19:38,681 --> 00:19:40,646
 The Daleks!
 
-285
+292
 00:19:41,304 --> 00:19:47,053
 The seven of us represent the greatest war force ever assembled!
 我们七方代表着从未有过的强大战斗力！
 
-286
+293
 00:19:47,574 --> 00:19:50,719
 Conquest is assured!
 征服在即！
 
-287
+294
 00:19:52,704 --> 00:19:53,960
 Mars!
 火星！
 
-288
+295
 00:19:55,241 --> 00:19:56,472
 Venus!
 金星！
 
-289
+296
 00:19:58,606 --> 00:19:59,987
 Jupiter!
 木星！
 
-290
+297
 00:20:02,033 --> 00:20:03,691
 The moon colonies!
 月球殖民地！
 
-291
+298
 00:20:05,801 --> 00:20:09,468
 <i><b>They will all fall before our might.</b></i>
 他们都将在我们的力量前陨落
 
-292
+299
 00:20:09,910 --> 00:20:13,257
 <i><b>But the first of them will be...</b></i>
 但他们当中的第一个将是．．．
 
-293
+300
 00:20:14,591 --> 00:20:16,126
 <i><b>Earth!</b></i>
 地球！
 
-294
+301
 00:20:54,987 --> 00:20:56,504
 We've got to get this capsule off and fast.
-我们得把这个拿掉, 赶紧fixme
+我们得把这个发射出去, 赶紧
 
-295
+302
 00:20:56,885 --> 00:20:59,548
 There's a city down there - a Dalek city.
 下面有一个城市 - 一座 Dalek 城市
 
-296
+303
 00:21:00,001 --> 00:21:01,056
 I got quite close.
 我离它很近
 
-297
+304
 00:21:01,549 --> 00:21:03,998
 Close enough to hear an announcement through the loudspeaker system.
 近到都可以听到他们从喇叭里面播出来的宣告
 
-298
+305
 00:21:04,391 --> 00:21:06,582
 And what did they...?
 他们到底在．．．
 
-299
+306
 00:21:07,140 --> 00:21:10,800
 Our whole galaxy is to be invaded and destroyed!
 我们整个星系要被入侵了, 恐怕不保
 
-300
+307
 00:21:11,410 --> 00:21:12,734
 Kill...
 杀．．．
 
-301
+308
 00:21:14,269 --> 00:21:15,122
 What?
 什么
 
-302
+309
 00:21:15,453 --> 00:21:17,007
 You must kill...
 你必须杀．．．
 
-303
+310
 00:21:17,509 --> 00:21:18,910
 The Varga!
 
-304
+311
 00:21:19,273 --> 00:21:20,273
 That's right.
 对了
 
-305
+312
 00:21:20,669 --> 00:21:21,473
 I'll soon...
 我很快．．．
 
-306
+313
 00:21:21,823 --> 00:21:23,213
 soon I shall be one of them...
 很快我就将是它们的一员．．．
 
-307
+314
 00:21:23,743 --> 00:21:25,823
 Kill... Kill!
 杀．．．杀！
 
-308
+315
 00:21:43,758 --> 00:21:44,513
 This is Marc Cory
 我是 Marc Cory
 
-309
+316
 00:21:44,548 --> 00:21:45,799
 Special Security Service
 隶属特别安全队
 
-310
+317
 00:21:45,834 --> 00:21:47,164
 reporting from the planet Kembel.
 正在从 Kembel 星球报告情况
 
-311
+318
 00:21:47,199 --> 00:21:50,812
 The Daleks are planning the complete destruction of our galaxy.
 Daleks 正在计划对我们星系的全面毁灭行动
 
-312
+319
 00:21:51,295 --> 00:21:52,993
 Together with the powers of the outer galaxies
 参与者还有外星系的力量
 
-313
+320
 00:21:53,028 --> 00:21:55,373
 a war force is being assembled...
 一股武装力量已经集结起来．．．
 
-314
+321
 00:21:55,408 --> 00:21:58,468
 <i><b>Seismic detector is registering.</b></i>
 震动探测器发现情况
 
-315
+322
 00:21:58,992 --> 00:22:02,898
 <i><b>The crew from the rocket ship must be in this direction.</b></i>
 那首火箭飞船的船员一定在这个方向
 
-316
+323
 00:22:03,421 --> 00:22:06,758
 <i><b>Are they to be taken for questioning?</b></i>
 需要把他们带回去问话吗？
 
-317
+324
 00:22:07,301 --> 00:22:08,127
 <i><b>No.</b></i>
 不
 
-318
+325
 00:22:08,629 --> 00:22:10,875
 <i><b>They are to be exterminated.</b></i>
 他们将被消灭！
 
-319
+326
 00:22:11,553 --> 00:22:13,089
 <i><b>Destroy them on sight.</b></i>
 一发现就消灭他们
 
-320
+327
 00:22:13,593 --> 00:22:16,027
 <i><b>Destroy and exterminate!</b></i>
 摧毁！消灭！
 
-321
+328
 00:22:17,658 --> 00:22:18,868
 <i><b>We obey.</b></i>
 遵命
 
-322
+329
 00:22:23,184 --> 00:22:24,847
 If our galaxy is to be saved
 如果我们的星系有救的话．．．
 
-323
+330
 00:22:25,330 --> 00:22:30,218
 whoever receives this message must relay this information to Earth immediately.
 谁收到这个消息必须立刻将其转发给地球
 
-324
+331
 00:22:30,624 --> 00:22:34,051
 It... it is vital that...
 这．．．这非常重要．．．
 
-325
+332
 00:22:34,804 --> 00:22:37,819
 defence mechanisms are put into operation at once!
-防御机制必须马上实施！
+防御机制必须马上开动起来！
 
-326
+333
 00:22:38,199 --> 00:22:39,259
 Message ends
 消息结束．
 
-327
+334
 00:22:43,949 --> 00:22:46,047
 <i><b>Fire.</b></i>
 开火
 
-328
+335
 00:22:54,724 --> 00:22:56,406
 <i><b>He is dead.</b></i>
 他死了
 
-329
+336
 00:22:56,758 --> 00:23:01,280
 <i><b>Our plans for the galactic conquest are safe.</b></i>
 我们的星际征服计划安全了
 
-330
+337
 00:23:01,750 --> 00:23:08,072
 <i><b>Whatever information he discovered has died with him.</b></i>
 他说发现的情报已经跟随他一起死了
 
-331
+338
 00:23:11,546 --> 00:23:13,827
 <i><b>Return to the city.</b></i>
 回到城市
 
-332
+339
 00:23:15,586 --> 00:23:17,364
 <i><b>We obey.</b></i>
-遵命
+我们遵命
 
-333
+340
 00:23:25,161 --> 00:23:28,497
 Now all is ready.
 现在万事具备了
 
-334
+341
 00:23:29,169 --> 00:23:34,763
 We at this table pledge our allegiance to the Dalek cause.
-fixme
+我们在这个桌子上宣誓效忠 Dalek 事业
 
-335
+342
 00:23:34,914 --> 00:23:38,063
 Our armies will reduce the galaxies to ashes
 我们的军队会把这些星系变成灰烬
 
-336
+343
 00:23:38,612 --> 00:23:40,525
 their people to dust
 把他们的人民变成黄土
 
-337
+344
 00:23:41,167 --> 00:23:44,535
 and Earth we will conquer first.
 而地球将会最先被征服
 
-338
+345
 00:23:45,468 --> 00:23:47,578
 Victory!
 胜利！
 
-339
+346
 00:23:48,096 --> 00:23:49,743
 ...Victory!
 ．．．胜利！
 
-340
+347
 00:23:50,237 --> 00:23:53,521
 <i><b>Victory! Victory! Victory!</b></i>
 胜利！胜利！胜利！
