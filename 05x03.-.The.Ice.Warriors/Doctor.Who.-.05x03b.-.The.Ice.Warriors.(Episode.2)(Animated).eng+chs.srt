@@ -1,1471 +1,1496 @@
 1
+00:00:00,200 --> 00:00:15,000
+Doctor Who (1963) 05x03 The Ice Warriros (Episode 2)
+《神秘博士》第五季第三故事 寒冰勇士 (第二小集)
+
+2
+00:00:20,200 --> 00:00:25,000
+【翻译】巴蛮子sz
+
+3
+00:00:25,200 --> 00:00:30,000
+【时间轴】巴蛮子sz
+
+4
+00:00:30,200 --> 00:00:35,000
+【校对】巴蛮子sz
+
+5
+00:00:35,200 --> 00:00:42,000
+<i>基于 opentitles.org 英文字幕翻译</i>
+
+6
+00:00:45,200 --> 00:00:52,000
+<i>备注: 本集字幕时间轴根据2013年发布的动画版对齐调整</i>
+
+7
 00:01:03,445 --> 00:01:04,296
 VICTORIA: Jamie!
 
-2
+8
 00:01:16,733 --> 00:01:21,433
 CLENT: He took just forty five seconds to propose ionisation. No prior knowledge.
 他仅仅用了45秒就提出了离子化的建议, 没有任何背景了解。
 
-3
+9
 00:01:21,724 --> 00:01:24,003
 ARDEN: Well, it took us and the Academy of Scientists years.
 啊, 当初可花了我们科学院好几年的时间。
 
-4
+10
 00:01:24,665 --> 00:01:27,014
 GARRETT: The computer took three milliseconds.
 电脑用了三毫秒
 
-5
+11
 00:01:27,234 --> 00:01:28,795
 ARDEN: Yes, well, we had to programme it first.
 是的, 但我们需要先编程
 
-6
+12
 00:01:29,215 --> 00:01:34,525
 CLENT: Quite. Well, before I make a final decision, I want the computer's assessment on this Doctor.
 的确是。在我作最后决定之前, 我想让电脑对博士做一个评估。
 
-7
+13
 00:01:34,823 --> 00:01:36,454
 GARRETT: We must be absolutely sure.
 这事我们绝对不能搞错
 
-8
+14
 00:01:38,385 --> 00:01:41,005
 CLENT: State the work potential and community value of the Doctor.
 请评估博士的工作潜力和社区价值
 
-9
+15
 00:01:42,358 --> 00:01:47,537
 COMPUTER: More information is necessary for a full evaluation. High IQ but undisciplined for our needs.
 需要更多信息才能做出完整的评估。智商很高, 但不守纪律, 所以不满足我们的需要。
 
-10
+16
 00:01:48,358 --> 00:01:52,537
 Present evaluation, to be used on research projects, but could be obstructive in certain situations.
 当前评估：可用于研究项目,但在特定场景下可能造成阻碍
 
-11
+17
 00:01:52,687 --> 00:01:53,446
 DOCTOR: Oh, there you are.
 哦, 你在这儿啊
 
-12
+18
 00:01:53,517 --> 00:01:54,117
 CLENT: Doctor, would you mind
 博士, 你介意吗
 
-13
+19
 00:01:54,187 --> 00:01:55,897
 DOCTOR: I've been looking everywhere. Why don't you label your doors?
 我到处找了个遍, 你们为什么不在门上贴标识呢
 
-14
+20
 00:01:56,027 --> 00:01:57,597
 CLENT: Yes, this is a private meeting.
 是的, 这是一个内部会议
 
-15
+21
 00:01:57,656 --> 00:01:58,846
 DOCTOR: Yes, I realise that, and I'm sorry.
 哦, 我意识到了, 不好意思
 
-16
+22
 00:01:58,946 --> 00:02:00,767
 CLENT: And we have not yet completed our business.
 我们还没有完成我们的工作
 
-17
+23
 00:02:00,867 --> 00:02:07,529
 DOCTOR: Look, I wouldn't intrude if I didn't think it necessary. What I have to say is extremely important. After all, you did ask me to help you, didn't you?
 你看, 如果我觉得没这个必要的话我是不会干涉的。但我要说的非常重要。毕竟, 你的确说过让我帮助你们, 说过吧？
 
-18
+24
 00:02:07,617 --> 00:02:08,557
 ARDEN: Has something happened to the warrior?
 勇士那边发生了什么吗？
 
-19
+25
 00:02:08,687 --> 00:02:09,696
 DOCTOR: Well, it has something to do with that, yes.
 嗯, 跟那个相关, 是的
 
-20
+26
 00:02:09,736 --> 00:02:11,576
 CLENT: We have more serious matters on hand.
 我们手头有更正经的事情
 
-21
+27
 00:02:11,666 --> 00:02:12,387
 DOCTOR: This is serious!
 这事很正经！
 
-22
+28
 00:02:12,423 --> 00:02:13,756
 ARDEN: Now let him tell us, Clent. Well?
 让他说吧, Clent, 怎样?
 
-23
+29
 00:02:13,866 --> 00:02:18,858
 DOCTOR: Thank you. It's the, it's the helmet. It's not what we thought it was.
 谢谢你。就是, 就是那个头盔, 并不是我们之前想的那样
 
-24
+30
 00:02:19,928 --> 00:02:21,498
 CLENT: It's a prehistoric drinking cup.
 那就是个史前的饮水杯子
 
-25
+31
 00:02:21,807 --> 00:02:25,226
 DOCTOR: No! It has electronic connections.
 不！上面有电子链接
 
-26
+32
 00:02:25,888 --> 00:02:30,017
 CLENT: E? What are you talking about?
 呃？你在说些什么啊？
 
-27
+33
 00:02:30,117 --> 00:02:32,278
 ARDEN: But that's impossible. You must be mistaken.
 那是不可能的, 你一定搞错了
 
-28
+34
 00:02:32,368 --> 00:02:35,438
 DOCTOR: No, I'm positive. You realise what this means?
 不, 我很确定。你知道这意味着什么吗？
 
-29
+35
 00:02:35,787 --> 00:02:39,637
 ARDEN: Well it must mean the civilisation he came from must be more advanced than we thought.
 这肯定意味着他来自一个先进的文明, 比我们之前想的要先进得多
 
-30
+36
 00:02:39,726 --> 00:02:42,160
 DOCTOR: Yes, indeed. They even had astronauts, it appears.
 是的, 的确。看起来他们甚至有宇航员
 
-31
+37
 00:02:43,537 --> 00:02:44,419
 CLENT: How do you mean?
 这什么意思？
 
-32
+38
 00:02:44,638 --> 00:02:50,489
 DOCTOR: This headpiece is no warriors tin-hat. It's a highly sophisticated space helmet!
 这个头套可不是勇士的帽子, 它是一个非常复杂的宇航头盔！
 
-33
+39
 00:02:52,528 --> 00:02:54,967
 CLENT: Aren't you jumping to conclusions, Doctor, for a scientist?
 你这太跳跃了吧？博士, 作为一个科学家...
 
-34
+40
 00:02:55,078 --> 00:02:56,418
 ARDEN: But if this is true?
 但如果这是真的呢？
 
-35
+41
 00:02:56,528 --> 00:02:58,777
 DOCTOR: If this is true your project is in danger.
 如果这是真的, 你们的项目就危险了
 
-36
+42
 00:02:58,907 --> 00:03:02,448
 CLENT: In what way? How can one preserved body, however old, effect us?
 怎么说？一具这么古老的尸体, 怎么能影响我们？
 
-37
+43
 00:03:03,449 --> 00:03:07,358
 DOCTOR: How did he get here? Well, he didn't walk, did he?
 他怎么到这里来的？你看, 他不是走来的, 对吧？
 
-38
+44
 00:03:07,669 --> 00:03:09,298
 CLENT: Well, if what you say is true, by spaceship.
 好, 如果你说的是对的, 是坐飞船来的。
 
-39
+45
 00:03:09,398 --> 00:03:11,018
 DOCTOR: Yes, and where is that spaceship now?
 是的, 飞船现在在什么地方？
 
-40
+46
 00:03:11,048 --> 00:03:20,038
 ARDEN: In the glacier. Then it must still be intact. He had no signs of mutilation. He couldn't have crashed. He must of landed. Clent, can't you see the importance of such a discovery?
 在冰川里面。估计还是完整的。他的身体没有损坏的痕迹, 所以不应该是坠毁的, 而是正常着陆的。Clent, 你看出来没, 我们有了个重大发现？
 
-41
+47
 00:03:20,199 --> 00:03:23,332
 CLENT: The propulsion unit of the spacecraft is probably
 飞船的推进装置很可能是...
 
-42
+48
 00:03:23,392 --> 00:03:24,773
 GARRETT: Probably atomic powered.
 很可能是靠原子能驱动的
 
-43
+49
 00:03:25,434 --> 00:03:30,063
 CLENT: Quite. And, er, if we use the ioniser at full power
 很可能。如果我们把离子器功率开到最大
 
-44
+50
 00:03:30,153 --> 00:03:33,543
 DOCTOR: This reactor pile could be exploded or be activated.
 反应堆就可能爆炸, 至少也是激活了
 
-45
+51
 00:03:33,623 --> 00:03:34,005
 CLENT: But if we don't
 但如果我们没有...
 
-46
+52
 00:03:34,065 --> 00:03:35,357
 GARRETT: The whole area will be contaminated.
 这整个地方都将会被污染
 
-47
+53
 00:03:35,427 --> 00:03:41,379
 CLENT: But if we don't use the ioniser, what then? We are part of a world plan. Now, if we hold back that plan cannot go into operation.
 但如果我们不用离子器, 又会怎样？我们是现在是世界级计划的一部分, 如果我们按兵不动整个计划就无法继续了
 
-48
+54
 00:03:42,418 --> 00:03:43,759
 GARRETT: We could hold it at minimal power.
 我们可以用最小动力
 
-49
+55
 00:03:43,828 --> 00:03:44,578
 CLENT: Not good enough.
 这个方法不够好
 
-50
+56
 00:03:44,688 --> 00:03:48,588
 ARDEN: No, we daren't take the risk. The contamination level would last for five decades or more.
 不, 我们承担不了这个风险。核污染可能会影响50年以上
 
-51
+57
 00:03:48,658 --> 00:03:51,130
 CLENT: It merely makes the fine control of the heat level even more vital.
 只不过需要需要精心控制好热度, 不超过危险阈值就是了(FIXME)
 
-52
+58
 00:03:51,259 --> 00:03:53,228
 DOCTOR: Yes, well, I thought you ought to know.
 是的, 我想你们也应该知道
 
-53
+59
 00:03:53,569 --> 00:03:57,937
 CLENT: Yes, you were right, thank you. I must inform the computer immediately for its decision.
 是的, 你是对的, 谢谢你。我得立即找电脑询问该做怎样的决定
 
-54
+60
 00:03:58,039 --> 00:03:59,099
 ARDEN: Well, we shall need more facts.
 不过, 我们应该有更多的证据
 
-55
+61
 00:03:59,539 --> 00:04:01,199
 CLENT: Well, furnish me with facts then!
 那就赶紧去找啊!
 
-56
+62
 00:04:01,269 --> 00:04:01,830
 JAMIE: Doctor!
 博士
 
-57
+63
 00:04:01,888 --> 00:04:02,649
 DOCTOR: Jamie!
 
-58
+64
 00:04:02,740 --> 00:04:03,958
 JAMIE: The warrior's come alive!
 勇士复活了！
 
-59
+65
 00:04:04,268 --> 00:04:04,869
 ARDEN: Alive?
 复活了？
 
-60
+66
 00:04:04,939 --> 00:04:05,479
 CLENT, DOCTOR + GARRETT: What?
 什么？
 
-61
+67
 00:04:05,538 --> 00:04:06,890
 JAMIE: He's taken Victoria. I couldn't stop him!
 他抓走了Victoria, 我没能拦住！
 
-62
+68
 00:04:07,330 --> 00:04:11,018
 ARDEN: Alive. and I found it.
 活的, 我找到的
 
-63
+69
 00:04:15,206 --> 00:04:15,986
 CLENT: Alive?
 活了？
 
-64
+70
 00:04:16,046 --> 00:04:16,837
 DOCTOR: Strange.
 奇怪
 
-65
+71
 00:04:17,465 --> 00:04:18,407
 CLENT: How did it happen?
 怎么发生的？
 
-66
+72
 00:04:18,717 --> 00:04:23,006
 JAMIE: Well, we were just talking, and I turned, and there he was standing right next to us.
 就是, 我们那时正在说话, 一转头, 他就正站在我们旁边
 
-67
+73
 00:04:23,065 --> 00:04:28,248
 ARDEN: That's impossible. To be preserved, yes, but to come alive? Impossible.
 那不可能。尸身保持完整, 这可能。但复活？不可能
 
-68
+74
 00:04:28,327 --> 00:04:29,677
 DOCTOR: For a human being, maybe.
 从人类的角度来看, 也许不可能
 
-69
+75
 00:04:29,847 --> 00:04:30,966
 ARDEN: What, not human?
 什么？不是人类
 
-70
+76
 00:04:31,077 --> 00:04:31,956
 DOCTOR: Look at this table.
 看看这个桌子
 
-71
+77
 00:04:32,808 --> 00:04:33,598
 CLENT: Well, it's been burned.
 哦, 有烧焦的痕迹
 
-72
+78
 00:04:33,707 --> 00:04:35,458
 ARDEN: Well, I used a low voltage especially.
 我特意用了低电压
 
-73
+79
 00:04:35,517 --> 00:04:36,427
 DOCTOR: Yes, but a high current.
 是的, 但电流很大
 
-74
+80
 00:04:36,487 --> 00:04:37,407
 ARDEN: Yes but it was quite safe.
 是, 但这样是安全的
 
-75
+81
 00:04:37,497 --> 00:04:39,618
 DOCTOR: But if that current passed through a low resistance.
 但如果这个电流通过的低阻抗电路...
 
-76
+82
 00:04:39,688 --> 00:04:41,097
 GARRETT: Extremely high temperatures.
 就会产生高温
 
-77
+83
 00:04:41,477 --> 00:04:43,318
 CLENT: The intense heat must have shocked him back into life.
 这强热就可能把他激活
 
-78
+84
 00:04:43,448 --> 00:04:47,849
 JAMIE: Oh look, I don't know what you're all talking about, but all I know is Victoria's in danger and what are we doing to save her?
 哦, 你看, 我不知道你们在说些什么, 但我知道的是 Victoria 现在很危险, 我们得做点什么赶紧救她
 
-79
+85
 00:04:47,937 --> 00:04:49,216
 DOCTOR: Yes Jamie, you're right. Come on. She can't have gone far.
 是的Jamie, 你说的对。来吧, 她不可能走太远
 
-80
+86
 00:04:49,276 --> 00:04:50,617
 JAMIE: Well, come on then.
 好, 来
 
-81
+87
 00:04:51,116 --> 00:04:59,550
 CLENT: Danger red alert, danger red alert. Intruders within perimeter. Capture and control. Priority one. Repeat to all posts.
 危险, 红色警报。危险, 红色警报。防线内发现闯入者, 请抓捕并控制住。最高优先级, 请向各站重复播报。
 
-82
+88
 00:04:59,770 --> 00:05:00,921
 JAMIE: But within a perimeter? But supposing they're way out of it?
 防线内？应该已经走远了吧？
 
-83
+89
 00:05:01,020 --> 00:05:03,021
 ANNOUNCER: Danger red alert, danger red alert. Intruders within perimeter. Capture and control. Priority one.
 危险, 红色警报。危险, 红色警报。防线内发现闯入者, 请抓捕并控制住。最高优先级。
 
-84
+90
 00:05:03,080 --> 00:05:05,826
 CLENT: Well, that'll be just too bad. Obviously I can't release men for an extensive search outside the base.
 哦, 那就太糟了。显然我不能把人派到基地外去展开搜索工作
 
-85
+91
 00:05:05,946 --> 00:05:09,025
 DOCTOR: But she may be in danger of her life! You can't take that decision!
 但她可能有生命危险, 你不能这样决定！
 
-86
+92
 00:05:12,818 --> 00:05:17,129
 CLENT: Very well. You want an impartial opinion? I shall ask the computer.
 好吧, 你想要一个公正的决定是吗？我问问电脑吧
 
-87
+93
 00:05:17,190 --> 00:05:18,419
 JAMIE: Oh, not the computer.
 哦, 又是电脑
 
-88
+94
 00:05:18,479 --> 00:05:19,860
 DOCTOR: It's a waste of time asking the computer.
 问电脑就是浪费时间
 
-89
+95
 00:05:25,279 --> 00:05:26,649
 VICTORIA: Who are you?
 你是谁？
 
-90
+96
 00:05:27,606 --> 00:05:28,267
 VARGA: (hissing) Varga.
 
-91
+97
 00:05:28,326 --> 00:05:29,456
 VICTORIA: Where are you from?
 你从哪儿来？
 
-92
+98
 00:05:29,587 --> 00:05:31,657
 VARGA: From the Red Planet.
 来自红色星球
 
-93
+99
 00:05:32,375 --> 00:05:42,347
 VICTORIA: Mars? We thought you were dead and then you came alive. What happened?
 火星？我们以为你已经死了, 但你又复活了, 怎么回事？
 
-94
+100
 00:05:42,656 --> 00:05:44,156
 VARGA: Too many questions.
 你问题太多了
 
-95
+101
 00:05:45,786 --> 00:05:47,756
 VICTORIA: I'm curious, that's all.
 我很好奇, 仅此而已
 
-96
+102
 00:05:48,047 --> 00:05:51,076
 VARGA: I need answers from you.
 我需要从你这里达到一些答案
 
-97
+103
 00:05:51,557 --> 00:05:53,998
 VICTORIA: I don't think I can help you very much.
 我不觉得我可以帮到你什么
 
-98
+104
 00:05:55,226 --> 00:05:56,506
 VARGA: Answers.
 答案
 
-99
+105
 00:05:57,597 --> 00:05:58,597
 VICTORIA: Is that a gun?
 那是一把枪吗？
 
-100
+106
 00:05:58,658 --> 00:06:01,106
 VARGA: How long was I in the ice?
 我在冰里面呆了多久？
 
-101
+107
 00:06:01,336 --> 00:06:11,907
 VICTORIA: I don't know, I. One of the scientists said you must have been there since the first ice age. Thousands of years ago.
 我不知道。其中一个科学家说你们可能自从第一次冰川时期就在那里了, 几千年前
 
-102
+108
 00:06:12,007 --> 00:06:13,298
 VARGA: That cannot be true.
 那不可能
 
-103
+109
 00:06:14,636 --> 00:06:16,668
 VICTORIA: Were there others with you?
 有其他同伴跟你一起吗？
 
-104
+110
 00:06:17,139 --> 00:06:30,811
 VARGA: Yes. Our spaceship crashed at the foot of the ice mountain. As we came out to investigate, a great avalanche of snow buried us.
 是的, 我们飞船在冰山的脚下坠毁了。我们出来检查的时候, 巨大的雪崩淹没了我们
 
-105
+111
 00:06:31,693 --> 00:06:36,001
 VICTORIA: Then the others are still trapped in the glacier, then.
 那其他人现在还被困在冰川里
 
-106
+112
 00:06:36,561 --> 00:06:41,861
 VARGA: I will free them. Then we will return to the Red Planet.
 我要把他们救出来, 然后我们将返回红色星球
 
-107
+113
 00:06:42,751 --> 00:06:45,980
 VICTORIA: How? You can't get them out by yourself.
 怎么救？仅靠你自己没法把他们弄出来
 
-108
+114
 00:06:46,369 --> 00:06:50,500
 VARGA: You will help. How was I brought to life?
 你也要帮忙。我是怎么复活的？
 
-109
+115
 00:06:51,569 --> 00:06:53,580
 VICTORIA: Let the scientists here on Earth help you.
 让这里地球上的科学家帮你吧
 
-110
+116
 00:06:53,709 --> 00:07:07,239
 VARGA: Tell me! They would not help me. They would keep me as a curiosity, and they would leave my warriors for dead, or destroy them.
 告诉我！他们不会帮助我, 他们只会把我当做稀奇玩意儿困住, 然后不管我的勇士们死活, 甚至可能毁掉他们
 
-111
+117
 00:07:07,869 --> 00:07:10,699
 VICTORIA: No. No, they, they wouldn't.
 不, 不, 他们, 他们不会的
 
-112
+118
 00:07:10,789 --> 00:07:18,569
 VARGA: But with my men, I can talk from strength. Then we shall decide.
 但有了我的人, 我能说服他们团结起来, 然后就可以做出决定
 
-113
+119
 00:07:19,800 --> 00:07:23,200
 VICTORIA: Decide? Decide what?
 决定? 决定什么？
 
-114
+120
 00:07:23,580 --> 00:07:29,019
 VARGA: Whether to go back to our own world, or to conquer this.
 我们是回到我们自己的世界, 还是征服现在这个
 
-115
+121
 00:07:31,099 --> 00:07:34,800
 CLENT: All relevant factors now presented. How should we act?
 所有相关因素都在这里了, 我们应该怎么应对？
 
-116
+122
 00:07:34,901 --> 00:07:36,170
 JAMIE: Och, how's a machine to know?
 嗷, 一台机器怎么能知道？
 
-117
+123
 00:07:36,300 --> 00:07:37,801
 DOCTOR: Come on, Jamie, have patience. Give it a chance.
 得了, Jamie, 有点耐心, 给它个机会
 
-118
+124
 00:07:37,868 --> 00:07:42,850
 COMPUTER: Ionisation programme should continue as planned. A limited number of lives are expected to be lost.
 离子化程序应该按原计划继续。估计可能会损失有限数量的生命
 
-119
+125
 00:07:42,949 --> 00:07:44,180
 JAMIE: What about Victoria, though?
 Victoria 会怎么样呢, 嗯？
 
-120
+126
 00:07:44,250 --> 00:07:45,032
 DOCTOR: Shush, Jamie.
 嘘, Jamie
 
-121
+127
 00:07:45,100 --> 00:07:52,098
 COMPUTER: However, the suspected presence of an alien spacecraft must be investigated, in case of potentially fissionable material.
 不过, 外星飞船的状态比较可疑, 应该进行调查, 以防有可分裂物质出现
 
-122
+128
 00:07:52,319 --> 00:07:55,421
 JAMIE: Spacecraft! Hey, do you reckon that's where the warrior's gone back to?
 飞船! 嘿, 你觉得这个勇士回到哪里去了？
 
-123
+129
 00:07:55,480 --> 00:07:57,680
 DOCTOR: Well, he didn't come by Shetland Pony, Jamie.
 喔, 他可不是骑雪德兰矮种马来的, Jamie
 
-124
+130
 00:07:57,810 --> 00:08:03,811
 COMPUTER: In order to accommodate this priority the workload has been rescheduled to free one scientist investigator.
 为了应对这项优先工作, 工作量分配情况已经进行了调整, 可释放一位科学家展开调查
 
-125
+131
 00:08:04,101 --> 00:08:05,141
 CLENT: Who should be released?
 该释放谁去呢？
 
-126
+132
 00:08:05,377 --> 00:08:06,846
 COMPUTER: Scientist Arden.
 科学家 Arden
 
-127
+133
 00:08:09,376 --> 00:08:12,478
 CLENT: Well, Arden, do you think you could handle this ice giant single-handed?
 哦, Arden, 你觉得自己一个人可以应对寒冰巨人吗？
 
-128
+134
 00:08:12,879 --> 00:08:15,047
 ARDEN: Well, I shall need at least one guard.
 嗯, 我还至少需要一个卫兵
 
-129
+135
 00:08:15,336 --> 00:08:16,777
 JAMIE: Well, what about me then? I could go with him.
 那我怎么样？ 我跟他去
 
-130
+136
 00:08:16,816 --> 00:08:17,936
 DOCTOR: Yes, he's a capable lad.
 是的, 这是个能力不错的小伙子
 
-131
+137
 00:08:18,005 --> 00:08:19,447
 CLENT: Well, the computer said one investigator only.
 但是电脑说只需要派一个人去
 
-132
+138
 00:08:19,538 --> 00:08:21,667
 DOCTOR: That was from your staff, Jamie's extra.
 那是你那边的人力, Jamie算额外的
 
-133
+139
 00:08:21,727 --> 00:08:22,256
 JAMIE: Aye.
 是啊
 
-134
+140
 00:08:23,456 --> 00:08:25,885
 GARRETT: The mission must be carried out. The computer has ordered it.
 这项任务必须开始了, 电脑已经下了指令了
 
-135
+141
 00:08:27,415 --> 00:08:32,514
 CLENT: As the Doctor has agreed to help us with the ioniser. Yes, very well, the boy can go.
 博士答应了帮助我们弄那个离子器。好吧, 这小伙子可以去
 
-136
+142
 00:08:32,615 --> 00:08:33,085
 DOCTOR: Oh good.
 好
 
-137
+143
 00:08:33,184 --> 00:08:37,385
 CLENT: But you must leave immediately, because the sooner we know whether there is a reactor buried inside that glacier or not, the better.
 你们得立即出发, 因为越早了解到情况越好, 到底是不是在冰川里面是否埋着一个反应堆
 
-138
+144
 00:08:37,474 --> 00:08:40,293
 JAMIE: Aye, maybe, but Victoria's important too, you know.
 是啊, 有可能。但Victoria也很重要, 你知道的
 
-139
+145
 00:08:41,766 --> 00:08:48,590
 CLENT: You don't seem to realise, boy, the fate of the world could be at stake. The girl must take her chance.
 你看来还没有明白, 孩子, 这世界的命运已经危在旦夕了。那个女孩就看她自己的造化了
 
-140
+146
 00:08:53,310 --> 00:08:55,189
 STORR: What ye trying to do? Cripple me?
 你打算做什么？弄残我？
 
-141
+147
 00:08:55,329 --> 00:08:58,490
 PENLEY: You know the trouble with you. Storr? You're just stupid.
 你知道自己惹上什么麻烦了吗？你可真蠢
 
-142
+148
 00:08:58,589 --> 00:09:00,849
 STORR: How was I to know it would get infected?
 我怎么知道可能会受到感染？
 
-143
+149
 00:09:00,849 --> 00:09:02,959
 PENLEY: If you'd listened to me in the first place.
 如果你一开始就听我的
 
-144
+150
 00:09:03,119 --> 00:09:08,029
 STORR: Aye, you'd have stuffed me to the eyeballs with anti-this and anti-that. I'd have been flat on my back for weeks.
 是啊, 你一直在我眼前晃, 反对这个, 反对那个。我都躺了好几个星期了
 
-145
+151
 00:09:08,159 --> 00:09:09,820
 PENLEY: Where as now, you're fighting fit.
 就目前而言, 你恢复得还可以
 
-146
+152
 00:09:09,950 --> 00:09:12,479
 STORR: Ach, well, someone has to do things.
 啊, 某人有事情做了
 
-147
+153
 00:09:12,608 --> 00:09:14,799
 PENLEY: Mmm. Well, that someone isn't going to be you.
 唔, 那个某人应该不是你
 
-148
+154
 00:09:14,899 --> 00:09:16,749
 STORR: Ach, it's nothing. I'll pull through.
 啊, 没事, 我能撑过去
 
-149
+155
 00:09:16,849 --> 00:09:24,293
 PENLEY: Yes, I'm rather afraid you will. But if you don't do what I say you'll soon be in a coma, which at least would give me a bit of peace.
 是的, 我觉得你会的。但如果你不按我说的去做, 你很快就会陷入昏迷, 倒可以让我安静一会儿
 
-150
+156
 00:09:24,774 --> 00:09:27,596
 STORR: Don't try scare me with all that scientific guff.
 别拿那些科学的东西来吓唬我
 
-151
+157
 00:09:27,704 --> 00:09:33,294
 PENLEY: I'm just telling you, Storr. You got a headache?
 我正跟你说呢。你头疼吗？
 
-152
+158
 00:09:33,434 --> 00:09:34,708
 STORR: Ach, it's nothing.
 啊, 没什么
 
-153
+159
 00:09:34,809 --> 00:09:42,499
 PENLEY: What I like about you is if a polar bear got you you'd give him indigestion. Feeling fuzzy in the head, eh?
 我喜欢你的是, 就算一头北极熊也会拿你没办法(FIXME)。觉得有点头晕不？
 
-154
+160
 00:09:44,301 --> 00:09:50,160
 STORR: I will not let it beat me. Is it going to be bad?
 我不会让它打跨我。将会很糟糕吗？
 
-155
+161
 00:09:51,050 --> 00:09:52,092
 PENLEY: You won't know much about it.
 你不会知道得太多的
 
-156
+162
 00:09:52,221 --> 00:09:54,581
 STORR: My mouth's dry.
 我的嘴比较干
 
-157
+163
 00:09:55,522 --> 00:10:00,611
 PENLEY: Here's a what do you call it? A tomato. It's nearly ripe.
 这里有一个...你们叫它什么来着？西红柿。基本上是熟的
 
-158
+164
 00:10:02,212 --> 00:10:07,069
 STORR: Ach, you shouldnae have done that. I've been waiting weeks for that to ripen properly.
 啊, 早就该这样了。我等了好几个星期等它成熟
 
-159
+165
 00:10:07,650 --> 00:10:09,349
 PENLEY: Take it, it'll do you good.
 吃了吧, 对你有好处
 
-160
+166
 00:10:09,479 --> 00:10:10,199
 STORR: Ach.
 啊
 
-161
+167
 00:10:10,878 --> 00:10:15,759
 PENLEY: Well, there are advantages to living in a plant museum, even this close to the glacier.
 嗯, 住在一个行星博物馆还是有好处的, 虽然离冰川太近了点
 
-162
+168
 00:10:15,869 --> 00:10:18,620
 STORR: Ah, so even a scientist can appreciate it then?
 哈, 一个科学及也懂得欣赏这个了？
 
-163
+169
 00:10:18,730 --> 00:10:30,111
 PENLEY: Well, there's warmth and food. Selected ancient food plants. Tomatoes, carrots, potatoes, strawberries. A world out of Atlantis.
 是啊, 又有热气又有食物, 很好的传统作物：西红柿, 胡萝卜, 土豆, 草莓。传说中的亚特兰蒂斯啊 (FIXME)
 
-164
+170
 00:10:30,519 --> 00:10:38,254
 STORR: Aye, helps me picture how it was before they killed off all the plants. There was spring then, and flowers.
 是啊, 帮我回忆一下他们杀死这些植物之前是怎样的。那时有春天, 还有花。
 
-165
+171
 00:10:38,519 --> 00:10:46,254
 You could pick the fruit off the trees. Now you rotten scientists (coughs) drop down dead.
 你能从树上摘水果。但现在你们这些烂科学家就... (FIXME)
 
-166
+172
 00:10:50,914 --> 00:10:52,485
 PENLEY: Even so it's not the nicest way to live.
 即便如此还是不太适合居住
 
-167
+173
 00:10:52,584 --> 00:10:53,335
 STORR: Aye.
 是啊
 
-168
+174
 00:10:53,464 --> 00:10:55,154
 PENLEY: An avalanche waiting on your doorstep.
 感觉雪崩马上就要来了
 
-169
+175
 00:10:55,403 --> 00:10:56,914
 STORR: Not leaving here until I have to.
 不到万不得已不离开这里
 
-170
+176
 00:10:57,163 --> 00:10:57,944
 PENLEY: Granted.
 当然
 
-171
+177
 00:11:02,523 --> 00:11:10,409
 STORR: You're not going out after food, are you? You wouldn't know what to do without me. Where are you going, anyway?
 你不是出去找食物吧, 是吗？没我的话你不知道怎么办的。你要去哪儿？
 
-172
+178
 00:11:10,500 --> 00:11:15,450
 PENLEY: Well I've learnt enough from you to take care of myself, and it's for your idiotic sake that I'm going.
 我已经学了不少了, 足够自己照顾自己。我是去给你个蠢人弄点东西
 
-173
+179
 00:11:17,079 --> 00:11:18,534
 STORR: Where to?
 去哪儿？
 
-174
+180
 00:11:18,695 --> 00:11:19,665
 PENLEY: The base.
 基地
 
-175
+181
 00:11:21,325 --> 00:11:31,475
 STORR: You're going to hand me in to rehabilitation. Africa. Never trust anybody.
 你是打算把我交过去, 送我去非洲聚居地。非洲。不能相信任何人啊
 
-176
+182
 00:11:32,295 --> 00:11:37,075
 PENLEY: I'm going for drugs. And if I don't get them, you're as good as dead.
 我只是去弄点药。如果我不弄来, 你就死翘翘了。
 
-177
+183
 00:11:42,636 --> 00:11:44,455
 VICTORIA: It's, it's, it's, it's a
 是。。。是。。。是一个。。。
 
-178
+184
 00:11:45,114 --> 00:11:46,144
 VARGA: Go on.
 继续
 
-179
+185
 00:11:46,303 --> 00:11:56,904
 VICTORIA: It's a black box with wires. They connected it to you, and you came alive. I, well, I don't know how!
 是一个黑色的盒子, 带电线的。他们把它连到你身上, 你就复活了。我, 我不懂怎么弄的！
 
-180
+186
 00:11:58,464 --> 00:12:16,911
 VARGA: A power source. Resistance. A great heat and then life. This room we came from. We will go back to it.
 一个电源。电阻。强热, 复活。我们来的房间, 我们要回去那里
 
-181
+187
 00:12:19,659 --> 00:12:21,470
 VICTORIA: I'll tell you how to get there.
 我可以告诉你怎么去那儿
 
-182
+188
 00:12:21,735 --> 00:12:29,902
 VARGA: You will take me there. Without that power unit, my warriors are lifeless.
 你将带我去那里, 没有能量设备的话, 我的勇士们就是死的
 
-183
+189
 00:12:30,532 --> 00:12:36,321
 VICTORIA: But we have to go down the corridors. Supposing someone sees you?
 但我们必须沿走廊过去, 假如有人看到你怎么办？
 
-184
+190
 00:12:36,422 --> 00:12:41,261
 VARGA: I shall kill them. And you.
 我会杀死他们, 还有你
 
-185
+191
 00:12:41,632 --> 00:12:42,260
 VICTORIA: Me?
 我？
 
-186
+192
 00:12:42,380 --> 00:12:44,281
 VARGA: If you call for help.
 如果你呼救的话。
 
-187
+193
 00:12:45,380 --> 00:12:47,032
 VICTORIA: What is that?
 那是什么？
 
-188
+194
 00:12:47,252 --> 00:12:52,833
 VARGA: Sonic gun. It will burst your brain with noise.
 音速枪。它会用噪音爆掉你的脑袋
 
-189
+195
 00:12:56,692 --> 00:12:58,372
 JAMIE: There's no one been here. There's not a mark.
 这里没有人, 一点痕迹也没有
 
-190
+196
 00:12:58,443 --> 00:13:02,032
 ARDEN: Well, we didn't pass them on the way. Now, stand aside lad, will you?
 我们在路上也没有碰到过。现在, 站一边去好吗, 小伙子
 
-191
+197
 00:13:03,533 --> 00:13:09,618
 JAMIE: We were wrong, then. He's lost out there somewhere, Victoria with him.
 我们搞错了, 他肯定在哪里迷路了, 带着 victoria
 
-192
+198
 00:13:12,191 --> 00:13:21,663
 ARDEN: I can't get a reading. There's something inside there, but all it's doing is creating havoc with this radiation sensor.
 没有任何读数, 这里面有什么东西在干扰辐射检测仪。
 
-193
+199
 00:13:22,191 --> 00:13:31,663
 Arden calling Leader Clent. Arden calling Leader Clent, answer please.
 Arden呼叫队长, Arden呼叫队长, 请回答
 
-194
+200
 00:13:32,442 --> 00:13:33,473
 CLENT: Clent here. Report.
 我是Clent, 报告情况吧
 
-195
+201
 00:13:33,564 --> 00:13:38,913
 ARDEN: There's no sign of the fugitive or the girl. They didn't, couldn't have come this way.
 没有逃犯和那个女孩的痕迹。他们没有走到这边来, 不可能的
 
-196
+202
 00:13:39,043 --> 00:13:41,794
 CLENT: That was not the purpose of your mission. Please report correctly.
 那不是你们任务的目的, 请按任务报告情况
 
-197
+203
 00:13:41,893 --> 00:13:50,753
 ARDEN: No reading obtainable. The sensor is being jammed by some sort of a screening device. I can't make head nor tail of it.
 没有获得任何读数, 检测仪被某种屏蔽设备干扰了。我没法走到干扰范围外
 
-198
+204
 00:13:50,893 --> 00:13:52,182
 CLENT: But something is in there.
 那里肯定有什么东西
 
-199
+205
 00:13:53,523 --> 00:13:54,521
 ARDEN: Correct.
 是的
 
-200
+206
 00:13:54,581 --> 00:13:57,142
 CLENT: Well, come on then, man! Don't waste time. Go in and find out what it is!
 那就这样吧, 别浪费时间, 进去把它找出来！
 
-201
+207
 00:13:57,142 --> 00:13:59,572
 ARDEN: Well, not with the equipment I have with me now.
 带着这些设备没法进去
 
-202
+208
 00:14:00,812 --> 00:14:03,744
 CLENT: Very well then, return at once. The mission will be repeated with the correct equipment.
 那, 马上回来。带上合适的设备, 继续你们的任务
 
-203
+209
 00:14:03,913 --> 00:14:06,794
 ARDEN: But this is the proper equipment for the job.
 但这就是合适的设备
 
-204
+210
 00:14:06,794 --> 00:14:09,443
 CLENT: Obviously not. Don't waste time. Return immediately. Out.
 显然不是, 别浪费时间, 马上回来。挂了
 
-205
+211
 00:14:09,515 --> 00:14:11,974
 JAMIE: A nice boss you've got there.
 你有个不错的老板
 
-206
+212
 00:14:12,414 --> 00:14:20,353
 ARDEN: Yes. The trouble with Clent is that he's not a proper scientist, he's an organiser. He should've been born a robot.
 Clent的麻烦是他不是一个科学家, 他是个管理者。他可能生下来就是个机器人
 
-207
+213
 00:14:20,414 --> 00:14:21,515
 JAMIE: Let's go on.
 我们继续吧
 
-208
+214
 00:15:00,939 --> 00:15:04,249
 VICTORIA: No, no, it's not in there. It's further down the corridor.
 不, 不, 不在那儿, 在通道的那一头
 
-209
+215
 00:15:38,692 --> 00:15:41,670
 VARGA: The black box. Find it, quickly.
 黑色匣子, 找到它, 快
 
-210
+216
 00:15:43,609 --> 00:15:45,390
 GARRETT: It's still on half power, but it's holding well.
 只开到一半功率, 但效果还可以
 
-211
+217
 00:15:45,510 --> 00:15:50,740
 CLENT: Good...Well?
 好...怎样?
 
-212
+218
 00:15:50,740 --> 00:15:56,312
 DOCTOR: Well, I still think you ought to get in an expert. Why can't you get one?
 我还是觉得你应该找个专家来, 为什么找不到呢？
 
-213
+219
 00:15:56,312 --> 00:15:57,442
 CLENT: I choose not to.
 我选择了不要
 
-214
+220
 00:15:59,193 --> 00:16:00,042
 DOCTOR: But why?
 为什么？
 
-215
+221
 00:16:01,643 --> 00:16:02,853
 CLENT: You're not here to question me.
 你在这里不是为了质问我的
 
-216
+222
 00:16:02,983 --> 00:16:07,554
 DOCTOR: No, I'm here to help you, if I choose.
 不是, 我在这里是为了帮你, 我选择的
 
-217
+223
 00:16:10,304 --> 00:16:17,235
 CLENT: This is the most important job I've ever had. Now, every other project I've handled with ease. Nothing has failed.
 这是我经历过的最重要的任务。我经手过的其它项目都很容易, 没有任何失败。之所以选我来, 就是我从来没有失败过。
 
-218
+224
 00:16:17,504 --> 00:16:23,735
 I was chosen because I never fail. When I handpicked the team, I made one vital mistake.
 但我在挑选团队成员的时候, 我犯了一个重大的错误
 
-219
+225
 00:16:23,927 --> 00:16:25,236
 DOCTOR: This chap Penley.
 Penley那个家伙
 
-220
+226
 00:16:26,588 --> 00:16:31,267
 CLENT: Best man in Europe for ionisation studies. As it turned out, hopelessly temperamental.
 欧洲离子化研究的第一人。但到头来, 很情绪化, 让人失望
 
-221
+227
 00:16:32,433 --> 00:16:37,582
 DOCTOR: Temperamental or individual? Creative scientists have to be allowed some head you know.
 情绪化还是有个性？对有创造力的科学家得宽容一点, 是吧
 
-222
+228
 00:16:37,674 --> 00:16:44,422
 CLENT: Creative? Poppycock. When he walked out of here he proclaimed himself to be criminally, criminally irresponsible.
 有创造力？胡说, 他从这里走出去的时候他就宣称他不再承担任何责任(FIXME)
 
-223
+229
 00:16:44,553 --> 00:16:46,833
 DOCTOR: It couldn't have been just a simple gesture of protest?
 可能只是简单地表示抗议吧？
 
-224
+230
 00:16:46,944 --> 00:16:52,284
 CLENT: He was always protesting. This is a team, a team with a mission. If we fail, others cannot succeed.
 他总是在抗议。这是一个团队, 有任务目标的团队。如果我们失败, 其它人也不能成功
 
-225
+231
 00:16:52,393 --> 00:16:54,704
 DOCTOR: And your name will suffer. That's important.
 然后你的名声就坏了, 这很重要
 
-226
+232
 00:16:54,793 --> 00:17:02,174
 CLENT: I lead the team. I depend on the experts I picked. My judgement was sound. Others won't see it that way.
 我带领这个团队, 我依赖于这些我挑出来的专家, 我相信我的判断。其他人可能不会这样看
 
-227
+233
 00:17:02,275 --> 00:17:03,654
 DOCTOR: So you do need Penley.
 所以你需要 Penley
 
-228
+234
 00:17:03,724 --> 00:17:12,534
 CLENT: No, I do not need Penley. But I do need an equivalent brain. But it would be months before anyone else could pick up the knowledge that Penley acquired here.
 不, 我不需要 Penley, 但我需要一个与他相当的大脑。不过仅仅是捡起Penley在这里了解到的那些情况就需要好几个月
 
-229
+235
 00:17:12,724 --> 00:17:14,734
 Just isn't time, that's the pertinent issue.
 现在不是时候, 这是最要命的问题
 
-230
+236
 00:17:14,893 --> 00:17:21,113
 DOCTOR: Well, I'll try and help you, but I do think you might try trusting human beings instead of computers.
 这样, 我会尽量帮你。但我真的觉得你应该试着相信这些人, 而不是电脑
 
-231
+237
 00:17:21,203 --> 00:17:28,973
 CLENT: I trust no one, Doctor. Not any more. Human emotions are unreliable.
 我谁也不信, 博士。不再信了。人的情感太不可靠的了。
 
-232
+238
 00:17:29,203 --> 00:17:36,973
 I'll just go and see that the working area reserved for you in the Medi-Control Centre is ready.
 我现在去看看媒体控制中心那边给你准备的工作区是否准备好了
 
-233
+239
 00:17:43,258 --> 00:17:44,617
 VARGA: The power pack.
 电源
 
-234
+240
 00:17:45,226 --> 00:17:46,916
 VICTORIA: I'm looking!
 我在找！
 
-235
+241
 00:18:04,711 --> 00:18:08,903
 VICTORIA: Yes, yes, they look like the one. Yes, yes.
 是的, 是的, 看起来就像这个, 是的
 
-236
+242
 00:18:20,171 --> 00:18:23,452
 VARGA: You are coming with me, to the ice mountain.
 你得跟我来, 到冰山去
 
-237
+243
 00:18:24,082 --> 00:18:25,711
 VICTORIA: No, please.
 不, 求你了
 
-238
+244
 00:18:33,466 --> 00:18:34,394
 CLENT: Who are you?
 你是谁？
 
-239
+245
 00:18:37,225 --> 00:18:38,574
 VICTORIA: You killed him!
 你杀了他！
 
-240
+246
 00:18:42,365 --> 00:18:43,404
 VARGA: Come.
 来
 
-241
+247
 00:19:06,957 --> 00:19:10,028
 PENLEY: I er, I was going to give him this.
 我, 呃, 我正打算把这个给他
 
-242
+248
 00:19:14,398 --> 00:19:22,787
 DOCTOR: Oh, that's disgusting. It's just the thing. Did you do this?
 哦, 这很难闻。正是这个。这是你干的吗？
 
-243
+249
 00:19:23,177 --> 00:19:26,967
 PENLEY: I've come very close to it at times. I've never seen him look so peaceful.
 事情发生的时候我离得不远, 我倒从来没见过他这么平和
 
-244
+250
 00:19:27,067 --> 00:19:30,576
 DOCTOR: Oh, he'll be all right. Did you see who did do it?
 哦, 他会没事的。你看到是谁干的了吗？
 
-245
+251
 00:19:30,928 --> 00:19:34,397
 PENLEY: Yes. A monstrous looking creature. I didn't like the look of him at all.
 是的, 一个怪物一样的家伙, 我一点也不喜欢他的样子
 
-246
+252
 00:19:34,548 --> 00:19:35,768
 DOCTOR: Was there a girl there?
 是不是还有一个女孩？
 
-247
+253
 00:19:35,867 --> 00:19:37,649
 PENLEY: Yes, she seemed scared stiff.
 是的, 她看来了吓坏了
 
-248
+254
 00:19:37,778 --> 00:19:39,027
 DOCTOR: Well, why didn't you try and stop them?
 那你怎么不试着阻止他们？
 
-249
+255
 00:19:39,058 --> 00:19:42,707
 PENLEY: Well, I came here to get some drugs for a man who is sick. I couldn't run the risk of getting caught.
 我来这里是拿点药, 有个人生病了。我可不能冒被抓走的风险
 
-250
+256
 00:19:42,707 --> 00:19:43,880
 DOCTOR: But she's only a young girl!
 但她只是一个小女孩儿！
 
-251
+257
 00:19:44,100 --> 00:19:47,090
 PENLEY: She's alive. My friend will die if I don't get back.
 她还活着, 但我不回去的话我的朋友就会死了
 
-252
+258
 00:19:47,090 --> 00:19:49,279
 DOCTOR: Yes. Yes, I see.
 行, 行, 我明白了
 
-253
+259
 00:19:50,179 --> 00:19:51,840
 PENLEY: Are you going after them? I can take you part of the way.
 你在追他们吗？我可以带你一段路
 
-254
+260
 00:19:51,940 --> 00:19:54,370
 DOCTOR: No, no, they're searching already. There's a red alarm all over the base.
 不, 他们已经在搜索了。整个基地拉了红色警报
 
-255
+261
 00:19:54,439 --> 00:19:55,570
 PENLEY: Well, I've got what I want. I'm off.
 我已经拿到了我想要的, 得走了
 
-256
+262
 00:19:57,556 --> 00:19:58,424
 DOCTOR: Penley?
 你是Penley？
 
-257
+263
 00:20:01,515 --> 00:20:05,276
 PENLEY: You know about me then. My escapades in computer-land.
 你知道我的情况, 我逃离电脑世界的故事
 
-258
+264
 00:20:05,276 --> 00:20:08,467
 DOCTOR: They need you here, you know. They need you desperately.
 这里他们需要你, 你看。他们非常需要你
 
-259
+265
 00:20:08,656 --> 00:20:12,926
 PENLEY: Needing isn't getting. I'm free of their problems for good.
 那也不代表他们能得到。能不被他们的问题烦绕, 我过得很好
 
-260
+266
 00:20:13,287 --> 00:20:17,046
 DOCTOR: They're your problems too, you know. It's your world.
 他们同时也是你的问题, 你知道的, 这也是你的世界
 
-261
+267
 00:20:17,656 --> 00:20:22,866
 PENLEY: My world is up here. Private and no admittance. Well, I'm going to go then.
 我的世界就在这里。自己自足, 也不欠别人什么。我得走了
 
-262
+268
 00:20:22,986 --> 00:20:25,265
 DOCTOR: I expect you know what you're doing.
 我期望你清楚你在干什么
 
-263
+269
 00:20:25,855 --> 00:20:28,276
 PENLEY: You know it's nice to meet one that they haven't got at yet.
 能遇到一个还没有被他们同化的人, 还真是不错啊 (FIXME)
 
-264
+270
 00:20:28,397 --> 00:20:30,116
 DOCTOR: Oh, thank you.
 哦, 谢谢你
 
-265
+271
 00:20:30,175 --> 00:20:31,031
 PENLEY: Goodbye.
 再见
 
-266
+272
 00:20:31,097 --> 00:20:31,786
 DOCTOR: Goodbye.
 再见
 
-267
+273
 00:20:37,457 --> 00:20:38,366
 GARRETT: They're in here.
 他们在这里
 
-268
+274
 00:20:40,343 --> 00:20:41,054
 DOCTOR: Where's Victoria?
 Victoria 在哪里?
 
-269
+275
 00:20:41,262 --> 00:20:42,042
 GARRETT: Leader Clent!
 Clent队长
 
-270
+276
 00:20:42,042 --> 00:20:42,573
 ARDEN: What's happened?
 怎么了？
 
-271
+277
 00:20:42,703 --> 00:20:43,733
 CLENT: Where are they?
 这是什么？
 
-272
+278
 00:20:43,824 --> 00:20:47,634
 GARRETT: I've just had a message from the perimeter gate. He smashed his way through, taking the girl with him.
 我刚收到一条消息, 在防线边上, 他闯出去了, 还带着那个女孩儿
 
-273
+279
 00:20:47,954 --> 00:20:51,103
 CLENT: He knocked me out with a power pack.
 他用一个电源箱把我砸晕了
 
-274
+280
 00:20:51,173 --> 00:20:54,852
 DOCTOR: With a power pack? You mean the one that you used to unfreeze him?
 电源箱？你是说用来解冻他的那种？
 
-275
+281
 00:20:54,953 --> 00:20:58,943
 CLENT: Yes. And he and the girl have many more.
 是的, 他和那个女孩儿拿了一些
 
-276
+282
 00:20:59,073 --> 00:21:01,043
 ARDEN: To revitalise others like himself.
 要去复活他的同伴！
 
-277
+283
 00:21:01,113 --> 00:21:04,993
 CLENT: Others? What do you mean. We don't know that there are others.
 同伴？什么意思？ 我们不知道他还有其他同伴
 
-278
+284
 00:21:05,053 --> 00:21:07,113
 JAMIE: Well now, he'll head for the glacier. Let's get way after him.
 现在他已经往冰川那边去了, 我们去追他啊
 
-279
+285
 00:21:07,182 --> 00:21:14,022
 DOCTOR: No. That's what he wants us to do. That's why he's taken Victoria with him as a hostage. No, we must let him show his hand first.
 不, 他正如他所愿了。这也是他为什么要把 Victoria 带在身边作为人质。不, 我们必须得让他先亮出底牌
 
-280
+286
 00:21:14,083 --> 00:21:15,334
 JAMIE: But we can't just stand around waiting?
 但我们不能这里干站着等啊？
 
-281
+287
 00:21:15,394 --> 00:21:18,174
 DOCTOR: We're not going to. Only until morning. That'll be time enough.
 我们不会。只要等到早上。这样时间就够了
 
-282
+288
 00:21:18,234 --> 00:21:25,474
 CLENT: No, now! Must I remind you of the mission that you have yet to accomplish?
 不, 现在去！是不是还得我来提醒你, 你还有项任务要完成？
 
-283
+289
 00:21:25,574 --> 00:21:31,363
 ARDEN: Oh no, Clent, not at night. Not for you or anybody. You've never been out there at night.
 哦, 不要, Clent, 不要晚上去。你不要, 谁也不要。你从来没有晚上出去过
 
-284
+290
 00:21:41,525 --> 00:21:52,027
 VARGA: I have located my warriors. When your friends come after us, they will find a surprise.
 我已经定位出了我的勇士们。如果你的朋友们出来追我们, 他们会发现一个惊喜
 
-285
+291
 00:21:53,746 --> 00:21:55,336
 VICTORIA: What are you going to do?
 你打算干什么？
 
-286
+292
 00:21:55,336 --> 00:22:05,505
 VARGA: You'll see. Don't try to run away.
 你会明白了。别试着逃跑
 
-287
+293
 00:22:06,405 --> 00:22:08,966
 VICTORIA: I was only going to watch you.
 我只打算看看你
 
-288
+294
 00:22:09,916 --> 00:22:12,306
 VARGA: You are going to help me.
 你得帮助我
 
-289
+295
 00:22:21,938 --> 00:22:26,776
 PENLEY: Twenty four hours and you'll be your old animal-like self again.
 再过24小时你就又跟老动物一样了。FIXME
 
-290
+296
 00:22:26,838 --> 00:22:35,176
 And while you're undergoing repairs, Storr, old chap, I'm going to do a bit of hunting myself, up on the glacier.
 你在这里慢慢养着, Storr, 老伙计。我要要出去探查点情况, 到冰河那里去
 
-291
+297
 00:22:35,338 --> 00:22:41,676
 Something strange is happening, Elric Penley, honoured sir.
 总觉得有点不对劲, Elric Penley, 尊敬的先生
 
-292
+298
 00:22:41,938 --> 00:22:46,676
 That warrior, that girl, that funny, scruffy looking chap. Something strange indeed.
 那个寒冰勇士, 那个女孩儿, 还有那个好笑又邋遢的家伙。的确有点奇怪
 
-293
+299
 00:22:46,938 --> 00:22:51,176
 Something disturbing. Something to do with the ice.
 很困扰人, 还跟冰山有关
 
-294
+300
 00:22:51,938 --> 00:23:02,176
 And if what that particular chap has said is true, if they really need me, it may mean the parting of the ways for us.
 如果那个家伙说的是实情, 如果他们真的需要我, 这就意味着我们得做一个抉择了
 
-295
+301
 00:23:13,416 --> 00:23:23,839
 VARGA: It's done. They are free. And now, to bring them back to life.
 完成了。他们自由了。现在, 让他们复活!
