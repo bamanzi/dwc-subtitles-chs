@@ -3,1454 +3,1454 @@
 (DOCTOR WHO THEME)
 
 2
-00:00:31,927 --> 00:00:36,478
+00:00:31,227 --> 00:00:35,778
 In that case,
 I shall have to try something else.
 
 3
-00:00:38,287 --> 00:00:40,596
+00:00:37,587 --> 00:00:39,896
 You may have heard this
 noise before, Miss Grant.
 
 4
-00:00:40,687 --> 00:00:42,405
+00:00:39,987 --> 00:00:41,705
 (HYPNOTIC PULSE THROBBING)
 
 5
-00:00:42,487 --> 00:00:47,402
+00:00:41,787 --> 00:00:46,702
 It works directly on the fear centres
 deep in your mind!
 
 6
-00:00:49,927 --> 00:00:54,159
+00:00:49,227 --> 00:00:53,459
 It's not real! It's an illusion!
 
 7
-00:00:54,247 --> 00:00:57,125
+00:00:53,547 --> 00:00:56,425
 MASTER: Then we shall have
 to try a little harder, Miss Grant.
 
 8
-00:00:57,207 --> 00:00:58,879
+00:00:56,507 --> 00:00:58,179
 JO: It's not real!
 
 9
-00:00:59,967 --> 00:01:03,039
+00:00:59,267 --> 00:01:02,339
 It's you! It's the Master!
 
 10
-00:01:03,127 --> 00:01:06,324
+00:01:02,427 --> 00:01:05,624
 MASTER: You cannot shut your eyes!
 It is impossible!
 
 11
-00:01:06,407 --> 00:01:08,045
+00:01:05,707 --> 00:01:07,345
 Let's try a little harder!
 
 12
-00:01:08,127 --> 00:01:13,759
+00:01:07,427 --> 00:01:13,059
 JO: It's... It's not real!
 It's an illusion! It's you!
 
 13
-00:01:13,847 --> 00:01:18,159
+00:01:13,147 --> 00:01:17,459
 It's the Master!
 It doesn't work on me any more!
 
 14
-00:01:18,807 --> 00:01:20,081
+00:01:18,107 --> 00:01:19,381
 It's you!
 
 15
-00:01:22,207 --> 00:01:25,324
+00:01:21,507 --> 00:01:24,624
 It doesn't work on me any more!
 
 16
-00:01:25,407 --> 00:01:29,798
+00:01:24,707 --> 00:01:29,098
 It doesn't work on me any more! It...
 
 17
-00:01:35,207 --> 00:01:40,042
+00:01:34,507 --> 00:01:39,342
 Congratulations, my dear.
 I seem to have failed again.
 
 18
-00:01:40,767 --> 00:01:45,158
+00:01:40,067 --> 00:01:44,458
 Yes, you do, don't you?
 Never mind! You can't win 'em all!
 
 19
-00:01:45,247 --> 00:01:48,796
+00:01:44,547 --> 00:01:48,096
 Hmm! I shall have to think about this.
 
 20
-00:01:48,887 --> 00:01:53,165
+00:01:48,187 --> 00:01:52,465
 I'm afraid I shall have to ask you
 to be my guest for a little longer.
 
 21
-00:01:54,087 --> 00:01:56,726
+00:01:53,387 --> 00:01:56,026
 Show Miss Grant to her room, will you?
 
 22
-00:01:57,767 --> 00:01:59,439
+00:01:57,067 --> 00:01:58,739
 JO: No, let me go!
 
 23
-00:02:04,967 --> 00:02:06,639
+00:02:04,267 --> 00:02:05,939
 -Master?
 -Yes, what is it?
 
 24
-00:02:06,727 --> 00:02:09,924
+00:02:06,027 --> 00:02:09,224
 -Two raiding ships have returned.
 -Oh, were they successful?
 
 25
-00:02:10,007 --> 00:02:12,680
+00:02:09,307 --> 00:02:11,980
 They found and attacked
 two Earth cargo ships.
 
 26
-00:02:12,767 --> 00:02:14,723
+00:02:12,067 --> 00:02:14,023
 -Where was this?
 -In Earth space.
 
 27
-00:02:14,807 --> 00:02:17,605
+00:02:14,107 --> 00:02:16,905
 One ship resisted. We destroyed it.
 
 28
-00:02:17,687 --> 00:02:21,885
+00:02:16,987 --> 00:02:21,185
 (LAUGHING) Excellent!
 That should stir things up.
 
 29
-00:02:21,967 --> 00:02:25,880
+00:02:21,267 --> 00:02:25,180
 It can't be long now before
 they declare war on each other.
 
 30
-00:02:25,967 --> 00:02:27,286
+00:02:25,267 --> 00:02:26,586
 (CHORTLING)
 
 31
-00:02:27,727 --> 00:02:30,082
+00:02:27,027 --> 00:02:29,382
 <i>And I warn the President</i>
 <i>that the people of Earth</i>
 
 32
-00:02:30,167 --> 00:02:34,604
+00:02:29,467 --> 00:02:33,904
 <i>will no longer tolerate these insulting</i>
 <i>and murderous attacks.</i>
 
 33
-00:02:35,167 --> 00:02:41,083
+00:02:34,467 --> 00:02:40,383
 <i>I hear the cries all about me.</i>
 <i>Attack Draconia! Attack now!</i>
 
 34
-00:02:41,167 --> 00:02:45,319
+00:02:40,467 --> 00:02:44,619
 <i>Earth will not purchase peace</i>
 <i>at the price of humiliation!</i>
 
 35
-00:02:45,407 --> 00:02:52,006
+00:02:44,707 --> 00:02:51,306
 <i>There is only one solution now!</i>
 <i>War! War! War!</i>
 
 36
-00:02:53,447 --> 00:02:55,517
+00:02:52,747 --> 00:02:54,817
 I don't know how much longer
 I can hold them.
 
 37
-00:02:55,607 --> 00:02:58,917
+00:02:54,907 --> 00:02:58,217
 You must tell them, it is not the
 Draconians that attack you.
 
 38
-00:02:59,007 --> 00:03:02,158
+00:02:58,307 --> 00:03:01,458
 Your Royal Highness,
 could you convince your people
 
 39
-00:03:02,247 --> 00:03:03,999
+00:03:01,547 --> 00:03:03,299
 they were not being attacked
 by Earthmen?
 
 40
-00:03:04,087 --> 00:03:06,647
+00:03:03,387 --> 00:03:05,947
 (SIGHING) If only we had proof.
 
 41
-00:03:06,727 --> 00:03:09,764
+00:03:06,027 --> 00:03:09,064
 Then I could convince my people
 and you could convince yours.
 
 42
-00:03:09,847 --> 00:03:11,838
+00:03:09,147 --> 00:03:11,138
 But there's not much time.
 
 43
-00:03:11,927 --> 00:03:15,556
+00:03:11,227 --> 00:03:14,856
 Madam President, everything is ready.
 We shall use my personal scoutship.
 
 44
-00:03:15,647 --> 00:03:18,480
+00:03:14,947 --> 00:03:17,780
 We'd better leave at once.
 Madam President.
 
 45
-00:03:21,047 --> 00:03:24,676
+00:03:20,347 --> 00:03:23,976
 -My life at your command.
 -Madam President.
 
 46
-00:03:26,487 --> 00:03:28,125
+00:03:25,787 --> 00:03:27,425
 Thanks, cheerful.
 
 47
-00:03:36,007 --> 00:03:37,838
+00:03:35,307 --> 00:03:37,138
 (EXCLAIMING IN DISGUST)
 
 48
-00:03:44,847 --> 00:03:46,075
+00:03:44,147 --> 00:03:45,375
 (SIGHING)
 
 49
-00:04:17,487 --> 00:04:20,001
+00:04:16,787 --> 00:04:19,301
 DOCTOR: Right, 34 seconds,
 
 50
-00:04:20,087 --> 00:04:25,366
+00:04:19,387 --> 00:04:24,666
 a course correction to galactic
 coordinates 2349-6784.
 
 51
-00:04:25,447 --> 00:04:26,880
+00:04:24,747 --> 00:04:26,180
 You realise where that will take us?
 
 52
-00:04:26,967 --> 00:04:29,037
+00:04:26,267 --> 00:04:28,337
 A completely uninhabited sector
 of the galaxy.
 
 53
-00:04:29,127 --> 00:04:31,118
+00:04:28,427 --> 00:04:30,418
 Well, not completely uninhabited,
 General Williams.
 
 54
-00:04:31,207 --> 00:04:32,560
+00:04:30,507 --> 00:04:31,860
 That's where the Ogron's planet is.
 
 55
-00:04:32,647 --> 00:04:34,842
+00:04:31,947 --> 00:04:34,142
 No doubt your information
 is better than mine.
 
 56
-00:04:34,927 --> 00:04:37,999
+00:04:34,227 --> 00:04:37,299
 -May I ask where you obtained it?
 -Certainly. From the Master.
 
 57
-00:04:38,087 --> 00:04:41,159
+00:04:37,387 --> 00:04:40,459
 He fed the co-ordinates into his
 ship's computer when I was his prisoner.
 
 58
-00:04:41,247 --> 00:04:42,885
+00:04:40,547 --> 00:04:42,185
 And after you'd captured the ship, sir,
 
 59
-00:04:42,967 --> 00:04:45,003
+00:04:42,267 --> 00:04:44,303
 I extracted the information
 from the ship's memory banks.
 
 60
-00:04:45,087 --> 00:04:47,237
+00:04:44,387 --> 00:04:46,537
 We're simply wasting time...
 
 61
-00:04:48,327 --> 00:04:49,726
+00:04:47,627 --> 00:04:49,026
 Dragons!
 
 62
-00:04:49,807 --> 00:04:52,275
+00:04:49,107 --> 00:04:51,575
 Let me talk to them, I shall explain!
 
 63
-00:04:52,367 --> 00:04:53,720
+00:04:51,667 --> 00:04:53,020
 Somehow I don't think
 they're in the mood
 
 64
-00:04:53,807 --> 00:04:54,842
+00:04:53,107 --> 00:04:54,142
 for explanations at this minute.
 
 65
-00:04:54,927 --> 00:04:56,485
+00:04:54,227 --> 00:04:55,785
 -Can you outrun them?
 -This ship can outrun anything.
 
 66
-00:04:56,567 --> 00:04:59,445
+00:04:55,867 --> 00:04:58,745
 Hyper-drive. Max hyper-drive!
 
 67
-00:05:03,567 --> 00:05:07,526
+00:05:02,867 --> 00:05:06,826
 -Right, we're out of range now.
 -Reduce speed, return to course.
 
 68
-00:05:08,007 --> 00:05:11,716
+00:05:07,307 --> 00:05:11,016
 I regret the behaviour of my people.
 The officer will be punished.
 
 69
-00:05:11,807 --> 00:05:14,241
+00:05:11,107 --> 00:05:13,541
 Well, we were infringing Draconian space
 after all, Your Royal Highness.
 
 70
-00:05:14,327 --> 00:05:15,680
+00:05:13,627 --> 00:05:14,980
 -General Williams...
 -Yes?
 
 71
-00:05:15,767 --> 00:05:17,246
+00:05:15,067 --> 00:05:16,546
 I can't get her back on course, sir.
 
 72
-00:05:17,327 --> 00:05:20,125
+00:05:16,627 --> 00:05:19,425
 One of the drive outlets
 is malfunctioning.
 
 73
-00:05:20,887 --> 00:05:22,115
+00:05:20,187 --> 00:05:21,415
 Do you know exactly what's wrong?
 
 74
-00:05:22,207 --> 00:05:24,004
+00:05:21,507 --> 00:05:23,304
 There's damage
 to exterior electrical circuit.
 
 75
-00:05:24,087 --> 00:05:26,396
+00:05:23,387 --> 00:05:25,696
 -Can't you repair it?
 -It'll mean going outside, sir.
 
 76
-00:05:26,487 --> 00:05:27,715
+00:05:25,787 --> 00:05:27,015
 Put the ship on automatic
 and get out there.
 
 77
-00:05:27,807 --> 00:05:29,923
+00:05:27,107 --> 00:05:29,223
 No good, sir.
 I've got to control it manually.
 
 78
-00:05:30,007 --> 00:05:32,965
+00:05:29,307 --> 00:05:32,265
 Right, well, you hold her steady.
 I'll go and effect the repairs.
 
 79
-00:05:33,047 --> 00:05:35,481
+00:05:32,347 --> 00:05:34,781
 No doubt you're a qualified
 space engineer, too, Doctor?
 
 80
-00:05:35,567 --> 00:05:36,886
+00:05:34,867 --> 00:05:36,186
 Naturally.
 
 81
-00:06:28,287 --> 00:06:29,640
+00:06:27,587 --> 00:06:28,940
 How's it going, Doctor?
 
 82
-00:06:29,727 --> 00:06:32,036
+00:06:29,027 --> 00:06:31,336
 DOCTOR OVER RADIO:
 <i>A bit of a shambles, I'm afraid.</i>
 
 83
-00:06:32,127 --> 00:06:35,005
+00:06:31,427 --> 00:06:34,305
 <i>Though I'll do my best</i>
 <i>to bodge something up.</i>
 
 84
-00:06:35,087 --> 00:06:38,045
+00:06:34,387 --> 00:06:37,345
 -Look!
 -WILLIAMS: It's coming up fast.
 
 85
-00:06:38,127 --> 00:06:39,560
+00:06:37,427 --> 00:06:38,860
 Look as if your friends
 are catching up with us.
 
 86
-00:06:39,647 --> 00:06:40,921
+00:06:38,947 --> 00:06:40,221
 PILOT: Once they're in range,
 they'll fire again.
 
 87
-00:06:41,007 --> 00:06:42,076
+00:06:40,307 --> 00:06:41,376
 Doctor, there's a ship approaching.
 
 88
-00:06:42,167 --> 00:06:45,045
+00:06:41,467 --> 00:06:44,345
 <i>We think it's the Draconians.</i>
 <i>How long will you be?</i>
 
 89
-00:06:45,127 --> 00:06:46,196
+00:06:44,427 --> 00:06:45,496
 <i>I've no idea, old chap.</i>
 
 90
-00:06:55,527 --> 00:06:57,757
+00:06:54,827 --> 00:06:57,057
 -Stand by for hyper-drive.
 -We can't, sir.
 
 91
-00:06:57,847 --> 00:07:00,236
+00:06:57,147 --> 00:06:59,536
 The Doctor's had to disconnect
 the main circuitry to make the repair.
 
 92
-00:07:00,327 --> 00:07:03,000
+00:06:59,627 --> 00:07:02,300
 I can't reach the speed
 until he's finished.
 
 93
-00:07:03,087 --> 00:07:05,681
+00:07:02,387 --> 00:07:04,981
 If my people fire, he will be killed!
 Let me speak to them!
 
 94
-00:07:05,767 --> 00:07:07,246
+00:07:05,067 --> 00:07:06,546
 Do you think they'll wait to talk?
 
 95
-00:07:07,327 --> 00:07:09,318
+00:07:06,627 --> 00:07:08,618
 The Draconians are coming up fast,
 Doctor.
 
 96
-00:07:09,407 --> 00:07:11,443
+00:07:08,707 --> 00:07:10,743
 If you don't get that repair finished,
 we'll be a sitting target.
 
 97
-00:07:12,007 --> 00:07:14,475
+00:07:11,307 --> 00:07:13,775
 DOCTOR: <i>I know. I'm on the outside.</i>
 
 98
-00:07:16,447 --> 00:07:20,804
+00:07:15,747 --> 00:07:20,104
 WILLIAMS: <i>It's getting very close.</i>
 DOCTOR: <i>I'm being as quick as I can.</i>
 
 99
-00:07:25,967 --> 00:07:27,923
+00:07:25,267 --> 00:07:27,223
 -He's done it!
 -DOCTOR: <i>Right, I'm coming in now.</i>
 
 100
-00:07:28,007 --> 00:07:29,122
+00:07:27,307 --> 00:07:28,422
 WILLIAMS: Right, stand by.
 
 101
-00:08:06,367 --> 00:08:08,119
+00:08:05,667 --> 00:08:07,419
 Maximum hyper-drive!
 
 102
-00:08:13,087 --> 00:08:14,361
+00:08:12,387 --> 00:08:13,661
 (GASPING)
 
 103
-00:09:07,047 --> 00:09:09,038
+00:09:06,347 --> 00:09:08,338
 Pilot, can you get her
 into a closer orbit?
 
 104
-00:09:09,127 --> 00:09:10,446
+00:09:08,427 --> 00:09:09,746
 If you want me to take her in
 that close, sir,
 
 105
-00:09:10,527 --> 00:09:12,199
+00:09:09,827 --> 00:09:11,499
 we may have to enter the atmosphere.
 
 106
-00:09:12,287 --> 00:09:14,562
+00:09:11,587 --> 00:09:13,862
 What about that repair?
 Will it stand the heat?
 
 107
-00:09:14,647 --> 00:09:17,036
+00:09:13,947 --> 00:09:16,336
 Well, we'll just have to risk it.
 We can't see anything from up here.
 
 108
-00:09:56,087 --> 00:09:57,725
+00:09:55,387 --> 00:09:57,025
 Mayday, mayday.
 
 109
-00:09:57,807 --> 00:10:02,119
+00:09:57,107 --> 00:10:01,419
 This is an urgent message
 for both Draconian and Earth forces.
 
 110
-00:10:02,207 --> 00:10:04,323
+00:10:01,507 --> 00:10:03,623
 The Ogrons are using a planet,
 
 111
-00:10:04,407 --> 00:10:08,525
+00:10:03,707 --> 00:10:07,825
 galactic coordinates 2349-6784,
 
 112
-00:10:09,247 --> 00:10:13,035
+00:10:08,547 --> 00:10:12,335
 as a base for their attacks
 on both Earth and Draconian spaceships.
 
 113
-00:10:13,127 --> 00:10:14,958
+00:10:12,427 --> 00:10:14,258
 -We're losing the signal.
 -JO: <i>Please inform the authorities.</i>
 
 114
-00:10:15,047 --> 00:10:16,196
+00:10:14,347 --> 00:10:15,496
 -Can you boost it up?
 -JO: <i>I repeat...</i>
 
 115
-00:10:16,287 --> 00:10:18,118
+00:10:15,587 --> 00:10:17,418
 I'm sorry, sir.
 We're nearly over the horizon.
 
 116
-00:10:18,207 --> 00:10:19,640
+00:10:17,507 --> 00:10:18,940
 -Did you get a fix on it?
 -Pretty close.
 
 117
-00:10:19,727 --> 00:10:21,240
+00:10:19,027 --> 00:10:20,540
 I can put us down on a general area.
 
 118
-00:10:21,327 --> 00:10:22,760
+00:10:20,627 --> 00:10:22,060
 How long will it take us
 to complete the orbit?
 
 119
-00:10:22,847 --> 00:10:24,326
+00:10:22,147 --> 00:10:23,626
 -About 20 minutes.
 -Increase speed.
 
 120
-00:10:24,807 --> 00:10:28,163
+00:10:24,107 --> 00:10:27,463
 Please inform the authorities
 of either Earth or Draconia.
 
 121
-00:10:28,247 --> 00:10:30,886
+00:10:27,547 --> 00:10:30,186
 I repeat, mayday, mayday, this is a...
 
 122
-00:10:32,407 --> 00:10:35,444
+00:10:31,707 --> 00:10:34,744
 Thank you, Miss Grant.
 That was the trap.
 
 123
-00:10:35,527 --> 00:10:38,041
+00:10:34,827 --> 00:10:37,341
 Oh, no. You're the one who's trapped.
 
 124
-00:10:38,127 --> 00:10:40,402
+00:10:37,427 --> 00:10:39,702
 I've just given
 your entire position away!
 
 125
-00:10:40,487 --> 00:10:43,957
+00:10:39,787 --> 00:10:43,257
 Yes. I left those galactic
 coordinates for you to find.
 
 126
-00:10:44,847 --> 00:10:46,678
+00:10:44,147 --> 00:10:45,978
 -You mean they were fakes?
 -Oh, no, no, no.
 
 127
-00:10:46,767 --> 00:10:48,120
+00:10:46,067 --> 00:10:47,420
 They're genuine enough.
 
 128
-00:10:48,207 --> 00:10:50,596
+00:10:47,507 --> 00:10:49,896
 But this is a short-range transmitter.
 
 129
-00:10:50,687 --> 00:10:52,120
+00:10:49,987 --> 00:10:51,420
 So no one will have picked up
 your message
 
 130
-00:10:52,207 --> 00:10:55,438
+00:10:51,507 --> 00:10:54,738
 more than two or three hundred miles
 from this planet.
 
 131
-00:10:55,527 --> 00:10:56,596
+00:10:54,827 --> 00:10:55,896
 Nobody heard me.
 
 132
-00:10:56,687 --> 00:10:59,838
+00:10:55,987 --> 00:10:59,138
 On the contrary, the Doctor heard you.
 
 133
-00:10:59,927 --> 00:11:04,318
+00:10:59,227 --> 00:11:03,618
 Yes, at this moment, he's orbiting
 the planet in a small spaceship.
 
 134
-00:11:04,407 --> 00:11:06,637
+00:11:03,707 --> 00:11:05,937
 I picked him up on radar
 a little while ago.
 
 135
-00:11:06,727 --> 00:11:07,921
+00:11:06,027 --> 00:11:07,221
 How do you know it was the Doctor?
 
 136
-00:11:08,007 --> 00:11:10,726
+00:11:07,307 --> 00:11:10,026
 My dear Miss Grant,
 who else could it be?
 
 137
-00:11:10,807 --> 00:11:13,958
+00:11:10,107 --> 00:11:13,258
 You see, when the Doctor arrives,
 we'll be waiting for him.
 
 138
-00:11:14,047 --> 00:11:15,958
+00:11:13,347 --> 00:11:15,258
 So you have been useful to me after all.
 
 139
-00:11:16,047 --> 00:11:17,321
+00:11:15,347 --> 00:11:16,621
 (LAUGHING)
 
 140
-00:11:17,847 --> 00:11:20,998
+00:11:17,147 --> 00:11:20,298
 But,just in case the Doctor
 should get lost...
 
 141
-00:11:21,087 --> 00:11:22,122
+00:11:20,387 --> 00:11:21,422
 (DEVICE BEEPING)
 
 142
-00:11:22,207 --> 00:11:26,598
+00:11:21,507 --> 00:11:25,898
 There. Now he'll think that this homing
 signal comes from you, Miss Grant.
 
 143
-00:11:26,687 --> 00:11:30,123
+00:11:25,987 --> 00:11:29,423
 By the way, congratulations.
 
 144
-00:11:30,207 --> 00:11:32,721
+00:11:29,507 --> 00:11:32,021
 I knew I could count on you
 to get out of your cage.
 
 145
-00:11:32,807 --> 00:11:34,240
+00:11:32,107 --> 00:11:33,540
 Right, take her away.
 
 146
-00:11:34,327 --> 00:11:37,399
+00:11:33,627 --> 00:11:36,699
 And, this time, make sure
 that she's properly under guard.
 
 147
-00:11:37,487 --> 00:11:40,797
+00:11:36,787 --> 00:11:40,097
 JO: No, no, no!
 
 148
-00:11:45,767 --> 00:11:48,281
+00:11:45,067 --> 00:11:47,581
 -How much longer?
 -Two seconds to go.
 
 149
-00:11:48,847 --> 00:11:50,803
+00:11:48,147 --> 00:11:50,103
 WILLIAMS: We're overheating badly.
 
 150
-00:11:50,887 --> 00:11:53,082
+00:11:50,187 --> 00:11:52,382
 Yes, I know. This is it.
 We should pick her up again now.
 
 151
-00:11:53,167 --> 00:11:54,805
+00:11:52,467 --> 00:11:54,105
 (SIGNAL BEEPING)
 
 152
-00:11:55,847 --> 00:11:57,599
+00:11:55,147 --> 00:11:56,899
 What is that signal?
 
 153
-00:11:58,207 --> 00:12:00,084
+00:11:57,507 --> 00:11:59,384
 Jo must have fixed up
 some kind of homing device.
 
 154
-00:12:00,167 --> 00:12:02,920
+00:11:59,467 --> 00:12:02,220
 Splendid! That'll lead us right to them.
 
 155
-00:12:03,287 --> 00:12:05,323
+00:12:02,587 --> 00:12:04,623
 Doesn't it strike you
 as being a bit too convenient?
 
 156
-00:12:05,407 --> 00:12:06,476
+00:12:04,707 --> 00:12:05,776
 Hmm.
 
 157
-00:12:13,887 --> 00:12:17,926
+00:12:13,187 --> 00:12:17,226
 -The drive outlet circuit's gone again.
 -Can you get her down?
 
 158
-00:12:18,007 --> 00:12:20,567
+00:12:17,307 --> 00:12:19,867
 Yes. But I'm not sure where.
 
 159
-00:12:21,047 --> 00:12:23,003
+00:12:20,347 --> 00:12:22,303
 MASTER: Yes,
 they should be here very soon now.
 
 160
-00:12:23,087 --> 00:12:24,156
+00:12:22,387 --> 00:12:23,456
 (DEVICE BEEPING)
 
 161
-00:12:24,247 --> 00:12:28,286
+00:12:23,547 --> 00:12:27,586
 Judging by the size of the ship,
 they can't be in any great force.
 
 162
-00:12:28,367 --> 00:12:33,521
+00:12:27,667 --> 00:12:32,821
 So conceal yourselves and ambush them
 as soon as they arrive, right?
 
 163
-00:12:33,607 --> 00:12:35,404
+00:12:32,907 --> 00:12:34,704
 Hold on, wait a minute.
 Something's happened.
 
 164
-00:12:35,487 --> 00:12:37,398
+00:12:34,787 --> 00:12:36,698
 They must have landed very nearby.
 
 165
-00:12:37,487 --> 00:12:38,636
+00:12:36,787 --> 00:12:37,936
 Right, send out patrols!
 
 166
-00:12:38,727 --> 00:12:40,319
+00:12:38,027 --> 00:12:39,619
 Get them and bring them
 back here immediately.
 
 167
-00:12:40,407 --> 00:12:43,399
+00:12:39,707 --> 00:12:42,699
 And, remember, I want the Doctor alive.
 
 168
-00:12:43,487 --> 00:12:45,239
+00:12:42,787 --> 00:12:44,539
 OGRONS: Yes, Master.
 
 169
-00:13:08,567 --> 00:13:10,159
+00:13:07,867 --> 00:13:09,459
 (DEVICE BEEPING)
 
 170
-00:13:36,327 --> 00:13:40,923
+00:13:35,627 --> 00:13:40,223
 Williams, look. Another one.
 
 171
-00:13:46,447 --> 00:13:50,201
+00:13:45,747 --> 00:13:49,501
 One dominant life form,
 a large and savage reptile.
 
 172
-00:13:50,287 --> 00:13:52,801
+00:13:49,587 --> 00:13:52,101
 Yes, well, let's hope
 we don't encounter one.
 
 173
-00:13:52,887 --> 00:13:54,240
+00:13:52,187 --> 00:13:53,540
 Doctor, has it occurred to you
 what we're going to do
 
 174
-00:13:54,327 --> 00:13:56,318
+00:13:53,627 --> 00:13:55,618
 when we discover
 the source of this signal?
 
 175
-00:13:56,407 --> 00:14:00,161
+00:13:55,707 --> 00:13:59,461
 I've no idea, old chap.
 We'll find out when we get there.
 
 176
-00:14:00,247 --> 00:14:02,078
+00:13:59,547 --> 00:14:01,378
 Come on, can't be far.
 
 177
-00:14:44,087 --> 00:14:46,760
+00:14:43,387 --> 00:14:46,060
 -Drop! Surrender!
 -WILLIAMS: Take cover!
 
 178
-00:14:55,807 --> 00:14:56,876
+00:14:55,107 --> 00:14:56,176
 (GROWLING)
 
 179
-00:14:56,967 --> 00:14:58,525
+00:14:56,267 --> 00:14:57,825
 WILLIAMS: What is that?
 
 180
-00:14:58,607 --> 00:15:01,883
+00:14:57,907 --> 00:15:01,183
 I've no idea, but whatever it is,
 it's on our side.
 
 181
-00:15:05,327 --> 00:15:08,160
+00:15:04,627 --> 00:15:07,460
 Yes, I await your arrival
 with the greatest of pleasure.
 
 182
-00:15:08,247 --> 00:15:11,637
+00:15:07,547 --> 00:15:10,937
 And I shall be there to meet you
 the moment that your ship touches down.
 
 183
-00:15:16,127 --> 00:15:17,799
+00:15:15,427 --> 00:15:17,099
 (OGRONS GRUNTING)
 
 184
-00:15:20,007 --> 00:15:22,999
+00:15:19,307 --> 00:15:22,299
 -So, where's the Doctor?
 -The monster came.
 
 185
-00:15:23,087 --> 00:15:25,601
+00:15:22,387 --> 00:15:24,901
 The monster?
 And I suppose you all ran like rabbits?
 
 186
-00:15:25,687 --> 00:15:29,726
+00:15:24,987 --> 00:15:29,026
 -We fear the monster!
 -You stupid, cowardly idiots!
 
 187
-00:15:29,807 --> 00:15:31,604
+00:15:29,107 --> 00:15:30,904
 You will answer
 to your masters for this.
 
 188
-00:15:31,687 --> 00:15:34,485
+00:15:30,987 --> 00:15:33,785
 -What? They are coming?
 -Yes, they are coming!
 
 189
-00:15:34,567 --> 00:15:37,639
+00:15:33,867 --> 00:15:36,939
 Which means that I can dispense
 with your doubtful assistance.
 
 190
-00:15:37,727 --> 00:15:39,206
+00:15:37,027 --> 00:15:38,506
 Out of my way!
 
 191
-00:15:43,167 --> 00:15:44,759
+00:15:42,467 --> 00:15:44,059
 (DEVICE BEEPING)
 
 192
-00:15:47,607 --> 00:15:49,438
+00:15:46,907 --> 00:15:48,738
 (BEEPING INTENSIFIES)
 
 193
-00:15:51,407 --> 00:15:54,160
+00:15:50,707 --> 00:15:53,460
 That's good. It's started again.
 Come on.
 
 194
-00:15:56,047 --> 00:15:57,241
+00:15:55,347 --> 00:15:56,541
 A ship!
 
 195
-00:16:03,367 --> 00:16:06,518
+00:16:02,667 --> 00:16:05,818
 Somebody else seems to have
 received the message!
 
 196
-00:16:23,327 --> 00:16:24,680
+00:16:22,627 --> 00:16:23,980
 What is it?
 
 197
-00:16:25,607 --> 00:16:27,040
+00:16:24,907 --> 00:16:26,340
 I don't know.
 
 198
-00:16:27,567 --> 00:16:32,197
+00:16:26,867 --> 00:16:31,497
 I've got a feeling.
 Some sort of premonition.
 
 199
-00:16:33,927 --> 00:16:35,565
+00:16:33,227 --> 00:16:34,865
 WILLIAMS: Doctor?
 
 200
-00:16:38,087 --> 00:16:40,317
+00:16:37,387 --> 00:16:39,617
 Yes, come on.
 
 201
-00:16:47,447 --> 00:16:48,926
+00:16:46,747 --> 00:16:48,226
 Hello, Doctor!
 
 202
-00:16:49,767 --> 00:16:51,917
+00:16:49,067 --> 00:16:51,217
 So here you are at last, eh?
 
 203
-00:16:52,847 --> 00:16:56,203
+00:16:52,147 --> 00:16:55,503
 -Surrender or you'll be shot down!
 -No, he's unarmed.
 
 204
-00:16:57,327 --> 00:17:01,240
+00:16:56,627 --> 00:17:00,540
 Unarmed maybe, but not unaccompanied.
 
 205
-00:17:01,327 --> 00:17:04,444
+00:17:00,627 --> 00:17:03,744
 I've brought some old friends along
 to meet you.
 
 206
-00:17:06,727 --> 00:17:08,365
+00:17:06,027 --> 00:17:07,665
 (MASTER LAUGHING)
 
 207
-00:17:14,287 --> 00:17:19,441
+00:17:13,587 --> 00:17:18,741
 Quite a touching little reunion.
 You don't seem very pleased?
 
 208
-00:17:19,527 --> 00:17:20,562
+00:17:18,827 --> 00:17:19,862
 (MASTER LAUGHING)
 
 209
-00:17:20,647 --> 00:17:21,796
+00:17:19,947 --> 00:17:21,096
 Fire!
 
 210
-00:17:24,087 --> 00:17:26,840
+00:17:23,387 --> 00:17:26,140
 No! No, don't. It's no good.
 
 211
-00:17:37,687 --> 00:17:41,441
+00:17:36,987 --> 00:17:40,741
 CHIEF DALEK: <i>Doctor, you are in our</i>
 <i>power and you will be exterminated.</i>
 
 212
-00:17:41,527 --> 00:17:44,599
+00:17:40,827 --> 00:17:43,899
 -No, not yet.
 <i>-You will obey the Daleks!</i>
 
 213
-00:17:44,687 --> 00:17:48,202
+00:17:43,987 --> 00:17:47,502
 You know as well as I do
 that this man does not fear death.
 
 214
-00:17:48,287 --> 00:17:51,199
+00:17:47,587 --> 00:17:50,499
 I want him to suffer
 a much worse punishment.
 
 215
-00:17:51,287 --> 00:17:53,881
+00:17:50,587 --> 00:17:53,181
 Look, my skill and cunning
 has brought about this war
 
 216
-00:17:53,967 --> 00:17:56,481
+00:17:53,267 --> 00:17:55,781
 which will make you
 the masters of the galaxy.
 
 217
-00:17:56,567 --> 00:18:01,163
+00:17:55,867 --> 00:18:00,463
 Leave the Doctor with me
 and let him see the result of that war.
 
 218
-00:18:01,967 --> 00:18:04,197
+00:18:01,267 --> 00:18:03,497
 Let him see the galaxy in ruins.
 
 219
-00:18:04,287 --> 00:18:08,599
+00:18:03,587 --> 00:18:07,899
 Let him see the planet Earth,
 that he loves so much, in ruins,
 
 220
-00:18:08,687 --> 00:18:10,484
+00:18:07,987 --> 00:18:09,784
 then exterminate him.
 
 221
-00:18:10,767 --> 00:18:16,285
+00:18:10,067 --> 00:18:15,585
 <i>Very well. He will remain your prisoner</i>
 <i>until the war is concluded.</i>
 
 222
-00:18:16,367 --> 00:18:20,963
+00:18:15,667 --> 00:18:20,263
 <i>Then you will bring him to us</i>
 <i>and we shall exterminate him.</i>
 
 223
-00:18:21,047 --> 00:18:25,563
+00:18:20,347 --> 00:18:24,863
 <i>We shall now return to our base</i>
 <i>and prepare the army of the Daleks.</i>
 
 224
-00:18:40,087 --> 00:18:44,603
+00:18:39,387 --> 00:18:43,903
 Oh, I suppose I should thank you
 for saving my life?
 
 225
-00:18:44,687 --> 00:18:48,396
+00:18:43,987 --> 00:18:47,696
 Not for long, Doctor.
 It's going to be a very short war.
 
 226
-00:18:49,127 --> 00:18:50,958
+00:18:48,427 --> 00:18:50,258
 Right, take them away.
 
 227
-00:19:05,967 --> 00:19:07,923
+00:19:05,267 --> 00:19:07,223
 -Hello, Doctor.
 -Hello, Jo.
 
 228
-00:19:08,007 --> 00:19:10,157
+00:19:07,307 --> 00:19:09,457
 Oh, so now they've got all of us.
 
 229
-00:19:10,247 --> 00:19:12,841
+00:19:09,547 --> 00:19:12,141
 All except the pilot.
 He's repairing the ship.
 
 230
-00:19:12,927 --> 00:19:17,125
+00:19:12,227 --> 00:19:16,425
 Why do these Dalek creatures wish
 to set your people and mine at war?
 
 231
-00:19:17,207 --> 00:19:20,802
+00:19:16,507 --> 00:19:20,102
 'Cause war will mean the extermination
 of both empires, Your Royal Highness,
 
 232
-00:19:20,887 --> 00:19:24,084
+00:19:20,187 --> 00:19:23,384
 and the Daleks will emerge
 as the supreme rulers.
 
 233
-00:19:24,167 --> 00:19:27,364
+00:19:23,467 --> 00:19:26,664
 Now somehow, we've got to get
 out of here and stop them.
 
 234
-00:19:27,447 --> 00:19:32,202
+00:19:26,747 --> 00:19:31,502
 (WHISPERING) Doctor! Doctor,
 would the Master's little fear-box help?
 
 235
-00:19:33,367 --> 00:19:34,436
+00:19:32,667 --> 00:19:33,736
 Well done, Jo!
 
 236
-00:19:34,527 --> 00:19:36,165
+00:19:33,827 --> 00:19:35,465
 You see, we could use it
 to frighten the Ogrons away
 
 237
-00:19:36,247 --> 00:19:37,316
+00:19:35,547 --> 00:19:36,616
 and then we can all escape.
 
 238
-00:19:37,407 --> 00:19:38,442
+00:19:36,707 --> 00:19:37,742
 Well, that's hardly practical,
 Miss Grant.
 
 239
-00:19:38,567 --> 00:19:39,966
+00:19:37,867 --> 00:19:39,266
 They'd just run off
 and we'd still be locked in.
 
 240
-00:19:40,047 --> 00:19:41,116
+00:19:39,347 --> 00:19:40,416
 (SIGHING) Oh!
 
 241
-00:19:41,207 --> 00:19:45,962
+00:19:40,507 --> 00:19:45,262
 There is one thing we can do, though,
 and it'll need a very slight adjustment.
 
 242
-00:19:48,327 --> 00:19:49,442
+00:19:47,627 --> 00:19:48,742
 There's nothing to worry about.
 
 243
-00:19:49,527 --> 00:19:52,360
+00:19:48,827 --> 00:19:51,660
 The Doctor will be perfectly safe
 in my hands.
 
 244
-00:19:52,447 --> 00:19:55,200
+00:19:51,747 --> 00:19:54,500
 And I promise you,
 when I deliver him to you,
 
 245
-00:19:55,287 --> 00:19:57,005
+00:19:54,587 --> 00:19:56,305
 he'll be a broken man.
 
 246
-00:19:57,087 --> 00:19:59,396
+00:19:56,387 --> 00:19:58,696
 CHIEF DALEK OVER RADIO:
 <i>Do not fail the Daleks.</i>
 
 247
-00:19:59,487 --> 00:20:01,364
+00:19:58,787 --> 00:20:00,664
 The war is certain now.
 
 248
-00:20:01,447 --> 00:20:04,245
+00:20:00,747 --> 00:20:03,545
 And once the great empires
 have destroyed each other,
 
 249
-00:20:04,327 --> 00:20:08,639
+00:20:03,627 --> 00:20:07,939
 I ask but one thing, let me rule
 the planet Earth in your name.
 
 250
-00:20:10,127 --> 00:20:13,199
+00:20:09,427 --> 00:20:12,499
 General Williams,
 if we do manage to get out of here,
 
 251
-00:20:13,287 --> 00:20:15,721
+00:20:12,587 --> 00:20:15,021
 and Jo and I manage
 to create a diversion,
 
 252
-00:20:15,807 --> 00:20:17,445
+00:20:15,107 --> 00:20:16,745
 could you find your way back
 to your spaceship?
 
 253
-00:20:17,527 --> 00:20:20,360
+00:20:16,827 --> 00:20:19,660
 -Certainly.
 -Good.
 
 254
-00:20:20,447 --> 00:20:22,722
+00:20:19,747 --> 00:20:22,022
 Right, that should do it.
 
 255
-00:20:22,807 --> 00:20:24,798
+00:20:22,107 --> 00:20:24,098
 Now I want you to take off immediately.
 
 256
-00:20:24,887 --> 00:20:26,684
+00:20:24,187 --> 00:20:25,984
 Get the truth back
 to your respective governments.
 
 257
-00:20:26,767 --> 00:20:27,802
+00:20:26,067 --> 00:20:27,102
 Yes.
 
 258
-00:20:27,887 --> 00:20:29,559
+00:20:27,187 --> 00:20:28,859
 Tell them that they must mount
 a joint expedition
 
 259
-00:20:29,647 --> 00:20:33,003
+00:20:28,947 --> 00:20:32,303
 -and capture this base at once.
 -I shall stay and help.
 
 260
-00:20:33,087 --> 00:20:35,396
+00:20:32,387 --> 00:20:34,696
 No, we'll need you to convince
 the Emperor, Your Royal Highness.
 
 261
-00:20:35,487 --> 00:20:37,364
+00:20:34,787 --> 00:20:36,664
 What about you and Miss Grant,
 how will you get away?
 
 262
-00:20:37,447 --> 00:20:39,005
+00:20:36,747 --> 00:20:38,305
 Jo, I presume that the TARDIS
 is still here?
 
 263
-00:20:39,087 --> 00:20:40,759
+00:20:38,387 --> 00:20:40,059
 -Yes, I know where it is.
 -Well, don't worry about us.
 
 264
-00:20:40,847 --> 00:20:42,644
+00:20:40,147 --> 00:20:41,944
 -Our spaceship is here.
 -That's all very well, Doctor,
 
 265
-00:20:42,727 --> 00:20:44,319
+00:20:42,027 --> 00:20:43,619
 but we still happen to be locked in.
 
 266
-00:20:44,407 --> 00:20:46,841
+00:20:43,707 --> 00:20:46,141
 Yes, well, would you mind
 blocking your ears
 
 267
-00:20:46,927 --> 00:20:48,326
+00:20:46,227 --> 00:20:47,626
 and covering your eyes
 just for a moment?
 
 268
-00:20:48,407 --> 00:20:49,556
+00:20:47,707 --> 00:20:48,856
 I do not understand.
 
 269
-00:20:49,647 --> 00:20:52,115
+00:20:48,947 --> 00:20:51,415
 No, but I think you will in a moment.
 Just do as I ask, would you?
 
 270
-00:20:52,207 --> 00:20:53,765
+00:20:51,507 --> 00:20:53,065
 -You, too, Jo.
 -Oh, no, it's all right.
 
 271
-00:20:53,847 --> 00:20:55,280
+00:20:53,147 --> 00:20:54,580
 -I can resist it.
 -Can you?
 
 272
-00:20:55,367 --> 00:20:57,119
+00:20:54,667 --> 00:20:56,419
 -Yes.
 -Good.
 
 273
-00:21:00,607 --> 00:21:04,600
+00:20:59,907 --> 00:21:03,900
 DOCTOR: Uh, how much longer are you
 gonna keep us locked in here?
 
 274
-00:21:05,767 --> 00:21:07,723
+00:21:05,067 --> 00:21:07,023
 Yes, I'm talking to you.
 
 275
-00:21:07,807 --> 00:21:09,798
+00:21:07,107 --> 00:21:09,098
 (HYPNOTIC PULSE SOUNDING)
 
 276
-00:21:10,367 --> 00:21:15,600
+00:21:09,667 --> 00:21:14,900
 <i>Open the gate. Open the gate.</i>
 
 277
-00:21:17,887 --> 00:21:21,846
+00:21:17,187 --> 00:21:21,146
 <i>Open the gate or I will exterminate you.</i>
 
 278
-00:21:22,447 --> 00:21:24,199
+00:21:21,747 --> 00:21:23,499
 It worked.
 
 279
-00:21:29,847 --> 00:21:32,680
+00:21:29,147 --> 00:21:31,980
 DOCTOR: Right.
 JO: Come on, then. Follow me.
 
 280
-00:21:36,327 --> 00:21:38,318
+00:21:35,627 --> 00:21:37,618
 CHIEF DALEK OVER RADIO:
 <i>We are about to enter hyper-drive</i>
 
 281
-00:21:38,407 --> 00:21:43,083
+00:21:37,707 --> 00:21:42,383
 <i>and return to our base.</i>
 <i>Do not fail the Daleks.</i>
 
 282
-00:21:44,447 --> 00:21:45,880
+00:21:43,747 --> 00:21:45,180
 (SCOFFING)
 
 283
-00:21:45,967 --> 00:21:50,085
+00:21:45,267 --> 00:21:49,385
 Right, we'll see who rules
 the galaxy when this is over.
 
 284
-00:21:50,167 --> 00:21:52,601
+00:21:49,467 --> 00:21:51,901
 (MOCKINGLY IMPERSONATING THE DALEKS)
 "Do not fail the Daleks", indeed!
 
 285
-00:21:52,687 --> 00:21:54,200
+00:21:51,987 --> 00:21:53,500
 You stupid, tin boxes!
 
 286
-00:21:54,287 --> 00:21:56,118
+00:21:53,587 --> 00:21:55,418
 (OGRON GASPING)
 
 287
-00:21:56,207 --> 00:21:57,606
+00:21:55,507 --> 00:21:56,906
 Why aren't you guarding the prisoners?
 
 288
-00:21:57,687 --> 00:21:59,962
+00:21:56,987 --> 00:21:59,262
 -The Daleks sent me away.
 -There are no Daleks!
 
 289
-00:22:00,047 --> 00:22:03,960
+00:21:59,347 --> 00:22:03,260
 -The Daleks have all left the planet.
 -The Dalek said to open the cell.
 
 290
-00:22:04,047 --> 00:22:07,722
+00:22:03,347 --> 00:22:07,022
 Did he now? Fetch the others!
 I want them here immediately.
 
 291
-00:22:12,687 --> 00:22:17,283
+00:22:11,987 --> 00:22:16,583
 -Doctor, look at this.
 -DOCTOR: Well, that's fascinating.
 
 292
-00:22:18,047 --> 00:22:21,437
+00:22:17,347 --> 00:22:20,737
 Is it some sort of idol?
 I saw one of the Ogrons worshipping it.
 
 293
-00:22:21,527 --> 00:22:23,995
+00:22:20,827 --> 00:22:23,295
 Yes, I'm not surprised.
 We've seen the real thing, haven't we?
 
 294
-00:22:24,087 --> 00:22:26,282
+00:22:23,387 --> 00:22:25,582
 They're probably more frightened of him
 than they are of the Daleks.
 
 295
-00:22:26,367 --> 00:22:28,358
+00:22:25,667 --> 00:22:27,658
 Right, come on. This way.
 
 296
-00:22:33,327 --> 00:22:35,079
+00:22:32,627 --> 00:22:34,379
 Right, you can get out this way.
 Good luck.
 
 297
-00:22:35,167 --> 00:22:36,805
+00:22:34,467 --> 00:22:36,105
 -And you, Miss Grant. Doctor.
 -General Williams.
 
 298
-00:22:36,887 --> 00:22:38,684
+00:22:36,187 --> 00:22:37,984
 WILLIAMS: Farewell.
 JO: Good luck.
 
 299
-00:22:38,767 --> 00:22:40,997
+00:22:38,067 --> 00:22:40,297
 DOCTOR: Your Royal Highness.
 PRINCE: My life at your command.
 
 300
-00:22:41,087 --> 00:22:43,078
+00:22:40,387 --> 00:22:42,378
 The TARDIS is over there.
 
 301
-00:22:43,287 --> 00:22:44,322
+00:22:42,587 --> 00:22:43,622
 Going somewhere, Doctor?
 
 302
-00:22:44,407 --> 00:22:46,841
+00:22:43,707 --> 00:22:46,141
 You know, you really are incredibly
 persistent, aren't you?
 
 303
-00:22:46,927 --> 00:22:51,364
+00:22:46,227 --> 00:22:50,664
 -That is my property, I believe.
 -Oh, yes, a most ingenious device.
 
 304
-00:22:51,447 --> 00:22:52,596
+00:22:50,747 --> 00:22:51,896
 I congratulate you.
 
 305
-00:22:52,687 --> 00:22:54,245
+00:22:51,987 --> 00:22:53,545
 OGRONS: Oh! The monster!
 
 306
-00:22:54,327 --> 00:22:55,521
+00:22:53,627 --> 00:22:54,821
 (HYPNOTIC PULSE SOUNDING)
 
 307
-00:23:03,207 --> 00:23:07,120
+00:23:02,507 --> 00:23:06,420
 -Oh, Doctor, I thought you were dead.
 -Help me.
 
 308
-00:23:07,207 --> 00:23:11,200
+00:23:06,507 --> 00:23:10,500
 Come on, yes. Careful.
 
 309
-00:23:17,087 --> 00:23:18,805
+00:23:16,387 --> 00:23:18,105
 -Help me into the TARDIS, Jo.
 -Okay.
 
 310
-00:23:21,727 --> 00:23:23,683
+00:23:21,027 --> 00:23:22,983
 -All right, Jo.
 -Careful.
 
 311
-00:23:29,847 --> 00:23:33,123
+00:23:29,147 --> 00:23:32,423
 The first thing we've got to do
 is get out of here.
 
 312
-00:23:34,647 --> 00:23:36,080
+00:23:33,947 --> 00:23:35,380
 (WHOOSHING)
 
 313
-00:23:40,407 --> 00:23:41,726
+00:23:39,707 --> 00:23:41,026
 (BEEPING)
 
 314
-00:23:42,847 --> 00:23:44,439
+00:23:42,147 --> 00:23:43,739
 (BREATHING DEEPLY)
 
 315
-00:23:44,527 --> 00:23:47,166
+00:23:43,827 --> 00:23:46,466
 Doctor, what are you doing?
 
 316
-00:23:47,247 --> 00:23:52,002
+00:23:46,547 --> 00:23:51,302
 Telepathic circuits,
 sending a message to the Time Lords.
 
