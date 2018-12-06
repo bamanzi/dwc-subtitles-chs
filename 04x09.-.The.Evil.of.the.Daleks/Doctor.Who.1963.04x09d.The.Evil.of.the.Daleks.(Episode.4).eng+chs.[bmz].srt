@@ -1,0 +1,921 @@
+1
+00:00:02,002 --> 00:00:09,002
+Sincro: wyxchari
+
+2
+00:00:36,750 --> 00:00:39,356
+Hello? Who are you?
+你好？你是谁？
+
+3
+00:05:16,752 --> 00:05:20,282
+DOCTOR: It took courage to fight Maxtible's Turkish wrestler.
+跟 Maxtible 的土耳其斗士搏斗, 是很需要勇气的
+
+4
+00:05:21,159 --> 00:05:26,057
+DALEK: The Daleks are afraid of nothing and no one.
+Daleks 不怕任何东西, 也不怕任何人
+
+5
+00:05:26,608 --> 00:05:29,102
+DOCTOR: But Jamie saved the Turk's life.
+但 Jamie 又救了那个土耳其人的命
+
+6
+00:05:29,429 --> 00:05:31,208
+DALEK: Human weakness.
+人类的弱点
+
+7
+00:05:31,502 --> 00:05:41,282
+DOCTOR: If he hadn't, he would have died in that room of yours.
+If you want the Human Factor, a part of it must include mercy.
+如果他没有救, 他就会死在你们的房间里了。如果你想要人类特质, “仁慈”肯定是其中一项
+
+8
+00:05:47,305 --> 00:05:49,909
+WATERFIELD: What... what is he doing here?
+他。。。他在这里做什么？
+
+9
+00:05:50,597 --> 00:05:56,877
+MAXTIBLE: A common thief, come to see what he could steal.
+No mystery here.
+一个普通小贼, 进来看看有什么可偷的, 估计就是这样
+
+10
+00:06:00,983 --> 00:06:03,987
+DALEK: The intruder was destroyed.
+闯入者已经被毁灭
+
+11
+00:06:04,816 --> 00:06:08,747
+WATERFIELD: Well, what... what are we to do? Where is the Doctor?
+He must be told.
+那。。。我们该怎么办？博士哪儿去了？肯定得告诉他啊
+
+12
+00:06:08,997 --> 00:06:09,544
+DALEK: No.
+不用
+
+13
+00:06:09,767 --> 00:06:10,468
+WATERFIELD: Why not?
+为什么不用？
+
+14
+00:06:10,714 --> 00:06:11,675
+DALEK: Obey me!
+服从我!
+
+15
+00:06:12,403 --> 00:06:16,816
+MAXTIBLE: Waterfield, I... I beg of you, do not antagonize the, um... 
+Waterfield, 我求你了, 不要激怒这些。。。唔
+
+16
+00:06:17,020 --> 00:06:17,817
+MAXTIBLE: ...our friends.
+。。。朋友
+
+17
+00:06:18,029 --> 00:06:23,170
+WATERFIELD: Oh, why do you consistently avoid reality, Maxtible?
+Another man has died. Can't you grasp that fact?
+噢, 你为什么一直都要逃避现实呢, Maxtible？又一个人死了, 你还没看明白吗？
+
+18
+00:06:23,415 --> 00:06:27,933
+DALEK: You will hide the remains of the dead human intruder.
+你要把这位闯入者的尸体藏起来
+
+19
+00:06:28,527 --> 00:06:29,175
+WATERFIELD: No!
+不!
+
+20
+00:06:29,461 --> 00:06:30,639
+DELKS: That is an order!
+这是一项命令！
+
+21
+00:06:30,855 --> 00:06:33,660
+MAXTIBLE: We must do as they say, Waterfield. We... we cannot anger them.
+我们必须按他们说的做, Waterfield. 我们。。。我们不能激怒他们
+
+22
+00:06:33,902 --> 00:06:37,314
+MAXTIBLE: Here. Wrap the body in this.
+这里, 把尸体卷到这里面来
+
+23
+00:06:37,770 --> 00:06:39,268
+WATERFIELD: No.
+不
+
+24
+00:06:39,920 --> 00:06:44,962
+MAXTIBLE: We must! Have you lost your mind?
+Don't you want to see your daughter again?
+我们得干！你疯了吗？不想再见到你女儿了？
+
+25
+00:06:46,785 --> 00:06:52,472
+WATERFIELD: Th... there's no end to this. The hands of the Devil.
+这。。。这有没有个尽头, 魔鬼的手
+
+26
+00:06:52,835 --> 00:06:56,923
+DALEK: Dispose of the body. Obey!
+处理掉尸体。服从！
+
+27
+00:06:59,503 --> 00:07:07,368
+MAXTIBLE： Waterfield, what is the matter with you?
+We are not to blame for everything that has happened.
+Waterfield, 你到底是怎么了？发生了这一切, 并不是我们的错啊
+
+27
+00:07:07,503 --> 00:07:12,368
+MAXTIBLE: No English judge or jury would find it in their hearts
+to convict us of one solitary thing.
+这里的任何一件事, 没有那个英国法官或者陪审团在他们的心里会认为该定我们的罪
+
+28
+00:07:13,772 --> 00:07:15,092
+WATERFIELD: It will never come to that.
+不会到那一步的
+
+29
+00:07:15,802 --> 00:07:18,460
+MAXTIBLE: And what may that remark mean?
+这句话是什么意思？
+
+30
+00:07:18,669 --> 00:07:26,930
+WATERFIELD: I have one purpose only: to see my daughter
+out of the hands of those foul monsters.
+我就一个目的：看到我的女儿逃出这些怪物的魔爪
+
+30
+00:07:27,169 --> 00:07:31,930
+WATERFIELD: When that is achieved, I shall confess my part
+in all that has happened.
+一旦这个目的达到了, 我会坦白我在所有这一切中所扮演的角色
+
+31
+00:07:50,903 --> 00:07:53,709
+WATERFIELD: Y... You must help me.
+你。。。你必须帮我
+
+32
+00:07:54,058 --> 00:07:56,460
+MAXTIBLE: I am at your heels, my dear sir.
+我会帮你的, 我亲爱的朋友
+
+33
+00:08:00,776 --> 00:08:10,151
+JAMIE: That's better, thank you. Aye, you're an odd one. I'll say that.
+Aye, well, I... I suppose we're both a a bit touched, eh?
+好多了, 谢谢你。啊, 你是个奇怪的家伙, 我得说。
+啊, 我猜咱们俩都有点感动了, 对不？
+
+33
+00:08:10,776 --> 00:08:15,851
+JAMIE: Knocking each other about the place and saving one another's lives.
+在这里打得死去活来, 然后又相互救了对方的命
+
+34
+00:08:18,844 --> 00:08:20,465
+JAMIE: You don't say much, do you?
+你很少说话, 是吧
+
+35
+00:08:23,333 --> 00:08:31,403
+JAMIE: Oh, I see. You can't talk? Aye. Well, you're a sight better
+than a number of people I know who can. I wonder what your name is?
+哦, 我明白了, 你不能说话？啊, 好, 你比我认识的很多会说话的人还好。你叫什么名字？
+
+36
+00:08:41,688 --> 00:08:43,985
+JAMIE: Kemel? Well, I'm Jamie.
+Kemel? 我叫 Jamie
+
+37
+00:08:44,965 --> 00:08:51,807
+JAMIE: He... hey, what is that?! Now come on now.
+None of that. We're to be friends. Do you hear? Friends.
+嘿。。嘿, 这什么意思？起来吧, 不要这样, 我们要做的是朋友, 你明白吗 朋友
+
+38
+00:08:56,572 --> 00:08:57,597
+JAMIE: Aye.
+啊
+
+39
+00:09:04,361 --> 00:09:07,243
+JAMIE: "V.W." I know, Victoria Waterfield.
+"V.W." 我知道, 代表 Victoria Waterfield
+
+40
+00:09:22,079 --> 00:09:28,295
+JAMIE: Oh, Miss Waterfield gave you the flower? You like her?
+哦, Waterfield 小姐给了你这多花？你喜欢她？
+
+41
+00:09:29,619 --> 00:09:32,918
+JAMIE: Of course. Then what are we fighting for?
+当然是了。那我们还打什么呀？
+
+42
+00:09:33,240 --> 00:09:39,820
+JAMIE: Do you not know what I'm doing here, Kemel?
+Victoria Waterfield is being held a prisoner here somewhere.
+你知道我到这里来干什么的吧, Kemel? Victoria 被囚禁在这里的某个地方
+
+43
+00:09:52,218 --> 00:09:58,358
+JAMIE: Together? Aye, we'll go together. There's no one
+I'd rather have with me.
+一起？好, 我们一起去。现在我也不愿意其他人跟我在一起
+
+44
+00:10:19,448 --> 00:10:22,265
+WATERFIELD: What was that? Did you hear it?
+那是什么？你听到了a吗？
+
+45
+00:10:22,525 --> 00:10:23,911
+MAXTIBLE: Control your nerves.
+别紧张
+
+46
+00:10:24,180 --> 00:10:26,475
+WATERFIELD: But there was a noise.
+刚才的确有声音
+
+47
+00:10:27,983 --> 00:10:30,514
+MAXTIBLE: Waterfield, go back to the house.
+Waterfield, 回到房子里去
+
+48
+00:10:30,831 --> 00:10:35,293
+WATERFIELD: Hmm? Oh, we have a task to perform.
+唔, 我们还有任务得干呢
+
+49
+00:10:35,539 --> 00:10:38,782
+MAXTIBLE: Waterfield, I am sick to death of you.
+Waterfield, 我真是被你恶心死了
+
+50
+00:10:40,356 --> 00:10:41,229
+WATERFIELD: What?
+怎么了？
+
+51
+00:10:41,470 --> 00:10:44,813
+MAXTIBLE: I take you into my house, you and your daughter - provide for you.
+我把你们 - 你和你女儿 - 带到我的房子来, 还让你们住
+
+52
+00:10:45,034 --> 00:10:47,333
+WATERFIELD: Yes, I know everything that you've done.
+是的, 我知道你做的这一切
+
+53
+00:10:47,647 --> 00:10:55,137
+MAXTIBLE: Small thanks do I get for it! I did not bring these terrible
+creatures here deliberately, you know that. Am I to blame for everything?
+但我得到了多少感谢？这些可怕的生物也不是我特意带来的, 你知道的, 这一切该怪我吗？
+
+54
+00:10:55,370 --> 00:10:56,869
+WATERFIELD: No, no.
+不, 不应该
+
+55
+00:10:57,127 --> 00:11:02,455
+MAXTIBLE: No, it is your daughter they have kidnapped. One moment,
+you beg me to do everything I can to rescue her; next moment, you blame me.
+他们绑架的是你的女儿。这一会儿, 你求我做这做那以救她回来, 过一会儿, 你又怪我
+
+56
+00:11:02,649 --> 00:11:10,415
+WATERFIELD: Yes. I... I don't mean it like that.
+It's the price. First Kennedy, now this fellow.
+是的。。。我并不是那个意思。这都是代价。先是 Kennedy, 现在又是这家伙
+
+56
+00:11:10,649 --> 00:11:15,415
+WATERFIELD: How many people must die so that my daughter can live?
+要死多少人才能救回我女儿?
+
+57
+00:11:15,966 --> 00:11:18,407
+MAXTIBLE: We are not the murderers!
+我们又不是凶手！
+
+58
+00:11:18,653 --> 00:11:26,088
+WATERFIELD: No, just the silent partners. But we're equally to blame
+because we stand by and do nothing.
+不是，只是沉默的帮凶。但我们同样是有罪的，因为我们只是站在一边什么也不做
+
+59
+00:11:26,438 --> 00:11:34,243
+MAXTIBLE: Go back to the house, Waterfield. I... I understand
+you are under a stress. You... you try and get some sleep.
+回你的房间去吧，Waterfield。我。。我明白你现在压力比较大。你。。你试试睡一觉吧
+
+60
+00:11:34,481 --> 00:11:38,916
+WATERFIELD: Sleep? I've not had one good night's rest since this started.
+睡觉？我一晚也没有睡好过，自打这事开始
+
+61
+00:11:39,397 --> 00:11:45,474
+MAXTIBLE: There. You go back to your room. Near the end now. You've done enough.
+去吧，回到你的房间去。快结束了。你已经做得够多了。
+
+62
+00:11:50,224 --> 00:11:51,527
+MAXTIBLE: What... what are you doing?
+你。。你在干什么？
+
+63
+00:11:51,741 --> 00:11:52,863
+TERRALL: Waterfield does not die yet!
+Waterfield 现在还不能死
+
+64
+00:11:53,029 --> 00:11:54,761
+MAXTIBLE: He says he will confess everything!
+他说他会全部供出一切的
+
+65
+00:11:57,732 --> 00:12:05,236
+TERRALL: Go back to the laboratory. I will dispose of the body. 
+You will obey. You will obey!
+回到实验室去。我会处理掉尸体的。你必须服从，你必须服从
+
+66
+00:12:15,614 --> 00:12:24,645
+JAMIE: Wait. Never mind about those, Kemel, unless they catch sight of us. 
+We seem to be going in the right direction.
+等等, 别管那些家伙, Kemel, 除非他们看到我们了。看来我们走对方向了
+
+67
+00:12:59,524 --> 00:13:00,272
+JAMIE: Down!
+趴下
+
+68
+00:13:42,530 --> 00:13:49,017
+DELAK: We do not trust you. What thoughts are you using now?
+我们不相信你。你现在在想什么？
+
+69
+00:13:49,482 --> 00:13:56,191
+DOCTOR: Human beings have five senses: sight, hearing, taste, smell and touch.
+人类有五种感觉：视觉、听觉、味觉、嗅觉和触觉。
+
+69
+00:13:56,482 --> 00:14:03,191
+DOCTOR: But there is instinct too. And Jamie used instinct to avoid your trap.
+但还有一种叫做自觉。Jamie 就是用自觉避开了你们的陷阱
+
+70
+00:14:38,566 --> 00:14:39,464
+DALEK: Name?
+名字?
+
+71
+00:14:40,276 --> 00:14:41,236
+VICTORIA: Victoria.
+维多利亚!
+
+72
+00:14:41,647 --> 00:14:43,155
+DELAK: Louder.
+大声点
+
+73
+00:14:44,141 --> 00:14:49,329
+VICTORIA: Victoria! Victoria Waterfield! You know my name!
+维多利亚! 维多利亚-瓦特菲尔德! 你们知道我的名字!
+
+74
+00:14:49,741 --> 00:14:58,141
+DELAK: Silence. Inspection is over. Return to your room.
+收声。检视结束了。回到你的房间去
+
+75
+00:15:04,865 --> 00:15:06,615
+JAMIE: She's very beautiful, Kemel.
+她很漂亮，Kemel
+
+76
+00:15:20,716 --> 00:15:22,462
+JAMIE: What are you going to do with that?
+你打算拿着那个干什么用？
+
+77
+00:15:25,468 --> 00:15:32,680
+JAMIE: You'll attack the Daleks - draw them off down the corridor,
+你要攻击那些 Daleks, 把他们吸引到走廊里？
+
+77
+00:15:32,868 --> 00:15:38,680
+JAMIE: while I go up there and rescue her somehow?
+好让我上那儿去, 把她救出来？
+
+77
+00:15:38,968 --> 00:15:45,680
+JAMIE: It's too dangerous, Kemel. Besides, needs two of us up there. But how?
+这太危险了, Kemel。另外, 需要两个人都进去才行。怎么办？
+
+78
+00:15:47,466 --> 00:15:52,092
+DELAK: What is the significance of this thought pattern?
+这个思维模式有什么用？
+
+79
+00:15:53,008 --> 00:15:57,268
+DOCTOR: Suicidal attacks to gain an objective are stupid
+为了赢得一个目标而进行自杀性袭击, 是愚蠢的
+
+79
+00:15:57,008 --> 00:16:02,268
+DOCTOR: Self-preservation is a strong human factor.
+自我保护是一种很强的人类特质
+
+79
+00:16:02,308 --> 00:16:06,268
+DOCTOR: Jamie and his new friend are determined to succeed.
+Jamie 和他的新朋友注定了会成功
+
+79
+00:16:06,308 --> 00:16:12,268
+DOCTOR: But finding the girl is only part. Getting her away is another.
+但找到这个女孩儿是一回事, 能把她救走又是另外一回事
+
+80
+00:16:18,274 --> 00:16:20,163
+TERRALL: You'll come in here, Mollie, and explain yourself.
+你给我进来, Mollie, 解释清楚
+
+81
+00:16:20,423 --> 00:16:22,931
+MOLLIE: Oh... Oh, sir... Please, sir... You're hurting me!
+噢。。噢, 先生。。求你了, 先生。。你弄疼我了
+
+82
+00:16:23,229 --> 00:16:25,858
+TERRALL: Now, what is this hysterical nonsense?
+说说, 到底是怎么一回事？
+
+83
+00:16:26,042 --> 00:16:28,775
+MOLLIE: But sir, I heard Miss Victoria's voice!
+但是, 先生, 我听到 Victoria 小姐的声音了
+
+84
+00:16:29,112 --> 00:16:32,207
+TERRALL: Did she say how the weather was in Paris? That's where she is, Mollie.
+那她说了巴黎的天气如何了吗？那是她现在呆的地方, Mollie
+
+85
+00:16:32,419 --> 00:16:34,998
+MOLLIE: Well, I know that sir, but I heard her speaking.
+是的, 我知道, 先生。但我的确听到她说话了
+
+86
+00:16:35,201 --> 00:16:35,924
+TERRALL: Where?
+在那儿？
+
+87
+00:16:36,113 --> 00:16:41,426
+MOLLIE: I was walking past the big fireplace in the hall sir,
+and her voice sort of... floated out of it.
+我从大厅的大壁炉前经过的时候, 先生, 她的声音就。。。飘了过来
+
+88
+00:16:41,630 --> 00:16:44,689
+TERRALL: Will you explain how you could possibly hear
+Miss Waterfield's voice when she's in Paris?!
+那你解释一下既然 Waterfield 在巴黎, 你怎么能听到她的声音？
+
+89
+00:16:44,939 --> 00:16:48,214
+MOLLIE: I know it can't be, sir, but I heard her, as plain as anything.
+我知道这不可能, 先生, 但我听到她了, 的确是她的
+
+90
+00:16:48,491 --> 00:16:49,899
+TERRALL: What were you doing in the hall?
+那你那会儿在大厅里面干什么？
+
+91
+00:16:50,106 --> 00:16:51,292
+MOLLIE: Oh, well. I wasn't doing anything wrong, sir.
+哦, 这个, 我并没有干什么坏事, 先生
+
+92
+00:16:51,543 --> 00:16:52,723
+TERRALL: What were you doing in this part of the house at this hour?!
+你到底在这间房子里面做什么, 都这个时间了？
+
+93
+00:16:52,905 --> 00:16:53,564
+MOLLIE: Oh, I don't know.
+噢, 我不知道
+
+94
+00:16:53,764 --> 00:16:54,864
+TERRALL: You do know, and you'll tell me!
+你知道, 你得告诉我！
+
+95
+00:16:55,054 --> 00:16:56,326
+RUTH: Arthur!
+
+96
+00:16:59,101 --> 00:17:01,319
+TERRALL: I found this child creeping about the corridors.
+我发现这个小丫头在走廊里鬼鬼祟祟的
+
+97
+00:17:01,499 --> 00:17:02,376
+MOLLIE: I haven't done anything.
+我什么也没干
+
+98
+00:17:02,566 --> 00:17:03,287
+TERRALL: Be quiet!
+收声！
+
+99
+00:17:03,765 --> 00:17:04,255
+MOLLIE: Yes sir.
+是, 先生
+
+100
+00:17:04,462 --> 00:17:06,438
+TERRALL: She's miles from her room - should have been in bed an hour since!
+她离她房间房间这么远 - 一个小时前就该上床睡觉了！
+
+101
+00:17:06,587 --> 00:17:07,980
+RUTH: Did you have extra work this morning?
+你早上是不是还有活儿要做？
+
+102
+00:17:08,219 --> 00:17:09,140
+MOLLIE: Yes, Miss Ruth. I do.
+是的, Ruth 小姐, 还有
+
+103
+00:17:09,312 --> 00:17:10,246
+TERRALL: You're a liar!
+你在撒谎！
+
+104
+00:17:10,708 --> 00:17:14,471
+MOLLIE: Well, I haven't done anything, Miss. I haven't took nothing.
+真的, 我什么也没做, 小姐。我什么也没拿
+
+105
+00:17:14,671 --> 00:17:17,824
+RUTH: Arthur, the poor child's frightened out of her skin after this.
+Arthur, 这可怜的小丫头都吓得不行了
+
+106
+00:17:17,999 --> 00:17:20,834
+TERRALL: She's nothing but play acting. She's a mean, sniveling little minx.
+她这都是在假扮无辜呢, 她是个带着假面的恶毒小妖精
+
+107
+00:17:21,184 --> 00:17:22,270
+MOLLIE: But I haven't done anything. I haven't.
+但我什么也没有做过, 没有
+
+108
+00:17:22,459 --> 00:17:25,373
+TERRALL: Go to the sitting room and wait there.
+Mr. Maxtible will decide what to do with you.
+到客厅去等着, Maxtible 会决定对你如何处置
+
+109
+00:17:25,630 --> 00:17:26,147
+MOLLIE: But sir, I...
+但是先生, 我。。。
+
+110
+00:17:26,376 --> 00:17:27,454
+TERRALL: Do as you are told!
+照我说的做！
+
+111
+00:17:28,918 --> 00:17:33,051
+RUTH: Come on, it's all right. Everything will be all right.
+来吧, 没事的, 一切都会弄明白的
+
+112
+00:17:37,271 --> 00:17:40,052
+RUTH: Arthur, tell me what's wrong.
+Authur, 说说有什么不对？
+
+113
+00:17:40,802 --> 00:17:42,513
+TERRALL: Wrong? Why should something be wrong?
+不对？为什么得有什么事不对？
+
+114
+00:17:43,775 --> 00:17:46,592
+RUTH: Has my father influenced you in some way?
+我父亲跟你说了什么吗？
+
+115
+00:17:48,284 --> 00:17:50,211
+TERRALL: No, not your father.
+不, 不是你父亲
+
+116
+00:17:51,344 --> 00:17:57,062
+RUTH: Come away with me please! I somehow feel if we delay, it will be too late.
+请跟我来吧。不知怎么的, 我感觉如果我们再拖的话, 就太迟了
+
+117
+00:17:59,141 --> 00:18:03,540
+TERRALL: I can't go. Not yet.
+我不能去, 还不到时候
+
+118
+00:18:04,739 --> 00:18:08,327
+MAXTIBLE: I have done everything you have asked me to. 
+你们让我做的所有事情, 我都做了。你们想要在地球上有一个代理机构
+
+118
+00:18:08,739 --> 00:18:16,327
+MAXTIBLE: You wanted an agency here on Earth to plan and prepare things for you. I have been that agency.
+帮你们做些谋划和准备, 我就成了这个代理
+
+118
+00:18:16,739 --> 00:18:22,327
+MAXTIBLE: Will you please tell those who give you orders that
+I am getting tired of waiting.
+你能不能转告那些下命令的, 说我已经厌倦了等待了
+
+119
+00:18:22,635 --> 00:18:25,312
+DELAK: Do you threaten the Daleks?
+你是在威胁 Daleks 吗?
+
+120
+00:18:25,570 --> 00:18:30,625
+MAXTIBLE: Oh, surely threatening is not necessary. We have a...
+a partnership - an understanding.
+噢, 当然了并不是威胁。我们。。。是有伙伴关系, 有共识的
+
+121
+00:18:30,948 --> 00:18:33,232
+DELAK: You have obeyed us.
+你一直很听话
+
+122
+00:18:33,538 --> 00:18:36,092
+MAXTIBLE: You have a strange way of putting things.
+你们的表达方式很奇怪
+
+122
+00:18:36,138 --> 00:18:40,892
+MAXTIBLE: I prefer to say that you have asked for certain services.
+我倒愿意用这样的说法：你们请求我们提供某些服务
+
+122
+00:18:41,038 --> 00:18:46,492
+MAXTIBLE: I have, uh... provided those services punctually and efficiently.
+我也一直很高效很准确地提供了这些服务
+
+122
+00:18:46,538 --> 00:18:49,492
+MAXTIBLE: Now you really must look to your side of the bargain.
+但你们现在真的必须看一下你们这边了
+
+122
+00:18:49,538 --> 00:18:52,492
+MAXTIBLE: It is not beyond me to ruin the entire enterprise.
+我还真是不能理解, 你们会毁了这笔交易
+
+123
+00:18:52,911 --> 00:18:55,021
+MAXTIBLE: Oh, oh, oh, ho!
+噢, 噢, 噢, 噢！
+
+124
+00:18:55,216 --> 00:18:58,405
+DALEK: Do not threaten! Obey!
+不要威胁我们! 要服从！
+
+125
+00:18:58,647 --> 00:19:01,438
+MAXTIBLE: Yes, very well! I understand!
+好, 好的！我懂了！
+
+126
+00:19:03,080 --> 00:19:05,653
+DALEK: Obey the Daleks.
+服从 Daleks
+
+127
+00:19:06,169 --> 00:19:09,776
+MAXTIBLE: No. Please... Please wait!
+不, 求你了, 等等！
+
+128
+00:19:11,761 --> 00:19:18,884
+MAXTIBLE: The secret... the secret. You promised to give it to me!
+That is why I have done all this!
+秘密, 那个秘密。你们承诺了给我的！所以我才做这一切的啊！
+
+129
+00:19:19,123 --> 00:19:25,935
+DELAK: The Daleks know many secrets. You will learn the most important.
+Daleks 知道很多秘密, 你将会得到最重要的
+
+130
+00:19:35,455 --> 00:19:38,951
+MAXTIBLE: I must not be frightened of them.
+我不能被他们吓倒
+
+130
+00:19:39,055 --> 00:19:44,051
+MAXTIBLE: It's just their way. Th... They're different people - alien.
+这是他们的方式。。他们跟我们不同, 是外星人
+
+130
+00:19:44,155 --> 00:19:48,451
+MAXTIBLE: But they will tell me! Of course they will!
+但他们会告诉我的, 当然会！
+
+131
+00:19:49,344 --> 00:19:50,397
+RUTH: Father!
+父亲
+
+132
+00:19:50,738 --> 00:19:52,626
+MAXTIBLE: Ruth, I told you not to come in here - under any circumstances.
+Ruth, 我告诉过你不要到这里来, 不管任何情况下
+
+133
+00:19:52,951 --> 00:20:01,102
+RUTH: Father, I simply had to. I heard you speaking to someone
+and there's no one here. And Arthur is involved in some way.
+父亲, 我只是不得不来。我听到你在跟谁说话, 但这里没有人。而且 Arthur 不知怎么也卷进来了
+
+134
+00:20:01,496 --> 00:20:03,326
+MAXTIBLE: Oh, Arthur. Yes.
+哦, Arthur, 是的
+
+135
+00:20:03,570 --> 00:20:10,063
+RUTH: Why has he become so changed? 
+And Victoria Waterfield - where is she?
+为什么他变化这么大？ 还有 Victoria Waterfield, 她在哪儿？
+
+136
+00:20:11,256 --> 00:20:17,145
+MAXTIBLE: My child, these are questions that I cannot answer.
+我的孩子, 这些问题我都回答不了
+
+136
+00:20:17,256 --> 00:20:22,845
+MAXTIBLE: But, my dear, I will tell you one thing - one thing only,
+不过, 亲爱的, 我可以告诉你一件事 - 就这一件
+
+136
+00:20:23,256 --> 00:20:29,645
+MAXTIBLE: and then perhaps you may understand why there are secrets to be kept.
+然后你也许就会明白, 为什么会有这些秘密
+
+137
+00:20:32,529 --> 00:20:33,626
+MAXTIBLE: You see this?
+你看见这个了吗？
+
+138
+00:20:33,897 --> 00:20:34,623
+RUTH: What is it?
+这是什么?
+
+139
+00:20:34,884 --> 00:20:38,653
+MAXTIBLE: A piece of ordinary metal of very little value, would you not say so?
+一小块普通的金属, 它不值钱, 你不觉得吗？
+
+140
+00:20:38,869 --> 00:20:39,787
+RUTH: I suppose so.
+我也这么想
+
+141
+00:20:40,047 --> 00:20:44,163
+MAXTIBLE: What does it weigh? A few pounds? Five, six, shall we say?
+它有多重？好几磅？ 5磅, 6磅, 我们估计
+
+141
+00:20:44,247 --> 00:20:50,563
+MAXTIBLE: For centuries now, men have searched for the greatest secret of all.
+几个世纪以来, 人类都在探索这项终极秘密
+
+141
+00:20:50,747 --> 00:20:53,963
+MAXTIBLE: Some say it was known to the ancient alchemists.
+有的人说, 古代的炼金术士知道这个
+
+141
+00:20:54,047 --> 00:20:56,963
+MAXTIBLE: Some say that the secret never existed at all.
+有的人说, 这项秘密从来不存在
+
+141
+00:20:57,047 --> 00:21:00,963
+MAXTIBLE: But still, the stories and the rumours, and the search goes on!
+尽管如此, 故事、流言, 以及探索, 都从未停止
+
+142
+00:21:01,224 --> 00:21:02,441
+RUTH: What secret?!
+什么秘密
+
+143
+00:21:02,728 --> 00:21:07,169
+MAXTIBLE: The transmutation of metal into gold. Changing metal into gold.
+金属到金子的转化方法, 把金属变成金子
+
+143
+00:21:07,728 --> 00:21:14,169
+MAXTIBLE: Now, perhaps, do you begin to understand a little?
+现在, 你是不是开始有点明白了？
+
+143
+00:21:14,728 --> 00:21:20,169
+MAXTIBLE: To possess such a secret would mean power and influence beyond all imagination.
+拥有这样一向秘密就意味着有了不可想象的力量和权利
+
+143
+00:21:20,728 --> 00:21:27,169
+MAXTIBLE: And I am about to discover this secret. Nothing will stop me. Nothing! Nobody!
+而我正要发现这个秘密了。没有什么可以挡住我, 没有谁！
+
+144
+00:21:35,894 --> 00:21:36,824
+DELAK: Name?
+名字?
+
+145
+00:21:37,638 --> 00:21:38,694
+VICTORIA: Victoria.
+维多利亚
+
+146
+00:21:39,147 --> 00:21:40,370
+DELAK: Louder!
+大声点
+
+147
+00:21:40,778 --> 00:21:42,823
+VICTORIA: Victoria Waterfield!
+维多利亚-瓦特菲尔德!
+
+148
+00:21:43,124 --> 00:21:44,530
+VICTORIA: Victoria Waterfield!
+维多利亚-瓦特菲尔德!
+
+149
+00:21:45,896 --> 00:21:51,907
+DELAK: Inspection is over. Return to your room.
+检视结束了, 回到你的房间去吧
+
+150
+00:22:21,410 --> 00:22:22,604
+Well, that's fixed that one.
+
+151
+00:23:29,876 --> 00:23:31,431
+Look out, the rail's going to break!
+
+152
+00:24:09,034 --> 00:24:14,463
+JAMIE: Miss Waterfield? Can you open the door? We've come to get you.
+Waterfield 小姐, 你能把门打开吗？我们来救你了
+
