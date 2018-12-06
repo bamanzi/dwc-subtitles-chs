@@ -4,1411 +4,1413 @@ Sincro: wyxchari
 
 2
 00:00:33,934 --> 00:00:37,855
-The humans have been told to begin the test.
+DALEK 1: The humans have been told to begin the test.
 已经通知人类开始实验
 
 3
 00:00:38,147 --> 00:00:41,371
-Any delay will result in death.
+DALKE 2: Any delay will result in death.
 任何人拖延都将处死
 
 4
 00:00:41,645 --> 00:00:43,776
-There will be no delay!
+DELAK 2: There will be no delay!
 不允许有拖延!
 
 5
-00:00:44,792 --> 00:00:52,301
-Mollie, Mollie. Mr. McCrimmon has been kidnapped!
-It means the end of us unless we can find him quickly.
-Mollie, Mollie. McCrimmon先生被绑架了！ 这意味着我们都将完蛋了, 除非赶紧找到他
+00:00:44,792 --> 00:00:48,301
+MAXTIBLE: Mollie, Mollie. Mr. McCrimmon has been kidnapped!
+Mollie, Mollie. McCrimmon先生被绑架了！
 
 6
-00:00:52,655 --> 00:00:53,749
-Straw.
-稻草
+00:00:48,792 --> 00:00:52,301
+MAXTIBLE: It means the end of us unless we can find him quickly.
+这意味着我们都将完蛋了, 除非赶紧找到他
 
 7
-00:00:54,093 --> 00:00:55,258
-I beg your pardon?
-你说什么？
+00:00:52,655 --> 00:00:53,749
+DOCTOR: Straw.
+稻草
 
 8
-00:00:55,544 --> 00:00:56,506
-A piece of straw.
-一小截稻草
+00:00:54,093 --> 00:00:55,258
+WATERFIELD: I beg your pardon?
+你说什么？
 
 9
-00:01:03,328 --> 00:01:05,399
-Had a cosy little sleep, young swell?
-小觉睡的还舒服吧, 年轻人？
+00:00:55,544 --> 00:00:56,506
+DOCTOR: A piece of straw.
+一小截稻草
 
 10
-00:01:07,563 --> 00:01:12,151
-Lively, is it? Maybe you'd like to sleep again? 
-醒了吧, 对不？是不是还想睡一觉？
+00:01:03,328 --> 00:01:05,399
+TOBY: Had a cosy little sleep, young swell?
+小觉睡的还舒服吧, 年轻人？
 
 11
-00:01:12,278 --> 00:01:14,989
-I've got Mr. Nod here. He'll have you snorin' as good as ever.
-我这里有位“点头”先生, 他会让你的呼噜震天响的
+00:01:07,563 --> 00:01:12,151
+TOBY: Lively, is it? Maybe you'd like to sleep again? 
+醒了吧, 对不？是不是还想睡一觉？
 
 12
-00:01:15,205 --> 00:01:16,401
-What do you want?
-你想要怎么样？
+00:01:12,278 --> 00:01:14,989
+TOBY: I've got Mr. Nod here. He'll have you snorin' as good as ever.
+我这里有位“点头”先生, 他会让你的呼噜震天响的
 
 13
-00:01:16,734 --> 00:01:19,100
-I'm to be well paid. Have no fear of that.
-我会得到很好的报酬, 我不怕那个。
+00:01:15,205 --> 00:01:16,401
+JAMIE: What do you want?
+你想要怎么样？
 
 14
-00:01:19,350 --> 00:01:21,441
-Oh, and for what? I don't know you.
-哦, 得到什么报酬？ 我不认识你
+00:01:16,734 --> 00:01:19,100
+TOBY: I'm to be well paid. Have no fear of that.
+我会得到很好的报酬, 我不怕那个。
 
 15
-00:01:24,689 --> 00:01:25,848
-This your man, sir?
-这是你要的人吧, 先生？
+00:01:19,350 --> 00:01:21,441
+JAMIE: Oh, and for what? I don't know you.
+哦, 得到什么报酬？ 我不认识你
 
 16
-00:01:26,206 --> 00:01:28,296
-Toby! What in Hades have you done?
-Toby! 你到底干了什么？
+00:01:24,689 --> 00:01:25,848
+TOBY: This your man, sir?
+这是你要的人吧, 先生？
 
 17
-00:01:29,282 --> 00:01:31,899
-Why, I, uh... brought 'im from the house, like you said.
-为什么。。。我把他从房子里带过来了啊, 你这么说的
+00:01:26,206 --> 00:01:28,296
+TERRALL: Toby! What in Hades have you done?
+Toby! 你到底干了什么？
 
 18
-00:01:32,104 --> 00:01:33,369
-I said nothing of the kind.
-我可没说要用这种方式
+00:01:29,282 --> 00:01:31,899
+TOBY: Why, I, uh... brought 'im from the house, like you said.
+为什么。。。我把他从房子里带过来了啊, 你这么说的
 
 19
-00:01:33,780 --> 00:01:42,440
-Well ya did, sir! Honest ya did. A guinea ya promised me.
-I... I done what ya said. You don't get outta payin'.
-你说过, 先生！你真的说过。许诺给我一基尼呢
-我。。我已经做了你要求的, 你别想不给钱
+00:01:32,104 --> 00:01:33,369
+TERRALL: I said nothing of the kind.
+我可没说这样的话
 
 20
-00:01:42,664 --> 00:01:44,238
-Be careful how you speak to me, Toby!
-注意你跟我说话的方式, Toby!
+00:01:33,780 --> 00:01:38,440
+TOBY: Well ya did, sir! Honest ya did. A guinea ya promised me.
+你说过, 先生！你真的说过。许诺给我一基尼呢
 
 21
-00:01:46,665 --> 00:01:48,927
-There's your money. Get out!
-这是给你的钱, 出去！
+00:01:38,780 --> 00:01:42,440
+TOBY: I... I done what ya said. You don't get outta payin'.
+我。。我已经做了你要求的, 你别想不给钱
 
 22
-00:02:08,384 --> 00:02:09,723
-Where's Toby?
-Toby 哪儿去了？
+00:01:42,664 --> 00:01:44,238
+TERRALL: Be careful how you speak to me, Toby!
+注意你跟我说话的方式, Toby!
 
 23
+00:01:46,665 --> 00:01:48,927
+TERRALL: There's your money. Get out!
+这是给你的钱, 出去！
+
+24
+00:02:08,384 --> 00:02:09,723
+TERRALL: Where's Toby?
+Toby 哪儿去了？
+
+25
 00:02:09,864 --> 00:02:13,339
-You just sent him about his business. Look, what's the matter?
+JAMIE: You just sent him about his business. Look, what's the matter?
 Are you all right?
 你刚把他打发走了啊。这到底怎么回事？你还好吗？
 
-24
+26
 00:02:14,280 --> 00:02:15,834
-Where's Victoria Waterfield?
+TERRALL: Where's Victoria Waterfield?
 Victoria Waterfield 在哪儿？
 
-25
+27
 00:02:16,062 --> 00:02:16,655
-I don't know.
+JAMIE: I don't know.
 我不知道
 
-26
+28
 00:02:17,105 --> 00:02:18,093
-Yes, you do.
+TERRALL: Yes, you do.
 知道
 
-27
+29
 00:02:18,331 --> 00:02:19,615
-I tell you, I don't even know her!
+JAMIE: I tell you, I don't even know her!
 我告诉你, 我都不认识她
 
-28
+30
 00:02:20,678 --> 00:02:23,726
-You're in the house, a friend of Maxtible's. You must know!
+TERRALL: You're in the house, a friend of Maxtible's. You must know!
 你在这个房子里, 你是 Maxtible 的朋友, 你肯定知道！
 
-29
+31
 00:02:23,908 --> 00:02:25,855
-No, listen, I'm te...
+JAMIE: No, listen, I'm te...
 不, 听我说, 我说的是。。。
 
-30
+32
 00:02:33,725 --> 00:02:38,599
-Ha, I must apologize for that villain Toby.
+TERRALL: Ha, I must apologize for that villain Toby.
 He was telling lies, of course. I shall escort you to the house.
 哈, 我必须为那个恶棍 Toby 的事向你道歉。
 当然, 他说的都是谎言。我护送你会房子里去
 
-31
+33
 00:02:38,775 --> 00:02:40,857
-Uh, You... you... you just asked me about Victoria Waterfield.
+JAMIE: Uh, You... you... you just asked me about Victoria Waterfield.
 哦, 你。。。你。。你刚才还在问我 Victoria Waterfield 的事情
 
-32
+34
 00:02:41,122 --> 00:02:45,779
-Now, she's in Paris. I'm afraid I haven't introduced myself - Arthur Terrall.
+TERRALL: Now, she's in Paris. I'm afraid I haven't introduced myself - Arthur Terrall.
 现在, 她还在巴黎呢。恐怕我还没有介绍我自己 - Arthur Terrall
 
-33
+35
 00:02:45,957 --> 00:02:50,451
-Well, never mind about that. Did you or did you not ask that man
+JAMIE: Well, never mind about that. Did you or did you not ask that man
 to knock me on the head and bring me in here?
 哦, 没事。你有还是没有, 叫那个人把我打晕再把我带过来？
 
-34
-00:02:50,615 --> 00:02:51,322
-I, oh...
-我, 噢。。
-
-35
-00:02:51,513 --> 00:02:52,510
-...certainly not!
-。。。当然没有
-
 36
-00:02:52,677 --> 00:02:53,237
-Oh.
-哦
+00:02:50,615 --> 00:02:52,922
+TERRALL: I, oh...certainly not!
+我, 噢。。。当然没有
 
 37
-00:02:53,893 --> 00:02:54,236
-Doctor
-博士
+00:02:52,677 --> 00:02:53,237
+JAMIE: Oh.
+噢
 
 38
-00:02:54,336 --> 00:02:59,336
-Oh. I see you're in good hands now.
-I won't detain you any further. 
-噢, 我看你现在碰到朋友了。我就不再耽误你了。
+00:02:53,893 --> 00:02:54,236
+JAMIE: Doctor
+博士
 
 39
-00:02:59,436 --> 00:03:00,436
-Good day, Doctor.
-日安, 博士
+00:02:54,336 --> 00:02:59,336
+TERRALL: Oh. I see you're in good hands now.
+I won't detain you any further. 
+哦, 我看你现在碰到朋友了。我就不再耽误你了。
 
 40
-00:03:00,556 --> 00:03:01,599
-Oh, good day to you.
-哦, 你也日安
+00:02:59,436 --> 00:03:00,436
+TERRALL: Good day, Doctor.
+日安, 博士
 
 41
-00:03:01,875 --> 00:03:04,521
-He's mad. Stark, staring mad!
-他疯了, 他完全疯了
+00:03:00,556 --> 00:03:01,599
+DOCTOR: Oh, good day to you.
+哦, 你也日安
 
 42
-00:03:04,785 --> 00:03:07,399
-Yes, I know. I was listening. Let's have a look at that head of yours.
-Come along.
-是的, 我知道, 刚才我听到了。我们来看看你的头吧, 过来
+00:03:01,875 --> 00:03:04,521
+JAMIE: He's mad. Stark, staring mad!
+他疯了, 他完全疯了
 
 43
+00:03:04,785 --> 00:03:07,399
+TERRALL: Yes, I know. I was listening. Let's have a look at
+that head of yours. Come along.
+是的, 我知道, 刚才我听到了。我们来看看你的头吧, 过来
+
+44
 00:03:08,099 --> 00:03:12,999
-Look, it's all right, Doctor. One minute he says this,
+JAMIE: Look, it's all right, Doctor. One minute he says this,
 the next minute he says that. Can you make it out, Doctor?
 哦, 问题不大, 博士。前一分钟他在说这个, 后一分钟他又说那个。你搞明白了吗？ 
 
-44
+45
 00:03:13,199 --> 00:03:17,999
-I'm knocked on the head and I'm brought in here.
+JAMIE: I'm knocked on the head and I'm brought in here.
 Then that man Terrall enters and denies having ordered the other man to do it.
 我被人敲晕了脑袋, 带到了这里。那个Terrall 进来之后否认是他让那个人干的。
 
-45
+46
 00:03:18,199 --> 00:03:23,999
-Well, then he changes, and starts asking about Victoria Waterfield
+JAMIE: Well, then he changes, and starts asking about Victoria Waterfield
 and in the next breath, he tells me she's in Paris!
 然后, 他又变了, 开始问 Victoria Waterfield 的事情, 下一秒钟他又告诉我她在巴黎！
 
-46
+47
 00:03:24,199 --> 00:03:26,080
-I know what's happened to Victoria.
+DOCTOR: I know what's happened to Victoria.
 我知道 Victoria 发生了什么事
 
-47
+48
 00:03:26,245 --> 00:03:27,041
-What has?
+JAMIE: What has?
 什么事？
 
-48
+49
 00:03:27,315 --> 00:03:29,131
-She's a prisoner of the Daleks.
+DOCTOR: She's a prisoner of the Daleks.
 她成了 Daleks 的囚徒
 
-49
+50
 00:03:32,097 --> 00:03:33,339
-Hurry!
+DALEK: Hurry!
 快点！
 
-50
+51
 00:03:35,337 --> 00:03:45,662
-Why am I being moved? Are you taking me back to my father?
+VICTORIA: Why am I being moved? Are you taking me back to my father?
 为什么要转移我？你们要带我回到我父亲那里吗？
 
-51
+52
 00:03:45,846 --> 00:04:02,106
-No, you are being moved. Pick up your cover. Follow.
+DELAK: No, you are being moved. Pick up your cover. Follow.
 不, 只是给你换个地方。带上你的外套。跟上。
 
-52
+53
 00:04:02,184 --> 00:04:08,475
-Do not be afraid. You are not to be exterminated.
+DELAK: Do not be afraid. You are not to be exterminated.
 不用害怕, 你不会被终极掉
 
-53
+54
 00:04:19,123 --> 00:04:20,975
-Do not delay.
+DELAK: Do not delay.
 不要磨蹭
 
-54
+55
 00:04:41,616 --> 00:04:42,938
-Move.
+DELAK: Move.
 走
 
-55
+56
 00:04:52,287 --> 00:04:54,051
-You've warned him - told him about the Daleks?
+WATERFIELD: You've warned him - told him about the Daleks?
 你警告他了, 把 Daleks 的事情告诉他了？
 
-56
+57
 00:04:54,233 --> 00:04:54,878
-Yes, of course I did!
+DOCTOR: Yes, of course I did!
 是的, 我当然会这样
 
-57
+58
 00:04:55,112 --> 00:04:56,182
-But you were expressly told...
+WATERFIELD: But you were expressly told...
 但你被命令禁止。。。
 
-58
+59
 00:04:56,421 --> 00:04:57,265
-Oh, fiddlesticks!
+DOCTOR: Oh, fiddlesticks!
 哦, 别胡说！
 
-59
+60
 00:04:57,628 --> 00:05:01,354
-Bosh! Jamie will cooperate. You may be certain of that.
+DOCTOR: Bosh! Jamie will cooperate. You may be certain of that.
 胡说！ Jamie 会合作的。这个事情你可以放心
 
-60
+61
 00:05:01,526 --> 00:05:02,656
-Are you sure?
+WATERFIELD: Are you sure?
 你确定吗？
 
-61
+62
 00:05:02,824 --> 00:05:09,667
-Yes, perfectly sure. Jamie will do everything he is asked to do.
+DOCTOR: Yes, perfectly sure. Jamie will do everything he is asked to do.
 Now come along, we must go and find Maxtible.
 是的, 完全确定。你让 Jamie 做任何事情, 他都会去做。来吧, 我们去找 Maxtible
 
-62
+63
 00:05:32,628 --> 00:05:37,006
-The female human being has been moved.
+DALEK: The female human being has been moved.
 那个人类女性已经被转移
 
-63
+64
 00:05:37,264 --> 00:05:39,330
-Everything is prepared.
+MAXTIBLE: Everything is prepared.
 一切已经准备就绪
 
-64
+65
 00:05:39,548 --> 00:05:42,560
-The testing equipment is ready?
+DELAK: The testing equipment is ready?
 实验设备准备好了吗？
 
-65
+66
 00:05:42,802 --> 00:05:48,737
-I think you will be pleased with the man,
+MAXTIBLE: I think you will be pleased with the man,
 I've had specially brought from London. Ah, he works in my house.
 我像你会对这个人满意的, 我特意把他从伦敦带过来, 他在那边一直帮我做事
 
-66
+67
 00:05:49,013 --> 00:05:50,002
-Show me!
+DELAK: Show me!
 带来见我
 
-67
+68
 00:05:54,225 --> 00:06:02,053
-You will understand that he is rather simple.
+MAXTIBLE: You will understand that he is rather simple.
 He's quite dumb, but, uh... that has its advantages for us.
 你要明白他是一个相当简单的人, 他很笨, 不过。。。对我们而言这是个优势
 
-68
+69
 00:06:02,225 --> 00:06:11,053
-His mind is, how shall I say, undeveloped. He will not understand you,
-the Daleks. Uh, I mean he will be terrified of you.
+MAXTIBLE: His mind is, how shall I say, undeveloped. He will not
+understand you, the Daleks. Uh, I mean he will be terrified of you.
 他的大脑, 怎么说呢, 不发达。他搞不懂你们 Daleks。我是说, 他会害怕你们
 
-69
+70
 00:06:11,389 --> 00:06:12,045
-Show me.
+DELAK: Show me.
 带来见我
 
-70
+71
 00:06:12,748 --> 00:06:13,739
-Ohh, I beg your pardon, uh...
+MAXTIBLE: Ohh, I beg your pardon, uh...
 哦, 我很抱歉
 
-71
-00:06:21,263 --> 00:06:22,170
-Kemel!
-
 72
-00:06:30,762 --> 00:06:35,677
-Will you come with me?
-你跟我来
+00:06:21,263 --> 00:06:22,170
+MAXTIBLE: Kemel!
 
 73
-00:06:35,762 --> 00:06:45,677
-I want you to stand here. No, no, no, no, no, face the cabinet. Good.
-我要你站在这里, 不, 不, 不, 面朝柜子。好了
+00:06:30,762 --> 00:06:35,677
+MAXTIBLE: Will you come with me?
+你跟我来
 
 74
-00:06:49,384 --> 00:06:53,294
-Now, bend that.
-现在, 掰弯那个
+00:06:35,762 --> 00:06:45,677
+MAXTIBLE: I want you to stand here. No, no, no, no, no, face the cabinet. Good.
+我要你站在这里, 不, 不, 不, 面朝柜子。好了
 
 75
-00:07:38,637 --> 00:07:46,117
-Excellent Kemel, excellent. Now, you'll help me with these stools.
-很好, Kemel, 很好。现在, 帮我弄一下这几个凳子
+00:06:49,384 --> 00:06:53,294
+MAXTIBLE: Now, bend that.
+现在, 掰弯那个
 
 76
-00:08:03,116 --> 00:08:07,870
-Now, Kemel. One blow. Break the plank!
-现在, Kemel, 一次把这跟木头打断!
+00:07:38,637 --> 00:07:46,117
+MAXTIBLE: Excellent Kemel, excellent. Now, you'll help me with these stools.
+很好, Kemel, 很好。现在, 帮我弄一下这几个凳子
 
 77
-00:08:16,921 --> 00:08:23,536
-Very good Kemel. I'm very pleased with you. Now you can put on your jacket.
-很好, Kemel, 我对你很满意。现在你可以穿上你的夹克了
+00:08:03,116 --> 00:08:07,870
+MAXTIBLE: Now, Kemel. One blow. Break the plank!
+现在, Kemel, 一次把这跟木头打断!
 
 78
-00:08:24,485 --> 00:08:35,352
-Come over here. Now, I want you to listen carefully. See this man?
-到这里来。现在, 我想要你听仔细了, 看到这个人了吗？
+00:08:16,921 --> 00:08:23,536
+MAXTIBLE: Very good Kemel. I'm very pleased with you. Now you can put on your jacket.
+很好, Kemel, 我对你很满意。现在你可以穿上你的夹克了
 
 79
-00:08:36,867 --> 00:08:40,142
-Now, I'm going to take you to a place that I want you to guard,
-现在, 我要带你去一个地方, 期望你做好守卫工作
+00:08:24,485 --> 00:08:35,352
+MAXTIBLE: Come over here. Now, I want you to listen carefully. See this man?
+到这里来。现在, 我想要你听仔细了, 看到这个人了吗？
 
 80
-00:08:40,242 --> 00:08:44,742
-and this young man will try and get past you and you are not to let him.
-Do you understand?
-而这个年轻人会试图越过你, 你不能允许他这样做, 你明白吗？
+00:08:36,867 --> 00:08:40,142
+MAXTIBLE: Now, I'm going to take you to a place that I want you to guard,
+现在, 我要带你去一个地方, 期望你做好守卫工作
 
 81
+00:08:40,242 --> 00:08:44,742
+MAXTIBLE: and this young man will try and get past you
+and you are not to let him. Do you understand?
+而这个年轻人会试图越过你, 你不能允许他这样做, 你明白吗？
+
+82
 00:08:45,167 --> 00:08:53,142
-Oh, he's an evil villain, Kemel,
-a cutthroat who would gladly murder us all in our beds, if he could.
+MAXTIBLE: Oh, he's an evil villain, Kemel, a cutthroat
+who would gladly murder us all in our beds, if he could.
 哦, 他是一个邪恶的恶棍, Kemel,
 他会残忍地将我们所有人杀死在床上的, 如果他有机会的话
 
-82
+83
 00:08:53,242 --> 00:08:56,742
-You will remember this man, hmm?
+MAXTIBLE: You will remember this man, hmm?
 你要记住这个人, 嗯？
 
-83
+84
 00:08:57,343 --> 00:09:00,346
-Right. Well, you come with me and I will direct you.
+MAXTIBLE: Right. Well, you come with me and I will direct you.
 好了, 你跟我来, 我带你去
 
-84
+85
 00:09:30,725 --> 00:09:35,265
-You wait here. This is the entrance to the south wing of my house,
+MAXTIBLE: You wait here. This is the entrance to the south wing of my house,
 你在这里等着, 这里是我房子的南厢入口
 
-85
+86
 00:09:35,725 --> 00:09:43,265
-and through here will pass the man I showed you in the picture.
+MAXTIBLE: and through here will pass the man I showed you in the picture.
 The door itself is an obstacle.
 图片里面那个人就会从这里过来, 这门就是一个屏障
 
-86
+87
 00:09:48,121 --> 00:09:49,215
-No, no, wait!
+MAXTIBLE: No, no, wait!
 不, 不, 等等！
 
-87
+88
 00:10:09,562 --> 00:10:17,671
-Now, if he gets through here, you will deal with him. Go now.
+MAXTIBLE: Now, if he gets through here, you will deal with him. Go now.
 现在, 如果他到这里来, 你要对付他。去吧
 
-88
+89
 00:10:28,307 --> 00:10:30,655
-We do not trust you.
+DELAK: We do not trust you.
 我们不信任你
 
-89
+90
 00:10:30,896 --> 00:10:31,960
-Then we're quits, aren't we?
+DOCTOR: Then we're quits, aren't we?
 那我们退出, 可以吗？
 
-90
+91
 00:10:32,186 --> 00:10:34,404
-But we have your time machine.
+DELAK: But we have your time machine.
 但你的时间机器在我们手上
 
-91
+92
 00:10:34,639 --> 00:10:35,369
-Yes.
+DOCTOR: Yes.
 是的
 
-92
+93
 00:10:35,630 --> 00:10:37,123
-So, you will obey us.
+DELAK: So, you will obey us.
 所以, 你要服从我们
 
-93
+94
 00:10:42,906 --> 00:10:45,766
-They want the "Human Factor", is that right?
+DOCTOR: They want the "Human Factor", is that right?
 他们想要“人类特质”, 对吗？
 
-94
+95
 00:10:45,949 --> 00:10:47,457
 Yes, that is what they want.
 是的, 这就是他们想要的
 
-95
+96
 00:10:47,610 --> 00:10:55,417
-Very complex. And you want to introduce this "human factor"
+DOCTOR: Very complex. And you want to introduce this "human factor"
 into the race of Daleks?
 这很复杂。你们期望把“人类特质”加入到 Daleks 种族中去？
 
-96
+97
 00:10:55,610 --> 00:11:03,441
-Yes, the conquest of humanity has eluded us. The Daleks must know why.
+DELAK: Yes, the conquest of humanity has eluded us. The Daleks must know why.
 是的, 人类的征服能力让我们很困惑。Daleks 必须明白为什么
 
-97
+98
 00:11:03,656 --> 00:11:05,624
-But, why choose Jamie for this test?
+DOCTOR: But, why choose Jamie for this test?
 但是, 为什么挑选 Jamie 做实验？
 
-98
+99
 00:11:05,828 --> 00:11:08,926
-His travelling with you makes him unique.
+DELAK: His travelling with you makes him unique.
 他跟你一起旅行, 这让他变得独特
 
-99
+100
 00:11:09,119 --> 00:11:10,284
-But why him? Why not me?
+DOCTOR: But why him? Why not me?
 但为什么是他, 为什么不是我？
 
-100
+101
 00:11:10,480 --> 00:11:11,368
-Request denied.
+DELAK: Request denied.
 拒绝回答
 
-101
+102
 00:11:11,550 --> 00:11:12,226
-Why?
+DOCTOR: Why?
 为什么？
 
-102
+103
 00:11:12,413 --> 00:11:17,401
-You have travelled too much through time. You are more than human.
+DELAK: You have travelled too much through time. You are more than human.
 你在时间中旅行得太久了, 你不仅仅是个人类了
 
-103
+104
 00:11:18,225 --> 00:11:19,338
-I see.
+DOCTOR: I see.
 我明白了
 
-104
+105
 00:11:21,370 --> 00:11:22,772
-What is this?
+DOCTOR: What is this?
 这是什么？
 
-105
+106
 00:11:23,279 --> 00:11:26,682
-They have been brought from the Dalek planet.
+MAXTIBLE: They have been brought from the Dalek planet.
 他们是从 Dalek 星球带过来的
 
-106
+107
 00:11:27,030 --> 00:11:27,917
-Skaro!
+DOCTOR: Skaro!
 <i>（注: Daleks 的母星）</i>
 
-107
+108
 00:11:28,425 --> 00:11:34,026
-Yes, their life force is dormant. Before it is activated, we want...
+DELAK: Yes, their life force is dormant. Before it is activated, we want...
 是的。他们目前处于休眠状态, 激活之后, 我们想要。。。
 
-108
+109
 00:11:34,881 --> 00:11:38,042
-You want the "human factor" introduced. I see.
+DOCTOR: You want the "human factor" introduced. I see.
 你们想要引入“人类特质”, 我知道了
 
-109
+110
 00:11:38,241 --> 00:11:39,517
-You will obey us!
+DELAK: You will obey us!
 你要服从我们！
 
-110
+111
 00:11:39,716 --> 00:11:40,716
-I will make up my own mind!
+DOCTOR: I will make up my own mind!
 我会自己拿主意！
 
-111
+112
 00:11:40,854 --> 00:11:44,479
-Do not antagonize them, Doctor. They will destroy your time machine!
+MAXTIBLE: Do not antagonize them, Doctor. They will destroy your time machine!
 不要激怒他们, 博士。他们会毁了你的时间机器的！
 
-112
+113
 00:11:44,663 --> 00:11:50,904
-And if I agree, it means the creation of a race of super-Daleks!
+MAXTIBLE: And if I agree, it means the creation of a race of super-Daleks!
 但如果我同意, 那就意味着超级 Daleks 的诞生！
 
-113
+114
 00:11:55,814 --> 00:12:01,725
-My TARDIS... I have no choice, do I? Very well. I agree.
+DOCTOR: My TARDIS... I have no choice, do I? Very well. I agree.
 我的 TARDIS。。。我没有选择, 有吗？好吧, 我同意了
 
-114
+115
 00:12:02,002 --> 00:12:07,162
-The human being with you must not be aware of the trial.
+DELAK: The human being with you must not be aware of the trial.
 跟着你的那个人必须对这项实验不知情
 
-115
+116
 00:12:07,522 --> 00:12:08,670
-I quite understand.
+DOCTOR: I quite understand.
 我很明白
 
-116
+117
 00:12:08,861 --> 00:12:11,616
-Make him begin the test!
+DELAK: Make him begin the test!
 让他开始实验！
 
-117
+118
 00:12:21,740 --> 00:12:22,884
-What must Jamie do?
+DOCTOR: What must Jamie do?
 Jamie 必须干什么？
 
-118
+119
 00:12:23,981 --> 00:12:28,295
-Attempt to rescue Waterfield's daughter.
+DOCTOR: Attempt to rescue Waterfield's daughter.
 尝试营救 Waterfield 的女儿
 
-119
-00:12:36,998 --> 00:12:37,656
-There we are, sir.
-
-
 120
-00:12:37,959 --> 00:12:38,826
-Thank you, Mollie.
-谢谢你, Mollie
+00:12:36,998 --> 00:12:37,656
+MOLLIE: There we are, sir.
 
 121
-00:12:39,545 --> 00:12:41,095
-Arthur, I'd like you to meet Mr. McCrimmon.
-Arthur, 我引你见一下 McCrimmon 先生
+00:12:37,959 --> 00:12:38,826
+TERRALL: Thank you, Mollie.
+谢谢你, Mollie
 
 122
-00:12:41,889 --> 00:12:43,932
-May I ask what you are doing in this house?
-我能问问你在这个房子里面干什么吗？
+00:12:39,545 --> 00:12:41,095
+RUTH: Arthur, I'd like you to meet Mr. McCrimmon.
+Arthur, 我引你见一下 McCrimmon 先生
 
 123
-00:12:44,260 --> 00:12:45,841
-I was just about to ask you the same thing.
-我也正要问你同一个问题
+00:12:41,889 --> 00:12:43,932
+TERRALL: May I ask what you are doing in this house?
+我能问问你在这个房子里面干什么吗？
 
 124
-00:12:46,421 --> 00:12:48,396
-Oh, you gentlemen have been introduced?
-哦, 有人已经介绍两位先生认识了？
+00:12:44,260 --> 00:12:45,841
+JAMIE: I was just about to ask you the same thing.
+我也正要问你同一个问题
 
 125
-00:12:48,576 --> 00:12:49,701
-Aye, we've met.
-是, 我们碰过面
+00:12:46,421 --> 00:12:48,396
+RUTH: Oh, you gentlemen have been introduced?
+哦, 有人已经介绍两位先生认识了？
 
 126
-00:12:50,408 --> 00:12:53,896
-It seems, Ruth, your father has the oddest collection of house guests these days.
-看起来, Ruth 小姐, 你父亲这几天招待了一大堆奇怪的客人啊
+00:12:48,576 --> 00:12:49,701
+JAMIE: Aye, we've met.
+是, 我们碰过面
 
 127
-00:12:54,864 --> 00:12:56,568
-Now Arthur, please!
-Arthur, 别这样
+00:12:50,408 --> 00:12:53,896
+TERRALL: It seems, Ruth, your father has the oddest collection of house guests these days.
+看起来, Ruth 小姐, 你父亲这几天招待了一大堆奇怪的客人啊
 
 128
-00:12:56,896 --> 00:12:58,919
-You must forgive him, Mr. McCrimmon.
-你得原谅他, McCrimmon 先生
+00:12:54,864 --> 00:12:56,568
+RUTH: Now Arthur, please!
+Arthur, 别这样
 
 129
-00:12:59,153 --> 00:13:00,369
-Ah, it's becoming a habit.
-啊, 都已经习惯了
+00:12:56,896 --> 00:12:58,919
+RUTH: You must forgive him, Mr. McCrimmon.
+你得原谅他, McCrimmon 先生
 
 130
-00:13:00,617 --> 00:13:01,892
-I don't care for insolence.
-我并不太在意这些无礼的行为
+00:12:59,153 --> 00:13:00,369
+JAMIE: Ah, it's becoming a habit.
+啊, 都已经习惯了
 
 131
-00:13:02,099 --> 00:13:03,985
-Well, I'm not keen on arrogance myself!
-哈, 我也不太在乎那些自大的家伙
+00:13:00,617 --> 00:13:01,892
+TERRALL: I don't care for insolence.
+我并不太在意这些无礼的行为
 
 132
-00:13:04,303 --> 00:13:06,962
-Why, you bite at each other as if you were old enemies!
-为什么, 你们俩就好像宿敌一样要互相咬？
+00:13:02,099 --> 00:13:03,985
+JAMIE: Well, I'm not keen on arrogance myself!
+哈, 我也不太在乎那些自大的家伙
 
 133
-00:13:07,497 --> 00:13:09,064
-I'm sorry if I seem rude.
-如果我看起来比较粗鲁, 我很抱歉
+00:13:04,303 --> 00:13:06,962
+RUTH: Why, you bite at each other as if you were old enemies!
+为什么, 你们俩就好像宿敌一样要互相咬？
 
 134
-00:13:09,321 --> 00:13:13,678
-Come, I want you to be friends. Won't you be so, to please me?
-好了, 我期望你们成为朋友。你们可以吗, 就给我点面子？
+00:13:07,497 --> 00:13:09,064
+JAMIE: I'm sorry if I seem rude.
+如果我看起来比较粗鲁, 我很抱歉
 
 135
-00:13:17,090 --> 00:13:24,039
-Arthur... Arthur, what is it? Excuse me. Arthur! What's the matter?
-Arthur... Arthur, 怎么了？ 对不起。Arthur！什么情况？
+00:13:09,321 --> 00:13:13,678
+RUTH: Come, I want you to be friends. Won't you be so, to please me?
+好了, 我期望你们成为朋友。你们可以吗, 就给我点面子？
 
 136
-00:13:31,641 --> 00:13:32,648
-Sir?
-先生？
+00:13:17,090 --> 00:13:24,039
+RUTH: Arthur... Arthur, what is it? Excuse me. Arthur! What's the matter?
+Arthur... Arthur, 怎么了？ 对不起。Arthur！什么情况？
 
 137
-00:13:32,910 --> 00:13:36,133
-Yes?! Oh, I wish you'd call me Jamie.
-什么事？ 哦, 我期望你叫我 Jamie
+00:13:31,641 --> 00:13:32,648
+MOLLIE: Sir?
+先生？
 
 138
-00:13:36,343 --> 00:13:38,699
-Oh, I couldn't do that sir. What would the master say?
-噢, 我不能那样做, 先生。不知道主人会怎么说我呢
+00:13:32,910 --> 00:13:36,133
+JAMIE: Yes?! Oh, I wish you'd call me Jamie.
+什么事？ 哦, 我期望你叫我 Jamie
 
 139
-00:13:38,879 --> 00:13:41,860
-Oh, who cares! Ah, What can I do for you?
-哦, 谁在乎！啊, 有什么能帮到你的？
+00:13:36,343 --> 00:13:38,699
+MOLLIE: Oh, I couldn't do that sir. What would the master say?
+噢, 我不能那样做, 先生。不知道主人会怎么说我呢
 
 140
-00:13:42,086 --> 00:13:46,606
-If you'd tell me where your bags are, sir - yours and the Doctor's
-- I'll have them taken up to your room.
-如果你能告诉我你的包裹在哪儿 —— 你和博士的 —— 我会让人把他们带到你的房间来的
+00:13:38,879 --> 00:13:41,860
+JAMIE: Oh, who cares! Ah, What can I do for you?
+哦, 谁在乎！啊, 有什么能帮到你的？
 
 141
-00:13:46,844 --> 00:13:48,089
-Aye. well, Mollie...
-啊, 这个, Mollie...
+00:13:42,086 --> 00:13:46,606
+MOLLIE: If you'd tell me where your bags are, sir -
+yours and the Doctor's - I'll have them taken up to your room.
+如果你能告诉我你的包裹在哪儿 —— 你和博士的 —— 我会让人把他们带到你的房间来的
 
 142
-00:13:48,258 --> 00:13:52,105
-Listen to me, "have them taken. " I dare say I'll be doin' it meself!
-听我说, 我说“让人带过来” 其实我会亲自做的！
+00:13:46,844 --> 00:13:48,089
+JAMIE: Aye. well, Mollie...
+啊, 这个, Mollie...
 
 143
+00:13:48,258 --> 00:13:52,105
+MOLLIE: Listen to me, "have them taken. " I dare say I'll be doin' it meself!
+听我说, 我说“让人带过来” 其实我会亲自做的！
+
+144
 00:13:52,281 --> 00:13:54,927
-You see, we didn't have time to pick up the luggage.
+JAMIE: You see, we didn't have time to pick up the luggage.
 It'll be following.
 你看, 我们并没有时间收拾行李, 过两天才会送来
 
-144
+145
 00:13:55,165 --> 00:13:55,818
-Oh.
+MOLLIE: Oh.
 哦
 
-145
+146
 00:13:56,160 --> 00:13:57,930
-Why do you say that you'll be doing it yourself?
+JAMIE: Why do you say that you'll be doing it yourself?
 为什么你说你要自己做？
 
-146
+147
 00:13:58,118 --> 00:14:05,247
-Well, they do say, sir, that the house is haunted. Mr. Kitson,
+MOLLIE: Well, they do say, sir, that the house is haunted. Mr. Kitson,
 the butler, left, and cook and the two footmen are complainin' again.
 哦, 他们说, 先生, 这房子闹鬼。Kitson 先生, 我们的管家, 还有两个杂役都在说这个
 
-147
+148
 00:14:05,441 --> 00:14:06,111
-Haunted?
+JAMIE: Haunted?
 闹鬼？
 
-148
+149
 00:14:06,331 --> 00:14:10,617
-Mmm. But, I've never heard anything sir.
+MOLLIE: Mmm. But, I've never heard anything sir.
 I sleep like a log and always have.
 嗯。不过, 我从来没听到过什么, 先生。我睡觉跟一根木头似的, 总是这样
 
-149
+150
 00:14:10,943 --> 00:14:12,988
-Aye. well, I'm glad you've got over the fright you had.
+JAMIE: Aye. well, I'm glad you've got over the fright you had.
 啊, 这样。我很高兴你已经克服了恐惧
 
-150
-00:14:13,290 --> 00:14:18,723
-Oh, yes, that horrible man.
-Miss Ruth said it was all a game, but I dunno sir.
-噢, 是的, 那个吓人的家伙。Ruth 小姐说只是个有些, 不过我也搞不懂。
-
 151
-00:14:19,290 --> 00:14:23,723
-I've never fainted before, sir. Truly I haven't.
-我以前从来没有晕倒过, 先生。真的没有
+00:14:13,290 --> 00:14:18,723
+JAMIE: Oh, yes, that horrible man.
+Miss Ruth said it was all a game, but I dunno sir.
+噢, 是的, 那个吓人的家伙。Ruth 小姐说只是个游戏, 不过我也搞不懂。
 
 152
-00:14:23,926 --> 00:14:25,985
-Not "sir", "Jamie"!
-不是“先生”, “Jamie”！
+00:14:19,290 --> 00:14:23,723
+MOLLIE: I've never fainted before, sir. Truly I haven't.
+我以前从来没有晕倒过, 先生。真的没有
 
 153
-00:14:27,348 --> 00:14:28,879
-Tell me about Arthur Terrall.
-告诉我一些 Arthur Terrall 的情况
+00:14:23,926 --> 00:14:25,985
+JAMIE: Not "sir", "Jamie"!
+不是“先生”, “Jamie”！
 
 154
-00:14:29,129 --> 00:14:30,524
-Miss Ruth's fiance, sir?
-Ruth 小姐的未婚夫, 先生
+00:14:27,348 --> 00:14:28,879
+JAMIE: Tell me about Arthur Terrall.
+告诉我一些 Arthur Terrall 的情况
 
 155
-00:14:30,758 --> 00:14:31,488
-Aye.
-啊
+00:14:29,129 --> 00:14:30,524
+MOLLIE: Miss Ruth's fiance, sir?
+Ruth 小姐的未婚夫, 先生
 
 156
-00:14:31,714 --> 00:14:35,168
-Oh, oh, he's a kind man, sir. Usually.
-哦, 他是个好人, 先生。通常来说
+00:14:30,758 --> 00:14:31,488
+JAMIE: Aye.
+啊
 
 157
-00:14:35,405 --> 00:14:36,269
-Usually?
-通常来说？
+00:14:31,714 --> 00:14:35,168
+MOLLIE: Oh, oh, he's a kind man, sir. Usually.
+哦, 他是个好人, 先生。通常来说
 
 158
+00:14:35,405 --> 00:14:36,269
+JAMIE: Usually?
+通常来说？
+
+159
 00:14:36,468 --> 00:14:43,933
-Mmm. Well, when he's a bit odd or his temper's up, as it has been lately,
+MOLLIE: Mmm. Well, when he's a bit odd or his temper's up, as it has been lately,
 I says to meself "Inkerman" and then it's all right.
 嗯, 就是, 他有点怪, 或者脾气上来了, 就像最近那样。我跟自己说估计“英克曼人”就是那样
 
-159
+160
 00:14:44,129 --> 00:14:44,851
-"Inkerman"?
+JAMIE: "Inkerman"?
 “英克曼人”？
 
-160
+161
 00:14:45,050 --> 00:14:50,094
-Yes sir. 'e was out in the Crimea, 'e was.
+MOLLIE: Yes sir. 'e was out in the Crimea, 'e was.
 They do say Mr. Terrall was wounded out there.
 是的先生, 他是从克里米亚来的, 他是。他们的确说过 Terrall 在那里受了伤
 
-161
+162
 00:14:50,250 --> 00:14:56,094
-Do you know, my uncle was killed at Inkerman, sir.
+MOLLIE: Do you know, my uncle was killed at Inkerman, sir.
 So, you see, I do know what it's like with soldiers.
 你知道吗, 我叔叔就是在英克曼战死的, 先生。所以, 你看, 我还真知道士兵是怎样的
 <i>（备注：1854-1856年, 俄国与英、法为争夺小亚细亚地区权利而爆发“克里米亚战争“）</i>
 
-162
+163
 00:14:56,340 --> 00:15:03,628
-Oh... oh, I'm sorry sir. I didn't mean to... Well cook said to me
-that if I did some dusting it would be all right.
+MOLLIE: Oh... oh, I'm sorry sir. I didn't mean to... Well cook
+said to me that if I did some dusting it would be all right.
 哦。。。哦, 对不起先生。我不是有意的。。。厨师跟我说, 我打扫打扫就可以了
 
-163
+164
 00:15:03,840 --> 00:15:06,628
-Oh, you won't tell the master, will you? That I... Ah, ah...
-Thank you. Sorry sir.
+MOLLIE: Oh, you won't tell the master, will you? That I...
+Ah, ah... Thank you. Sorry sir.
 哦, 你不会告诉主人的, 是吗？那我。。。啊。。谢谢你, 对不起,先生
 
-164
+165
 00:15:06,808 --> 00:15:08,827
-Sorry Mollie. Never mind, Mollie. That will do. Yes, Mollie,
+DOCTOR: Sorry Mollie. Never mind, Mollie. That will do. Yes, Mollie,
 thank you very much. It's all right, Mollie.
 抱歉 Mollie, 不用在意, Moiilie, 这就行了, 好了, Mollie
 
-165
+166
 00:15:09,108 --> 00:15:10,827
-I wouldn't dream of telling him. Thank you very much, Bye-bye.
+DOCTOR: I wouldn't dream of telling him. Thank you very much, Bye-bye.
 我不会告诉他的, 很谢谢你, 拜拜
 
-166
+167
 00:15:15,026 --> 00:15:19,683
-Hmm, you'll have to brush up on your history.
+DOCTOR: Hmm, you'll have to brush up on your history.
 I can't be around to cover up for you all the time.
 呜, 你得刷新一下你的历史知识了。我不可能总在你身边替你补课
-
-167
-00:15:20,053 --> 00:15:25,263
-Now then, in the Crimean War, the English, the French and the Turks
-fought the Russians...
-这一次, 克里米亚战争, 英国人、法国人和土耳其人一起跟俄国人打
+<i>（备注: Jamie 是 172x 年诞生的, 174x 年跟随博士旅行, 所以他对后面的历史知道得不多）</i>
 
 168
-00:15:25,439 --> 00:15:26,662
-Oh, forget about all that!
-哦, 忘了那些吧
+00:15:20,053 --> 00:15:25,263
+DOCTOR: Now then, in the Crimean War, the English, the French
+and the Turks fought the Russians...
+这一次, 克里米亚战争, 英国人、法国人和土耳其人一起跟俄国人打
 
 169
+00:15:25,439 --> 00:15:26,662
+JAMIE: Oh, forget about all that!
+哦, 忘了那些吧
+
+170
 00:15:26,807 --> 00:15:32,440
-Oh, I thought you'd be interested. I watched
+DOCTOR: Oh, I thought you'd be interested. I watched
 the Charge of the Light Brigade. Magnificent folly...
 哦, 我以为你会感兴趣。我可见过轻骑兵发起的冲锋, 那可真是愚蠢。。。
 <i>（备注: 此处特指1854年10月克里米亚战争巴拉克拉瓦战役中, 英国轻骑兵向俄军发起的冲锋, 因命令传达错误而伤亡惨重。因诗歌 The Charge of the Light Brigade 而受后人铭记）</i>
 
-170
+171
 00:15:32,607 --> 00:15:33,893
-Look, where've you been?
+DOCTOR: Look, where've you been?
 我说, 你都去哪儿了？
 
-171
+172
 00:15:34,046 --> 00:15:34,979
-Oh, just looking around.
+DOCTOR: Oh, just looking around.
 哦, 只是四处看看
 
-172
+173
 00:15:35,131 --> 00:15:36,135
-Aye. What for? The TARDIS?!
+JAMIE: Aye. What for? The TARDIS?!
 啊, 看什么？TARDIS 吗？
 
-173
+174
 00:15:37,393 --> 00:15:39,420
-Jamie, you're in a temper!
+DOCTOR: Jamie, you're in a temper!
 Jamie, 你在闹脾气啊
 
-174
+175
 00:15:39,600 --> 00:15:44,541
-Oh, am I? Is that bad then? Does that mean I won't be co-operative
-- I won't do everything I'm told?
+JAMIE: Oh, am I? Is that bad then? Does that mean I won't
+be co-operative - I won't do everything I'm told?
 哦, 是吗？这很糟糕吧？是不是意味着我不会乖乖听话了？不会说什么我就做什么了？
 
-175
+176
 00:15:44,880 --> 00:15:45,673
-What was that?
+DOCTOR: What was that?
 这是什么话？
 
-176
+177
 00:15:45,841 --> 00:15:47,060
-I overheard you and Waterfield!
+JAMIE: I overheard you and Waterfield!
 我听到了你和 Waterfield 的对话！
 
-177
+178
 00:15:47,204 --> 00:15:48,208
-You were eavesdropping!
+DOCTOR: You were eavesdropping!
 你居然在偷听！
 
-178
+179
 00:15:48,342 --> 00:15:49,526
-Well, whatever it is, I don't like what you're doing.
+JAMIE: Well, whatever it is, I don't like what you're doing.
 不管怎样, 我不喜欢你现在做的事
 
-179
+180
 00:15:49,658 --> 00:15:50,424
-Now you listen to me...!
+DOCTOR: Now you listen to me...!
 你听我说。。。！
 
-180
+181
 00:15:50,587 --> 00:15:53,244
-No, Doctor, you're forgetting the TARDIS was stolen
+JAMIE: No, Doctor, you're forgetting the TARDIS was stolen
 and a man was murdered!
 不, 博士, 你已经忘记 TARDIS 被偷了, 还有人被杀了
 
-181
+182
 00:15:53,587 --> 00:15:56,244
-Now, how am I supposed to tell when I see
+JAMIE:  Now, how am I supposed to tell when I see
 you as friendly as you like with the murderer!
 现在, 我看见你跟杀人凶手在一起跟朋友似的, 你让我怎么想呢？
 
-182
+183
 00:15:56,466 --> 00:15:58,522
-Waterfield did not murder that man!
+DOCTOR: Waterfield did not murder that man!
 Waterfield 没有杀那个人！
 
-183
+184
 00:15:58,678 --> 00:16:01,342
-All right then, but he stole the TARDIS
+JAMIE: All right then, but he stole the TARDIS
 and that still makes him a thief!
 那好, 但他偷了 TARDIS, 他仍然还是一个小偷！
 
-184
+185
 00:16:01,505 --> 00:16:02,577
-The Daleks forced him to!
+DOCTOR: The Daleks forced him to!
 Daleks 强迫他干的
 
-185
+186
 00:16:02,712 --> 00:16:06,772
-The Daleks! You keep telling me about the Daleks, and I haven't
+JAMIE: The Daleks! You keep telling me about the Daleks, and I haven't
 even seen one! You're always on about them, but where are they?!
 Daleks！ 你一直跟我说 Daleks, 但我一个没见着。你不停地说, 但他们在哪儿呢？
 
-186
+187
 00:16:06,934 --> 00:16:07,552
-Now you listen to me...!
+DOCTOR: Now you listen to me...!
 你得听我说啊。。。！
 
-187
+188
 00:16:07,717 --> 00:16:09,921
-No, you'll not get round me this time, Doctor.
+JAMIE: No, you'll not get round me this time, Doctor.
 不, 这次你别想忽悠我了, 博士
 
-188
+189
 00:16:10,117 --> 00:16:11,521
-You're up to something with Waterfield and Maxtible.
+DOCTOR: You're up to something with Waterfield and Maxtible.
 你跟 Waterfield 还有 Maxtible 在搞些什么
 
-189
+190
 00:16:11,717 --> 00:16:14,521
-Now what is it? Some scientific invention?!
+JAMIE: Now what is it? Some scientific invention?!
 到底是什么呢? 某种科学发明吗？！
 
-190
+191
 00:16:15,065 --> 00:16:16,360
-Ah, here's your friend.
+JAMIE: Ah, here's your friend.
 啊, 你的朋友来了
 
-191
+192
 00:16:16,532 --> 00:16:17,504
-Just a little argument.
+DOCTOR: Just a little argument.
 只是一点小争论
 
-192
+193
 00:16:17,809 --> 00:16:19,254
-I heard voices raised.
+WATERFIELD: I heard voices raised.
 我听着声音有点大了
 
-193
-00:16:19,429 --> 00:16:20,641
-That's not all you'll hear!
-你不会听见这个的fixme
-
 194
-00:16:20,809 --> 00:16:23,141
-Jamie seems to think that I'm lying to him.
-Jamie 似乎认为我在欺骗他
+00:16:19,429 --> 00:16:20,641
+JAMIE: That's not all you'll hear!
+你听见的才不止这点呢
 
 195
-00:16:23,339 --> 00:16:24,118
-Well, aren't you?!
-怎么, 没有吗？
+00:16:20,809 --> 00:16:23,141
+DOCTOR: Jamie seems to think that I'm lying to him.
+Jamie 似乎认为我在欺骗他
 
 196
-00:16:24,255 --> 00:16:25,621
-He doesn't believe the Daleks are here.
-他并不相信 Daleks 就在这里
+00:16:23,339 --> 00:16:24,118
+JAMIE: Well, aren't you?!
+怎么, 没有吗？
 
 197
-00:16:25,805 --> 00:16:26,621
-It's the truth.
-这是事实
+00:16:24,255 --> 00:16:25,621
+DOCTOR: He doesn't believe the Daleks are here.
+他并不相信 Daleks 就在这里
 
 198
+00:16:25,805 --> 00:16:26,621
+WATERFIELD: It's the truth.
+这是事实
+
+199
 00:16:26,820 --> 00:16:30,094
-Aye, the truth you told Arthur Terrall, maybe
+JAMIE: Aye, the truth you told Arthur Terrall, maybe
 - that your daughter was in Paris!
 啊, 你还把事实告诉了 Arthur Terrall —— 你的女儿在巴黎！
 
-199
+200
 00:16:30,292 --> 00:16:31,445
-I had to tell him that.
+WATERFIELD: I had to tell him that.
 我只能那样跟他说
 
-200
+201
 00:16:31,625 --> 00:16:33,125
-So, you've got another story to tell me?
+JAMIE: So, you've got another story to tell me?
 所以, 你还有另外一个故事是给我的罗？
 
-201
+202
 00:16:33,361 --> 00:16:38,202
-I tell you that the Daleks are holding my daughter prisoner
-in the south wing of this house, Mr. McCrimmon.
+WATERFIELD: I tell you that the Daleks are holding my daughter
+prisoner in the south wing of this house, Mr. McCrimmon.
 我跟你说, Daleks 现在把我的女儿关押在了这栋房子的南面, McCrimmon 先生
 
-202
+203
 00:16:38,359 --> 00:16:41,101
-Then why don't you try and get her back, eh?! What are you doing?!
+JAMIE: Then why don't you try and get her back, eh?! What are you doing?!
 那你怎么不试着把她救回来, 嗯？你在忙些什么？
 
-203
+204
 00:16:41,262 --> 00:16:43,504
-Well, what can I do? Now, be... be fair Jamie.
+DOCTOR: : Well, what can I do? Now, be... be fair Jamie.
 我能怎么做？现在。。。理智点 Jamie
 
-204
+205
 00:16:43,762 --> 00:16:48,104
-Waterfield's tied hand and foot because of his daughter
+DOCTOR: Waterfield's tied hand and foot because of his daughter
 and we're tied hand and foot because of the TARDIS!
 Waterfield 因为他女儿而投鼠忌器, 我们因为 TARDIS 而束手束脚
 
-205
+206
 00:16:48,297 --> 00:16:53,801
-Aye, and that's all you can think about, isn't it? The TARDIS.
+JAMIE: Aye, and that's all you can think about, isn't it? The TARDIS.
 Well, you can all stand around doing nothing. I'm sick to death of it!
 啊, 你能想到的就只有这个, TARDIS, 是吗? 你就站在那里什么也不做？我恶心死了！
 
-206
+207
 00:16:53,925 --> 00:16:54,948
-Now just where are you going?
+DOCTOR: Now just where are you going?
 你现在要去哪儿？
 
-207
+208
 00:16:55,094 --> 00:16:57,449
-To be by myself for a bit. Do you mind?
+JAMIE: To be by myself for a bit. Do you mind?
 一个人呆一会儿, 你管得着吗？
 
-208
+209
 00:16:57,594 --> 00:17:02,828
-No, not a bit. But, one word of warning.
+DOCTOR: No, not a bit. But, one word of warning.
 Don't you try to be a one-man army. You leave well alone.
 不, 管不着。但警告你一句话, 别想一个人逞英雄。你别管这事
 
-209
+210
 00:17:03,094 --> 00:17:07,828
-I won't have you ruining everything trying to rescue
+DOCTOR: I won't have you ruining everything trying to rescue
 Victoria Waterfield. Now, you understand?!
 我不能允许你为了救 Victoria Waterfield 而毁了一切, 你听明白了没有？！
 
-210
+211
 00:17:11,815 --> 00:17:15,221
-Well, are you sure you didn't go a little too far, Doctor?
+WATERFIELD: Well, are you sure you didn't go a little too far, Doctor?
 唉, 你确定这样是不是有点过火了, 博士？
 
-211
-00:17:15,628 --> 00:17:22,170
-Adding a little fuel to the fire.
-Tell Maxtible that I'll be along to his laboratory shortly.
-火上浇油。告诉 Maxtible 我很快就到他的实验室去
-
 212
-00:17:22,315 --> 00:17:23,495
-Oh, very well, Doctor. If you're sure.
-哦, 好吧, 博士。如果你确定的话
+00:17:15,628 --> 00:17:22,170
+DOCTOR: Adding a little fuel to the fire.
+Tell Maxtible that I'll be along to his laboratory shortly.
+要火上浇点油。告诉 Maxtible 我很快就到他的实验室去
 
 213
-00:17:23,640 --> 00:17:28,161
-Oh yes, quite sure. Once our young friend has cooled his heels a bit,
-he'll launch off on his own.
-是的, 很确定。一旦我们的小朋友冷静一点, 他就会消停下来
+00:17:22,315 --> 00:17:23,495
+WATERFIELD: Oh, very well, Doctor. If you're sure.
+哦, 好吧, 博士。如果你确定的话
 
 214
-00:17:28,640 --> 00:17:32,161
-And you dropped the hint about the south wing beautifully.
-而且你也很漂亮地把南厢房的线索传递给他了
+00:17:23,640 --> 00:17:28,161
+DOCTOR: Oh yes, quite sure. Once our young friend has cooled
+his heels a bit, he'll launch off on his own.
+是的, 很确定。一旦我们的小朋友冷静一点, 他就会消停下来
 
 215
-00:17:39,096 --> 00:17:45,306
-Well, what is it? You wanted to see me?
-怎么, 什么事？你想要见我？
+00:17:28,640 --> 00:17:32,161
+DOCTOR: And you dropped the hint about the south wing beautifully.
+而且你也很漂亮地把南厢房的线索传递给他了
 
 216
-00:17:47,006 --> 00:17:48,482
-Very good of you to talk to me, gov'nor.
-你愿意跟我谈谈太好了, 先生
+00:17:39,096 --> 00:17:45,306
+TERRALL: Well, what is it? You wanted to see me?
+怎么, 什么事？你想要见我？
 
 217
-00:17:48,650 --> 00:17:51,248
-Well, never mind all that. I'll give you two minutes, no more.
-好了, 别提这个了。我之给你两分钟, 多了没有
+00:17:47,006 --> 00:17:48,482
+TOBY: Very good of you to talk to me, gov'nor.
+你愿意跟我谈谈太好了, 先生
 
 218
-00:17:51,518 --> 00:17:53,174
-I want me rights. No more, no less.
-我想要我的权利, 不多要, 也不能少给
+00:17:48,650 --> 00:17:51,248
+TERRALL: Well, never mind all that. I'll give you two minutes, no more.
+好了, 别提这个了。我之给你两分钟, 多了没有
 
 219
-00:17:53,506 --> 00:17:54,946
-What do you mean, "rights"?
-你什么意思, “权利”？
+00:17:51,518 --> 00:17:53,174
+TOBY: I want me rights. No more, no less.
+我想要我的权利, 不多要, 也不能少给
 
 220
-00:17:55,259 --> 00:17:57,325
-'alf a guinea, you gave me, and it ain't what we said.
-半个基尼, 你给了我, 这不是我们之前说好的
+00:17:53,506 --> 00:17:54,946
+TERRALL: What do you mean, "rights"?
+你什么意思, “权利”？
 
 221
-00:17:57,779 --> 00:17:59,537
-You were lucky to get anything.
-你还能拿到一点就不错了
+00:17:55,259 --> 00:17:57,325
+TOBY: 'alf a guinea, you gave me, and it ain't what we said.
+你刚才就给了半个基尼, 这不是我们之前说好的
 
 222
-00:18:00,044 --> 00:18:01,009
-That ain't fair!
-这不公平
+00:17:57,779 --> 00:17:59,537
+TERRALL: You were lucky to get anything.
+你还能拿到一点就不错了
 
 223
+00:18:00,044 --> 00:18:01,009
+TOBY: That ain't fair!
+这不公平
+
+224
 00:18:01,217 --> 00:18:07,623
-You'll get no more from me. I warn you! Keep away from this house,
+TERRALL: You'll get no more from me. I warn you! Keep away from this house,
 and this property. Find the nearest road to London and take it!
 你别想从我这里得到更多钱。 我警告你, 离这个房子远点儿。找到去伦敦的路, 走吧
 
-224
-00:18:08,974 --> 00:18:13,778
-Oh, yeah, London, sir. Yeah, I daresay
-I could earn something for me stories there.
-哦, 是啊, 伦敦, 先生。好啊, 我敢说到了那里我评讲故事就可以挣到钱啦
-
 225
-00:18:14,150 --> 00:18:14,774
-Stories?
-故事？
+00:18:08,974 --> 00:18:13,778
+TOBY: Oh, yeah, London, sir. Yeah, I daresay
+I could earn something for me stories there.
+哦, 是啊, 伦敦, 先生。好啊, 我敢说, 到了那里我只凭讲故事就可以挣到钱啦
 
 226
+00:18:14,150 --> 00:18:14,774
+TERRALL: Stories?
+故事？
+
+227
 00:18:14,958 --> 00:18:19,728
-Oh, I won't detain an important gentleman like yourself.
+TOBY: Oh, I won't detain an important gentleman like yourself.
 Like as not me two minutes is up anyway.
 哦, 我可不敢再耽误您这样的绅士了。不管喜欢不喜欢, 我的两分钟已经到了
 
-227
+228
 00:18:19,888 --> 00:18:20,994
-What do you mean, "stories"?
+TERRALL: What do you mean, "stories"?
 你什么意思, “讲故事”？
 
-228
+229
 00:18:21,116 --> 00:18:22,849
-Ah, it's all right, sir. I'll take a stroll to London...
+TOBY: Ah, it's all right, sir. I'll take a stroll to London...
 啊, 没事, 先生。我得上路去伦敦了。。。
 
-229
+230
 00:18:22,989 --> 00:18:24,524
-Don't play with me!
+TERRALL: Don't play with me!
 别跟我玩花样！
 
-230
-00:18:24,763 --> 00:18:30,434
-Get off me! If you must know, there's plenty who'd pay to hear
-what I've got to tell 'em.
-离我远点！如果你非得知道, 有好多人愿意付钱听我给他们讲呢
-
 231
-00:18:30,640 --> 00:18:31,460
-Indeed?
-真的？
+00:18:24,763 --> 00:18:30,434
+TOBY: Get off me! If you must know, there's plenty
+who'd pay to hear what I've got to tell 'em.
+把手拿开！如果你非得知道, 有好多人愿意付钱听我给他们讲呢
 
 232
+00:18:30,640 --> 00:18:31,460
+TERRALL: Indeed?
+真的？
+
+233
 00:18:31,667 --> 00:18:36,731
-Yeah. You blows too hot and cold for me
+TOBY: Yeah. You blows too hot and cold for me
 - tellin' me this one minute and that the next, and not payin' up.
 是啊, 你这一会儿阴一会儿晴, 一会儿这么说, 一会儿又那么说, 还不付钱
 
-233
+234
 00:18:36,898 --> 00:18:37,843
-You know nothing.
+TERRALLYou know nothing.
 你什么也不知道
 
-234
+235
 00:18:37,996 --> 00:18:39,816
-Don't I though?
+TOBY: Don't I though?
 我不知道吗, 哈？
 
-235
+236
 00:18:40,327 --> 00:18:41,796
-Hmm. Who'd believe you anyway?
+TERRALL: Hmm. Who'd believe you anyway?
 唔, 谁会信你呢？
 
-236
+237
 00:18:41,953 --> 00:18:43,222
-Pay me off, and there's the end of it!
+TOBY: Pay me off, and there's the end of it!
 把钱付了, 这事儿就算完了
 
-237
+238
 00:18:43,378 --> 00:18:46,335
-Oh, blackmail is it?! Get out!
+TERRALL: Oh, blackmail is it?! Get out!
 噢, 勒索是吗？ 滚出去！
 
-238
+239
 00:19:10,986 --> 00:19:17,185
-Maybe I don't know much to tell, but I'll wager I'll find something
-in the house that's worth me trouble.
+TOBY: Maybe I don't know much to tell, but I'll wager
+I'll find something in the house that's worth me trouble.
 也许我知道得不多, 但我打赌我能在这房子里找到点什么, 肯定有料
 
-239
+240
 00:19:17,386 --> 00:19:19,185
-So, I'll say thank ya, Mr. Terrall, sir!
+TOBY: So, I'll say thank ya, Mr. Terrall, sir!
 那, 我就说声谢谢你了, Terrall 先生
 
-240
+241
 00:19:51,376 --> 00:19:52,958
-It's only me, Mollie!
+JAMIE: It's only me, Mollie!
 是我, Mollie!
 
-241
+242
 00:19:54,015 --> 00:19:57,557
-It's over here, sir. I took it from the master's study.
+MOLLIE: It's over here, sir. I took it from the master's study.
 就在这里, 先生。我从主人的书房里面拿出来的
 
-242
+243
 00:19:57,748 --> 00:19:59,409
-It's marvellous. Thank you!
+JAMIE: It's marvellous. Thank you!
 这太棒了, 谢谢你！
 
-243
+244
 00:19:59,727 --> 00:20:02,440
-'ere, is this what you wanted?
+MOLLIE: 'ere, is this what you wanted?
 这里, 这是你想要的吗？
 
-244
+245
 00:20:04,287 --> 00:20:09,913
-Perfect, yes. Let's see, umm... this is the south wing here?
+JAMIE: Perfect, yes. Let's see, umm... this is the south wing here?
 非常好, 是的, 让我看一下, 嗯。。。这里是南厢房吗？
 
-245
+246
 00:20:10,284 --> 00:20:11,844
-Yes sir, but it's been closed off.
+MOLLIE: Yes sir, but it's been closed off.
 是的先生, 但这里被封了
 
-246
+247
 00:20:12,031 --> 00:20:12,804
-Completely?
+JAMIE: Completely?
 完全封了？
 
-247
+248
 00:20:12,965 --> 00:20:17,894
-Oh, no sir. Only 'cause of some repairs about a twelve-month back.
+MOLLIE: Oh, no sir. Only 'cause of some repairs about a twelve-month back.
 But the door may be locked.
 哦, 不是, 先生。只是一些修缮工作, 都快一年了。不过门可能被锁住了
 
-248
+249
 00:20:18,093 --> 00:20:18,980
-Can you show me?
+JAMIE: Can you show me?
 你能指给我看一下吗？
 
-249
+250
 00:20:19,242 --> 00:20:26,000
-All right. What're you gonna do, sir?
+MOLLIE: All right. What're you gonna do, sir?
 行。你打算做什么, 先生？
 
-250
+251
 00:20:26,668 --> 00:20:28,395
-Off to hunt a few wee ghosties, Mollie.
+JAMIE: Off to hunt a few wee ghosties, Mollie.
 去抓几个小鬼, Mollie
 
-251
+252
 00:20:31,036 --> 00:20:37,637
-Every single one of Jamie's reactions will be recorded
+DOCTOR: Every single one of Jamie's reactions will be recorded
 on these Dalek machines?
 Jamie 的每个动作都会在 Dalek 的这些机器上记录下来？
 
-252
+253
 00:20:38,015 --> 00:20:43,435
-And then transformed into thought patterns on silver wire.
+MAXTIBLE: And then transformed into thought patterns on silver wire.
 A wonderful creation!
 然后再转化成思维模型, 存储到银线。多么漂亮的发明！
 
-253
+254
 00:20:43,708 --> 00:20:50,539
-It is for you, Doctor, to select the major feelings
+DELAK: It is for you, Doctor, to select the major feelings
 to make up this "human factor".
 这是为你准备的, 博士, 你可以用它来挑选出那些组成“人类特质”的主要情感
 
-254
+255
 00:20:50,800 --> 00:20:51,924
-Oh, yes. I quite understand.
+DOCTOR: Oh, yes. I quite understand.
 哦, 是的, 我完全明白
 
-255
+256
 00:20:52,160 --> 00:20:55,390
-We can rely on the Doctor to give us all cooperation.
+MAXTIBLE: We can rely on the Doctor to give us all cooperation.
 我们可以信赖博士给予我们全面的合作
 
-256
+257
 00:20:55,558 --> 00:20:58,227
-We shall watch your every move.
+DELAK: We shall watch your every move.
 我们会盯着你的一举一动
 
-257
+258
 00:20:58,554 --> 00:21:03,824
-I'm sure you will. And every step of Jamie's progress will be covered?
+DOCTOR: I'm sure you will. And every step of Jamie's progress will be covered?
 我确信你们会这样的。Jamie 的每一步也会包含在内吧？
 
-258
+259
 00:21:04,254 --> 00:21:05,203
-Yes.
+DELAK: Yes.
 是的
 
-259
+260
 00:21:07,246 --> 00:21:10,531
-The young human being is on his way.
+DALEK: The young human being is on his way.
 这位年轻人已经在路上了
 
-260
+261
 00:21:11,260 --> 00:21:13,771
-Then the recording machines can be set in action.
+DOCTOR: Then the recording machines can be set in action.
 那么录制设备就可以开启了
 
-261
+262
 00:21:22,679 --> 00:21:23,402
-Here!
+JAMIE: Here!
 这里
 
-262
+263
 00:21:23,593 --> 00:21:29,863
-Yes, sir. I once remember the master stepping away from here.
+MOLLIE: Yes, sir. I once remember the master stepping away from here.
 When he saw me, he was very cross and told me to keep away.
 好的, 先生。我记得有一次主人就从这里走过去的。他看见我的时候非常生气, 让我离开
 
-263
+264
 00:21:30,042 --> 00:21:30,878
-I see.
+JAMIE: I see.
 我明白了
 
-264
+265
 00:22:14,967 --> 00:22:16,939
-What was that? What was that?!
+MOLLIE: What was that? What was that?!
 那是什么？那是什么？
 
-265
+266
 00:22:17,188 --> 00:22:20,216
-That was no ghost, Mollie, that's for sure. That was a human voice!
+JAMIE: That was no ghost, Mollie, that's for sure. That was a human voice!
 那不是鬼, Mollie, 这是肯定的。那是一个人的声音！
 
-266
+267
 00:22:20,550 --> 00:22:21,477
-Oh, sir!
+MOLLIE: Oh, sir!
 哦, 先生！
 
-267
+268
 00:22:21,728 --> 00:22:24,747
-Look Mollie, take the candle and go back to your room. Will you do that?
+JAMIE: Look Mollie, take the candle and go back to your room. Will you do that?
 你看, Mollie, 拿着蜡烛, 回到你的房间去。你可以吗？
 
-268
+269
 00:22:24,935 --> 00:22:25,474
-Yes sir.
+MOLLIE: Yes sir.
 是的先生
 
-269
+270
 00:22:25,693 --> 00:22:26,661
-Now, do you want me to see you safely there?
+JAMIE: Now, do you want me to see you safely there?
 那, 你期望我陪你过去, 以确保你安全到达吗？
 
-270
+271
 00:22:26,826 --> 00:22:28,568
-No, no. I'll be all right.
+MOLLIE: No, no. I'll be all right.
 不, 不用, 我没事的
 
-271
+272
 00:24:00,703 --> 00:24:03,439
 Hello. Who are you?
-你好, 你是谁？
+JAMIE: 你好, 你是谁？
 
