@@ -1,509 +1,534 @@
 1
+00:00:05,200 --> 00:00:15,000
+Doctor Who (1963) 04x09  The Evil of the Daleks (Episode 2)
+《神秘博士》老版 第四季第九集 《Daleks 的邪恶》 (第二部分)
+
+2
+00:00:20,200 --> 00:00:25,000
+【翻译】巴蛮子sz
+
+3
+00:00:25,200 --> 00:00:30,000
+【时间轴】巴蛮子sz
+
+4
+00:00:30,200 --> 00:00:35,000
+【校对】巴蛮子sz
+
+5
+00:00:35,200 --> 00:00:40,000
+<i>基于 opentitles.org 英文字幕翻译</i>
+
+6
+00:00:40,200 --> 00:00:45,006
+Sincro: wyxchari
+
+7
 00:00:48,868 --> 00:00:50,582
 DALEK: <i>Who are you?</i>
 你是谁
 
-2
+8
 00:00:53,936 --> 00:00:56,887
-DELAK: <i>Who are you?</i>
+DALEK: <i>Who are you?</i>
 你是谁
 
-3
+9
 00:00:57,049 --> 00:00:59,511
-DELAK: <i>Answer!</i>
+DALEK: <i>Answer!</i>
 回答
 
-4
+10
 00:01:33,763 --> 00:01:36,555
 - DOCTOR: Why are you being so cautious?
 - JAMIE: Ssh!
 - 你为什么这么谨慎  - 嘘
 
-5
+11
 00:01:36,716 --> 00:01:39,463
 JAMIE: They left the door open for us, didn't they?
 他们给我们留门了，对不
 
-6
+12
 00:01:43,062 --> 00:01:46,364
 - JAMIE: It's half past the nine o'clock.
 - DOCTOR: Yes, I know.
 - 这才9点半呢  - 是的，我知道
 
-7
+13
 00:01:46,534 --> 00:01:50,200
 JAMIE: They made the appointment for ten.  Why have we come early?
 他们约的时间是10点，我们这么早来干什么？
 
-8
+14
 00:01:51,961 --> 00:01:57,182
 DOCTOR: The early bird catches the worm, Jamie.
 Do be quiet, there's a good chap.
 早起的鸟儿有虫吃，Jamie。别出声，好小伙
 
-9
+15
 00:01:57,348 --> 00:01:59,811
 DOCTOR: And don't knock into anything.
 还有别撞上任何东西
 
-10
+16
 00:02:03,175 --> 00:02:04,604
 DOCTOR: Ssh!
 嘘！
 
-11
+17
 00:02:06,088 --> 00:02:08,074
 JAMIE: Any good, this?
 有什么发现吗
 
-12
+18
 00:02:08,243 --> 00:02:10,910
 DOCTOR: It's interesting.
 这很有意思
 
-13
+19
 00:02:11,076 --> 00:02:14,141
 DOCTOR: In fact, Jamie, it's quite remarkable.
 事实上，Jamie，这很令人吃惊
 
-14
+20
 00:02:14,309 --> 00:02:18,054
 JAMIE: You told me outside it said "Genuine Victorian Antiques".
 在外面时你说这是“维多利亚真品古董”
 
-15
+21
 00:02:18,220 --> 00:02:20,444
 JAMIE: All the stuff in here is brand new!
 这里所有的东西都是新的！
 
-16
+22
 00:02:20,614 --> 00:02:23,996
 - DOCTOR: You noticed that.
 - JAMIE: Of course I did. The man's a rogue.
 - 你注意到啦  - 那当然。这人是个大盗
 
-17
+23
 00:02:24,166 --> 00:02:25,641
 DOCTOR: Yes, so it seems.
 是的，看来很像
 
-18
+24
 00:02:25,802 --> 00:02:28,593
 - DOCTOR: Except...
 - JAMIE: Except what?
 - 除非。。。  - 除非什么？
 
-19
+25
 00:02:28,755 --> 00:02:34,419
 DOCTOR: Except that all these things are not reproductions.
 They're all genuine.
 除非这些都不是新生产的，它们都是真品
 
-20
+26
 00:02:34,582 --> 00:02:37,567
 - JAMIE: That's ridiculous!
 - DOCTOR: Look at this.
 - 这不可能！- 你看看这个
 
-21
+27
 00:02:38,413 --> 00:02:41,318
 DOCTOR: "To one deed box, four guineas. "
 支出四基尼，契税箱
 
-22
+28
 00:02:41,485 --> 00:02:46,706
 DOCTOR: This is a bill from William Deering and Son. 1866.
 这是一张记账单，属于 William Deering and Son，1866年
 
-23
+29
 00:02:46,873 --> 00:02:48,743
 JAMIE: Then it's a forgery.
 那它就是伪造的
 
-24
+30
 00:02:48,903 --> 00:02:52,969
 DOCTOR: If you were going to make a forgery, wouldn't you dirty it up a bit?
 如果你要伪造一个东西, 你不会来点做旧什么的？
 
-25
+31
 00:02:53,138 --> 00:02:56,645
 DOCTOR: Yellow the edges, crinkle it up? This is brand-new.
 把边缘搞成黄色，把它弄皱一点？这张是新的
 
-26
+32
 00:02:56,810 --> 00:02:58,682
 - JAMIE: I've got an idea.   - DOCTOR: What?
 - 我有个想法 - 什么
 
-27
+33
 00:02:58,845 --> 00:03:01,399
 - JAMIE: All the stuff in here is genuine...   - DOCTOR: Yes.
 - 这里所有东西都是真的。。。 - 是吗
 
-28
+34
 00:03:01,559 --> 00:03:03,545
 - JAMIE: .. but brand-new. - DOCTOR: Well done.
 - 但都是新的 - 猜得不错
 
-29
+35
 00:03:03,714 --> 00:03:08,379
 JAMIE: That is impossible, unless Waterfield could have invented a time machine,
 但这是不可能的，除非 Waterfield 建造了一架时间机器
 
-30
+36
 00:03:08,542 --> 00:03:12,004
 JAMIE: and he's bringing this stuff back from Victorian times.
 然后他从维多利亚时期带回了这东西
 
-31
+37
 00:03:12,174 --> 00:03:17,713
 DOCTOR: It's not very likely, but the only way
 to find out is to ask Waterfield.
 这不太可能，不过搞明白的唯一办法是问问这位 Waterfield
 
-32
+38
 00:03:27,977 --> 00:03:29,963
 WATERFIELD: Kennedy!
 
-33
+39
 00:03:36,637 --> 00:03:37,953
 WATERFIELD: What happened?
 什么情况？
 
-34
+40
 00:03:38,113 --> 00:03:41,859
-DELAK: <i>The human discovered our communication system.</i>
+DALEK: <i>The human discovered our communication system.</i>
 这个人发现了我们的通讯系统
 
-35
+41
 00:03:42,024 --> 00:03:45,089
 - WATERFIELD: <i>And you murdered him?</i>
-- DELAK: <i>He would have betrayed us.</i>
+- DALEK: <i>He would have betrayed us.</i>
 - 然后你就杀了他？  - 他很可能出卖我们
 
-36
+42
 00:03:45,257 --> 00:03:47,368
 - WATERFIELD: <i>You don't have to kill!</i>
-- DELAK: <i>Silence!</i>
+- DALEK: <i>Silence!</i>
 - 你没必要要他的命啊！ - 收声！
 
-37
+43
 00:03:47,531 --> 00:03:52,469
 WATERFIELD: What are you dragging me into? You took a human life.
 Don't you understand that?
 你都把我拖到什么事里面了啊？你夺走了一个人的生命，你明白吗？
 
-38
+44
 00:03:52,640 --> 00:03:55,431
-- DELAK: <i>That is of no consequence.</i>
+- DALEK: <i>That is of no consequence.</i>
 - WATERFIELD: <i>No consequence?</i>
 - 这并没有什么后果 - 没有后果？
 
-39
+45
 00:03:55,593 --> 00:03:59,973
-DELAK: <i>There is only one form of life that matters.</i>
+DALEK: <i>There is only one form of life that matters.</i>
 唯一需要在乎的就只有一种生命形式
 
-40
+46
 00:04:00,142 --> 00:04:01,776
-DELAK: <i>Dalek life.</i>
+DALEK: <i>Dalek life.</i>
 Dalek 的生命
 
-41
+47
 00:04:01,938 --> 00:04:05,717
-DELAK: <i>Obey your orders, Waterfield!</i>
+DALEK: <i>Obey your orders, Waterfield!</i>
 服从命令，Waterfield！
 
-42
+48
 00:04:08,961 --> 00:04:13,150
 WATERFIELD: No, wait! What am I to do with the body?
 不，等等！我拿这尸体怎么办？
 
-43
+49
 00:04:14,229 --> 00:04:16,216
 WATERFIELD: I can't...
 我总不能。。。
 
-44
+50
 00:04:16,384 --> 00:04:18,291
 WATERFIELD: I can't go on with this.
 我没法干下去了
 
-45
+51
 00:04:21,612 --> 00:04:23,802
 DOCTOR: I'm sure I heard somebody shouting.
 我肯定听到了一点什么
 
-46
+52
 00:04:24,964 --> 00:04:27,075
 - DOCTOR: We've got to get in.
 - JAMIE: Use the wire.
 - 我们得进去 - 用这个试试
 
-47
+53
 00:04:27,239 --> 00:04:29,111
 DOCTOR: It's too pliable.
 这太软了
 
-48
+54
 00:05:02,437 --> 00:05:05,660
 PERRY: Oh! What are you doing here?
 噢，你们在这里干什么？
 
-49
+55
 00:05:05,829 --> 00:05:08,620
 - DOCTOR: You made the appointment!
 - PERRY: For ten o'clock.
 - 你约我们来的啊   - 说的是10点
 
-50
+56
 00:05:08,782 --> 00:05:11,926
 DOCTOR: We thought we'd be early. What are you doing here?
 我觉得应该早点来。你在这里干什么？
 
-51
+57
 00:05:12,094 --> 00:05:15,397
 - PERRY: I work here.
 - JAMIE: Then what are you creeping about for?
 - 我在这里工作啊  - 那你怎么鬼鬼祟祟的？
 
-52
+58
 00:05:15,566 --> 00:05:19,709
 DOCTOR: I think you've got some explaining to do, Mr Kenneth Perry!
 我觉得有些事情你得解释一下，Kenneth Perry先生！
 
-53
+59
 00:05:19,876 --> 00:05:23,985
 PERRY: My name isn't Kenneth. It's Keith. Look, I don't understand this.
 我的名字不是 Kenneth，而是 Keith！不过，我没搞懂
 
-54
+60
 00:05:24,146 --> 00:05:27,494
 DOCTOR: It's Keith... Do you know a man called Bob Hall?
 是 Keith ？那你认识一个叫做 Bob Hall 的人吗？
 
-55
+61
 00:05:27,658 --> 00:05:29,848
 PERRY: He's a man Mr Waterfield employs.
 他是 Waterfield 先生雇佣的一个人
 
-56
+62
 00:05:30,012 --> 00:05:33,882
 DOCTOR: He keeps some very rough company, including a man called Ken.
 他有些不怎么样的同伙，其中有一个叫做 Ken
 
-57
+63
 00:05:34,043 --> 00:05:36,347
 PERRY: Ken? Kennedy! 
 Ken？是 Kennedy 吧
 
-58
+64
 00:05:36,517 --> 00:05:39,468
 - DOCTOR: What? What do you know about Kennedy?
 - PERRY: Wait a minute. This is all too quick.
 - 关于 Kennedy 你都知道些什么？ - 等一下，咱们别这么快
 
-59
+65
 00:05:39,630 --> 00:05:42,932
 PERRY: I'll answer your questions if you'll answer mine.
 如果你先回答我的问题，我就回答你们的
 
-60
+66
 00:06:16,464 --> 00:06:19,846
 PERRY: This old police box was for a collector of curios.
 这个警察亭是给一个收藏家准备的
 
-61
+67
 00:06:20,016 --> 00:06:22,967
 - DOCTOR: But it belongs to me!
 - PERRY: Why is it so important to you?
 - 但它是我的！ - 为什么它对你这么重要？
 
-62
+68
 00:06:23,129 --> 00:06:26,193
 DOCTOR: Because... because of what's inside it,
 and because it happens to be my property.
 因为它里面的东西，因为它碰巧是我的财产
 
-63
+69
 00:06:26,361 --> 00:06:28,869
 - DOCTOR: Where is it?
 - PERRY: At the back.
 - 它在哪儿？     - 就在后面
 
-64
+70
 00:06:29,035 --> 00:06:33,177
 - DOCTOR: Is there another way through, this door is locked.
 - PERRY: We might be able to get over the yard gates.
 - 那还有别的路过去吗？这个门锁住了 - 我们得先穿过院门
 
-65
+71
 00:06:33,345 --> 00:06:38,487
 - PERRY: This door has an electric lock on it.
 - DOCTOR: You're going to show me where this yard is.
 - 那门上有一个电子锁  - 你要给我们说一下院子在哪儿
 
-66
+72
 00:06:38,652 --> 00:06:41,796
 PERRY: I see. But If it's a police box, shouldn't we get the police?
 我明白了。不过如果这是一个警察亭，我们是不是应该叫警察来？
 
-67
+73
 00:06:41,965 --> 00:06:43,951
 JAMIE: Doctor!
 博士！
 
-68
+74
 00:06:59,125 --> 00:07:01,111
 PERRY: That's Kennedy!
 这是 Kennedy！
 
-69
+75
 00:07:05,550 --> 00:07:07,059
 DOCTOR: He's dead.
 他死了
 
-70
+76
 00:07:07,665 --> 00:07:10,332
 - DOCTOR: What are you doing?
 - PERRY: Getting the police.
 - 你要干什么？        - 叫警察
 
-71
+77
 00:07:12,972 --> 00:07:17,482
 PERRY: Don't touch anything. I'll be as quick as I can.
 别碰任何东西, 我尽量快点
 
-72
+78
 00:07:17,362 --> 00:07:19,666
 - JAMIE: Should we have let him go?
 - DOCTOR: He's right.
 - 我们应该让他走吗？      - 他做得没错
 
-73
+79
 00:07:19,836 --> 00:07:23,503
 - JAMIE: But the Tardis!
 - DOCTOR: We'll have to find it before he comes back.
 - 但是 TARDIS 呢？  - 我们必须在他回来之前找到它
 
-74
+80
 00:07:23,667 --> 00:07:26,539
 DOCTOR: I wonder what this telephone interference is.
 我很好奇这电话干扰是怎么回事
 
-75
+81
 00:07:26,700 --> 00:07:31,558
 - JAMIE: Looks as if Waterfield's cleared out.
 - DOCTOR: Why make an appointment to see us at ten?
 - 看起来 Waterfield 早跑掉了 - 他为什么要约我们在10点见面呢？
 
-76
+82
 00:07:31,729 --> 00:07:36,837
 JAMIE: Obviousely he didn't know he was going to have a fight
 with Kennedy. Let's find the Tardis and go!
 他并不知道他要跟Kennedy 搏斗一场。我们还是找到TARDIS 离开吧
 
-77
+83
 00:07:36,996 --> 00:07:39,380
 DOCTOR: Yes, the Tardis...
 是的，找TARDIS
 
-78
+84
 00:07:39,550 --> 00:07:40,980
 DOCTOR: How did he die?
 他是怎么死的
 
-79
+85
 00:07:41,147 --> 00:07:43,893
 DOCTOR: His limbs are stiff, his hands clenched..
 他四肢僵硬，双手紧握
 
-80
+86
 00:07:44,060 --> 00:07:46,807
 DOCTOR: He died in horrible agony. Look at his face.
 他死的时候肯定很的痛苦，看他的脸
 
-81
+87
 00:07:46,973 --> 00:07:49,243
 - DOCTOR: Hello...
 - JAMIE: What?
 - 看看        - 什么？
 
-82
+88
 00:07:52,640 --> 00:07:55,908
 - JAMIE: It's your picture!
 - DOCTOR: Yes.
 - 是你的照片           - 是的
 
-83
+89
 00:07:56,710 --> 00:08:01,216
 DOCTOR: Now, he fell like that, with his arm stretched out.
 看，他的姿势好像是要去够什么东西
 
-84
+90
 00:08:03,016 --> 00:08:08,078
 DOCTOR: Jamie，go out into the hall,
 and measure the length of it up to the door here.
 Jamie, 你走到大厅去。量一下那里到这个门的距离
 
-85
+91
 00:08:19,098 --> 00:08:22,605
 - JAMIE: 14... 15.
 - DOCTOR: It's only five from the door to the wall.
 - 14。。。15   - 从门到墙这里只有5步
 
-86
+92
 00:08:22,770 --> 00:08:25,675
 DOCTOR: There must be another room behind here.
 这后面肯定还有一个房间
 
-87
+93
 00:08:29,713 --> 00:08:31,938
 JAMIE: Hey, Doctor! There's a keyhole.
 嘿，博士！这里有个锁孔
 
-88
+94
 00:08:32,826 --> 00:08:35,539
 DOCTOR: You're right. Waterfield will have the key.
 你说得对，Waterfield 应该有钥匙
 
-89
+95
 00:08:35,700 --> 00:08:38,809
 DOCTOR: We'd better find something to prise it open with.
 我们最后找个什么东西把它翘开
 
-90
+96
 00:08:51,982 --> 00:08:54,171
 DOCTOR: Well...
 好了。。。
 
-91
+97
 00:08:55,094 --> 00:08:57,081
 DOCTOR: Look at this.
 看看这个
 
-92
+98
 00:08:57,249 --> 00:09:01,119
 DOCTOR: That's where your telephone interference is coming from.
 电话干扰就是从这里来的
 
-93
+99
 00:09:02,717 --> 00:09:04,862
 DOCTOR: This is interesting.
 这很有意思
 
-94
+100
 00:09:05,031 --> 00:09:08,538
 - JAMIE: Hey! The other half of your picture!
 - DOCTOR: Don't open that!
 - 嘿！你照片的另一半！   - 别打开那个！
 
-95
+101
 00:09:17,761 --> 00:09:20,111
 PERRY: This way. Along here.
 这边，在这里
 
-96
+102
 00:09:30,492 --> 00:09:32,319
 PERRY: Here we are.
 我们到了
@@ -513,982 +538,982 @@ PERRY: 00:09:32,487 --> 00:09:37,266
 That's funny... There were a couple of other gentlemen here.
 奇怪。。。刚才这里还有两个人呢
 
-97
+103
 00:09:37,436 --> 00:09:42,055
 PERRY: They seem to have... disappeared.
 他们好像已经。。。消失了
 
-98
+104
 00:10:13,631 --> 00:10:15,618
 MOLLIE: Hello, sir.
 你好，先生
 
-99
+105
 00:10:15,786 --> 00:10:17,851
 MOLLIE: Are you feeling better?
 你感觉好点了吗
 
-100
+106
 00:10:18,021 --> 00:10:21,323
 MOLLIE: Oh, you did have a party last night, didn't you, sir!
 哦，你昨晚肯定参加聚会了，对不
 
-101
+107
 00:10:22,012 --> 00:10:26,200
 - MOLLIE: The master sent this in for you.
 - DOCTOR: The master?
 - 主人要我把这个送进来   - 主人？
 
-102
+108
 00:10:26,361 --> 00:10:29,948
 - DOCTOR: Mr Waterfield?
 - MOLLIE: No, sir. Mr Maxtible.
 - Waterfield 先生吗？  - 不，先生。是 Maxtible 先生
 
-103
+109
 00:10:30,113 --> 00:10:35,334
 MOLLIE: Mr Waterfield came back from abroad last night, sir,
 with you and the young gentleman.
 Waterfield 先生才回来，先生，跟你和那位年轻绅士一起的啊
 
-104
+110
 00:10:35,500 --> 00:10:38,802
 - MOLLIE: Don't you remember?
 - DOCTOR: Not very well, no.
 - 你不记得了吗？ - 记不太清了
 
-105
+111
 00:10:40,608 --> 00:10:41,924
 MOLLIE: Ooh!
 噢！
 
-106
+112
 00:10:42,085 --> 00:10:43,639
 MOLLIE: I'd best not wake him.
 我没有吵醒他吧
 
-107
+113
 00:10:43,801 --> 00:10:46,990
 - DOCTOR: What's your name?
 - MOLLIE: Mollie Dawson, sir.
 - 你叫什么名字   - 我叫 Mollie Dawson, 先生
 
-108
+114
 00:10:47,153 --> 00:10:51,455
 - DOCTOR: This stuff works remarkably quickly.
 - MOLLIE: Am I to pour some more?
 - 这东西见效太快了  - 要我再倒一点吗
 
-109
+115
 00:10:51,623 --> 00:10:56,401
 DOCTOR: No, thank you, Mollie, but you can tell me what the date is.
 不了，谢谢你，Mollie。不过你可以跟我说说今天日期是什么
 
-110
+116
 00:10:56,571 --> 00:10:58,159
 - MOLLIE: The date?
 - DOCTOR: Yes.
 - 日期？ - 是的
 
-111
+117
 00:10:58,327 --> 00:11:00,789
 DOCTOR: I am feeling very much better,
 我现在感觉好多了
 
-112
+118
 00:11:00,961 --> 00:11:05,898
 DOCTOR: but I don't seem to be able to remember the date and where I am.
 但我好像想不起来日期，也想不起来我在哪儿了
 
-113
+119
 00:11:06,069 --> 00:11:08,531
 MAXTIBLE: Mollie, that will do.
 Mollie, 这样就行了
 
-114
+120
 00:11:10,020 --> 00:11:13,686
 MAXTIBLE: The answers you require, sir, might come better from me.
 你想要的答案，先生，可能我能给出
 
-115
+121
 00:11:13,851 --> 00:11:17,959
 MAXTIBLE: My name is Theodore Maxtible, and I am the owner of this house.
 我的名字是 Theodore Maxtible，我是这个房子的主人
 
-116
+122
 00:11:18,121 --> 00:11:20,186
 MAXTIBLE: Pray don't get up.
 请不要起来
 
-117
+123
 00:11:20,356 --> 00:11:24,305
 MAXTIBLE: I have the greatest sympathy for your condition
 我对你的处境深表同情
 
-118
+124
 00:11:24,466 --> 00:11:27,814
 MAXTIBLE: since I was the cause of it.
 因为都是因我而起的
 
-119
+125
 00:11:27,978 --> 00:11:31,280
 DOCTOR: And this is Mr Edward Waterfield, I presume.
 而这位，我猜是 Edward Waterfield 先生
 
-120
+126
 00:11:32,208 --> 00:11:36,316
 - DOCTOR: You don't keep appointments, do you?
 - WATERFIELD: There were circumstances.
 - 你没打算赴约，是不？ - 情况有点复杂
 
-121
+127
 00:11:36,478 --> 00:11:41,494
 - DOCTOR: Yes, there were!
 - MAXTIBLE: Please, Doctor. First things first.
 - 是的，复杂！ - 博士，先说重要的事情吧
 
-122
+128
 00:11:41,666 --> 00:11:44,696
 MAXTIBLE: You asked what date it was and where you were.
 你在问你在何时何地
 
-123
+129
 00:11:44,858 --> 00:11:46,685
 DOCTOR: Yes. Well?
 嗯，你知道？
 
-124
+130
 00:11:46,854 --> 00:11:49,884
 MAXTIBLE: You're in my house, some miles from Canterbury.
 你在我的房子里，离坎特伯雷只有几里路
 <i>（注：坎特伯雷：英国英格兰东南部的市鎮, 离伦敦有几十公里）</i>
 
-125
+131
 00:11:50,046 --> 00:11:55,506
 MAXTIBLE: The date is June 2nd 1866.
 当前日期是1866年6月2号
 
-126
+132
 00:11:56,392 --> 00:11:59,535
 DOCTOR: What do you think you're up to? You steal my property,
 你觉得你在干什么事？你偷了我的财产，
 
-127
+133
 00:11:59,704 --> 00:12:02,258
 DOCTOR: spirit Jamie and me 100 years back in time
 and murder a man along the way.
 迷倒了 Jamie 和我, 把我们骗到了100年以前, 还顺道杀了一个人
 
-128
+134
 00:12:02,418 --> 00:12:05,720
 WATERFIELD: We had nothing to do with the death of that man.
 我们跟那个人的死没有关系
 
-129
+135
 00:12:05,889 --> 00:12:08,874
 - DOCTOR: I don't believe you.
 - MAXTIBLE: You will believe, Doctor.
 - 我不相信你  - 你会相信的，博士
 
-130
+136
 00:12:09,042 --> 00:12:11,550
 MAXTIBLE: All of us are victims of a higher power.
 我们都是受害者，有一股强大的力量
 
-131
+137
 00:12:11,716 --> 00:12:15,620
 MAXTIBLE: A power more evil and terrible than the human brain can imagine.
 一股邪恶而可怕的力量，远超出人类所能想象
 
-132
+138
 00:12:15,786 --> 00:12:18,578
 DOCTOR: Power? Victims? What do you mean?
 力量？受害者？你什么意思？
 
-133
+139
 00:12:19,418 --> 00:12:22,244
 - WATERFIELD: They've taken my daughter Victoria.
 - DOCTOR: Who are they?
 - 他们抓走了我女儿 Victoria  - 他们是谁？
 
-134
+140
 00:12:22,411 --> 00:12:26,031
 MAXTIBLE: You will not be kept in suspense very much longer, Doctor.
 你很快就会知道了，博士
 
-135
+141
 00:12:26,202 --> 00:12:31,821
 MAXTIBLE: Pray come with us, and we will show you how it all began.
 请跟我们来吧，我们跟你说明一下这一切是怎么开始的
 
-136
+142
 00:12:33,625 --> 00:12:37,608
 WATERFIELD: Doctor, do whatever it is that they ask. I beg of you.
 博士，不管他们要求你做什么，你都照做吧，我求你了
 
-137
+143
 00:12:37,775 --> 00:12:40,760
 WATERFIELD: My daughter's life is in your hands.
 我女儿的性命在你的手上
 
-138
+144
 00:12:40,928 --> 00:12:44,514
 DOCTOR: I will listen. I promise.
 我会仔细听，我保证
 
-139
+145
 00:12:48,271 --> 00:12:51,335
 DOCTOR: Is er... Is that your daughter?
 那个。。。那是你的女儿？
 
-140
+146
 00:12:51,503 --> 00:12:55,850
 WATERFIELD: No, sir. That is a painting of my wife as a young girl.
 不，先生，那画的是我的妻子，她年轻的时候
 
-141
+147
 00:12:56,013 --> 00:13:00,235
 WATERFIELD: She is dead now, rest her soul, but Victoria is the image of her.
 她已经去世了，愿她安息。不过 Victoria 长得很像她
 
-142
+148
 00:13:19,518 --> 00:13:21,583
-DELAK: <i>You have not eaten.</i>
+DALEK: <i>You have not eaten.</i>
 你还没有吃饭
 
-143
+149
 00:13:22,670 --> 00:13:27,051
-DELAK: <i>You will eat. That is an order. Answer!</i>
+DALEK: <i>You will eat. That is an order. Answer!</i>
 你得吃，这是命令，回答我!
 
-144
+150
 00:13:28,297 --> 00:13:29,852
 VICTORIA: Yes.
 好
 
-145
+151
 00:13:30,013 --> 00:13:34,315
-DELAK: <i>You will not feed the flying pests outside.</i>
+DALEK: <i>You will not feed the flying pests outside.</i>
 你不得喂食外面的飞鸟
 
-146
+152
 00:13:34,483 --> 00:13:36,151
-DELAK: <i>Answer!</i>
+DALEK: <i>Answer!</i>
 回答
 
-147
+153
 00:13:36,319 --> 00:13:38,033
 VICTORIA: Yes.
 好
 
-148
+154
 00:13:38,194 --> 00:13:40,498
-DELAK: <i>Move to the machine.</i>
+DALEK: <i>Move to the machine.</i>
 到机器那里去
 
-149
+155
 00:13:40,668 --> 00:13:42,655
-DELAK: <i>Move!</i>
+DALEK: <i>Move!</i>
 去
 
-150
+156
 00:13:56,232 --> 00:13:58,219
 VICTORIA: No.
 不
 
-151
+157
 00:14:01,979 --> 00:14:03,965
-DELAK: <i>Move!</i>
+DALEK: <i>Move!</i>
 走!
 
-152
+158
 00:14:04,134 --> 00:14:06,120
-DELAK: <i>Move!</i>
+DALEK: <i>Move!</i>
 走!
 
-153
+159
 00:14:13,272 --> 00:14:17,938
-DELAK: <i>The weight of your body has fallen by 17 ounces.</i>
+DALEK: <i>The weight of your body has fallen by 17 ounces.</i>
 你的体重下降了17盎司
 
-154
+160
 00:14:19,179 --> 00:14:21,733
 VICTORIA: What do you expect?
 你还能指望怎么样？
 
-155
+161
 00:14:21,892 --> 00:14:25,762
 VICTORIA: What do you expect? For pity's sake, let me go!
 你还能指望怎么样？ 可怜可怜我, 放我走吧！
 
-156
+162
 00:14:25,923 --> 00:14:28,953
-DELAK: <i>Speak when you are told to speak!</i>
+DALEK: <i>Speak when you are told to speak!</i>
 让你说话的时候再说话
 
-157
+163
 00:14:32,268 --> 00:14:34,095
-DELAK: <i>More food will come.</i>
+DALEK: <i>More food will come.</i>
 还有更多食物会送过来
 
-158
+164
 00:14:34,263 --> 00:14:37,725
-DELAK: <i>Eat it, or you will be fed by force!</i>
+DALEK: <i>Eat it, or you will be fed by force!</i>
 吃了它, 否则你会被强制喂食!
 
-159
+165
 00:15:02,238 --> 00:15:05,462
 MAXTIBLE: Here we are, Doctor. This is hallowed ground.
 我们走吧, 博士。这里地方比较神圣
 
-160
+166
 00:15:06,109 --> 00:15:09,333
 MAXTIBLE: Here we shall not be disturbed by the servants.
 在这里我们不会有仆人来打扰
 
-161
+167
 00:15:11,018 --> 00:15:16,443
 DOCTOR: Yes, very impressive. Now perhaps you'll explain what all this is about?
 嗯, 挺不错。现在你应该可以解释一下了吧, 这都是怎么回事？
 
-162
+168
 00:15:16,605 --> 00:15:19,112
 MAXTIBLE: Patience, my dear sir.
 稍安勿躁, 亲爱的先生
 
-163
+169
 00:15:19,276 --> 00:15:23,577
 DOCTOR: Patience?! You don't seem to understand what's happened.
 A man has been murdered!
 稍安勿躁？你们好像还没搞懂发生了什么？都有个人被杀了！
 
-164
+170
 00:15:23,276 --> 00:15:25,577
 DOCTOR: You behave as if we're going on a Sunday School outing.
 你还弄得好像我们要去学校组织的周日郊游似的
 
-165
+171
 00:15:25,743 --> 00:15:30,170
 MAXTIBLE: Neither Waterfield nor I were responsible for his death. Cigar?
 他的死不是 Waterfield 的错, 也不是我的错。来根烟？
 
-166
+172
 00:15:30,852 --> 00:15:32,917
 DOCTOR: Why have you brought us here?
 你为什么带我们来这里？
 
-167
+173
 00:15:33,086 --> 00:15:36,956
 DOCTOR: Who are these enemies of yours, these ones you say control you?
 你们的敌人是谁？ 你说有人在控制你们？
 
-168
+174
 00:15:37,117 --> 00:15:40,182
 - MAXTIBLE: Brilliant minds, Doctor.
 - WATERFIELD: They are monsters!
 - 高智商的头脑, 博士    - 他们都是怪物
 
-169
+175
 00:15:40,349 --> 00:15:44,810
 - MAXTIBLE: Oh, I admit, Waterfield, they have behaved callously.
 - WATERFIELD: Inhuman monsters!
 - 哦, 我得承认, Waterfield, 他们做事情很冷血   - 不是人！
 
-170
+176
 00:15:44,979 --> 00:15:47,282
 - DOCTOR: Inhuman?
 - WATERFIELD: Creations of the devil!
 - 不是人？  - 是邪恶的缔造者！
 
-171
+177
 00:15:47,453 --> 00:15:50,324
 - MAXTIBLE: Let me explain.
 - DOCTOR: Please do!
 - 我来解释一下    - 赶紧的
 
-172
+178
 00:15:52,042 --> 00:15:57,263
 MAXTIBLE: I've always been fascinated by the concept of travelling through time.
 我一直都对时间旅行这个事情很着迷
 
-173
+179
 00:15:59,066 --> 00:16:03,288
 MAXTIBLE: Waterfield here is an expert in certain technical matters,
 这位 Waterfield 先生在技术方面是一位专家
 
-174
+180
 00:16:03,456 --> 00:16:06,565
 MAXTIBLE: and I have the money to indulge my whims.
 我也有点钱可以砸在自己的古怪想法上
 
-175
+181
 00:16:06,728 --> 00:16:11,586
 MAXTIBLE: Everything you see about you was constructed by us two.
 你在这里看到的所有东西都是我们俩建造的
 
-176
+182
 00:16:11,756 --> 00:16:15,978
 - DOCTOR: To try to find a way of exploring time?
 - MAXTIBLE: Yes.
 - 为了找到穿越时间的方法？  - 是的
 
-177
+183
 00:16:16,146 --> 00:16:17,814
 MAXTIBLE: Now, this is my theory.
 好了, 现在说说我的理论
 
-178
+184
 00:16:17,982 --> 00:16:21,648
 - MAXTIBLE: A mirror reflects an image, does it not?
 - DOCTOR: Yes.
 - 一面镜子可以反射图像, 对不？  - 可以
 
-179
+185
 00:16:21,813 --> 00:16:27,272
 MAXTIBLE: So, you may be standing there
 and yet appear to be standing 50 feet away.
 所以, 你可以站在这里, 但又好像出现在50英尺之外
 
-180
+186
 00:16:27,440 --> 00:16:34,788
 MAXTIBLE: Following the new investigations 12 years ago
 by J Clark Maxwell into electromagnetism,
 基于麦克斯韦在12年前在电磁场方面的研究
 
-181
+187
 00:16:34,862 --> 00:16:39,924
 MAXTIBLE: and the experiments by Faraday into static electricity...
 以及法拉第的静电实验。。。
 
-182
+188
 00:16:40,090 --> 00:16:42,360
 - DOCTOR: Static?
 - MAXTIBLE: Correct.
 - 静电？    - 对
 
-183
+189
 00:16:42,524 --> 00:16:46,985
 MAXTIBLE: .. Waterfield and I first attempted to define the image in the mirror,
 。。Waterfield 和我试验了在镜子中固定图像
 
-184
+190
 00:16:47,154 --> 00:16:49,708
 MAXTIBLE: and then to project it.
 然后再投射出去
 
-185
+191
 00:16:50,346 --> 00:16:57,361
 MAXTIBLE: In here, Doctor, are 144 separate mirrors.
 这里, 博士, 有144面镜子
 
-186
+192
 00:16:57,529 --> 00:17:02,433
 WATERFIELD: Each is of polished metal. Each is subjected to
 electric charges, all positive.
 每一面都是金属抛光制成的, 还会充上电, 一开始都是正电
 
-187
+193
 00:17:02,598 --> 00:17:05,424
 MAXTIBLE: Like repels like in electricity, Doctor,
 正如电负荷会同性相斥, 博士
 
-188
+194
 00:17:05,591 --> 00:17:10,210
 MAXTIBLE: and so we attempted to repel the image in the mirrors wherever we directed.
 于是我们尝试了在镜子间反射图像, 以让它到达我们期望的地方
 
-189
+195
 00:17:10,379 --> 00:17:14,681
 - DOCTOR: You mentioned static electricity...
 - WATERFIELD: That was our last experiment.
 - 你刚才提到了静电。。。   - 那是我们最后的实验
 <i>（注: Daleks 的一个典型特征是采用静电作为个体能源, 博士在这里显然已经怀疑是Deleks在作怪了。Daleks首次出场01x02 The Daleks中第一任博士和Ian, Barbara他们就发现了Daleks采用静电作为能源。04x03 The Power of the Daleks中Daleks铺设静电传输地板以方便他们自己行动）</i>
 
-190
+196
 00:17:14,849 --> 00:17:19,151
 WATERFIELD: Negative and positive electricity had failed, so we tried static.
 负电与正电都失败了, 所以我们尝试了静电
 
-191
+197
 00:17:19,319 --> 00:17:22,781
 - WATERFIELD: If only we had know the powers we'd unleash.
 - DOCTOR: Powers?
 - 要是我早点知道就好了, 我们会放出什么样的力量   - 力量？
 
-192
+198
 00:17:22,950 --> 00:17:28,012
 WATERFIELD: In the middle of our final test with static,
 creatures burst out of the cabinet,
 在我们最后一次静电实验中, 有种生物从柜子里面蹦出来了
 
-193
+199
 00:17:28,178 --> 00:17:32,082
 WATERFIELD: invaded the house and took away my daughter.
 入侵了我们的房子, 带走了我的女儿
 
-194
+200
 00:17:32,248 --> 00:17:35,869
 MAXTIBLE: Oh, my dear fellow! My dear, dear fellow!
 哦, 我亲爱的朋友, 可怜的家伙！
 
-195
+201
 00:17:36,040 --> 00:17:39,025
 MAXTIBLE: We shall win through, now that the Doctor is here.
 既然博士现在来了, 我们应该能赢了
 
-196
+202
 00:17:39,192 --> 00:17:44,060
 WATERFIELD: These creatures... We had opened the way for them with our experiments.
 这些生物。。。是我们的实验给他们打开了大门
 
-197
+203
 00:17:44,340 --> 00:17:47,246
 WATERFIELD: They forced me into the horror of time travel.
 他们强迫我进行时间旅行
 
-198
+204
 00:17:47,413 --> 00:17:50,398
 WATERFIELD: They ordered me to steal a box belonging to you
 他们命令我去偷你的那个箱子
 
-199
+205
 00:17:50,566 --> 00:17:55,390
 WATERFIELD: and thus lure you into a trap and transport you here,
 to get you with your colleague Mr McCrimmon.
 以钓你上钩, 再把你们传输过来, 以抓住你和你的朋友 McCrimmon 先生
 
-200
+206
 00:17:55,554 --> 00:17:58,744
 - DOCTOR: They knew about me?
 - MAXTIBLE: They gave us likenesses.
 - 他们认识我？    - 他们给了我们详细描述
 
-201
+207
 00:17:58,906 --> 00:18:01,971
 WATERFIELD: What could I do? They said my daughter would die.
 我能怎么办？ 他们说否则我的女儿就得死
 
-202
+208
 00:18:02,139 --> 00:18:07,155
 - DOCTOR: What are they called, these creatures?
-- DELAK: Doctor!
+- DALEK: Doctor!
 - 他们叫什么名字, 这些生物？  - 博士！
 
-203
+209
 00:18:09,202 --> 00:18:11,915
-DELAK: <i>Now do you understand?</i>
+DALEK: <i>Now do you understand?</i>
 现在你明白了吧？
 
-204
+210
 00:18:13,832 --> 00:18:15,783
 DOCTOR: Oh, yes. Perfectly.
 哦, 是的, 完全明白
 
-205
+211
 00:18:16,705 --> 00:18:18,691
 DOCTOR: <i>Move back!</i>
 退后！
 
-206
+212
 00:18:19,698 --> 00:18:21,684
 DOCTOR: <i>Our plan has worked.</i>
 我们的计划成功了
 
-207
+213
 00:18:21,853 --> 00:18:26,597
-- DELAK: We shall triumph! You will obey!
+- DALEK: We shall triumph! You will obey!
 - DOCTOR: Obey? What do you want?
 - 我们会胜利！你将服从！  - 服从？你想要怎样？
 
-208
+214
 00:18:26,761 --> 00:18:31,849
-DELAK: <i>We have your time ship. We will destroy it
+DALEK: <i>We have your time ship. We will destroy it
 unless you help us with an experiment.</i>
 我们得到了你的时间飞船, 我们将销毁它, 除非你帮我们完成一向实验
 
-209
+215
 00:18:31,915 --> 00:18:33,056
 DOCTOR: What experiment?
 什么实验？
 
-210
+216
 00:18:33,226 --> 00:18:37,607
-- DELAK: You will help us test another human being.
+- DALEK: You will help us test another human being.
 - DOCTOR: What sort of test?</i>
 - 你得帮我测试另外一个人类 - 测试什么？
 
-211
+217
 00:18:37,776 --> 00:18:39,841
-- DELAK: No questions!
+- DALEK: No questions!
 - DOCTOR: I won't be your slave!</i>
 - 不许问！   - 我可不会做你的奴隶！
 
-212
+218
 00:18:40,010 --> 00:18:44,676
 - MAXTIBLE: Doctor, I beg you...
-- DELAK: No harm will come to you if you agree.</i>
+- DALEK: No harm will come to you if you agree.</i>
 - 博士, 求你了。。。。  - 如果你同意的话不会受到伤害的
 
-213
+219
 00:18:44,839 --> 00:18:47,393
-DELAK: <i>Where is your companion?</i>
+DALEK: <i>Where is your companion?</i>
 你的同伴在那里？
 
-214
+220
 00:18:48,950 --> 00:18:49,936
 - DOCTOR: Jamie?
 
-215
+221
 00:18:50,105 --> 00:18:54,031
 MAXTIBLE: He is in the house. - I have done everything you asked me to.
 他在这所房子里。- 你让我干的事情, 我全都做了
 
-216
+222
 00:18:54,094 --> 00:18:58,596
 - DOCTOR: Why do you ask about Jamie?
-- DELAK: He is the human being who is to be tested.
+- DALEK: He is the human being who is to be tested.
 - 你为什么问起 Jamie? - 他就是我们的实验对象
 
-217
+223
 00:18:58,760 --> 00:19:06,028
 - DOCTOR: What do you mean? Tested how?
-- DELAK: Silence! You will reveal nothing to your companion.
+- DALEK: Silence! You will reveal nothing to your companion.
 - 你什么意思？怎么实验？ - 安静! 你不得向你的同伴透露任何情况
 
-218
+224
 00:19:06,189 --> 00:19:09,572
-DELAK: <i>Obey the Daleks! You are in our power!</i>
+DALEK: <i>Obey the Daleks! You are in our power!</i>
 服从 Daleks 的命令! 你在我们的手上！
 
-219
+225
 00:19:14,610 --> 00:19:17,958
 DOCTOR: What have you done with your infernal meddling?
 你们到底插手干了些什么邪恶勾当？
 
-220
+226
 00:19:22,591 --> 00:19:24,578
 DOCTOR: What is this test?
 实验内容是什么？
 
-221
+227
 00:19:25,504 --> 00:19:27,933
 - DOCTOR: Do either of you know?
 - WATERFIELD: No.
 - 你们俩知道吗？   - 不知道
 
-222
+228
 00:19:28,098 --> 00:19:30,561
 MAXTIBLE: I believe I do.
 我想我知道
 
-223
+229
 00:19:30,732 --> 00:19:35,715
 MAXTIBLE: They, I mean the Daleks, tell me they've always been
 defeated by human beings.
 他们, 我是说这些 Daleks, 跟我说他们一直被人类打败
 
-224
+230
 00:19:35,880 --> 00:19:37,196
 DOCTOR: In the long run, yes.
 从长远来看, 是的
 
-225
+231
 00:19:37,357 --> 00:19:40,500
 MAXTIBLE: Possibly because of some factor possessed by humans
 可能是因为人类所具有的某些特质导致的
 
-226
+232
 00:19:40,669 --> 00:19:43,053
 - DOCTOR: that is absent in Daleks?
 - MAXTIBLE: Possibly.
 - 而 Daleks 缺这些特质？ - 很可能
 
-227
+233
 00:19:43,223 --> 00:19:47,729
 MAXTIBLE: Perhaps they want to find out what it is,
 and transplant it into their race?
 难道他们想搞明白到底是什么东西, 然后嫁接到他们这个种族上
 
-228
+234
 00:19:47,892 --> 00:19:53,670
 WATERFIELD: But if they do do that, they ally this with their own
 alien intelligence, they'll be invincible! Maxtible, you should have...
 他们要是这样做了, 跟他们的外星智能联合起来, 他们就所向无敌了！ Maxtible, 你应该。。。
 
-229
+235
 00:19:53,838 --> 00:19:58,901
 MAXTIBLE: My dear fellow, I am merely surmising. I know nothing definite.
 亲爱的朋友, 我也只是猜测。我也不是太确定
 
-230
+236
 00:19:59,066 --> 00:20:03,209
 MAXTIBLE: Besides, what could we have done, even if I had known for certain?
 再说了, 就算我确实知道, 我又能做什么呢？
 
-231
+237
 00:20:03,376 --> 00:20:07,917
 MAXTIBLE: The fact was, nay, is, they hold your daughter Victoria.
 事实是, 他们关押了你的女儿 Victoria
 
-232
+238
 00:20:08,085 --> 00:20:09,992
 DOCTOR: And now they've got Jamie.
 现在他们又抓了 Jamie
 
-233
+239
 00:20:12,954 --> 00:20:15,905
 MOLLIE: I'm sorry, sir. I didn't mean to wake you.
 对不起, 先生, 我不是故意吵醒你的
 
-234
+240
 00:20:19,020 --> 00:20:20,608
 JAMIE: It's not funny.
 这不好笑
 
-235
+241
 00:20:20,776 --> 00:20:23,965
 MOLLIE: The master left this for you to drink, sir.
 主人把这个留给你喝的, 先生
 
-236
+242
 00:20:24,128 --> 00:20:26,353
 MOLLIE: This'll clear away the cobwebs.
 他可以让你清醒一点
 
-237
+243
 00:20:26,522 --> 00:20:29,030
 - MOLLIE: Here you are, sir.
 - JAMIE: Where's the Doctor?
 - 给你, 先生   - 博士在哪儿？
 
-238
+244
 00:20:29,196 --> 00:20:33,066
 - MOLLIE: He's with the master and Mr Waterfield.
 - JAMIE: Waterfield?
 - 他正跟主人和 Waterfield 先生在一起  - Waterfield？
 
-239
+245
 00:20:33,227 --> 00:20:37,415
 - RUTH: What are you doing here?
 - MOLLIE: Just seeing to the young gentleman, miss.
 - 你在这里干什么？  - 刚过来看一下这位年轻的男士, 小姐
 
-240
+246
 00:20:37,576 --> 00:20:39,086
 RUTH: Go and bring some tea.
 去, 端点茶来
 
-241
+247
 00:20:39,252 --> 00:20:41,681
 RUTH: Well, go along.
 哎, 快去啊
 
-242
+248
 00:20:44,800 --> 00:20:48,228
 - RUTH: Please, Mr McCrimmon.
 - JAMIE: You know my name?
 - 请坐, McCrimmon 先生   - 你知道我的名字？
 
-243
+249
 00:20:48,391 --> 00:20:53,295
 RUTH: My father told me that you and your friend arrived last night, with Mr Waterfield.
 我父亲告诉我说您和您的朋友昨晚到了, 跟 Waterfield 先生一起
 
-244
+250
 00:20:53,459 --> 00:20:57,727
 JAMIE: Your father? I'm sorry I seem to have great difficulty in remembering anything.
 您父亲？ 很抱歉, 我好像什么事情都很难想起来
 
-245
+251
 00:20:57,889 --> 00:21:01,205
 RUTH: He owns this house. I'm his daughter, Ruth Maxtible.
 这栋房子是他的。我是他的女儿, Ruth Maxtible
 
-246
+252
 00:20:01,366 --> 00:21:04,827
 JAMIE: How do you do? Have you seen the Doctor this morning?
 很高兴认识你。你今天早上见到博士了吗？
 
-247
+253
 00:21:02,997 --> 00:21:07,582
 RUTH: He's talking with my father. He'll be along presently.
 他跟我父亲在一起谈话, 很快就会过来
 
-248
+254
 00:21:07,746 --> 00:21:12,048
 - RUTH: Do you have all you need?
 - JAMIE: Whatever this stuff is, it works all right.
 - 您还有什么需要的吗？  - 不知道这个东西是什么, 它很不错 
 
-249
+255
 00:21:12,216 --> 00:21:15,007
 - RUTH: Mollie shall bring you some tea.
 - JAMIE: I'm obliged to you.
 - Mollie 会给你端点茶过来的  - 我很感激
 
-250
+256
 00:21:15,169 --> 00:21:16,883
 - JAMIE: Oh, Miss Maxtible.
 - RUTH: Yes?
 - Maxtible 小姐  - 什么?
 
-251
+257
 00:21:17,044 --> 00:21:21,982
 - JAMIE: Could you tell me who that is in the portrait?
 - RUTH: That's Mr Waterfield's late wife.
 - 你能告诉我这张画里面是谁吗？   - 那是 Waterfield 已过世的妻子
 
-252
+258
 00:21:22,152 --> 00:21:27,090
 - JAMIE: She is very lovely.
 - RUTH: Yes, and his daughter looks just like her.
 - 她很漂亮  - 是的, 她女儿跟她长得很像
 
-253
+259
 00:21:27,739 --> 00:21:31,167
 - RUTH: You're quite comfortable?
 - JAMIE: Yes, thank you.
 - 请自便   - 好的, 谢谢你
 
-254
+260
 00:21:49,409 --> 00:21:51,395
 JAMIE: 1866.
 
-255
+261
 00:21:52,482 --> 00:21:55,512
 JAMIE: So that's what Waterfield's done.
 原来这就是 Waterfield 干的好事
 
-256
+262
 00:22:32,628 --> 00:22:36,373
 MOLLIE: Here we are, sir. I've been as quick as I could.
 来了, 先生。我尽可能快了
 
-257
+263
 00:22:36,539 --> 00:22:38,809
 MOLLIE: Shall I pour for you?
 要我给你倒吗？
 
-258
+264
 00:22:45,877 --> 00:22:49,986
 MOLLIE: Poor young gentleman. They shouldn't have given you so much to drink.
 可怜的年轻人, 他们不应该让你喝那么多酒的
 
-259
+265
 00:22:53,460 --> 00:22:57,080
 - WATERFIELD: Doctor... I do ask you to consider.
 - DOCTOR: I have made up my mind.
 - 博士。。。我真的请求你再考虑一下  - 我已经决定了
 
-260
+266
 00:22:57,251 --> 00:23:00,519
 WATERFIELD: But they ordered you not to tell your friend anything.
 但他们命令你不要告诉你朋友任何事
 
-261
+267
 00:23:00,683 --> 00:23:04,985
 DOCTOR: Do you think I will allow Jamie to run into danger? No, I will not.
 你觉得我会让 Jamie 陷入危险吗？不, 我不会的
 
-262
+268
 00:23:05,152 --> 00:23:09,022
 - WATERFIELD: Suppose he refuses to do what they want?
 - DOCTOR: We shall see.
 - 假设他拒绝干呢？  - 看情况吧
 
-263
+269
 00:23:10,021 --> 00:23:12,246
 DOCTOR: He's still asleep.
 他还在睡觉
 
-264
+270
 00:23:12,415 --> 00:23:15,480
 DOCTOR: The gas in that box of yours was pretty potent.
 你那盒子里面的气体效果很强啊
 
-265
+271
 00:23:15,648 --> 00:23:18,110
 WATERFIELD: It was Maxtible's invention.
 那是 Maxtible 的发明
 
-266
+272
 00:23:23,031 --> 00:23:25,936
 - DOCTOR: Jamie...
 - WATERFIELD: Mollie!
 
-267
+273
 00:23:27,660 --> 00:23:30,849
-DELAK: <i>Order the Doctor to begin the test.</i>
+DALEK: <i>Order the Doctor to begin the test.</i>
 命令博士开始实验
 
-268
+274
 00:23:31,012 --> 00:23:33,997
 MAXTIBLE: But I must first explain to him what he has to do.
 但我必须得先跟他解释清楚要他干什么
 
-269
+275
 00:23:34,165 --> 00:23:36,276
-DELAK: <i>Go now. Obey the Daleks!</i>
+DALEK: <i>Go now. Obey the Daleks!</i>
 现在就去, 服从 Daleks 的命令
 
-270
+276
 00:23:36,918 --> 00:23:42,026
 WATERFIELD: But your friend is vital to the plan of these Daleks.
 Absolutely essential.
 但你的朋友对于这些个 Daleks 的计划很关键, 绝对重要
 
-271
+277
 00:23:42,186 --> 00:23:45,012
 DOCTOR: So it seems. So who could have kidnapped him?
 看来是。可能是谁绑架了他？
 
-272
+278
 00:23:45,179 --> 00:23:49,287
 WATERFIELD: The threats they make are not idle ones. Kennedy was murdered.
 他们的警告可不说说而已的, Kennedy 就被杀死了
 
-273
+279
 00:23:50,247 --> 00:23:53,675
 WATERFIELD: Without your friend, our only hope is gone...
 没有你的朋友, 我们唯一的期望就没有了
 
-274
+280
 00:23:53,839 --> 00:23:57,267
 WATERFIELD: unless... unless you know something.
 除非。。。除非你知道些什么
 
-275
+281
 00:23:57,430 --> 00:24:01,017
 WATERFIELD: You seem to be well acquainted with the creatures.
 你似乎对这种生物很熟悉
 
-276
+282
 00:24:01,182 --> 00:24:03,928
 DOCTOR: Everything you say, Waterfield, is true.
 Waterfield, 所有你刚才说的, 都是真的
 
-277
+283
 00:24:04,095 --> 00:24:09,759
 DOCTOR: If we cannot find Jamie, the Daleks
 will take pleasure in killing everyone in sight,
 如果我们找不到 Jamie, 这些 Daleks 会很乐意杀死这里能见到的每一个人
 
-278
+284
 00:24:09,921 --> 00:24:13,508
 DOCTOR: and their greatest pleasure will be in killing me.
 而让他们最高兴的事情, 是杀死我
 
-279
+285
 00:24:13,673 --> 00:24:17,895
-DELAK 1: <i>The humans have been told to begin the test.</i>
+DALEK 1: <i>The humans have been told to begin the test.</i>
 已经通知人类开始实验
 
-280
+286
 00:24:18,062 --> 00:24:21,444
 DALEK 2:<i>Any delay will result in death.</i>
 有任何拖延都将处死
 
-281
+287
 00:24:21,614 --> 00:24:23,407
 DALEK 2:<i>There will be no delay!</i>
 不允许有拖延!

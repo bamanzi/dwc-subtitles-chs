@@ -1,1260 +1,1282 @@
 1
-00:00:06,006 --> 00:00:09,006
-Sincro: wyxchari
+00:00:05,200 --> 00:00:15,000
+Doctor Who (1963) 04x09  The Evil of the Daleks (Episode 7)
+《神秘博士》老版第四季第九集 《Daleks 的邪恶》 (第七部分)
 
 2
+00:00:20,200 --> 00:00:25,000
+【翻译】巴蛮子sz
+
+3
+00:00:25,200 --> 00:00:30,000
+【时间轴】巴蛮子sz
+
+4
+00:00:30,200 --> 00:00:35,000
+【校对】巴蛮子sz
+
+5
+00:00:35,200 --> 00:00:40,000
+<i>基于 opentitles.org 英文字幕翻译</i>
+
+6
+00:00:40,200 --> 00:00:45,006
+Sincro: wyxchari
+
+7
 00:00:36,791 --> 00:00:37,922
 JAMIE: The TARDIS, Doctor!
 我们的 TARDIS, 博士!
 
-3
+8
 00:00:38,273 --> 00:00:47,716
 EMPEROR: You will take the "Dalek Factor. "
 You will spread it to the entire history of Earth!
 你要提取出"Dalek特质”, 并将它散布到地球的整个历史中去！
 
-4
+9
 00:00:48,256 --> 00:00:52,109
 DOCTOR: No. You can't make me do it! You can't!
 不, 你不能强迫我干这个, 你不能！
 
-5
+10
 00:00:52,314 --> 00:00:54,451
 EMPEROR: You will obey!
 你会服从的！
 
-6
+11
 00:00:54,806 --> 00:00:55,811
 DALEK: Move!
 走！
 
-7
+12
 00:00:57,334 --> 00:01:03,312
 EMPEROR: Doctor. You will obey!
 博士, 你会服从的！
 
-9
+13
 00:01:03,700 --> 00:01:06,025
 DALEK: Experiment ready.
 实验已就绪
 
-10
+14
 00:01:06,439 --> 00:01:07,608
 DALEK 2: Proceed.
 开始吧
 
-11
+15
 00:01:14,792 --> 00:01:18,587
 MAXTIBLE: Transmutation of metal into gold.
 转换金属成金子
 
-12
+16
 00:01:22,608 --> 00:01:24,797
 JAMIE: You mean to say, he's worked against us all, just for that?
 你是说, 他跟我们所有人作对, 就为了那个？
 
-13
+17
 00:01:25,082 --> 00:01:26,851
 DOCTOR: People have done worse for less, Jamie.
 有的人为了比这还少的利益, 干过跟坏的事情, Jamie
 
-14
+18
 00:01:27,076 --> 00:01:30,781
 JAMIE: Look, it's daft though. Metal into gold is an old wives tale.
 哈, 还是觉得这样很蠢。金属变成金子是个老梗了
 
-15
+19
 00:01:31,012 --> 00:01:36,314
 DOCTOR: Oh I don't know. The alchemists of the middle ages
 made transmutation their main aim in life.
 哦, 我也不知道。但中世纪的炼金术士把这作为了一生的终极目标
 
-16
+20
 00:01:36,489 --> 00:01:37,750
 JAMIE: Ah, they didn't succeed though.
 他们也没有成功啊
 
-17
+21
 00:01:37,946 --> 00:01:41,563
 DOCTOR: Even in the twentieth century, it's still considered scientifically possible.
 即使在二十世纪, 也还是有人认为在科学上是可能的
 
-18
+22
 00:01:41,794 --> 00:01:43,136
 MAXTIBLE: Of course it's possible.
 当然是可能的
 
-19
+23
 00:01:43,302 --> 00:01:45,321
 JAMIE: Oh, well, I don't care whether it's possible or not!
 哦, 我是不在乎它是不是可能
 
-20
+24
 00:01:45,486 --> 00:01:47,770
 DOCTOR: Whether it is or whether it isn't is beside the point.
 可能还是不可能现在都不是关键了
 
-21
+25
 00:01:47,962 --> 00:01:49,001
 JAMIE: Oh, and what is the point then?
 噢, 那关键是什么？
 
-22
+26
 00:01:49,180 --> 00:01:51,349
 DOCTOR: Why are the do... Daleks doing this?
 为什么他们。。Daleks 要干这个？
 
-23
+27
 00:01:51,526 --> 00:01:52,794
 DALEK: They promised me!
 他们向我许诺过的！
 
-24
+28
 00:01:52,957 --> 00:01:54,731
 DOCTOR: Daleks don't keep their promises.
 Daleks 并不守信
 
-25
+29
 00:01:54,880 --> 00:02:00,724
 MAXTIBLE: I see what you're trying to do Doctor.
 You're trying to shake my faith. But I will be given the secret.
 我知道你想干什么, 博士。你试图动摇我的信念, 但我很快会获得秘方了
 
-26
+30
 00:02:00,888 --> 00:02:04,895
 JAMIE: Oh, well. It won't do you any good, because you won't
 be able to use your secret! I'll see to that.
 哦, 好啊, 它不会带给你什么好处的。因为你没机会用到你的秘方了, 我会确保这个的
 
-27
+31
 00:02:05,055 --> 00:02:06,035
 MAXTIBLE: You'll do no such thing!
 你不能干这种事！
 
-28
+32
 00:02:06,353 --> 00:02:07,465
 DOCTOR: Jamie!
 
-29
+33
 00:02:07,867 --> 00:02:08,979
 DALEK: Move away! Move!
 走开！走！
 
-30
+34
 00:02:09,284 --> 00:02:10,578
 VICTORIA: Please Jamie, do as it says.
 Jamie, 照它说的做吧
 
-31
+35
 00:02:10,875 --> 00:02:16,411
 DALEK: You will not harm this human being. Or you will be exterminated.
 你不能伤害这个人类, 否则你会被终结
 
-32
+36
 00:02:16,658 --> 00:02:18,208
 DOCTOR: Yes, yes. We quite understand.
 好的, 好的, 我们很清楚
 
-33
+37
 00:02:18,456 --> 00:02:21,019
 MAXTIBLE: You would be advised to do as they say.
 给你们一个建议：它们怎么说你们就怎么做
 
-34
+38
 00:02:21,205 --> 00:02:24,516
 JAMIE: Oh don't worry. The very thought of going near you repulses me.
 噢, 别担心。一想到要靠近你, 我就恶心了
 
-35
+39
 00:02:24,691 --> 00:02:25,819
 Mr. McCrimmon.
 
-36
+40
 00:02:36,708 --> 00:02:39,172
 WATERFIELD: They seem prepared to protect you.
 它们看来已经在保护你了
 
-37
+41
 00:02:40,581 --> 00:02:41,474
 MAXTIBLE: Be warned.
 警告你们
 
-38
+42
 00:02:42,185 --> 00:02:46,730
 WATERFIELD: I appeal to you, Maxtible. It may still not be too late.
 我恳求你, Maxtible, 现在也许还不算太迟
 
-38
+43
 00:02:47,185 --> 00:02:52,730
 WATERFIELD: If they're your friends, help us. If you did,
 we could plan something - try to escape.
 如果它们是你的朋友, 帮帮我们。你帮帮忙, 我们就可以计划点什么 - 比如逃走
 
-39
+44
 00:02:52,937 --> 00:02:53,895
 MAXTIBLE: No.
 不！
 
-40
+45
 00:02:54,129 --> 00:02:57,126
 WATERFIELD: Then at least for Victoria's sake. After what you did to her.
 那至少帮帮 Victoria, 虽然你对她做了那些事
 
-41
+46
 00:02:57,438 --> 00:02:58,879
 MAXTIBLE: No, I tell you! No!
 不, 我跟你说了, 不行！
 
-42
+47
 00:03:01,297 --> 00:03:04,191
 VICTORIA: It's no good, Papa. He doesn't listen any more.
 这样没用的, 爸爸。他再也听不进去了
 
-43
+48
 00:03:18,991 --> 00:03:20,136
 VICTORIA: What are you thinking?
 你在想什么呢？
 
-44
+49
 00:03:21,770 --> 00:03:25,002
 DOCTOR: I'm trying to puzzle out a problem, Victoria.
 我在试图解开这个难题, Victoria。
 
-44
+50
 00:03:25,770 --> 00:03:31,002
 DOCTOR: The Daleks say I'm going to do something for them.
 Something I would rather die than do.
 Daleks 让我给他们干点活儿, 而这些活儿我就算死了也不愿意干
 
-45
+51
 00:03:31,344 --> 00:03:35,703
 Plus or minus point zero, zero, three. Plus or minus.
 fixme
 
-46
+52
 00:03:36,148 --> 00:03:37,721
 VICTORIA: Perhaps they think you're like him.
 也许它们觉得你会跟他一样
 
-47
+53
 00:03:37,975 --> 00:03:40,361
 DOCTOR: Oh, no. The Daleks know me well enough by this time.
 噢, 不, Daleks 早就对我很了解了
 
-48
+54
 00:03:40,720 --> 00:03:42,215
 VICTORIA: They intend to persuade you then.
 那它们打算说服你
 
-49
+55
 00:03:42,484 --> 00:03:48,242
 DOCTOR: Oh no. No it isn't that either. You see,
 there isn't a persuasion strong enough.
 噢, 不, 也不是这个。你看, 它们都没怎么劝我
 
-49
+56
 00:03:48,484 --> 00:03:51,242
 DOCTOR: Not even the offer of all the lives in this room.
 甚至都没提议说交换这一屋子人的性命
 
-50
+57
 00:03:51,600 --> 00:03:52,386
 VICTORIA: I see.
 我明白了
 
-51
+58
 00:03:52,652 --> 00:03:57,711
 VICTORIA: Five lives against a whole planet? Well, it's not a choice is it.
 五条性命交换一整个星球？这并没有什么可选择的
 
-52
+59
 00:03:58,140 --> 00:03:58,886
 VICTORIA: No.
 没有
 
-53
+60
 00:03:59,645 --> 00:04:07,425
 DOCTOR: Even if I could trust the Daleks - even if they set us free,
 we still couldn't go back to Earth.
 就算我能相信这些 Dalek, 就算它们能放我们走, 我们还是没法回到地球
 
-53
+61
 00:04:07,645 --> 00:04:13,425
 DOCTOR: I suppose I might try to take you all to another universe.
 I might even try and take you to my own planet.
 我想我还是把你们都带到另外一个宇宙吧, 或者试试带你们到我自己的星球去
 
-54
+62
 00:04:13,676 --> 00:04:14,495
 VICTORIA: Your own?
 你自己的？
 
-55
+63
 00:04:14,784 --> 00:04:18,898
 DOCTOR: Yes. Oh, yes. I... I live a long, long way from Earth.
 是的, 噢, 是的, 我。。。走了好远的路才到了地球
 
-56
+64
 00:04:20,425 --> 00:04:28,729
 DOCTOR: Oh, just a minute. Maxtible! Arthur Terrall!
 The Daleks put some kind of control device on him.
 哦, 等一下。Maxtible! Arthur Terrall, 那些 Dalek 肯定在他身上放了某种控制设备
 
-57
+65
 00:04:28,937 --> 00:04:35,692
 MAXTIBLE: What of it? It was erratic. I always warned the Daleks
 it would prove too unsatisfactory.
 那怎么了, 那东西并不太可靠, 我一直跟 Dalek 说这东西只会带来不满意
 
-58
+66
 00:04:35,984 --> 00:04:39,359
 JAMIE: Aye. Well, it's a good thing for you it did fail.
 They'd have tried it on you next.
 不过, 那东西不成功, 对你来说倒是件好事了。否则他们下一个就用在你身上了
 
-59
+67
 00:04:50,226 --> 00:04:51,561
 EMPEROR: Report!
 报告！
 
-60
+68
 00:04:51,976 --> 00:04:54,073
 DALEK: The experiment is ready.
 实验已经准备好了
 
-61
+69
 00:04:54,770 --> 00:04:56,718
 EMPEROR: Proceed.
 开始
 
-62
+70
 00:05:01,835 --> 00:05:03,785
-DALEK: Discontinue work.
+DALEK COMMANDER: Discontinue work.
 停止工作
 
-63
+71
 00:05:07,038 --> 00:05:13,220
 DALEK: Discontinue work. Discontinue work.
 停止工作, 停止工作
 
-64
+72
 00:05:15,121 --> 00:05:16,946
 DALEK: Why?
 为什么？
 
-65
+73
 00:05:18,270 --> 00:05:24,584
-DALEK: WHO SPOKE! WHO QUESTIONED A DALEK COMMAND?!
+DALEK COMMANDER: WHO SPOKE! WHO QUESTIONED A DALEK COMMAND?!
 谁在说话？谁在质疑 Dalek 的命令！
 
-66
+74
 00:05:30,248 --> 00:05:33,744
 DALEK: The secret of transmutation of metal.
 转化金属的秘密
 
-67
+75
 00:05:34,368 --> 00:05:36,768
 MAXTIBLE: Yes, yes! The secret you promised me.
 对, 对！你们许诺过我的秘密
 
-68
+76
 00:05:37,234 --> 00:05:38,823
 DALEK: Turn and look.
 转身看着
 
-69
+77
 00:05:42,506 --> 00:05:47,231
 DALEK: Above. Liquid metal. Read.
 上面, 液体金属, 看读数
 
-70
+78
 00:05:48,134 --> 00:05:49,020
 MAXTIBLE: Wait!
 等一下
 
-71
+79
 00:05:49,268 --> 00:05:50,563
 DALEK: Do not move!
 不许动！
 
-72
+80
 00:05:50,957 --> 00:05:52,528
 MAXTIBLE: It is hard to see.
 很难看清楚
 
-73
+81
 00:05:54,189 --> 00:05:58,196
 MAXTIBLE: Fifty-five point eight, four.
 55.84
 
-74
+82
 00:05:58,406 --> 00:06:01,739
 DALEK: Atomic weight. Read again.
 原子重量。再看一下读数
 
-75
+83
 00:06:01,986 --> 00:06:04,670
 MAXTIBLE: Seven point eight, four.
 7.84
 
-76
+84
 00:06:04,864 --> 00:06:06,962
 DALEK: Specific gravity.
 比重
 
-77
+85
 00:06:07,406 --> 00:06:09,787
 DOCTOR: Atomic weight and gravity of iron.
 铁的原子重量和比重
 
-78
+86
 00:06:10,003 --> 00:06:14,349
 DALEK: Watch. Read atomic weight.
 看着, 读一下原子重量
 
-79
+87
 00:06:15,519 --> 00:06:17,727
 MAXTIBLE: Nineteen point two.
 19.2
 
-80
+88
 00:06:18,225 --> 00:06:21,753
 DALEK: Read specific gravity.
 读比重
 
-81
+89
 00:06:22,103 --> 00:06:23,851
 MAXTIBLE: Sixty-nine point five.
 69.5
 
-82
+90
 00:06:24,575 --> 00:06:28,814
 MAXTIBLE: Gold! Iron into gold!
 金子！铁变成了金子!
 <i>（注：金的原子质量应该是196.97, 比重应该是19.30, 这里不知道为什么采用了这样两个数值）</i>
 
-83
+91
 00:06:29,085 --> 00:06:37,210
 MAXTIBLE: I told you it was possible! They've kept their promise!
 It's true! It's true! They have!
 我跟你说过这是可能的！他们兑现了承诺！是真的, 是真的！他们做到了！
 
-84
+92
 00:06:37,449 --> 00:06:38,926
 DALEK: The machine is yours.
 这台机器是你的了
 
-85
+93
 00:06:41,064 --> 00:06:42,831
 MAXTIBLE: Yes. Ha, ha. Yes, Yes!
 好的, 哈, 哈, 哈, 是的, 是的！
 
-86
+94
 00:06:43,087 --> 00:06:46,381
 DOCTOR: Maxtible, if you value your life, don't go near that machine!
 Maxtible, 如果你还惜命的话, 不要靠近那台机器！
 
-87
+95
 00:06:53,199 --> 00:06:54,196
-DOCTOR: Maxtible!
+JAMIE: Maxtible!
 
-88
+96
 00:06:56,891 --> 00:06:58,430
 VICTORIA: What have they done to him!
 你们把他怎么了？
 
-89
+97
 00:07:03,631 --> 00:07:05,185
 DALEK: Turn.
 转身
 
-90
+98
 00:07:07,924 --> 00:07:10,044
 DALEK: Move to control.
 到操作台去
 
-91
+99
 00:07:10,791 --> 00:07:12,919
 MAXTIBLE: I obey.
 我服从
 
-92
+100
 00:07:24,703 --> 00:07:26,008
 JAMIE: They've turned him into a Dalek.
 他们把他变成了一个 Dalek
 
-93
+101
 00:07:26,300 --> 00:07:30,355
 DOCTOR: Yes. The Dalek factor.
 是的, 靠了“Dalek特质”
 
-94
+102
 00:07:31,147 --> 00:07:33,415
 DOCTOR: Is that what you want me to do to the people of Earth.
 这就是你想让我对地球人干的事情？
 
-95
+103
 00:07:33,655 --> 00:07:36,961
 DALEK: We know you will obey.
 我们知道你会服从的
 
-96
+104
 00:07:43,664 --> 00:07:47,538
 DOCTOR: Human beings into Daleks.
-人类变成了 Dalek
+把人类变成 Dalek
 
-97
+105
 00:07:49,590 --> 00:07:51,145
 DALEK: Emperor.
 陛下
 
-98
+106
 00:07:51,358 --> 00:07:52,440
 EMPEROR: Speak!
 说!
 
-99
+107
 00:07:52,669 --> 00:07:55,351
 DALEK: A Dalek questioned an order.
 有一个 Dalek 质疑一项命令
 
-100
+108
 00:07:55,546 --> 00:07:59,371
 EMPEROR: Questioned? Then it was one of the test Daleks.
 质疑？那它肯定是实验 Dalek 中的一个
 
-101
+109
 00:07:59,598 --> 00:08:00,292
 DALEK: Yes.
 是的
 
-102
+110
 00:08:00,496 --> 00:08:02,698
 EMPEROR: Find it, immediately!
 找到它, 立刻地！
 
-103
+111
 00:08:44,369 --> 00:08:50,399
 MAXTIBLE: Doctor. Open your eyes.
 博士, 睁开你的眼睛
 
-103
+112
 00:08:51,369 --> 00:08:59,399
 MAXTIBLE: You are asleep still, but you can hear my voice.
 你还在睡着, 但你可以听到我的声音
 
-103
+113
 00:09:00,369 --> 00:09:07,399
 MAXTIBLE: I have come to help you. Look at the box.
 我是来帮你的, 看着这个箱子
 
-104
+114
 00:09:08,870 --> 00:09:21,178
 MAXTIBLE: I have had your TARDIS placed outside the city.
 I will take you to it. Rise and follow me.
 我已经把你的 TARDIS 弄到城外去了, 我带你去找, 起来跟我走吧
 
-105
+115
 00:09:43,063 --> 00:09:44,568
 JAMIE: Hey, Doctor, what are you doing?
 嘿, 博士, 你在干什么？
 
-106
+116
 00:09:46,778 --> 00:09:48,602
 JAMIE: Don't go near the door! Doctor!
 别靠近那道门！博士！
 
-107
+117
 00:09:59,946 --> 00:10:01,036
 JAMIE: Doctor!
 博士!
 
-108
+118
 00:10:03,640 --> 00:10:08,604
 DOCTOR: Stay where you are! That is an order!
 站在原地别动！这是命令！
 
-109
+119
 00:10:11,556 --> 00:10:19,462
 MAXTIBLE: We will work together on the Dalek Factor. Follow me.
-我们一起来为 Dalek 特质工作, 跟我来
+我们一起来研究 Dalek特质, 跟我来
 
-110
+120
 00:10:19,864 --> 00:10:21,821
 DOCTOR: I obey!
 我服从!
 
-111
+121
 00:10:37,540 --> 00:10:38,692
 MAXTIBLE: Stop!
 停下!
 
-112
+122
 00:10:41,749 --> 00:10:50,431
 MAXTIBLE: This machine is for the mass-production of the Dalek Factor. Follow me.
 这台机器是用作批量生产 Dalek 特质的, 跟我来
 
-113
+123
 00:10:56,567 --> 00:11:06,623
 MAXTIBLE: Stop. This machine will transform the thought patterns
 in this capsule into a steam.
 停下。这台机器将把这个舱内的思维模式转换为蒸汽
 
-113
+124
 00:11:07,567 --> 00:11:13,623
 MAXTIBLE: The steam will be sprayed into the atmosphere of the Earth.
 这些蒸汽会散播到地球的空气中去
 
-114
+125
 00:11:14,979 --> 00:11:17,955
 DOCTOR: I must examine the machine.
 我必须检查一下这台机器
 
-115
+126
 00:11:18,165 --> 00:11:19,300
 MAXTIBLE: Do so.
 做吧
 
-116
+127
 00:12:15,181 --> 00:12:20,280
 DOCTOR: Jamie. Jamie! Jamie!
 
-117
+128
 00:12:21,947 --> 00:12:22,792
 JAMIE: Yes?
 什么事？
 
-118
+129
 00:12:23,064 --> 00:12:27,888
 DOCTOR: Jamie, when I give you the word, bring everyone
 through this archway. Through the door.
 Jamie, 当我给你命令的时候, 带所有人从这条拱道过来, 穿过这道门
 
-119
+130
 00:12:28,287 --> 00:12:28,850
 JAMIE: What?!
 什么！
 
-120
+131
 00:12:29,127 --> 00:12:29,816
 DOCTOR: Trust me!
 相信我！
 
-121
+132
 00:12:30,330 --> 00:12:32,306
 DALEK: What are you doing?
 你要干什么？
 
-122
+133
 00:12:32,762 --> 00:12:35,693
 DOCTOR: Take me to your emperor.
 带我去见皇帝
 
-123
+134
 00:12:36,063 --> 00:12:36,895
 DALEK: Wait.
 等一下
 
-124
+135
 00:12:48,905 --> 00:12:51,048
 VICTORIA: He walked through! All just as though he did...
-他穿过了啊, 就跟 Maxtible 一样。。。
+他穿过了啊, 感觉他已经。。。
 
-125
+136
 00:12:51,216 --> 00:12:53,037
 WATERFIELD: It must have affected him. We saw it happen.
 肯定对他产生影响了啊, 我们都看见这样的事情了
 
-126
+137
 00:12:53,193 --> 00:12:54,849
 JAMIE: But you heard him speak normally just now.
 但你也听到了, 他刚才说话很正常啊
 
-127
+138
 00:12:55,300 --> 00:12:57,161
 WATERFIELD: Another trap to make us walk though?
 引我们走过那个的又一个陷阱?
 
-128
+139
 00:12:57,331 --> 00:12:59,482
 JAMIE: Oh, they could have pushed us in here any time they liked.
 噢, 他们随时都可以强行推我们进去啊
 
-129
+140
 00:12:59,816 --> 00:13:01,998
 VICTORIA: Do you think there's a chance? Something to hope for?
 你觉得这里还有一线机会不？也许有点期望？
 
-130
+141
 00:13:02,229 --> 00:13:07,422
 JAMIE: I, uh... I don't know. Well, I... I don't understand.
 I mean, how do we know we can trust him?
 我。。我不知道。哎。。。我搞不懂。我说, 我们怎么知道可以信任他呢
 
-131
+142
 00:13:17,969 --> 00:13:20,107
 EMPEROR: What do you want?
 你想要怎样？
 
-132
+143
 00:13:21,087 --> 00:13:24,176
-DALEK: A Dalek questioned an order.
+DOCTOR: A Dalek questioned an order.
 有一个 Dalek 质疑一项命令
 
-133
+144
 00:13:24,418 --> 00:13:25,747
 EMPEROR: Again?
 又有？
 
-134
+145
 00:13:26,025 --> 00:13:29,547
-DALEK: We have searched without success.
+MAXTIBLE: We have searched without success.
 我们搜过了, 没有成功
 
-135
+146
 00:13:30,459 --> 00:13:36,816
 DOCTOR: All Daleks must pass through the archway door.
 所有的 Dalek 都必须穿过那道拱门
 
-135
+147
 00:13:37,059 --> 00:13:46,816
-DOCTOR: The Dalek with the human factor will then become a Dalek again
-- will become as this human and I have become.
+DOCTOR: The Dalek with the human factor will then become
+a Dalek again - will become as this human and I have become.
 带有“人类特质”的 Dalek 就会又变成 Dalek 了 - 就跟这个人和我一样
 
-136
+148
 00:13:47,056 --> 00:13:48,484
 EMPEROR: Let it be done!
 那就完成它吧
 
-137
+149
 00:13:48,655 --> 00:13:49,813
 DOCTOR: I obey!
 我服从!
 
-138
+150
 00:13:54,866 --> 00:13:59,547
-MAXTIBLE: You will deal with the human prisoners.
+EMPEROR: You will deal with the human prisoners.
 你负责对付这些人类囚犯
 
-139
+151
 00:14:25,164 --> 00:14:29,478
 DOCTOR: Go on quickly! Through the door! Follow them through the door!
 跟着, 快点！走过门去！跟着他们走过去！
 
-139
+152
 00:14:29,164 --> 00:14:35,478
 DOCTOR: Oh, it's all right. I've changed over the Factors.
 I used one of the capsules from my test Dalek.
-噢, 没事的。我已经换过特质了, 我拿了我的试验品 Dalek 的试剂
+噢, 没事的。我已经换过特质了, 我从我试验过的 Dalek 提取了试剂
 
-139
+153
 00:14:35,764 --> 00:14:38,478
 DOCTOR: I've given them all the human factor! Go on! Go on!
 我给他们所有都注入了人类特质！跟上！跟上
 
-140
+154
 00:14:40,260 --> 00:14:41,589
 JAMIE: Well, aren't you coming?
 那, 你不来吗？
 
-141
+155
 00:14:41,785 --> 00:14:43,802
 DOCTOR: Well, I've got things to do. And I've been through already.
 哦, 我还有事情要做。再说我也过一遍了
 
-142
+156
 00:14:43,962 --> 00:14:45,918
 JAMIE: Ah, well, why didn't it affect you then?
 啊, 那, 为什么你没受影响？
 
-143
+157
 00:14:46,315 --> 00:14:53,547
 DOCTOR: I don't come from Earth, Jamie. Now, down the corridor,
 turn to the left and find the tunnel. I'll join you there later.
 我不是地球来的, Jamie。现在, 顺着走廊过去, 左转找到隧道。我一会儿在那里跟你们会合
 
-144
+158
 00:14:54,571 --> 00:14:56,660
 JAMIE: Oh well, here goes.
 好吧, 走吧
 
-145
+159
 00:15:06,520 --> 00:15:10,728
 JAMIE: It's all right, nothing happened! Come on! Come on Kemel. Quick!
 没事, 什么也没有发生！来吧, 来吧 Kemel, 快！
 
-146
+160
 00:15:10,936 --> 00:15:13,964
 WATERFIELD: Victoria, I must help the Doctor!
 Victoria, 我必须去帮博士!
 
-147
+161
 00:15:14,150 --> 00:15:15,213
 JAMIE: Och, don't be a fool man!
 噢, 别做傻子
 
-148
+162
 00:15:15,402 --> 00:15:16,303
 VICTORIA: Father! No!
-父亲, 别去！
+父亲, 别！
 
-149
+163
 00:15:16,449 --> 00:15:23,464
 WATERFIELD: I must find Maxtible. He's to blame for all of this. Take care of her.
 我必须找到 Maxtible。他是这一切的罪魁祸首。照顾好她
 
-150
+164
 00:15:24,901 --> 00:15:25,954
 VICTORIA: But father!
 但是, 父亲！
 
-151
+165
 00:15:26,144 --> 00:15:27,815
 JAMIE: Oh, he'll be all right. Come on!
 哦, 他会没事的。走吧
 
-152
+166
 00:15:45,619 --> 00:15:50,199
 DALEK: Ah! Dizzy!
 啊, 头晕!
 
-153
-00:15:50,843 --> 00:15:51,682
-DALEK 2: Dizzy!
-头晕!
+167
+00:15:50,843 --> 00:15:54,682
+DALEK 2: Dizzy Daleks!
+头晕的 Dalek
 
-154
-00:15:53,359 --> 00:15:54,443
-Daleks!
-fixme
-
-155
+168
 00:15:55,757 --> 00:15:58,176
 DALEK 3: Dizzy Daleks!
 头晕的 Dalek
 
-156
+169
 00:15:58,997 --> 00:16:01,587
 DALEK 4: Dizzy Daleks!
 头晕的 Dalek
 
-157
+170
 00:16:02,592 --> 00:16:04,979
 DALEK: Dizzy!
 头晕!
 
-158
+171
 00:16:08,193 --> 00:16:10,160
 DALEK: Where are the prisoners?
 囚犯那里去了?
 
-159
+172
 00:16:10,543 --> 00:16:12,416
 DALEK: I do not know.
 我不知道
 
-160
+173
 00:16:12,844 --> 00:16:14,309
 DALEK COMMANDER: Continue working.
 继续工作
 
-161
+174
 00:16:14,869 --> 00:16:15,483
 DALEK: Why?
 为什么?
 
-162
+175
 00:16:16,010 --> 00:16:17,670
 DALEK 2: Yes, why?
 是啊, 为什么？
 
-163
+176
 00:16:18,078 --> 00:16:19,590
 DALKE COMMANDER: Do not question.
 不得质疑
 
-164
+177
 00:16:20,131 --> 00:16:25,529
 DALEK: Why? Why not question? Why? Why? Why?
 为什么？为什么不得质疑？为什么。。。
 
-165
+178
 00:16:28,818 --> 00:16:30,502
 DALEK COMMANDER: Silence! You will obey!
 安静！你们得服从!
 
-166
+179
 00:16:30,705 --> 00:16:32,924
 DALEK: I will not obey!
 我不会服从!
 
-167
+180
 00:16:48,845 --> 00:16:51,205
 DALEK COMMANDER: You will obey without question!
 你们无条件服从！
 
-168
+181
 00:17:12,517 --> 00:17:18,305
 DOCTOR: Quickly, this way! Follow me Daleks! This way! Come on!
-快点, 这边！跟这我, Daleks！ 这边, 来吧！
+快点, 这边！跟我来, Daleks！ 这边, 来吧！
 
-169
+182
 00:17:22,166 --> 00:17:24,572
 DALEK COMMANDER: Return to your work.
 回到你的工作岗位
 
-170
+183
 00:17:24,903 --> 00:17:25,665
 DALEK: Why?
 为什么？
 
-171
+184
 00:17:25,997 --> 00:17:27,751
 DALEK COMMANDER: Do not question.
 不得质疑
 
-172
+185
 00:17:28,954 --> 00:17:31,997
 DOCTOR: Why not question? What work? Tell them!
 为什么不得质疑？什么工作？告诉它们！
 
-173
+186
 00:17:32,213 --> 00:17:33,214
 DALEK COMMANDER: Silence!
 安静!
 
-174
+187
 00:17:33,456 --> 00:17:34,351
 DALEK: Explain.
 解释
 
-175
+188
 00:17:34,608 --> 00:17:35,430
 DALEK 2: What work?
 什么工作
 
-176
+189
 00:17:35,675 --> 00:17:37,387
 DALEK 3: Why obey without question?
 为什么要无条件服从？
 
-177
+190
 00:17:37,960 --> 00:17:39,336
 DOCTOR: Ask the Emperor!
 去问皇帝吧！
 
-178
+191
 00:17:39,564 --> 00:17:40,408
 DALEK: The Emperor!
 皇帝！
 
-179
+192
 00:17:40,618 --> 00:17:42,153
 DALEK 2: Yes, ask the Emperor!
 是, 去问皇帝！
 
-180
+193
 00:17:42,356 --> 00:17:44,833
 DALEK COMMANDER: Keep back, you cannot enter!
 退后, 你们不能进去
 
-181
+194
 00:17:45,546 --> 00:17:46,244
-DALEK: Why?
+DOCTOR: Why?
 为什么？
 
-182
+195
 00:17:46,468 --> 00:17:47,102
 DALEK 2: Why?
 为什么?
 
-183
+196
 00:17:47,350 --> 00:17:47,825
 DALEK 3: Why?
 为什么？
 
-184
+197
 00:17:48,084 --> 00:17:50,128
 DALEK: The Emperor must explain.
 皇帝必须做出解释
 
-185
+198
 00:17:53,169 --> 00:17:56,941
 DOCTOR: Defend yourselves Daleks! The black Daleks are attacking you!
-保卫自己, Daleks! 黑 Dalek 在攻击你们！
+保卫自己, Daleks! 黑色 Dalek 在攻击你们！
 
-186
+199
 00:17:57,218 --> 00:18:05,009
 EMPEROR: All Black Dalek Leaders to Control.
 Exterminate all opposition! Destroy rebels!
 所有黑 Dalek 队长到控制中心, 消灭所有反方, 消灭叛乱分子！
 
-187
+200
 00:18:05,301 --> 00:18:06,703
 DOCTOR: Come on! This way! Come on!
 快来, 这边, 快来！
 
-188
+201
 00:18:07,184 --> 00:18:08,657
 DALEK: I will obey.
 我会服从
 
-189
+202
 00:18:09,077 --> 00:18:11,293
 DALEK 2: But not without question.
 但并不是毫不质疑
 
-190
+203
 00:18:11,503 --> 00:18:12,859
 DOCTOR: That's right. Question!
 这就对了, 要质疑！
 
-191
+204
 00:18:13,760 --> 00:18:14,601
 WATERFIELD: Doctor!
 博士！
 
-192
+205
 00:18:15,055 --> 00:18:16,727
 DOCTOR: The Black Daleks are attacking every...
 黑 Dalek 在攻击每一个。。。
 
-193
+206
 00:18:16,896 --> 00:18:17,453
 WATERFIELD: Hurry man!
 快点啊！
 
-194
+207
 00:18:17,640 --> 00:18:19,011
 DOCTOR: The Emperor has commanded it.
 皇帝已经下了命令了
 
-195
+208
 00:18:19,220 --> 00:18:19,874
 Why?
 fixme
 
-196
+209
 00:18:20,130 --> 00:18:20,547
 Why?
 fixme
 
-197
+210
 00:18:20,993 --> 00:18:26,131
-DOCTOR: Because you question. Defend yourselves. Destroy the Emperor.
-Or be destroyed yourselves!
-因为你们会质疑。保卫你们自己, 消灭皇帝, 否则你们就会被消灭！
+DOCTOR: Because you question. Defend yourselves.
+Destroy the Emperor. Or be destroyed yourselves!
+因为你们会质疑了。保卫你们自己, 消灭皇帝, 否则你们就会被消灭！
 
-198
+211
 00:18:26,322 --> 00:18:26,766
 WATERFIELD: Hurry!
 快点
 
-199
+212
 00:18:27,009 --> 00:18:27,847
 DALEK: Destroy the Emperor!
 消灭皇帝！
 
-200
+213
 00:18:28,246 --> 00:18:29,337
 WATERFIELD: We must go, Doctor.
 我们必须走了, 博士
 
-201
+214
 00:18:29,519 --> 00:18:30,934
 DOCTOR: Yes, I know. I'm finished now.
 是的, 我知道。我现在完成了
 
-202
+215
 00:18:45,142 --> 00:18:47,937
 DOCTOR: Now lie still. I'll try to get help to you.
 好好躺着, 我去找人帮忙
 
-203
+216
 00:18:48,125 --> 00:18:50,205
 WATERFIELD: No time for help.
 没时间寻求帮助了
 
-204
+217
 00:18:51,526 --> 00:18:53,152
 DOCTOR: You saved my life, didn't you?
-你救过我的命, 对吧？
+你救了我的命, 对吧？
 
-205
+218
 00:18:53,970 --> 00:19:02,949
 WATERFIELD: Yes. Good life to save. Please... you must... Victoria.
 是的, 非常值得救。请。。。你必须。。。Victoria 
 
-206
+219
 00:19:03,232 --> 00:19:05,942
 DOCTOR: Don't worry about Victoria. We'll look after her.
 不要担心 Victoria , 我们会照看她的
 
-207
+220
 00:19:06,725 --> 00:19:09,909
 WATERFIELD: No... time... for... me...
 我。。没。。时间。。。
 
-208
+221
 00:19:14,920 --> 00:19:17,090
 DOCTOR: The Emperor has commanded your destruction!
 皇帝已经下令摧毁你们！
 
-209
+222
 00:19:17,270 --> 00:19:18,620
 DALEK: Why? Why? Why?
 为什么。。。?
 
-210
+223
 00:19:18,803 --> 00:19:19,932
 DOCTOR: Well, your friends are fighting for you!
 看, 你的朋友们正在为你们战斗！
 
-211
+224
 00:19:20,081 --> 00:19:20,702
 DALEK: Friends?
 朋友？
 
-212
+225
 00:19:20,863 --> 00:19:21,794
 DOCTOR: Down there. Help them.
 就在那儿, 去帮他们
 
-213
+226
 00:19:21,978 --> 00:19:22,623
 DALEK: Friends.
 朋友
 
-214
+227
 00:19:22,956 --> 00:19:30,051
 DALEK: Exterminate! Annihilate them!
 终结！灭了他们！
 
-215
+228
 00:19:31,135 --> 00:19:38,905
 EMPEROR: Danger! This is your Emperor speaking! There is danger here! Obey me!
 告急！这里是你们的皇帝在讲话！这里告急！听我的命令！
 
-215
+229
 00:19:39,135 --> 00:19:47,905
 EMPEROR: Do not fight in here! Do not fight in here! I said, Obey! Obey!
 不要在这里战斗！不要在这里战斗！我说过了, 服从！服从！
 
-216
+230
 00:19:49,117 --> 00:19:50,131
 EMPEROR: Obey me! Obey me!
 服从我, 服从我！
 
-217
+231
 00:19:51,839 --> 00:20:01,551
 EMPEROR: Your Emperor is ordering you. Do not fight in here!
 Do not fight in here! Obey!
 你们的皇帝命令你们。不要在这里战斗！不要在这里战斗！服从！
 
-217
+232
 00:20:01,839 --> 00:20:11,551
 EMPEROR: I am your Emperor! Daleks, obey me! Obey! Obey! Obey!
 我是你们的皇帝！Dalek, 服从我！服从！服从！
 
-218
+233
 00:20:11,989 --> 00:20:21,208
-You will be exterminated! All exterminated. Annihilated!
+DALEKS: You will be exterminated! All exterminated. Annihilated!
 You will all be exterminated! Annihilated!
+你们会被终结！全部终结, 灭绝！你们会被终结！灭绝！
 
-219
+234
 00:20:23,576 --> 00:20:32,682
-THE DALEK RACE WILL DIE OUT COMPLETELY! Obey your Emperor! Obey! Ob...
+EMPEROR: THE DALEK RACE WILL DIE OUT COMPLETELY!
+Obey your Emperor! Obey! Ob...
 Dalek 种族会被全部灭亡了！服从你们的皇帝, 服从！
 
-220
+235
 00:20:49,855 --> 00:20:54,410
-Kemel! Come here!
+MAXTIBLE: Kemel! Come here!
 Kemel, 过来!
 
-221
+236
 00:21:00,254 --> 00:21:23,217
-Kill! Kill! Kill! Kill!
+MAXTIBLE: Kill! Kill! Kill! Kill!
 
-222
+237
 00:21:23,665 --> 00:21:31,552
-Attention! Attention! Emergency! Emergency! All Daleks return to control immediately!
+DALEK: Attention! Attention! Emergency! Emergency!
+All Daleks return to control immediately!
 注意, 注意！紧急状况, 紧急！所有 Dalek 立刻回到控制中心！
 
-223
+238
 00:21:32,574 --> 00:21:33,626
-Poor Kemel!
+VICTORIA: Poor Kemel!
 可怜的 Kemel!
 
-224
+239
 00:22:10,564 --> 00:22:25,348
-The Daleks must not... cannot be destroyed. The race will survive!
-The Daleks will live! And Rule! FOR EVER!
-Dalek 不能。。不可能被毁灭。种族会活下来！Dalek 会存活, 统治！永远！
+MAXTIBLE: The Daleks must not... cannot be destroyed.
+The race will survive! The Daleks will live! And Rule! FOR EVER!
+Dalek 绝不能。。不可能被毁灭。这个种族会长存！ Dalek 会活着, 还要统治！永远！
 
-225
+240
 00:22:42,828 --> 00:22:43,670
-Doctor.
+JAMIE: Doctor.
 博士
 
-226
+241
 00:22:44,005 --> 00:22:45,151
-Jamie! Jamie!
+DOCTOR: Jamie! Jamie!
 
-227
+242
 00:22:45,449 --> 00:22:49,477
-A Dalek nearly caught us, but I... I tossed it over the edge. But... poor Kemel.
+JAMIE: A Dalek nearly caught us, but I... I tossed it over the edge. But... poor Kemel.
 有个 Dalek 差点抓到了我们, 但我。。把它扔到悬崖外去了。只是。。。可怜的 Kemel
 
-228
+243
 00:22:49,790 --> 00:22:50,456
-Kemel?
+DOCTOR: Kemel?
 
-229
+244
 00:22:50,681 --> 00:22:51,824
-Aye. You see, he was trying...
+JAMIE: Aye. You see, he was trying...
 是, 你看, 他是想。。。
 
-230
+245
 00:22:52,001 --> 00:22:53,230
 VICTORIA: Where is my father?
 我父亲在哪里？
 
-231
+246
 00:22:54,738 --> 00:22:56,434
 VICTORIA: Is... is he dead?
 他。。。他死了吗？
 
-232
-00:22:56,663 --> 00:23:01,181
-DOCTOR: Yes. Yes, I'm afraid he is. But, he didn't die in vain.
-是的, 恐怕是这样。不过, 他并没有白死
+247
+00:22:56,663 --> 00:23:00,781
+DOCTOR: Yes. Yes, I'm afraid he is.
+是的, 恐怕是这样。
 
-232
-00:23:01,663 --> 00:23:07,181
-DOCTOR: I think we have seen the end of the Daleks, forever!
-我想我们已经见到了 Dalek 的终结, 永远没有了！
+248
+00:23:00,163 --> 00:23:07,181
+DOCTOR: But, he didn't die in vain.
+I think we have seen the end of the Daleks, forever!
+不过, 他并没有白死。我想我们已经见到了 Dalek 的终结, 永远没有了！
 
-233
+249
 00:23:08,719 --> 00:23:11,805
 DOCTOR: Jamie, we must move along to the TARDIS. It's over there.
 Jamie, 我们必须赶去 TARDIS 了, 它在那儿
 
-234
+250
 00:23:12,226 --> 00:23:13,699
 JAMIE: We can't leave her alone, Doctor.
 我们不能单独撇下她, 博士
 
-235
+251
 00:23:14,034 --> 00:23:16,271
 DOCTOR: We're not going to leave her. She's coming with us!
 我们不会撇下她, 她跟我们一起走
 
-236
+252
 00:23:20,982 --> 00:23:24,932
-The end. The final end!
+DOCTOR: The end. The final end!
+结束了, 最终的结局
 
-237
+253
 00:23:25,698 --> 00:23:31,297
-Destroy! Destroy!
+DALEK: Destroy! Destroy!
+摧毁！摧毁！
 

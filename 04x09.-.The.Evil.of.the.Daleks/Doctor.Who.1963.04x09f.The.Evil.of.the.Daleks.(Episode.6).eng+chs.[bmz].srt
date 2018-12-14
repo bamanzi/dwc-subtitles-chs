@@ -1,1306 +1,1337 @@
 1
-00:00:06,006 --> 00:00:09,006
+00:00:05,200 --> 00:00:15,000
+Doctor Who (1963) 04x09  The Evil of the Daleks (Episode 6)
+《神秘博士》老版第四季第九集 《Daleks 的邪恶》 (第六部分)
+
+2
+00:00:20,200 --> 00:00:25,000
+【翻译】巴蛮子sz
+
+3
+00:00:25,200 --> 00:00:30,000
+【时间轴】巴蛮子sz
+
+4
+00:00:30,200 --> 00:00:35,000
+【校对】巴蛮子sz
+
+5
+00:00:35,200 --> 00:00:40,000
+<i>基于 opentitles.org 英文字幕翻译</i>
+
+6
+00:00:40,200 --> 00:00:45,006
 Sincro: wyxchari
 
 2
-00:00:34,411 --> 00:00:37,378
+00:00:33,561 --> 00:00:36,528
 DOCTOR: It's a game, Jamie! They're playing a game!
 这是个游戏, Jamie, 他们在跟我玩游戏！
 
 3
-00:00:38,128 --> 00:00:42,101
+00:00:37,278 --> 00:00:41,251
 DOCTOR: A rather amusing little game, don't you think so Jamie.
 一个很有意思的小游戏，你不觉得吗 Jamie？
 
 4
-00:00:43,016 --> 00:00:47,862
+00:00:42,166 --> 00:00:47,012
 DOCTOR: We've done it! Maxtible, they've got the "Human Factor". We've done it!
 我们搞定了, Maxtible, 他们得到了“人类特质”, 我们搞定了！
 
 5
-00:00:48,016 --> 00:00:51,862
+00:00:47,166 --> 00:00:51,012
 DOCTOR: What are they doing now? Look, they're all joining in. They're playing train!
 他们在干什么？看, 他们都连起来了, 他们在玩火车！
 
 6
-00:00:53,954 --> 00:01:00,289
+00:00:53,104 --> 00:00:59,439
 DALEK: Train, train, train, train.
 火车, 火车, 火车, 火车
 
 7
-00:01:00,849 --> 00:01:06,476
+00:00:59,999 --> 00:01:05,626
 DOCTOR: Oh... oh, now what is it? Oh, we're on the roundabout. They're playing roundabout.
 噢。。噢, 现在玩什么？哦, 我们被包围了, 他们在玩转圈圈
 
 8
-00:01:06,849 --> 00:01:12,476
+00:01:05,999 --> 00:01:11,626
 DOCTOR: Oh, I'm getting dizzy. Oh dear. Oh, oh, ho, ho, oh. I'm dizzy! Oh, ho, ho. I'm dizzy.
 噢, 我要晕了。哦, 天啦, 哦, 哦, 哦, 我晕了！哦, 我晕了
 
 9
-00:01:13,019 --> 00:01:19,012
+00:01:12,169 --> 00:01:18,162
 DALEK: Diz-yy, diz-yy, dizzy Doctor.
 晕-了, 晕-了, 晕-了-博士
 
 10
-00:01:19,347 --> 00:01:22,197
+00:01:18,497 --> 00:01:21,347
 DOCTOR: Maxtible, do you hear that? They've got a sense of humour!
 Maxtible, 你听到了吗？他们有了幽默感！
 
 11
-00:01:22,489 --> 00:01:24,638
+00:01:21,639 --> 00:01:23,788
 MAXTIBLE: I'm glad you are so easily amused.
 我很高兴你是如此容易被逗乐
 
 12
-00:01:25,083 --> 00:01:28,743
+00:01:24,233 --> 00:01:27,893
 MAXTIBLE: Well, I congratulate you, Doctor. They are almost human.
 很好, 恭喜你, 博士。他们很人类
 
 13
-00:01:28,962 --> 00:01:29,752
+00:01:28,112 --> 00:01:28,902
 DOCTOR: They are!
 的确是！
 
 14
-00:01:29,966 --> 00:01:32,752
+00:01:29,116 --> 00:01:31,902
 MAXTIBLE: And I will now leave you to your little game.
 我就不耽误你玩你的小游戏了
 
 15
-00:01:33,270 --> 00:01:34,271
+00:01:32,420 --> 00:01:33,421
 DOCTOR: Oh, thank you.
 哦, 谢谢你
 
 16
-00:01:34,831 --> 00:01:37,136
+00:01:33,981 --> 00:01:36,286
 JAMIE: Well, how old are they now, Doctor - mentally?
 那, 他们有多大年龄, 博士 —— 从思维上说？
 
 17
-00:01:37,363 --> 00:01:42,599
+00:01:36,513 --> 00:01:41,749
 DOCTOR: Oh, they're just young children, but they'll grow up very fast - within a matter of hours.
 噢, 他们还只是小孩子, 不过他们会长得很快 —— 只要几个小时
 
 18
-00:01:42,363 --> 00:01:47,799
+00:01:41,513 --> 00:01:46,949
 DOCTOR: Now, uh... come here all of you. Come along, gather round.
 Come here. Now then, come along, come along.
 现在, 你们都过来, 到这里来, 靠拢, 到这里来。来吧, 过来
 
 19
-00:01:48,427 --> 00:01:51,328
+00:01:47,577 --> 00:01:50,478
 DALEK: Who is this?
 这是谁？
 
 20
-00:01:52,214 --> 00:01:55,292
+00:01:51,364 --> 00:01:54,442
 DOCTOR: Oh, this is Jamie. He's a friend.
 哦, 这是 Jamie, 他是个朋友
 
 21
-00:01:55,933 --> 00:02:01,365
+00:01:55,083 --> 00:02:00,515
 DALEK: Friend. Hello, friend.
 朋友。你好, 朋友
 
 22
-00:02:01,578 --> 00:02:03,145
+00:02:00,728 --> 00:02:02,295
 DOCTOR: Well, say hello Jamie.
 很好, 说你好, Jamie
 
 23
-00:02:03,360 --> 00:02:04,179
+00:02:02,510 --> 00:02:03,329
 JAMIE: Hello.
 你好
 
 24
-00:02:04,389 --> 00:02:10,759
+00:02:03,539 --> 00:02:09,909
 DOCTOR: You know what a friend is, don't you? It's somebody who
 ...who likes you - who wants to help you and share with you.
 你知道什么是朋友, 对不？就是喜欢你的人 - 愿意帮助你, 跟你一起分享的人
 
 25
-00:02:11,155 --> 00:02:12,197
+00:02:10,305 --> 00:02:11,347
 DOCTOR: There we are.
 好啦, 都到了
 
 26
-00:02:12,633 --> 00:02:14,315
+00:02:11,783 --> 00:02:13,465
 DALEK: What have you done?
 你做了什么?
 
 27
-00:02:14,532 --> 00:02:22,344
+00:02:13,682 --> 00:02:21,494
 DOCTOR: I have given you all names. Alpha, Beta and Omega.
 我给你们都取了名字：阿尔法、贝塔、欧米伽
 
 28
-00:02:22,642 --> 00:02:34,453
+00:02:21,792 --> 00:02:33,603
 DALEK: Alpha, Beta, Omega. Alpha, Beta, Omega. Alpha, Beta, Omega.
 阿尔法、贝塔、欧米伽, 阿尔法、贝塔、欧米伽, 阿尔法、贝塔、欧米伽
 
 29
-00:02:34,694 --> 00:02:40,810
+00:02:33,844 --> 00:02:39,960
 DOCTOR: Yes, yes, yes. now... now, this is Jamie and I am Doctor. We are friends.
 是的, 是的, 是的。现在。。现在, 这位是 Jamie, 我是博士, 我们是朋友
 
 30
-00:02:41,348 --> 00:02:52,766
+00:02:40,498 --> 00:02:51,916
 DALEK: Friends, friends, Jamie, Doctor, friends, friends.
 朋友, 朋友, Jamie, 博士, 朋友, 朋友。
 
 31
-00:02:53,348 --> 00:03:00,766
+00:02:52,498 --> 00:02:59,916
 DALEK: We must go now. We are called.
 我们得走了, 被召唤了
 
 32
-00:03:01,005 --> 00:03:06,942
+00:03:00,155 --> 00:03:06,092
 DOCTOR: Go? Go where? What do you mean, "go"?
 走？去哪儿？你们什么意思, “走”？
 
 33
-00:03:07,339 --> 00:03:12,490
+00:03:06,489 --> 00:03:11,640
 DALEK: All Daleks are ordered to return to Skaro.
 所有 Daleks 都被命令返回 Skaro
 
 34
-00:03:13,241 --> 00:03:15,922
+00:03:12,391 --> 00:03:15,072
 DOCTOR: Return to Skaro? But, that's the Dalek planet.
 返回 Skaro? 但是, 那是 Dalek 的星球
 
 35
-00:03:16,389 --> 00:03:17,922
+00:03:15,539 --> 00:03:17,072
 DALEK: Friend.
 朋友
 
 36
-00:03:19,799 --> 00:03:24,085
+00:03:18,949 --> 00:03:23,235
 JAMIE: But if the Daleks are returning to Skaro, where's Victoria?
 如果 Daleks 全都要返回 Skaro, 那 Victoria 呢？
 
 37
-00:03:24,508 --> 00:03:28,073
+00:03:23,658 --> 00:03:27,223
 DOCTOR: Victoria! We left her in the secret passage. Come on - follow me!
 Victoria! 我们把她忘在秘密通道了, 快, 跟我来！
 
 38
-00:03:33,379 --> 00:03:37,658
+00:03:32,529 --> 00:03:36,808
 MAXTIBLE: I assure you, my dear Waterfield, Victoria is perfectly safe.
 我向你保证, 我亲爱的 Waterfield, Victoria 现在非常的安全
 
 39
-00:03:37,920 --> 00:03:39,267
+00:03:37,070 --> 00:03:38,417
 WATERFIELD: But where is she?
 但她在哪儿？
 
 40
-00:03:39,478 --> 00:03:40,988
+00:03:38,628 --> 00:03:40,138
 MAXTIBLE: The Daleks have released her.
 Dalek 已经放了她
 
 41
-00:03:41,524 --> 00:03:42,591
+00:03:40,674 --> 00:03:41,741
 WATERFIELD: Released?
 放了？
 
 42
-00:03:42,804 --> 00:03:44,190
+00:03:41,954 --> 00:03:43,340
 MAXTIBLE: Yes, yes, yes, yes, yes.
 是的, 是的, 是的
 
 43
-00:03:44,360 --> 00:03:45,629
+00:03:43,510 --> 00:03:44,779
 WATERFIELD: Well, then, where is she?
 那, 她在哪儿？
 
 44
-00:03:45,793 --> 00:03:49,861
+00:03:44,943 --> 00:03:49,011
 MAXTIBLE: She's probably lying down. Ruth will be taking care of her. You may be sure of that.
 她很可能已经睡觉了, Ruth 在照顾她, 你可以放心
 
 45
-00:03:50,006 --> 00:03:55,039
+00:03:49,156 --> 00:03:54,189
 WATERFIELD: Not Ruth, no. I saw her and Mollie helping
 Arthur Terrall into a dog-cart not half an hour since.
 不会是 Ruth, 不。我看见她和 Mollie 扶着 Arthur Terrall 进了一辆马车, 不到半个小时前
 
 46
-00:03:55,268 --> 00:03:56,564
+00:03:54,418 --> 00:03:55,714
 MAXTIBLE: Ruth and Terrall?
 Ruth 和 Terrall?
 
 47
-00:03:56,763 --> 00:04:00,695
+00:03:55,913 --> 00:03:59,845
 WATERFIELD: Yes. Surely you knew they were leaving?
 是, 当然你知道他们离开吧？
 
 48
-00:04:00,873 --> 00:04:04,360
+00:04:00,023 --> 00:04:03,510
 MAXTIBLE: Oh, yes, yes, indeed, yes. It, it slipped my memory.
 噢, 是的, 是的, 的确是。我都忘了。
 
 49
-00:04:04,873 --> 00:04:10,360
+00:04:04,023 --> 00:04:09,510
 MAXTIBLE: Umm... As you see, I'm going for a little trip myself.
 I... No doubt, I shall join them.
 如你所见, 我也要有一段小旅程了。无疑地, 我会跟他们会合
 
 50
-00:04:10,873 --> 00:04:14,360
+00:04:10,023 --> 00:04:13,510
 MAXTIBLE: Well, possibly she's, ah... taking a stroll in the garden.
 Go along and see. Go along and see.
 。那。。她可能正在花园散步呢。去看看吧, 去看看
 
 51
-00:04:14,602 --> 00:04:15,293
+00:04:13,752 --> 00:04:14,443
 WATERFIELD: Yes
 好吧
 
 52
-00:04:15,587 --> 00:04:20,586
+00:04:14,737 --> 00:04:19,736
 MAXTIBLE: Well, go along man! Go along and see. Find your Victoria.
 嗯, 去吧, 去看看, 找到你的 Victoria
 
 53
-00:04:22,330 --> 00:04:23,929
+00:04:21,480 --> 00:04:23,079
 MAXTIBLE: Stupid, stupid girl.
 蠢人, 愚蠢的女孩儿
 
 54
-00:04:54,050 --> 00:04:55,578
+00:04:53,200 --> 00:04:54,728
 DALEK: What are you doing?
 你在干什么？
 
 55
-00:04:55,804 --> 00:04:57,382
+00:04:54,954 --> 00:04:56,532
 MAXTIBLE: Merely, ah... looking.
 只不过是。。。看看
 
 56
-00:04:57,820 --> 00:04:59,598
+00:04:56,970 --> 00:04:58,748
 DALEK: Do not touch the instrument.
 不要碰这些仪器
 
 57
-00:04:59,859 --> 00:05:01,468
+00:04:59,009 --> 00:05:00,618
 MAXTIBLE: What is that box for?
 这个盒子是做什么的
 
 58
-00:05:01,652 --> 00:05:05,145
+00:05:00,802 --> 00:05:04,295
 DALEK: Do not question. You have your orders.
 不要提问, 你要遵循你的命令
 
 59
-00:05:05,321 --> 00:05:10,965
+00:05:04,471 --> 00:05:10,115
 MAXTIBLE: Oh, yes, yes, yes, yes. To... To bring the Doctor
 and his companion to you here for our little trip.
 噢, 是, 是, 是, 是。要把博士和他的同伴给你们带来, 一起进行我们的小旅程
 
 60
-00:05:11,170 --> 00:05:11,951
+00:05:10,320 --> 00:05:11,101
 DALEK: Yes
 是的
 
 61
-00:05:12,161 --> 00:05:15,114
+00:05:11,311 --> 00:05:14,264
 MAXTIBLE: And then... The secret - you will give it to me?
 然后。。那个秘密 - 你们会给我的吧？
 
 62
-00:05:15,563 --> 00:05:16,399
+00:05:14,713 --> 00:05:15,549
 DALEK: Yes.
 是的
 
 63
-00:05:16,590 --> 00:05:18,598
+00:05:15,740 --> 00:05:17,748
 MAXTIBLE: The formula - the transmutation formula.
 秘方 - 转换秘方
 
 64
-00:05:18,794 --> 00:05:25,489
+00:05:17,944 --> 00:05:24,639
 DALEK: Yes. Obey your order. Do not delay.
 是的。服从你的命令, 不要延误
 
 65
-00:05:50,846 --> 00:06:01,847
+00:05:49,996 --> 00:06:00,997
 MAXTIBLE: Doctor, Doctor! Doctor!
 博士, 博士, 博士！
 
 66
-00:06:02,123 --> 00:06:05,638
+00:06:01,273 --> 00:06:04,788
 MAXTIBLE: Oh, Waterfield, how I'm delighted you've come back.
 噢, Waterfield, 我很高兴你回来了
 
 67
-00:06:05,823 --> 00:06:11,638
+00:06:04,973 --> 00:06:10,788
 MAXTIBLE: Now will you please go and find the Doctor and his companion
 Jamie and bring them here to me? It is a matter of some urgency.
 你能不能去找到博士和他的同伴 Jamie, 把他们带来见我？这里有点急事
 
 68
-00:06:12,169 --> 00:06:13,137
+00:06:11,319 --> 00:06:12,287
 WATERFIELD: Maxtible?
 
 69
-00:06:13,364 --> 00:06:14,286
+00:06:12,514 --> 00:06:13,436
 MAXTIBLE: Oh, what is it?
 哦, 什么事？
 
 70
-00:06:14,594 --> 00:06:16,598
+00:06:13,744 --> 00:06:15,748
 WATERFIELD: What have you "arranged" with the Daleks?
 你跟 Daleks 在策划什么事情？
 
 71
-00:06:16,869 --> 00:06:18,133
+00:06:16,019 --> 00:06:17,283
 MAXTIBLE: The Daleks; nothing.
 Daleks？ 没有啊
 
 72
-00:06:18,307 --> 00:06:20,151
+00:06:17,457 --> 00:06:19,301
 WATERFIELD: What formula did they promise you?
 他们承诺给你什么秘方？
 
 73
-00:06:20,346 --> 00:06:21,784
+00:06:19,496 --> 00:06:20,934
 MAXTIBLE: No formula whatever.
 没什么秘方
 
 74
-00:06:22,060 --> 00:06:27,081
+00:06:21,210 --> 00:06:26,231
 WATERFIELD: What are you doing? You've sold yourself to them, haven't you?
 你做些什么？你把自己卖给了他们, 是不是？
 
 75
-00:06:27,260 --> 00:06:28,445
+00:06:26,410 --> 00:06:27,595
 MAXTIBLE: You fool!
 傻人
 
 76
-00:06:28,663 --> 00:06:34,323
+00:06:27,813 --> 00:06:33,473
 WATERFIELD: Yes, I'm a fool - a fool not to have realised before
 that it was you who brought this misery down on us.
 是的, 我很傻, 傻到一直都没有意识到, 带给我们这些悲剧的, 正是你
 
 77
-00:06:34,585 --> 00:06:43,203
+00:06:33,735 --> 00:06:42,353
 MAXTIBLE: You, you never did understand anything, did you?
 Well, metal into gold. That's what the Daleks are going to give me.
 你, 你从来就什么都不明白, 是吧。好吧, 金属变成金子, 那就是 Dalek 要给我的秘方
 
 78
-00:06:43,585 --> 00:06:50,203
+00:06:42,735 --> 00:06:49,353
 MAXTIBLE: Now do you begin to understand? The secret of the transmutation of metal into gold.
 现在你明白了吗？将金属变成金子的秘密
 
 79
-00:06:50,434 --> 00:06:53,584
+00:06:49,584 --> 00:06:52,734
 WATERFIELD: Do you imagine I care about that?! Where is Victoria?
 你以为我在乎那个吗？ Victoria 在哪儿！
 
 80
-00:06:53,782 --> 00:06:54,944
+00:06:52,932 --> 00:06:54,094
 MAXTIBLE: I've not the remotest idea.
 我完全不知道
 
 81
-00:06:55,158 --> 00:06:57,060
+00:06:54,308 --> 00:06:56,210
 WATERFIELD: Yes, you have, and you're going to tell me!
 你知道, 而且你会告诉我！
 
 82
-00:06:57,237 --> 00:07:08,542
+00:06:56,387 --> 00:07:07,692
 MAXTIBLE: Get your hands off my throat. Let go of me! Murder!
 Murder! Murder! Murder! Murder! Murder! Murder! Murder! Oh.
 别用手掐我的喉咙, 放开我！谋杀啊, 谋杀, 谋杀。。。。。噢 
 
 83
-00:07:13,389 --> 00:07:15,041
+00:07:12,539 --> 00:07:14,191
 MAXTIBLE: Oh, what are you doing?
 噢, 你在干什么？
 
 84
-00:07:15,270 --> 00:07:16,405
+00:07:14,420 --> 00:07:15,555
 DALEK: Where is the Doctor?
 博士在哪儿？
 
 85
-00:07:16,638 --> 00:07:17,980
+00:07:15,788 --> 00:07:17,130
 MAXTIBLE: Well, I had no time to bring him.
 呃——我还没时间把他带来
 
 86
-00:07:18,166 --> 00:07:20,103
+00:07:17,316 --> 00:07:19,253
 DALEK: Hurry. That is an order.
 快去, 这是命令
 
 87
-00:07:20,296 --> 00:07:22,297
+00:07:19,446 --> 00:07:21,447
 MAXTIBLE: What is that box for? Will you tell me?
 这个箱子是做什么的, 你能告诉我妈
 
 88
-00:07:22,545 --> 00:07:24,906
+00:07:21,695 --> 00:07:24,056
 DALEK: We are destroying this area.
 我们要摧毁这片区域
 
 89
-00:07:25,211 --> 00:07:29,911
+00:07:24,361 --> 00:07:29,061
 MAXTIBLE: But you can't do that. Turn it off! You cannot destroy my house!
 你不能这么做, 关掉它！你不能摧毁我的房子！
 
 90
-00:07:30,109 --> 00:07:32,891
+00:07:29,259 --> 00:07:32,041
 DALEK: Bring the Doctor. Obey! Immediately!
 把博士带来, 服从！马上！
 
 91
-00:07:33,100 --> 00:07:39,714
+00:07:32,250 --> 00:07:38,864
 MAXTIBLE: But, uh... the secret. If you destroy my laboratory,
 the secret is useless! You promised me.
 但是。。秘密呢？如果你毁了我的实验室, 秘密就没有用了！你许诺过我的
 
 92
-00:07:39,900 --> 00:07:49,714
+00:07:39,050 --> 00:07:48,864
 MAXTIBLE: They must be out of their minds! Destroy my laboratory?
 The very idea... Well, well.
 他们一定是疯了！要毁了我的实验室？这个想法。。。好吧, 好吧
 
 93
-00:07:50,100 --> 00:08:09,714
+00:07:49,250 --> 00:08:08,864
 MAXTIBLE: But, oh, goodness gracious me, only two minutes. Doctor, Doctor, Doctor...
 只是, 噢, 乖乖, 只有两分钟了。博士, 博士, 博士。。。
 
 94
-00:08:27,128 --> 00:08:31,985
+00:08:26,278 --> 00:08:31,135
 DALEK: All Daleks return to Skaro.
 所有 Daleks 返回 Skaro
 
 95
-00:08:38,247 --> 00:08:41,700
+00:08:37,397 --> 00:08:40,850
 DALEK: All Daleks return to Skaro.
 所有 Daleks 返回 Skaro
 
 96
-00:08:41,957 --> 00:08:42,433
+00:08:41,107 --> 00:08:41,583
 DALEK: And the prisoners?
 囚犯怎么安排？
 
 97
-00:08:42,627 --> 00:08:45,804
+00:08:41,777 --> 00:08:44,954
 DALEK: They are already in transit.
 他们已经在路上了
 
 98
-00:08:46,084 --> 00:08:51,927
+00:08:45,234 --> 00:08:51,077
 WATERFIELD: Doc... Dalek... Doctor.
 博。。Dalek。。博士。。
 
 99
-00:08:52,045 --> 00:08:54,096
+00:08:51,195 --> 00:08:53,246
 DOCTOR: Waterfield, what's happened to you?
 Waterfield, 你怎么了？
 
 100
-00:08:54,234 --> 00:09:01,158
+00:08:53,384 --> 00:09:00,308
 WATERFIELD: Doc... Doctor, Daleks are going to destroy... house. Can't turn it off.
 博。。博士, Daleks 要毁灭。。房子, 我关不掉
 
 101
-00:09:01,273 --> 00:09:03,002
+00:09:00,423 --> 00:09:02,152
 DOCTOR: But, this is a time switch.
 是, 这是个计时器
 
 102
-00:09:03,130 --> 00:09:04,528
+00:09:02,280 --> 00:09:03,678
 JAMIE: Well, if you can't turn it off, surely...
 不过, 如果你不能关掉他, 还是可以。。。
 
 103
-00:09:04,786 --> 00:09:10,137
+00:09:03,936 --> 00:09:09,287
 DOCTOR: No, wait a minute. Eighty-nine, eighty-eight, eighty-seven.
 Just about a minute, that's all we've got.
 不, 等等, 89, 88, 87.。。只有一分多钟了, 我们只有这么多
 
 104
-00:09:10,305 --> 00:09:12,163
+00:09:09,455 --> 00:09:11,313
 JAMIE: Well, toss it out the window then.
 那, 把它扔到窗户外面去啊
 
 105
-00:09:12,232 --> 00:09:16,494
+00:09:11,382 --> 00:09:15,644
 DOCTOR: This isn't a firework. We'd have to toss this half a mile.
 We'll have to follow the Daleks to Skaro.
 这可不是烟花, 我们得把它扔到半英里以外才行。我们只能跟着 Daleks 到 Skaro 去了
 
-105
-00:09:16,732 --> 00:09:19,694
+106
+00:09:15,882 --> 00:09:18,844
 DOCTOR: Jamie, open the doors. Come along.
 Jamie, 把门打开, 快来
 
-106
-00:09:20,725 --> 00:09:22,111
+107
+00:09:19,875 --> 00:09:21,261
 JAMIE: Doctor, they're locked. They won't budge!
 博士, 门被锁住了, 推不动
 
-107
-00:09:22,280 --> 00:09:25,598
+108
+00:09:21,430 --> 00:09:24,748
 MAXTIBLE: Cupboard in the alcove. The time machine.
 壁橱里面的柜子, 那个时间机器
 
-108
-00:09:25,803 --> 00:09:33,765
+109
+00:09:24,953 --> 00:09:32,915
 DOCTOR: Time machine! Jamie, give me a hand. Come on.
 Quickly. Quickly. Here, now... Here, take this.
 时间机器！Jamie, 给我搭把手, 来, 快, 快点, 现在。。。这里, 抓住这个
 
-109
-00:09:35,437 --> 00:09:36,967
+110
+00:09:34,587 --> 00:09:36,117
 DOCTOR: Now the other one. Steady.
 现在, 另外一个, 稳住
 
-110
-00:09:43,030 --> 00:09:44,147
+111
+00:09:42,180 --> 00:09:43,297
 JAMIE: Right. Now, where's Victoria?
 好。对了, Victoria 在哪儿
 
-111
-00:09:44,334 --> 00:09:46,043
+112
+00:09:43,484 --> 00:09:45,193
 DOCTOR: Quick Jamie, the time switch!
 快 Jamie, 那个时间开关
 
-112
-00:09:49,633 --> 00:09:54,532
+113
+00:09:48,783 --> 00:09:53,682
 JAMIE: Twenty-eight, Doctor. Hey, Doctor, Kemel must have dropped this.
 28秒, 博士。嘿, 这肯定是 Kemel 掉下来的
 
-113
-00:09:54,732 --> 00:09:55,687
+114
+00:09:53,882 --> 00:09:54,837
 DOCTOR: Jamie!
 
-114
-00:09:57,947 --> 00:10:00,330
+115
+00:09:57,097 --> 00:09:59,480
 JAMIE: We'll find Victoria and Kemel too.
 我们得找到 Victoria, 还有 Kemel
 
-115
-00:10:38,007 --> 00:10:44,323
+116
+00:10:37,157 --> 00:10:43,473
 VICTORIA: Dear Kemel. Oh, there. Are any of the others here?
 亲爱的 Kemel, 噢, 这里还有其他人吗？
 
-116
-00:10:46,362 --> 00:10:47,418
+117
+00:10:45,512 --> 00:10:46,568
 VICTORIA: The Daleks?
 有 Daleks？
 
-117
-00:10:53,959 --> 00:10:56,119
+118
+00:10:53,109 --> 00:10:55,269
 DALEK: You will wait here.
 你们在这里等着
 
-118
-00:10:57,258 --> 00:10:58,779
+119
+00:10:56,408 --> 00:10:57,929
 VICTORIA: Oh, Mr. Maxtible.
 哦, Maxtible 先生
 
-119
-00:10:59,051 --> 00:11:00,416
+120
+00:10:58,201 --> 00:10:59,566
 MAXTIBLE: Oh, what are you doing here?
 啊, 你在这里做什么？
 
-120
-00:11:00,784 --> 00:11:03,487
+121
+00:10:59,934 --> 00:11:02,637
 VICTORIA: Don't know. Nor even where here may be.
 不知道, 甚至都不知道这里是哪里
 
-121
-00:11:03,889 --> 00:11:09,133
+122
+00:11:03,039 --> 00:11:08,283
 MAXTIBLE: Oh, we've been transported to the Dalek planet, my dear. To Skaro.
 哦, 我们被传送到了 Dalek 母星, 亲爱的, 它叫 Skaro
 
-122
-00:11:09,801 --> 00:11:11,876
+123
+00:11:08,951 --> 00:11:11,026
 VICTORIA: I don't understand you.
 我听不明白
 
-123
-00:11:12,102 --> 00:11:14,227
+124
+00:11:11,252 --> 00:11:13,377
 MAXTIBLE: A little journey through space.
 穿越空间的一趟小旅程
 
-124
-00:11:14,663 --> 00:11:18,309
+125
+00:11:13,813 --> 00:11:17,459
 VICTORIA: They've taken us somewhere. Is that what you mean?
 Away from your house?
 他们把我们带到了某个地方, 你是这个意思吗？不在你的房子里了？
 
-125
-00:11:18,530 --> 00:11:21,796
+126
+00:11:17,680 --> 00:11:20,946
 MAXTIBLE: Oh, far away. Far, far away.
 噢, 离那里很远, 很远
 
-126
-00:11:22,110 --> 00:11:24,322
+127
+00:11:21,260 --> 00:11:23,472
 VICTORIA: But why? What do they want?
 但是为什么？他们想要什么？
 
-127
-00:11:24,537 --> 00:11:28,564
+128
+00:11:23,687 --> 00:11:27,714
 MAXTIBLE: Well, I know why I am here. But why you are here,
 I have not the faintest idea.
 嗯, 我知道我什么在这里。但你为什么在这里, 我就一点都不清楚了
 
-128
-00:11:28,988 --> 00:11:31,575
+129
+00:11:28,138 --> 00:11:30,725
 VICTORIA: You seem to understand them. Ask them.
 看来你很了解他们, 那问问他们
 
-129
-00:11:31,800 --> 00:11:33,849
+130
+00:11:30,950 --> 00:11:32,999
 MAXTIBLE: Don't be foolish, girl. I shall do no such thing.
 别犯傻了, 姑娘。我才不做这种事情
 
-130
-00:11:34,045 --> 00:11:35,387
+131
+00:11:33,195 --> 00:11:34,537
 VICTORIA: And where's my father?
 还有, 我的父亲在哪儿？
 
-131
-00:11:35,576 --> 00:11:37,639
+132
+00:11:34,726 --> 00:11:36,789
 MAXTIBLE: I do not know. I'm not a nursemaid to your father.
 我不知道, 我又不是你父亲的保育员
 
-132
-00:11:40,625 --> 00:11:42,746
+133
+00:11:39,775 --> 00:11:41,896
 DALEK: Follow me.
 跟我来
 
-133
-00:11:43,150 --> 00:11:47,362
+134
+00:11:42,300 --> 00:11:46,512
 MAXTIBLE: Of course, I shall do my best for you.
 The matter is really entirely out of my hands.
 当然, 我会尽量帮你的。现在的情况真的完全不在我的掌握之中了
 
-134
-00:11:51,023 --> 00:12:55,144
+135
+00:11:50,173 --> 00:12:54,294
 VICTORIA: It's no good. He won't help us.
 这没用的, 他不会帮我们
 
-134
-00:11:56,023 --> 00:12:04,144
-VICTORIA: Don't worry Kemel, I shall protect you.
-别担心 Kemel, 我会保护你
-
-134
-00:12:06,023 --> 00:12:11,144
-VICTORIA: I shall see they do you no harm.
-我不会让他们伤害你的
-
-134
-00:12:13,023 --> 00:12:22,144
-VICTORIA: Yes, I suppose it was a bit silly.
-是的, 我觉得这有一点傻
-
-134
-00:11:51,023 --> 00:12:33,144
+136
+00:11:50,173 --> 00:12:32,294
 VICTORIA: Think so? Wish I did.
 你这么想？期望我也是
 
-135
-00:12:33,916 --> 00:12:39,253
+137
+00:11:55,173 --> 00:12:03,294
+VICTORIA: Don't worry Kemel, I shall protect you.
+别担心 Kemel, 我会保护你
+
+138
+00:12:05,173 --> 00:12:10,294
+VICTORIA: I shall see they do you no harm.
+我不会让他们伤害你的
+
+139
+00:12:12,173 --> 00:12:21,294
+VICTORIA: Yes, I suppose it was a bit silly.
+是的, 我觉得这有一点傻
+
+140
+00:12:33,066 --> 00:12:38,403
 VICTORIA: Oh well. Maybe between us we can fight them.
 We must face it out together.
 噢, 好吧, 也许我们两个可以跟他们斗。我们必须一起面对
 
-136
-00:12:43,380 --> 00:12:46,232
+141
+00:12:42,530 --> 00:12:45,382
 WATERFIELD: And that is the Dalek city?
 这就是 Dalek 之城？
 
-137
-00:12:46,694 --> 00:12:48,141
+142
+00:12:45,844 --> 00:12:47,291
 DOCTOR: Yes, it is.
 是的, 它就是
 
-138
-00:12:48,471 --> 00:12:50,837
+143
+00:12:47,621 --> 00:12:49,987
 JAMIE: I've scouted around, but I can't see any water.
 我四周探查过了, 没看见有水
 
-139
-00:12:51,124 --> 00:12:53,295
+144
+00:12:50,274 --> 00:12:52,445
 WATERFIELD: Oh, please don't bother. I feel much better.
 哦, 别麻烦了, 我感觉好多了
 
-140
-00:12:53,559 --> 00:12:54,400
+145
+00:12:52,709 --> 00:12:53,550
 DOCTOR: Are you sure?
 你确定吗？
 
-141
-00:12:54,647 --> 00:12:55,237
+146
+00:12:53,797 --> 00:12:54,387
 WATERFIELD: Yes.
 是的
 
-142
-00:12:55,442 --> 00:12:57,160
+147
+00:12:54,592 --> 00:12:56,310
 DOCTOR: Come along then. We must get along.
 过来吧, 我们必须一起
 
-143
-00:12:57,369 --> 00:12:58,447
+148
+00:12:56,519 --> 00:12:57,597
 JAMIE: You mean just walk into the city?
 你是说用脚走进这城市？
 
-144
-00:12:58,621 --> 00:13:04,928
+149
+00:12:57,771 --> 00:13:04,078
 DOCTOR: Oh, no Jamie. The city is all around us. At least,
 um, it's beneath us. Come along.
 哦, 不, Jamie, 这座城市就在我们周围。至少, 它在我们下面, 过来吧
 
-145
-00:13:13,784 --> 00:13:15,347
+150
+00:13:12,934 --> 00:13:14,497
 JAMIE: How long have you known that's there?
 你知道它在那里这事儿有多久？
 
-146
-00:13:15,503 --> 00:13:19,573
+151
+00:13:14,653 --> 00:13:18,723
 DOCTOR: Not a sound. I think the Daleks are in for a little surprise.
 别出声。我想 Dalek 会得到一个小惊喜
 
-147
-00:13:33,267 --> 00:13:34,877
+152
+00:13:32,417 --> 00:13:34,027
 DALEK: Where is the Doctor?
 博士在那里?
 
-148
-00:13:35,625 --> 00:13:37,718
+153
+00:13:34,775 --> 00:13:36,868
 MAXTIBLE: I had no time to get him.
 我没时间去找他
 
-149
-00:13:37,945 --> 00:13:39,086
+154
+00:13:37,095 --> 00:13:38,236
 DALEK: No time?
 没有时间？
 
-150
-00:13:39,320 --> 00:13:42,240
+155
+00:13:38,470 --> 00:13:41,390
 MAXTIBLE: I was told my house was going to be destroyed. Why?
 我被告知我的房子马上就要被炸毁了。为什么？
 
-151
-00:13:42,432 --> 00:13:44,356
+156
+00:13:41,582 --> 00:13:43,506
 DALEK: You did not bring the Doctor?!
 你没把博士带来？！
 
-152
-00:13:44,575 --> 00:14:51,444
+157
+00:13:43,725 --> 00:14:50,594
 MAXTIBLE: Everything I possess is in that house. Everything.
 What right had you or anyone to destroy it?
 我喜欢的所有东西都在那栋房子里, 所有。你有什么权利把它毁掉？
 
-152
-00:13:51,575 --> 00:13:57,444
+158
+00:13:50,725 --> 00:13:56,594
 MAXTIBLE: All these years of labour, all these years of research
 - destroyed through this caprice of yours.
 这些年所有的辛苦, 所有的研究 —— 都因为你们的反复无常给毁了
 
-152
-00:14:57,575 --> 00:14:03,444
-MAXTIBLE: My laboratory - the only real thing in the whole of my existence - destroyed.
-我的实验室, 我存活于世唯一真实的东西, 被毁掉了
-
-153
-00:14:03,575 --> 00:14:09,444
+159
+00:14:02,725 --> 00:14:08,594
 MAXTIBLE: I, Theodore Maxtible, made a bargain with you,
 and I demand to know... ah, ah!
 我, Theodore Maxtible, 咱们谈好了的, 现在我要求知道。。。啊, 啊！
 
-153
-00:14:10,449 --> 00:14:13,760
+160
+00:14:09,599 --> 00:14:12,910
 DALEK: Rights? You have disobeyed a Dalek command.
 You must obey the Dalek command.
 权利？你违背了 Dalek 的命令。你必须服从 Dalek 的命令
 
-154
-00:14:14,115 --> 00:14:17,039
+161
+00:14:13,265 --> 00:14:16,189
 DALEK: Exterminate. Destroy.
 终结。毁灭
 
-155
-00:14:17,317 --> 00:14:22,003
+162
+00:14:16,467 --> 00:14:21,153
 MAXTIBLE: I swear... I swear... I swear it's not my fault.
 I swear it's not my fault. I... No!
 我发誓。。我发誓。。我发誓, 不是我的错, 我发誓不是我的错。我。。。不！
 
-156
-00:14:25,483 --> 00:14:26,595
+163
+00:14:24,633 --> 00:14:25,745
 DALEK: Move.
 走
 
-157
-00:14:27,613 --> 00:14:30,229
+164
+00:14:26,763 --> 00:14:29,379
 MAXTIBLE: What's happening? What are you going to do with me?
 发生了什么？你们打算拿我怎样样？
 
-158
-00:14:30,480 --> 00:14:32,575
+165
+00:14:29,630 --> 00:14:31,725
 DALEK: Obey. Move.
 服从。走。
 
-159
-00:14:55,001 --> 00:14:57,594
+166
+00:14:54,151 --> 00:14:56,744
 DALEK: These humans are still here.
 那几个人类还在这里
 
-160
-00:14:57,789 --> 00:15:00,967
+167
+00:14:56,725 --> 00:14:02,594
+MAXTIBLE: My laboratory - the only real thing in the whole of my existence - destroyed.
+我的实验室, 我存活于世唯一真实的东西, 被毁掉了
+
+168
+00:14:56,939 --> 00:15:00,117
 DALEK: Then other humans are inside the city.
 那城市里面还有其他的人类
 
-161
-00:15:07,465 --> 00:15:09,963
+169
+00:15:06,615 --> 00:15:09,113
 VICTORIA: "Other humans inside the city", Kemel! Listen!
 ”城市里面有其他的人类“, Kemel, 听！
 
-162
-00:15:10,458 --> 00:15:20,405
+170
+00:15:09,608 --> 00:15:19,555
 DALEK: Emergency. Emergency. Human beings detected in city! Emergency! Emergency!
 紧急情况, 紧急情况。探测到有人类在城市里。紧急情况, 紧急情况！
 
-163
-00:15:20,606 --> 00:15:24,066
+171
+00:15:19,756 --> 00:15:23,216
 VICTORIA: Maybe it's Jamie and the Doctor. Oh, Kemel, there's a chance. A chance.
 有可能是 Jamie 和博士。哦, Kemel, 有机会了, 有机会
 
-164
-00:15:24,282 --> 00:15:34,556
+172
+00:15:23,432 --> 00:15:33,706
 DALEK: Intruders detected. Emergency! Emergency! Human beings detected in city.
 检测到闯入者。紧急情况, 紧急情况！检测到有人类在城市里
 
-164
-00:15:35,282 --> 00:15:45,456
+173
+00:15:34,432 --> 00:15:44,606
 DALEK: Emergency! Emergency! Intruders detected. All Daleks to observation stations.
 紧急情况, 紧急情况！检测到闯入者。所有 Dalek 进入观察岗
 
-164
-00:15:45,782 --> 00:15:52,556
+174
+00:15:44,932 --> 00:15:51,706
 DALEK: Repeat. All Daleks to observation stations. Emergency!
 重复。所有 Dalek 进入观察岗。紧急情况!
 
-165
-00:16:32,047 --> 00:16:41,002
+175
+00:16:31,197 --> 00:16:40,152
 DALEK: Stop! What is that mark?
 停下！ 那个标志是什么？
 
-166
-00:16:41,359 --> 00:16:43,802
+176
+00:16:40,509 --> 00:16:42,952
 DALEK 2: That is my name.
 那是我的名字
 
-167
-00:16:44,044 --> 00:16:44,954
+177
+00:16:43,194 --> 00:16:44,104
 DALEK: Name?
 名字?
 
-168
-00:16:45,210 --> 00:16:47,914
+178
+00:16:44,360 --> 00:16:47,064
 DALEK 2: The Doctor gave it to me.
 博士给我取的
 
-169
-00:16:48,154 --> 00:16:49,244
+179
+00:16:47,304 --> 00:16:48,394
 DALEK: Doctor?
 博士
 
-170
-00:16:49,428 --> 00:16:53,678
+180
+00:16:48,578 --> 00:16:52,828
 DALEK 2: Yes. He is my friend.
 是的, 他是我的朋友
 
-171
-00:16:53,919 --> 00:16:55,416
+181
+00:16:53,069 --> 00:16:54,566
 DALEK: Follow me.
 跟我来
 
-172
-00:17:27,840 --> 00:17:29,619
+182
+00:17:26,990 --> 00:17:28,769
 DALEK: Remain here.
 呆在这里
 
-173
-00:17:31,527 --> 00:17:37,531
+183
+00:17:30,677 --> 00:17:36,681
 MAXTIBLE: What is happening? Do you know? They say there are
 other human beings in the city.
 什么情况？你们知道吗？他们说城市里有其他人类
 
-175
-00:17:44,201 --> 00:17:53,882
+184
+00:17:43,351 --> 00:17:53,032
 MAXTIBLE: Why don't you answer me, you little fool.
 No one can help you here. No one but me.
 你为什么不回答我, 你个小傻瓜。这里没有人能够帮助你, 除了我没有人
 
-176
-00:17:54,127 --> 00:18:01,564
+185
+00:17:53,277 --> 00:18:00,714
 DALEK: Silence. Follow me. You, wait.
 安静。随我来。你, 等着
 
-177
-00:18:04,805 --> 00:18:06,476
+186
+00:18:03,955 --> 00:18:05,626
 MAXTIBLE: I can't see anything.
 我什么也看不见
 
-178
-00:18:06,861 --> 00:18:07,754
+187
+00:18:06,011 --> 00:18:06,904
 DALEK: Move.
 走
 
-179
-00:18:08,063 --> 00:18:09,741
+188
+00:18:07,213 --> 00:18:08,891
 MAXTIBLE: Where are you taking me?
 你要带我去哪里？
 
-180
-00:18:20,721 --> 00:18:22,704
+189
+00:18:19,871 --> 00:18:21,854
 VICTORIA: Oh, what are they doing to him?
 噢, 他们在对他干什么？
 
-181
-00:18:26,227 --> 00:18:30,528
+190
+00:18:25,377 --> 00:18:29,678
 DALEK: You follow. You will wait.
 你跟上。你等着
 
-182
-00:18:32,240 --> 00:18:33,973
+191
+00:18:31,390 --> 00:18:33,123
 VICTORIA: I'll do as you say.
 你们说什么我就做什么
 
-183
-00:18:34,186 --> 00:18:41,652
+192
+00:18:33,336 --> 00:18:40,802
 DALEK: Move forward, alone.
 往前走, 单独
 
-184
-00:18:44,891 --> 00:18:46,399
+193
+00:18:44,041 --> 00:18:45,549
 JAMIE: That was a human voice, I tell you.
 那是一个人的声音, 我跟你说
 
-185
-00:18:46,582 --> 00:18:47,595
+194
+00:18:45,732 --> 00:18:46,745
 DOCTOR: Perhaps it was, Jamie
 也许是吧, Jamie
 
-186
-00:18:47,766 --> 00:18:49,000
+195
+00:18:46,916 --> 00:18:48,150
 DOCTOR: We must go more quickly.
 我们必须再走快点
 
-187
-00:18:50,169 --> 00:18:52,337
+196
+00:18:49,319 --> 00:18:51,487
 JAMIE: Victoria. That was Victoria's voice.
 Victoria. 那是 Victoria 的声音
 
-188
-00:18:52,526 --> 00:18:56,106
+197
+00:18:51,676 --> 00:18:55,256
 DOCTOR: You can't. Where are you running to? Well, you mustn't.
 You'll go over the edge!
 你不能, 你跑哪儿去？嘿, 你不能！你会掉下去的！
 
-189
-00:18:56,678 --> 00:19:01,682
+198
+00:18:55,828 --> 00:19:00,832
 DALEK: Doctor, I am your friend.
 博士, 我是你的朋友
 
-190
-00:19:02,191 --> 00:19:06,218
+199
+00:19:01,341 --> 00:19:05,368
 JAMIE: One of your experiments, Doctor. For a moment I thought we were done for!
 你的一个实验品, 博士。有那么一会儿我都觉得我们完蛋了
 
-191
-00:19:06,618 --> 00:19:07,889
+200
+00:19:05,768 --> 00:19:07,039
 DOCTOR: What is your name?
 你叫什么名字？
 
-192
-00:19:08,154 --> 00:19:09,602
+201
+00:19:07,304 --> 00:19:08,752
 DALEK: Omega.
 欧米伽
 
-193
-00:19:10,700 --> 00:19:12,029
+202
+00:19:09,850 --> 00:19:11,179
 DOCTOR: Oh, I see.
 哦, 我知道了
 
-194
-00:19:12,293 --> 00:19:15,060
+203
+00:19:11,443 --> 00:19:14,210
 DALEK: I have come to lead you.
 我是来给你带路的
 
-195
-00:19:15,660 --> 00:19:17,156
+204
+00:19:14,810 --> 00:19:16,306
 DOCTOR: Thank you.
 谢谢你
 
-196
-00:19:18,273 --> 00:19:19,672
+205
+00:19:17,423 --> 00:19:18,822
 JAMIE: Oh, careful.
 哦, 小心点
 
-197
-00:19:20,960 --> 00:19:26,791
+206
+00:19:20,110 --> 00:19:25,941
 DOCTOR: Oh, ah... I'm all right. Oh, thank you. Ah, lead on.
 噢, 啊。。我没事。哦,谢谢你。带路吧
 
-198
-00:19:27,035 --> 00:19:28,880
+207
+00:19:26,185 --> 00:19:28,030
 DALEk: Follow me.
 跟我来
 
-199
-00:19:29,345 --> 00:19:30,828
+208
+00:19:28,495 --> 00:19:29,978
 DOCTOR: What was that screaming?
 那是什么叫声？
 
-200
-00:19:31,046 --> 00:19:32,358
+209
+00:19:30,196 --> 00:19:31,508
 DALEK: A prisoner.
 一个囚犯
 
-201
-00:19:32,544 --> 00:19:33,199
+210
+00:19:31,694 --> 00:19:32,349
 DOCTOR: Where?
 在哪里
 
-202
-00:19:33,386 --> 00:19:36,812
+211
+00:19:32,536 --> 00:19:35,962
 DALEK: Follow me. I will show you.
 跟我来, 我带你看
 
-203
-00:19:40,025 --> 00:19:41,529
+212
+00:19:39,175 --> 00:19:40,679
 JAMIE: What are you doing?
 你在干什么？
 
-204
-00:19:49,519 --> 00:19:53,463
+213
+00:19:48,669 --> 00:19:52,613
 DOCTOR: Think I don't know my own mark? That wasn't the real Omega at all.
 你觉得我不知道自己刻的字？那根本不是真正的欧米伽
 
-205
-00:19:53,652 --> 00:19:55,782
+214
+00:19:52,802 --> 00:19:54,932
 JAMIE: Up to all sorts of tricks, aren't they?
 他们的伎俩还真是很多啊, 是不？
 
-206
-00:19:55,952 --> 00:19:58,601
+215
+00:19:55,102 --> 00:19:57,751
 WATERFIELD: Oh, please. We must reach my daughter.
 噢, 别聊了, 我们得赶去我女儿那里
 
-207
-00:20:04,446 --> 00:20:09,267
+216
+00:20:03,596 --> 00:20:08,417
 MAXTIBLE: I tell you, they forced me. They threatened to kill us all.
 我跟你说, 都是他们逼我的。他们威胁要杀死我们全部
 
-207
-00:20:09,446 --> 00:20:12,267
+217
+00:20:08,596 --> 00:20:11,417
 MAXTIBLE: First of all, they ordered me to scream
 and I was to make you do the same.
 首先, 他们命令我喊叫, 你们也一样fixme
 
-208
-00:20:12,665 --> 00:20:14,233
+218
+00:20:11,815 --> 00:20:13,383
 VICTORIA: And you had to do as you were told?
 那你就不得不按他们说的做？
 
-209
-00:20:14,405 --> 00:20:16,102
+219
+00:20:13,555 --> 00:20:15,252
 MAXTIBLE: I tell you, they threatened to kill me.
 我跟你说, 他们威胁要杀死我
 
-210
-00:20:16,253 --> 00:20:18,652
+220
+00:20:15,403 --> 00:20:17,802
 VICTORIA: You came up behind me in the dark and twisted my arm.
 你在黑暗中从我被后冒出来, 扭了我的胳膊
 
-211
-00:20:18,821 --> 00:20:20,236
+221
+00:20:17,971 --> 00:20:19,386
 MAXTIBLE: And what else could I do?
 那我还能干什么？
 
-212
-00:20:20,461 --> 00:20:24,499
+222
+00:20:19,611 --> 00:20:23,649
 VICTORIA: Oh, if only I'd realised. Why do you think they wanted us to scream like that?
 我要是早明白就好了。你不想想, 他们为什么要我们像那样惨叫？
 
-213
-00:20:24,737 --> 00:20:25,564
+223
+00:20:23,887 --> 00:20:24,714
 MAXTIBLE: I've no idea.
 我也不知道
 
-214
-00:20:25,742 --> 00:20:29,569
-VICTORIA: You know perfectly well. There are other people in the city.
-你完全知道。还有其他人类在城里
+224
+00:20:24,892 --> 00:20:26,719
+VICTORIA: You know perfectly well. 
+你完全知道。
 
-214
-00:20:29,742 --> 00:20:35,769
-VICTORIA: They wanted to draw them on. Trap them. Oh, if only
+225
+00:20:26,892 --> 00:20:30,919
+VICTORIA: There are other people in the city. They wanted to draw them on. Trap them. Oh, if only
 I could have thought quickly. Oh, Kemel.
-他们想把那些人吸引过来, 抓住他们。我要是再点能想到这个就好了, 噢, Kemel
+还有其他人类在城里，他们想把那些人吸引过来, 抓住他们
 
-215
-00:21:26,082 --> 00:21:29,742
-No, no. I don't like the look of this. Back the way we came.
+226
+00:20:31,092 --> 00:20:34,919
+Oh, if only I could have thought quickly. Oh, Kemel.
+我要是能早点能想到这个就好了, 噢, Kemel
 
-216
-00:21:32,808 --> 00:21:34,398
-Follow me.
+227
+00:21:25,232 --> 00:21:28,892
+DOCTOR: No, no. I don't like the look of this. Back the way we came.
+不，不，我不喜欢这个样子。回到我们来的路上去
 
-217
-00:22:00,558 --> 00:22:02,597
+228
+00:21:31,958 --> 00:21:33,548
+DALEK: Follow me.
+跟我来
+
+229
+00:21:59,708 --> 00:22:01,747
 EMPEROR: Doctor!
 博士!
 
-218
-00:22:05,457 --> 00:22:07,495
+230
+00:22:04,607 --> 00:22:06,645
 Look at the size of that thing.
 
-219
-00:22:07,855 --> 00:22:11,715
+231
+00:22:07,005 --> 00:22:10,865
 EMPEROR: So, you are the Doctor?
 这么说, 你就是那位博士？
 
-220
-00:22:12,925 --> 00:22:17,554
+232
+00:22:12,075 --> 00:22:16,704
 DOCTOR: We meet at last. I wondered if we ever would.
 
-221
-00:22:17,815 --> 00:22:20,471
+233
+00:22:16,965 --> 00:22:19,621
 EMPEROR: The experiment is over.
 实验已经结束了
 
-222
-00:22:20,851 --> 00:22:28,332
+234
+00:22:20,001 --> 00:22:27,482
 DOCTOR: Yes, I have implanted the "Human Factor" in the three
 Daleks that you gave me... When I say run, run!
 是的, 你给我的三个 Dalek, 我已经给他们植入了“人类特质”。。。但我说跑的时候, 跑！
 
-223
-00:22:28,572 --> 00:22:30,084
+235
+00:22:27,722 --> 00:22:29,234
 EMPEROR: Speak louder.
 大声说话
 
-224
-00:22:30,300 --> 00:22:37,354
+236
+00:22:29,450 --> 00:22:36,504
 DOCTOR: Promise me, Jamie. I was merely telling my friend
 that the day of the Daleks is coming to an end.
 答应我, Jamie —— 我只是在告诉我的朋友们, Dalek 的日子到头了
 
-225
-00:22:37,634 --> 00:22:39,230
+237
+00:22:36,784 --> 00:22:38,380
 EMPEROR: Explain.
 解释
 
-226
-00:22:39,530 --> 00:22:47,590
+238
+00:22:38,680 --> 00:22:45,740
 DOCTOR: It's very simple. Somewhere in the Dalek race
 there are three Daleks with the "Human Factor"
 这很简单, 在 Dalek 族群中某处, 现在有三个带有“人类特质”的 Dalek
 
-226
-00:22:47,730 --> 00:22:52,590
+239
+00:22:45,880 --> 00:22:51,740
 DOCTOR: Gradually, they will come to question.
 They will persuade other Daleks to question.
 慢慢地, 他们就会问问题, 他们也会感染其他 Dalek 来问问题
 
-226
-00:22:52,730 --> 00:22:54,790
+240
+00:22:51,880 --> 00:22:53,940
 DOCTOR: You will have a rebellion on your planet!
 你的星球上就会掀起叛乱！
 
-227
-00:22:55,020 --> 00:22:55,761
+241
+00:22:54,170 --> 00:22:54,911
 EMPEROR: NO!
-不！
+不会！
 
-228
-00:22:56,004 --> 00:23:00,893
+242
+00:22:55,154 --> 00:23:00,043
 DOCTOR: I say, yes. I've beaten you and I don't care what you do to me now.
-我说, 要！我已经打败了你们, 现在我才不在乎你要拿我怎么样了
+我说, 会！我已经打败了你们, 现在我才不在乎你要拿我怎么样了
 
-229
-00:23:01,086 --> 00:23:08,724
+243
+00:23:00,236 --> 00:23:07,874
 EMPEROR: Silence. The "Human Factor" showed us what the "Dalek Factor" was.
 安静。“人类特质”向我们展示了“DaleK特质“应该是什么
 
-230
-00:23:10,499 --> 00:23:11,605
+244
+00:23:09,649 --> 00:23:10,755
 DOCTOR: What?
 什么？
 
-231
-00:23:12,346 --> 00:23:13,702
-Well, what does that mean?
+245
+00:23:11,496 --> 00:23:12,852
+DOCTOR: Well, what does that mean?
+那么，那又意味着什么？
 
-232
-00:23:14,100 --> 00:23:19,932
+246
+00:23:13,250 --> 00:23:19,082
 EMPEROR: Without knowing, you have shown the Daleks what their own strength is.
 你在并不知情的状态下, 你向 Dalek 展示了他们自己的力量所在
 
-233
-00:23:20,930 --> 00:23:24,187
-While you were doing one thing, they were really making you do another.
+247
+00:23:20,080 --> 00:23:23,337
+WATERFIELD: While you were doing one thing, they were really making you do another.
+让你做一件事，但实际上是在让你做另外一件事
 
-234
-00:23:24,493 --> 00:23:29,047
+248
+00:23:23,643 --> 00:23:28,197
 EMPEROR: The "Human Factor" is useless.
 ”人类特质”是没有用的
 
-235
-00:23:29,769 --> 00:23:32,152
+249
+00:23:28,919 --> 00:23:31,302
 DOCTOR: You still have those three Daleks to contend with.
 但你仍然有三个 Dalek 要对付
 
-236
-00:23:32,396 --> 00:23:41,792
+250
+00:23:31,546 --> 00:23:40,942
 EMPEROR: They will be impregnated with the "Dalek Factor".
 Your discovery, but your work is not over.
 他们将会被植入"Dalek特质“, 你的探索和工作还没有完啊
 
-237
-00:23:42,750 --> 00:23:44,846
+251
+00:23:41,900 --> 00:23:43,996
 DOCTOR: I won't work for you!
 我不会为你工作的！
 
-238
-00:23:45,096 --> 00:23:46,255
+252
+00:23:44,246 --> 00:23:45,405
 EMPEROR: You will obey!
 你会服从的！
 
-239
-00:23:46,617 --> 00:23:47,811
-What is the "Dalek Factor"?
+253
+00:23:45,767 --> 00:23:46,961
+JAMIE: What is the "Dalek Factor"?
+“Dalek特质”是什么？
 
-240
-00:23:48,256 --> 00:23:54,741
+254
+00:23:47,406 --> 00:23:53,891
 DOCTOR: You want me to guess? It means to obey, to fight,
 to destroy, to exterminate. I won't do it.
 你想让我猜吗？它意味着服从、战争、毁灭、终结。我不会干的
 
-241
-00:23:55,264 --> 00:23:56,241
+255
+00:23:54,414 --> 00:23:55,391
 EMPEROR: Watch!
 看着！
 
-242
-00:24:03,410 --> 00:24:04,929
+256
+00:24:02,560 --> 00:24:04,079
 JAMIE: The TARDIS, Doctor!
 TARDIS, 博士!
 
-243
-00:24:05,314 --> 00:24:14,433
+257
+00:24:04,464 --> 00:24:13,583
 EMPEROR: You will take the "Dalek Factor. "
 You will spread it to the entire history of Earth!
 你要提取出"Dalek特质”, 并将它散布到地球的整个历史中去！
