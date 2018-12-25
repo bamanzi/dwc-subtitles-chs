@@ -395,12 +395,12 @@ DOCTOR: He's dead.
 - 你要干什么？        - 叫警察
 
 77
-00:07:12,972 --> 00:07:17,482
+00:07:12,972 --> 00:07:17,182
 PERRY: Don't touch anything. I'll be as quick as I can.
 别碰任何东西, 我尽量快点
 
 78
-00:07:17,362 --> 00:07:19,666
+00:07:17,262 --> 00:07:19,666
 - JAMIE: Should we have let him go?
 - DOCTOR: He's right.
 - 我们应该让他走吗？      - 他做得没错
@@ -882,7 +882,7 @@ MAXTIBLE: Patience, my dear sir.
 稍安勿躁, 亲爱的先生
 
 169
-00:15:19,276 --> 00:15:23,577
+00:15:19,276 --> 00:15:23,177
 DOCTOR: Patience?! You don't seem to understand what's happened.
 A man has been murdered!
 稍安勿躁？你们好像还没搞懂发生了什么？都有个人被杀了！
@@ -1129,7 +1129,7 @@ DOCTOR: <i>Our plan has worked.</i>
 00:18:26,761 --> 00:18:31,849
 DALEK: <i>We have your time ship. We will destroy it
 unless you help us with an experiment.</i>
-我们得到了你的时间飞船, 我们将销毁它, 除非你帮我们完成一向实验
+我们得到了你的时间飞船, 我们将销毁它, 除非你帮我们完成一项实验
 
 215
 00:18:31,915 --> 00:18:33,056
@@ -1330,12 +1330,12 @@ RUTH: He owns this house. I'm his daughter, Ruth Maxtible.
 这栋房子是他的。我是他的女儿, Ruth Maxtible
 
 252
-00:20:01,366 --> 00:21:04,827
+00:21:01,366 --> 00:21:04,827
 JAMIE: How do you do? Have you seen the Doctor this morning?
 很高兴认识你。你今天早上见到博士了吗？
 
 253
-00:21:02,997 --> 00:21:07,582
+00:21:04,997 --> 00:21:07,582
 RUTH: He's talking with my father. He'll be along presently.
 他跟我父亲在一起谈话, 很快就会过来
 
