@@ -25,11 +25,13 @@ Sincro: wyxchari
 
 7
 00:00:38,300 --> 00:00:43,006
-<i>(Jamie and Kemmel are on the minstrels' gallery.)</i> 
+<i>(Jamie and Kemmel are on the minstrels' gallery.)</i>
+<i>(Jamie 和 Kemel 在艺术廊上)</i>
 
 8
 00:00:47,300 --> 00:00:52,006
-<i>(They stare down at a Dalek emerging into the chamber beneath them.)</i> 
+<i>(They stare down at a Dalek emerging into the chamber beneath them.)</i>
+<i>(他们看到一个 Dalek 出现在楼下, 走进了一个房间)</i>
 
 9
 00:00:58,828 --> 00:01:03,745
@@ -38,12 +40,13 @@ Waterfield 小姐吗？你能打开门吗？我们来救你
 
 10
 00:01:04,300 --> 00:01:08,006
-<i>(Behind them a door is opening.)</i> 
+<i>(Behind them a door is opening.)</i>
+<i>(一扇们在他们身后打开)</i>
 
 11
 00:01:18,300 --> 00:01:23,006
 <i>(They throw the rope over the Dalek's head and pull.)</i> 
-
+<i>(他们扔绳子圈住那个 Dalek 的头, 开始拉)</i>
 
 12
 00:01:26,125 --> 00:01:29,149
@@ -52,7 +55,8 @@ JAMIE: Quick, before we see any more of those mechanical beasties.
 
 13
 00:01:30,300 --> 00:01:34,006
-<i>(They go through a door and __ it.)</i> 
+<i>(They go through a door and __ it.)</i>
+<i>(他们走过一个门, __)</i>
 
 14
 00:01:39,591 --> 00:01:41,871
@@ -99,7 +103,8 @@ JAMIE: Oh. Jamie McCrimmon. I, uh... I came to give you this.
 
 22
 00:02:29,182 --> 00:02:34,625
-<i>(He gives her the handkerchief.)</i> 
+<i>(He gives her the handkerchief.)</i>
+<i>(他把手绢递给了她)</i>
 
 23
 00:02:37,465 --> 00:02:39,057
@@ -161,6 +166,7 @@ I'm... I'm perfectly happy here. Thank you. I'm perfectly happy.
 34
 00:03:12,902 --> 00:03:15,163
 <i>(The Doctor is looking at a knife collection on the wall.)</i>
+<i>(博士在观看墙上收藏的几把匕首)</i>
 
 35
 00:03:15,360 --> 00:03:17,609
@@ -200,7 +206,7 @@ Uh... Do you know something?
 DOCTOR: Ever since I came to this house, I...
 This is Circassian, surely...
 自从我到这个房子来, 我。。这是索卡西亚人的, 肯定的。。。
-<i>（备注: 索卡西亚有时特指西北高加索人,有时泛指俄罗斯人+土耳其人）</i>
+<i>(备注: 索卡西亚有时特指西北高加索人,有时泛指俄罗斯人+土耳其人)</i>
 
 42
 00:03:48,901 --> 00:03:50,194
@@ -310,16 +316,15 @@ DOCTOR: All forms of life interest me.
 
 61
 00:05:09,199 --> 00:05:12,681
-<i>(The Doctor and Waterfield leave.)</i>
-<i>（博士和 Waterfield 离开了）</i>
-WATERFIELD: I'm sorry to interrupt you Doctor,
-but it's something rather urgent.
+WATERFIELD: I'm sorry to interrupt you Doctor, but it's something rather urgent.
 很抱歉打断你们, 博士, 但有些事情真的很紧急
+<i>(The Doctor and Waterfield leave.)</i>
+<i>(博士和 Waterfield 离开了)</i>
 
 62
 00:05:14,794 --> 00:05:29,041
-<i>（Terrell 因博士的话对自己产生了怀疑, 于是倒了一杯酒, 但怎么也没法送到嘴边。
-他的手开始颤抖, 酒杯掉落, 他双眼变得呆滞, 一个声音响起。。。）</i>
+<i>(Terrell 因博士的话对自己产生了怀疑, 于是倒了一杯酒, 但怎么也没法送到嘴边。
+他的手开始颤抖, 酒杯掉落, 他双眼变得呆滞, 一个声音响起。。。)</i>
 
 63
 00:05:29,794 --> 00:05:41,041
@@ -470,7 +475,7 @@ MOLLIE: I am tired.
 我累了
 
 89
-00:07:33,372 --> 00:07:43,888
+00:07:33,372 --> 00:07:43,188
 MAXTIBLE: Then close your eyes and sleep.
 You need have no fear, my child.
 那就闭上眼睛睡觉吧, 你不用害怕, 我的孩子
@@ -532,6 +537,7 @@ MAXTIBLE: Now, open your eyes.
 99
 00:08:56,144 --> 00:09:01,205
 <i>(Mollie leaves the room.)</i>
+<i>(Mollie 离开了房间)</i>
 
 100
 00:09:07,061 --> 00:09:12,189
@@ -631,10 +637,10 @@ But now it is your turn to obey.
 
 118
 00:10:22,127 --> 00:10:28,088
-<i>(Maxtible presses a button on the wall.)</i>
-<i>（Maxtible 按了墙上的一个按钮）</i>
 MAXTIBLE: I have a task for you to perform.
 我有一个任务需要你去办
+<i>(Maxtible presses a button on the wall.)</i>
+<i>(Maxtible 按了墙上的一个按钮)</i>
 
 119
 00:10:31,127 --> 00:10:37,088
@@ -673,7 +679,8 @@ TERRALL: I will bring Victoria to you.
 
 126
 00:11:05,799 --> 00:11:10,218
-<i>(Terrall steps through the panel.)</i> 
+<i>(Terrall steps through the panel.)</i>
+FIXME
 
 127
 00:11:17,040 --> 00:11:18,075
@@ -733,7 +740,7 @@ DOCTOR: Perhaps.
 00:11:56,530 --> 00:12:01,950
 WATERFIELD: What happens when the capsule comes into contact with
 the brain of the Dalek and starts to influence it?
-当这些胶囊跟 Dalek 的大脑接触之后会发生什么？会开始影响他们吗？
+当这些小瓶子跟 Dalek 的大脑接触之后会发生什么？会开始影响他们吗？
 
 138
 00:12:02,643 --> 00:12:05,042
@@ -764,7 +771,7 @@ DALEK: You have completed the experiment?
 142
 00:12:28,391 --> 00:12:30,139
 DOCTOR: Yes, the three capsules are nearly ready.
-是的, 这三个胶囊已经快准备好了
+是的, 这三个小瓶子已经快准备好了
 
 143
 00:12:30,361 --> 00:12:35,325
@@ -783,7 +790,8 @@ DALEK: Doctor, be careful.
 
 146
 00:12:41,071 --> 00:12:44,583
-<i>(The Dalek returns to the cabinet.)</i> 
+<i>(The Dalek returns to the cabinet.)</i>
+<i>(Dalek 回到了柜子里)</i>
 
 147
 00:12:51,159 --> 00:12:52,359
@@ -882,10 +890,12 @@ DOCTOR: That, Mr. Waterfield, remains to be seen.
 165
 00:13:50,121 --> 00:13:54,188
 <i>(The Doctor returns to his work on the capsules.)</i>
+<i>(博士回到小瓶子那边继续他的工作)</i>
 
 166
 00:13:54,221 --> 00:13:56,030
 <i>(Waterfield picks up a metal bar.)</i>
+<i>(Waterfield 拿起一跟金属棍)</i>
 
 167
 00:13:56,247 --> 00:13:59,905
@@ -953,9 +963,10 @@ JAMIE: I don't know. Maybe they want us alive. I... I just don't know.
 
 177
 00:15:01,589 --> 00:15:04,614
-<i>(Kemel touches the door.)</i>
 JAMIE: Is it hot? Aye, well, there's no smoke.
 有点热？哎，还好，没有冒烟
+<i>(Kemel touches the door.)</i>
+<i>(Kemel 摸了一下门)</i>
 
 178
 00:15:05,589 --> 00:15:09,614
@@ -971,9 +982,10 @@ Why didn't they try before this, is what I don't understand.
 
 180
 00:15:17,789 --> 00:15:21,614
-<i>(They start to pile boxes against the door.)</i>
 JAMIE: Anyway, we'll make it as hard for them as we possibly can.
 不管怎样，我们已经尽量让他们轻松不了了。
+<i>(They start to pile boxes against the door.)</i>
+<i>(他们开始堆箱子堵住门)</i>
 
 181
 00:15:21,789 --> 00:15:24,614
@@ -984,6 +996,7 @@ That's it. That one too.
 182
 00:15:24,789 --> 00:15:28,414
 <i>(The wall behind Victoria slides open.)</i>
+<i>(Victoria 身后的墙滑开了)</i>
 
 183
 00:15:28,589 --> 00:15:34,214
@@ -993,7 +1006,8 @@ and there was a Dalek up here, and you were up...
 
 184
 00:15:34,489 --> 00:15:35,814
-<i>(Terrall drags Victoria away..)</i>
+<i>(Terrall drags Victoria away.)</i>
+<i>(Terrall 拖走了 Victoria)</i>
 
 185
 00:15:36,002 --> 00:15:37,191
@@ -1017,15 +1031,18 @@ There's another way in and out of here. Come on!
 184
 00:15:51,589 --> 00:15:56,814
 <i>(Kemel finds the opening and they go through.)</i>
+<i>(Kemel 发现了入口, 走了过去)</i>
 
 184
 00:15:59,589 --> 00:16:04,814
-<i>(The barriage(??) begins to collase as the Daleks break in.)</i>
+<i>(The barrage begins to collase as the Daleks break in.)</i>
+<i>(门口堆叠的箱子垮塌了, Daleks 进来了)</i>
 
 184
 00:16:07,189 --> 00:16:11,814
 <i>(As Terrall tries to find the opening device in the wall,
 she breaks free and runs off.)</i>
+<i>(Terrall 在墙上摸索着, 试图找到开关, Victoria 趁机挣脱逃跑了)</i>
 
 189
 00:16:16,078 --> 00:16:20,254

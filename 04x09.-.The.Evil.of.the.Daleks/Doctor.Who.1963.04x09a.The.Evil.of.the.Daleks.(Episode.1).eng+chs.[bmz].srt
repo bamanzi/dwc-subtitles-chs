@@ -1,3 +1,4 @@
+
 1
 00:00:05,200 --> 00:00:15,000
 Doctor Who (1963) 04x09  The Evil of the Daleks (Episode 1)
@@ -26,7 +27,7 @@ Sincro: wyxchari
 7
 00:00:44,010 --> 00:00:50,266
 <i>(Gatwick airport. The TARDIS is beging taken away on the back of a lorry.)</i>
-<i>（伦敦盖特威克机场。TARDIS被放到一辆拖车上, 拖走了。）</i>
+<i>(伦敦盖特威克机场。TARDIS被放到一辆拖车上, 拖走了。)</i>
 
 8
 00:00:55,510 --> 00:00:56,266
@@ -39,7 +40,7 @@ JAMIE: The TARDIS! Doctor!
 
 10
 00:01:33,810 --> 00:01:37,166
-<i>（追了半天没有追上, 博士和 Jamie 进了刚才拖车所在的楼, 这里是一个机库）</i>
+<i>(追了半天没有追上, 博士和 Jamie 进了刚才拖车所在的楼, 这里是一个机库)</i>
 
 11
 00:01:37,215 --> 00:01:37,987
@@ -54,7 +55,7 @@ HALL: Eh?
 13
 00:01:41,012 --> 00:01:42,266
 <i>(Hall turn up the volume on his hearing aid.)</i>
-<i>（Hall 调大了他的助听器的音量。）</i>
+<i>(Hall 调大了他的助听器的音量。)</i>
 
 14
 00:01:41,385 --> 00:01:42,563
@@ -223,20 +224,20 @@ Leatherman．现在有一条线索了, 等一下, 他们在那条街．．？博
 
 45
 00:03:02,572 --> 00:03:05,781
-<i>（博士出了机库, Jamie赶紧跟上）</i>
+<i>(博士出了机库, Jamie赶紧跟上)</i>
 
 46
 00:03:09,772 --> 00:03:10,781
 HALL: Did you get all that?
 你刚才听到了吗？
-<i>（原来 Hall 的助听器是假的, 其实是一个对话耳麦）</i>
+<i>(原来 Hall 的助听器是假的, 其实是一个对话耳麦)</i>
 
 47
 00:03:11,052 --> 00:03:14,866
 KENNEDY: Every word. We'd better get going.
 Get your money back at the warehouse.
 都听清了, 我们得马上过去．去仓库拿你的钱吧
-<i>（Kennedy 通过 Hall 的耳麦听到了他跟博士他们的对话）</i>
+<i>(Kennedy 通过 Hall 的耳麦听到了他跟博士他们的对话)</i>
 
 48
 00:03:24,143 --> 00:03:25,923
@@ -277,18 +278,18 @@ JAMIE: Aye. Hey, may...
 55
 00:03:39,677 --> 00:03:44,431
 <i>(They hide as they see Hall approaching.)</i>
-<i>（他俩看见 Hall 走了过来, 赶紧躲了起来）</i>
+<i>(他俩看见 Hall 走了过来, 赶紧躲了起来)</i>
 
 56
 00:03:49,677 --> 00:03:54,431
 <i>(Once he has gone by, they follow him.)</i>
-<i>（Hall 走了过去, 博士和 Jamie 跟在后面）</i>
+<i>(Hall 走了过去, 博士和 Jamie 跟在后面)</i>
 
 57
 00:03:55,612 --> 00:03:57,760
 KENNEDY: Kennedy to base. Kennedy to base. Do you read me?
 Kennedy 呼叫基地, Kennedy 呼叫基地, 你能听到吗
-<i>（刚才在偷听的 Kennedy 拿起对讲, 开始呼叫）</i>
+<i>(刚才在偷听的 Kennedy 拿起对讲, 开始呼叫)</i>
 
 58
 00:03:59,305 --> 00:04:01,046
@@ -323,7 +324,7 @@ WATERFIELD: Very good, Mr Kennedy.
 64
 00:04:15,428 --> 00:04:20,460
 <i>(Hall goet into his car and drives off.)</i>
-<i>（Hall 进了他的小汽车, 开走了。)</i>
+<i>(Hall 进了他的小汽车, 开走了。)</i>
 
 65
 00:04:24,053 --> 00:04:25,233
@@ -338,7 +339,7 @@ JAMIE: Oh, no!
 67
 00:04:27,550 --> 00:04:32,399
 <i>(The Doctor and Jamie hail a taxi and get in.)</i>
-<i>（博士和 Jamie 招手拦住一辆出租车, 坐了进去）</i>
+<i>(博士和 Jamie 招手拦住一辆出租车, 坐了进去)</i>
 
 68
 00:04:27,550 --> 00:04:28,399
@@ -397,1270 +398,1303 @@ but at least I keep out the other.
 虽然享受不到阳光有点可惜, 但至少噪音还是被挡住了
 
 79
-00:05:05,829 --> 00:05:15,982
+00:05:05,829 --> 00:05:10,482
 PERRY: Yes. I say! That's very good. Just come in, eh?
-Mint condition. Eighteen, uh, seventy. Is it?
-是的, 我得说！这件很不错, 进来吧。条件也还不错, 是1870年的, 是吧？
+是的, 我得说！这件很不错, 进来吧
 
 80
+00:05:10,629 --> 00:05:15,982
+PERRY: Mint condition. Eighteen, uh, seventy. Is it?
+条件也还不错, 是18世纪70年代的, 是吧？
+
+81
 00:05:16,235 --> 00:05:17,286
 WATERFIELD: Approximately.
 差不多
 
-81
+82
 00:05:17,570 --> 00:05:19,899
 PERRY: Don't know who your contacts are, sir, but this is marvellous!
 不知道您的客户是谁, 先生, 不过这件非常棒！
 
-82
+83
 00:05:20,110 --> 00:05:22,726
 WATERFIELD: Well, Victorian timepieces are my speciality, Mr. Perry.
 是, 维多利亚时期的时钟算是我的专长, Perry先生
 
-83
+84
 00:05:22,966 --> 00:05:24,692
 PERRY: Wish you'd tell me who makes them for you, sir.
 真期望您能告诉我是谁给您做的, 先生
 
-84
+85
 00:05:25,081 --> 00:05:29,015
 WATERFIELD: But then you would be as wise as I,
 and that wouldn't do at all, would it?
 那样的话你就跟我一样聪明了, 这样可行不通, 是吧？
 
-85
+86
 00:05:29,266 --> 00:05:32,371
 PERRY: Whoever makes them, Mr. Waterfield, they'd fool an expert.
 不管是谁吧, Waterfield 先生, 他们绝对可以骗过专家。
 
-86
+87
 00:05:32,566 --> 00:05:36,371
 PERRY: If I didn't know it was impossible,
 I would say it was absolutely genuine.
 假设我并不知道这是不可能的, 我得说这件绝对是真品
 
-87
+88
 00:05:37,887 --> 00:05:40,745
 WATERFIELD: And, uh, there was no trouble with the box?
 另外, 盒子不会有什么问题吧
 
-88
+89
 00:05:41,081 --> 00:05:45,582
 PERRY: Apparently not. A bit out of our line, isn't it, sir?
 A battered old police box?
 看起来不会。不过不在我们主线上啊, 不是吗, 先生？一座破旧的警用电话亭？
 
-89
+90
 00:05:45,848 --> 00:05:49,698
 WATERFIELD: The whims and caprices of our patrons is our line, Mr Perry.
 我们的主线就是让客户感到新奇、多变, Perry先生
 
-90
+91
 00:05:50,059 --> 00:05:51,682
 PERRY: Hmm. Odd though.
 唔, 还是有点怪
 
-91
+92
 00:05:53,429 --> 00:05:58,652
 WATERFIELD: Mr Perry, I pay you the sum of 50 guineas per week, do I not?
 Perry先生, 每星期我付给你50金币, 对不？
 
-92
+93
 00:05:59,029 --> 00:06:01,507
 PERRY: Pounds, actually sir. 50 pounds.
 英镑, 先生, 50英镑
 
-93
+94
 00:06:01,848 --> 00:06:08,473
 WATERFIELD: Yes, uh... I hope I may be forgiven if I believe
 that entitles me to demanding less curiosity of you.
 是的, 哦。。。如果我觉得这可以允许我要求你少一点好奇心, 期望你不会觉得我太过分
 
-94
+95
 00:06:09,581 --> 00:06:10,620
 PERRY: Sorry, sir.
 抱歉, 先生
 
-95
+96
 00:06:10,913 --> 00:06:13,191
 WATERFIELD: It is, I think you will agree, a princely salary.
 我想你也同意, 这笔薪水是相当可观的
 
-96
+97
 00:06:13,637 --> 00:06:17,885
 PERRY: No complaints on that score.
 Long as I'm not asked to do anything dicey.
 我对此完全满意。只要不让我去做一些太冒险的事情
 
-97
+98
 00:06:18,707 --> 00:06:19,671
 WATERFIELD: "Dicey?"
 “冒险？“
 
-98
+99
 00:06:20,026 --> 00:06:21,299
 PERRY: Crooked. Illegal.
 邪恶的, 非法的
 
-99
+100
 00:06:22,326 --> 00:06:27,586
 WATERFIELD: Your candor is refreshing, Mr. Perry,
 even if your judgement of character is somewhat questionable.
 你还挺直率的, Perry 先生。不过你的他人的判断有点问题
 
-100
+101
 00:06:27,862 --> 00:06:28,788
 PERRY: I didn't mean that...
 我并不是这个意思。。。
 
-101
+102
 00:06:29,038 --> 00:06:35,914
 WATERFIELD: I know perfectly well what you meant.
 You may rest assured, I shall not ask you to do anything "dicey. "
 我完全知道你什么意思。你放心吧, 我不会要求你做什么冒险的事情
 
-102
+103
 00:06:36,175 --> 00:06:37,333
 PERRY: No, sir.
 不会的, 先生
 
-103
+104
 00:06:37,792 --> 00:06:39,918
 WATERFIELD: I think you are wanted in the shop, Mr. Perry.
 我想你店里需要你, Perry先生
 
-104
+105
 00:06:40,225 --> 00:06:44,510
 PERRY: And the, um... the telephone box, uh... What do we do with it?
 不过那个。。。那个电话亭。。。我们拿它怎么办？
 
-105
+106
 00:06:44,764 --> 00:06:47,059
 WATERFIELD: Do? We do nothing.
 怎么办？什么也不办
 
-106
+107
 00:06:47,522 --> 00:06:49,225
 PERRY: Oh, right.
 哦, 好的
 
-107
+108
 00:06:53,085 --> 00:06:55,115
 WATERFIELD: Nothing, except wait.
 什么也不做, 就是等着
 
-108
+109
 00:07:00,025 --> 00:07:02,766
 <i>(The Doctor and Jamie are in a lane, walking towards a warehouse.)</i>
-<i>（博士和 Jamie 在一个巷子里, 朝着一个仓库走去）</i>
+<i>(博士和 Jamie 在一个巷子里, 朝着一个仓库走去)</i>
 
-109
+110
 00:07:02,825 --> 00:07:04,866
 DOCTOR: This is his car. He must be around here somewhere.
 这是他的车。他肯定就在这附近
 
-110
+111
 00:07:23,807 --> 00:07:25,591
 WATERFIELD: You sure you weren't followed?
 你肯定你没有被跟踪吗？
 
-111
+112
 00:07:23,025 --> 00:07:28,766
 <i>(Hall is counting a pile of five pound notes.)</i>
-<i>（Hall 正在数钞票, 一叠都是5英镑面值的）</i>
+<i>(Hall 正在数钞票, 一叠都是5英镑面值的)</i>
 
-112
+113
 00:07:25,930 --> 00:07:32,236
 HALL: No! Course I wasn't. Hey, you haven't told me
 what this little caper's about yet, uh, Kennedy.
 没有, 当然没有。嘿, 你还没有告诉我这一切到底是怎么回事, Kennedy
 
-113
+114
 00:07:35,006 --> 00:07:36,551
 KENNEDY: Counted the money yet then, have ya?
 钱已经数过了, 对吗？
 
-114
+115
 00:07:36,841 --> 00:07:37,525
 HALL: No, not yet.
 没, 还没呢
 
-115
+116
 00:07:37,816 --> 00:07:42,875
 KENNEDY: Or do you think I made a mistake giving ya two-fifty
 instead of seventy-five? We thought you might like a little extra.
 或许你认为我搞错了, 你说要75, 我却给了你250？我们是想你可以多拿一点
 
-116
+117
 00:07:43,099 --> 00:07:43,810
 HALL: What for?
 为什么？
 
-117
+118
 00:07:44,043 --> 00:07:45,162
 KENNEDY: You know those two at the hangar?
 你记得在机库的那两个家伙吧？
 
-118
+119
 00:07:45,363 --> 00:07:45,866
 HALL: Yeah?
 是啊？
 
-119
+120
 00:07:46,066 --> 00:07:46,820
 KENNEDY: They're outside.
 他们在外面
 
-120
+121
 00:07:47,039 --> 00:07:48,151
 KENNEDY: You weren't followed!
 你还说没被跟踪！
 
-121
+122
 00:07:48,911 --> 00:07:51,968
 KENNEDY: We'll be ready for them, won't we? That's what the extra's for.
 但我们得做点准备, 对吧。多给你的钱就为了这
 
-122
+123
 00:07:52,875 --> 00:07:53,911
 KENNEDY: Now listen...
 现在听着
 
-123
+124
 00:07:53,970 --> 00:07:56,236
 <i>(Kennedy picks up two sacks.)</i>
-<i>（Kennedy 拿起两个口袋）</i>fixme
+<i>(Kennedy 拿起两个口袋)</i>
 
-124
+125
 00:07:54,212 --> 00:07:58,001
 KENNEDY: You on one side of the door, me on the other. Right?
 Straight over their heads. They won't even know what hit them.
-你到门的这边, 我在那边, 行吧？ 直接对准他们的脑袋, 他们连是谁砸了他们都不会知道
+你到门的这边, 我在那边, 行吧？直接对准他们的脑袋, 他们连是谁都不会知道
 
-125
+126
 00:07:58,221 --> 00:07:59,135
 HALL: Ah, not me, mate.
 啊？我不行, 伙计
 
-126
+127
 00:07:59,357 --> 00:08:00,930
 KENNEDY: It's a bit late to argue, isn't it? They're outside.
 现在才说有点太晚了吧, 是不？他们已经在外面了
 
-127
+128
 00:08:01,107 --> 00:08:03,580
 HALL: Now listen, I'm not getting mixed up in a kidnapping, and that's flat!
 听着, 我是不会卷入一场绑架的, 没得商量
 
-128
+129
 00:08:03,883 --> 00:08:04,437
 KENNEDY: Oh, dear...
 哦, 亲爱的
 
-129
-00:08:04,570 --> 00:08:08,236
-<i>（Hall 不肯参与, Kennedy 拿起木棍打晕了 Hall, 跑了）</i>
-
 130
+00:08:04,570 --> 00:08:08,236
+<i>(Hall 不肯参与, Kennedy 拿起木棍打晕了 Hall, 跑了)</i>
+
+131
 00:08:11,508 --> 00:08:12,342
 JAMIE: Doctor?
 博士？
 
-131
+132
 00:08:15,324 --> 00:08:16,620
 DOCTOR: Well, have you tried the door?
 这里, 你试过这扇门吗？
 
-132
-00:08:20,570 --> 00:08:23,236
-<i>（博士和 Jamie 看到了躺在地上的 Hall）</i>
-
 133
+00:08:20,570 --> 00:08:23,236
+<i>(博士和 Jamie 看到了躺在地上的 Hall)</i>
+
+134
 00:08:23,321 --> 00:08:29,071
 DOCTOR: Man in the overalls! It's all right. He's alive.
 那个穿工作服的家伙！好了, 他还活着
 
-134
+135
 00:08:30,434 --> 00:08:34,294
 HALL: Oh, dear... Where's Ken...
 哦, 天啊, 哪儿去了Ken...
 
-135
+136
 00:08:34,705 --> 00:08:36,113
 DOCTOR: Ken? Ken who?
 Ken? Ken 什么？
 
-136
+137
 00:08:36,319 --> 00:08:37,937
 JAMIE: Make him tell us where the TARDIS is!
 让他告诉我们 TARDIS 哪儿去了!
 
-137
+138
 00:08:38,337 --> 00:08:41,110
 DOCTOR: No good, he's out cold.
 不太妙, 他晕过去了。
 
-138
+139
 00:08:41,337 --> 00:08:44,110
 JAMIE: See if we can find some water somewhere.
 看看我们能不能哪里找到一点水
 
-139
-00:08:44,337 --> 00:08:49,110
-<i>(The Doctor picks up the 5-pound notes.)</i>
-DOCTOR: Hello, this is something. This really is something.
-<i>（博士捡起那些5英镑的钞票）</i>
-嘿, 这里有情况, 这里真有点情况
-
 140
+00:08:44,337 --> 00:08:49,110
+DOCTOR: Hello, this is something. This really is something.
+嘿, 这里有情况, 这里真有点情况
+<i>(The Doctor picks up the 5-pound notes.)</i>
+<i>(博士捡起那些5英镑的钞票)</i>
+
+141
 00:08:50,699 --> 00:08:55,911
 DOCTOR: But, why pay him to help steal the TARDIS
 and then knock him on the head?
 奇怪, 为什么付钱让他帮忙偷走 TARDIS, 又来砸他的头？
 
-141
+142
 00:08:56,123 --> 00:08:57,537
 JAMIE: Well, why steal the TARDIS anyway?
 到底为什么要偷 TARDIS 呢？
 
-142
+143
 00:08:57,883 --> 00:08:59,646
 DOCTOR: That's what's been bothering me, Jamie, too.
 这事儿我也想不清楚, Jamie
 
-143
+144
 00:09:00,035 --> 00:09:03,497
 JAMIE: There's no water here. Hey, that looks a lot of money, Doctor.
 这里没有水, 嘿, 这里看来有一大笔钱, 博士
 
-144
+145
 00:09:03,723 --> 00:09:06,022
 DOCTOR: It's between two and three hundred pounds.
 大概200多镑, 300不到。
 
-145
+146
 00:09:06,723 --> 00:09:09,022
 DOCTOR: Yes, it is a lot, at least for what he had to do
 这的确不少, 对于要他干的事情来说不少
 
-146
+147
 00:09:09,223 --> 00:09:12,022
 DOCTOR: - put on a pair of overalls and just hang around.
 —— 也就是穿上工作服晃悠两下
  
-147
+148
 00:09:12,223 --> 00:09:18,022
 JAMIE: Come to think of it, why hang around? He was obviously planted.
 Why not just go off in the lorry?
 你想想, 为什么要晃悠？他显然是被安插下来的。为什么不跟着货车一起跑掉呢？
 
-148
+149
 00:09:16,509 --> 00:09:20,864
 <i>(The Doctor sees the cigarettes by the window.)</i>
-<i>（博士看到了窗边的烟卷）</i>
+<i>(博士看到了窗边的烟卷)</i>
 
-149
+150
 00:09:18,509 --> 00:09:19,864
 JAMIE: You found something else?
 你找到了什么吗？
 
-150
+151
 00:09:20,138 --> 00:09:21,010
 DOCTOR: I don't know.
 我不知道
 
-151
+152
 00:09:21,909 --> 00:09:25,864
 <i>(Unnoticed, Hall opens and closes his eyes.)</i>
-<i>（未被注意到的是, Hall 睁开了眼睛, 看了一眼又闭上了）</i>
-
-152
-00:09:26,709 --> 00:09:30,664
-<i>(The Doctor takes a small tin from Hall's pocket.)</i>
-<i>（博士从 Hall 的口袋里面翻出一个小铁盒）</i>
+<i>(未被注意到的是, Hall 睁开了眼睛, 看了一眼又闭上了)</i>
 
 153
+00:09:26,709 --> 00:09:30,664
+<i>(The Doctor takes a small tin from Hall's pocket.)</i>
+<i>(博士从 Hall 的口袋里面翻出一个小铁盒)</i>
+
+154
 00:09:37,903 --> 00:09:38,710
 JAMIE: What's that?
 那是什么？
 
-154
+155
 00:09:38,922 --> 00:09:40,201
 DOCTOR: It's all right. It's only a train.
 没事, 那是火车的声音
 
-155
+156
 00:09:40,395 --> 00:09:41,126
 JAMIE: A what?
 什么？
 
-156
+157
 00:09:41,331 --> 00:09:46,063
 DOCTOR: Well, it's a train. There are carriages and
 they go on wheels, on rails, and they're drawn by a stea...
 嗯, 是火车。上面有车厢, 下面有轮子, 跑在铁轨上, 它们是靠蒸汽牵引着。。。
 
-157
+158
 00:09:45,754 --> 00:09:50,217
 <i>(Hall runs out, jamming the doors shut with a metal bar
 through the handles.)<i>
-<i>（Hall 突然跑了出去, 拿一个金属条别在门栓上, 卡住了门）</i>
+<i>(Hall 突然跑了出去, 拿一个金属条别在门栓上, 卡住了门)</i>
 
-158
+159
 00:09:46,254 --> 00:09:47,217
 DOCTOR: Hey, come back!
 嘿, 回来！
 
-159
+160
 00:09:54,071 --> 00:09:55,658
 Well, give us a hand!
 来, 搭把手
 
-160
+161
 00:09:55,754 --> 00:09:59,217
 <i>(The Doctor pulls the doors open.)<i>
-<i>（博士拉开了门）</i>
+<i>(博士拉开了门)</i>
 
-161
+162
 00:10:00,212 --> 00:10:03,470
 - DOCTOR: Aw, not a sign of him.
 - JAMIE: The only chance we had.
 - 啊, 不见踪影了  - 我们唯一的机会
 
-162
-00:10:03,913 --> 00:10:05,858
-<i>(The Doctor shows Jammie a matchbox.)</i>
-DOCTOR: There is this...
-<i>(博士给 Jamie 看一个火柴盒子）</i>
-还有这个。。。
-
 163
+00:10:03,913 --> 00:10:05,858
+DOCTOR: There is this...
+还有这个。。。
+<i>(The Doctor shows Jammie a matchbox.)</i>
+<i>(博士给 Jamie 看一个火柴盒子)</i>
+
+164
 00:10:06,073 --> 00:10:11,230
 DOCTOR: "The Tricolour". It's a coffee bar apparently. And that's not all.
 ”三原色“。这看起来是一个咖啡馆。这还不是全部
 
-164
+165
 00:10:11,470 --> 00:10:12,477
 JAMIE: Well, what else?
 还有什么？
 
-165
+166
 00:10:12,664 --> 00:10:16,502
 DOCTOR: Well, normally people pull out their matches from right to left.
 These have been torn out from left to right.
 看这个, 一般来说人们都是从右往左抽火柴。但这些是从左到右的
 
-166
+167
 00:10:16,722 --> 00:10:17,786
 JAMIE: What does that mean?
 这说明什么？
 
-167
-00:10:18,183 --> 00:10:27,788
-DOCTOR: It means we've got to find a coffee bar called "The Tricolour"
-and look for a man called Ken or Kenneth - someone who's left-handed.
-这说明我们要去一个叫做”三原色“的咖啡馆, 找寻一个叫做 Ken 或者 Kenneth 的人, 这人还是个左撇子
-
 168
+00:10:18,183 --> 00:10:23,188
+DOCTOR: It means we've got to find a coffee bar called "The Tricolour"
+这说明我们要去一个叫做”三原色“的咖啡馆,
+
+169
+00:10:23,383 --> 00:10:27,788
+DOCTOR: and look for a man called Ken or Kenneth
+- someone who's left-handed.
+找寻一个叫做 Ken 或者 Kenneth 的人, 这人还是个左撇子
+
+170
 00:10:27,979 --> 00:10:29,308
 JAMIE: Now we've got something to go on!
 现在我们找到地方继续
 
-169
+171
 00:10:30,003 --> 00:10:37,387
 DOCTOR: But it's so little, Jamie. It's too little. He might only
 have been there once. There's no guarantee he'll ever go there again.
 机会还比较小, Jamie, 或者说非常小。他可能只去过那个地方一次, 不敢说他还会再去那里
 
-170
+172
 00:10:37,548 --> 00:10:40,722
 JAMIE: Now, don't give up Doctor. Remember Bruce.
 别放弃, 博士。记得 Bruce 吗？
 
-171
+173
 00:10:41,257 --> 00:10:42,121
 DOCTOR: Bruce?
 哪个 Bruce？
 
-172
+174
 00:10:42,352 --> 00:10:45,974
 JAMIE: Robert Bruce.
-<i>（注：苏格兰独立运动领袖, 独立后的苏格兰国王罗伯特一世）</i>
+<i>(注：苏格兰独立运动领袖, 独立后的苏格兰国王罗伯特一世)</i>
 
-173
+175
 00:10:45,852 --> 00:10:48,974
 <i>(The Docotor and Jamie leave the warehouse.)</i>
-<i>（博士和 Jamie 离开了这个仓库）</i>
+<i>(博士和 Jamie 离开了这个仓库)</i>
 
-174
+176
 00:10:54,192 --> 00:10:55,180
 KENNEDY: Look, I told...
 看, 我跟你说过...
 
-175
+177
 00:10:55,449 --> 00:10:57,540
 WATERFIELD: They were not aware that you were watching?
 他们没有发现你在监视吗？
 
-176
+178
 00:10:57,757 --> 00:11:00,189
 KENNEDY: No, they were too busy trying to work it all out.
 没有, 他们一直忙着搞明白问题
 
-177
+179
 00:11:00,494 --> 00:11:01,179
 WATERFIELD: Good.
 很好
 
-178
+180
 00:11:01,424 --> 00:11:04,398
 KENNEDY: That Bob Hall was a bit of a problem. I didn't think he'd turn nasty.
 那个 Bob Hall 有点麻烦。我没想到他会变得棘手
 
-179
+181
 00:11:05,081 --> 00:11:06,697
 WATERFIELD: You didn't hurt him?
 你没有伤害他吧？
 
-180
+182
 00:11:06,916 --> 00:11:08,521
 KENNEDY: Him? You're joking.
 他？你开玩笑吧
 
-181
+183
 00:11:08,706 --> 00:11:10,298
 WATERFIELD: I can assure you that I am not.
 我可以保证我没有
 
-182
+184
 00:11:10,488 --> 00:11:14,892
 KENNEDY: He's a lot bigger than me, you know.
 No, I just baggered him one and that was it.
 他比我块头大, 你知道的。没有, 我只是打了他一下, 仅此而已
 
-183
+185
 00:11:15,066 --> 00:11:20,047
 WATERFIELD: That was what? Kennedy, I must know precisely
 what has happened. How badly injured was Hall?
 仅此而已？ Kennedy, 我必须知道到底发生了什么。Hall 伤得严重不？
 
-184
+186
 00:11:20,227 --> 00:11:24,367
 KENNEDY: Well, a bit dazed, that's all. He just mumbled something
 and made a run for it when they weren't looking.
 就是有点晕了, 仅此而已。他嘟哝了几句什么, 然后趁他们没看见就跑了
 
-185
+187
 00:11:25,019 --> 00:11:26,745
 WATERFIELD: And where is he now?
 那他现在在哪儿？
 
-186
+188
 00:11:26,906 --> 00:11:32,301
 KENNEDY: Well, I went round to his place later. There he was coming
 out the front door, zip bag and everything. He got in a cab and went to Euston.
 嗯, 我后来去了他的地方。他正从前门出来, 打包好了一切, 坐进一辆车, 去了 Euston 
 
-187
+189
 00:11:32,475 --> 00:11:35,120
 WATERFIELD: Were you able to find another hansom and follow him?
 你就不能找个什么人跟着他吗？
 
-188
+190
 00:11:35,361 --> 00:11:36,159
 KENNEDY: Eh?
 嗯？
 
-189
+191
 00:11:36,469 --> 00:11:37,817
 WATERFIELD: Did you follow him?
 你跟踪他了？
 
-190
+192
 00:11:37,988 --> 00:11:40,914
 KENNEDY: Yeah, yeah. Don't worry about him. He's gone up north.
 好了, 好了, 别担心他了, 他去北方了
 
-191
+193
 00:11:41,470 --> 00:11:48,168
 WATERFIELD: That disposes of that. Now, this is extremely important:
 you did leave the matches?
 那就估计没问题了。现在, 这个问题非常重要：你的确留下火柴了吗？
 
-192
+194
 00:11:48,392 --> 00:11:51,838
 KENNEDY: Don't worry about it. The Doctor found the cigarettes and the matches.
 别担心这个, 博士已经发现了烟卷和火柴
 
-193
+195
 00:11:52,025 --> 00:11:55,115
 WATERFIELD: And you are certain they were the ones bearing the name of the coffee shop?
 你确定就是带有咖啡店名称的那盒？
 
-194
+196
 00:11:55,298 --> 00:11:56,000
 KENNEDY: Coffee bar.
 咖啡馆
 
-195
+197
 00:11:56,243 --> 00:11:56,760
 WATERFIELD: Yes.
 对
 
-196
+198
 00:11:57,013 --> 00:12:02,449
 KENNEDY: Yes. I told you, it worked like a charm. I never thought it would,
 but you were quite right. He got onto the name on the matches straight away.
 就是, 我跟你说, 进展非常顺利, 我都没想到。不过你是对的, 他直接就注意到了火柴上面的名字
 
-197
+199
 00:12:02,667 --> 00:12:07,610
 WATERFIELD: Well, just one last thing, to make quite sure:
 好, 最后一件事, 我得确认一下
 
-198
+200
 00:12:07,867 --> 00:12:12,610
 <i>(Waterfield opens a box, Kennedy is watching.</i>
-<i>（Waterfield 打开一个盒子, Kennedy 凑前去看）</i>
+<i>(Waterfield 打开一个盒子, Kennedy 凑前去看)</i>
 
-199
+201
 00:12:12,667 --> 00:12:16,610
 WATERFIELD: now you are certain that these are the people that you saw?
 你看看, 你确认他们就是这两个人？
 
-200
+202
 00:12:17,149 --> 00:12:19,356
 KENNEDY: That's them, yeah. Yeah, definite.
 就是他们, 对的, 对的, 绝对
 
-201
+203
 00:12:19,698 --> 00:12:27,056
 WATERFIELD: Right. Well, I shall want you to keep out of sight.
 You'd better stay in the house, and on no account are you to
 talk to Mr. Perry about any of this.
 好。现在, 你先躲起来, 最好不要出门。也绝对不要跟 Perry 谈起这件事
 
-202
+204
 00:12:27,302 --> 00:12:27,889
 KENNEDY: OK.
 好吧
 
-203
+205
 00:12:28,126 --> 00:12:30,357
 WATERFIELD: "OK."? What does that mean?
 好吧？这什么意思？
 
-204
+206
 00:12:30,624 --> 00:12:32,174
 KENNEDY: What? Yes!
 什么? 好的！
 
-205
+207
 00:12:33,017 --> 00:12:38,714
 WATERFIELD: Oh, I know that my attitude may appear strange to you on occasions, Kennedy.
 哦, 我知道有时候我的态度会显得比较奇怪, Kennedy
 
-206
-00:12:38,967 --> 00:12:44,308
-KENNEDY: You want to play the part of the Victorian grandfather,
-that's all right by me. Must be a pretty good gimmick. You pay me well enough.
-你想要扮演维多利亚老爷爷, 这跟完全没关系。你这肯定是一个相当不错的局。不过你给我的报酬相当不错
+208
+00:12:38,967 --> 00:12:41,308
+KENNEDY: You want to play the part of the Victorian grandfather, that's all right by me.
+你想要扮演维多利亚老爷爷, 这跟完全没关系。
 
-207
+209
+00:12:41,967 --> 00:12:44,308
+KENNEDY: Must be a pretty good gimmick. You pay me well enough.
+你这肯定是一个相当不错的局。不过你给我的报酬相当不错
+
+210
 00:12:44,544 --> 00:12:47,331
 WATERFIELD: It, uh... helps to sell to our customers.
-这对我们的生意有帮助 fixme
+这。。。对我们的生意有帮助
 
-208
+211
 00:12:47,582 --> 00:12:54,934
 KENNEDY: Yeah, sure, sure. You've, uh... never told me
 what it is exactly you've got against this Doctor and his friend.
-对, 当然, 当然。你从来。。没有告诉过我, 你对博士和他的朋友有什么打算。
+对, 当然, 当然。你从来。。没有告诉过我, 你对博士和他的朋友到底有什么过节
 
-209
+212
 00:12:55,182 --> 00:12:57,934
 KENNEDY: Some kind of vendetta or something?
 是复仇什么的吗？
 
-210
+213
 00:12:58,167 --> 00:13:02,779
 WATERFIELD: Explanations are not part of our arrangement.
-我并没有必要向你解释 fixme
+我并没有必要向你解释
 
-211
+214
 00:13:02,976 --> 00:13:04,308
 KENNEDY: Oh, just wondering.
 哦, 只是好奇
 
-212
+215
 00:13:04,500 --> 00:13:06,856
 WATERFIELD: Imagination is a virtue, but it can become a vice.
 想象力是个优点, 但也可能变成缺点
 
-213
+216
 00:13:07,494 --> 00:13:09,510
 KENNEDY: Mind me own business, yeah. I get the message.
 管好我自己的事, 好, 我知道了
 
-214
+217
 00:13:09,786 --> 00:13:12,268
 WATERFIELD: Ask Mr. Perry to come and see me, will you, please?
 让 Perry 先生过来见我, 帮忙叫一下？
 
-215
+218
 00:13:12,386 --> 00:13:16,268
 <i>(Kennedy leaves the room.)</i>
-<i>（Kennedy 离开了这个房间）</i>
-
-216
-00:13:17,386 --> 00:13:20,868
-<i>(Waterfield takes a key from the box and walks to the bookcase.)</i>
-<i>（Waterfield 从箱子里拿起一把钥匙, 往书架走过去）</i>
-
-217
-00:13:21,886 --> 00:13:24,268
-<i>(Kennedy listening at the door.)</i>
-<i>（Kennedy 在门口偷听）</i>
-
-218
-00:13:24,686 --> 00:13:27,268
-<i>(Waterfield inserts the key in a hole hidden behind a book.)</i>
-<i>（Waterfield 把钥匙插进一个锁眼, 这个锁眼隐藏在一本书后面）</i>
+<i>(Kennedy 离开了这个房间)</i>
 
 219
-00:13:46,686 --> 00:13:51,668
-<i>(He picks up a vase from the floor.)</i>
-<i>（他从地方上拿起一个花瓶）</i>
+00:13:17,386 --> 00:13:20,868
+<i>(Waterfield takes a key from the box and walks to the bookcase.)</i>
+<i>(Waterfield 从箱子里拿起一把钥匙, 往书架走过去)</i>
 
 220
+00:13:21,886 --> 00:13:24,268
+<i>(Kennedy listening at the door.)</i>
+<i>(Kennedy 在门口偷听)</i>
+
+221
+00:13:24,686 --> 00:13:27,268
+<i>(Waterfield inserts the key in a hole hidden behind a book.)</i>
+<i>(Waterfield 把钥匙插进一个锁眼, 这个锁眼隐藏在一本书后面)</i>
+
+222
+00:13:46,686 --> 00:13:51,668
+<i>(He picks up a vase from the floor.)</i>
+<i>(他从地方上拿起一个花瓶)</i>
+
+223
 00:14:08,663 --> 00:14:09,790
 KENNEDY: He wants to see you.
 他想要见你
 
-221
+224
 00:14:09,977 --> 00:14:11,176
 PERRY: Oh, thank you.
 哦, 谢谢你
 
-222
+225
 00:14:13,929 --> 00:14:14,886
 WATERFIELD: Who is it?
 谁？
 
-223
+226
 00:14:15,086 --> 00:14:16,576
 PERRY: It's Perry, sir.
 是 Perry, 先生
 
-224
+227
 00:14:16,746 --> 00:14:17,822
 WATERFIELD: One moment.
 等一下
 
-225
+228
 00:14:21,913 --> 00:14:23,014
 PERRY: You wanted to see me, sir?
 你想要见我, 先生？
 
-226
+229
 00:14:23,616 --> 00:14:28,860
 WATERFIELD: Yes, I have an extremely important and delicate task
 for you to perform.
 是的, 我有一个非常重要、非常棘手的任务, 需要你去办
 
-227
+230
 00:14:29,057 --> 00:14:29,905
 PERRY: Oh, yes?
 哦, 是什么？
 
-228
+231
 00:14:30,273 --> 00:14:32,753
 PERRY: I say, you got a new delivery.
 咦, 你又有新货啦
 
-229
+232
 00:14:33,476 --> 00:14:34,521
 WATERFIELD: Y... yes.
 是。。是的
 
-230
+233
 00:14:34,694 --> 00:14:36,202
 PERRY: I didn't see it arrive.
 但我没有看到它送过来
 
-231
+234
 00:14:36,337 --> 00:14:43,022
 WATERFIELD: It was delivered last night. I've only just
 brought it in myself. It is, uh... for a new customer.
 它是昨晚投递的, 我自己把它拿进来的。那是。。。那是给一个新客户的
 
-232
+235
 00:14:43,393 --> 00:14:44,173
 PERRY: Oh, yes?
 哦, 是吗？
 
-233
+236
 00:14:44,403 --> 00:14:48,609
 WATERFIELD: A Dr. Galloway. He's extremely wealthy and an ardent collector...
 某位 Galloway 博士, 他相当富有, 非常喜欢收藏
 
-234
+237
 00:14:48,791 --> 00:14:50,517
 PERRY: Of, uh... Victoriana, sir?
 当然。。。维多利亚迷, 是吗？
 
-235
+238
 00:14:50,676 --> 00:14:57,750
 WATERFIELD: No less. I do not know the Doctor personally,
 but we have arranged to meet in the coffee shop, uh... bar, nearby.
 的确。我个人也不认识这位博士, 但我们约好了在附近的咖啡店, 哦, 咖啡馆, 见面
 
-236
+239
 00:14:57,907 --> 00:14:59,520
 PERRY: Oh, the Tricolour, sir?
 哦, 三原色, 是吗？
 
-237
+240
 00:14:59,694 --> 00:15:06,450
 WATERFIELD: Yes. Unfortunately, I am unable to keep the appointment,
 so I want you to go instead, Mr. Perry.
 是的, 但不幸的是, 我没法赴约了。所以我想你替我去, Perry 先生。
 
-238
+241
 00:15:06,694 --> 00:15:10,450
 WATERFIELD: Here is a photograph of Dr. Galloway.
 这里有 Galloway 博士的照片
 
-239
+242
 00:15:10,936 --> 00:15:15,835
 WATERFIELD: This is his assistant and secretary, Mr. James McCrimmon.
 这是他的助手和秘书, James McCrimmon 先生.
 
-240
+243
 00:15:15,936 --> 00:15:21,135
 WATERFIELD: Now I want you to ask the Doctor to come
 to the shop tonight, say at, uh... ten o' clock.
 我想让你请博士晚上到店里来, 大概。。10点
 
-241
+244
 00:15:21,330 --> 00:15:22,464
 PERRY: Ten o'clock, sir?!
 十点, 先生？
 
-242
+245
 00:15:22,638 --> 00:15:28,363
 WATERFIELD: Yes. Oh, don't worry, Mr. Perry.
 I shall be attending to him myself. You needn't wait.
 是的。哦, 别担心, Perry 先生。我自己招待他, 你不用在这里等着
 
-243
+246
 00:15:28,542 --> 00:15:29,757
 PERRY: Oh, right sir.
 哦, 好的, 先生
 
-244
+247
 00:15:30,036 --> 00:15:36,781
 WATERFIELD: The Doctor is notoriously unpunctual.
 I fear you may have a long and tedious wait.
 这位博士是出了名的不准时。恐怕你得多等一会儿了
 
-245
+248
 00:15:36,983 --> 00:15:38,958
 PERRY: I shall find him sir. Do you want me to go now?
 我会找到他的, 先生。你想让我现在就去吗？
 
-246
+249
 00:15:39,125 --> 00:15:40,446
 WATERFIELD: If you please, Mr. Perry.
 如果你愿意的话, Perry 先生
 
-247
+250
 00:15:40,679 --> 00:15:41,349
 PERRY: Right.
 好的
 
-248
+251
 00:15:45,879 --> 00:15:51,349
 <i>(Once Perry has gone, Kennedy continues to listen at the door.)</i>
+<i>(Perry 一离开, Kennedy 回到门边继续偷听)</i>
 
-249
+252
 00:15:53,879 --> 00:15:58,449
 <i>(Waterfield locks the study door, then walks to the bookcase.)</i>
+<i>(Waterfield 锁上了书房门, 走到书架旁边)</i>
 
-250
+253
 00:16:23,879 --> 00:16:28,049
 <i>(He sits in the chair.)</i>
+<i>(他坐到椅子上)</i>
 
-251
+254
 00:16:32,704 --> 00:16:33,988
 PERRY: And what are you doing?
 你在这里干什么？
 
-252
+255
 00:16:34,189 --> 00:16:35,781
 KENNEDY: I... I can't make Mr. Waterfield hear me. I knocked.
 我。。。刚才 Waterfield 先生听不见我说话。 我敲门了
 
-253
+256
 00:16:35,954 --> 00:16:36,718
 PERRY: He's busy.
 他正忙
 
-254
+257
 00:16:36,907 --> 00:16:37,947
 KENNEDY: O.K. I'll try later.
 好吧, 那我稍后再来
 
-255
+258
 00:16:56,747 --> 00:16:58,028
 JAMIE: Don't look so depressed, Doctor.
 别这么丧气, 博士
 
-256
+259
 00:16:58,894 --> 00:17:00,769
 DOCTOR: If only we knew what he looked like, Jamie.
 我们要是知道他长什么样子就好了, Jamie
 
-257
+260
 00:17:01,016 --> 00:17:03,450
 JAMIE: We'll ask one of the lasses in a moment, when things get quieter.
 我们一会儿问问某个女人, 要是还没什么头绪
 
-258
+261
 00:17:03,717 --> 00:17:06,444
 DOCTOR: We've got to untangle this, you know.
 我们得解开这个谜题，是吧
 
-259
+262
 00:17:06,645 --> 00:17:11,470
 JAMIE: It's all quite obvious to me. They're just robbers.
 Thieves, you understand.
 对我而言，这非常明显, 他们就是抢劫犯, 小偷, 你明白吗？
 
-260
+263
 00:17:11,684 --> 00:17:17,058
 DOCTOR: No, no, there's more to it than that.
 Why leave that man in the hangar to give us a clue?
 不, 不, 这事没那么简单。为什么要在机库留一个人给我们留下线索呢？
 
-261
+264
 00:17:17,254 --> 00:17:19,597
 JAMIE: Which we haven't followed up, you know. "Leatherman?"
 我们并没有跟着那条线索啊, 记得吗, ”Leatherman"
 
-262
+265
 00:17:19,955 --> 00:17:25,580
 DOCTOR: There is no delivery firm of that name.
 Not in the London area, anyway. I checked in the phone book.
 没有哪个送货公司叫那个名字, 至少伦敦地区没有。我查过电话本了
 
-263
+266
 00:17:25,782 --> 00:17:27,653
 JAMIE: But surely there's more places than London.
 但显然不止伦敦这一个地方啊
 
-264
+267
 00:17:27,902 --> 00:17:28,703
 DOCTOR: Maybe.
 也许吧
 
-265
+268
 00:17:30,856 --> 00:17:32,622
 JAMIE: Do you think this is sort of a trap, Doctor?
 你觉得这是某种陷阱, 博士？
 
-266
+269
 00:17:32,809 --> 00:17:36,025
 DOCTOR: Yes, but if only we knew who our enemies are...
 是的, 要是我们知道我们的敌人是谁就好了。。。
 
-267
+270
 00:17:36,304 --> 00:17:37,941
 Not the Chameleons again!
 不会又是变色龙吧？
-<i>（注：在上一集04x08 The Faceless Ones出现的）</i>
+<i>(注：在上一集04x08 The Faceless Ones出现)</i>
 
-268
+271
 00:17:38,144 --> 00:17:43,893
 DOCTOR: No, something else. I can feel them, closing in all around us.
 不, 是其他的。我能感觉到, 就在我们旁边不远的地方
 
-269
-00:17:49,037 --> 00:17:57,508
-WATERFIELD: I've done everything that you've asked of me. Isn't that enough?
-Now you must tell me the truth. Do you hear?! The truth!
-我已经做了所有你要求我做的事情, 还不够吗？现在你必须告诉我真相, 听到没？真相！
+272
+00:17:49,037 --> 00:17:53,508
+WATERFIELD: I've done everything that you've asked of me.
+Isn't that enough?
+我已经做了所有你要求我做的事情, 还不够吗？
 
-270
+273
+00:17:53,737 --> 00:17:57,508
+WATERFIELD: Now you must tell me the truth. Do you hear?! The truth!
+现在你必须告诉我真相, 听到没？真相！
+
+274
 00:18:00,373 --> 00:18:07,712
-WATERFIELD: But, you must tell me. I demand! I'm talking to you! Come back!
+WATERFIELD: But, you must tell me. I demand!
+I'm talking to you! Come back!
 不, 你必须告诉我！我强烈要求！我跟你说话呢！回来！
 
-271
+275
 00:18:29,879 --> 00:18:34,449
 <i>(Waterfield moves to a couch. He lies down and closes his eyes.)</i>
+<i>(Waterfield 挪到一个躺椅上, 半躺下来, 闭上了眼睛)</i>
 
-272
+276
 00:18:46,747 --> 00:18:52,879
 JAMIE: Oh, if only the laird could see that!
 Why do I get all the difficult tasks, Doctor?
 哦, 要是领主看见这个就好了！为什么这些困难的任务总让我来, 博士？
 
-273
+277
 00:18:53,487 --> 00:18:57,266
 DOCTOR: Because you're so much better at them than I am, Jamie.
 What did you find out?
 因为在这方面你比我强多了, Jamie。你发现什么了吗？
 
-274
+278
 00:18:57,661 --> 00:19:01,021
 JAMIE: None of the lasses here could remember anybody called Ken or Kenneth.
 这些女士们没一个记得谁叫做 Ken 或者 Kenneth
 
-275
+279
 00:19:01,242 --> 00:19:01,904
 DOCTOR: Oh, dear.
 哦, 天啊
 
-276
+280
 00:19:02,091 --> 00:19:05,430
 JAMIE: Aye. But, they do have a different lot on duty in the evening.
 Now, maybe they'll know.
 是啊，不过，到了晚上又会是另外一批人，也许他们会知道
 
-277
+281
 00:19:08,360 --> 00:19:11,553
 DOCTOR: Jamie, I'm being stared at. Is there something wrong with me?
 Jamie，有人在盯着我看。我有什么地方不对劲吗？
 
-278
+282
 00:19:11,924 --> 00:19:13,367
 JAMIE: You mean up here Doctor?
 你是说在这个地方吗，博士？
 
-279
+283
 00:19:13,596 --> 00:19:14,841
 DOCTOR: Is my hair in disarray?
 我的头发乱了？
 
-280
+284
 00:19:15,416 --> 00:19:16,813
 JAMIE: Well, no more than usual.
 唔，没比平常乱
 
-281
+285
 00:19:17,038 --> 00:19:19,088
 DOCTOR: Do I look strange or bizarre?
 我看起来比较奇怪？
 
-282
+286
 00:19:19,659 --> 00:19:22,505
 JAMIE: Aye. Well, maybe I'm just used to you.
 啊，还好，也许我看你已经习惯了
 
-283
+287
 00:19:22,749 --> 00:19:24,808
 DOCTOR: That's some comfort. Look out, he's coming over.
 这我放心一点了。你看，他过来了
 
-284
+288
 00:19:25,057 --> 00:19:25,989
 PERRY: I beg your pardon.
 打扰一下
 
-285
+289
 00:19:27,343 --> 00:19:28,464
 DOCTOR: Not at all.
 没事
 
-286
+290
 00:19:28,695 --> 00:19:29,842
 PERRY: It is Dr. Galloway, isn't it?
 你是 Galloway 博士吗
 
-287
+291
 00:19:30,019 --> 00:19:30,686
 DOCTOR: Dr. Gallo-?
 Gallo...博士？
 
-288
+292
 00:19:30,887 --> 00:19:31,723
 PERRY: ...and Mr. McCrimmon.
 这位是 McCrimmon 先生
 
-289
+293
 00:19:31,908 --> 00:19:32,994
 JAMIE: Aye, I'm Jamie McCrimmon.
 是啊，我是 Jamie McCrimmon
 
-290
+294
 00:19:33,165 --> 00:19:34,246
 PERRY: My card.
 我的名片
 
-291
+295
 00:19:35,817 --> 00:19:37,009
 JAMIE: Yes, uh...
 好的，呃。。。
 
-292
+296
 00:19:37,304 --> 00:19:38,538
 DOCTOR: Mr. Perry?
 Perry 先生？
 
-293
+297
 00:19:38,779 --> 00:19:41,902
 PERRY: Mr. Waterfield's frightfully sorry, but he can't meet you as arranged.
 Waterfield 他表示非常抱歉，他不能来赴约了
 
-294
+298
 00:19:43,878 --> 00:19:45,506
 DOCTOR: Oh. Oh, dear. What a pity.
 哦，哦，太遗憾了
 
-295
+299
 00:19:45,666 --> 00:19:50,530
 PERRY: But, he says if you'd care to come to the shop at about,
 uh... ten tonight, he'll see to you personally.
 不过，他说如果你愿意到店里来的话，呃。。今晚十点，他会跟你面谈
 
-296
+300
 00:19:51,457 --> 00:19:55,700
 DOCTOR: At about 10. Oh, yes, uh... We'll be there.
 大约10点是吧，哦，好的，呃。。。我们会到的
 
-297
+301
 00:19:56,023 --> 00:19:56,782
 PERRY: Righto.
 太好了
 
-298
+302
 00:19:57,039 --> 00:19:58,969
 DOCTOR: Right! Right!
 好，好
 
-299
+303
 00:20:04,538 --> 00:20:07,732
 DOCTOR: "Edward Waterfield: Genuine Victoriana".
 Edward Waterfield：维多利亚真品店
 
-300
+304
 00:20:07,924 --> 00:20:11,102
 JAMIE: Can't be a mistake. Even though he got your name wrong, he knew mine.
 应该没错了，虽然他把你的名字搞错了，他倒是知道我的
 
-301
+305
 00:20:11,438 --> 00:20:13,916
 DOCTOR: I wonder if Mr. Kenneth has found us.
 我在想 Kenneth 先生是不是发现了我们
 
-302
+306
 00:20:14,168 --> 00:20:14,723
 JAMIE: Eh?
 嗯？
 
-303
+307
 00:20:14,914 --> 00:20:22,167
 DOCTOR: "K. Perry Esquire". Yes, I think we'll go and see Mr. Edward Waterfield.
 "K. Perry Esquire". 是了，我想我们得去见 Edward Waterfield 先生
 
-304
+308
 00:20:23,140 --> 00:20:25,919
 WATERFIELD: And he, uh... definitely said he would be here?
 那他。。。的确说了他会来这里？
 
-305
+309
 00:20:26,084 --> 00:20:27,132
 PERRY: Yes, sir.
 是的，先生
 
-306
+310
 00:20:27,289 --> 00:20:29,760
 WATERFIELD: Thank you. You have done excellently, Mr. Perry.
 谢谢你，你做得很好，Perry 先生
 
-307
+311
 00:20:29,989 --> 00:20:30,587
 PERRY: Er...
 呃。。。
 
-308
+312
 00:20:30,771 --> 00:20:31,407
 WATERFIELD: Good night.
 晚安
 
-309
+313
 00:20:31,588 --> 00:20:32,675
 PERRY: See you in the morning, sir.
 明早见，先生
 
-310
+314
 00:20:32,852 --> 00:20:37,549
 WATERFIELD: Uh, yes. Yes, in the morning.
 啊，是的，早上见
 
-281
+315
 00:20:40,800 --> 00:20:44,500
 <i>(Waterfield watches Perry leave.)</i>
+<i>(Waterfield 看着 Perry 离开)</i>
 
-311
+316
 00:20:46,817 --> 00:20:49,856
 WATERFIELD: Kennedy? Kennedy?
 
-312
+317
 00:20:54,747 --> 00:21:02,029
 WATERFIELD: The Doctor is coming here tonight. I shall want you to help me. 
 And you had better put some warm clothes on. Dark things.
 博士今晚要过来，我期望你帮我一下。你最好穿点厚衣服。有点脏活儿
 
-313
+318
 00:21:02,236 --> 00:21:06,861
 WATERFIELD: All right. You'd better make sure that police box
 is well covered-up, in case the Doctor starts snooping about.
 这样，你最好把这个警亭好好遮掩起来，免得博士乱看
 
-314
+319
 00:21:08,659 --> 00:21:09,628
 KENNEDY: Yes.
 好的
 
-315
+320
 00:21:12,800 --> 00:21:15,500
 <i>(Waterfield leaves.)</i>
-
-316
-00:21:19,800 --> 00:21:24,500
-<i>(Kennedy takes a lock pick from his back pocket.)</i>
-
-317
-00:21:25,300 --> 00:21:29,500
-<i>(He starts to pick the study door lock.)</i>
-
-318
-00:21:33,800 --> 00:21:39,500
-<i>(He picks the lock and enters the study.)</i>
-
-319
-00:21:42,300 --> 00:21:47,500
-<i>(He searches through all the desk drawers.)</i>
-
-320
-00:21:55,300 --> 00:21:59,500
-<i>(He then searches the rest of the room including the bookcase.)</i>
+<i>(Waterfield 离开了)</i>
 
 321
-00:22:29,300 --> 00:22:34,500
-<i>(He plays with switches on the control box.)</i>
+00:21:19,800 --> 00:21:24,500
+<i>(Kennedy takes a lock pick from his back pocket.)</i>
+<i>(Kennedy 从口袋里面拿出一个撬锁器)</i>
 
 322
-00:22:36,300 --> 00:22:41,500
-<i>(but stops when the control lights begin to flicker.)</i>
+00:21:25,300 --> 00:21:29,500
+<i>(He starts to pick the study door lock.)</i>
+<i>(他开始撬书房门的锁)</i>
 
 323
-00:22:42,300 --> 00:22:48,500
-<i>(He moves to a panel behind the chair.)</i>
+00:21:33,800 --> 00:21:39,500
+<i>(He picks the lock and enters the study.)</i>
+<i>(他撬开了锁, 进了书房)</i>
 
 324
+00:21:42,300 --> 00:21:47,500
+<i>(He searches through all the desk drawers.)</i>
+<i>(他在桌子抽屉里面翻找着)</i>
+
+325
+00:21:55,300 --> 00:21:59,500
+<i>(He then searches the rest of the room including the bookcase.)</i>
+<i>(他又开始搜索房间的其它位置, 包括书架)</i>
+
+326
+00:22:29,300 --> 00:22:34,500
+<i>(He plays with switches on the control box.)</i>
+<i>(他试探着控制箱上面的开关)</i>
+
+327
+00:22:36,300 --> 00:22:41,500
+<i>(but stops when the control lights begin to flicker.)</i>
+<i>(一些控制灯开始闪烁, 他停了下来)</i>
+
+328
+00:22:42,300 --> 00:22:48,500
+<i>(He moves to a panel behind the chair.)</i>
+<i>(他移动到椅子后面的面板旁)</i>
+
+329
 00:23:29,633 --> 00:23:39,062
 DALEK: Who are you? Who are you? Answer!
 你是谁？你是谁？回答！
