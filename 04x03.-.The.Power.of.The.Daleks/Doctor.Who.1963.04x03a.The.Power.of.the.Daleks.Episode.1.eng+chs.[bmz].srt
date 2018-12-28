@@ -46,11 +46,13 @@ What, him? The Doctor?
 11
 00:01:54,878 --> 00:01:59,768
 嗯，从门外走进来的人就是他 - 外面也没有其他人
-Well, that's who came through the doors - there was no one else outside. Ben, do you remember what he said in the tracking room? Something about "This old body of mine is wearing a bit thin. "
+Well, that's who came through the doors - there was no one else outside.
 
 12
 00:01:59,878 --> 00:02:05,768
 Ben, 你记得他在跟踪室内说过什么吗? 好像说＂我的旧身体穿了身新皮囊. "
+Ben, do you remember what he said in the tracking room?
+Something about "This old body of mine is wearing a bit thin. "
 
 13
 00:02:06,440 --> 00:02:08,563
@@ -221,7 +223,8 @@ Ah, very good. Nails need growing.
 46
 00:06:09,991 --> 00:06:13,842
 看，博士总戴着这个，如果你是他，这个应该大小合适，对不对?
-Now look, the Doctor always wore this. So if you're him, it should fit now, shouldn't it?
+Now look, the Doctor always wore this.
+So if you're him, it should fit now, shouldn't it?
 
 47
 00:06:16,568 --> 00:06:17,529
@@ -231,7 +234,8 @@ There - that settles it.
 48
 00:06:17,991 --> 00:06:21,416
 我想看看蝴蝶展开翅膀后怎么适应它的蛹
-I'd like to see a butterfly fit into a chrysalis case after it's spread its wings.
+I'd like to see a butterfly fit into a chrysalis case
+after it's spread its wings.
 
 49
 00:06:21,668 --> 00:06:22,911
@@ -306,7 +310,8 @@ Doctor? Doctor, what's going to happen to us?
 63
 00:07:47,331 --> 00:07:54,546
 我觉得... 我觉得我们着陆有一阵子了. 我觉得我们该出去逛逛了.
-I think... I think we must have landed for sometime. I think it's time we went for a stroll.
+I think... I think we must have landed for sometime.
+I think it's time we went for a stroll.
 
 64
 00:08:02,438 --> 00:08:04,282
@@ -672,7 +677,8 @@ one of my rooms now and again, Janley, but don't try to involve me.
 134
 00:15:08,546 --> 00:15:13,022
 这才是我觉得重要地位东西. 在水银沼泽里待了两百年...
-This is what I find important. Two hundred years in a mercury swamp...
+This is what I find important.
+Two hundred years in a mercury swamp...
 
 135
 00:15:13,217 --> 00:15:17,009
@@ -704,7 +710,8 @@ Frankly, I doubt it.
 140
 00:15:37,096 --> 00:15:41,368
 我觉得总督让监察员过来就是为了阻止你打开太空舱的.
-I think the Governor's brought the Examiner here to stop you opening the capsule.
+I think the Governor's brought the Examiner here
+to stop you opening the capsule.
 
 141
 00:15:43,153 --> 00:15:47,413
@@ -765,12 +772,14 @@ Well, he hasn't done anything.
 152
 00:16:26,015 --> 00:16:29,512
 不，那就是麻烦所在! 他知道那会儿 TARDIS 里发生了什么
-No, that's just the trouble! He knows what happened back at the TARDIS,
-yet will he tell us? Will he come out and say? Will he admit to being the Doctor?
+No, that's just the trouble!
+He knows what happened back at the TARDIS,
 
 153
 00:16:30,000 --> 00:16:34,500
 他会告诉我们吗? 他会站出来说? 他会承认他就是博士?
+yet will he tell us? Will he come out and say?
+Will he admit to being the Doctor?
 
 154
 00:16:34,840 --> 00:16:35,727
@@ -780,7 +789,8 @@ Come in!
 155
 00:16:41,027 --> 00:16:45,391
 我是 Hensell - 这里的总督. 我想想你们感觉好点了吧?
-I am Hensell - the Governor. I trust you're all feeling much better?
+I am Hensell - the Governor.
+I trust you're all feeling much better?
 
 156
 00:16:45,600 --> 00:16:46,870
@@ -828,7 +838,8 @@ To examine. And I intend to start my examination at once!
 164
 00:17:21,876 --> 00:17:26,650
 有人密报说这里有人叛乱，是为了这个吧，是吗?
-Someone's leaked reports about these rebel groups - that's it, isn't it?
+Someone's leaked reports about these rebel groups
+- that's it, isn't it?
 
 165
 00:17:27,998 --> 00:17:29,420
@@ -843,7 +854,8 @@ There is Lesterson's capsule.
 167
 00:17:32,206 --> 00:17:35,446
 内部事物归我管， Bragen. 请不要来干扰我们!
-Internal affairs are my business, Bragen. Please don't interfere!
+Internal affairs are my business, Bragen.
+Please don't interfere!
 
 168
 00:17:36,090 --> 00:17:37,067
@@ -873,10 +885,15 @@ I felt it might be dangerous, it might contain bacteria.
 I shall examine the capsule... later. You may leave us.
 
 173
-00:18:03,321 --> 00:18:12,288
-我期待你的报告. Bragen, 确保监察员和他的随从 ... 换身得体的衣服，好吧?
+00:18:03,321 --> 00:18:04,588
+我期待你的报告.
 I shall look forward to your report.
-Bragen, see that the Examiner and his party... get some proper clothes, will you?
+
+173
+00:18:04,821 --> 00:18:12,288
+Bragen, 确保监察员和他的随从 ... 换身得体的衣服，好吧?
+Bragen, see that the Examiner and his party...
+get some proper clothes, will you?
 
 174
 00:18:21,725 --> 00:18:24,157
@@ -884,10 +901,14 @@ Bragen, see that the Examiner and his party... get some proper clothes, will you
 We are wearing proper clothes!
 
 175
-00:18:26,946 --> 00:18:35,579
-哦，他怎么拿回那个东西的? 有点厚颜无耻吧? 呃，看看总督能不能把他个徽章拿下来?
+00:18:26,946 --> 00:18:31,579
+哦，他怎么拿回那个东西的? 有点厚颜无耻吧?
 Oh, how did he get that thing back again?
 That was a bit of a cheek, wasn't it?
+
+175
+00:18:31,946 --> 00:18:35,579
+呃，看看总督能不能把他个徽章拿下来?
 Er, seeing if the Governor was the guy that you got the button off?
 
 176
@@ -954,7 +975,8 @@ Look, you're not going to fool the guy that did the real Examiner in!
 188
 00:19:16,020 --> 00:19:20,584
 Bragen! 为什么见一下监察员还得先征得同意?
-Bragen! What's all this nonsense about having to have a pass to see the Examiner?
+Bragen! What's all this nonsense about
+having to have a pass to see the Examiner?
 
 189
 00:19:20,833 --> 00:19:21,893
@@ -969,7 +991,8 @@ Surely it doesn't apply to me?
 191
 00:19:23,195 --> 00:19:27,144
 不是我下的命令, Quinn. 我觉得总督不想让人靠近他.
-It's not my order, Quinn. I expect the Governor wants to keep people away from him.
+It's not my order, Quinn.
+I expect the Governor wants to keep people away from him.
 
 192
 00:19:27,313 --> 00:19:28,877
@@ -1038,9 +1061,13 @@ It dropped from the capsule.
 Dropped?
 
 205
-00:20:24,399 --> 00:20:32,560
-是的, 把它拖进实验室的时候. 不过，你看! 这种金属可以会对我们的太空旅行技术产生革命性影响.
+00:20:24,399 --> 00:20:27,560
+是的, 把它拖进实验室的时候.
 Yes, when it was being hauled into the laboratory.
+
+205
+00:20:27,799 --> 00:20:32,560
+不过，你看! 这种金属可以会对我们的太空旅行技术产生革命性影响.
 But, you can see! This metal could revolutionise space travel.
 
 206
@@ -1057,8 +1084,8 @@ But Lesterson, I didn't think you could open it?
 208
 00:20:40,679 --> 00:20:48,831
 我有一个理论. 我推断打开的方法是在两端，要么这边，要么这边.
-Well, I have a theory. I'm convinced that the opening mechanism
-on the other side is either here, or here.
+Well, I have a theory. I'm convinced that the opening
+mechanism on the other side is either here, or here.
 
 209
 00:20:49,515 --> 00:20:50,780
@@ -1118,12 +1145,14 @@ Ah, getting into the rest of the capsule will take time, Governor.
 220
 00:21:57,970 --> 00:22:00,108
 你不能再用一下那个光束吗？那肯定是一个门.
-Well, can't you use that torch thing again? That must be an opening door.
+Well, can't you use that torch thing again?
+That must be an opening door.
 
 221
 00:22:00,329 --> 00:22:03,244
 我得考察一下，看看锁机关在哪儿.
-Well, I should have to measure it up and find out where the lock mechanism is.
+Well, I should have to measure it up
+and find out where the lock mechanism is.
 
 222
 00:22:03,440 --> 00:22:05,012
@@ -1328,10 +1357,15 @@ I knew I should find them here - I knew it.
 Ah, they look harmless, not very lively.
 
 261
-00:25:46,703 --> 00:25:52,079
-你想什么呢? 在沼泽里呆200年，你也看起来不活跃. 没有什么东西能熬过来，是吧?
-What do you think? Two hundred years in a swamp and you wouldn't
-look very lively either. Nothing could live through that, could it?
+00:25:46,703 --> 00:25:50,079
+你想什么呢? 在沼泽里呆200年，你也看起来不活跃
+What do you think? Two hundred years in a swamp
+and you wouldn't look very lively either.
+
+261
+00:25:50,203 --> 00:25:52,079
+没有什么东西能熬过来，是吧?
+Nothing could live through that, could it?
 
 262
 00:25:52,320 --> 00:25:53,092
@@ -1356,5 +1390,6 @@ What's the matter?
 266
 00:26:05,109 --> 00:26:09,457
 这里本来有三个 Daleks 的! 另外一个发生了什么?
-Well, there were three Daleks in here! What's happened to the other one?
+Well, there were three Daleks in here!
+What's happened to the other one?
 

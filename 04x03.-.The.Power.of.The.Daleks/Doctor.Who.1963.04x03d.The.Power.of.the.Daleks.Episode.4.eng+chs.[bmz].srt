@@ -1172,296 +1172,296 @@ The Governor will hardly listen to an impostor.
 冒名顶替者? 你打算怎么证明这个?
 An impostor? How do you propose to prove that?
 
-230
+229
 00:16:38,829 --> 00:16:42,439
 我的保安正在水银沼泽打捞那个真监察员的尸体
 My guards are now going to produce the body
 of the real Examiner from the mercury swamp.
 
-231
+230
 00:16:42,503 --> 00:16:43,826
 被你谋杀的那个
 The one you murdered.
 
-232
+231
 00:16:43,901 --> 00:16:45,139
 被你假冒的那个
 The one you pretended to be.
 
-233
+232
 00:16:45,287 --> 00:16:48,420
 谋杀罪比冒名顶替严重多了
 Murder's a far worse crime than impersonation.
 
-234
+233
 00:16:49,046 --> 00:16:54,519
 是的, 但你没法证明我是个杀人犯, 而我却可以证明你是假冒的.
 Yes, but you can't prove I'm a murderer,
 while I can prove that you're an impostor.
 
-235
+234
 00:16:55,121 --> 00:16:56,556
 把这个人带走. 看住他
 Take this man away. Detain him.
 
-236
+235
 00:17:05,314 --> 00:17:06,640
 一个危险人物
 A dangerous man.
 
-237
+236
 00:17:07,373 --> 00:17:08,972
 现在唯一剩下的就是总督了
 Now the only one left is the Governor.
 
-238
+237
 00:17:09,187 --> 00:17:11,001
 也许我们应该早些搞定这个监察员
 Perhaps we should have dealt with the Examiner earlier.
 
-239
+238
 00:17:11,180 --> 00:17:13,496
 我会及时搞定他的 - 还有Quinn.
 I'll deal with him in time - and Quinn.
 
-240
+239
 00:17:44,218 --> 00:17:46,477
 你是我最没想到会在这里见到的人
 You're the last man I expected to see here.
 
-241
+240
 00:17:47,715 --> 00:17:48,973
 唔. 靠声音驱动的, 是吧?
 Hmm. Work's by sound, does it?
 
-242
+241
 00:17:49,140 --> 00:17:50,660
 我跟你说话呢, 监察员
 I'm speaking to you, Examiner.
 
-243
+242
 00:17:50,835 --> 00:17:51,452
 哦, 抱歉
 Oh, I'm sorry.
 
-244
+243
 00:17:51,634 --> 00:17:53,606
 如果你一开始肯听我说话, 就不会现在被锁在这里了
 If you'd listened to me in the first place,
 you wouldn't be locked up here now.
 
-245
+244
 00:17:53,781 --> 00:17:57,292
 你被关起来倒不是完全没好处, 至少你的敌人露面...
 Well your imprisonment hasn't been entirely wasted.
 It's brought your enemy out into...
 
-246
+245
 00:17:57,450 --> 00:17:59,498
 Bragen 是吧? 我一直都知道的.
 Bragen? I've known that all along.
 
-247
+246
 00:17:59,673 --> 00:18:02,675
 是的. 但是你知道吗, 他是叛乱分子的头目
 Yes. But, ah, did you know that he was the leader of the rebels?
 
-248
+247
 00:18:03,588 --> 00:18:05,309
 Bragen? 头目?
 Bragen? The leader?
 
-249
+248
 00:18:05,503 --> 00:18:07,213
 是的. 这是一种很简单的锁, 真的
 Yes. It's quite a simple sort of lock, really.
 
-250
+249
 00:18:10,033 --> 00:18:13,254
 Hensell 的问题在于, 他觉得靠他的个人魅力就可以让这个基地运行良好
 Hensell's trouble is he thinks he can run this colony on his personality alone.
 
-251
+250
 00:18:13,688 --> 00:18:17,416
 但即便他意识到了危险, 他能做什么吗? 叛乱分子组织运作得很好
 But even if he knew of the danger, could he do anything?
 The rebels are well organised.
 
-252
+251
 00:18:17,638 --> 00:18:22,311
 总督挺有人气. 他可以指望卫星城的矿工们给他支持
 The Governor's popular. He can count on the mine workers
 of the perimeter for support.
 
-253
+252
 00:18:22,604 --> 00:18:24,121
 那样的话我们必须给他带个话
 In that case we must get word to him.
 
-254
+253
 00:18:24,419 --> 00:18:28,225
 如果你认真做好你监察员的工作的话, 你这会儿不会在这里, 我也早出去了
 If you'd done your job properly, Examiner,
 you wouldn't be here now,and I'd have been out too.
 
-255
+254
 00:18:28,491 --> 00:18:34,720
 啊是的. 不过呢, 我并不是真正的监察员.
 Ah yes. But then, I'm not the real Examiner.
 
-256
+255
 00:18:34,991 --> 00:18:40,720
 Ben, Polly和我... 我们只是旅行者, 仅此而已.
 Ben, Polly and I - We're... we're just travellers, that's all.
 
-257
+256
 00:18:40,991 --> 00:18:47,720
 当时我们发现监察员死了, 后来发现是 Bragen 谋杀了他
 I found the Examiner, dead. Bragen murdered him.
 
-258
+257
 00:18:49,464 --> 00:18:54,211
 一切事情都回溯到 Bragen. 给我个机会我要把他扳倒
 Everything leads back friend Bragen.
 Just give me a chance get my hands on him.
 
-259
+258
 00:18:54,494 --> 00:18:56,683
 我们哪有可能有机会, 除非先能逃出这里
 We aren't going to have the chance,
 unless we can get out of here.
 
-260
+259
 00:18:56,881 --> 00:18:58,898
 格子间的门倒是个问题
 There's just a little matter of the cell doors.
 
-261
+260
 00:19:10,733 --> 00:19:12,090
 啊... 噢...
 Ah... Oh...
 
-262
+261
 00:19:20,779 --> 00:19:22,982
 你-叫我-过来?
 You sent for me?
 
-263
+262
 00:19:23,287 --> 00:19:31,269
 在-通讯室-找个-位置  负责-观察 发现-问题-就-报告
 Take up a position at the communications room. Watch and report.
 
-264
+263
 00:19:31,670 --> 00:19:33,289
 我-服从.
 I obey.
 
-265
+264
 00:19:36,178 --> 00:19:41,085
 他们在一起密谋什么! 噢, 我居然没发现?
 They're conspiring together! Oh, why didn't I realise?
 
-266
+265
 00:19:41,378 --> 00:19:46,085
 监察员是对的, 他们是邪恶的!
 The Examiner was right. They are evil!
 
-267
+266
 00:19:57,865 --> 00:20:03,486
 的确有四个. 它们不可能在自我复制吧!
 There are four. They can't be reproducing!
 
-268
+267
 00:23:04,341 --> 00:23:06,134
 九号-Dalek-完成.
 Dalek nine complete.
 
-269
+268
 00:23:06,438 --> 00:23:06,814
 检查
 Check.
 
-270
+269
 00:23:07,318 --> 00:23:40,601
 <i>我们-是-新一代-Daleks!</i>
 <i>We are the new race of Daleks!</i>
 
-271
+270
 00:23:08,980 --> 00:23:09,947
 十号-Dalek-完成
 Dalek ten complete.
 
-272
+271
 00:23:10,165 --> 00:23:10,883
 检查
 Check.
 
-273
+272
 00:23:11,186 --> 00:23:12,991
 十一号-Dalek-完成
 Dalek eleven complete.
 
-274
+273
 00:23:13,304 --> 00:23:13,746
 检查
 Check.
 
-275
+274
 00:23:14,059 --> 00:23:16,431
 十二号-Dalek-完成
 Dalek twelve complete.
 
-276
+275
 00:23:16,768 --> 00:23:17,176
 检查
 Check.
 
-277
+276
 00:23:17,512 --> 00:23:20,211
 十三号-Dalek-完成
 Dalek thirteen complete.
 
-278
+277
 00:23:20,560 --> 00:23:20,946
 完成
 Check.
 
-279
+278
 00:23:21,243 --> 00:23:23,968
 十四号-Dalek-完成
 Dalek fourteen complete.
 
-280
+279
 00:23:24,243 --> 00:23:24,653
 检查
 Check.
 
-281
+280
 00:23:24,932 --> 00:23:28,259
 十五号-Dalek-完成
 Dalek fifteen complete.
 
-282
+281
 00:23:28,661 --> 00:23:29,142
 检查
 Check.
 
-283
+282
 00:23:29,487 --> 00:23:31,877
 十六号-Dalek-完成
 Dalek sixteen complete.
 
-284
+283
 00:23:32,233 --> 00:23:32,652
 检查
 Check.
 
-285
+284
 00:23:32,920 --> 00:23:36,149
 十七号-Dalek-完成
 Dalek seventeen complete.
 
-286
+285
 00:23:37,202 --> 00:23:37,406
 检查
 Check.
