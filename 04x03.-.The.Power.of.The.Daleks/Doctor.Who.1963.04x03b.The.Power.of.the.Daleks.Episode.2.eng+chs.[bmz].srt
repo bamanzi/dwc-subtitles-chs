@@ -131,7 +131,7 @@ That all is not well with this colony. Add to that one Dalek!
 
 28
 00:02:38,830 --> 00:02:41,157
-噢, 天啊, you don't half make mountains, don't you? 就一个 Dalek?
+噢, 天啊, 你不要这样疑神疑鬼的, 行吗? 不就一个 Dalek?
 Oh, blimey, you don't half make mountains, don't you? One Dalek?
 
 29
@@ -151,7 +151,7 @@ Bragen, don't you ever knock before you enter a room?
 
 32
 00:03:07,328 --> 00:03:11,955
-我很抱歉打扰了你. 我以为能在这里找到监察员，不是来找你的，Quinn.
+我很抱歉打扰了你. 我以为能在这里找到监察员，不是来找你 Quinn 的
 I'm sorry if I disturbed you.
 I was expecting to find the Examiner here - not you Quinn.
 
@@ -368,7 +368,7 @@ I don't deny that.
 
 74
 00:05:22,262 --> 00:05:23,326
-他偷了一个 Dalek!
+他藏匿了一个 Dalek!
 And he's nicked a Dalek!
 
 75
@@ -378,7 +378,7 @@ Dalek?
 
 76
 00:05:24,554 --> 00:05:28,742
-这是监察员给这个两个金属生物起的名字，我在舱体里面发现的那两个生物.
+这是监察员给这种金属生物起的名字，就是我在舱体里面发现的那两个生物.
 It's the name the Examiner has given to two metal creations
 that I've discovered inside the capsule.
 
@@ -417,7 +417,7 @@ Up, or down, I don't care which, but destroyed!
 
 83
 00:05:53,511 --> 00:05:54,710
-我拒绝．
+我不允许
 I refuse to allow it.
 
 84
@@ -453,7 +453,7 @@ Could he stop the experiments?
 
 89
 00:06:20,260 --> 00:06:24,9805
-我不知道. 这不关你们的事. 你去把 Janley 叫过来.
+我不知道. 这不关你们的事. 你去叫一下 Janley, 然后一起过来.
 I don't know. It's none of your business.
 You go and get Janley and then come back here.
 
@@ -465,7 +465,7 @@ Now go on man, quickly, quickly!
 
 91
 00:06:55,003 --> 00:07:03,675
-他可阻止不了我实验．一定有什么方法让你活过来 - 我要找到方法.
+他可阻止不了我实验．一定有什么方法让你活过来 - 我要找到它
 He won't stop me experimenting. There must be some way
 to bring you back to life - and I'm going to find it.
 
@@ -529,7 +529,7 @@ When will that be?
 
 103
 00:07:46,110 --> 00:07:51,944
-啊, 他先要对基地全面巡视一下... 我看看他去之前能不能见你一下.
+啊, 他先要对基地周边巡视一下... 我看看他去之前能不能见你一下.
 Ah, he's going on a tour of the perimeter of the colony.
 I'll... I'll find out if he can see you before he goes.
 
@@ -637,7 +637,7 @@ At first, I thought there might be more than one.
 
 124
 00:09:25,169 --> 00:09:26,898
-我打赌是那个老Charlie Bragen 干得!
+我打赌是那个老Charlie Bragen 干的!
 Here, I bet old Charlie Bragen did it!
 
 125
@@ -652,7 +652,7 @@ Well Fred wouldn't suit him would it?
 
 127
 00:09:29,618 --> 00:09:33,322
-如果他没做过，你觉得那是他自己的想法吗? 我是说 - 他可能是收到了命令.
+如果是他做的，你觉得那是他自己的想法吗? 我是说 - 他可能是收到了命令.
 If he did do it, do you think it was his own idea? I mean
 - he could have been under orders.
 
@@ -679,7 +679,7 @@ Hmm. And who asked for him to come?
 
 132
 00:09:49,958 --> 00:09:52,911
-Lesterson对于那个舱体的疯狂举动. 他不想让任何人打听.
+唔, Lesterson对于那个舱体的疯狂举动. 他不想让任何人打听.
 Hmm. Well, Lesterson's crackers about that capsule.
 He wouldn't want anyone nosing about.
 
@@ -701,7 +701,7 @@ Yes.
 
 136
 00:10:03,837 --> 00:10:06,815
-我建议先回到 TARDIS, 我有点受够了.
+噢, 我建议先回到 TARDIS, 我有点受够了.
 Oh, well, I vote we go back to the TARDIS, I've had enough of this dump.
 
 137
@@ -737,19 +737,19 @@ muck about with them for? Leave well alone, that's what I say.
 
 143
 00:10:29,879 --> 00:10:35,600
-你就适合做个助手．别理这个? 如果这个星球上都是你这样的人, 我们不会有任何进展.
+你就适合做个助手．别管这个? 如果这个星球上都是你这样的人, 我们不会有任何进展.
 You're a fine one to be a research assistant. Leave well alone?
 There'll be no progress on this planet with people like you around.
 
 144
 00:10:35,810 --> 00:10:40,235
-我们现在就要干这个, 否则你们这些家伙就会把事情搅乱. 
+我们一直干得不错, 直到你们这些家伙出来把事情搅乱. 
 We're doing all right as we are.
 Or we were until your lot came along stirring things up.
 
 145
 00:10:40,810 --> 00:10:45,235
-你们跑不掉, 你知道的. 总督对于你们叛乱的事情全知道, 当他准备好之后会碾碎你们.
+你们跑不掉, 你知道吧。总督对于你们叛乱的事情全知道, 当他准备好之后会碾碎你们.
 You won't get away with it, you know. The Governor knows all about you rebels.
 He'll smash the lot of you when he's ready.
 
@@ -781,17 +781,17 @@ Come on, Resno. Man, get on with it. We haven't got all day.
 
 151
 00:11:02,587 --> 00:11:05,347
-我们得在总督阻止我们之前搞定这个.
+我们得在监察员叫停之前搞定这个.
 We've got to get this working before the Examiner stops us.
 
 152
 00:11:05,487 --> 00:11:07,447
-他有点害怕这些东西.. 这些 Daleks?
+他有点害怕这些.. 这些 Daleks?
 He's got some phobia about these.. these Daleks?
 
 153
 00:11:10,499 --> 00:11:21,236
-我知道他们的悲剧 - 毁灭. 但还有更恐怖的事情 - 我记不太清楚了.
+我知道他们能导致什么悲剧 - 毁灭. 但还有更恐怖的事情 - 我记不太清楚了.
 I know the misery they cause - the destruction.
 But there's something else more terrible - something I can only half remember.
 
@@ -859,13 +859,13 @@ What happens now?
 
 166
 00:12:06,651 --> 00:12:14,196
-我应该联系地球. 那个叫 Hensell 的总督肯定听他们的 - 我得让地球支持我.
+我应该联系地球. 即便他 Hensell 是个总督, 也必须听他们的 - 我得让地球支持我.
 I shall radio Earth. Governor or not, Hensell will have to
 listen to them - I'll get Earth to back me.
 
 167
 00:12:23,122 --> 00:12:28,709
-太搞笑了. I could have sworn. 你们呆在这里, 我很快回来.
+太搞笑了. 我敢发誓. 你们呆在这里, 我很快回来.
 That's funny. I could have sworn. You stay here, I shan't be long.
 
 168
@@ -1049,7 +1049,7 @@ What do you want?
 
 202
 00:16:04,499 --> 00:16:06,265
-我发现操作员没知觉了.
+我发现这个操作员昏迷了.
 I found the operator unconscious.
 
 203
@@ -1124,13 +1124,13 @@ That's a lie!
 
 216
 00:16:50,070 --> 00:16:53,476
-...还攻击了其中一个工程师. 有这些证据，我得让总督过一会儿再走.
+...还攻击了其中一个工程师. 有这些证据，我得拖住总督看一下
 ...having first attacked one of the engineers.
 I'd detain the Governor on evidence like that.
 
 217
 00:16:53,757 --> 00:16:55,995
-我期望你没打算让我过一会儿再走, Bragen.
+我期望你没打算拖住我, Bragen.
 I hope you're not thinking of detaining me, Bragen.
 
 218
@@ -1332,7 +1332,8 @@ So you should. It's a wonderful achievement.
 255
 00:19:55,104 --> 00:20:02,549
 是的是的. 但最棒的是, Janley, 我们不知道这个实验的范围. 谁知道我们能走多远.
-Yes, yes. But the wonderful thing, Janley, is that we don't know the full scope of this experiment. Who knows where we may go from here.
+Yes, yes. But the wonderful thing, Janley, is that we don't know
+the full scope of this experiment. Who knows where we may go from here.
 
 256
 00:20:02,938 --> 00:20:05,768
@@ -1347,7 +1348,8 @@ It's harmless now?
 258
 00:20:07,344 --> 00:20:13,098
 是的, 是的. I... 我已经去除了... 哦, Resno, 你今天见到 Resno 了吗?
-Yes, yes, yes. I... I've removed... Oh, Resno, have you been to see him today?
+Yes, yes, yes. I... I've removed...
+Oh, Resno, have you been to see him today?
 
 259
 00:20:13,455 --> 00:20:14,317

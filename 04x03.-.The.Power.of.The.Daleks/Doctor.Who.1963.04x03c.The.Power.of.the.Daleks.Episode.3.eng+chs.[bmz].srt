@@ -1091,11 +1091,11 @@ I don't care! We report it!
 00:14:56,871 --> 00:15:01,110
 还好. 我总算及时阻止了那个傻蛋监察员.
 Yes, yes, yes. I managed to stop that fool of an Examiner just in time.
-You know there are some people here who believe that you're an enemy.
 
 211
 00:15:02,371 --> 00:15:07,610
 你知道这里的一些人会认为你是我们的敌人.
+You know there are some people here who believe that you're an enemy.
 
 212
 00:15:07,919 --> 00:15:10,793

@@ -40,7 +40,7 @@ Ben, what are we going to do? We can't just leave the Doctor there.
 
 10
 00:01:51,912 --> 00:01:54,560
-什么, 他是博士?
+什么, 他? 是博士?
 What, him? The Doctor?
 
 11
@@ -81,7 +81,7 @@ But it's impossible!
 
 18
 00:02:21,966 --> 00:02:24,316
-不久以前，我们还对好多事情说了这句话.
+不久以前，我们还对好多事情都说了不可能
 Not so long ago we'd have been saying that about a lot of things.
 
 19
@@ -156,7 +156,7 @@ And tilt it.
 
 33
 00:05:20,260 --> 00:05:21,117
-你干过这个吗?
+你完事了吗?
 Have you done with this?
 
 34
@@ -1109,7 +1109,7 @@ Examiner, I shall have to make it your responsibility.
 
 213
 00:21:05,398 --> 00:21:08,102
-激光? 没问题? 不会太难.
+激光? 没问题啊? 不会太难.
 A laser? Why not? It shouldn't be too difficult.
 
 214
@@ -1157,7 +1157,7 @@ and find out where the lock mechanism is.
 222
 00:22:03,440 --> 00:22:05,012
 我觉得今晚就到此为止吧.
-And I think we'll leave if for tonight.
+And I think we'll leave it for tonight.
 
 223
 00:22:05,264 --> 00:22:05,823
@@ -1211,7 +1211,7 @@ Alien, yes. Very alien. Goodnight.
 
 233
 00:22:33,100 --> 00:22:34,680
-他这是怎么了?
+他这是要干什么?
 What's he up to now?
 
 234
