@@ -144,7 +144,8 @@ Irongron's star. I will have it!
 
 31
 00:02:03,683 --> 00:02:07,232
-To find the star before some knave robs me of it. It landed close by.
+To find the star before some knave robs me of it.
+It landed close by.
 去找星星, 免得一会儿被些混混给抢走了。它落在附近了
 
 32
@@ -196,11 +197,12 @@ A star. A fallen star.
 41
 00:03:16,723 --> 00:03:19,191
 Careful, Captain, looks like the devil's work to me.
-小心点, 头儿, 看起来像是魔鬼的东西
+小心点, 头儿, 看起来像是魔鬼的杰作
 
 42
 00:03:26,123 --> 00:03:29,798
-A warrior? A warrior from the stars! Have you come to challenge me?
+A warrior? A warrior from the stars!
+Have you come to challenge me?
 一位勇士？从星星上来的勇士！你是来向我挑战的吗？
 
 43
@@ -270,7 +272,8 @@ Help you? Why should I help you, star warrior?
 
 56
 00:04:33,681 --> 00:04:37,071
-Why should I not kill you and take your ship and its treasure for myself?
+Why should I not kill you and take your ship
+and its treasure for myself?
 为什么我不杀了你, 抢走你的船和船里的宝贝呢？
 
 57
@@ -292,7 +295,7 @@ Then why should I not just slay you for sport?
 60
 00:04:46,521 --> 00:04:50,070
 Can you overcome all of us with your magic?
-你能魔法搞定我们所有人吗？
+你能搞定我们所有人吗 — 用你的“魔法”？
 
 61
 00:04:58,961 --> 00:05:02,670
@@ -307,7 +310,7 @@ I took this castle by force of arms.
 63
 00:05:05,681 --> 00:05:08,434
 Those that were here before me, I slew.
-之前这里的人, 被我我赶回去了
+之前这里的人, 都被我赶回去了
 
 64
 00:05:08,521 --> 00:05:11,160
@@ -331,7 +334,8 @@ Aye, but they cannot harm me.
 
 68
 00:05:18,441 --> 00:05:21,972
-The king has levied tribute. - All their troops are at the wars.
+The king has levied tribute.
+All their troops are at the wars.
 国王四处征收, 他们的人也在四处忙着打仗
 
 69
@@ -351,7 +355,8 @@ I can give you weapons,
 
 72
 00:05:29,041 --> 00:05:32,590
-weapons that can make you masters, so that none dare stand against you.
+weapons that can make you masters,
+so that none dare stand against you.
 这些武器可以让你成为主人, 没人再敢站出来反对你
 
 73
@@ -362,7 +367,7 @@ You shall take what castles you will.
 74
 00:05:34,921 --> 00:05:38,913
 Magic weapons? Like that, that smote the sword from my hand?
-魔法武器吗？ 就像那种。。无形中击飞我的剑的那种？
+魔法武器吗？ 就像那种...无形中击飞我的剑的那种？
 
 75
 00:05:39,001 --> 00:05:41,754
@@ -399,7 +404,7 @@ A place to conceal my ship and help with its repair.
 00:06:00,001 --> 00:06:03,755
 - You have men that can work in metal?
 - An armourer to sharpen weapons,
-- 你有人会锻造金属不？ - 有人会打造刀剑等武器
+- 你有人会锻造金属不？ - 有个会打造武器的
 
 82
 00:06:03,841 --> 00:06:06,309
@@ -449,7 +454,8 @@ for all these scientists.
 
 91
 00:06:40,561 --> 00:06:42,791
-All right, Brigadier, you've had your little bit of mystification.
+All right, Brigadier,
+you've had your little bit of mystification.
 好吧, 准将, 你已经完成了你的小奇迹
 
 92
@@ -460,14 +466,14 @@ perhaps you wouldn't mind telling me why?
 
 93
 00:06:46,481 --> 00:06:50,900
-This place is one of the most top secret security establishments
-in the whole country.
-这个地方是全国最高机密之一
+This place is one of the most top secret
+security establishments in the whole country.
+这个地方是全国最绝密的安全机构之一
 
 94
 00:06:50,921 --> 00:06:52,274
 Most of their work is so secret, 
-这里的人所干的事情是如此机密
+这里的人所做的事情是如此机密
 
 95
 00:06:52,361 --> 00:06:53,714
@@ -487,7 +493,7 @@ It's also one of the best-guarded places in the country.
 98
 00:06:57,081 --> 00:06:58,799
 Security details, alarm systems...
-安全检查, 告警系统。。。
+安全检查, 告警系统...
 
 99
 00:06:58,881 --> 00:07:00,712
@@ -497,7 +503,7 @@ I rather gathered that when we arrived.
 100
 00:07:00,801 --> 00:07:03,190
 For a moment I thought they weren't going to let you in.
-有那么一会儿我都以为他们不会允许你进来了
+有那么一会儿我以为他们连你都不允许进来了
 
 101
 00:07:03,321 --> 00:07:06,916
@@ -523,7 +529,7 @@ Come on, Brigadier, you can tell me.
 00:07:17,241 --> 00:07:19,277
 - People vanishing.
 - People?
-- 有人消失了  - 有人？
+- 有人消失  - 有人？
 
 106
 00:07:20,041 --> 00:07:21,872
@@ -542,7 +548,8 @@ What are they working on here anyway?
 
 109
 00:07:27,361 --> 00:07:31,798
-Space hardware. New alloys, guidance systems, methods of propulsion.
+Space hardware. New alloys, guidance systems,
+methods of propulsion.
 太空材料、新型合金、导航系统、太空推进器等
 
 110
@@ -553,7 +560,8 @@ Space hardware. New alloys, guidance systems, methods of propulsion.
 
 111
 00:07:34,961 --> 00:07:37,236
-It's pretty hard to keep an eye on all these scientist chaps at home,
+It's pretty hard to keep an eye
+on all these scientist chaps at home,
 如果让这些科学家呆在家里, 我们很难全部盯住他们
 
 112
@@ -614,7 +622,7 @@ Then tell him I'm occupied. Now leave me to my work.
 123
 00:08:27,841 --> 00:08:31,959
 Insolent primitives. Did I not need their aid...
-无礼的原始人。我干脆不要他们帮忙算了。。。
+无礼的原始人。我干脆不要他们帮忙算了...
 
 124
 00:08:40,561 --> 00:08:41,995
@@ -630,7 +638,7 @@ He would not come. He says he's occupied.
 00:08:45,201 --> 00:08:49,196
 Oh, the insolent barbarian.
 Did I not need his help, I'd...
-噢, 无礼的野蛮人。我不要他的帮助, 我要。。。
+噢, 无礼的野蛮人。我不要他的帮助, 我要...
 
 127
 00:08:49,281 --> 00:08:52,239
@@ -745,7 +753,7 @@ Come and meet your namesake.
 00:09:42,361 --> 00:09:43,919
 - How do you do, Miss Smith?
 - Hello.
-- 你好, Smith 小姐  - 你好
+- 你好, 史密斯小姐  - 你好
 
 149
 00:09:44,001 --> 00:09:46,959
@@ -793,7 +801,7 @@ you must have written it when you were five years old.
 157
 00:10:05,891 --> 00:10:10,039
 Ah, uh... Yes, that is rather difficult to explain, isn't it?
-啊, 喔。。。是的, 这的确很难解释, 是吧
+啊, 喔...是的, 这的确很难解释, 是吧
 
 158
 00:10:10,121 --> 00:10:13,255
@@ -802,8 +810,9 @@ You're going to try, aren't you?
 
 159
 00:10:13,521 --> 00:10:17,354
-Well, um... My Aunt Lavinia is in America on a lecture tour, you see.
-是这样, 唔。。我的姨妈 Lavinia 因为要搞一个讲座去美国了, 明白吗
+Well, um... My Aunt Lavinia is in America
+on a lecture tour, you see.
+是这样, 唔...我的姨妈 Lavinia 因为要搞一个讲座去美国了, 明白吗
 
 160
 00:10:17,441 --> 00:10:20,194
@@ -867,7 +876,7 @@ We need somebody around here to make the coffee.
 00:10:48,961 --> 00:10:51,919
 If you think I'm going to spend my time
 making cups of coffee for you...
-如果你觉得我会浪费我的时间来给你们泡咖啡的话。。。
+如果你觉得我会浪费我的时间来给你们泡咖啡的话...
 
 172
 00:10:52,001 --> 00:10:53,229
@@ -877,12 +886,12 @@ Professor!
 173
 00:10:53,321 --> 00:10:56,199
 Would you kindly desist? This is not a blackboard, you know.
-你能否好心放过它, 它并不是一块黑白, 你知道吧
+你能否好心放过它, 它并不是一块黑板, 你知道吧
 
 174
 00:10:56,281 --> 00:10:58,317
 Oh, I do beg your pardon, Doctor. I was just trying to prove...
-哦, 请你原谅, 博士, 我只是想证明。。。
+哦, 请你原谅, 博士, 我只是想证明...
 
 175
 00:10:58,401 --> 00:11:01,234
@@ -964,7 +973,7 @@ If you will excuse me, my dear, I must give orders for dinner.
 190
 00:11:55,600 --> 00:11:58,751
 We caught this little rabbit in the forest, sire.
-我们在林子里抓到了这个小家伙, 大人
+我们在林子里抓到了这个小兔子, 大人
 
 191
 00:12:00,280 --> 00:12:02,350
@@ -1026,7 +1035,7 @@ I know nothing.
 202
 00:12:40,920 --> 00:12:44,993
 Take him below. We'll loosen his tongue presently.
-带他下去。我们很快就能翘开他的舌头
+带他下去。我们很快就能撬开他的舌头
 
 203
 00:12:47,880 --> 00:12:50,519
@@ -1059,7 +1068,8 @@ Think that tomorrow will be brighter.
 
 208
 00:13:03,600 --> 00:13:06,990
-Edward, I've heard that Irongron walks his battlements every morning.
+Edward, I've heard that Irongron
+walks his battlements every morning.
 爱德华, 我听说 Irongron 每天早上都练兵
 
 209
@@ -1104,9 +1114,9 @@ You might not find my true appearance pleasing.
 
 217
 00:13:32,800 --> 00:13:37,954
-(CHUCKLING) By my sword, Linx, I'll wage
-you're the fairest beauty in the castle.
-以我的剑作见证, Linx, 我
+(CHUCKLING) By my sword, Linx,
+I'll wage you're the fairest beauty in the castle.
+以我的剑作见证, Linx, 我得说你是这座城堡最漂亮的
 
 218
 00:13:38,960 --> 00:13:41,918
@@ -1115,7 +1125,8 @@ Why did you summon me? You know my work is pressing.
 
 219
 00:13:42,000 --> 00:13:46,516
-I have a prisoner in the dungeon, a surly fellow who will not speak.
+I have a prisoner in the dungeon,
+a surly fellow who will not speak.
 我的地牢里有个囚犯, 他死活不肯开口
 
 220
@@ -1179,7 +1190,7 @@ which our space fleets have not subjugated.
 231
 00:14:24,880 --> 00:14:27,553
 But you do not understand me.
-但你不会理解我
+但你听不懂我在说什么
 
 232
 00:14:27,640 --> 00:14:29,596
@@ -1271,7 +1282,7 @@ with Lavinia Smith, the virologist.
 248
 00:15:23,920 --> 00:15:25,319
 He said she's in... How could you know?
-他说他现在在。。。你怎么知道的？
+他说她现在在...你怎么知道的？
 
 249
 00:15:25,400 --> 00:15:27,675
@@ -1303,7 +1314,7 @@ Am I on the right floor?
 00:15:38,920 --> 00:15:41,514
 - Good night.
 - Good night, Professor.
-- 晚上好  - 晚上好, 教授
+- 晚安  - 晚安, 教授
 
 255
 00:15:46,320 --> 00:15:48,515
@@ -1363,7 +1374,7 @@ Because I am very fond of delta particles.
 265
 00:16:19,280 --> 00:16:21,111
 Good night, Miss Smith.
-晚安, Simth 小姐
+晚安,史密斯小姐
 
 266
 00:16:27,520 --> 00:16:28,999
@@ -1408,7 +1419,7 @@ Good. A fair measure for you, Linx.
 274
 00:17:00,239 --> 00:17:02,628
 Well, come on, Linx, have at him!
-好了, 来吧, Linx, 对付他！
+嘿, 快啊, Linx, 对付他！
 
 275
 00:17:03,119 --> 00:17:05,314
@@ -1557,7 +1568,7 @@ He's as blind as a bat without his glasses.
 304
 00:18:47,518 --> 00:18:51,147
 You stay here, Miss Smith. I'm going to check the landing.
-你呆在这里, Smith 小姐。我去检查一下入口
+你呆在这里, 史密斯小姐。我去检查一下楼层入口
 
 305
 00:18:51,598 --> 00:18:53,554
@@ -1591,7 +1602,8 @@ I can't understand why the definition was so low.
 
 311
 00:19:27,677 --> 00:19:31,716
-Unless he's operating with a very weak power source at maximum range.
+Unless he's operating with a very weak
+power source at maximum range.
 除非他电力不足, 同时又将功率开到了最大
 
 312
@@ -1752,7 +1764,7 @@ Goodbye, old chap.
 341
 00:20:52,397 --> 00:20:53,625
 But, Doc...
-但是, 博。。。
+但是, 博...
 
 342
 00:20:53,717 --> 00:20:55,787
@@ -1770,7 +1782,7 @@ Well done, old girl. Absolutely on target.
 345
 00:21:23,276 --> 00:21:24,550
 For once.
-终于有一次
+总算有一次
 
 346
 00:21:37,316 --> 00:21:39,591
@@ -1811,7 +1823,7 @@ But with Linx's new weapons...
 353
 00:22:06,636 --> 00:22:09,275
 Excuse me, could you tell me where the nearest telephone...
-打扰一下, 你能告诉我最近的电话机在哪里。。。
+打扰一下, 你能告诉我最近的电话机在哪里...
 
 354
 00:22:10,916 --> 00:22:13,555
@@ -1826,7 +1838,7 @@ After him, you dogs! Through the forest!
 356
 00:22:21,916 --> 00:22:25,591
 Oh, it must be some sort of pageant. I say...
-哦, 肯定只是为了吓唬一下, 我说。。。
+哦, 肯定是某种露天表演, 我说...
 
 357
 00:22:26,036 --> 00:22:29,711
@@ -1847,13 +1859,13 @@ SARAH: Stop it!
 360
 00:22:38,436 --> 00:22:42,190
 Look, if this is a rag day joke, it's not funny!
-嘿, 如果这是什么节目开得玩笑, 太过了啊！
+嘿, 如果这是什么节日玩笑, 太过了啊！
 
 361
 00:22:42,276 --> 00:22:45,507
 - Come on!
 - Let me go! I won't tell you...
-- 来吧！  - 放开我！我不会告诉你。。。
+- 来吧！  - 放开我！我不会告诉你...
 
 362
 00:22:56,196 --> 00:22:57,595

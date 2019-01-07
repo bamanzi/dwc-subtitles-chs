@@ -26,7 +26,7 @@ Doctor Who (1963) 11x01 The Time Warrior (Part 2)
 7
 00:00:31,407 --> 00:00:33,921
 I won't tell you again!
-我不会跟
+我不会跟你说第二遍!
 
 8
 00:00:34,007 --> 00:00:38,125
@@ -75,12 +75,12 @@ Idiots! Why don't you stop this ridiculous pantomime?
 17
 00:01:38,766 --> 00:01:41,917
 She spits fire, eh, Bloodaxe? Come here, girl.
-她会吐火吗, 嗯, Bloodaxe? 过来, 女孩
+她会吐火啊, 是不, Bloodaxe? 过来, 女孩
 
 18
 00:01:42,006 --> 00:01:44,645
 Get lost! Oh! Ow!
-消失！哦, 哦！
+消失！哦, 噢！
 
 19
 00:01:44,726 --> 00:01:47,365
@@ -111,7 +111,7 @@ Look, just pack this up, will you? It's not funny.
 24
 00:01:58,126 --> 00:02:00,720
 I happen to be a reporter, and I've got a big story...
-我恰好是个记者, 我还有个大事件要。。
+我恰好是个记者, 我还有个大事件要...
 
 25
 00:02:00,806 --> 00:02:02,637
@@ -162,7 +162,7 @@ That's better.
 34
 00:02:25,046 --> 00:02:27,844
 This is the dog that shot at you, Captain!
-就是这条狗朝你射了一箭, 头儿！
+就是这条狗朝你射箭的, 头儿！
 
 35
 00:02:29,326 --> 00:02:31,521
@@ -177,7 +177,7 @@ Aye, and I would but for her. She drew my aim aside.
 37
 00:02:34,886 --> 00:02:36,638
 You treacherous dog!
-你这危险的小狗！
+你这奸诈的小狗！
 
 38
 00:02:37,286 --> 00:02:38,719
@@ -229,12 +229,12 @@ Ere long we shall deal with him sharply.
 47
 00:03:01,726 --> 00:03:04,160
 Sharply, eh? 'Tis richly put.
-严厉, 嗯？fixme
+严厉地, 嗯？这词用得好吧
 
 48
 00:03:04,246 --> 00:03:07,795
 Aye. That'll be a fine jest, Captain Irongron.
-啊, 那是个不错的笑话, Irongron 头儿
+啊, 那是个不错的词, Irongron 队长
 
 49
 00:03:07,886 --> 00:03:10,639
@@ -280,17 +280,19 @@ You are in the castle of Irongron, my lady.
 
 57
 00:03:33,326 --> 00:03:37,285
-Few uninvited guests come here, and few that do leave alive.
+Few uninvited guests come here,
+and few that do leave alive.
 很少有人不请自来, 更少人能活着离开
 
 58
 00:03:37,366 --> 00:03:41,075
 All right. If you insist on playing guessing games...
-好吧, 如果你们非要玩这种猜谜游戏。。。
+好吧, 如果你们非要玩这种猜谜游戏...
 
 59
 00:03:41,166 --> 00:03:45,205
-Now, it's not a village pageant. It's too elaborate for that.
+Now, it's not a village pageant.
+It's too elaborate for that.
 现在, 这不是一个村庄表演, 因为这太复杂了
 
 60
@@ -311,7 +313,8 @@ I've got it! It's one of those tourist places.
 
 63
 00:03:58,926 --> 00:04:03,397
-Uh, a medieval castle, all restored to its original condition
+Uh, a medieval castle,
+all restored to its original condition
 喔, 一个中世纪城堡, 所有都恢复到原样
 
 64
@@ -343,7 +346,7 @@ a bit of glamorous illusion.
 69
 00:04:18,846 --> 00:04:20,165
 I've never seen such a scurvy...
-我从来没有见过这么无礼地。。。
+我从来没有见过这么无礼地...
 
 70
 00:04:20,246 --> 00:04:22,714
@@ -402,7 +405,7 @@ The hair is finer. The thorax of a different construction.
 80
 00:04:52,886 --> 00:04:55,446
 Oh, hell's teeth, have you no girls beyond the stars?
-哦, 看这牙齿, 你们那星星上没有女孩儿？
+哦, 可怜呐, 你们那星星上没有女孩儿？
 
 81
 00:04:55,526 --> 00:04:59,041
@@ -458,7 +461,7 @@ The girl is not of your time, Irongron.
 91
 00:05:24,846 --> 00:05:28,156
 Oh, curse the girl! Show me the...
-啊, 该死的女孩！向我说明。。。
+啊, 该死的女孩！向我说明...
 
 92
 00:05:32,486 --> 00:05:37,200
@@ -916,12 +919,12 @@ Oh, my dear fellow. So he's got you, too, has he?
 00:13:10,244 --> 00:13:14,157
 No, hardly. Look, Professor,
 what's wrong with all these people?
-不，还不是. 看看，教授，这些人是怎么回事？
+不，没那么容易。看看，教授，这些人是怎么回事？
 
 181
 00:13:14,244 --> 00:13:17,156
 Hypnotised. Can't get a word out of them. Rotten company.
-都被催眠了，从他们那里一个字也问不出来. 都烂掉了
+都被催眠了，从他们那里一个字也问不出来。都烂掉了
 
 182
 00:13:17,244 --> 00:13:19,474
@@ -943,6 +946,7 @@ Oh, nonsense.
 185
 00:13:24,084 --> 00:13:26,917
 Obviously working some sort of ocular device.
+显然是某种视觉屏蔽装置
 
 186
 00:13:27,004 --> 00:13:28,722
@@ -988,8 +992,7 @@ Now, Professor, listen to me.
 
 194
 00:13:46,524 --> 00:13:49,243
-This may come as a shock to you
-so steel yourself.
+This may come as a shock to you so steel yourself.
 这可能会吓着你，所以做好心理准备
 
 195
@@ -1037,6 +1040,7 @@ There's some most interesting work being done here.
 203
 00:14:07,764 --> 00:14:09,595
 If only I could see it all properly.
+最好我能把它们都研究明白
 
 204
 00:14:09,684 --> 00:14:12,278
@@ -1131,14 +1135,13 @@ and the manner of her speech.
 
 221
 00:15:09,482 --> 00:15:12,360
-There is much strange
-at Irongron's castle, Sir Edward.
+There is much strange at Irongron's castle, Sir Edward.
 Irongron 城堡里也有很多奇怪的事情，爱德华爵士
 
 222
 00:15:12,442 --> 00:15:15,161
-I told you of the knight
-that fights on though it should be dead.
+I told you of the knight that fights on
+though it should be dead.
 我跟你说过吧，那个骑士本来该死了，但还可以战斗
 
 223
@@ -1204,7 +1207,7 @@ Scientists, learned men.
 234
 00:15:43,362 --> 00:15:46,001
 They're being taken from the place I come from,
-他们是被带到这里的，从我来的那个地方
+他们被劫持到了这里，从我来的那个地方
 
 235
 00:15:46,082 --> 00:15:47,800
@@ -1238,8 +1241,7 @@ Anything that makes Irongron strong can work only to our harm.
 
 241
 00:15:58,602 --> 00:16:00,832
-With an army of magic knights
-such as I fought,
+With an army of magic knights such as I fought,
 就我斗过的那种魔法骑士，要是有了一整支军队
 
 242
@@ -1309,8 +1311,7 @@ I might hold this castle forever.
 
 254
 00:16:32,642 --> 00:16:36,191
-As it is, how can I fight Irongron
-and this doctor?
+As it is, how can I fight Irongron and this doctor?
 就目前来说，我怎么才能打得过 Irongron 和这个博士呢？
 
 255
@@ -1320,8 +1321,7 @@ All right, I'll tell you how.
 
 256
 00:16:38,962 --> 00:16:41,032
-Now, the first thing we must do
-is grab the Doctor
+Now, the first thing we must do is grab the Doctor
 现在，我们必须做的第一件事是抓住博士
 
 257
@@ -1352,8 +1352,8 @@ You knock out the sentries, rush into the castle,
 
 262
 00:16:52,882 --> 00:16:54,679
-grab the Doctor and away.
-抓住博士、带走
+grab the Doctor, and away.
+抓住博士，然后走人
 
 263
 00:16:54,762 --> 00:16:57,356
@@ -1409,11 +1409,12 @@ Oh, I'm just a tourist. I like it here.
 00:17:19,162 --> 00:17:22,791
 - This hole in space?
 - You haven't seen it at its best.
+- 就这个破地方？ - 你没有见到它最好的一面
 
 273
 00:17:22,882 --> 00:17:26,761
 It has no military value, no strategic significance.
-它没有军事价值，在战略上不重要
+它没有军事价值，没有战略重要性
 
 274
 00:17:26,842 --> 00:17:29,072
@@ -1423,7 +1424,7 @@ Once again, a Sontaran philosophy.
 275
 00:17:29,162 --> 00:17:32,472
 I'm Commander Linx, Fifth Sontaran Army Space Fleet.
-我是军官 Linx，第五桑塔陆军太空舰队。
+我是军官 Linx，第五桑塔陆军太空舰队
 
 276
 00:17:32,562 --> 00:17:35,759
@@ -1519,7 +1520,7 @@ never to put that appreciation to the test, Linx.
 293
 00:18:28,242 --> 00:18:32,997
 My only ambition at the moment is to return to my squadron.
-我这一刻唯一的夙愿是返回我的中队
+在这一刻我唯一的夙愿，是返回我的中队
 
 294
 00:18:33,762 --> 00:18:37,437
@@ -1534,12 +1535,12 @@ You seem to have acquired some help already.
 296
 00:18:39,882 --> 00:18:43,670
 Primitives. I adapted my ship's frequency modulator
-很有限。我调整了你我飞船的频率调制器
+很有限。我改造了飞船的频率调制器
 
 297
 00:18:43,762 --> 00:18:46,993
 and projected myself forward as far as I could.
-尽力将我向前投射
+尽力将我延时间线向前投射
 
 298
 00:18:47,082 --> 00:18:50,438
@@ -1617,7 +1618,7 @@ I'm placing you under auto-control, Doctor,
 312
 00:19:33,202 --> 00:19:35,762
 to ensure your complete cooperation.
-以确保你的完全合作
+以确保你会完全合作
 
 313
 00:19:35,842 --> 00:19:38,834
@@ -1627,19 +1628,19 @@ to develop at their own pace.
 
 314
 00:19:38,922 --> 00:19:41,482
-At this period, they're just a few steps
-away from barbarism.
+At this period, they're just a few steps away from barbarism.
 在这个阶段，他们刚刚脱离野蛮状态，还没走几步
 
 315
 00:19:41,562 --> 00:19:46,033
 You will monitor progress rates on
 the input panel against the programmer.
+你得在这个输入面板上监控程序员的进度
 
 316
 00:19:48,202 --> 00:19:51,114
-Now I must leave you
-in charge for a time.
+Now I must leave you in charge for a time.
+现在我必须得让你自己负责一段时间了
 
 317
 00:20:02,762 --> 00:20:04,320
@@ -1653,8 +1654,7 @@ they'll have atomic weapons by the 17th century.
 
 319
 00:20:07,481 --> 00:20:09,073
-They'll have the capability to destroy
-their own planet
+They'll have the capability to destroy their own planet
 然后他们就有了能摧毁他们星球的能力
 
 320
@@ -1680,7 +1680,7 @@ Answer the programmer.
 324
 00:20:56,400 --> 00:20:58,038
 I still say this is no work for women.
-我任然认为这不是女人干的事情
+我仍然认为这不是女人干的事情
 
 325
 00:20:58,120 --> 00:20:59,519
@@ -1744,7 +1744,7 @@ Rubeish! 教授，快过来
 336
 00:21:37,000 --> 00:21:38,558
 Is that you, Doctor? I thought you were going.
-是你吗，博士？我以为你要走了
+是你吗，博士？我以为你已经走了
 
 337
 00:21:38,640 --> 00:21:41,438
@@ -1813,8 +1813,7 @@ Thank you very much indeed, Professor.
 
 349
 00:22:20,439 --> 00:22:22,828
-Will you excuse me? I've got to go
-and find a young girl.
+Will you excuse me? I've got to go and find a young girl.
 我现告辞了，我必须得走了，得去找一个年轻女孩儿
 
 350

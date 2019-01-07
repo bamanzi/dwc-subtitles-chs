@@ -73,11 +73,13 @@ Download: https://secure.assrt.net/xml/sub/623/623231.xml
 Download: https://secure.assrt.net/xml/sub/623/623486.xml
 
 
-## 11x01The Time Warriros
+## 11x01 The Time Warriros
 
 **Featuring:** #sontarans #sarah
 
-**Status:** 2/4 (part 1-2 draft)
+**Status:** 4/4 (draft DONE)
+
+Download:  https://secure.assrt.net/xml/sub/623/623499.xml
 
 
 ## 12x04 Genesis of the Daleks (whopix fan edit version)
@@ -95,14 +97,14 @@ http://whoflix.wordpress.com/2011/08/12/genesis-of-the-daleks-2/
 
 **Status:** TODO?
 
-Note: part 1&2 already translated by isaakfvkampfer 
+Note: part 1&2 already translated by `isaakfvkampfer`
 
 
 ##  Shada 
 ### Shada (1992)
 **Status:** DONE (6/6)
 
-Note: small improvments on iCelery's subtitles (small improvments)
+Note: small improvments on iCelery's subtitles
 
 ### Shada (2017)
 

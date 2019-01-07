@@ -80,7 +80,7 @@ My only concern is to rejoin our glorious struggle for freedom.
 17
 00:01:10,365 --> 00:01:12,754
 DOCTOR: That's such an old tune.
-那真是老调重弹。
+那真是老调重弹
 
 18
 00:01:12,845 --> 00:01:15,234
@@ -138,7 +138,7 @@ I think it would be better
 00:01:41,565 --> 00:01:46,241
 if you witnessed first the destruction
 of your female companion.
-你先目睹一下你这女性同伴的灭亡
+你先目睹一下你女性同伴的灭亡
 
 29
 00:01:51,725 --> 00:01:53,443
@@ -181,7 +181,7 @@ Hadn't I better be getting on with the rest of your plan?
 36
 00:02:15,525 --> 00:02:18,756
 Right. Well, if we can secure our friend here,
-好。嗯，如果我们能确保我们朋友的安全
+好。嗯，如果我们能限制住这位朋友
 
 37
 00:02:19,845 --> 00:02:22,723
@@ -203,8 +203,7 @@ Rubeish, 你真是个无价之宝，亲爱的伙计
 00:02:29,925 --> 00:02:31,597
 - Bloodaxe.
 - Captain. 
-- Bloodaxe
-- 头儿？
+- Bloodaxe  - 头儿？
 
 41
 00:02:31,685 --> 00:02:33,277
@@ -213,9 +212,8 @@ Fetch me Linx.
 
 42
 00:02:33,365 --> 00:02:36,323
-Fetch me that scabby-faced stoat
-from his burrow.
-把那个面无表情的家伙从他的洞穴里弄出来。
+Fetch me that scabby-faced stoat from his burrow.
+把那个面无表情的家伙从他的洞穴里弄出来
 
 43
 00:02:36,405 --> 00:02:38,043
@@ -242,7 +240,7 @@ Well, in his own environment, he weighs several tons.
 00:02:54,885 --> 00:02:58,240
 Fortunately, his muscles have been designed
 for load bearing rather than leverage
-幸运的是, 他的肌肉是为承重而设计的FIXME
+幸运的是, 他的肌肉是为承重而设计的, 而不是力量(?)
 
 48
 00:02:58,325 --> 00:02:59,714
@@ -288,7 +286,7 @@ Tell him I'm busy.
 56
 00:03:21,485 --> 00:03:24,363
 Well, come soon or we come and fetch you.
-好吧, 快来, 否则我们来接你
+好吧, 快来, 否则我们来拎你
 
 57
 00:03:28,485 --> 00:03:30,680
@@ -354,7 +352,7 @@ Thief!
 68
 00:04:28,565 --> 00:04:31,284
 You common scullion, stand aside!
-你个小杂役，站一边去！
+你，粗鄙的下人，站一边去！
 
 69
 00:04:31,885 --> 00:04:35,355
@@ -1128,7 +1126,7 @@ So then, Doctor, your plans have miscarried, I fear.
 216
 00:14:47,645 --> 00:14:49,875
 Give the potion time to work and then go back.
-给点时间让药水生效, 然后回去。
+给点时间让药水生效, 然后回去
 
 217
 00:14:49,965 --> 00:14:51,921
@@ -1177,7 +1175,7 @@ Irongron 的城堡会被毁于魔法？那就万事大吉了
 225
 00:15:12,965 --> 00:15:15,604
 There are innocent people in that castle, my lady,
-那座城堡里面还是有无辜的人, 夫人
+那座城堡里面还有无辜的人, 夫人
 
 226
 00:15:15,685 --> 00:15:17,915
@@ -1248,9 +1246,8 @@ Good.
 
 239
 00:17:01,645 --> 00:17:04,717
-Well, we'll wait a bit to be on
-the safe side then we'll go in.
-好, 我们稍等一会儿, 确定安全了就进去
+Well, we'll wait a bit to be on the safe side, then we'll go in.
+好, 我们先在安全的地方等一会儿, 然后进去
 
 240
 00:17:13,004 --> 00:17:14,403
@@ -1709,12 +1706,12 @@ You are truly a great magician, Doctor.
 327
 00:23:47,601 --> 00:23:51,037
 To tell you the truth, Hal, I'm not a magician at all.
-跟你说实话, Hal, 我完全不是魔法师
+跟你说实话, Hal, 我完全不是个魔法师
 
 328
 00:23:51,921 --> 00:23:53,991
 I'm not so sure about that.
-我不太确定那是什么意思
+我可不太确定
 
 329
 00:24:00,241 --> 00:24:02,675

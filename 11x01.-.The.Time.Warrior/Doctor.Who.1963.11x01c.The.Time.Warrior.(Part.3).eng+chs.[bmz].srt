@@ -180,7 +180,8 @@ We march on Sir Edward within the hour.
 
 38
 00:03:25,367 --> 00:03:30,316
-I insist upon a search, Irongron. The Doctor is of great value to me.
+I insist upon a search, Irongron.
+The Doctor is of great value to me.
 我坚持要求搜索，Irongron。博士对我价值非凡
 
 39
@@ -195,7 +196,8 @@ The Doctor?
 
 41
 00:03:33,927 --> 00:03:38,079
-Bother me now, little toad, and you will feel an axe in your skull!
+Bother me now, little toad,
+and you will feel an axe in your skull!
 这会儿烦我的话，小蟾蜍，小心我的斧头砍掉你的脑袋！
 
 42
@@ -240,7 +242,7 @@ He has escaped!
 00:03:58,927 --> 00:04:01,805
 - Now...
 - You've been getting around, Sarah.
-- 现在。。 - 你还真是阴魂不散啊，莎拉
+- 现在...  - 你还真是阴魂不散啊，莎拉
 
 50
 00:04:01,887 --> 00:04:04,560
@@ -282,7 +284,8 @@ Yes, but we'll come to that later.
 00:04:19,847 --> 00:04:24,363
 - Now then, why are you helping Irongron?
 - My dear girl, I'm not helping him.
-- 现在说说，你为什么要帮 Irongron？ - 亲爱的姑娘，我没在帮 Irongron
+- 现在说说，你为什么要帮 Irongron？
+- 亲爱的姑娘，我没在帮 Irongron
 
 58
 00:04:25,087 --> 00:04:27,555
@@ -335,7 +338,7 @@ where the surface gravity is many times that of Earth.
 67
 00:04:50,847 --> 00:04:52,803
 Well, hardly ever.
-好吧，基本上没有
+好吧，基本上从不
 
 68
 00:04:54,087 --> 00:04:55,998
@@ -375,7 +378,8 @@ No, Linx brought them here to staff his workshop.
 
 75
 00:05:11,207 --> 00:05:13,437
-Now I've got to find a way of sending them back to their own time.
+Now I've got to find a way of
+sending them back to their own time.
 现在我得找到一个方法，把他们送回自己的时间去
 
 76
@@ -407,7 +411,8 @@ A courtly rogue.
 
 81
 00:05:26,807 --> 00:05:30,763
-Is he willing to change his allegiance and serve Sir Edward instead of Irongron?
+Is he willing to change his allegiance
+and serve Sir Edward instead of Irongron?
 他愿意改变效忠对象，从 Irongron 转向为爱德华爵士服务吗？
 
 82
@@ -417,7 +422,8 @@ Well, he says he wasn't serving Irongron.
 
 83
 00:05:33,007 --> 00:05:35,760
-And there is another stranger at the castle, someone called Linx.
+And there is another stranger at the castle,
+someone called Linx.
 在那个城堡里还有另外一个陌生人，叫 Linx
 
 84
@@ -450,7 +456,7 @@ That's a generous admission.
 89
 00:05:46,727 --> 00:05:48,558
 Especially coming from one of the fair sex.
-尤其是这话来自一位公平的性别（FIXME）
+尤其是这话来自一位公平的性别(?)
 
 90
 00:05:48,647 --> 00:05:51,115
@@ -511,7 +517,8 @@ Serve me straight, Doctor, and I shall reward you well.
 
 101
 00:06:19,967 --> 00:06:23,357
-Oh, master... Oh, but, master, Irongron marches here before noon!
+Oh, master... Oh, but, master,
+Irongron marches here before noon!
 噢，主人...但是，主人，Irongron 的队伍午前就能到达这里！
 
 102
@@ -532,7 +539,8 @@ Then we are lost. We cannot stand against them.
 
 105
 00:06:31,487 --> 00:06:35,555
-Yes, sir, with just a few men I think I can persuade Irongron that we have a full garrison.
+Yes, sir, with just a few men I think
+I can persuade Irongron that we have a full garrison.
 是的，爵士，虽然只有几个人，我想我能让 Irongron 认为我们驻扎了大批人马
 
 106
@@ -564,8 +572,7 @@ It will be, sir.
 
 111
 00:06:50,047 --> 00:06:51,878
-Though for such an easy conquest
-as this,
+Though for such an easy conquest as this,
 即便是一趟如此容易的任务
 
 112
@@ -575,8 +582,7 @@ as this,
 
 113
 00:06:54,647 --> 00:06:57,081
-You and I alone, good Bloodaxe,
-could take that castle!
+You and I alone, good Bloodaxe, could take that castle!
 我的好 Bloodaxe，你跟我两个人，就可以拿下这座城堡！
 
 114
@@ -609,12 +615,13 @@ In the time it takes to ride from here to Sir Edward's castle.
 00:07:09,567 --> 00:07:12,035
 - Then I shall come with you.
 - What, you?
-- 那我跟你一起去？  - 什么，你？
+- 那我跟你一起去   - 什么，你？
 
 120
 00:07:12,127 --> 00:07:16,245
 Ha! Bloodaxe, on my oath,
 can you see that on a scaling ladder?
+哈！Bloodaxe, 我得发誓，你可能看见这家伙站在攻城梯上面吗？
 
 121
 00:07:17,127 --> 00:07:19,197
@@ -743,7 +750,8 @@ Yes, within reason.
 
 144
 00:08:20,847 --> 00:08:23,281
-Then why are you staying here? Why don't you go somewhere safer?
+Then why are you staying here?
+Why don't you go somewhere safer?
 那为什么你要呆在这里？ 为什么你不去别的安全些的地方？
 
 145
@@ -812,8 +820,9 @@ the answer is no, I'm not.
 
 157
 00:08:52,767 --> 00:08:56,521
-And my people are very keen to stamp out unlicensed time travel.
-我的人民非常希望消灭未授权的时间旅行
+And my people are very keen
+to stamp out unlicensed time travel.
+我的人民非常热衷于消灭未授权的时间旅行
 
 158
 00:08:56,807 --> 00:09:00,880
@@ -1219,7 +1228,7 @@ You Earth creatures give up too easily.
 00:14:26,647 --> 00:14:29,844
 I doubt if you have the potential
 to make a truly military species.
-我怀疑你是不是有这个潜力，成为一个真正的军事
+我怀疑你们是不是有这个潜力，成为一个真正的军事种族
 
 237
 00:14:29,927 --> 00:14:33,397
@@ -1234,7 +1243,8 @@ And you, Linx, you claim to like war.
 
 239
 00:14:38,487 --> 00:14:42,178
-I should have known better than to look for interest in a struggle of primitives
+I should have known better than
+to look for interest in a struggle of primitives
 我早应该知道, 不应该在原始人的斗争中寻找乐趣
 
 240
@@ -1278,7 +1288,8 @@ Irongron 的那些混混，跑得跟兔子一样
 
 248
 00:15:23,327 --> 00:15:27,366
-Finest sight that ever I saw, Doctor. And all thanks to you and your wizardry.
+Finest sight that ever I saw, Doctor.
+And all thanks to you and your wizardry.
 我见过的最漂亮的场景，博士。这都得感谢你和你的魔法
 
 249
@@ -1318,9 +1329,8 @@ This time we had the element of surprise.
 
 256
 00:15:42,607 --> 00:15:45,041
-They won't be frightened off
-quite so easily again.
-他们不会再那么容易被吓跑了。
+They won't be frightened off quite so easily again.
+他们不会再那么容易被吓跑了
 
 257
 00:15:45,127 --> 00:15:48,005
@@ -1340,7 +1350,8 @@ So far you have served us well.
 
 260
 00:15:54,167 --> 00:15:57,443
-Well, there's one sure way to prevent Irongron from capturing your castle.
+Well, there's one sure way to prevent Irongron
+from capturing your castle.
 有一个方法可以阻止 Irongron 夺取你的城堡
 
 261
@@ -1359,7 +1370,8 @@ You must capture his.
 
 264
 00:16:01,967 --> 00:16:04,959
-You advise the impossible, Doctor. They outnumber us so greatly.
+You advise the impossible, Doctor.
+They outnumber us so greatly.
 你的建议不现实，博士，他们人数远超过我们
 
 265
@@ -1369,9 +1381,8 @@ My lady, are you familiar with these herbs and simples?
 
 266
 00:16:09,527 --> 00:16:12,917
-Ragwort, henbane, love-in-a-mist,
-fennel, sesame.
-狗舌草, 天仙子, 黑种草, 茴香, 芝麻。
+Ragwort, henbane, love-in-a-mist, fennel, sesame.
+狗舌草, 天仙子, 黑种草, 茴香, 芝麻
 
 267
 00:16:13,007 --> 00:16:16,283
@@ -1404,7 +1415,7 @@ I should have slain the filthy little toad there and then.
 00:16:31,007 --> 00:16:33,919
 I should have carved him up
 into callops on the spot.
-我应该当场打得他哭爹喊娘。
+我应该当场打得他哭爹喊娘
 
 273
 00:16:34,007 --> 00:16:37,158
@@ -1456,9 +1467,8 @@ Oh, 'tis a cunning plan, Captain.
 
 282
 00:17:16,407 --> 00:17:20,366
-Aye, 'tis as well for you dolts
-that you have me to guide you.
-是的, 有我来引导你们, 这对你们来说真是好啊
+Aye, 'tis as well for you dolts that you have me to guide you.
+是的, 有我来领导你们, 这对你们来说真是好啊
 
 283
 00:17:20,447 --> 00:17:21,516
@@ -1603,8 +1613,8 @@ In a few hours, that ship's going to be ready for takeoff.
 
 311
 00:19:19,527 --> 00:19:23,805
-Yes, he's been working these people
-at a killing pace. Come over here.
+Yes, he's been working these people at a killing pace.
+Come over here.
 是的, 他一直在往死了用这些人。快过来这儿
 
 312
@@ -1621,11 +1631,12 @@ They're starting to collapse like flies.
 314
 00:19:29,407 --> 00:19:31,398
 I'm not surprised. He's suffering from near starvation.
-我不觉得奇怪，他几乎要饿死了。
+我不觉得奇怪，他几乎要饿死了
 
 315
 00:19:31,487 --> 00:19:34,001
-We'll have to get them some food, Doctor, or at least a drink.
+We'll have to get them some food, Doctor,
+or at least a drink.
 我们必须得给他们找点食物，博士，至少得找点喝的
 
 316
@@ -1792,8 +1803,7 @@ Yes, it's over there on the table. Take a look.
 
 347
 00:21:06,487 --> 00:21:08,239
-Why can't you just send them
-as they are?
+Why can't you just send them as they are?
 为什么不现在这样子送他们回去？
 
 348
@@ -1825,7 +1835,7 @@ But I expect you know what you're talking about.
 353
 00:21:17,127 --> 00:21:20,483
 It's the beat. Look, he's beginning to respond.
-是节拍，他开始有回应了
+是节拍，看，他开始有回应了
 
 354
 00:21:20,927 --> 00:21:22,246

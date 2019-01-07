@@ -3635,302 +3635,443 @@ But you must understand,
 if you're not back, I must go on.
 
 823
-00:56:51,444 --> 00:56:52,513
-Ah!
-
-824
 00:56:54,164 --> 00:56:57,474
 -You'll die in there with them.
 -I understand.
 
-825
+824
 00:56:57,564 --> 00:56:59,475
 I'll give you what time I can.
 
-826
+825
 00:56:59,924 --> 00:57:01,118
 Right.
 
-827
+826
 00:57:10,684 --> 00:57:12,242
 Thank you.
 
-828
+827
 00:57:12,324 --> 00:57:14,201
 Now, let's destroy it.
 
-829
+828
 00:57:19,244 --> 00:57:21,963
 -How about this?
 -How very apt.
 
-830
+829
 00:57:22,444 --> 00:57:24,116
 A Dalek gun.
 
-831
+830
 00:57:27,644 --> 00:57:28,793
 There.
 
-832
+831
 00:57:36,364 --> 00:57:37,922
 He's not important.
 
-833
+832
 00:57:38,004 --> 00:57:41,838
 We've got the time ring, we've destroyed the tape
 and Davros' power is broken.
 
-834
+833
 00:57:41,924 --> 00:57:44,074
 What about the Daleks
 that are already operational?
 
-835
+834
 00:57:44,164 --> 00:57:48,203
 Oh, I think we can leave Gharman to destroy them.
 
-836
+835
 00:58:11,344 --> 00:58:14,017
 -Why is it going on so long?
 -Who knows?
 
-837
+836
 00:58:14,424 --> 00:58:18,099
 It's out of character for Davros
 to submit quite so easily.
 
-838
+837
 00:58:18,624 --> 00:58:21,855
 <i>This is your last chance. Move to join me now.</i>
 
-839
+838
 00:58:21,944 --> 00:58:23,021
 <i>Or suffer the consequences.</i>
 
-840
+839
 00:58:23,104 --> 00:58:26,733
 Why don't you just accept the fact
 that you have lost? It's over for you, Davros.
 
-841
+840
 00:58:26,824 --> 00:58:30,134
 <i>Do you believe that I would let a lifetime's work</i>
 
-842
+841
 00:58:30,224 --> 00:58:33,375
 <i>be ended by the will of spineless fools like you?</i>
 
-843
+842
 00:58:33,584 --> 00:58:35,302
 <i>You have won nothing.</i>
 
-844
+843
 00:58:35,384 --> 00:58:39,138
 <i>I allowed this charade to be played out</i>
 <i>for one reason only.</i>
 
-845
+844
 00:58:39,344 --> 00:58:42,336
 <i>To find those men who were truly loyal to me</i>
 
-846
+845
 00:58:42,424 --> 00:58:45,655
 <i>and to discover those who would betray me!</i>
 
-847
+846
 00:58:46,104 --> 00:58:47,139
 <i>We...</i>
 
-848
+847
 00:58:47,224 --> 00:58:49,658
 <i>I will go on!</i>
 
-849
+848
 00:58:49,744 --> 00:58:52,497
 You are insane, Davros.
 
-850
+849
 00:59:05,744 --> 00:59:07,496
 <i>Exterminate!</i>
 
-851
+850
 00:59:07,904 --> 00:59:09,895
 <i>Exterminate!</i>
 
-852
+851
 00:59:10,304 --> 00:59:12,374
 <i>Exterminate!</i>
 
-853
+852
 00:59:19,184 --> 00:59:22,301
 Stop them, Davros. You must stop them.
 
-854
+853
 00:59:37,724 --> 00:59:40,682
 -That's the last one in position.
 -Right. Prepare to detonate.
 
-855
+854
 01:00:00,324 --> 01:00:03,077
 <i>The automated Dalek production line</i>
 <i>has been started.</i>
 
-856
+855
 01:00:03,164 --> 01:00:05,803
 <i>I gave no such order. Who did?</i>
 
-857
+856
 01:00:05,884 --> 01:00:07,840
 DALEK: <i>I gave the command.</i>
 
-858
+857
 01:00:08,444 --> 01:00:11,641
 <i>You will perform no function</i>
 <i>unless ordered by me.</i>
 
-859
+858
 01:00:14,204 --> 01:00:16,320
 <i>You will obey only my commands.</i>
 
-860
+859
 01:00:16,404 --> 01:00:19,043
 <i>The production line is to be halted immediately.</i>
 
-861
+860
 01:00:20,604 --> 01:00:23,164
 <i>You heard my order. Obey!</i>
 
-862
+861
 01:00:25,164 --> 01:00:26,517
 <i>Obey!</i>
 
-863
+862
 01:00:27,804 --> 01:00:31,274
 <i>I created you! I am the master, not you!</i>
 
-864
+863
 01:00:31,364 --> 01:00:34,003
 <i>I. I. I!</i>
 
-865
+864
 01:00:38,664 --> 01:00:40,620
 <i>-Nyder.</i>
 -Yes, Davros.
 
-866
+865
 01:00:44,024 --> 01:00:46,458
 <i>Production will continue.</i>
 
-867
+866
 01:00:48,744 --> 01:00:51,042
 DALEK: <i>Our programming does not permit us</i>
 
-868
+867
 01:00:51,124 --> 01:00:57,039
 <i>to acknowledge that any creature</i>
 <i>is superior to the Daleks.</i>
 
-869
+868
 01:00:57,124 --> 01:00:59,054
 <i>You cannot exist without me.</i>
 
-870
+869
 01:00:59,084 --> 01:01:00,881
 <i>All inferior creatures</i>
 
-871
+870
 01:01:00,964 --> 01:01:05,674
 <i>are to be considered the enemy of the Daleks</i>
 <i>and destroyed.</i>
 
-872
+871
 01:01:05,764 --> 01:01:06,280
 <i>No, wait!</i>
 
-873
+872
 01:01:06,364 --> 01:01:08,355
 <i>Exterminate!</i>
 
-874
+873
 01:01:11,244 --> 01:01:14,839
 <i>For the last time, I am your creator!</i>
 
-875
+874
 01:01:15,204 --> 01:01:19,083
 <i>You must, you will obey me!</i>
 
-876
+875
 01:01:19,244 --> 01:01:21,553
 <i>We obey no one.</i>
 
-877
+876
 01:01:21,644 --> 01:01:24,841
 <i>We are the superior beings.</i>
 
-878
+877
 01:01:25,444 --> 01:01:27,480
 <i>Exterminate!</i>
 
-879
+878
 01:01:28,364 --> 01:01:29,956
 (DAVROS SCREAMING)
 
-880
+879
 01:01:30,804 --> 01:01:33,841
 <i>Main exit blocked by explosion</i>
 
-881
+880
 01:01:33,924 --> 01:01:37,360
 <i>for a length of at least 1,000 yards.</i>
 
-882
+881
 01:01:37,984 --> 01:01:41,215
 <i>We are entombed, but we live on.</i>
 
-883
+882
 01:01:41,864 --> 01:01:44,662
 <i>This is only the beginning.</i>
 
-884
+883
 01:01:44,744 --> 01:01:49,101
 <i>We will prepare. We will grow stronger.</i>
 
-885
+884
 01:01:49,544 --> 01:01:53,014
 <i>When the time is right, we will emerge</i>
 
-886
+885
 01:01:53,104 --> 01:01:55,413
 <i>and take our rightful place</i>
 
-887
+886
 01:01:55,504 --> 01:01:57,813
 <i>as the supreme power</i>
 
-888
+887
 01:01:57,904 --> 01:02:00,816
 <i>of the universe!</i>
 
-889
+888
 01:02:00,944 --> 01:02:03,697
 Failed? No, not really.
 
-890
+889
 01:02:04,424 --> 01:02:06,380
 DOCTOR: <i>You see, I know</i>
 
-891
+890
 01:02:06,464 --> 01:02:10,821
 <i>that although the Daleks will create</i>
 <i>havoc and destruction for millions of years,</i>
 
-892
+891
 01:02:11,464 --> 01:02:14,103
 <i>I know also that out of their evil</i>
 
-893
+892
 01:02:14,184 --> 01:02:16,414
 <i>must come something good.</i>
 <i>(part 6 ends here)</i>
 
+893
+01:02:35,287 --> 01:02:36,276
+(SARAH GRUNTS)
+
+894
+01:02:36,367 --> 01:02:39,040
+Thank heaven for that. We've made it.
+
+895
+01:02:40,047 --> 01:02:41,446
+-Haven't we?
+-Of course we've made it.
+
+896
+01:02:41,527 --> 01:02:42,676
+Did you think we wouldn't?
+
+897
+01:02:42,767 --> 01:02:44,917
+Well, in these past few weeks, yes.
+
+898
+01:02:45,007 --> 01:02:45,996
+-Quite frequently.
+-There is really nothing
+
+899
+01:02:46,087 --> 01:02:50,603
+that could go wrong with the time ring,
+except the molecular short circuit.
+
+900
+01:02:50,687 --> 01:02:52,200
+-Doctor.
+-Yes?
+
+901
+01:02:52,647 --> 01:02:54,558
+The Tardis isn't here.
+
+902
+01:02:55,647 --> 01:02:58,207
+Well, it probably hasn't arrived yet.
+We're a little early.
+
+903
+01:02:58,287 --> 01:02:59,402
+Hasn't arrived yet?
+
+904
+01:02:59,487 --> 01:03:02,399
+No, you see, the Tardis is drifting back
+through time, Harry.
+
+905
+01:03:02,487 --> 01:03:04,239
+We'll just have to wait
+for it to turn up.
+
+906
+01:03:04,327 --> 01:03:05,362
+(CHUCKLES)
+
+907
+01:03:05,447 --> 01:03:06,800
+I say, Doctor,
+did you want this ring thing?
+
+908
+01:03:06,887 --> 01:03:07,922
+-What, that?
+-Yes.
+
+909
+01:03:08,007 --> 01:03:09,884
+-No.
+-Oh, well, I'd rather like to have it.
+
+910
+01:03:09,967 --> 01:03:14,245
+-Well, you take good care of it, Harry.
+-Of course I will. Thank you.
+
+911
+01:03:15,527 --> 01:03:16,721
+(GASPS)
+
+912
+01:03:17,607 --> 01:03:20,440
+You knew that was gonna happen,
+didn't you?
+
+913
+01:03:30,207 --> 01:03:33,404
+-He's dead. Been dead some time.
+-How long?
+
+914
+01:03:33,807 --> 01:03:35,399
+A week or two, I'd say.
+
+915
+01:03:35,487 --> 01:03:37,443
+There's very little sign
+of putrefaction though.
+
+916
+01:03:37,527 --> 01:03:38,721
+Sterile atmosphere.
+
+917
+01:03:38,807 --> 01:03:41,367
+Yes, exactly, and no sign of injury.
+
+918
+01:03:41,447 --> 01:03:43,005
+Nothing to indicate the cause of death.
+
+919
+01:03:43,087 --> 01:03:47,046
+Well, he was just sitting against
+the door as though he'd collapsed.
+
+920
+01:03:47,127 --> 01:03:49,880
+He wouldn't have been there
+for two weeks unless...
+
+921
+01:03:49,967 --> 01:03:51,320
+Unless what?
+
+922
+01:03:51,407 --> 01:03:54,604
+Unless there was something
+seriously wrong here.
+
+923
+01:03:55,047 --> 01:03:56,366
+Come on.
+
+924
+01:04:27,607 --> 01:04:28,960
+(BEEPING)
+<i>(end.)</i>
