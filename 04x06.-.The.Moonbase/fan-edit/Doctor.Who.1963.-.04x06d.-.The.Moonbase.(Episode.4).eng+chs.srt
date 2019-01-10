@@ -1,0 +1,964 @@
+1
+00:40:39,716 --> 00:40:44,646
+- They can't just march in here, can they?
+- Not now. We've discovered how they got in.
+- 他们不能进到这里来吧, 能吗 - 现在不能, 我们已经发现了他们是怎么进来的
+
+2
+00:40:44,717 --> 00:40:46,807
+Yes. They tunnelled into the storeroom.
+是的, 他们打隧道进了储藏室
+
+3
+00:40:47,380 --> 00:40:50,317
+- Doctor, Mr. Hobson, come quickly!
+- What is it?
+- 博士, Hobson 先生, 快来！  - 什么事？
+
+4
+00:40:54,499 --> 00:40:58,287
+<i>Moonbase, Moonbase</i>
+<i>月球基地, 月球基地</i>
+
+5
+00:40:58,454 --> 00:41:02,609
+<i>- They've got our wavelength. We hear you.
+- You are surrounded.</i>
+- 他们知道了我们的波长．我们能听到  - 你们已经被包围了
+
+6
+00:41:02,772 --> 00:41:05,550
+<i>All resistance is useless.</i>
+所有抵抗都是徒劳的
+
+7
+00:41:05,718 --> 00:41:08,863
+<i>You must open the entry port.</i>
+你们必须打开入口
+
+8
+00:41:09,028 --> 00:41:14,835
+Let me. You're wasting your time.
+We've discovered your passageway and blocked it.
+我来说, 你们是在浪费时间．我们已经发现了你们的通道, 堵上了
+
+9
+00:41:15,000 --> 00:41:19,189
+<i>- You cannot enter now.
+- Resistance is useless.</i>
+- 你们现在进不来了  - 抵抗是无用的
+
+10
+00:41:19,358 --> 00:41:22,377
+- Can they get in?
+- I don't know, but I'm not stopping to find out.
+- 他们能进来吗？  - 我不知道, 但我不会停止寻找的
+
+11
+00:41:22,547 --> 00:41:25,083
+- Get me Earth as quick as you can.
+- Right.
+- 赶紧给我联系地球, 越快越好 - 好的
+
+12
+00:41:25,250 --> 00:41:28,269
+Weather Control Moon calling Earth. Come in.
+天气控制中心月球站呼叫地球, 请回话
+
+13
+00:41:34,934 --> 00:41:38,033
+<i>Emergency! Emergency!</i>
+紧急情况！紧急情况！
+
+14
+00:41:38,202 --> 00:41:41,623
+<i>There is a spaceship approaching from Earth.</i>
+有一首飞船正在接近, 是地球来的
+
+15
+00:41:41,794 --> 00:41:47,522
+<i>It will arrive on the lunar surface in 15 minutes.</i>
+它将在１５分钟内到达月球表面
+
+16
+00:41:47,686 --> 00:41:52,003
+<i>Immediate offensive action must be taken.</i>
+必须立即展开攻击行动了
+
+17
+00:41:52,119 --> 00:41:55,941
+<i>They have blocked up our way into the base.</i>
+他们堵住了我们通往基地的路
+
+18
+00:41:56,114 --> 00:42:00,465
+<i>Other methods to gain entry will be tried.</i>
+将尝试其它方式进入
+
+19
+00:42:01,326 --> 00:42:05,068
+<i>The machine from Earth must first be destroyed.</i>
+地球来的机器必须先被摧毁
+
+20
+00:42:05,241 --> 00:42:08,466
+<i>There are 14 minutes left.</i>
+只剩１４分钟了
+
+21
+00:42:08,631 --> 00:42:10,399
+<i>Understood.</i>
+明白
+
+22
+00:42:20,093 --> 00:42:23,720
+<i>Transmit control signal.</i>
+传送控制信号
+
+23
+00:43:34,954 --> 00:43:41,112
+<i>You will listen to me and follow my instructions.</i>
+你将听我的, 服从我的指示
+
+24
+00:43:41,204 --> 00:43:43,901
+Here we are. I've brought some coffee to keep us awake.
+来了, 我拿了一些咖啡, 让大家清醒清醒
+
+25
+00:43:44,070 --> 00:43:47,008
+- Without sugar this time, I hope?
+- Of course. Don't remind me.
+- 这次没有糖了吧, 但愿  - 当然, 别提这个
+
+26
+00:43:47,177 --> 00:43:50,241
+- Take some to the Doctor. He's in the Dome.
+- Right.
+- 给博士拿一点去, 他在穹顶里面  - 好的
+
+27
+00:44:17,082 --> 00:44:23,854
+<i>You will now change field co-ordinates as instructed.</i>
+你现在要按照指示改变目的地坐标
+
+28
+00:44:27,090 --> 00:44:31,003
+Doctor, they've spotted it on the scanner - the relief ship.
+博士, 可以在监视器上看到他们了 - 救援飞船
+
+29
+00:44:31,166 --> 00:44:33,094
+- Ben, where?   - Over here.   - Let's see.
+- Ben, 哪儿？  - 在那儿   - 我们来看看
+
+30
+00:44:33,264 --> 00:44:36,570
+- Well?
+- No doubt about it. I told you they would be on their way!
+- 怎样？  - 没有疑问了, 我跟你说过他们已经在来的路上了
+
+31
+00:44:36,762 --> 00:44:38,208
+It's not far off.
+不是太远了
+
+32
+00:44:38,376 --> 00:44:41,636
+Far off? It's coming in now off parking orbit.
+It will be down in six minutes.
+太远？它已经进了降落轨道．６分钟之内就会落地了
+
+33
+00:44:41,807 --> 00:44:45,308
+- Don't think you ought to warn them?
+- Yes, the Cybermen will be waiting for them.
+- 你不觉得应该警告他们吗？ - 是啊, 赛博人已经在等着他们呢
+
+34
+00:44:45,479 --> 00:44:49,358
+Don't worry. They've got their own warning system and weapons.
+别担心．他们自己也有告警系统和武器
+
+35
+00:44:49,429 --> 00:44:54,235
+They'll blast the Cybermen and their spaceship
+to kingdom come in about four minutes from now.
+他们会把赛博人和他们的飞船炸会老家去, 还有大概４分钟
+
+36
+00:44:56,255 --> 00:44:58,263
+Come on!
+快啊
+
+37
+00:44:58,434 --> 00:45:01,097
+It seems to move so slowly.
+它好像移动得非常慢
+
+38
+00:45:06,183 --> 00:45:10,258
+- What are they doing?
+- Looks like they've changed direction.
+- 他们在干什么啊？  - 看起来好像他们改变了方向
+
+39
+00:45:11,147 --> 00:45:14,372
+They've changed into an escape orbit. Follow it.
+他们切换到了脱离轨道．跟住
+
+40
+00:45:14,537 --> 00:45:17,762
+- It's going too fast. I can't keep up with it.
+- Keep trying.
+- 它在加速了, 我跟不住了  - 继续尝试
+
+41
+00:45:17,927 --> 00:45:23,552
+- I can't hold it. It's accelerating too fast.
+- Look out man. You're on the sun.
+- 我没法跟住了, 它加速太快了  - 小心啊朋友, 你已经在往太阳飞了
+
+42
+00:45:23,614 --> 00:45:27,041
+- That's where it's heading.
+- The acceleration is.. it's gigantic!
+- 它就是在往那儿飞  - 加速度..也太大了！
+
+43
+00:45:27,208 --> 00:45:32,568
+- Get R/T contact with the ship.
+- It's no good, sir...the doppler effect...It's going too fast.
+- 用无线电联系飞船  - 没用的, 头儿...多普勒效应...它跑得太快了
+
+44
+00:45:34,432 --> 00:45:36,842
+They've had it, I'm afraid.
+他们已经跑不了了, 恐怕
+
+45
+00:45:37,015 --> 00:45:39,391
+- The sun...
+- Yes.
+- 太阳...  - 是的
+
+46
+00:45:39,557 --> 00:45:42,576
+Will somebody please tell us what it all means?
+谁能不能告诉我这都是什么意思？
+
+47
+00:45:42,746 --> 00:45:47,222
+The rocket has been deflected towards the sun.
+Nothing can save them now.
+火箭已经飞偏了, 在往太阳飞去．现在没谁能救他们了
+
+48
+00:45:47,387 --> 00:45:51,048
+- Save them? What are you talking about?
+- From plunging into the sun.
+- 救他们？你在说什么啊？  - 阻止他们飞向太阳
+
+49
+00:45:51,221 --> 00:45:53,516
+But the sun's millions of miles away.
+但太阳有数百万英里之远呢
+
+50
+00:45:53,683 --> 00:45:58,113
+Once they get into the sun's gravity belt,
+they can't change course.
+一旦他们进入了太阳的引力范围, 他们就改变不了航线了
+
+51
+00:45:58,283 --> 00:46:01,509
+It may take a week but they'll end up there.
+大概需要一个星期, 但他们最终会在那儿
+
+52
+00:46:01,673 --> 00:46:04,899
+What on earth could have caused it?
+到底是什么东西导致了这个？
+
+53
+00:46:05,063 --> 00:46:08,530
+The rocket was deflected off course, but why, and how?
+火箭当然是被导偏了, 但是为什么, 怎么搞得？
+
+54
+00:46:08,696 --> 00:46:10,704
+Deflected?
+导偏？
+
+55
+00:46:10,875 --> 00:46:15,905
+- Yes, of course. The Gravitron!
+- Have the Cybermen got a gravity weapon, do you think?
+- 是了, 当然, 引力创！  - 赛博人有引力武器吗, 你觉得？
+
+56
+00:46:16,076 --> 00:46:17,851
+- No, they haven't, but we have.
+- You're not suggesting...?
+- 不, 他们没有, 但我们有  - 你不是想说...？
+
+57
+00:46:18,017 --> 00:46:23,547
+The only one way that rocket could be deflected
+into the sun... was this very room.
+火箭飞被导向太阳的唯一方法...就在这个房间里！
+
+58
+00:46:23,618 --> 00:46:24,324
+I see what you mean.
+我知道你的意思了
+
+59
+00:46:24,394 --> 00:46:26,529
+Of course - the Gravitron.
+当然了 - 引力创
+
+60
+00:46:26,694 --> 00:46:31,114
+- Benson! He must...
+- I said he'd been on duty too long.
+- Benson! 他肯定... - 我说过他值班时间太长了
+
+61
+00:46:31,286 --> 00:46:32,696
+If it IS Benson...
+如果的确是 Benson...
+
+62
+00:46:39,810 --> 00:46:41,819
+It's Evans!
+是 Evans!
+
+63
+00:46:47,534 --> 00:46:51,356
+- He was in the medical room.
+- The Cybermen have control of them again.
+- 他在医务室啊 - 赛博人又控制了他们
+
+64
+00:46:51,430 --> 00:46:54,737
+- And the other men in there?
+- They may not be affected yet.
+- 那里的其他人呢？  - 他们可能还未受影响
+
+65
+00:46:54,904 --> 00:46:57,996
+Get down to the medical room.
+Barricade the door with everything you can find.
+赶紧去医务室, 用所有能找到的东西把门堵上
+
+66
+00:46:58,004 --> 00:46:59,496
+- Keep them in there at all costs!  - Right.
+- 不惜一切代价把他们控制在里面  - 好
+
+67
+00:47:21,392 --> 00:47:23,848
+What is he doing in there?
+他在那里面做什么？
+
+68
+00:47:25,387 --> 00:47:29,705
+Look at the field reactors. We must get back control soon. 
+看看域反应器(?), 我们必须赶紧夺回控制权
+
+69
+00:47:29,771 --> 00:47:33,576
+He could flood half of Europe
+if he keeps the Gravitron aligned with spring tides.
+他可能都淹了半个欧洲了，如果他一直让引力创定在涨潮位置的话
+
+70
+00:47:33,741 --> 00:47:36,679
+That settles it. We'll have to rush him.
+Get those weapons out.
+就这样定了，我们得赶紧把他赶出去。把那些武器拿出来
+
+71
+00:47:42,338 --> 00:47:45,356
+<i>Resistance is useless.</i>
+抵抗是没有用的
+
+72
+00:47:45,526 --> 00:47:49,872
+<i>All further ships from Earth will be deflected.</i>
+后面再有从地球来的飞船也会转向
+
+73
+00:47:49,938 --> 00:47:52,048
+<i>Open the air lock to us.</i>
+为我们打开气闸
+
+74
+00:47:52,221 --> 00:47:55,687
+<i>If you do not, we shall destroy the base,</i>
+如果你们不打开，我们将摧毁基地
+
+75
+00:47:55,853 --> 00:47:58,343
+<i>and you will be eliminated.</i>
+你们将会被消灭
+
+76
+00:47:58,516 --> 00:48:00,043
+Can you hear me?
+你们能听到我？
+
+77
+00:48:00,211 --> 00:48:05,284
+<i>Everything you have said
+in the past half-hour has been overheard.</i>
+你们在过去半小时内说的话，全都听见了
+
+78
+00:48:05,458 --> 00:48:10,624
+You can hear this, too, then: we're not done yet, 
+and we'll fight you to the last man.
+你还能听到这个：咱们没完，我们会跟你们战斗到最后一个人
+
+79
+00:48:10,785 --> 00:48:14,894
+<i>- You'll never get inside this base!
+- We are in it already.</i>
+- 你们永远进不了这个基地  - 我们已经进来了
+
+80
+00:48:17,063 --> 00:48:20,308
+They've punctured the dome!
+他们打穿了穹顶！
+
+81
+00:48:20,471 --> 00:48:24,098
+The oxygen masks.
+Everyone take a mask over there!
+氧气面罩！所有人都那儿去带上氧气面罩！
+
+82
+00:48:32,901 --> 00:48:35,839
+I hope that we don't lose too much oxygen.
+我期望我们没丧失多少氧气
+
+83
+00:48:36,009 --> 00:48:39,073
+- Can we patch it, do you think?
+- We can try.
+- 我们能补上吧，你说呢  - 我们试试
+
+84
+00:48:39,237 --> 00:48:41,246
+Give me a hand off with this.
+给我搭把手
+
+85
+00:48:41,416 --> 00:48:45,044
+Doctor, I can't breathe.
+博士，我不能呼吸了
+
+86
+00:48:49,447 --> 00:48:52,190
+Thank heavens! I can breathe again.
+感谢上天！我又能呼吸了
+
+87
+00:48:55,420 --> 00:48:57,428
+Oh, no!
+噢，不！
+
+88
+00:48:57,599 --> 00:49:00,744
+- What can we patch it with?
+- Nothing.
+- 我们能拿什么来堵？  - 没啥
+
+89
+00:49:00,908 --> 00:49:02,642
+Wait...
+等等...
+
+90
+00:49:02,805 --> 00:49:04,458
+Over there.
+那边
+
+91
+00:49:06,276 --> 00:49:09,053
+Slide it to me but don't let go of it.
+把它滑给我，别放手
+
+92
+00:49:11,401 --> 00:49:14,910
+We have to do it in one action. No second chance. Are you ready?
+我们必须一次搞定，没有第二次机会。准备好了吗？
+
+93
+00:49:14,980 --> 00:49:16,403
+Now!
+走！
+
+94
+00:49:23,751 --> 00:49:26,000
+Stopped them for the moment.
+暂时阻止他们了
+
+95
+00:49:26,172 --> 00:49:29,994
+- I wonder for how long.
+- Let's have a look.
+- 我在想能有多久 - 我们看看吧
+
+96
+00:49:38,279 --> 00:49:41,424
+Polly! Are you all right?
+Polly！你没事吧？
+
+97
+00:49:42,436 --> 00:49:44,089
+Yes.
+是的
+
+98
+00:49:45,786 --> 00:49:49,331
+- Where's that air coming from?
+- Reserve tanks of oxygen.
+- 那些空气哪里来的？ - 预备的氧气瓶
+
+99
+00:49:49,498 --> 00:49:53,733
+- Why couldn't we have had those before?
+- And lose all our oxygen?
+- 之前为什么没有？ - 你是说失去我们所有的氧气？
+
+100
+00:49:53,897 --> 00:49:55,905
+I see.
+我明白了
+
+101
+00:50:01,403 --> 00:50:04,708
+- It's so quiet!  - Yes, it is, isn't it?
+- 好安静啊！  - 是的，真安静，是吧？
+
+102
+00:50:04,874 --> 00:50:07,410
+The Gravitron's stopped!
+引力创停掉了！
+
+103
+00:50:09,354 --> 00:50:12,693
+Quick. Before he comes to. Ben! Jamie!
+快！在他醒过来之前. Ben! Jamie!
+
+104
+00:50:13,874 --> 00:50:15,446
+Joe!
+
+105
+00:50:15,609 --> 00:50:19,636
+We've barricaded the sick bay with half the chairs and tables in the base, but it won’t hold them for ever.
+我们堵住了医务室，用了基地半数的椅子和桌子，但没法永远挡住他们
+
+106
+00:50:19,703 --> 00:50:22,628
+- Well done. - Here's another one for you.
+- 干得好  - 这个你来
+
+107
+00:50:22,793 --> 00:50:25,731
+- What do we do with him, Doctor?
+- That's your problem.
+- 我们拿他怎么办，博士  - 那是你的事
+
+108
+00:50:25,900 --> 00:50:27,794
+Just make sure he doesn’t come back here for a while.
+只是要确保短时间内他不能回到这里来
+
+109
+00:50:27,958 --> 00:50:31,425
+I’ll be after a job as a copper when I get
+back to 1966!
+等我回到1966年，我要去找个当警察的职业干干
+
+110
+00:50:34,981 --> 00:50:36,828
+Mr Hobson, I've got an idea.
+Hobson 先生，我有了个想法
+
+111
+00:50:37,498 --> 00:50:41,184
+- Doctor, what do you make of this?
+- Made by a laser beam, I think.
+- 博士，你觉得这是怎么造成的  - 激光束，我想是
+
+112
+00:50:41,250 --> 00:50:46,429
+- Is there anything known to science the Cybermen haven't got?
+- They haven’t got a Gravitron. Or they wouldn't be after yours.
+科学上已知的东西里面有没有什么赛博人没掌握的？
+他们还没有引力创，否则他们不会来抢你们的
+
+113
+00:50:46,497 --> 00:50:49,516
+We'll have to stand guard here
+with their cyberguns.
+
+114
+00:50:49,685 --> 00:50:54,564
+Not much use. They're getting
+reinforcements. Looks like another spaceship.
+没多大用. 他们有了增援. 看样子是又来一艘飞船
+
+115
+00:50:55,376 --> 00:50:57,304
+Just there.
+就在那儿
+
+116
+00:50:57,347 --> 00:50:58,792
+Another one!
+又来一个！
+
+117
+00:51:04,820 --> 00:51:09,250
+<i>We have brought
+reinforcements with other weapons.</i>
+我们带来了增援和其它武器
+
+118
+00:51:09,420 --> 00:51:13,897
+<i>You have one chance.
+You must open the entry port.</i>
+你们有一次机会. 你们必须打开入口
+
+119
+00:51:14,061 --> 00:51:19,984
+<i>You cannot stop us now.
+You will all be completely destroyed.</i>
+现在你们阻挡不了我们了. 你们全部都会被完全消灭
+
+120
+00:51:20,155 --> 00:51:25,321
+- What does he mean, other weapons?
+- We'll soon find out. You stay here. I must report this to Mr. Hobson.
+他什么意思，“其它武器”？
+我们很快就能弄清楚. 你在这里待着. 我必须向 Hobson 先生报告这个
+
+121
+00:51:31,254 --> 00:51:33,504
+<i>I shall count to ten.</i>
+我将数到十
+
+122
+00:51:33,675 --> 00:51:39,403
+<i>If you still stupidly remain silent,
+we shall fire.</i>
+如果你们仍然愚蠢地保持沉默，我们将开火
+
+123
+00:51:39,567 --> 00:51:41,737
+<i>One...</i>
+一
+
+124
+00:51:43,925 --> 00:51:47,839
+- Hurry! They've got another weapon. They're going to ...
+- Yes, I know. There it is.
+- 快！他们有了另外一个武器，他们要...
+- 是的，我知道，就在那儿
+
+125
+00:51:48,001 --> 00:51:51,869
+Everybody take cover. Get down, all of you! Doctor!
+所有人都躲起来. 你们全都蹲下！博士！
+
+126
+00:51:52,037 --> 00:51:54,099
+- Is the Gravitron still switched on?  - Yes.
+- 引力创还开着吗？  - 是的
+
+127
+00:51:54,362 --> 00:51:55,854
+Then I shall certainly stay here.
+那我就一定还得留在这里
+
+128
+00:51:56,864 --> 00:52:01,456
+<i>.. nine, ten... Fire!</i>
+...九，十...开火！
+
+129
+00:52:11,070 --> 00:52:13,079
+<i>Again. Fire.</i>
+再来，开火！
+
+130
+00:52:22,612 --> 00:52:26,354
+- What happened?
+- It just deflected over the dome.
+- 什么情况？ - 它刚才转弯从穹顶上飞过去了
+
+131
+00:52:26,527 --> 00:52:28,260
+- Are you all right?  - Yes.
+- 你没事吧？  - 没事
+
+132
+00:52:28,424 --> 00:52:33,624
+- The Gravitron deflected it. The force field.
+- Yes. And that gives me an idea.
+- 引力创弹歪了它，力场的作用  - 是的，这给了我一个主意
+
+133
+00:52:33,791 --> 00:52:36,454
+What are they doing now?
+他们现在在干什么？
+
+134
+00:52:41,337 --> 00:52:43,231
+They're packing it away.
+他们在收拾走人
+
+135
+00:52:43,395 --> 00:52:46,414
+What will they cook up next?
+他们下一步想炮制什么？
+
+136
+00:52:49,893 --> 00:52:55,862
+How far down can this be aimed? Can it be
+brought to bear on the surface of the moon?
+这个最低可以瞄准哪里？能否牵引到对准月球表面？
+
+137
+00:52:56,027 --> 00:52:58,483
+- I see!  - Well...
+- 我明白了  - 这个...
+
+138
+00:52:58,651 --> 00:53:01,509
+- Has it ever been tried?  - No, but we shall try.
+- 试过这样吗？  - 没，但我们得试试
+
+139
+00:53:01,677 --> 00:53:05,625
+- With Evans gone, the Gravitron is all yours.
+- Je m'en occupe!
+- 现在 Evans 走了，引力创归你了 - 我会处理好的（法语）
+
+140
+00:53:05,794 --> 00:53:09,054
+Any further down, and the field may affect the base.
+再低一点，力场就会影响基地了
+
+141
+00:53:09,224 --> 00:53:11,887
+- What does that matter now?
+- Ah, I suppose you're right.
+- 到现在了，那又有什么关系   - 啊，我想你是对的
+
+142
+00:53:12,049 --> 00:53:16,560
+- Get someone to stand by that window
+and relay instructions direct to Benoit.
+- Right!
+找个人站到那个窗户旁边，将指令转述给 Benoit
+
+143
+00:53:27,103 --> 00:53:30,121
+- He's ready.  - Start moving the probe down.
+- 他就绪了  - 开始向下移动探测器
+
+144
+00:54:24,813 --> 00:54:27,912
+- That's as far as it will go.
+- What?
+- 最多也就能到这个位置了
+- 什么？
+
+145
+00:54:28,082 --> 00:54:30,217
+But it's way over their heads.
+但高出他们的头太多了
+
+146
+00:54:30,382 --> 00:54:33,963
+There's one chance. We'll try bringing it down by hand.
+只有一次机会，我们得用手把它拉下来
+
+147
+00:54:34,136 --> 00:54:37,154
+- Is this still switched off?
+- No, No.. Yes, of course.
+- 这个仍然是关着的吗？   - 不，不，对了，当然
+
+148
+00:54:43,054 --> 00:54:46,440
+- It won't go.
+- All your weight. Once more.
+- 它没动  - 用上全部力气，再来一次
+
+149
+00:54:48,219 --> 00:54:52,567
+- It's no use. It won't shift.
+- Ah, stupid of me! Of course it won't!
+- 没用，它一动不动  - 啊，我真蠢，当然它不会动了
+
+150
+00:54:52,636 --> 00:54:54,872
+- Why?
+- The angular cut-out. It's obvious!
+- 为什么？  - 角度阻断器，很显然
+
+151
+00:54:57,300 --> 00:55:01,168
+There's got to be a safety cut-out
+on the angle of the probe.
+探测器的角度必须得有一个安全阻断器
+
+152
+00:55:01,336 --> 00:55:03,258
+Otherwise, it might affect the whole base./
+否则，它就会影响整个基地
+
+152
+00:55:03,336 --> 00:55:07,258
+That's done it. Stand back. Benoit can do it now.
+这下可以了。往后站。Benoit 现在可以操作了
+
+153
+00:55:07,429 --> 00:55:09,082
+Switch on!
+现在启动！
+
+154
+00:55:45,889 --> 00:55:48,506
+Well, that's taken care of the Cybermen!
+好了，它可以照料赛博人了
+
+155
+00:55:48,674 --> 00:55:54,034
+We've got to get this Gravitron in operation as fast as we can!
+我们得尽快让引力创重新运转起来！
+
+156
+00:55:54,203 --> 00:55:57,026
+- I'm so sorry we damaged it.  - What? Oh, yes...
+- 很抱歉我们毁坏了它  - 什么？噢，是的...
+
+157
+00:55:58,279 --> 00:56:02,193
+Nils, rig up a temporary aerial. Call up Space Control.
+Nils, 架一个临时天线，联系控制中心
+
+158
+00:56:02,355 --> 00:56:07,761
+Tell Rinberg we'll be operational in about two hours.
+It's the best we can do.
+告诉 Rinberg 我们将在大约两小时后恢复运作。最好我们也就能这样了
+
+159
+00:56:07,924 --> 00:56:13,125
+Two hours! That's all we've got to 
+get the world's weather under control again.
+两小时，那是我们能有的时间，要让地球天气重新处于掌控之中
+
+160
+00:56:13,292 --> 00:56:17,160
+Benoit, take charge of your side.
+And, Doctor... What the...
+Benoit, 负责你那边的事情。而博士...怎么...
+
+161
+00:56:19,507 --> 00:56:22,767
+It's just as well.
+We've enough madmen here already!
+这样也行吧，我们这里疯子已经够多了
+
+162
+00:56:22,937 --> 00:56:26,518
+I want to see
+your first weather plot in two minutes!
+我期望在两分钟之内见到你的天气运行图
+
+163
+00:56:26,691 --> 00:56:28,022
+Come on, boys.
+加油，小伙子们
+
+164
+00:56:50,057 --> 00:56:51,388
+Doctor, look.
+博士，看
+
+165
+00:56:52,519 --> 00:56:56,099
+- Could that be them?  - Possibly.
+- 会是他们吗？  - 很可能
+
+166
+00:56:56,272 --> 00:56:59,210
+And I hope it's the last we see of them.
+我期望这是我最后一次看见他们
+
+167
+00:57:20,738 --> 00:57:22,988
+There we are. In perfect flight.
+好啦，进入完美的飞行了
+
+168
+00:57:23,160 --> 00:57:28,440
+- Yes, and look what happened last time!
+- Just a bumpy landing. It won't happen again.
+- 是啊，看看上次都发生了什么！
+- 只是着陆有点颠簸，不会再发生了
+
+169
+00:57:28,608 --> 00:57:29,973
+- I know.
+- What you're up now?
+- 我知道  - 你又在干什么？
+
+170
+00:57:30,142 --> 00:57:33,160
+- Let's have a look at the Time Scanner. - The what?
+- 我们来看看时间监视器 - 看什么？
+
+171
+00:57:33,330 --> 00:57:38,496
+The Time Scanner. Instead of showing where we are, 
+it gives you a glimpse of the future.
+时间扫描仪。不是显示我们在哪儿，而是让你瞥一眼未来
+
+172
+00:57:38,657 --> 00:57:41,802
+The second sight? Very dangerous.
+第二视觉？这太危险了
+
+173
+00:57:41,966 --> 00:57:46,719
+Nonsense! I haven't used it very much.
+It's not very reliable, as you can see.
+胡说！我用它的次数不多，它不是太可靠，你们可以看到
+
+174
+00:57:46,890 --> 00:57:48,302
+Doctor...
+博士...
+
+175
+00:57:48,464 --> 00:57:50,277
+Look!
+快看！
+
+176
+00:57:51,500 --> 00:57:54,500
+Next: The Macra Terror
+下一集：大螯的恐怖
+（此集故事原有视频全部丢失, 但音频尚保留完整．BBC已经在采用动画方式
+重新制作该故事, 计划于2019年３月发布）
+
