@@ -1,4 +1,20 @@
 1
+00:00:03,500 --> 00:00:11,500
+The Doctor, together with his friends Ben, Polly and Jamie, 
+defeated the insane professor Zaroff to blow up the world.
+博士，和他的朋友 Ben, Polly 和 Jamie，挫败了疯狂教授 Zaroff 要炸毁全世界的计划
+
+2
+00:00:12,010 --> 00:00:16,000
+Leaving Atlantis behind, the Doctor set course for Mars
+离开了亚特兰蒂斯，博士设定了去往火星的航向
+
+3
+00:00:16,010 --> 00:00:20,000
+But then the TARDIS goes wildly out of control.
+但 TARDIS 开始完全失控了...
+
+1
 00:01:19,616 --> 00:01:21,339
 Anyone would think we got rats up here.
 谁会想到这里还会有老鼠
@@ -113,7 +129,7 @@ Where do you think you're going?
 
 23
 00:04:40,100 --> 00:04:41,508
-You're not going to tell us there is no shore leave？
+You're not going to tell us there is no shore leave?
 你不会告诉我们没有上岸假期吧？
 
 24
@@ -265,8 +281,8 @@ And... Jules, you take over.
 
 53
 00:07:25,031 --> 00:07:31,915
-There must be some source to this infection.  
-Look, then get the lads in here and tell them what's happening. 
+There must be some source to this infection. /
+Look, then get the lads in here and tell them what's happening. /
 Get them on the blower would you, Nils.
 这种感染一定有某种来源。
 听着, 那就把小伙子们叫进来, 告诉他们发生了什么事。
@@ -274,7 +290,7 @@ Get them on the blower would you, Nils.
 
 54
 00:07:37,689 --> 00:07:42,765
-Hello. Where did you lot spring from? 
+Hello. Where did you lot spring from? /
 Don't tell me the shuttle rocket arrived already?
 你好，你们是从哪里蹦出来的？
 别告诉我穿梭火箭已经到了？
@@ -427,8 +443,8 @@ The controller would like to know the cause of the illness.
 
 83
 00:09:25,674 --> 00:09:33,233
-Yes, so would we. We now have three men down with this
-mysterious virus in the past few hours - including the Doctor.
+Yes, so would we. We now have three men down /
+with this mysterious virus in the past few hours - including the Doctor.
 是，我们也想知道。在过去的几个小时里, 我们现在已经有三个人
 因为这种神秘的病毒倒下了 -- 包括医生本人
 
@@ -476,7 +492,7 @@ we can do our best to identify it and suggest treatment.
 
 92
 00:10:10,839 --> 00:10:13,164
-I demand to speak to Rinberg
+I demand to speak to Rinberg.
 我请求与Rinberg通话
 
 93
@@ -676,7 +692,7 @@ He looks one of the worst.
 130
 00:12:10,839 --> 00:12:15,150
 There's something about this epidemic
-that I... I just don't understand. /
+that I... I just don't understand. 
 对于这个流行病，有一些是我...不能理解的
 
 131
@@ -728,12 +744,12 @@ Still up, Nobby. Why not take a rest. Go and get some sleep.
 140
 00:12:48,254 --> 00:12:53,334
 Oh, How can I rest with that thing up the spout.
-You know the score as well as I do./
+You know the score as well as I do.
 噢, 有了这事儿我这么还能睡得着啊, 你跟我一样清楚现在的状态
 
 141
 00:12:53,454 --> 00:12:56,834
-Five units off centre and we lift half London into space!/
+Five units off centre and we lift half London into space!
 偏离中心五个单位, 半个伦敦就被抬到空中了
 
 142
@@ -743,13 +759,13 @@ Five more and the Atlantic water level goes up three feet!
 
 143
 00:13:00,004 --> 00:13:03,334
-Rinberg don't understand the pressure we're under./
+Rinberg don't understand the pressure we're under.
 Rinerg 并不理解我们当前的压力
 
 144
 00:13:03,436 --> 00:13:06,497
 Hey you! What do you thinking you are doing?! Skulking here?
-嘿！你觉得你在干什么呢！在这里躲懒吗? fixme
+嘿你！你在干什么呢！在这里躲懒吗?
 
 145
 00:13:06,692 --> 00:13:08,690
@@ -768,8 +784,8 @@ We can do with an extra pair of hands - he can help me.
 
 148
 00:13:12,763 --> 00:13:14,665
-Well, keep him away from me, that's all./
-行, 别让他在我这里晃悠, 就行了．
+Well, keep him away from me, that's all.
+行, 别让他在我这里晃悠就行了．
 
 149
 00:13:14,763 --> 00:13:17,165
@@ -784,7 +800,7 @@ Yes, of course.
 151
 00:13:18,447 --> 00:13:23,251
 Oh, by the way, there were two more of those momentary drops
-in air pressure while I was on./
+in air pressure while I was on.
 哦, 顺便说一下, 我在这里的时候又出现过两次短暂的气压下降
 
 152
@@ -846,7 +862,7 @@ What's happened?!
 163
 00:13:53,973 --> 00:13:56,951
 Oh, it's nothing. It probably just a changeover in the time cycle.
-哦, 没事．只是昼夜交替而已
+哦, 没事．只是人工昼夜交替而已
 
 164
 00:13:57,360 --> 00:13:58,518
@@ -855,7 +871,7 @@ What do you mean?
 
 165
 00:13:58,815 --> 00:14:01,314
-Oh, you see - it's rather interesting really /
+Oh, you see - it's rather interesting really
 哦, 你看, 这真的很有意思
 
 166
@@ -872,7 +888,7 @@ Well?
 168
 00:14:06,653 --> 00:14:11,099
 Well, it's oblivious isn't it? They have to
-make their own day and night artificially up there/
+make their own day and night artificially up there
 是啊, 这很明显啊是不？他们这里就不得不靠人工制造白天和黑夜
 
 169
@@ -1002,7 +1018,7 @@ This is no joke, believe me!
 
 194
 00:16:31,456 --> 00:16:33,456
-Mr. Hobson, Mr. Hobson, you are wanted! /
+Mr. Hobson, Mr. Hobson, you are wanted!
 Hobson 先生, Hobson 先生, 这里需要你
 
 195

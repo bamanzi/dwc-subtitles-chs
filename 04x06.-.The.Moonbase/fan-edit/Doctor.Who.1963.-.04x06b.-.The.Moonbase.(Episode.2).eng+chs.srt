@@ -167,15 +167,17 @@ But the Cybermen were all killed when Mondas blew up.
 但 Mondas 爆炸的时候赛博人都死了啊
 
 32
-00:19:41,581 --> 00:19:45,294
+00:19:41,581 --> 00:19:42,494
 Stop this Cyberman nonsense!
-There were Cybermen, every child knows that /
-别胡说赛博人那些东西了．以前是有赛博人, 每个小孩子都知道
+别胡说赛博人那些东西了
 
 33
-00:19:45,381 --> 00:19:46,894
+00:19:42,581 --> 00:19:46,894
+There were Cybermen, every child knows that,
 but they were destroyed ages ago!
-但他们早前就消灭了
+以前是有赛博人, 每个小孩子都知道．但他们几十年前就被消灭了！
+<i>（注:  赛博人初次出现于1986年, 试图夺取地球, 后与母星 Mondas 一起毁灭
+参见04x01 第十行星 The Tenth Planet）</i>
 
 34
 00:19:47,056 --> 00:19:49,747
@@ -442,10 +444,13 @@ this whole ridiculous place is sterile.
 
 81
 00:24:26,293 --> 00:24:31,561
-- We'll have to tell Mr Hobson, I suppose./28.5
-- I don't like it very much. I simply don't understand it.
+We'll have to tell Mr Hobson, I suppose.
 - 我们不得不跟 Hobson 先生说了, 我想
-- 我不喜欢这个结果。我就是弄不懂
+
+82
+00:24:28,693 --> 00:24:31,561
+I don't like it very much. I simply don't understand it.
+我不喜欢这个结果。我就是想不明白
 
 82
 00:24:32,074 --> 00:24:36,940
@@ -619,13 +624,17 @@ Try not to touch his skin.
 112
 00:27:30,661 --> 00:27:33,513
 Don't drink that! It's the sugar!
-不要喝那个！是糖有问题！
+不要喝那个！是糖！
 
 113
 00:27:33,681 --> 00:27:39,350
-Don't you see? That's why the disease doesn't affect everyone./37.3
+Don't you see? That's why the disease doesn't affect everyone.
+你明白了吗？那就是为什么这个病没有感染每一个人
+
+115
+00:27:37,481 --> 00:27:39,350
 It's the sugar. Not everyone takes it.
-你明白了吗？那就是为什么这个病没有感染每一个人．是糖, 不是每个人都加糖
+是糖有问题, 不是每个人都加糖
 
 114
 00:27:39,519 --> 00:27:41,523
@@ -652,7 +661,9 @@ A large neurotropic virus.
 00:28:14,388 --> 00:28:16,965
 - Like the space plague?
 - No.
-- 就像太空瘟疫(fixme)? - 不
+- 就像太空瘟疫? - 不
+<i>（注: 太空瘟疫是科幻小说 Highways in Hiding 所描绘的一种疾病,
+初始表象是手指脚趾硬化, 然后扩散到四肢以及全身. 此小说的简略版名称即为"太空瘟疫")</i>
 
 119
 00:28:17,126 --> 00:28:20,904
@@ -661,7 +672,7 @@ It's a large infective agent that only attacks the nerves.
 
 120
 00:28:21,071 --> 00:28:23,920
-That's why these patients got these lines appear on faces and hands./
+That's why these patients got these lines appear on faces and hands.
 这就是为什么那些病人脸上手上会出现那些条纹
 
 121
@@ -682,7 +693,7 @@ deliberately infected the base.
 
 124
 00:28:33,855 --> 00:28:36,602
-My men have searched every square of the base./
+My men have searched every square of the base.
 我的人搜索了这个基地的每一寸地方
 
 125
