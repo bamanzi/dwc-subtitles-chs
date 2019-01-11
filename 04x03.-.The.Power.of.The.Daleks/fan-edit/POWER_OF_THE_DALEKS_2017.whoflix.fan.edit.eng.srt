@@ -1,1028 +1,4294 @@
 1
-00:00:01,605 --> 00:00:02,605
+00:00:00,000 --> 00:00:00,000
 Sincro: wyxchari
 
 2
-00:01:39,951 --> 00:01:41,445
+00:01:30,951 --> 00:01:32,445
 His face, his hair - look at it!
 
 3
-00:01:41,878 --> 00:01:42,913
+00:01:32,878 --> 00:01:33,913
 He's breathing...
 
 4
-00:01:45,456 --> 00:01:47,344
+00:01:36,456 --> 00:01:38,344
 ...and the TARDIS seems to be normal.
 
 5
-00:01:49,123 --> 00:01:51,691
+00:01:40,123 --> 00:01:42,691
 Ben, what are we going to do? We can't just leave the Doctor there.
 
 6
-00:01:51,912 --> 00:01:54,560
+00:01:42,912 --> 00:01:45,560
 What, him? The Doctor?
 
 7
-00:01:54,878 --> 00:02:05,768
-Well, that's who came through the doors - there was no one else outside. Ben, do you remember what he said in the tracking room? Something about "This old body of mine is wearing a bit thin. "
+00:01:49,878 --> 00:01:56,768
+Ben, do you remember what he said in the tracking room? Something about "This old body of mine is wearing a bit thin. "
 
 8
-00:02:06,440 --> 00:02:08,563
+00:01:57,040 --> 00:01:59,163
 So he gets himself a new one?
 
 9
-00:02:09,513 --> 00:02:10,920
-Well, yes.
-
-10
-00:02:11,171 --> 00:02:12,701
-Oh, do me a favour!
-
-11
-00:02:16,577 --> 00:02:18,705
-Ben, whatever happened, happened in here.
-
-12
-00:02:19,235 --> 00:02:20,581
+00:01:59,235 --> 00:02:00,581
 But it's impossible!
 
-13
-00:02:21,966 --> 00:02:24,316
+10
+00:02:01,566 --> 00:02:03,916
 Not so long ago we'd have been saying that about a lot of things.
 
-14
-00:02:28,161 --> 00:02:29,421
-Oh, Ben!
-
-15
-00:02:44,312 --> 00:02:47,273
-Slower... Slower!
-
-16
-00:02:51,260 --> 00:02:54,768
-Concentrate on one thing... one thing!
-
-17
-00:03:26,457 --> 00:03:27,586
+11
+00:02:06,057 --> 00:02:07,186
 It's over.
 
-18
-00:03:31,880 --> 00:03:33,163
+12
+00:02:11,480 --> 00:02:12,763
 It's over.
 
-19
-00:03:57,709 --> 00:03:58,855
-Doctor?
-
-20
-00:04:27,957 --> 00:04:30,079
-The muscles are still a bit tight.
-
-21
-00:04:35,261 --> 00:04:36,497
+13
+00:02:56,861 --> 00:02:58,097
 What are we going to do?
 
-22
-00:04:36,860 --> 00:04:39,352
+14
+00:02:58,460 --> 00:03:00,952
 It is the Doctor. I know it is... I think.
 
-23
-00:04:39,653 --> 00:04:44,642
+15
+00:03:01,253 --> 00:03:06,242
 It's not only his face that's changed - he doesn't even act like him.
 
-24
-00:04:52,850 --> 00:04:54,677
+16
+00:03:07,450 --> 00:03:09,277
 Come on, it's time we sorted this out.
 
-25
-00:04:57,771 --> 00:04:58,706
+17
+00:03:12,371 --> 00:03:13,306
 Now look here!
 
-26
-00:04:59,002 --> 00:04:59,759
+18
+00:03:13,602 --> 00:03:14,359
 Hold that.
 
-27
-00:05:00,329 --> 00:05:01,395
+19
+00:03:14,929 --> 00:03:15,995
 And tilt it.
 
-28
-00:05:20,260 --> 00:05:21,117
+20
+00:03:34,860 --> 00:03:35,717
 Have you done with this?
 
-29
-00:05:21,672 --> 00:05:22,842
+21
+00:03:36,272 --> 00:03:37,442
 Put it down, put it down.
 
-30
-00:05:23,813 --> 00:05:24,985
+22
+00:03:38,413 --> 00:03:39,585
 Now, what's the game?
 
-31
-00:05:25,422 --> 00:05:25,879
+23
+00:03:40,022 --> 00:03:40,479
 Ah!
 
-32
-00:05:26,657 --> 00:05:28,918
+24
+00:03:41,257 --> 00:03:43,518
 The crusades, from Saladin.
 
-33
-00:05:30,231 --> 00:05:31,994
+25
+00:03:44,831 --> 00:03:46,594
 The Doctor was a great collector, wasn't he!
 
-34
-00:05:32,214 --> 00:05:33,491
+26
+00:03:46,814 --> 00:03:48,091
 But you're the Doctor!
 
-35
-00:05:34,530 --> 00:05:35,965
+27
+00:03:49,130 --> 00:03:50,565
 Oh, I don't look like him.
 
-36
-00:05:36,696 --> 00:05:37,828
+28
+00:03:51,296 --> 00:03:52,428
 Who are we?
 
-37
-00:05:38,227 --> 00:05:39,232
+29
+00:03:52,827 --> 00:03:53,832
 Don't you know?
 
-38
-00:05:47,842 --> 00:05:48,884
+30
+00:03:58,442 --> 00:03:59,484
 Extermination!
 
-39
-00:06:00,016 --> 00:06:00,512
-Ah!
-
-40
-00:06:06,621 --> 00:06:09,624
-Ah, very good. Nails need growing.
-
-41
-00:06:09,991 --> 00:06:13,842
+31
+00:04:02,391 --> 00:04:06,242
 Now look, the Doctor always wore this. So if you're him, it should fit now, shouldn't it?
 
-42
-00:06:16,568 --> 00:06:17,529
+32
+00:04:08,968 --> 00:04:09,929
 There - that settles it.
 
-43
-00:06:17,991 --> 00:06:21,416
+33
+00:04:10,391 --> 00:04:13,816
 I'd like to see a butterfly fit into a chrysalis case after it's spread its wings.
 
-44
-00:06:21,668 --> 00:06:22,911
+34
+00:04:14,068 --> 00:04:15,311
 Then you did change!
 
-45
-00:06:23,143 --> 00:06:25,527
+35
+00:04:15,543 --> 00:04:17,927
 Life depends on change... and renewal.
 
-46
-00:06:27,685 --> 00:06:30,736
-Oh, so that's it - you've been renewed, have ya?
-
-47
-00:06:31,243 --> 00:06:36,187
-I've been renewed, have I? That's it, I've been renewed!
-
-48
-00:06:36,869 --> 00:06:41,448
-It's part of the TARDIS - without it, I couldn't survive.
-
-49
-00:06:41,704 --> 00:06:42,729
-Come here!
-
-50
-00:06:48,378 --> 00:06:48,953
-Come here.
-
-51
-00:06:53,349 --> 00:06:55,397
+36
+00:04:21,949 --> 00:04:23,997
 The Doctor kept a diary, didn't he?
 
-52
-00:06:55,883 --> 00:06:56,562
+37
+00:04:24,483 --> 00:04:25,162
 Yes.
 
-53
-00:06:57,476 --> 00:06:59,779
+38
+00:04:26,076 --> 00:04:28,379
 I thought so. Now, I wonder where?
 
-54
-00:07:00,394 --> 00:07:01,754
+39
+00:04:28,994 --> 00:04:30,354
 I wonder where?
 
-55
-00:07:09,149 --> 00:07:10,668
+40
+00:04:31,349 --> 00:04:32,868
 He's a very different Doctor, Ben.
 
-56
-00:07:10,898 --> 00:07:13,450
+41
+00:04:33,098 --> 00:04:35,650
 Yeah, maybe. Just where do we stand, though?
 
-57
-00:07:40,567 --> 00:07:46,834
+42
+00:04:56,167 --> 00:05:02,434
 Doctor? Doctor, what's going to happen to us?
 
-58
-00:07:48,231 --> 00:07:55,446
+43
+00:05:03,831 --> 00:05:11,046
 I think... I think we must have landed for sometime. I think it's time we went for a stroll.
 
-59
-00:08:03,338 --> 00:08:05,182
+44
+00:05:11,938 --> 00:05:13,782
 But you don't know where we've landed!
 
-60
-00:08:05,410 --> 00:08:08,467
+45
+00:05:14,010 --> 00:05:17,067
 No, you haven't checked the oxygen or the temperature or anything!
 
-61
-00:08:09,676 --> 00:08:22,653
-Oxygen density one-seven-two, radiation nil, temperature... eighty-six
-- strong suggestion of mercury deposits. Satisfied, Ben?
-Now, are you two coming or are you not?
+46
+00:05:18,276 --> 00:05:31,253
+Oxygen density one-seven-two, radiation nil, temperature... eighty-six - strong suggestion of mercury deposits. Satisfied, Ben? Now, are you two coming or are you not?
 
-62
-00:08:24,252 --> 00:08:27,194
+47
+00:05:32,852 --> 00:05:35,794
 He does know us! He said "Ben", didn't you hear him?
 
-63
-00:08:27,453 --> 00:08:31,863
-Yeah, I heard. But he might just have been copying you though, mightn't he?
+48
+00:05:36,053 --> 00:05:37,463
+Yeah, I heard.
 
-64
-00:09:17,046 --> 00:09:17,793
-Oh no!
-
-65
-00:09:21,118 --> 00:09:22,482
+49
+00:05:49,718 --> 00:05:51,082
 Are you coming, you two?
 
-66
-00:09:58,023 --> 00:10:00,422
-Time I put you through some tests, I think!
-
-67
-00:10:03,668 --> 00:10:04,436
+50
+00:05:51,368 --> 00:05:52,136
 Hello?
 
-68
-00:10:06,451 --> 00:10:09,793
+51
+00:05:54,151 --> 00:05:57,493
 Hello? Is there anyone there? Hello?
 
-69
-00:10:10,423 --> 00:10:14,550
+52
+00:05:58,123 --> 00:06:02,250
 Hello? Why don't they come?
 
-70
-00:10:15,669 --> 00:10:21,074
+53
+00:06:03,369 --> 00:06:08,774
 Ah, so you've come at last. I'm from Earth. I'm the Examin...
 
-71
-00:11:17,749 --> 00:11:23,741
+54
+00:06:37,449 --> 00:06:43,441
 "Earth Examiner. Accord every access. Vulcan. "
 
-72
-00:11:30,676 --> 00:11:32,606
-Doctor?! Where are you?
-
-73
-00:11:41,117 --> 00:11:42,371
+55
+00:06:51,817 --> 00:06:53,071
 Whoa, they're hot!
 
-74
-00:11:42,729 --> 00:11:44,598
+56
+00:06:53,429 --> 00:06:55,298
 Hmm, do you think the air's like this everywhere?
 
-75
-00:11:44,853 --> 00:11:55,202
-Nah - might be just round here.
-Don't want too many lung full of it, I know that.
-Here, when I was a kid, we used to live opposite a brewery.
-You could take a walk and get tipsy all in one go!
+57
+00:06:55,553 --> 00:07:06,402
+Nah - might be just round here. Don't want too many lung full of it, I know that. Here, when I was a kid, we used to live opposite a brewery. You could take a walk and get tipsy all in one go!
 
-76
-00:11:55,893 --> 00:11:57,365
+58
+00:07:06,593 --> 00:07:08,065
 It's beautiful!
 
-77
-00:11:57,648 --> 00:11:58,839
+59
+00:07:08,348 --> 00:07:09,539
 No, don't touch it, Polly!
 
-78
-00:11:59,042 --> 00:12:00,369
+60
+00:07:09,742 --> 00:07:11,069
 I wasn't going to.
 
-79
-00:12:00,821 --> 00:12:02,740
+61
+00:07:11,521 --> 00:07:13,440
 No, it's quicksilver - it gets through the pores.
 
-80
-00:12:03,098 --> 00:12:07,943
+62
+00:07:13,798 --> 00:07:18,643
 Where is the Doctor, or whatever he is, got to?
 
-81
-00:12:11,812 --> 00:12:13,278
-What's the matter? Hey, Polly!
-
-82
-00:12:13,774 --> 00:12:17,092
-Hey, Doctor - wherever you are! Quick, there's something happened to Polly!
-
-83
-00:12:18,552 --> 00:12:20,223
-Quick, over this way!
-
-84
-00:12:35,280 --> 00:12:36,182
-Doctor!
-
-85
-00:12:43,952 --> 00:12:47,404
-Ah, Quinn, there you are. What have you got there?
-
-86
-00:12:48,954 --> 00:12:51,392
-My people have found two more of them by one of the pools.
-
-87
-00:12:52,069 --> 00:12:57,789
-This one's got a nasty bruise on the back of his head. Fallen over his feet and knocked himself out, I suppose.
-
-88
-00:12:58,039 --> 00:12:59,294
-I suppose so.
-
-89
-00:13:00,131 --> 00:13:02,109
-Why don't they use the kit we send them?
-
-90
-00:13:02,321 --> 00:13:07,024
-Yes, the other two have had a rather bad dose of fumes - the girl has anyway.
-
-91
-00:13:07,798 --> 00:13:08,431
-Girl?
-
-92
-00:13:08,633 --> 00:13:10,036
-Yes, but she'll recover.
-
-93
-00:13:10,336 --> 00:13:14,707
-These comic-opera guards of yours do have some uses after all.
-
-94
-00:13:14,921 --> 00:13:16,530
-I pick them for their physical fitness.
-
-95
-00:13:16,737 --> 00:13:21,185
-I thought it wasn't for their I.Q. Give me a hand with the Examiner, will you.
-
-96
-00:13:21,439 --> 00:13:25,927
-I wonder why Earth has chosen to send an Examiner to Vulcan? Just now, I mean?
-
-97
-00:13:26,129 --> 00:13:27,052
-I don't know.
-
-98
-00:13:27,335 --> 00:13:30,170
-A mystery, isn't it? He isn't due for another two years.
-
-99
-00:13:31,528 --> 00:13:32,668
-How do you feel?
-
-100
-00:13:33,154 --> 00:13:33,685
-Oh...
-
-101
-00:13:33,958 --> 00:13:35,960
-We saw your rocket overshoot the landing area.
-
-102
-00:13:36,308 --> 00:13:36,814
-Eh?
-
-103
-00:13:37,016 --> 00:13:41,895
-Don't worry - most of the ships from Earth do over-shoot. I'm Quinn, Deputy Governor.
-
-104
-00:13:42,136 --> 00:13:43,001
-Bragen, Head of Security.
-
-105
-00:13:43,190 --> 00:13:44,741
-Let's get all back shall we? I'll take the girl.
-
-106
-00:13:44,924 --> 00:13:47,772
-Here, you two, help carry the Examiner.
-
-107
-00:13:51,651 --> 00:13:56,037
-I suppose you Earth people can't wait to examine Lesterson's space capsule?
-
-108
-00:13:57,746 --> 00:13:58,481
-Eh?
-
-109
-00:14:18,295 --> 00:14:19,349
-Lesterson?
-
-110
-00:14:19,573 --> 00:14:20,408
-Look at this.
-
-111
-00:14:20,590 --> 00:14:22,748
-They've just brought in an Examiner from Earth, and a couple of assistants.
-
-112
-00:14:22,942 --> 00:14:24,371
-An Examiner? What's he here for?
-
-113
-00:14:24,511 --> 00:14:25,614
-I thought you'd know.
-
-114
-00:14:26,564 --> 00:14:29,193
-Ah, it's the capsule, it must be.
-
-115
-00:14:29,393 --> 00:14:32,466
-Well, they can't stop me working on it, I can tell you that.
-
-116
-00:14:32,787 --> 00:14:33,915
-Could anyone?
-
-117
-00:14:34,423 --> 00:14:39,898
-The Governor's always been difficult about it. But surely they wouldn't send someone all the way from Earth just to...?
-
-118
-00:14:40,084 --> 00:14:41,494
-Look, what about the meeting?
-
-119
-00:14:41,679 --> 00:14:42,346
-Meeting?
-
-120
-00:14:42,543 --> 00:14:45,755
-Yes - I've arranged everything. Can we still use the old rocket room?
-
-121
-00:14:45,948 --> 00:14:50,450
-Yes, I suppose so. But I do wish you wouldn't get mixed up with these pressure groups, Janley.
-
-122
-00:14:50,641 --> 00:14:54,033
-Well, somebody has to do something. The colony's running down and you know it.
-
-123
-00:14:54,243 --> 00:14:55,291
-Well, I am too busy.
-
-124
-00:14:55,445 --> 00:14:59,917
-But if we ran things, you'd have better facilities, more money. I wish you'd take an interest.
-
-125
-00:15:00,643 --> 00:15:06,497
-Now look, I don't mind letting you have the use of one of my rooms now and again, Janley, but don't try to involve me.
-
-126
-00:15:08,546 --> 00:15:13,022
-This is what I find important. Two hundred years in a mercury swamp...
-
-127
-00:15:13,217 --> 00:15:17,009
-...and this piece of metal that dropped from it. Look - a couple of minutes polishing and it's as good as new.
-
-128
-00:15:17,314 --> 00:15:18,895
-Wonderful.
-
-129
-00:15:19,167 --> 00:15:27,390
-Rain, damp, heat, mercury - nothing touches this metal. No corrosion, Janley - think of that.
-
-130
-00:15:27,725 --> 00:15:31,812
-Well, I hope the Examiner lets you go on with your experiments.
-
-131
-00:15:32,478 --> 00:15:34,268
-Frankly, I doubt it.
-
-132
-00:15:37,096 --> 00:15:41,368
-I think the Governor's brought the Examiner here to stop you opening the capsule.
-
-133
-00:15:43,153 --> 00:15:47,413
-You should join our group, Lesterson. You might need us one day.
-
-134
-00:15:59,148 --> 00:16:01,985
+63
+00:07:36,148 --> 00:07:38,985
 So the murdered man was the real Examiner?
 
-135
-00:16:02,772 --> 00:16:04,242
+64
+00:07:39,772 --> 00:07:41,242
 Well, didn't you see who did it?
 
-136
-00:16:05,378 --> 00:16:07,177
+65
+00:07:42,378 --> 00:07:44,177
 The Doctor got this button though.
 
-137
-00:16:07,420 --> 00:16:10,913
+66
+00:07:44,420 --> 00:07:47,913
 Well, I think it's pretty dull around here. I don't know why we don't just go back to the TARDIS.
 
-138
-00:16:11,212 --> 00:16:15,238
+67
+00:07:48,212 --> 00:07:52,238
 Doctor, are you going to let them think you're the real Examiner?
 
-139
-00:16:17,647 --> 00:16:19,087
+68
+00:07:54,647 --> 00:07:56,087
 Well, won't that be dangerous?
 
-140
-00:16:20,191 --> 00:16:22,959
+69
+00:07:57,191 --> 00:07:59,959
 Look, why don't you stop blowing that thing and talk to us properly?
 
-141
-00:16:23,167 --> 00:16:23,648
+70
+00:08:00,167 --> 00:08:00,648
 Ben!
 
-142
-00:16:23,842 --> 00:16:24,882
+71
+00:08:00,842 --> 00:08:01,882
 Now don't you start - it's bad enough with him!
 
-143
-00:16:25,041 --> 00:16:25,879
+72
+00:08:02,041 --> 00:08:02,879
 Well, he hasn't done anything.
 
-144
-00:16:26,015 --> 00:16:32,512
+73
+00:08:03,015 --> 00:08:09,912
 No, that's just the trouble! He knows what happened back at the TARDIS, yet will he tell us? Will he come out and say? Will he admit to being the Doctor?
 
-145
-00:16:34,840 --> 00:16:35,727
+74
+00:08:12,440 --> 00:08:13,327
 Come in!
 
-146
-00:16:41,027 --> 00:16:45,391
-I am Hensell - the Governor. I trust you're all feeling much better?
+75
+00:08:18,627 --> 00:08:20,991
+I am Hensell - the Governor.
 
-147
-00:16:45,600 --> 00:16:46,870
-Huh, I've felt worse, Governor.
+76
+00:08:21,167 --> 00:08:23,984
+If Earth had seen fit to warn us you were coming...
 
-148
-00:16:48,182 --> 00:16:49,322
-The Governor?
-
-149
-00:16:49,567 --> 00:16:55,784
-If Earth had seen fit to warn us you were coming, we might, possibly, have been able to guide you down to the landing area.
-
-150
-00:16:57,195 --> 00:17:02,371
+77
+00:08:24,195 --> 00:08:29,371
 If Earth didn't warn you we were coming, Governor, they must have had a very good reason. I wonder what it was?
 
-151
-00:17:03,071 --> 00:17:08,754
+78
+00:08:29,571 --> 00:08:35,254
 Now look here - I run this Colony. I'm entitled to know why you've come to Vulcan. What is your brief?
 
-152
-00:17:08,960 --> 00:17:10,002
+79
+00:08:35,460 --> 00:08:36,502
 I am the Examiner.
 
-153
-00:17:10,352 --> 00:17:11,634
+80
+00:08:36,852 --> 00:08:38,134
 Why are you here?
 
-154
-00:17:12,387 --> 00:17:16,549
+81
+00:08:38,887 --> 00:08:43,049
 To examine. And I intend to start my examination at once!
 
-155
-00:17:21,876 --> 00:17:26,650
+82
+00:08:44,476 --> 00:08:49,250
 Someone's leaked reports about these rebel groups - that's it, isn't it?
 
-156
-00:17:27,998 --> 00:17:29,420
-Your turn now, Governor.
-
-157
-00:17:30,418 --> 00:17:32,007
+83
+00:08:50,418 --> 00:08:52,007
 There is Lesterson's capsule.
 
-158
-00:17:32,206 --> 00:17:35,446
+84
+00:08:52,206 --> 00:08:55,446
 Internal affairs are my business, Bragen. Please don't interfere!
 
-159
-00:17:36,090 --> 00:17:37,067
+85
+00:08:56,090 --> 00:08:57,067
 Please go on.
 
-160
-00:17:38,033 --> 00:17:42,937
-The capsule. It was found in a mercury swamp. It must have been here for centuries.
+86
+00:08:58,033 --> 00:09:01,817
+The capsule. It was found in a mercury swamp. It must have been here for centuries before...
 
-161
-00:17:43,550 --> 00:17:44,924
-Interesting - continue.
+87
+00:09:01,957 --> 00:09:06,539
+...the Earth colony arrived. I felt it might be dangerous, it might contain bacteria.
 
-162
-00:17:45,257 --> 00:17:51,739
-For centuries before the Earth colony arrived. I felt it might be dangerous, it might contain bacteria.
+88
+00:09:07,702 --> 00:09:09,606
+I shall examine the capsule.
 
-163
-00:17:54,802 --> 00:18:00,116
-I shall examine the capsule... later. You may leave us.
-
-164
-00:18:03,321 --> 00:18:12,288
-I shall look forward to your report. Bragen, see that the Examiner and his party... get some proper clothes, will you?
-
-165
-00:18:21,725 --> 00:18:24,157
-We are wearing proper clothes!
-
-166
-00:18:26,946 --> 00:18:35,579
-Oh, how did he get that thing back again? That was a bit of a cheek, wasn't it? Er, seeing if the Governor was the guy that you got the button off?
-
-167
-00:18:35,845 --> 00:18:36,516
-Doctor?
-
-168
-00:18:36,730 --> 00:18:37,131
-Mmm?
-
-169
-00:18:37,318 --> 00:18:39,425
-When he was talking to you, you were staring at the other man?
-
-170
-00:18:39,625 --> 00:18:42,857
-Yes, very rude of me, wasn't it? Terrible manners.
-
-171
-00:18:44,703 --> 00:18:50,107
-To tell you the truth, I was studying his reactions - seeing if he agreed with the story.
-
-172
-00:18:50,330 --> 00:18:51,131
-Did he?
-
-173
-00:18:51,400 --> 00:18:52,765
-Must have a look at that capsule.
-
-174
-00:18:52,970 --> 00:18:55,678
-You know, you wanna watch you don't take this Examiner stuff a bit too far.
-
-175
-00:18:55,931 --> 00:18:58,409
-Our answers must come from that mercury swamp.
-
-176
-00:18:58,582 --> 00:19:00,330
-'Cos at least one bloke ain't gonna be fooled.
-
-177
-00:19:01,100 --> 00:19:05,083
-When Bragen found us, he definitely said space capsule.
-
-178
-00:19:05,367 --> 00:19:08,306
-Look, you're not going to fool the guy that did the real Examiner in!
-
-179
-00:19:16,020 --> 00:19:20,584
-Bragen! What's all this nonsense about having to have a pass to see the Examiner?
-
-180
-00:19:20,833 --> 00:19:21,893
-It's the Governor's idea.
-
-181
-00:19:22,117 --> 00:19:23,041
-Surely it doesn't apply to me?
-
-182
-00:19:23,195 --> 00:19:27,144
-It's not my order, Quinn. I expect the Governor wants to keep people away from him.
-
-183
-00:19:27,313 --> 00:19:28,877
-It sounded like one of your red-tape ideas.
-
-184
-00:19:29,020 --> 00:19:30,405
-It has nothing to do with me.
-
-185
-00:19:31,287 --> 00:19:32,237
-Right!
-
-186
-00:19:37,142 --> 00:19:37,703
-Oh!
-
-187
-00:19:38,041 --> 00:19:39,007
-Sorry, Janley.
-
-188
-00:19:39,179 --> 00:19:39,740
-My fault.
-
-189
-00:19:39,916 --> 00:19:40,871
-Are you all right?
-
-190
-00:19:41,020 --> 00:19:44,121
-Yes. Lesterson's just cleared me out of his lab.
-
-191
-00:19:45,857 --> 00:19:48,019
-Is the Examiner going to let him open the capsule?
-
-192
-00:19:48,207 --> 00:19:52,885
-I don't know. I'm on my way there now... if I can push past Bragen's army of layabouts.
-
-193
-00:20:20,661 --> 00:20:21,559
+89
+00:09:33,261 --> 00:09:34,159
 Where did you get this?
 
-194
-00:20:22,021 --> 00:20:23,493
+90
+00:09:34,621 --> 00:09:36,093
 It dropped from the capsule.
 
-195
-00:20:23,702 --> 00:20:24,220
+91
+00:09:36,100 --> 00:09:36,450
 Dropped?
 
-196
-00:20:24,399 --> 00:20:37,560
-Yes, when it was being hauled into the laboratory. But, you can see!
-This metal could revolutionise space travel.
-That's why I'm insisting that we open it.
-Well, who knows what other marvels there may be inside?
+92
+00:09:36,499 --> 00:09:49,660
+Yes, when it was being hauled into the laboratory. But, you can see! This metal could revolutionise space travel. That's why I'm insisting that we open it. Well, who knows what other marvels there may be inside?
 
-197
-00:20:37,815 --> 00:20:40,162
+93
+00:09:49,915 --> 00:09:52,262
 But Lesterson, I didn't think you could open it?
 
-198
-00:20:40,679 --> 00:20:48,831
+94
+00:09:52,779 --> 00:10:00,931
 Well, I have a theory. I'm convinced that the opening mechanism on the other side is either here, or here.
 
-199
-00:20:49,515 --> 00:20:50,780
+95
+00:10:01,615 --> 00:10:02,880
 Extermination...
 
-200
-00:20:51,014 --> 00:20:56,049
+96
+00:10:03,114 --> 00:10:08,149
 Now, my theory is that I can insert a laser ray in this ridge here.
 
-201
-00:20:56,768 --> 00:21:01,408
+97
+00:10:08,868 --> 00:10:13,508
 The ray spreads, fuses the opening device and gets us in.
 
-202
-00:21:02,386 --> 00:21:04,894
+98
+00:10:14,486 --> 00:10:16,994
 Examiner, I shall have to make it your responsibility.
 
-203
-00:21:05,398 --> 00:21:08,102
+99
+00:10:17,498 --> 00:10:20,202
 A laser? Why not? It shouldn't be too difficult.
 
-204
-00:21:15,652 --> 00:21:18,285
+100
+00:10:27,752 --> 00:10:30,385
 Well, we'll try the other side.
 
-205
-00:21:44,296 --> 00:21:47,803
+101
+00:10:47,396 --> 00:10:50,903
 Hmm, it's a bit... disappointing.
 
-206
-00:21:48,171 --> 00:21:50,392
+102
+00:10:51,271 --> 00:10:53,492
 Not really. This is just an entry bay, isn't it?
 
-207
-00:21:50,600 --> 00:21:52,708
+103
+00:10:53,700 --> 00:10:55,808
 Yes, I... I suppose so.
 
-208
-00:21:53,074 --> 00:21:54,560
+104
+00:10:56,174 --> 00:10:57,660
 Well, this doesn't get us very far does it?
 
-209
-00:21:54,831 --> 00:21:57,751
+105
+00:10:57,931 --> 00:11:00,851
 Ah, getting into the rest of the capsule will take time, Governor.
 
-210
-00:21:57,970 --> 00:22:00,108
+106
+00:11:01,070 --> 00:11:03,208
 Well, can't you use that torch thing again? That must be an opening door.
 
-211
-00:22:00,329 --> 00:22:03,244
+107
+00:11:03,429 --> 00:11:06,344
 Well, I should have to measure it up and find out where the lock mechanism is.
 
-212
-00:22:03,440 --> 00:22:05,012
+108
+00:11:06,540 --> 00:11:08,112
 And I think we'll leave if for tonight.
 
-213
-00:22:05,264 --> 00:22:05,823
+109
+00:11:08,364 --> 00:11:08,923
 Leave it?
 
-214
-00:22:06,057 --> 00:22:08,012
+110
+00:11:09,157 --> 00:11:11,112
 Leave it for tonight? But what did we come here for?
 
-215
-00:22:08,274 --> 00:22:09,630
+111
+00:11:11,374 --> 00:11:12,730
 That is my decision, Governor.
 
-216
-00:22:09,827 --> 00:22:11,013
+112
+00:11:12,927 --> 00:11:14,113
 But, good heavens above, man!
 
-217
-00:22:11,301 --> 00:22:13,103
+113
+00:11:14,401 --> 00:11:16,203
 Two hundred years, you say, this has been buried?
 
-218
-00:22:13,343 --> 00:22:16,566
+114
+00:11:16,443 --> 00:11:19,666
 Oh, at least. Now, there must be something in the inner compartment.
 
-219
-00:22:16,779 --> 00:22:19,390
+115
+00:11:19,879 --> 00:11:22,490
 We shall be able to find out where it came from originally.
 
-220
-00:22:19,605 --> 00:22:21,235
+116
+00:11:22,705 --> 00:11:24,335
 It didn't come from this planet - Vulcan.
 
-221
-00:22:21,416 --> 00:22:24,051
+117
+00:11:24,516 --> 00:11:27,151
 Oh no, no, no. The metal is quite alien.
 
-222
-00:22:24,338 --> 00:22:30,071
+118
+00:11:27,438 --> 00:11:33,171
 Alien, yes. Very alien. Goodnight.
 
-223
-00:22:33,100 --> 00:22:34,680
+119
+00:11:36,200 --> 00:11:37,780
 What's he up to now?
 
-224
-00:22:34,930 --> 00:22:36,764
+120
+00:11:38,030 --> 00:11:39,864
 Ben, we're not going to let him out of our sight.
 
-225
-00:22:41,300 --> 00:22:47,545
+121
+00:11:43,800 --> 00:11:50,045
 Well, Lesterson, you got your way. Was it worth sending for this Examiner? This idiotic Examiner?
 
-226
-00:22:47,855 --> 00:22:49,588
+122
+00:11:50,355 --> 00:11:52,088
 I didn't send for him. I thought you did.
 
-227
-00:22:49,834 --> 00:22:53,190
+123
+00:11:52,334 --> 00:11:55,690
 Why don't you let me talk to the Examiner, Hensell? I can find out what's he's here for.
 
-228
-00:22:53,363 --> 00:22:59,820
+124
+00:11:55,863 --> 00:12:02,120
 No, no, no, no, you keep away from him. We'll leave him to work with Lesterson here. We've all got enough to do without having to worry about some amateur critic from Earth interfering.
 
-229
-00:23:00,529 --> 00:23:01,433
+125
+00:12:02,129 --> 00:12:02,833
 But with five minutes, I _...
 
-230
-00:23:01,631 --> 00:23:10,497
+126
+00:12:02,931 --> 00:12:11,397
 You heard what I said, Quinn. You won't mind keeping the Examiner busy, Lesterson? I don't mind what you do with him so long as you keep his nose... out of our business.
 
-231
-00:23:10,692 --> 00:23:11,541
+127
+00:12:11,592 --> 00:12:12,441
 Yes. All right.
 
-232
-00:23:11,846 --> 00:23:13,452
+128
+00:12:12,746 --> 00:12:14,352
 All right. Well, we shall talk about it tomorrow.
 
-233
-00:23:27,555 --> 00:23:28,141
+129
+00:12:28,455 --> 00:12:29,041
 Ben!
 
-234
-00:23:28,617 --> 00:23:29,459
+130
+00:12:29,517 --> 00:12:30,359
 What?
 
-235
-00:23:29,919 --> 00:23:30,909
+131
+00:12:30,819 --> 00:12:31,809
 Shh! He's in the corridor.
 
-236
-00:23:31,098 --> 00:23:31,669
+132
+00:12:31,998 --> 00:12:32,569
 Who is?
 
-237
-00:23:31,905 --> 00:23:33,294
+133
+00:12:32,805 --> 00:12:34,194
 The Doctor, you clod! Come on - quick!
 
-238
-00:23:39,089 --> 00:23:40,963
+134
+00:12:39,989 --> 00:12:41,863
 He's going towards Lesterson's lab.
 
-239
-00:23:41,228 --> 00:23:42,895
+135
+00:12:42,128 --> 00:12:43,795
 Of course - to the space capsule!
 
-240
-00:23:43,212 --> 00:23:43,901
+136
+00:12:44,112 --> 00:12:44,801
 Come on.
 
-241
-00:25:00,387 --> 00:25:05,811
+137
+00:13:44,987 --> 00:13:50,411
 Polly, Ben, come in and meet the Daleks.
 
-242
-00:25:06,116 --> 00:25:06,901
+138
+00:13:50,716 --> 00:13:51,501
 What?
 
-243
-00:25:07,187 --> 00:25:08,583
+139
+00:13:51,787 --> 00:13:53,183
 The Daleks.
 
-244
-00:25:27,178 --> 00:25:28,636
+140
+00:14:11,778 --> 00:14:13,236
 You could have opened this before.
 
-245
-00:25:28,936 --> 00:25:33,661
-These two pieces of metal are identical. The Doctor got one of them from the Daleks himself.
+141
+00:14:13,536 --> 00:14:15,261
+These two pieces of metal are identical.
 
-246
-00:25:33,892 --> 00:25:36,016
-Why do you keep saying the Doctor if you mean you?
+142
+00:14:15,687 --> 00:14:18,167
+I knew I should find them here.
 
-247
-00:25:38,387 --> 00:25:41,867
-I knew I should find them here - I knew it.
-
-248
-00:25:43,422 --> 00:25:45,962
+143
+00:14:18,722 --> 00:14:21,262
 Ah, they look harmless, not very lively.
 
-249
-00:25:46,203 --> 00:25:51,579
-What do you think? Two hundred years in a swamp and you wouldn't look very lively either. Nothing could live through that, could it?
+144
+00:14:21,503 --> 00:14:26,879
+Two hundred years in a swamp and you wouldn't look very lively either. Nothing could live through that, could it?
 
-250
-00:25:51,820 --> 00:25:52,592
+145
+00:14:27,120 --> 00:14:27,892
 Live?
 
-251
-00:25:52,822 --> 00:25:54,351
+146
+00:14:28,122 --> 00:14:29,651
 Nothing human, no.
 
-252
-00:25:55,807 --> 00:25:57,519
+147
+00:14:30,107 --> 00:14:31,519
 Doctor, look!
 
-253
-00:25:58,417 --> 00:25:59,874
+148
+00:14:32,717 --> 00:14:34,174
 What's the matter?
 
-254
-00:26:04,609 --> 00:26:08,957
+149
+00:14:35,909 --> 00:14:40,257
 Well, there were three Daleks in here! What's happened to the other one?
 
+150
+00:14:43,354 --> 00:14:44,339
+Doctor, look!
+
+151
+00:14:50,459 --> 00:14:52,612
+A light. A torch outside.
+
+152
+00:14:53,935 --> 00:14:54,833
+Did you see it?
+
+153
+00:14:55,081 --> 00:14:55,936
+Quickly Ben, quickly!
+
+154
+00:14:56,147 --> 00:14:57,054
+What was it?
+
+155
+00:15:16,721 --> 00:15:17,859
+Can you answer me?
+
+156
+00:15:18,432 --> 00:15:21,779
+It was a sort of disembodied hand. A sort of claw. It was horrible!
+
+157
+00:15:39,690 --> 00:15:41,253
+No. No, there's nothing.
+
+158
+00:15:41,461 --> 00:15:43,260
+You were right - there were three Daleks.
+
+159
+00:15:44,815 --> 00:15:46,363
+Do you know what it was?
+
+160
+00:15:55,155 --> 00:15:56,848
+If there were three, who moved it?
+
+161
+00:15:57,090 --> 00:15:59,219
+Don't ask me. Lesterson?
+
+162
+00:15:59,643 --> 00:16:01,584
+But he hadn't opened the capsule.
+
+163
+00:16:01,828 --> 00:16:04,805
+Now he said he hadn't opened it. Lets get our facts straight.
+
+164
+00:16:05,064 --> 00:16:07,705
+Aha, excellent! Good thinking, good thinking.
+
+165
+00:16:09,937 --> 00:16:11,701
+What, does that mean you think he's been inside?
+
+166
+00:16:12,035 --> 00:16:14,132
+Perhaps he's been experimenting on the Daleks? Ah.
+
+167
+00:16:15,070 --> 00:16:18,688
+But... but they're things I... I mean they're dead. They must be!
+
+168
+00:16:18,937 --> 00:16:20,449
+This light is dead. Now the watch!
+
+169
+00:16:22,729 --> 00:16:24,933
+Do you mean these things just need power?
+
+170
+00:16:25,218 --> 00:16:38,548
+Now, Lesterson's fanatic. The Governor's jealous of his own position. What does that suggest to you? Dunno. Hadn't thought about it. That all is not well with this colony. Add to that one Dalek!
+
+171
+00:16:38,837 --> 00:16:41,164
+Oh, blimey, you don't half make mountains, don't you? One Dalek?
+
+172
+00:16:41,365 --> 00:16:44,633
+Yes! All that is needed to wipe out this entire colony.
+
+173
+00:16:53,741 --> 00:16:54,678
+Examiner?
+
+174
+00:16:59,321 --> 00:17:01,511
+Bragen, don't you ever knock before you enter a room?
+
+175
+00:17:01,735 --> 00:17:06,362
+I'm sorry if I disturbed you. I was expecting to find the Examiner here - not you Quinn.
+
+176
+00:17:06,588 --> 00:17:07,629
+Well, he's not here.
+
+177
+00:17:07,988 --> 00:17:15,013
+The Governor gave express instructions that you were not to contact the Examiner - I find you here. I'm sure you can offer some suitable explanation.
+
+178
+00:17:15,293 --> 00:17:17,165
+I can. But not to you.
+
+179
+00:17:18,017 --> 00:17:20,379
+The Examiner is missing. He must be found immediately.
+
+180
+00:17:21,104 --> 00:17:23,822
+Doctor, look, if they're that dangerous, what are you going to do about it?
+
+181
+00:17:24,247 --> 00:17:36,390
+Save my breath. Would Lesterson listen? Uh, uh. Lesterson listen. Lesterson listen, Lesterson listen. Exercises the tongue. Try it! Lesterson listen, Lesterson listen, Lesterson listen...
+
+182
+00:17:36,719 --> 00:17:40,678
+Look, they think you're the Examiner, order them to destroy the Daleks! Well, chuck your weight about.
+
+183
+00:17:40,886 --> 00:17:44,572
+Lesterson listen, Lesterson listen, Lesterson listen, Lesterson listen, Lesterson listen, Lesterson listen...
+
+184
+00:17:44,806 --> 00:17:46,327
+Lesterson listen, Lesterson listen, Lesterson listen...
+
+185
+00:17:46,526 --> 00:17:47,867
+What do you think you're doing in here?
+
+186
+00:17:48,097 --> 00:17:49,470
+Listen, listen...
+
+187
+00:17:50,625 --> 00:17:51,904
+Who gave you permission?
+
+188
+00:17:52,440 --> 00:17:54,346
+Read this! Aloud!
+
+189
+00:17:54,757 --> 00:17:56,379
+Accord every access.
+
+190
+00:17:56,732 --> 00:18:02,005
+Exactly! It doesn't say 'except your laboratory' anywhere does it? Unless it's in micro-print.
+
+191
+00:18:02,255 --> 00:18:03,775
+I should have been asked first!
+
+192
+00:18:04,675 --> 00:18:06,221
+Where is the third Dalek?
+
+193
+00:18:06,421 --> 00:18:07,776
+I don't know what you're talking about!
+
+194
+00:18:08,028 --> 00:18:15,454
+You opened up the capsule without permission. You found the inner compartment containing three Daleks, you took one of them away and you hid it!
+
+195
+00:18:15,664 --> 00:18:18,397
+Hid it? What... what nonsense!
+
+196
+00:18:18,627 --> 00:18:20,209
+May I ask what all this is about?
+
+197
+00:18:21,866 --> 00:18:25,613
+We opened an inner compartment in the capsule, and Lesterson had already been in there.
+
+198
+00:18:25,865 --> 00:18:27,088
+I don't deny that.
+
+199
+00:18:27,269 --> 00:18:28,333
+And he's nicked a Dalek!
+
+200
+00:18:28,538 --> 00:18:29,371
+Dalek?
+
+201
+00:18:29,561 --> 00:18:33,749
+It's the name the Examiner has given to two metal creations that I've discovered inside the capsule.
+
+202
+00:18:33,909 --> 00:18:35,170
+And they're dangerous. Evil.
+
+203
+00:18:35,344 --> 00:18:37,820
+Lumps of metal! Quite inactive.
+
+204
+00:18:38,014 --> 00:18:40,722
+That's what you think, mate. If you'd seen...
+
+205
+00:18:42,010 --> 00:18:52,767
+I consider it's my duty as a scientist to... to examine and investigate these objects. Now please, all of you, keep out of my laboratory. Keep your hands off my experiments!
+
+206
+00:18:52,937 --> 00:18:58,345
+Those 'lumps of metal' - Daleks - I want them broken up, or melted down. Up, or down, I don't care which, but destroyed!
+
+207
+00:18:58,518 --> 00:18:59,717
+I refuse to allow it.
+
+208
+00:19:02,814 --> 00:19:05,196
+I'm an Earth Examiner - I demand it.
+
+209
+00:19:05,412 --> 00:19:06,806
+You're exceeding your authority.
+
+210
+00:19:07,049 --> 00:19:10,605
+Perhaps we should ask the Governor about that? I wish to see him immediately!
+
+211
+00:19:10,810 --> 00:19:11,869
+That might be difficult.
+
+212
+00:19:12,040 --> 00:19:13,754
+But not impossible. Ben, Polly.
+
+213
+00:19:20,383 --> 00:19:21,403
+Could he stop the experiments?
+
+214
+00:19:22,067 --> 00:19:31,112
+I don't know. It's none of your business. You go and get Janley and then come back here. We haven't... haven't got any time to waste. Now go on man, quickly, quickly!
+
+215
+00:19:54,107 --> 00:19:59,041
+I'd advise a little discretion in your investigations. It's not a very good time, just now.
+
+216
+00:19:59,582 --> 00:20:00,663
+With all these disturbances...
+
+217
+00:20:00,955 --> 00:20:01,630
+Disturbances?
+
+218
+00:20:01,891 --> 00:20:12,935
+Yes, minor acts of sabotage, rebel cliques, secret newspapers, nothing important you understand, but it keeps the Governor busy. I have no doubt he'll tell you about it himself when I arrange your meeting with him.
+
+219
+00:20:13,159 --> 00:20:14,113
+When will that be?
+
+220
+00:20:14,417 --> 00:20:20,251
+Ah, he's going on a tour of the perimeter of the colony. I'll... I'll find out if he can see you before he goes.
+
+221
+00:20:20,799 --> 00:20:21,621
+Thank you.
+
+222
+00:20:37,405 --> 00:20:38,382
+Ah, it's a...
+
+223
+00:20:44,710 --> 00:20:53,382
+He won't stop me experimenting. There must be some way to bring you back to life - and I'm going to find it.
+
+224
+00:20:53,876 --> 00:20:55,605
+Here, I bet old Charlie Bragen did it!
+
+225
+00:20:55,881 --> 00:20:56,433
+Charlie?
+
+226
+00:20:56,644 --> 00:20:58,048
+Well Fred wouldn't suit him would it?
+
+227
+00:20:58,325 --> 00:21:02,029
+If he did do it, do you think it was his own idea? I mean - he could have been under orders.
+
+228
+00:21:02,293 --> 00:21:05,354
+You mean from the Governor? Ah, I don't know. What do you think, Doctor?
+
+229
+00:21:05,571 --> 00:21:15,601
+Oh, yes. Yes of course. Let's... let's consider this button for a moment. It's the only clue we've got to the murderer of the Examiner. The real Examiner.
+
+230
+00:21:15,936 --> 00:21:18,401
+Hmm. And who asked for him to come?
+
+231
+00:21:18,665 --> 00:21:21,618
+Hmm. Well, Lesterson's crackers about that capsule. He wouldn't want anyone nosing about.
+
+232
+00:21:21,874 --> 00:21:24,002
+Bragen said the Governor's been having trouble.
+
+233
+00:21:24,248 --> 00:21:29,344
+Naw, rule him out. Governors are all the same, he wouldn't ask for help. If he sent the word it would look as if he couldn't do the job properly.
+
+234
+00:21:29,613 --> 00:21:30,354
+Yes.
+
+235
+00:21:32,544 --> 00:21:35,522
+Oh, well, I vote we go back to the TARDIS, I've had enough of this dump.
+
+236
+00:21:35,741 --> 00:21:38,209
+Have you? What about the Daleks?
+
+237
+00:21:38,482 --> 00:21:39,572
+Well, they're dead.
+
+238
+00:21:39,758 --> 00:21:42,796
+Well, what about that thing we saw in the capsule - that was alive all right.
+
+239
+00:21:43,289 --> 00:21:44,880
+Well, can't explain that.
+
+240
+00:21:45,116 --> 00:21:49,695
+I can. And that's why we have to stay!
+
+241
+00:21:51,299 --> 00:21:58,374
+Ugly-looking brutes aren't they? Hey, what's he want to muck about with them for? Leave well alone, that's what I say.
+
+242
+00:21:58,586 --> 00:22:04,307
+You're a fine one to be a research assistant. Leave well alone? There'll be no progress on this planet with people like you around.
+
+243
+00:22:04,517 --> 00:22:13,942
+We're doing all right as we are. Or we were until your lot came along stirring things up. You won't get away with it, you know. The Governor knows all about you rebels. He'll smash the lot of you when he's ready.
+
+244
+00:22:14,507 --> 00:22:15,098
+Governor?
+
+245
+00:22:15,464 --> 00:22:16,202
+Yeah, the Governor!
+
+246
+00:22:16,401 --> 00:22:17,071
+He couldn't smash...
+
+247
+00:22:17,294 --> 00:22:37,654
+Will you be quiet! Where do you both think you are? This is a scientific laboratory. Kindly keep your politics out of it. Come on, Resno. Man, get on with it. We haven't got all day. We've got to get this working before the Examiner stops us. He's got some phobia about these.. these Daleks?
+
+248
+00:22:37,906 --> 00:22:41,643
+I know the misery they cause - the destruction.
+
+249
+00:22:43,871 --> 00:22:46,912
+Well? Where is the Governor? What did he say?
+
+250
+00:22:47,170 --> 00:22:52,048
+He sends his apologies Examiner. He can't see you tonight, but he hopes to see you first thing in the morning.
+
+251
+00:22:52,262 --> 00:22:55,574
+Well, it might not wait that long, Char... ah, Bragen.
+
+252
+00:22:55,844 --> 00:22:56,909
+It will have to.
+
+253
+00:22:57,225 --> 00:22:58,092
+Excuse me.
+
+254
+00:22:58,192 --> 00:22:58,815
+Where are you going?
+
 255
-00:26:12,816 --> 00:26:13,795
+00:22:59,108 --> 00:23:00,181
+To see the Governor, of course.
+
+256
+00:23:00,367 --> 00:23:06,498
+I'm afraid that's not possible. Once his door is closed, no-one, not even you, Examiner, is allowed into his room!
+
+257
+00:23:10,213 --> 00:23:11,098
+Very well.
+
+258
+00:23:11,381 --> 00:23:14,163
+Thank you. Until the morning then.
+
+259
+00:23:17,249 --> 00:23:18,346
+What happens now?
+
+260
+00:23:19,608 --> 00:23:24,153
+I shall radio Earth. I'll get Earth to back me.
+
+261
+00:23:25,106 --> 00:23:26,727
+Connecting now.
+
+262
+00:23:29,996 --> 00:23:31,223
+All connections responding.
+
+263
+00:23:32,522 --> 00:23:33,441
+Nothing at all?
+
+264
+00:23:33,683 --> 00:23:34,407
+No.
+
+265
+00:23:38,373 --> 00:23:39,395
+It's moving!
+
+266
+00:23:42,890 --> 00:23:56,772
+Now, note this, Janley. Number one attachment with sucker stick responding. Number two attachment not moving. Number three attachment with lens responding. Watch these meters, Resno.
+
+267
+00:23:57,025 --> 00:23:57,841
+Still responding.
+
+268
+00:23:58,114 --> 00:24:03,800
+Now, it's reasonable to assume that this the sucker stick acts like some kind of a hand.
+
+269
+00:24:04,036 --> 00:24:14,197
+It's all right - don't be alarmed. We've only introduced temporary power. We shall have to be able to open it up before we could find how it works permanently.
+
+270
+00:24:14,424 --> 00:24:15,746
+It's a bit frightening.
+
+271
+00:24:16,045 --> 00:24:21,856
+Yes. Now, I cannot think what this short stubby arm is for.
+
+272
+00:24:22,157 --> 00:24:23,821
+Could the lens attachment be an eye?
+
+273
+00:24:24,067 --> 00:24:42,407
+Yes, yes, yes, yes. Now it's quite possible that this, ah, Dalek... Now there must be some kind of directing influence. There may even be a simplified brain. Positronic, I shouldn't wonder. If only we could open it up!
+
+274
+00:24:45,138 --> 00:24:45,988
+Now what?
+
+275
+00:24:46,250 --> 00:24:47,544
+Everything functioning here.
+
+276
+00:24:47,815 --> 00:24:51,935
+Yes. Well, perhaps the power is leaking away somewhere. We'll... we'll try again.
+
+277
+00:25:16,950 --> 00:25:17,828
+Look at the eye-stick!
+
+278
+00:25:18,206 --> 00:25:19,037
+It's watching us!
+
+279
+00:25:19,414 --> 00:25:20,302
+Don't be absurd.
+
+280
+00:25:20,521 --> 00:25:21,443
+It was. I saw it!
+
+281
+00:25:21,684 --> 00:25:29,721
+You can't use the phrase 'watching us'. You'll have us believing that th... the thing has intelligence next. Now, get on with your work, man!
+
+282
+00:26:00,523 --> 00:26:01,209
+I know you're there.
+
+283
+00:26:02,319 --> 00:26:06,409
+Examiner, thank goodness, it's you. I've been trying to talk to you ever since you got here.
+
+284
+00:26:06,511 --> 00:26:10,108
+What's happening here? You again.
+
+285
+00:26:10,334 --> 00:26:11,350
+What do you want?
+
+286
+00:26:11,556 --> 00:26:13,322
+I found the operator unconscious.
+
+287
+00:26:13,569 --> 00:26:18,623
+So did I! I was just looking at him, when I heard someone move. It must have been you.
+
+288
+00:26:19,397 --> 00:26:20,338
+And those?
+
+289
+00:26:21,827 --> 00:26:23,922
+I picked them up. What is all this?
+
+290
+00:26:24,162 --> 00:26:25,635
+The cables have been cut.
+
+291
+00:26:27,179 --> 00:26:31,875
+This is serious. It's not just our own communications. We're cut off from Earth as well.
+
+292
+00:26:31,916 --> 00:26:33,609
+The only people who'd want to do that are the rebels.
+
+293
+00:26:33,864 --> 00:26:36,596
+Those muscle boys of yours had any brains, they'd stop things like this.
+
+294
+00:26:37,905 --> 00:26:41,681
+And you say you picked these up? I suggest that you were sabotaging the communications...
+
+295
+00:26:41,921 --> 00:26:42,496
+That's a lie!
+
+296
+00:26:42,727 --> 00:26:46,133
+...having first attacked one of the engineers. I'd detain the Governor on evidence like that.
+
+297
+00:26:46,414 --> 00:26:48,652
+I hope you're not thinking of detaining me, Bragen.
+
+298
+00:26:48,843 --> 00:26:52,490
+I've no option. I could hardly let you run around loose after this, could I? 
+
+299
+00:26:53,024 --> 00:26:56,781
+All right - you win this round, Bragen. We'll see what it looks like in front of the Governor.
+
+300
+00:26:58,560 --> 00:26:59,897
+All connections responding.
+
+301
+00:27:00,193 --> 00:27:00,760
+Excellent.
+
+302
+00:27:00,995 --> 00:27:01,739
+It's working!
+
+303
+00:27:01,957 --> 00:27:07,947
+Excellent. Film it, film it now, Resno. And, note the readings, Janley.
+
+304
+00:27:11,592 --> 00:27:13,260
+It seems to be interested in you, Resno.
+
+305
+00:27:14,938 --> 00:27:16,245
+What's the matter with you man?
+
+306
+00:27:16,895 --> 00:27:21,255
+I tell you it's intelligent. It's watching me, Lesterson. Weighing me up! I can sense it!
+
+307
+00:27:21,525 --> 00:27:22,400
+Don't be a fool.
+
+308
+00:27:22,620 --> 00:27:24,574
+I don't like it I tell you. I don't know what these things can do.
+
+309
+00:27:24,775 --> 00:27:30,566
+No, and we never shall know, shall we, unless we take film of every reaction. Now get on with your work, man!
+
+310
+00:27:40,457 --> 00:27:41,153
+Resno!
+
+311
+00:27:47,956 --> 00:27:48,864
+It's all right. He isn't dead.
+
+312
+00:27:49,220 --> 00:27:49,925
+What happened?
+
+313
+00:27:50,287 --> 00:27:51,516
+Knocked out by the shock waves.
+
+314
+00:27:53,616 --> 00:27:56,378
+We must get him to the hospital. I'll go and get help.
+
+315
+00:28:20,205 --> 00:28:22,189
+But we've got to defend Quinn.
+
+316
+00:28:22,582 --> 00:28:25,401
+Yeah, I know. He's innocent until he's proved guilty. But he is guilty.
+
+317
+00:28:25,616 --> 00:28:27,006
+He's the Deputy Governor!
+
+318
+00:28:27,253 --> 00:28:33,978
+So what? I had a headmaster once who got nicked for not paying his bus fare! And then there's the motive, don't forget the motive.
+
+319
+00:28:34,187 --> 00:28:35,346
+Like what for instance?
+
+320
+00:28:35,591 --> 00:28:39,165
+Well, he's the Deputy Governor, right? Maybe he wants to be Governor.
+
+321
+00:28:39,425 --> 00:28:40,817
+Oh, that's ridiculous!
+
+322
+00:28:41,020 --> 00:28:47,374
+Well, the jacket button wasn't! And he was caught red-handed in the Communications Room with a pair of pliers, and don't tell me he was plucking his eye-brows either.
+
+323
+00:28:47,592 --> 00:28:51,167
+Look, there are some people you know are all right. You just know by looking at them.
+
+324
+00:28:51,510 --> 00:28:55,541
+Good morning. The enquiry is about to begin. I've been sent to escort you.
+
+325
+00:28:57,595 --> 00:29:14,051
+I am sorry I couldn't see you earlier, Examiner. Please sit down. Well, Quinn, I don't like this anymore than you do. What have you been up to?
+
+326
+00:29:14,443 --> 00:29:16,036
+Nothing. Absolutely nothing.
+
+327
+00:29:16,154 --> 00:29:20,220
+Well, what about Bragen's report then? These are facts, Quinn. Now, what have you got to say about it?
+
+328
+00:29:20,650 --> 00:29:22,417
+Does the engineer say I hit him?
+
+329
+00:29:22,731 --> 00:29:23,967
+How could he if he was hit from behind?
+
+330
+00:29:24,176 --> 00:29:25,333
+Then its only circumstantial evidence.
+
+331
+00:29:25,534 --> 00:29:31,289
+The Examiner was also attacked in the mercury swamp. We have a button from your jacket, found in the Examiner's hand.
+
+332
+00:29:32,136 --> 00:29:33,487
+I can't explain that.
+
+333
+00:29:33,790 --> 00:29:34,748
+I'm sure you can't!
+
+334
+00:29:35,130 --> 00:29:36,065
+Examiner.
+
+335
+00:29:36,671 --> 00:29:41,236
+You mentioned to Bragen that these machines of Lesterson's... What do you call them?
+
+336
+00:29:41,516 --> 00:29:43,298
+I call them what they are - Daleks.
+
+337
+00:29:43,546 --> 00:29:48,047
+Ah, yes, yes, yes, Daleks. You say they could be a motive for destroying our communications.
+
+338
+00:29:48,360 --> 00:29:49,109
+I do.
+
+339
+00:29:49,473 --> 00:29:51,725
+Lesterson, this is a special enquiry. Now please.
+
+340
+00:29:51,821 --> 00:29:53,739
+This won't wait. You won't be disappointed!
+
+341
+00:29:53,747 --> 00:29:54,780
+You heard what I said Lesterson!
+
+342
+00:29:54,812 --> 00:29:59,532
+Governor, I've just completed a... an experiment which could revolutionise the whole colony. Bear with me.
+
+343
+00:29:59,730 --> 00:30:01,929
+Lesterson, what have you done? What have you done?
+
+344
+00:30:02,188 --> 00:30:05,584
+I'll show you. Janley, now!
+
+345
+00:30:40,669 --> 00:30:44,100
+It recognised the Doctor. It recognised him.
+
+346
+00:30:44,235 --> 00:30:46,342
+What's the matter, Doctor? Are you all right?
+
+347
+00:30:46,610 --> 00:30:49,882
+The fools. The stupid fools.
+
+348
+00:30:50,294 --> 00:30:52,902
+You're scared! What can it do?
+
+349
+00:30:53,309 --> 00:30:54,531
+Nothing yet.
+
+350
+00:30:54,904 --> 00:30:58,314
+It knew who you were! It sounds crazy, but it did.
+
+351
+00:30:58,574 --> 00:30:59,415
+Knew who I was.
+
+352
+00:31:00,745 --> 00:31:02,082
+The Dalek knows who you are.
+
+353
+00:31:02,543 --> 00:31:08,887
+(This creation is called, I understand, a Dalek. Now, look at it. I have merely given it electrical power. But it is capable of storing it.) Moreover, it responds to orders. Turn around.
+
+354
+00:31:15,023 --> 00:31:17,957
+Move that chair.
+
+355
+00:31:25,405 --> 00:31:38,380
+Stop. You see? Well, just think what this could do for our... our mining program, our processing, packaging. Dozens of labour jobs, Governor. It may even supply the end to all this Colony's problems.
+
+356
+00:31:38,739 --> 00:31:43,250
+Yes, it will end the colony's problems, because it will end the colony!
+
+357
+00:31:43,714 --> 00:31:48,249
+I am your servant.
+
+358
+00:31:49,423 --> 00:31:56,144
+It... it spoke! Janley, did you hear it? It can actually talk!
+
+359
+00:31:56,482 --> 00:32:12,888
+It can do many things, Lesterson. But the thing it does most efficiently is exterminate human beings. It destroys them, without mercy, without conscience. It destroys them. Utterly. Completely. It destroys them.
+
+360
+00:32:13,686 --> 00:32:18,081
+I am your servant. I am your servant. I am your servant. I am your servant. I am your servant.
+
+361
+00:32:00,761 --> 00:32:17,098
+I am your servant. I am your servant. I am your servant. I am your servant.
+
+362
+00:32:18,053 --> 00:32:21,318
+So Lesterson, they're even capable of speech!
+
+363
+00:32:21,870 --> 00:32:26,670
+Yes. But then, why not? After all, they have a certain intelligence.
+
+364
+00:32:26,887 --> 00:32:27,735
+Yes I know, but...
+
+365
+00:32:27,980 --> 00:32:31,541
+But is... is it... it is... an intelligence that we can control.
+
+366
+00:32:31,932 --> 00:32:34,922
+So what you want is permission to continue your experiments?
+
+367
+00:32:35,157 --> 00:32:39,900
+Governor, think what it would mean if we were to set it to work in the mines. It could double our production overnight!
+
+368
+00:32:40,112 --> 00:32:42,095
+Consider the effects it could have on our whole economy.
+
+369
+00:32:42,376 --> 00:32:49,457
+Yes, and the effect of that on Earth... Yes. Yes, they could be very grateful.
+
+370
+00:32:49,781 --> 00:32:53,278
+I shall stop you. I will!
+
+371
+00:32:53,859 --> 00:32:55,905
+All right Lesterson, permission granted.
+
+372
+00:32:56,349 --> 00:32:59,255
+Permission? Permission for what?
+
+373
+00:32:59,545 --> 00:33:01,261
+To continue my work, Examiner.
+
+374
+00:33:01,908 --> 00:33:05,803
+But... But didn't you all hear what I said? The Daleks must be destroyed!
+
+375
+00:33:05,830 --> 00:33:07,095
+Ho, ho. Never!
+
+376
+00:33:07,413 --> 00:33:12,597
+Very well. If not by my order - then by Earth's! Come Ben, Polly.
+
+377
+00:33:14,091 --> 00:33:15,483
+You're my servant, are you?
+
+378
+00:33:16,369 --> 00:33:18,886
+I... I am.
+
+379
+00:33:19,598 --> 00:33:33,070
+Very well. Immobilise yourself. Go on. I order it! Immediately!
+
+380
+00:33:37,892 --> 00:33:38,620
+Huh!
+
+381
+00:33:42,428 --> 00:33:43,527
+Lesterson.
+
+382
+00:33:44,470 --> 00:33:48,326
+Why did you stop obeying? You were given an order.
+
+383
+00:33:48,579 --> 00:33:50,550
+He has gone.
+
+384
+00:33:51,131 --> 00:33:52,398
+Then you obey only...
+
+385
+00:33:52,597 --> 00:34:06,856
+His order was wrong. I cannot serve human beings if I am immobilised. You gave me power. Your orders are right. I serve you.
+
+386
+00:34:06,982 --> 00:34:11,309
+Lesterson. Lesterson, it reasons. Just how limited is its intelligence?
+
+387
+00:34:11,559 --> 00:34:22,494
+Now, there is no cause for... for concern, Governor. Just you wait until you see the amount of work it can do! And now, I'm really going to put you through your paces. Follow me, Dalek.
+
+388
+00:34:22,944 --> 00:34:24,755
+I obey.
+
+389
+00:34:34,419 --> 00:34:36,658
+Excellent. excellent.
+
+390
+00:34:36,900 --> 00:34:40,767
+But I thought we were after the Daleks, not this control unit you've nicked!
+
+391
+00:34:41,559 --> 00:34:42,878
+Ah, yes!
+
+392
+00:34:45,897 --> 00:34:48,127
+He's a right little delinquent, isn't he?
+
+393
+00:34:48,412 --> 00:34:50,657
+Doctor, what on Earth are you up to?
+
+394
+00:34:51,656 --> 00:34:52,423
+Ooh!
+
+395
+00:34:53,042 --> 00:34:55,926
+Ah! Now we're really getting somewhere!
+
+396
+00:34:57,773 --> 00:35:01,109
+Now, the Examiner was attacked, there can be no question of that.
+
+397
+00:35:01,340 --> 00:35:03,916
+And the button grabbed by the Examiner was missing from your suit.
+
+398
+00:35:04,211 --> 00:35:06,598
+Yes, if you've got anything to add to that, you'd better say it now.
+
+399
+00:35:06,910 --> 00:35:11,091
+I didn't attack the man. I had no reason to. I was the one that sent for him!
+
+400
+00:35:12,889 --> 00:35:13,921
+You sent for him?!
+
+401
+00:35:14,307 --> 00:35:19,216
+It was necessary. Under the circumstances, I'd hardly be likely to sabotage the radio communications.
+
+402
+00:35:20,076 --> 00:35:21,740
+But... but why Quinn? Why?
+
+403
+00:35:22,094 --> 00:35:23,225
+Because of the rebels!
+
+404
+00:35:23,493 --> 00:35:25,952
+The rebels! They're nothing more than one or two fanatics.
+
+405
+00:35:26,185 --> 00:35:27,156
+You know as well as I do that they...
+
+406
+00:35:27,414 --> 00:35:31,372
+Unless you're trying to create trouble here - to undermine the Governor's position.
+
+407
+00:35:31,721 --> 00:35:34,966
+Bragen, you'd better explain that.
+
+408
+00:35:35,294 --> 00:35:42,380
+If you're removed, who takes your place? The Deputy Governor, of course. And that's the real reason behind all this trouble, isn't it Quinn?
+
+409
+00:35:42,655 --> 00:35:43,226
+Go on.
+
+410
+00:35:43,449 --> 00:35:49,013
+You attack the Examiner in the mercury swamp and blame it on the rebels. Then you sabotage the radio - blame that on the rebels too.
+
+411
+00:35:50,142 --> 00:35:51,552
+Get him out of my sight!
+
+412
+00:35:51,877 --> 00:35:54,664
+Hensell, before you listen to these preposterous allegations...
+
+413
+00:36:01,138 --> 00:36:08,167
+I chose Quinn myself. I trained him for the job. Why, in a few years time, he'd have had this seat!
+
+414
+00:36:08,495 --> 00:36:11,527
+Sometimes Governor, a few years is a long time to wait.
+
+415
+00:36:15,678 --> 00:36:16,597
+Oh, Bragen?
+
+416
+00:36:16,883 --> 00:36:17,731
+Governor?
+
+417
+00:36:19,169 --> 00:36:25,373
+You will assume Quinn's duties. As of now, you are Deputy Governor.
+
+418
+00:36:29,760 --> 00:36:33,381
+Look Doctor, I don't want to appear dim, but how's this going to do the Daleks in?
+
+419
+00:36:33,740 --> 00:36:39,397
+They think that Lesterson's the driving force, but I don't. The Daleks are using him.
+
+420
+00:36:39,757 --> 00:36:40,631
+But how?
+
+421
+00:36:40,872 --> 00:36:49,913
+Problem. Smash the Daleks, and the people here will lock us up or kill us. Let the Daleks go, and we'll all be exterminated.
+
+422
+00:36:50,877 --> 00:36:53,644
+We could just go back to the TARDIS. At least we'd be safe to think there.
+
+423
+00:36:54,062 --> 00:36:55,589
+Oh yes, that's coming on.
+
+424
+00:36:55,705 --> 00:36:57,556
+Oh, you talk to him, will you?
+
+425
+00:36:57,794 --> 00:37:00,704
+Doctor look, if you told us what you were up to, perhaps we could help you.
+
+426
+00:37:01,183 --> 00:37:11,349
+Mustn't underestimate any of them. Lesterson's a first class scientist, first class. He opened the capsule. He realised that the Daleks could be reactivated.
+
+427
+00:37:12,866 --> 00:37:19,947
+Yeah, that could be the answer. Let's kidnap Lesterson, and hide him away for a bit. Well, it would stop him bringing the Daleks back to life, wouldn't it?
+
+428
+00:37:21,096 --> 00:37:22,461
+I thought it was pretty bright.
+
+429
+00:37:22,786 --> 00:37:23,834
+There we are.
+
+430
+00:37:24,474 --> 00:37:25,491
+What is it?
+
+431
+00:37:26,780 --> 00:37:33,371
+What is it? It could be the answer to all our problems.
+
+432
+00:37:34,327 --> 00:37:38,022
+Incredible! Well, let's move on to test fourteen.
+
+433
+00:37:38,385 --> 00:37:40,009
+I am ready.
+
+434
+00:37:41,371 --> 00:37:45,516
+When sodium acts on ethyl alcohol, what is the resulting derivative?
+
+435
+00:37:46,026 --> 00:37:52,019
+Sodium ethoxide. C2 H5 ONa.
+
+436
+00:37:53,237 --> 00:37:56,866
+Just five seconds, Janley! Just the time it took to speak the answer.
+
+437
+00:37:57,150 --> 00:37:57,894
+Right too.
+
+438
+00:37:58,159 --> 00:38:07,823
+But of course it's right! Look, can you imagine what kind of positronic brain this robot has, Janley? Think of the store of knowledge that it must carry.
+
+439
+00:38:07,977 --> 00:38:08,695
+May I come in?
+
+440
+00:38:08,951 --> 00:38:09,883
+What do you want?
+
+441
+00:38:10,113 --> 00:38:12,451
+Oh, ah, just to see how you're getting on.
+
+442
+00:38:12,793 --> 00:38:13,395
+If you think...
+
+443
+00:38:13,669 --> 00:38:18,303
+No, please! I'm... I'm not here to cause trouble. I... I'm just interested, that's all.
+
+444
+00:38:18,599 --> 00:38:21,262
+You've done nothing but meddle and interfere ever since you landed on Vulcan.
+
+445
+00:38:21,582 --> 00:38:27,607
+Well, I... I did give you permission to open up the capsule, now didn't I? Please, carry on.
+
+446
+00:38:28,375 --> 00:38:30,177
+And you won't try to stop me?
+
+447
+00:38:30,523 --> 00:38:40,599
+Stop you? No, of course not. We get off on the wrong foot, Lesterson, but... but I'm a reasonable man and... and I've been thinking, perhaps I was hasty.
+
+448
+00:38:41,113 --> 00:38:44,017
+Well, if you... if you... if you really want to call a truce.
+
+449
+00:38:44,286 --> 00:38:47,524
+A truce? My dear fellow, I... I'd like to be friends!
+
+450
+00:38:48,063 --> 00:38:51,969
+Yes. Yes. Very well, you may stay.
+
+451
+00:38:52,286 --> 00:38:54,861
+Oh, thank you. Thank you.
+
+452
+00:38:56,102 --> 00:39:00,399
+Laboratory. Yes.
+
+453
+00:39:02,580 --> 00:39:06,911
+All right, I can come now. Right.
+
+454
+00:39:11,122 --> 00:39:14,555
+I just have to slip out for a few minutes, Lesterson, alright?
+
+455
+00:39:14,860 --> 00:39:19,101
+Ah, yes, yes. Um, very well then. Examiner, shall we test its knowledge of physics?
+
+456
+00:39:19,391 --> 00:39:22,451
+Oh, oh, splendid, splendid. Ah, huh, please, please, carry on.
+
+457
+00:39:22,732 --> 00:39:26,551
+Thank you. D... what is the First Law of Thermodynamics?
+
+458
+00:39:26,801 --> 00:39:51,002
+When heat is transformed into any other kind of energy or vice versa, the total quantity of energy remains invariable. That is to say, the quantity of heat which disappears is equivalent to the quantity of other kind of energy produced...
+
+459
+00:39:51,360 --> 00:39:53,970
+Fool! What do you think you're doing?
+
+460
+00:39:54,284 --> 00:39:55,309
+Ah!... Ah!... Ah!... Ah!...
+
+461
+00:39:55,807 --> 00:39:57,135
+I'm saving your life!
+
+462
+00:39:57,955 --> 00:39:59,308
+Get out! Get out!
+
+463
+00:40:00,364 --> 00:40:03,791
+Ah!... Ah!... Ah!... Ah!... Ah!... Ah!... Ah!... I have, ah, sustained no damage.
+
+464
+00:40:13,208 --> 00:40:14,175
+You were able to get away then?
+
+465
+00:40:14,818 --> 00:40:17,209
+Yes. Lesterson's with the Examiner. And Hensell?
+
+466
+00:40:17,507 --> 00:40:20,291
+At a meeting of production managers. He left me in control.
+
+467
+00:40:21,405 --> 00:40:23,209
+We could take over the colony now.
+
+468
+00:40:23,458 --> 00:40:30,004
+No. No it has to be absolutely right. I don't want to take over a colony full of rebels do I, Janley?
+
+469
+00:40:30,244 --> 00:40:32,672
+Well, I don't know. You're making me help them.
+
+470
+00:40:32,983 --> 00:40:43,726
+Only to stir them up to create enough trouble to get rid of Hensell, and then... and then we crush them. The whole colony will be grateful, and I'll be Governor.
+
+471
+00:40:46,216 --> 00:40:47,614
+Is that the gun you told me of?
+
+472
+00:40:48,695 --> 00:40:50,419
+Can you persuade the rebels this will help them?
+
+473
+00:40:50,693 --> 00:40:53,620
+Yes, Valmar thinks he can work in a switch to turn it on and off.
+
+474
+00:40:53,831 --> 00:40:55,012
+How powerful is it?
+
+475
+00:40:55,385 --> 00:41:02,161
+It killed Resno, Lesterson's assistant, and Lesterson believes that Resno's simply shaken up - taking a few days off.
+
+476
+00:41:02,522 --> 00:41:03,347
+And the body?
+
+477
+00:41:03,835 --> 00:41:16,841
+In the mercury swamp. Lesterson was the indirect cause of Resno's death. It's a good hold over him if he makes trouble. I'll give this to Valmar then?
+
+478
+00:41:16,905 --> 00:41:17,478
+Yes.
+
+479
+00:41:17,971 --> 00:41:19,020
+When do we move?
+
+480
+00:41:19,385 --> 00:41:23,052
+I need another card in my hand. The Examiner bothers me.
+
+481
+00:41:23,387 --> 00:41:24,790
+I thought Quinn was the danger.
+
+482
+00:41:25,072 --> 00:41:31,625
+Uh, not any more. The Examiner is no fool. No, there has to be something else.
+
+483
+00:41:36,671 --> 00:41:37,525
+Well?
+
+484
+00:41:37,863 --> 00:41:40,122
+Well, he's not in the laboratory, Lesterson's by himself.
+
+485
+00:41:40,410 --> 00:41:43,839
+Hmm. He must have gone another way. Can I leave it you? I'm going to go back to the rest room.
+
+486
+00:41:44,259 --> 00:41:44,730
+Well, but...
+
+487
+00:41:45,020 --> 00:41:46,341
+Well, somebody's got to clear it up.
+
+488
+00:41:46,692 --> 00:41:47,256
+Okay.
+
+489
+00:41:54,570 --> 00:41:55,685
+Hello there.
+
+490
+00:41:56,006 --> 00:41:58,650
+Hello. Um, you're Lesterson's assistant aren't you?
+
+491
+00:41:58,749 --> 00:42:01,056
+Yes. You're not looking for the Examiner are you?
+
+492
+00:42:01,438 --> 00:42:02,843
+Well, do you know where he is?
+
+493
+00:42:03,134 --> 00:42:06,457
+Yes, he's waiting to get a message through from Earth. He's in the Communications Room.
+
+494
+00:42:07,231 --> 00:42:07,781
+Umm...
+
+495
+00:42:08,060 --> 00:42:12,456
+Oh, you'll find it easy enough. Look. Around, then to your right, in the next block.
+
+496
+00:42:12,714 --> 00:42:13,416
+Thanks very much.
+
+497
+00:42:18,929 --> 00:42:25,109
+Doctor? Anyone here?
+
+498
+00:42:34,398 --> 00:42:40,810
+She said she was coming back here. She knew the way, and she wouldn't have wandered off. I know she wouldn't! Oh!
+
+499
+00:42:41,747 --> 00:42:46,818
+Ben, if you were a Dalek what would be your next move?
+
+500
+00:42:47,071 --> 00:42:48,629
+I'm talking about Polly.
+
+501
+00:42:48,974 --> 00:42:51,583
+Oh, no, no, no, no. She's a clever girl, but she couldn't answer this.
+
+502
+00:42:51,868 --> 00:42:52,956
+But she is missing!
+
+503
+00:42:53,299 --> 00:42:54,283
+Oh, no, no, no.
+
+504
+00:42:54,555 --> 00:42:55,754
+Oh, yes, yes, yes, yes!
+
+505
+00:42:56,053 --> 00:43:02,112
+No, no, no! She's looking around, there's a lot to see in the colony. She's interested. I like that.
+
+506
+00:43:05,439 --> 00:43:05,939
+Come on.
+
+507
+00:43:06,230 --> 00:43:07,231
+Where are we going?
+
+508
+00:43:07,463 --> 00:43:09,987
+To report it. If we make a fool of ourselves, I don't care! We report it!
+
+509
+00:43:10,271 --> 00:43:20,510
+Yes, yes, yes. I managed to stop that fool of an Examiner just in time. You know there are some people here who believe that you're an enemy.
+
+510
+00:43:20,819 --> 00:43:23,693
+I am your servant.
+
+511
+00:43:28,928 --> 00:43:31,771
+What does this machine do?
+
+512
+00:43:32,530 --> 00:43:37,236
+You know, it's amazing. You have an almost human interest and curiosity.
+
+513
+00:43:37,368 --> 00:43:46,953
+A Dalek is bet... is not the same as a human. If I am to help, I must know everything.
+
+514
+00:43:47,327 --> 00:43:48,484
+Yes. Yes, of course.
+
+515
+00:43:48,786 --> 00:43:50,567
+What is this machine?
+
+516
+00:43:50,874 --> 00:43:54,174
+It computes meteorite storms as they approach our weather satellites.
+
+517
+00:43:54,522 --> 00:43:56,414
+How accurate is it?
+
+518
+00:43:56,776 --> 00:44:01,785
+About, ah, seventy percent. It helps to cut down on our satellite losses.
+
+519
+00:44:01,898 --> 00:44:07,602
+Daleks can build pu... computers with one hundred percent accuracy.
+
+520
+00:44:07,997 --> 00:44:09,370
+One hundred percent?
+
+521
+00:44:09,740 --> 00:44:16,670
+If you provide materials and our own power unit, a computer will be built.
+
+522
+00:44:17,122 --> 00:44:21,703
+A hundred percent. That would be an enormous saving for the... for the colony!
+
+523
+00:44:22,041 --> 00:44:24,429
+Then, you will get the materials?
+
+524
+00:44:24,725 --> 00:44:26,280
+I'll go and speak to the Governor at once.
+
+525
+00:44:26,511 --> 00:44:31,747
+I will be ready to dictate the blueprint when you return.
+
+526
+00:44:32,354 --> 00:44:35,367
+Huh, huh. Oh, that's marvellous!
+
+527
+00:45:06,404 --> 00:45:08,455
+You agreed we'd go and see Bragen.
+
+528
+00:45:08,830 --> 00:45:09,893
+Hmm? Power.
+
+529
+00:45:10,416 --> 00:45:11,956
+Come on then!
+
+530
+00:45:12,557 --> 00:45:14,925
+Now the energy intake for Daleks should be the cube...
+
+531
+00:45:16,536 --> 00:45:17,428
+Lesterson!
+
+532
+00:45:17,714 --> 00:45:18,075
+Eh?
+
+533
+00:45:18,324 --> 00:45:21,454
+He just went past. That means we can get into his laboratory again.
+
+534
+00:45:21,732 --> 00:45:22,518
+But we're looking for...
+
+535
+00:45:23,085 --> 00:45:24,371
+Oh, come along, Ben. Come along.
+
+536
+00:45:25,381 --> 00:45:26,622
+There's somebody in there.
+
+537
+00:45:27,567 --> 00:45:30,150
+What are you doing here?
+
+538
+00:45:31,399 --> 00:45:35,003
+Stand aside. Servants shouldn't question.
+
+539
+00:45:35,307 --> 00:45:37,166
+Entry is restricted.
+
+540
+00:45:37,466 --> 00:45:40,645
+Not for me it isn't. "Accord every access". I've got a badge.
+
+541
+00:45:40,948 --> 00:45:42,156
+That is an order.
+
+542
+00:45:42,431 --> 00:45:45,651
+A Dalek order. Short circuit the generator, Ben.
+
+543
+00:45:46,028 --> 00:45:51,529
+Ah!... Ah!... Ah!... Ah!... Ah!... Stand back!
+
+544
+00:45:51,757 --> 00:45:55,675
+Don't be frightened of it Ben. It's not armed. I'm going to see what it was doing in there.
+
+545
+00:46:05,612 --> 00:46:09,887
+Ben, let's get out of here!
+
+546
+00:46:10,914 --> 00:46:12,877
+Fool. Lesterson must have reactivated them.
+
+547
+00:46:13,085 --> 00:46:17,041
+Yes. When I say run, Run!
+
+548
+00:46:23,253 --> 00:46:29,661
+I have sent the human being for materials.
+
+549
+00:46:29,903 --> 00:46:31,016
+And power?
+
+550
+00:46:31,412 --> 00:46:39,109
+Yes. Power we can turn into static, then we will conquer.
+
+551
+00:46:39,433 --> 00:46:47,525
+We will conquer... We will conquer... We will conquer...
+
+552
+00:46:47,759 --> 00:46:52,750
+But if you didn't do it Lesterson, then the Dalek must have used your power supply and reactivated the others itself.
+
+553
+00:46:52,965 --> 00:46:54,671
+I was going to do that anyway.
+
+554
+00:46:54,875 --> 00:46:57,186
+Are you off your head, mate? Those two are armed!
+
+555
+00:46:57,671 --> 00:47:02,056
+Then we turn off the electricity, disarm them, and then everything is safe again.
+
+556
+00:47:02,328 --> 00:47:03,506
+I've already explained to you.
+
+557
+00:47:03,741 --> 00:47:11,192
+Stop these arguments, both of you. I've had enough. I've every confidence in Lesterson. He has carte blanche for the Daleks from now on.
+
+558
+00:47:11,386 --> 00:47:13,083
+But they must be destroyed!
+
+559
+00:47:13,310 --> 00:47:19,816
+Bragen, I'm making a tour of the perimeter. I put you in direct charge here. See that Lesterson gets everything he wants, will you?
+
+560
+00:47:20,712 --> 00:47:25,004
+I shall need a permanent guard on my laboratory, Bragen.
+
+561
+00:47:27,577 --> 00:47:31,787
+Don't worry about the Examiner. I think I can keep him quiet.
+
+562
+00:47:33,889 --> 00:47:40,716
+Greed and ambition, that's all it is. Wait till they find out what their precious production figures have cost them!
+
+563
+00:47:40,951 --> 00:47:42,145
+Oh, I want to see you.
+
+564
+00:47:43,281 --> 00:47:44,240
+What about?
+
+565
+00:47:44,508 --> 00:47:46,507
+Well it's Polly, she's missing. We can't find her anywhere.
+
+566
+00:47:47,021 --> 00:47:50,470
+I'll tell one of my men to make enquiries. It shouldn't take long to find her.
+
+567
+00:47:50,806 --> 00:47:51,624
+Ah, thanks.
+
+568
+00:47:52,574 --> 00:48:02,461
+Examiner, some of my men have found a body in the mercury swamp. It was the body of a middle-aged man.
+
+569
+00:48:03,074 --> 00:48:04,451
+What is that to do with me?
+
+570
+00:48:04,931 --> 00:48:08,177
+You're the Examiner - or maybe you're not.
+
+571
+00:48:14,443 --> 00:48:16,440
+Just exactly what do you mean by that?
+
+572
+00:48:17,066 --> 00:48:20,087
+Who are you? Quinn's friends? Come to stir up rebellion?
+
+573
+00:48:20,873 --> 00:48:24,331
+There's only one possible way that you could know I'm not the Examiner.
+
+574
+00:48:24,831 --> 00:48:27,526
+Yeah, by knowing what the real Examiner looked like!
+
+575
+00:48:27,868 --> 00:48:36,394
+Exactly, Ben. Exactly! Only two people knew of his arrival on this planet. Myself and his murderer.
+
+576
+00:48:36,721 --> 00:48:37,724
+That's enough!
+
+577
+00:48:38,017 --> 00:48:40,304
+Is it? Doctor, we've got to tell the Governor.
+
+578
+00:48:40,564 --> 00:48:46,999
+Do you think he'll believe you? I'll soon convince him that you murdered the man yourself. You stole the Examiner's badge.
+
+579
+00:48:48,107 --> 00:48:54,577
+Then why don't you arrest us? Because there's a doubt isn't there? Because it might, it just might, go against you.
+
+580
+00:48:54,867 --> 00:49:02,653
+All right, all right, so neither of us wants to make a move. But you leave Lesterson alone - and the Daleks!
+
+581
+00:49:09,156 --> 00:49:11,356
+He'd make a right Father Christmas, wouldn't he?
+
+582
+00:49:11,605 --> 00:49:15,402
+Oh, I'd rather fight a hundred of his sort than just one Dalek.
+
+583
+00:49:24,000 --> 00:49:30,042
+Listen to this. "The girl is safe. She will remain so as long as you leave the Daleks alone".
+
+584
+00:49:34,461 --> 00:49:36,585
+And did you disarm the other two?
+
+585
+00:49:37,136 --> 00:49:43,036
+Yes. We are your servants. We do not need guns.
+
+586
+00:49:43,390 --> 00:49:47,045
+I'm very glad. I knew the Examiner was wrong about you.
+
+587
+00:49:47,387 --> 00:49:49,435
+Did you get our materials?
+
+588
+00:49:49,731 --> 00:49:52,251
+Yes. Everything you need you can have.
+
+589
+00:49:52,680 --> 00:49:53,848
+And a power plant?
+
+590
+00:49:54,921 --> 00:49:56,007
+Everything.
+
+591
+00:50:05,384 --> 00:50:08,722
+We will get our power.
+
+592
+00:50:09,156 --> 00:50:18,423
+We will get our power. We will get our power. We will get our power. We will...
+593
+00:50:27,043 --> 00:50:33,224
+Turn back the power supply.
+
+594
+00:50:33,496 --> 00:50:38,024
+I will, I will. But I want you to remember that I control you.
+
+595
+00:50:38,522 --> 00:50:43,478
+We are your servants.
+
+596
+00:50:43,871 --> 00:50:56,846
+I know. Remember it. I gave you each a special charge to bring you back to life. Any further power you need must come from this generator. And I control it. Is that clear?
+
+597
+00:50:57,163 --> 00:50:59,659
+We obey.
+
+598
+00:51:12,348 --> 00:51:13,659
+Where are they going?
+
+599
+00:51:13,979 --> 00:51:19,070
+To await your orders, master.
+
+600
+00:51:19,370 --> 00:51:23,755
+Good. Have you completed the blueprints for the meteor storm computer?
+
+601
+00:51:24,060 --> 00:51:25,536
+It is ready.
+
+602
+00:51:33,017 --> 00:51:44,135
+Oh, it's marvellous! I'm glad we understand each other.
+
+603
+00:51:44,224 --> 00:51:49,529
+We understand the human mind.
+
+604
+00:51:52,464 --> 00:51:53,638
+Isn't that finished yet?
+
+605
+00:51:54,026 --> 00:51:54,901
+Nearly.
+
+606
+00:51:55,022 --> 00:51:58,060
+About time. This work should have been completed long before this.
+
+607
+00:51:58,303 --> 00:51:59,422
+Well, I did the best I could!
+
+608
+00:51:59,649 --> 00:52:00,721
+Well, it isn't good enough!
+
+609
+00:52:00,936 --> 00:52:02,704
+Then get someone else, Bragen.
+
+610
+00:52:02,886 --> 00:52:07,222
+Be careful! I shall be watching you, Valmar, after this - now get out!
+
+611
+00:52:11,217 --> 00:52:12,591
+What does this intrusion mean?
+
+612
+00:52:13,050 --> 00:52:15,114
+I'm sorry, Bragen. I tried to stop them.
+
+613
+00:52:15,372 --> 00:52:24,397
+Intrusion? It's no intrusion. We're just returning the various calls that you made. This guard tried to tell us you were busy. You're not a bit, are you?
+
+614
+00:52:24,751 --> 00:52:25,844
+All right - I'll see them.
+
+615
+00:52:26,205 --> 00:52:32,831
+Oh, what a nice new uniform. Very smart, very smart. I would like a hat like that.
+
+616
+00:52:33,286 --> 00:52:34,321
+Well, what do you want?
+
+617
+00:52:34,591 --> 00:52:36,984
+Some joker has kidnapped Polly and sent us this note.
+
+618
+00:52:37,264 --> 00:52:37,936
+Yes.
+
+619
+00:52:38,232 --> 00:52:40,062
+Well, we want to know what you're doing to find her.
+
+620
+00:52:40,389 --> 00:52:43,145
+Now that the communications are restored we can start a search.
+
+621
+00:52:43,482 --> 00:52:47,054
+Yeah, I can just imagine what kind of job you'll make of that. Haven't you heard anything yet?
+
+622
+00:52:47,268 --> 00:52:48,710
+The planet is a large one.
+
+623
+00:52:53,364 --> 00:52:56,901
+So! They've given you the run of the colony, have they?
+
+624
+00:52:57,383 --> 00:53:07,060
+We obey. Do I bring liquid for your visitors?
+
+625
+00:53:07,354 --> 00:53:09,607
+No. They won't be staying much longer.
+
+626
+00:53:19,754 --> 00:53:22,460
+Look, Doctor, if he's not going to help us, we'll have to search for Polly ourselves.
+
+627
+00:53:22,786 --> 00:53:25,537
+Sound advice. Why don't you, Doctor?
+
+628
+00:53:25,878 --> 00:53:28,672
+Ah, ah, Examiner.
+
+629
+00:53:29,603 --> 00:53:33,353
+I wonder how much longer they'll be able to move around on these floors?
+
+630
+00:53:33,628 --> 00:53:34,117
+Eh?
+
+631
+00:53:34,207 --> 00:53:40,737
+Static you see. They need a constant supply of static from the floor, some sort of electrical field.
+
+632
+00:53:43,637 --> 00:53:46,731
+Doctor. Why should he...?
+
+633
+00:54:03,812 --> 00:54:04,591
+It's madness!
+
+634
+00:54:04,956 --> 00:54:05,562
+What is?
+
+635
+00:54:05,794 --> 00:54:08,661
+Letting them run around like this.
+
+636
+00:54:09,669 --> 00:54:13,893
+Hey, wait a minute! Bragen had one acting as a servant, and we've just left him!
+
+637
+00:54:14,575 --> 00:54:19,533
+One Dalek in Bragen's office - three Daleks just gone down the corridors. That makes four!
+
+638
+00:54:20,426 --> 00:54:21,845
+Where did the fourth one come from?
+
+639
+00:54:22,831 --> 00:54:29,535
+Well, Lesterson can't have been making them. Perhaps there were more in the capsule than we thought?
+
+640
+00:54:30,486 --> 00:54:31,098
+Janley?
+
+641
+00:54:31,825 --> 00:54:32,437
+What is it?
+
+642
+00:54:32,646 --> 00:54:35,613
+The Daleks. They've given me another list of materials they need.
+
+643
+00:54:35,846 --> 00:54:38,839
+Let me see. We've got all those things?
+
+644
+00:54:39,089 --> 00:54:47,417
+Yes, but why these quantities, Janley? Why? How can they have used up all the materials I gave them? What is it? D... why, it's only a matter of a few hours ago.
+
+645
+00:54:47,670 --> 00:54:49,080
+They're building new things for us.
+
+646
+00:54:49,274 --> 00:54:54,626
+Yes, well I don't want them to do anything without consulting me. What is it they do inside there?
+
+647
+00:54:54,869 --> 00:54:56,235
+You're worrying too much.
+
+648
+00:54:56,580 --> 00:55:09,744
+Look Janley, say what you like, but I'm beginning to believe that the Examiner is right about the Daleks. Their original thinking terrifies me. If we can control them, fine. But if not...
+
+649
+00:55:11,472 --> 00:55:11,982
+Yes?
+
+650
+00:55:13,401 --> 00:55:22,534
+Then I shall have them destroyed. It's too dangerous. The Examiner knows something about them that we don't. I'm going to ask his advice.
+
+651
+00:55:23,322 --> 00:55:26,387
+I wouldn't bring the Examiner into it if I were you.
+
+652
+00:55:26,430 --> 00:55:27,144
+And why not?
+
+653
+00:55:27,644 --> 00:55:29,960
+You want him to find out about Resno?
+
+654
+00:55:30,466 --> 00:55:32,880
+Oh, a little accident. How is he? Is he better?
+
+655
+00:55:33,089 --> 00:55:33,809
+He's dead.
+
+656
+00:55:36,221 --> 00:55:39,085
+What are you talking about? You told me he was...
+
+657
+00:55:39,295 --> 00:55:41,342
+You're busy with the experiments on the Daleks.
+
+658
+00:55:41,670 --> 00:55:47,729
+But you should have told me. But... but the body - it'll have to be reported.
+
+659
+00:55:48,074 --> 00:55:50,497
+Don't worry, no one will find the body.
+
+660
+00:55:51,946 --> 00:55:56,174
+Oh Janley, you've done a terrible thing.
+
+661
+00:55:56,480 --> 00:55:58,660
+The experiments on the Daleks were more important.
+
+662
+00:55:59,044 --> 00:56:01,948
+More important than human life? No. No, I won't accept that.
+
+663
+00:56:03,513 --> 00:56:13,282
+You will. You must! Your carelessness was the cause of Resno's death. You murdered him. It's only your word against mine.
+
+664
+00:56:15,339 --> 00:56:17,987
+I won't be blackmailed by you!
+
+665
+00:56:18,398 --> 00:56:23,085
+All I want is for you to go on as you are. Scientific discovery can't stop dead, Lesterson.
+
+666
+00:56:24,526 --> 00:56:26,754
+I told the guard that no-one was to be allowed in.
+
+667
+00:56:27,150 --> 00:56:28,710
+"Accord every access" remember?
+
+668
+00:56:28,935 --> 00:56:30,145
+We're looking for Polly.
+
+669
+00:56:30,591 --> 00:56:32,350
+Well, she isn't here, and I haven't seen her.
+
+670
+00:56:32,510 --> 00:56:33,567
+Well, she's been kidnapped.
+
+671
+00:56:33,806 --> 00:56:35,203
+Oh, it sounds a little unlikely.
+
+672
+00:56:35,383 --> 00:56:37,541
+Oh it does, does it? Well, we've got this note which tells us so.
+
+673
+00:56:37,678 --> 00:56:40,408
+I'm very sorry, but I don't know anything about it.
+
+674
+00:56:41,489 --> 00:56:42,300
+Lesterson?
+
+675
+00:56:42,584 --> 00:56:43,067
+Yes?
+
+676
+00:56:44,032 --> 00:56:46,699
+You haven't been building Daleks, have you?
+
+677
+00:56:46,891 --> 00:56:49,894
+Building? No I wouldn't know how to begin.
+
+678
+00:56:50,132 --> 00:56:52,325
+And there were only three in the capsule?
+
+679
+00:56:52,513 --> 00:56:53,162
+Yes.
+
+680
+00:56:54,764 --> 00:56:59,813
+Well we've just seen four. One in the Governor's office and three in the corridor!
+
+681
+00:57:01,467 --> 00:57:02,899
+But that's not possible!
+
+682
+00:57:03,277 --> 00:57:07,334
+There's only one explanation. The Daleks are reproducing themselves!
+
+683
+00:57:07,757 --> 00:57:09,830
+These things are machines. How could they reproduce?
+
+684
+00:57:10,124 --> 00:57:18,677
+Machines! What makes you think they're just machines. The Daleks are brilliant engineers. Nothing is beyond them given the right materials.
+
+685
+00:57:19,779 --> 00:57:20,745
+What?
+
+686
+00:57:21,979 --> 00:57:24,197
+I said nothing is beyond them given the right materials.
+
+687
+00:57:24,549 --> 00:57:25,184
+Oh...
+
+688
+00:57:25,419 --> 00:57:26,610
+Lesterson, what's the matter?
+
+689
+00:57:26,928 --> 00:57:27,358
+Oh...
+
+690
+00:57:28,702 --> 00:57:30,679
+Leave him alone. He's just been overworking, that's all.
+
+691
+00:57:30,900 --> 00:57:31,756
+Well, he looks bad.
+
+692
+00:57:31,957 --> 00:57:38,060
+Will you both go away. Guard! It's you - badgering him with questions. You've done nothing but hound him ever since you arrived on Vulcan.
+
+693
+00:57:38,731 --> 00:57:40,648
+Bragen's orders were that no one was to be admitted.
+
+694
+00:57:40,976 --> 00:57:42,188
+Yes, but I thought that the... the Examiner.
+
+695
+00:57:42,414 --> 00:57:44,822
+He attacked Lesterson. Get them out of here. Both of them.
+
+696
+00:57:45,060 --> 00:57:46,089
+He did not attack Lesterson.
+
+697
+00:57:46,444 --> 00:57:47,246
+Out, do you hear?!
+
+698
+00:57:49,593 --> 00:57:50,655
+All right, all right.
+
+699
+00:57:56,874 --> 00:58:01,346
+Janley here. Tell Valmar to come over to the lab right away. Good.
+
+700
+00:58:03,788 --> 00:58:06,453
+Well, we're still no nearer finding Polly. What are we hanging about here for?
+
+701
+00:58:06,933 --> 00:58:09,549
+Ben, I've found a message in code.
+
+702
+00:58:09,827 --> 00:58:10,989
+Oh, I can't do crosswords.
+
+703
+00:58:12,634 --> 00:58:22,932
+Meeting tonight, 2000 hours. R O C K E T - Rocket. R O O M - Room. P. Rocket Room P!
+
+704
+00:58:30,445 --> 00:58:36,235
+It's the rebels way of calling a meeting. Only tonight we're going to be there - early.
+
+705
+00:58:36,853 --> 00:58:39,539
+Yeah, maybe we're nearer finding Polly than I thought.
+
+706
+00:58:59,256 --> 00:59:12,760
+Now, we're going to demonstrate something. You section leaders can pass on what you've seen. So far, we've been concerned with testing the strength of the Governor with a few acts of sabotage. But now, we're ready to take over.
+
+707
+00:59:13,311 --> 00:59:18,719
+What is that thing? I've seen them moving about, but all we've been told is that it's a machine Lesterson discovered.
+
+708
+00:59:18,974 --> 00:59:19,693
+Valmar?
+
+709
+00:59:20,000 --> 00:59:29,933
+Well, Lesterson removed the armaments of the Daleks he discovered. I've rearmed this one, but with a controlling device. We can regulate the fire power and turn it off and on whenever we choose.
+
+710
+00:59:31,017 --> 00:59:32,390
+Shall we have the demonstration now?
+
+711
+00:59:35,781 --> 00:59:40,918
+This screen is two inch thick tungsten steel. Right, Valmar.
+
+712
+00:59:42,742 --> 00:59:45,007
+Fire at the screen.
+
+713
+00:59:49,064 --> 00:59:51,918
+Quiet! You must keep quiet. We're too vulnerable here.
+
+714
+00:59:52,167 --> 00:59:54,013
+But, you can't control a thing like that. It'll turn on us!
+
+715
+00:59:54,182 --> 00:59:55,031
+No it won't.
+
+716
+00:59:55,769 --> 00:59:56,818
+Now, what about the girl?
+
+717
+00:59:58,016 --> 00:59:59,720
+We've got her safely locked up. Never fear.
+
+718
+00:59:59,957 --> 01:00:01,206
+I think the best thing for us to do is...
+
+719
+01:00:01,353 --> 01:00:02,781
+Hear that? Maybe they'll say were she is.
+
+720
+01:00:04,101 --> 01:00:04,686
+Who's there?
+
+721
+01:00:04,870 --> 01:00:06,856
+You stay there, I'll distract them. Find out where Polly is.
+
+722
+01:00:07,136 --> 01:00:07,647
+No!
+
+723
+01:00:07,871 --> 01:00:08,579
+Help! Help!
+
+724
+01:00:08,895 --> 01:00:11,353
+The guards will have heard that! Come on we've got to get out of here!
+
+725
+01:00:11,409 --> 01:00:14,019
+You might as well come out. We know you're there.
+
+726
+01:00:24,341 --> 01:00:25,331
+Bragen!
+
+727
+01:00:25,587 --> 01:00:28,377
+Of course. Who else is fitted to be leader of the rebels?
+
+728
+01:00:28,624 --> 01:00:30,660
+No doubt you want to be leader of the Daleks too.
+
+729
+01:00:30,866 --> 01:00:32,385
+I am the leader of the Daleks.
+
+730
+01:00:32,574 --> 01:00:34,824
+Well see if you can stop this one from killing me.
+
+731
+01:00:35,751 --> 01:00:44,409
+Stop! You heard me, that's an order. Turn away. Fetch the guard.
+
+732
+01:00:47,036 --> 01:00:50,554
+I obey.
+
+733
+01:00:56,297 --> 01:01:02,468
+You hope to have it both ways, Bragen. But how will you look in front of the Governor, when I explain your dual role to him?
+
+734
+01:01:02,689 --> 01:01:04,699
+The Governor will hardly listen to an impostor.
+
+735
+01:01:05,095 --> 01:01:08,118
+An impostor? How do you propose to prove that?
+
+736
+01:01:08,629 --> 01:01:12,339
+My guards are now going to produce the body of the real Examiner from the mercury swamp.
+
+737
+01:01:12,603 --> 01:01:13,726
+The one you murdered.
+
+738
+01:01:13,901 --> 01:01:15,039
+The one you pretended to be.
+
+739
+01:01:15,287 --> 01:01:18,920
+Murder's a far worse crime than impersonation.
+
+740
+01:01:19,146 --> 01:01:24,619
+Yes, but you can't prove I'm a murderer, while I can prove that you're an impostor.
+
+741
+01:01:32,033 --> 01:01:33,390
+Ah... Oh...
+
+742
+01:01:42,079 --> 01:01:44,282
+You sent for me?
+
+743
+01:01:44,587 --> 01:01:52,569
+Take up a position at the communications room. Watch and report.
+
+744
+01:01:52,970 --> 01:01:54,589
+I obey.
+
+745
+01:01:57,478 --> 01:02:07,385
+They're conspiring together! Oh, why didn't I realise? The Examiner was right. They are evil!
+
+746
+01:02:19,165 --> 01:02:24,786
+There are four. They can't be reproducing!
+
+747
+01:05:15,841 --> 01:05:17,634
+Dalek nine complete.
+
+748
+01:05:17,938 --> 01:05:18,314
+Check.
+
+749
+01:05:20,480 --> 01:05:21,447
+Dalek ten complete.
+
+750
+01:05:21,665 --> 01:05:22,383
+Check.
+
+751
+01:05:22,686 --> 01:05:24,491
+Dalek eleven complete.
+
+752
+01:05:24,804 --> 01:05:25,246
+Check.
+
+753
+01:05:25,559 --> 01:05:27,931
+Dalek twelve complete.
+
+754
+01:05:28,268 --> 01:05:28,676
+Check.
+
+755
+01:05:29,012 --> 01:05:31,711
+Dalek thirteen complete.
+
+756
+01:05:32,060 --> 01:05:32,446
+Check.
+
+757
+01:05:32,743 --> 01:05:35,468
+Dalek fourteen complete.
+
+758
+01:05:35,818 --> 01:05:46,101
+We are the Daleks! We are the new race of Daleks!
+
+759
+01:06:13,042 --> 01:06:13,737
+What's the matter? What is it?
+
+760
+01:06:15,203 --> 01:06:15,544
+Are you ill?
+
+761
+01:06:16,151 --> 01:06:21,543
+They're in there - making themselves! Duplicating!
+
+762
+01:06:21,789 --> 01:06:23,160
+What? What are you talking about?
+
+763
+01:06:23,588 --> 01:06:26,982
+I started this, opening the capsule!
+
+764
+01:06:27,225 --> 01:06:27,909
+Lesterson!
+
+765
+01:06:28,127 --> 01:06:29,218
+Don't try to stop me!
+
+766
+01:06:29,387 --> 01:06:30,265
+What happened?
+
+767
+01:06:34,182 --> 01:06:44,877
+They forget that I control them! I gave them life back again, and now I've taken it away! Finished! Stopped it!
+
+768
+01:06:45,387 --> 01:06:46,318
+The Daleks...
+
+769
+01:06:47,153 --> 01:07:01,114
+Evil! Horrible! I know what I'm going to do! Laser torches! Melt them down! I'm going to melt the Daleks down to pools of metal!
+
+770
+01:07:01,354 --> 01:07:02,303
+You won't Lesterson!
+
+771
+01:07:02,534 --> 01:07:12,898
+Ah, do you think I care what you can do?! Go on, tell everybody I was responsible for Resno's death! I don't care! I'm going to wipe out the Daleks!
+
+772
+01:07:13,200 --> 01:07:19,448
+Yes, tell everybody all about me! I'm still going to... I'm going to... wipe out the Daleks!
+
+773
+01:07:19,699 --> 01:07:28,561
+Get me the Examiner. But I've got to talk to him! I've got to, don't you understand?!
+
+774
+01:07:35,853 --> 01:07:40,132
+How did you get there?! I cut off the power!
+
+775
+01:07:40,368 --> 01:07:45,793
+We can store power. We will soon have our own.
+
+776
+01:07:47,135 --> 01:07:48,147
+Own power?!
+
+777
+01:07:48,435 --> 01:07:51,288
+Why was the capsule door closed?
+
+778
+01:07:51,540 --> 01:07:54,105
+Own power?! Ahh!
+
+779
+01:08:01,726 --> 01:08:05,520
+Seal off the capsule's secret entrance.
+
+780
+01:08:05,757 --> 01:08:06,872
+I obey.
+
+781
+01:08:07,612 --> 01:08:08,783
+Wait!
+
+782
+01:08:09,251 --> 01:08:15,388
+No more than three Daleks to be seen together at any one time.
+
+783
+01:08:15,632 --> 01:08:16,861
+I obey.
+
+784
+01:08:17,602 --> 01:08:26,003
+We are not ready yet to teach these human beings the law of the Daleks.
+
+785
+01:08:31,574 --> 01:08:36,566
+Well, Bragen - these trips are becoming more and more demanding.
+
+786
+01:08:36,995 --> 01:08:38,177
+I didn't expect you, Governor.
+
+787
+01:08:38,424 --> 01:08:42,378
+Ah, I had as much as I could stand. Well? What's been happening here?
+
+788
+01:08:43,085 --> 01:08:43,934
+One moment.
+
+789
+01:08:44,458 --> 01:08:45,571
+I asked you a question, man.
+
+790
+01:08:46,131 --> 01:08:46,916
+I heard you.
+
+791
+01:08:47,328 --> 01:08:51,983
+Look, your work can wait. You can hand over to me tomorrow. I want to hear about the Examiner.
+
+792
+01:08:52,784 --> 01:09:00,082
+He's an impostor, Governor. Possibly a murderer as well. We have just discovered the body of the real Examiner in the mercury swamp.
+
+793
+01:09:01,764 --> 01:09:04,396
+I hope you're sure of your facts, Bragen.
+
+794
+01:09:04,624 --> 01:09:05,330
+Quite sure.
+
+795
+01:09:06,181 --> 01:09:09,074
+This could have far-reaching consequences.
+
+796
+01:09:09,311 --> 01:09:13,537
+As far as I am concerned, there's nothing more to be said. So if there's nothing further...
+
+797
+01:09:13,718 --> 01:09:18,646
+Nothing further! Who the devil do you think you're talking to? Stand up when you're speaking to me man!
+
+798
+01:09:19,877 --> 01:09:22,145
+I prefer to remain seated.
+
+799
+01:09:22,417 --> 01:09:26,196
+Do you now?! We'll soon see about that. Guards!
+
+800
+01:09:27,117 --> 01:09:28,677
+Take this man out of my office.
+
+801
+01:09:30,055 --> 01:09:32,179
+Did you hear what I said? That's an order!
+
+802
+01:09:32,370 --> 01:09:35,398
+You forget, my dear Hensell. They're not your guards - they're mine.
+
+803
+01:09:35,556 --> 01:09:36,580
+I am the Governor!
+
+804
+01:09:36,863 --> 01:09:41,472
+No. Not now. I am.
+
+805
+01:09:42,002 --> 01:09:48,887
+Oh, I see. Your guards, eh? Yes, Quinn warned me about your guards, but we all took them too lightly, didn't we?
+
+806
+01:09:49,074 --> 01:09:52,018
+When the people hear that I am being kept a prisoner in my own capital...
+
+807
+01:09:52,253 --> 01:09:54,786
+The people will do exactly as they are told, Hensell.
+
+808
+01:09:56,564 --> 01:10:00,543
+It will, of course, be easier for them if you co-operate with us.
+
+809
+01:10:10,518 --> 01:10:12,777
+You're the last man I expected to see here.
+
+810
+01:10:13,081 --> 01:10:17,592
+Well your imprisonment hasn't been entirely wasted. It's brought your enemy out into...
+
+811
+01:10:17,750 --> 01:10:19,798
+Bragen? I've known that all along.
+
+812
+01:10:19,973 --> 01:10:22,975
+Yes. But, ah, did you know that he was the leader of the rebels?
+
+813
+01:10:23,515 --> 01:10:24,873
+Hmm. Work's by sound, does it?
+
+814
+01:10:31,386 --> 01:10:34,837
+Wait there. Guards, dismissed.
+
+815
+01:10:39,596 --> 01:10:43,905
+So Bragen, you want my co-operation, do you?
+
+816
+01:10:44,327 --> 01:10:48,936
+It would save bloodshed. I might even let you keep the title of Governor.
+
+817
+01:10:49,596 --> 01:10:56,608
+Might you now?! I'll tell you what you will do. You'll order your guards to disarm and place yourself under arrest immediately!
+
+818
+01:10:57,172 --> 01:11:01,843
+So you reject my offer? I thought it a generous one in the circumstances.
+
+819
+01:11:02,059 --> 01:11:04,610
+What circumstances?
+
+820
+01:11:04,836 --> 01:11:05,545
+Look at this.
+
+821
+01:11:06,797 --> 01:11:07,774
+What is it?
+
+822
+01:11:08,348 --> 01:11:10,322
+The reason that the colony is now mine.
+
+823
+01:11:14,014 --> 01:11:17,504
+Is it a weapon of some kind?
+
+824
+01:11:17,721 --> 01:11:22,268
+I'll arrange a demonstration for you. Do you still refuse my offer?
+
+825
+01:11:22,866 --> 01:11:25,254
+I will not be intimidated.
+
+826
+01:11:25,556 --> 01:11:32,299
+Of course not. In character to the last, Hensell. Kill him!
+
+827
+01:11:43,251 --> 01:11:48,183
+Why do human beings kill human beings?
+
+828
+01:11:48,502 --> 01:11:49,438
+Get on with your work!
+
+829
+01:11:49,551 --> 01:11:52,118
+Yes, master. I obey.
+
+830
+01:11:52,354 --> 01:12:02,624
+Yes, obey me! From now on, I will have complete obedience from everyone!
+
+831
+01:12:09,242 --> 01:12:13,077
+I'll have to check the cable circuit now. Otherwise, it's just as you asked for.
+
+832
+01:12:14,245 --> 01:12:15,231
+Very well.
+
+833
+01:12:15,518 --> 01:12:19,309
+Why can't you carry on with the power you're drawing from the colony? Why go to all this trouble?
+
+834
+01:12:19,553 --> 01:12:31,916
+Until now, we have had to recharge from the colony supply. With static power, the Daleks will be twice as useful.
+
+835
+01:12:32,458 --> 01:12:32,854
+Valmar, quick!
+
+836
+01:12:33,188 --> 01:12:33,687
+What's the matter?
+
+837
+01:12:33,866 --> 01:12:34,397
+The Governor's back.
+
+838
+01:12:34,626 --> 01:12:35,280
+What about the girl?
+
+839
+01:12:35,473 --> 01:12:36,045
+Leave her.
+
+840
+01:12:36,412 --> 01:12:37,264
+I will follow you.
+
+841
+01:12:37,461 --> 01:12:38,168
+What for?
+
+842
+01:12:38,368 --> 01:12:40,540
+I am your servant.
+
+843
+01:12:41,302 --> 01:12:41,786
+Come on.
+
+844
+01:12:48,917 --> 01:12:55,326
+An electrical circuit of their own supplying static electricity! I wonder how much longer we've got?
+
+845
+01:12:56,323 --> 01:12:59,098
+I didn't realise they'd have a circuit of their own.
+
+846
+01:13:01,010 --> 01:13:02,809
+Doctor, look out!
+
+847
+01:13:17,640 --> 01:13:18,330
+Are you all right?
+
+848
+01:13:18,575 --> 01:13:21,279
+Well done! Who was the man who went outside just now?
+
+849
+01:13:21,458 --> 01:13:23,188
+Valmar. He's been working for the Daleks.
+
+850
+01:13:23,360 --> 01:13:24,447
+On their static power supply.
+
+851
+01:13:24,598 --> 01:13:25,591
+Doctor, they've got Ben.
+
+852
+01:13:25,728 --> 01:13:31,287
+Yes, I know. He ran away so that I could... Oh well, it's a long story, but don't worry. That boy can take care of himself!
+
+853
+01:13:31,590 --> 01:13:33,007
+Did you hear that? That won't help.
+
+854
+01:13:33,240 --> 01:13:33,961
+Get out! All of you!
+
+855
+01:13:34,115 --> 01:13:34,892
+What about you?!
+
+856
+01:13:35,040 --> 01:13:35,807
+But Doctor! Oh...
+
+857
+01:13:36,085 --> 01:13:36,693
+Go!
+
+858
+01:13:51,232 --> 01:13:52,800
+Have they escaped?
+
+859
+01:13:53,015 --> 01:13:56,775
+Yes, return to capsule and report.
+
+860
+01:13:57,005 --> 01:13:58,446
+I obey.
+
+861
+01:14:14,018 --> 01:14:20,349
+We are to wait here until the human beings fight among themselves.
+
+862
+01:14:20,658 --> 01:14:22,734
+Then we will strike.
+
+863
+01:14:23,015 --> 01:14:42,966
+And exterminate! Exterminate! Exterminate! Exterminate! ...
+
+864
+01:14:44,174 --> 01:14:47,533
+But why? Why was he killed?
+
+865
+01:14:47,700 --> 01:14:48,624
+I can answer that.
+
+866
+01:14:48,791 --> 01:14:54,558
+He wanted to destroy the Daleks, so one of them killed him. Now, I'm declaring martial law.
+
+867
+01:14:54,737 --> 01:14:57,959
+Martial law! What good do you think that will do against the Daleks?
+
+868
+01:14:58,123 --> 01:15:00,062
+The Daleks will do as I tell them.
+
+869
+01:15:01,344 --> 01:15:03,159
+We shall see, shan't we.
+
+870
+01:15:03,471 --> 01:15:04,429
+Take them away.
+
+871
+01:15:07,626 --> 01:15:11,664
+Exterminate! Exterminate! Exterminate!
+
+872
+01:15:11,960 --> 01:15:14,455
+Orders received. Exterminate all humans!
+
+873
+01:15:14,627 --> 01:15:16,941
+Exterminate all humans!
+
+874
+01:15:17,123 --> 01:15:23,212
+Exterminate! Annihilate! Destroy! Daleks conquer and destroy!
+
+875
+01:15:23,475 --> 01:15:48,913
+Daleks conquer and destroy! Daleks conquer and destroy! Daleks conquer and destroy! ...
+
+876
+01:16:00,995 --> 01:16:01,724
+Move on!
+
+877
+01:16:02,011 --> 01:16:02,658
+The Dalek!
+
+878
+01:16:02,871 --> 01:16:03,632
+What about it?
+
+879
+01:16:03,815 --> 01:16:04,748
+Can't you see it's armed?
+
+880
+01:16:04,976 --> 01:16:06,042
+Keep moving!
+
+881
+01:16:08,316 --> 01:16:10,464
+This area is restricted.
+
+882
+01:16:10,678 --> 01:16:11,722
+On whose authority?
+
+883
+01:16:11,912 --> 01:16:12,772
+Silence!
+
+884
+01:16:13,039 --> 01:16:16,272
+Repeat. This area is restricted.
+
+885
+01:16:18,930 --> 01:16:22,623
+Obey or you shall be exterminated.
+
+886
+01:16:22,883 --> 01:16:24,122
+I thought they obeyed us?
+
+887
+01:16:24,303 --> 01:16:25,702
+What do we do now, Doctor?
+
+888
+01:16:27,135 --> 01:16:28,269
+This way.
+
+889
+01:16:32,315 --> 01:16:36,229
+They will be exterminated.
+
+890
+01:16:36,444 --> 01:16:40,393
+We've won. The revolution's over. I'll pass the word to Valmar, Kebble and the rest.
+
+891
+01:16:40,585 --> 01:16:44,032
+Wait. The revolution is not quite over yet.
+
+892
+01:16:44,930 --> 01:16:49,879
+What more can we do? Hensell's dead, you're the new Governor. The battle's over.
+
+893
+01:16:50,086 --> 01:16:56,618
+Not quite. You mentioned Kebble, Valmar and that rabble. Well now they must be dealt with.
+
+894
+01:16:57,026 --> 01:16:58,451
+But those are our own men.
+
+895
+01:16:58,660 --> 01:17:00,644
+Huh, huh. Of course.
+
+896
+01:17:00,877 --> 01:17:02,070
+I don't understand.
+
+897
+01:17:02,665 --> 01:17:19,706
+Do you think I can ever be secure in that chair while that rabble are still loose? They rebelled against Hensell yesterday. Tomorrow it'll be my turn. Well, let them rebel. Tell them the guards have taken control. Let them attack, and then we can crush them, utterly!
+
+898
+01:17:21,131 --> 01:17:23,488
+You say "we".
+
+899
+01:17:23,707 --> 01:17:28,274
+Yes. We've come a long way together you and I. You going to back down now?
+
+900
+01:17:30,080 --> 01:17:31,528
+Couldn't you just arrest them?
+
+901
+01:17:31,757 --> 01:17:34,127
+Everyone must be killed.
+
+902
+01:17:46,545 --> 01:17:47,827
+Now!
+
+903
+01:17:49,190 --> 01:17:50,534
+What have you brought me in here for?
+
+904
+01:17:50,769 --> 01:17:51,508
+Quiet!
+
+905
+01:17:53,390 --> 01:17:55,413
+Whose side are you on anyway?
+
+906
+01:17:55,635 --> 01:17:57,922
+I thought I was going to be on the winning side.
+
+907
+01:17:58,128 --> 01:17:59,025
+What changed your mind?
+
+908
+01:17:59,195 --> 01:18:03,982
+Bragen. The colony's become too small for him. He wants us out of the way now.
+
+909
+01:18:04,176 --> 01:18:06,945
+Yeah, well it often happens that way, mate, when you follow blokes like him.
+
+910
+01:18:07,166 --> 01:18:11,292
+Look, I'm going to try and get your friends here, if I can. So wait here.
+
+911
+01:18:18,206 --> 01:18:36,529
+People of Vulcan. This is your new Governor talking to you. I have to announce that Governor Hensell has been murdered by the rebels. I have taken control temporarily, until order is restored. People living on the perimeter and in the interior can stay calm. We know who the murderers are.
+
+912
+01:18:36,867 --> 01:18:43,581
+I shall keep you informed of events as soon as I am able, so listen for the signal to watch your communication sets. That is all.
+
+913
+01:18:45,426 --> 01:18:46,764
+Ah! There you are.
+
+914
+01:18:46,829 --> 01:18:47,612
+- Ben!
+- I knew you'd be all right!
+
+915
+01:18:47,785 --> 01:18:48,583
+Polly - you okay?
+
+916
+01:18:48,769 --> 01:18:49,328
+Oh, yes.
+
+917
+01:18:49,536 --> 01:18:50,490
+Did Valmar find you, then?
+
+918
+01:18:50,644 --> 01:18:51,291
+Valmar? No.
+
+919
+01:18:51,456 --> 01:18:52,921
+What's this about Valmar?
+
+920
+01:18:53,138 --> 01:18:56,309
+Well it seems Bragen's gone power-mad. He wants the rebels to revolt, then he can finish them off.
+
+921
+01:18:56,534 --> 01:19:00,364
+The Daleks won't care who they fight. They'll exterminate every human being on this planet.
+
+922
+01:19:00,627 --> 01:19:03,348
+Doctor, please let's go back to the TARDIS.
+
+923
+01:19:03,559 --> 01:19:05,169
+Quinn. Keep them both here.
+
+924
+01:19:05,385 --> 01:19:06,588
+Well, wait a minute, Doctor!
+
+925
+01:19:07,558 --> 01:19:08,781
+All right. All right.
+
+926
+01:19:09,653 --> 01:19:14,398
+Orders received. Daleks commence extermination.
+
+927
+01:19:15,100 --> 01:19:19,720
+Exterminate! Exterminate! Exterminate!
+
+928
+01:19:20,732 --> 01:19:22,073
+Down everyone!
+
+929
+01:19:37,275 --> 01:19:38,458
+Don't come any nearer.
+
+930
+01:19:38,545 --> 01:19:39,227
+What do you mean?
+
+931
+01:19:39,600 --> 01:19:45,980
+I overheard your conversation with Bragen. But you can't stand up to the Daleks, so your plan will come to nothing.
+
+932
+01:19:46,413 --> 01:19:47,665
+Not my plan - Bragen's.
+
+933
+01:19:47,833 --> 01:19:48,680
+But that's the same thing.
+
+934
+01:19:48,854 --> 01:19:49,483
+Not any more.
+
+935
+01:19:49,665 --> 01:19:51,676
+You expect me to believe that?
+
+936
+01:19:52,161 --> 01:19:59,518
+I came here to do exactly what you've done. Let Bragen see what the Daleks are like. He doesn't know how strong they are.
+
+937
+01:19:59,771 --> 01:20:00,795
+He's got to be stopped.
+
+938
+01:20:00,808 --> 01:20:05,967
+You will lead us to the middle of your party of human beings.
+
+939
+01:20:06,150 --> 01:20:06,762
+Yes.
+
+940
+01:20:06,931 --> 01:20:09,584
+We will fight for you.
+
+941
+01:20:11,192 --> 01:20:13,756
+Believe me, Val, it's the only way to save all our lives.
+
+942
+01:20:13,955 --> 01:20:16,469
+Did you know that the Daleks are duplicating?
+
+943
+01:20:16,674 --> 01:20:17,408
+Yes.
+
+944
+01:20:17,573 --> 01:20:20,113
+But we are your friends.
+
+945
+01:20:20,368 --> 01:20:22,531
+We will serve you.
+
+946
+01:20:22,747 --> 01:20:25,982
+Take us to the centre of your group.
+
+947
+01:20:26,298 --> 01:20:27,442
+Can we trust them?
+
+948
+01:20:27,618 --> 01:20:33,778
+We must! The guards have orders to wipe us out. We must use the Daleks. Come on.
+
+949
+01:20:44,808 --> 01:20:45,347
 Doctor!
+
+950
+01:20:45,624 --> 01:20:46,510
+The window. Does it open?
+
+951
+01:20:46,677 --> 01:20:47,226
+I dunno.
+
+952
+01:20:47,404 --> 01:20:49,679
+It had better, or we're done for! Out you go.
+
+953
+01:20:50,548 --> 01:20:52,689
+Ah!... Ah!... What's happening?
+
+954
+01:20:52,925 --> 01:20:56,995
+The Daleks. They're teeming all over the corridors. We've got to get back to Lesterson's lab.
+
+955
+01:21:11,304 --> 01:21:24,005
+This is Governor Bragen speaking. A group of rebels is attempting to take over the colony. It is the duty of all loyal citizens to help the guards resist. Stay in your homes. Order will be restored. Listen to my bulletins.
+
+956
+01:21:24,937 --> 01:21:27,267
+The rebels are using the Daleks against our people!
+
+957
+01:21:27,478 --> 01:21:31,604
+Well, get back and fight! Why do you come running to me? What do you think your guns are for?
+
+958
+01:21:31,759 --> 01:21:32,862
+Well, the guns don't work against them!
+
+959
+01:21:33,004 --> 01:21:33,968
+Get back and fight them!
+
+960
+01:21:40,892 --> 01:21:42,062
+There, and there!
+
+961
+01:21:47,046 --> 01:21:47,940
+Over there!
+
+962
+01:21:48,577 --> 01:21:50,858
+No! No! Over there! They're our people!
+
+963
+01:21:51,067 --> 01:21:51,764
+Cut the Dalek gun off!
+
+964
+01:21:51,956 --> 01:21:55,911
+No! Ah!...
+
+965
+01:21:56,705 --> 01:21:57,851
+I told you to cut the gun off!
+
+966
+01:21:58,036 --> 01:21:58,572
+I did!
+
+967
+01:21:59,108 --> 01:22:00,182
+You've killed our own people!
+
+968
+01:22:01,084 --> 01:22:02,583
+We have to dismantle the gun, that's all.
+
+969
+01:22:03,963 --> 01:22:05,280
+Oh, look at it.
+
+970
+01:22:07,331 --> 01:22:10,349
+Your usefulness is over.
+
+971
+01:22:17,239 --> 01:22:18,010
+Come on!
+
+972
+01:22:21,038 --> 01:22:22,870
+Quick, Val. Come on!
+
+973
+01:22:25,704 --> 01:22:27,605
+Doctor, it's stupid to hide in here!
+
+974
+01:22:27,796 --> 01:22:29,798
+Well, do you fancy your chances outside in the corridor? No thanks.
+
+975
+01:22:30,018 --> 01:22:31,138
+The answer must be here somewhere.
+
+976
+01:22:31,340 --> 01:22:32,527
+Ssssh!
+
+977
+01:22:32,891 --> 01:22:33,466
+Ah!...
+
+978
+01:22:42,999 --> 01:22:50,769
+You must be absolutely quiet. They know everything that's going on. Everything! They even know what you're thinking.
+
+979
+01:22:51,044 --> 01:22:52,949
+Where do they get their power from, Lesterson?
+
+980
+01:22:53,152 --> 01:23:01,343
+Ah, I tried to turn the power off. But they were miles ahead of me. Marvellous creatures. You have to admire them.
+
+981
+01:23:01,563 --> 01:23:03,066
+But we've got to stop them!
+
+982
+01:23:03,259 --> 01:23:16,809
+Oh, it's too late for that. They're the new species, you see. Taking over from homo sapiens. Man's had his day. Finished now.
+
+983
+01:23:25,206 --> 01:23:29,139
+The static circuit is nearly complete.
+
+984
+01:23:29,787 --> 01:23:33,708
+Soon we can abandon the power we are using.
+
+985
+01:23:38,611 --> 01:23:41,952
+The humans are being exterminated.
+
+986
+01:23:51,673 --> 01:23:53,873
+Did you hear that? They're going to use their own power!
+
+987
+01:23:56,041 --> 01:23:56,628
+- No!
+- Come on!
+
+988
+01:23:57,738 --> 01:23:58,707
+- Don't be a fool 
+- come on!
+
+989
+01:24:13,604 --> 01:24:14,539
+Take it easy, Polly.
+
+990
+01:24:14,772 --> 01:24:18,491
+Can't we do anything?! They're murdering everybody, one by one!
+
+991
+01:24:18,706 --> 01:24:21,320
+You've done all this. Why did you give them power in the first place?
+
+992
+01:24:21,731 --> 01:24:36,513
+Well, I could control it, you see. And then Janley got one of her men - Valmar, I think it was, yes - and he rigged up a secret cable. It's carrying power directly from the colony's supply.
+
+993
+01:24:37,213 --> 01:24:40,502
+Where? Where is it, Lesterson?
+
+994
+01:24:40,792 --> 01:24:49,349
+Valmar's the only one who can answer that. Or the Daleks of course. They know everything. Yes, you should ask the Daleks.
+
+995
+01:24:50,799 --> 01:24:52,271
+Then we must find Valmar.
+
+996
+01:24:52,385 --> 01:24:54,752
+No! You stay here and look after Polly.
+
+997
+01:24:54,963 --> 01:24:55,861
+I'll go.
+
+998
+01:25:31,190 --> 01:25:32,906
+You'll have to leave her now, Valmar.
+
+999
+01:25:36,242 --> 01:25:54,680
+Section One? Where's your report? Are you there Section One? Section Two? Section Two? Why don't they answer? Can you hear me Section Two? Section Three? Oh, why don't they answer? I'm their Governor. Why don't they answer?
+
+1000
+01:26:40,221 --> 01:26:54,954
+This is Bragen speaking. I'm speaking to the Daleks. Daleks, listen to me. I am the Governor. You must work for me. Do not trust the rebels. I will give you whatever you want. But immobilise your guns. This is the Governor speaking.
+
+1001
+01:26:56,283 --> 01:26:58,018
+He's nuts, trying to talk to the Daleks.
+
+1002
+01:26:59,533 --> 01:27:01,369
+Lesterson, what's in that cupboard?
+
+1003
+01:27:01,893 --> 01:27:03,459
+Nothing. I think It's quite empty.
+
+1004
+01:27:03,639 --> 01:27:05,225
+Well, come on, Polly, we'll be safe in there, love.
+
+1005
+01:27:05,885 --> 01:27:08,604
+Do you hear me, Daleks?! You will obey my orders!
+
+1006
+01:27:08,783 --> 01:27:12,377
+No use, Bragen. The Daleks have stopped obeying your orders.
+
+1007
+01:27:12,569 --> 01:27:13,746
+Ah! Guards!
+
+1008
+01:27:13,991 --> 01:27:19,213
+Dead! The Daleks have killed them. You still have your guard units in the interior. How long will it take them to get here?
+
+1009
+01:27:19,394 --> 01:27:20,215
+That depends.
+
+1010
+01:27:20,375 --> 01:27:21,574
+Well, get them!
+
+1011
+01:27:21,744 --> 01:27:23,096
+Well, they will be intercepted by the Daleks.
+
+1012
+01:27:23,238 --> 01:27:26,572
+Exactly! It will draw them away from here and give the Doctor a chance to deal with them.
+
+1013
+01:27:26,761 --> 01:27:28,901
+I refuse to allow my guards to be sacrificed.
+
+1014
+01:27:29,053 --> 01:27:33,556
+In that case the Daleks will destroy everything on this colony.
+
+1015
+01:27:37,003 --> 01:27:44,578
+Guards. This is Bragen speaking. All units will report immediately to the capital. Be prepared to face the rebel Daleks.
+
+1016
+01:27:45,421 --> 01:27:47,186
+Ben! Polly!
+
+1017
+01:27:47,558 --> 01:27:49,058
+Doctor, did you hear what Bragen said?
+
+1018
+01:27:49,234 --> 01:27:50,022
+Yes, I did.
+
+1019
+01:27:50,191 --> 01:27:51,873
+Well I only hope the Daleks do go for the guards.
+
+1020
+01:27:52,279 --> 01:27:53,987
+A lot of the Daleks went out just now.
+
+1021
+01:27:54,292 --> 01:27:56,152
+Good, because we're going inside. Come on Valmar. _.
+
+1022
+01:27:59,256 --> 01:28:02,803
+Ben, give us that spare cable over there. Polly, keep watch at the door.
+
+1023
+01:28:04,608 --> 01:28:05,905
+Well, you know what you're doing?
+
+1024
+01:28:06,076 --> 01:28:06,815
+Of course I do!
+
+1025
+01:28:06,967 --> 01:28:09,398
+Well, why can't you just take all the plugs out and cut the power off?
+
+1026
+01:28:09,543 --> 01:28:11,323
+Because I prefer to do it my way!
+
+1027
+01:28:11,902 --> 01:28:12,944
+Look out!
+
+1028
+01:28:19,772 --> 01:28:25,918
+Static power is being stored. We can dismantle the human electric system.
+
+1029
+01:28:26,174 --> 01:28:29,369
+The law of the Daleks is in force.
+
+1030
+01:28:29,612 --> 01:28:31,807
+Extermination of humans.
+
+1031
+01:28:34,455 --> 01:28:37,307
+Our cables have been moved.
+
+1032
+01:28:38,006 --> 01:28:40,974
+And I could tell you who did it!
+
+1033
+01:28:41,194 --> 01:28:43,487
+What were you doing in there?
+
+1034
+01:28:43,955 --> 01:28:46,155
+I want to help you.
+
+1035
+01:28:46,387 --> 01:28:47,478
+Why?
+
+1036
+01:28:49,322 --> 01:28:52,748
+I am your servant.
+
+1037
+01:28:52,941 --> 01:28:56,052
+We do not need humans now.
+
+1038
+01:28:56,289 --> 01:29:01,330
+Ah, then, but you wouldn't kill me. I gave you life.
+
+1039
+01:29:01,564 --> 01:29:04,244
+Yes, you gave us life.
+
+1040
+01:29:36,508 --> 01:29:48,243
+Ah!... Ah!... Ah!... Ah!... Ah!... Ah!... Ah!... Ah!... Ah!...
+
+1041
+01:29:50,437 --> 01:29:58,747
+Out of control..
+
+1042
+01:30:41,810 --> 01:30:42,880
+What happened to it?
+
+1043
+01:30:43,931 --> 01:30:44,940
+I don't know.
+
+1044
+01:30:45,223 --> 01:30:47,884
+It seems that your friend, the Examiner, was successful after all.
+
+1045
+01:30:51,165 --> 01:30:53,785
+Now I shall restore law and order on this planet.
+
+1046
+01:30:53,958 --> 01:30:55,871
+Not your law, Bragen. That's finished for good.
+
+1047
+01:30:56,023 --> 01:30:56,864
+You'll obey me, or...
+
+1048
+01:30:57,039 --> 01:31:00,012
+Your day is over, Bragen. No one will obey you now.
+
+1049
+01:31:00,246 --> 01:31:01,965
+I'm still the Governor, and you will...
+
+1050
+01:31:03,565 --> 01:31:04,649
+Valmar.
+
+1051
+01:31:10,407 --> 01:31:11,789
+He was a murderer.
+
+1052
+01:31:13,141 --> 01:31:14,227
+Enough of guns.
+
+1053
+01:31:14,625 --> 01:31:21,160
+There's a lot of clearing up to be done. We will rebuild together. What is the extent of the damage?
+
+1054
+01:31:21,400 --> 01:31:23,025
+Oh, I don't know if its repairable. The whole electrical system.
+
+1055
+01:31:26,556 --> 01:31:27,611
+Are you all right?
+
+1056
+01:31:27,769 --> 01:31:29,224
+Oh, he's OK. The clot knocked himself out.
+
+1057
+01:31:29,563 --> 01:31:31,390
+It's a miracle. How did you do it?
+
+1058
+01:31:31,587 --> 01:31:32,615
+Eh? What happened?
+
+1059
+01:31:33,586 --> 01:31:35,385
+You destroyed the Daleks, that's what you did!
+
+1060
+01:31:38,130 --> 01:31:39,090
+Did I do that?
+
+1061
+01:31:39,289 --> 01:31:40,124
+You know you did!
+
+1062
+01:31:40,299 --> 01:31:47,220
+You used the power from the colony's electric supply - overfed it - and blew up their temporary static circuit. Well didn't you?
+
+1063
+01:31:48,309 --> 01:31:49,521
+Did I do all that?
+
+1064
+01:31:49,803 --> 01:31:54,402
+You may have stopped the Daleks, but have you any idea of the damage you've done to the colony?
+
+1065
+01:31:55,113 --> 01:31:56,487
+Oh. There was a blow back, was there?
+
+1066
+01:31:56,683 --> 01:32:01,926
+A blow back? Our power supply has been destroyed! It'll be months before we can get things back to normal.
+
+1067
+01:32:02,120 --> 01:32:02,781
+Valmar!
+
+1068
+01:32:02,949 --> 01:32:03,758
+That is unfortunate.
+
+1069
+01:32:03,930 --> 01:32:05,606
+But did it have to be this way?
+
+1070
+01:32:05,798 --> 01:32:07,176
+I did a lot of damage, did I?
+
+1071
+01:32:07,554 --> 01:32:08,434
+Come on.
+
+1072
+01:32:11,781 --> 01:32:16,419
+I think we'd better get out of here before they send us the bill.
+
+1073
+01:32:25,753 --> 01:32:30,350
+Oh, you needn't worry about them anymore, Doctor. Just a heap of old iron now.
 
