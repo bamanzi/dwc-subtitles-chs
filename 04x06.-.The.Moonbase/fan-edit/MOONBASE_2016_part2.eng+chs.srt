@@ -443,7 +443,7 @@ this whole ridiculous place is sterile.
 所有测试结果都是阴性的．就我所看到的来说, 这整个破地方都是无菌的
 
 81
-00:24:26,293 --> 00:24:31,561
+00:24:26,293 --> 00:24:28,561
 We'll have to tell Mr Hobson, I suppose.
 - 我们不得不跟 Hobson 先生说了, 我想
 
@@ -461,7 +461,7 @@ anything to do with Lister, could it?
 83
 00:24:37,002 --> 00:24:39,407
 - Lister?
-- Well, I mean, you did say
+- Well, I mean, you did say...
 - 李斯特  - 这样, 我是说, 你不是说
 
 84
@@ -476,7 +476,8 @@ That's an awfully long time from now, 2070, whatever it is.
 
 86
 00:24:45,981 --> 00:24:49,714
-Polly, are you suggesting that I'm not confident to carry out these tests?
+Polly, are you suggesting that
+I'm not confident to carry out these tests?
 Polly, 你是不是想说我并没有能力进行这些检测？
 
 87
@@ -672,7 +673,8 @@ It's a large infective agent that only attacks the nerves.
 
 120
 00:28:21,071 --> 00:28:23,920
-That's why these patients got these lines appear on faces and hands.
+That's why these patients got these lines
+appear on faces and hands.
 这就是为什么那些病人脸上手上会出现那些条纹
 
 121
@@ -689,7 +691,7 @@ That's _ it well. But how did it get in here?
 00:28:28,722 --> 00:28:33,800
 It is the Cybermen. I believe they have
 deliberately infected the base.
-是赛博人．我相信是他们故意传染了这个基地
+是赛博人．我相信是他们故意感染了这个基地
 
 124
 00:28:33,855 --> 00:28:36,602

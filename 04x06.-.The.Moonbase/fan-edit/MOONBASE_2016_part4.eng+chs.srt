@@ -655,8 +655,7 @@ You will all be completely destroyed.</i>
 
 122
 00:51:33,675 --> 00:51:39,403
-<i>If you still stupidly remain silent,
-we shall fire.</i>
+<i>If you still stupidly remain silent, we shall fire.</i>
 如果你们仍然愚蠢地保持沉默，我们将开火
 
 123
@@ -875,14 +874,12 @@ Benoit, 负责你那边的事情。而博士...怎么...
 
 161
 00:56:19,507 --> 00:56:22,767
-It's just as well.
-We've enough madmen here already!
+It's just as well. We've enough madmen here already!
 这样也行吧，我们这里疯子已经够多了
 
 162
 00:56:22,937 --> 00:56:26,518
-I want to see
-your first weather plot in two minutes!
+I want to see your first weather plot in two minutes!
 我期望在两分钟之内见到你的天气运行图
 
 163
@@ -926,7 +923,7 @@ There we are. In perfect flight.
 170
 00:57:30,142 --> 00:57:33,160
 - Let's have a look at the Time Scanner. - The what?
-- 我们来看看时间监视器 - 看什么？
+- 我们来看看时间扫描仪  - 看什么？
 
 171
 00:57:33,330 --> 00:57:38,496
