@@ -13,6 +13,12 @@
 
 **Status:** DONE (1/4)  (Part 4 only)
 
+#### The Tenth Planet (Whopix fan edit version)
+
+http://whoflix.wordpress.com/2014/04/21/the-tenth-planet-2/
+
+**Status:** TODO (1/1)
+
 
 ## 04x03 The Power of the Daleks
 
@@ -23,7 +29,7 @@
 Download: https://secure.assrt.net/xml/sub/622/622123.xml
 
 
-### The Power of the Daleks (Whopix fan edit version)
+#### The Power of the Daleks (Whopix fan edit version)
 
 https://whoflix.wordpress.com/2017/02/18/the-power-of-the-daleks-2/ 
 
@@ -39,7 +45,16 @@ Download: https://secure.assrt.net/xml/sub/623/623454.xml
 **Status:** TODO
 
 
-## 04x09 The Evil of the Dalkes
+#### The Moobase (whopix fan edit version)
+
+http://whoflix.wordpress.com/2016/04/22/the-moonbase/
+
+**Status:** DONE
+
+Download: https://secure.assrt.net/xml/sub/623/623564.xml
+
+
+## 04x09 The Evil of the Daleks
 
 **Featuring:** #daleks
 
@@ -72,14 +87,25 @@ Download: https://secure.assrt.net/xml/sub/623/623231.xml
 
 Download: https://secure.assrt.net/xml/sub/623/623486.xml
 
+[ ] TODO: Part 4-6
 
-## 11x01 The Time Warriros
+
+## 11x01 The Time Warriro
 
 **Featuring:** #sontarans #sarah
 
-**Status:** 4/4 (draft DONE)
+**Status:** 4/4 (DONE)
 
-Download:  https://secure.assrt.net/xml/sub/623/623499.xml
+Download: https://secure.assrt.net/xml/sub/623/623538.xml (updated)
+
+
+#### The Time Warriro (whopix fan edit version)
+
+**Status:** DONE.
+
+Video: http://whoflix.wordpress.com/2013/02/01/the-time-warrior/
+
+Subtitles: https://secure.assrt.net/xml/sub/623/623499.xml
 
 
 ## 12x04 Genesis of the Daleks (whopix fan edit version)
@@ -100,7 +126,7 @@ http://whoflix.wordpress.com/2011/08/12/genesis-of-the-daleks-2/
 Note: part 1&2 already translated by `isaakfvkampfer`
 
 
-##  Shada 
+##  Shada    
 ### Shada (1992)
 **Status:** DONE (6/6)
 
