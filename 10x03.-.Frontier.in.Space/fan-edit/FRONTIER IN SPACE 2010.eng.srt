@@ -1,0 +1,4525 @@
+1
+00:00:01,327 --> 00:00:03,318
+(DOCTOR WHO THEME)
+
+2
+00:00:05,000 --> 00:00:15,000
+<b>Doctor Who (1963) 10x03 Frontier in Space</b>
+<b>(whopix fan edit version)</b>
+
+3
+00:00:16,400 --> 00:00:19,000
+<i>(time axis: bamanzi)</i>
+
+4
+00:00:25,400 --> 00:00:28,000
+<i>(based on subtitles from opensubtitles.org)</i>
+
+5
+00:00:33,127 --> 00:00:35,687
+But all these charges are false, Your Highness.
+
+6
+00:00:35,807 --> 00:00:39,163
+We are not attacking Draconian ships. We never have!
+
+7
+00:00:39,247 --> 00:00:42,284
+Our soldiers have seen the Earthmen attack us.
+
+8
+00:00:42,367 --> 00:00:44,756
+Our cargos have been stolen.
+
+9
+00:00:44,847 --> 00:00:49,045
+We are Draconians, we do not lie.
+
+10
+00:00:49,127 --> 00:00:51,766
+The honour of your race is well known, Your Highness.
+
+11
+00:00:51,847 --> 00:00:53,838
+That is why I cannot understand your actions.
+
+12
+00:00:53,927 --> 00:00:55,076
+Actions?
+
+13
+00:00:55,167 --> 00:00:58,557
+You attack our ships, you steal their cargoes,
+
+14
+00:00:58,647 --> 00:01:02,162
+you ignore our protests and just meet them with these counter-charges.
+
+15
+00:01:02,247 --> 00:01:06,763
+Our charges are true but yours are false.
+
+16
+00:01:06,847 --> 00:01:09,315
+We do not attack your ships.
+
+17
+00:01:16,127 --> 00:01:18,516
+Well, I'm never going in that thing again.
+
+18
+00:01:18,607 --> 00:01:20,757
+Oh, come on, Jo, be reasonable.
+
+19
+00:01:20,847 --> 00:01:23,998
+Only you could manage to have a traffic accident in space.
+
+20
+00:01:24,087 --> 00:01:26,885
+- Well, we didn't hit it, did we? - Didn't we? Where's this then?
+
+21
+00:01:26,967 --> 00:01:28,878
+Well, by a rather brilliant last-minute course correction,
+
+22
+00:01:28,967 --> 00:01:31,925
+I've managed to materialise the TARDIS inside the spaceship.
+
+23
+00:01:32,007 --> 00:01:33,281
+But to avoid hitting it,
+
+24
+00:01:33,367 --> 00:01:35,562
+I've had to make a random jump back into normal space.
+
+25
+00:01:35,647 --> 00:01:37,717
+Terrific, but what do we do now?
+
+26
+00:01:37,807 --> 00:01:40,446
+Well, if I'm to get us back to Earth, I'd better find out where we are.
+
+27
+00:01:40,527 --> 00:01:42,199
+I'll just go and check the instruments.
+
+28
+00:01:43,007 --> 00:01:45,077
+HARDY: You won't believe this.
+
+29
+00:01:45,167 --> 00:01:47,601
+- Now what? - Maybe it's a wreck.
+
+30
+00:01:48,407 --> 00:01:49,965
+Try and make contact. They may need help.
+
+31
+00:01:50,047 --> 00:01:53,562
+This is Earth cargo ship C982 in close proximity to you.
+
+32
+00:01:53,647 --> 00:01:55,319
+Do you read me? Do you read me?
+
+33
+00:01:55,407 --> 00:01:57,762
+(WHITE NOISE OVER RADIO)
+
+34
+00:01:57,847 --> 00:01:59,519
+- Try again. - Do you read me?
+
+35
+00:01:59,607 --> 00:02:01,165
+Are you in need of assistance?
+
+36
+00:02:01,247 --> 00:02:03,283
+(WHITE NOISE OVER RADIO)
+
+37
+00:02:03,367 --> 00:02:05,119
+It's a weird-looking crate.
+
+38
+00:02:05,207 --> 00:02:08,404
+(HIGH PITCHED BLEEPING)
+
+39
+00:02:11,327 --> 00:02:13,397
+Draconians!
+
+40
+00:02:23,707 --> 00:02:27,063
+- Doctor? - Well, I think I know where we are.
+
+41
+00:02:27,147 --> 00:02:28,978
+I've got a pretty good idea about when.
+
+42
+00:02:29,067 --> 00:02:31,262
+- Come and take a look at this. - A look at what?
+
+43
+00:02:31,347 --> 00:02:32,860
+That.
+
+44
+00:02:32,947 --> 00:02:34,938
+Well, it's just a spaceship, Jo.
+
+45
+00:02:35,027 --> 00:02:38,940
+Now, I reckon we must be somewhere in the 26th century.
+
+46
+00:02:39,027 --> 00:02:41,939
+Well, interstellar travel's pretty routine by now.
+
+47
+00:02:42,027 --> 00:02:44,825
+A moment ago, it seemed to change shape.
+
+48
+00:02:44,907 --> 00:02:47,944
+- Hmm? - It was when I heard that noise.
+
+49
+00:02:48,027 --> 00:02:49,665
+Didn't you hear it?
+
+50
+00:02:49,747 --> 00:02:52,136
+Well, I did hear something but very faintly.
+
+51
+00:02:52,227 --> 00:02:53,501
+Come on, Jo. Let's go and find the crew.
+
+52
+00:02:53,587 --> 00:02:55,855
+I want to find the exact date for my calculations.
+
+53
+00:02:55,987 --> 00:02:58,342
+- HARDY: They're going to attack us! - STEWART: Get the blasters.
+
+54
+00:02:58,427 --> 00:03:00,065
+HARDY: You can't take on a battle cruiser!
+
+55
+00:03:00,147 --> 00:03:01,500
+Get the blasters!
+
+56
+00:03:01,587 --> 00:03:04,021
+Emergency, emergency, red alert.
+
+57
+00:03:04,107 --> 00:03:06,257
+This is Earth cargo ship C982
+
+58
+00:03:06,347 --> 00:03:09,896
+on coordinate 8972/6483.
+
+59
+00:03:09,987 --> 00:03:13,502
+We are under attack by a Draconian battle cruiser, galaxy class,
+
+60
+00:03:13,587 --> 00:03:15,259
+equipped with neutronic missiles.
+
+61
+00:03:15,347 --> 00:03:18,419
+Emergency, emergency!
+
+62
+00:03:36,027 --> 00:03:37,745
+Oh, how do you do? I'm sorry about this intrusion.
+
+63
+00:03:37,827 --> 00:03:39,021
+HARDY: Who are you?
+
+64
+00:03:39,107 --> 00:03:40,142
+(HIGH-PITCHED BLEEPING)
+
+65
+00:03:40,227 --> 00:03:42,502
+DOCTOR: I said how do you do?
+HARDY: Dragons!
+
+66
+00:03:45,027 --> 00:03:46,301
+- Drop that gun. - Gun?
+
+67
+00:03:46,387 --> 00:03:48,343
+I haven't got a gun. This is simply my hand.
+
+68
+00:03:48,427 --> 00:03:49,860
+(GASPING) No!
+
+69
+00:03:49,947 --> 00:03:52,063
+-DOCTOR: Jo, what's the matter with you? - He's a Drashig!
+
+70
+00:03:52,147 --> 00:03:55,664
+DOCTOR: Nonsense, it's simply a man with a gun.
+Now pull yourself together.
+
+71
+00:03:55,827 --> 00:03:58,560
+<i>(注: Jo 所看见的怪物名叫 Drashig , 这是在上一个故事 Carnival of Monsters 首次出现的一种猎食怪物)</i>
+
+72
+00:03:58,667 --> 00:04:01,420
+This is Earth cargo ship C982.
+
+73
+00:04:01,507 --> 00:04:03,384
+Situation, red alert.
+
+74
+00:04:03,547 --> 00:04:07,096
+Draconian battle cruiser about to lock on now.
+
+75
+00:04:07,187 --> 00:04:09,462
+<i>All anti-boarding procedures carried out.</i>
+
+76
+00:04:09,547 --> 00:04:12,425
+<i>Awaiting instructions. Out.</i>
+
+77
+00:04:14,627 --> 00:04:20,736
+<i>This is the commander of the Draconian battle cruiser.</i>
+
+78
+00:04:20,867 --> 00:04:23,939
+<i>We are locked onto your vessel</i>
+
+79
+00:04:24,027 --> 00:04:26,495
+<i>and are about to board.</i>
+
+80
+00:04:26,587 --> 00:04:29,897
+<i>If you offer any resistance,</i>
+
+81
+00:04:29,987 --> 00:04:32,501
+<i>you will be destroyed.</i>
+
+82
+00:04:32,587 --> 00:04:35,659
+<i>Open the hatch of your airlock.</i>
+
+83
+00:04:37,067 --> 00:04:38,864
+I found these two Dragons in the hold.
+
+84
+00:04:38,947 --> 00:04:41,984
+But that's impossible. They... They're only just locking on.
+
+85
+00:04:42,067 --> 00:04:44,023
+Doctor, what's happening? What's going on?
+
+86
+00:04:44,107 --> 00:04:46,177
+I'm not sure, Jo. Something rather intriguing.
+
+87
+00:04:46,267 --> 00:04:52,385
+<i>If you resist, we can destroy you with our neutronic weapons.</i>
+
+88
+00:04:52,867 --> 00:04:55,256
+If you destroy our ship, you won't get the cargo.
+
+89
+00:04:55,387 --> 00:04:57,298
+Oh, so that's what it's all about.
+
+90
+00:04:57,387 --> 00:05:00,584
+<i>Open the hatch to your airlock</i>
+
+91
+00:05:00,667 --> 00:05:04,376
+<i>or we shall enter your ship by force.</i>
+
+92
+00:05:04,467 --> 00:05:06,458
+- We refuse. - They can blow us to pieces!
+
+93
+00:05:06,547 --> 00:05:08,902
+I've sent a message to Earth asking for help.
+
+94
+00:05:08,907 --> 00:05:12,820
+This is a transcript of a distress call from one of our ships.
+
+95
+00:05:12,907 --> 00:05:18,698
+"From Earth's cargo ship number C982 on coordinate 8972/6483.
+
+96
+00:05:18,787 --> 00:05:21,904
+"We are under attack by a Draconian battle cruiser,
+
+97
+00:05:21,987 --> 00:05:25,616
+"galaxy class, equipped with neutronic missiles."
+
+98
+00:05:25,707 --> 00:05:30,906
+The treaty between our two empires established a frontier in space.
+
+99
+00:05:30,987 --> 00:05:33,785
+We have never violated that frontier.
+
+100
+00:05:33,867 --> 00:05:37,896
+You have invaded our part of the galaxy many times.
+
+101
+00:05:37,987 --> 00:05:40,579
+In pursuit of your ships when they have raided ours!
+
+102
+00:05:41,507 --> 00:05:43,657
+We've been very patient, perhaps too patient.
+
+103
+00:05:43,747 --> 00:05:45,385
+General Williams!
+
+104
+00:05:46,547 --> 00:05:48,378
+I take it a rescue attempt has been mounted?
+
+105
+00:05:48,467 --> 00:05:50,503
+We've established an automatic procedure,
+
+106
+00:05:50,587 --> 00:05:52,976
+because of the frequency of these attacks.
+
+107
+00:05:53,067 --> 00:05:55,740
+Then I suggest you go and supervise the matter.
+
+108
+00:05:55,827 --> 00:05:57,146
+There's no need.
+
+109
+00:05:57,787 --> 00:06:00,142
+Please do as I say.
+
+110
+00:06:02,907 --> 00:06:05,296
+As you wish, Madam President.
+
+111
+00:06:13,427 --> 00:06:16,737
+Your general is insolent.
+
+112
+00:06:16,827 --> 00:06:20,615
+We know the hatred he has always felt for our people.
+
+113
+00:06:20,707 --> 00:06:23,016
+Long ago he caused war.
+
+114
+00:06:23,107 --> 00:06:25,575
+Now he wishes to do so again.
+
+115
+00:06:25,667 --> 00:06:28,864
+He's a soldier, Your Highness, and he's angry.
+
+116
+00:06:29,587 --> 00:06:32,306
+The people of Earth are angry.
+
+117
+00:06:32,387 --> 00:06:36,016
+So are the nobles of my father's court!
+
+118
+00:06:36,147 --> 00:06:39,981
+I must ask you to take my personal appeal to your father, the Emperor.
+
+119
+00:06:40,067 --> 00:06:43,537
+He must put a stop to these attacks.
+
+120
+00:06:43,627 --> 00:06:46,425
+If Draconia has some grievances against Earth,
+
+121
+00:06:46,507 --> 00:06:49,305
+then this is not the way to deal with them.
+
+122
+00:06:50,187 --> 00:06:55,543
+Many of our noblemen felt it was a mistake
+to make a treaty with the Earthmen.
+
+123
+00:06:56,187 --> 00:06:58,701
+Perhaps they were right.
+
+124
+00:06:58,787 --> 00:07:02,063
+You attack our ships and when we protest
+
+125
+00:07:02,147 --> 00:07:05,219
+you trick us with lies and evasions.
+
+126
+00:07:05,707 --> 00:07:08,346
+I give you a final warning.
+
+127
+00:07:08,427 --> 00:07:11,817
+The path you are treading leads only to war.
+
+128
+00:07:11,907 --> 00:07:16,776
+And in that war, Draconia will destroy you!
+
+129
+00:07:17,187 --> 00:07:18,984
+(HISSING)
+
+130
+00:07:20,927 --> 00:07:23,282
+They'll be through that door any minute!
+
+131
+00:07:27,447 --> 00:07:29,483
+Doctor, what are you doing?
+
+132
+00:07:29,567 --> 00:07:33,560
+I'm reversing the polarity of my ultrasonic screwdriver's power source,
+
+133
+00:07:33,647 --> 00:07:36,605
+thereby converting it into an extremely powerful electromagnet.
+
+134
+00:07:36,687 --> 00:07:38,484
+Oh. What good will that do?
+
+135
+00:07:38,567 --> 00:07:41,035
+You wait and see, Jo.
+
+136
+00:07:43,527 --> 00:07:44,676
+Is it working?
+
+137
+00:07:44,767 --> 00:07:45,802
+(LOCK GRATING)
+
+138
+00:07:45,887 --> 00:07:46,922
+Yes, I think so.
+
+139
+00:07:47,407 --> 00:07:49,318
+- I'm going to get the prisoners. - What for?
+
+140
+00:07:49,407 --> 00:07:51,238
+We're using them as hostages, remember?
+
+141
+00:07:51,327 --> 00:07:54,160
+You'd better be quick about it. We haven't got much time.
+
+142
+00:07:55,567 --> 00:07:58,525
+- How is it going? - Nearly there.
+
+143
+00:07:58,607 --> 00:08:00,165
+(LOCK GRATING)
+
+144
+00:08:02,007 --> 00:08:04,202
+There you are, that's it.
+
+145
+00:08:07,247 --> 00:08:09,363
+Oh, how very embarrassing.  Good afternoon.
+
+146
+00:08:10,807 --> 00:08:13,241
+- Out. - That's just where we were going.
+
+147
+00:08:13,327 --> 00:08:15,716
+We're going to meet your friends.
+
+148
+00:08:16,407 --> 00:08:20,082
+- Come on! Get up there! - Come on, they're almost through.
+
+149
+00:08:20,167 --> 00:08:22,806
+HARDY: Get in front! If your friends start shooting,
+they'll get you first.
+
+150
+00:08:22,887 --> 00:08:25,640
+- But they're not our friends! - You are part of their boarding party.
+
+151
+00:08:25,727 --> 00:08:27,877
+They haven't boarded yet. They're still breaking through that door.
+
+152
+00:08:27,967 --> 00:08:30,435
+- Now, try and be logical, man. - They're coming through!
+
+153
+00:08:32,327 --> 00:08:35,241
+- Ogrons! - DOCTOR: Back to the TARDIS, Jo. Back!
+
+154
+00:08:39,487 --> 00:08:41,717
+Doctor! Doctor!
+
+155
+00:08:52,927 --> 00:08:54,485
+JO: (SOFTLY) Doctor?
+
+156
+00:08:58,167 --> 00:09:00,761
+- Jo? - JO: Doctor!
+
+157
+00:09:03,687 --> 00:09:06,520
+- Jo? - JO: Doctor, I'm over here.
+
+158
+00:09:16,567 --> 00:09:18,603
+All right, Jo, what are you doing in there?
+
+159
+00:09:18,687 --> 00:09:20,643
+Oh, Doctor, thank goodness, you're all right.
+
+160
+00:09:20,727 --> 00:09:24,686
+I thought they'd killed you.
+
+161
+00:09:24,767 --> 00:09:26,564
+Come on, come and sit down.
+
+162
+00:09:30,127 --> 00:09:33,005
+Must have been some kind of neuronic stun gun.
+
+163
+00:09:33,927 --> 00:09:37,715
+I wonder why they didn't kill me? What exactly happened, Jo?
+
+164
+00:09:37,807 --> 00:09:40,924
+Well, they took the cargo, threw me in here and...
+
+165
+00:09:41,007 --> 00:09:42,520
+- Doctor? - Hmm?
+
+166
+00:09:42,607 --> 00:09:46,236
+- They also took the TARDIS. - Oh...
+
+167
+00:09:46,327 --> 00:09:50,320
+Oh, we're stranded. What are we going to do?
+
+168
+00:09:50,407 --> 00:09:51,999
+Well, try and get the TARDIS back, of course.
+
+169
+00:09:52,087 --> 00:09:53,156
+(JO SIGHS)
+
+170
+00:09:53,247 --> 00:09:55,522
+Why should the Ogrons attack this ship?
+
+171
+00:09:55,607 --> 00:10:00,078
+- To steal the cargo. - No. No, there's more to it than that.
+
+172
+00:10:01,927 --> 00:10:05,237
+That... That sound that you heard,
+
+173
+00:10:05,327 --> 00:10:08,478
+it's all too sophisticated for the Ogrons.
+
+174
+00:10:08,567 --> 00:10:11,684
+- Well, they're gone now. - Yeah, the question is, where?
+
+175
+00:10:12,287 --> 00:10:14,801
+Hey, Doctor, last time we met the Ogrons
+
+176
+00:10:14,887 --> 00:10:16,878
+they were working for the Daleks, right?
+
+177
+00:10:16,967 --> 00:10:20,039
+- Well, you don't suppose that that... - No, no, not necessarily.
+
+178
+00:10:20,127 --> 00:10:22,595
+No, the Ogrons are mercenaries.
+
+179
+00:10:22,687 --> 00:10:25,520
+Other life forms use them to do their dirty work.
+
+180
+00:10:26,647 --> 00:10:29,320
+Come on, Jo, let's go and find the crew.
+
+181
+00:10:29,487 --> 00:10:33,801
+<i>(博士与 Jo 上一次碰到 Ogrons 是在09x01 The Day of the Daleks 这集,
+
+182
+00:10:42,607 --> 00:10:44,598
+Take a look at that one.
+
+183
+00:10:55,087 --> 00:10:57,157
+DOCTOR: It's all right, Jo. We're being rescued.
+
+184
+00:10:57,247 --> 00:10:58,566
+- What happened? - Well, don't worry, old chap.
+
+185
+00:10:58,647 --> 00:11:00,008
+You'll be all right now. I think...
+
+186
+00:11:00,067 --> 00:11:02,062
+Draconians! They're boarding!
+
+187
+00:11:02,097 --> 00:11:06,476
+- Stewart? Who are you? - Passengers.
+
+188
+00:11:06,707 --> 00:11:11,098
+I see. Having a fancy dress party? What happened?
+
+189
+00:11:11,187 --> 00:11:13,621
+- Dragons attacked us. - Did they get the cargo?
+
+190
+00:11:13,707 --> 00:11:15,425
+- I don't know. - Yes, they took everything.
+
+191
+00:11:15,507 --> 00:11:17,782
+Including some rather valuable property of mine.
+
+192
+00:11:17,867 --> 00:11:21,064
+- Well, tough luck. - Oh, thank you very much.
+
+193
+00:11:21,147 --> 00:11:24,742
+- Dragons... They attacked us. - Yes, we know.
+
+194
+00:11:24,827 --> 00:11:27,546
+You say you're passengers.
+Isn't that a little unusual on a cargo ship?
+
+195
+00:11:27,627 --> 00:11:29,060
+Well, we're here, aren't we?
+
+196
+00:11:29,147 --> 00:11:30,739
+Where did you pick these two up?
+
+197
+00:11:30,827 --> 00:11:32,385
+I don't know. I can't seem to remember...
+
+198
+00:11:32,467 --> 00:11:34,856
+Pull yourself together! How did they get on board?
+
+199
+00:11:35,507 --> 00:11:38,704
+Stowaways... That's it, they were stowaways.
+
+200
+00:11:38,787 --> 00:11:40,796
+- They were sending messages. - That's right.
+
+201
+00:11:43,567 --> 00:11:45,398
+But that's absolute nonsense.
+
+202
+00:11:45,487 --> 00:11:47,876
+Look, we didn't want to be on this ship. It was an accident.
+
+203
+00:11:47,967 --> 00:11:49,639
+You said you were passengers.
+
+204
+00:11:49,727 --> 00:11:53,561
+I was merely trying to avoid a lot of tiresome explanations, old chap.
+
+205
+00:11:53,647 --> 00:11:56,207
+Stewart, I'll leave Kemp on board to take your ship back to Earth.
+
+206
+00:11:56,287 --> 00:11:57,322
+What about these two?
+
+207
+00:11:57,407 --> 00:11:58,681
+Lock them in the hold, put a guard on them.
+
+208
+00:11:58,807 --> 00:12:01,321
+- But we haven't done anything. - They say you have. Take them away.
+
+209
+00:12:01,407 --> 00:12:02,442
+Now, if you'll only listen to me...
+
+210
+00:12:02,527 --> 00:12:03,562
+You can talk to Earth Security.
+
+211
+00:12:03,647 --> 00:12:04,716
+They'll listen, it's their business.
+
+212
+00:12:04,807 --> 00:12:08,436
+- Put them in the starboard cubicle. - All right, get moving.
+
+213
+00:12:12,407 --> 00:12:13,999
+In there.
+
+214
+00:12:17,567 --> 00:12:19,956
+Oops. No need to push.
+
+215
+00:12:24,007 --> 00:12:26,885
+Doctor, well, now the Ogrons have gone,
+
+216
+00:12:26,967 --> 00:12:29,527
+why don't the crewmen remember what really happened?
+
+217
+00:12:29,607 --> 00:12:32,326
+Because the true facts have been erased from their minds, that's why.
+
+218
+00:12:32,407 --> 00:12:34,602
+Well, yes, but why did they keep telling lies about us?
+
+219
+00:12:34,687 --> 00:12:36,518
+Oh, they don't know that they're lying, Jo.
+
+220
+00:12:36,607 --> 00:12:39,167
+They're desperately trying to fit us into their version of things.
+
+221
+00:12:39,247 --> 00:12:41,477
+Well, what are we going to do then?
+
+222
+00:12:41,567 --> 00:12:43,080
+Well, when we get back to Earth,
+
+223
+00:12:43,167 --> 00:12:46,364
+we've got to reach someone in authority
+whose mind isn't already closed.
+
+224
+00:12:46,447 --> 00:12:47,675
+Closed to what?
+
+225
+00:12:47,767 --> 00:12:49,200
+Jo, look, these people believe
+
+226
+00:12:49,287 --> 00:12:51,278
+that the Draconians are attacking their spaceships, right?
+
+227
+00:12:51,367 --> 00:12:53,039
+- Right. - We know that they're wrong, don't we?
+
+228
+00:12:53,127 --> 00:12:54,446
+Well, yes, it was Ogrons.
+
+229
+00:12:54,527 --> 00:12:56,279
+Oh, we also know that the Ogrons couldn't possibly
+
+230
+00:12:56,367 --> 00:12:58,198
+have created that hallucinatory device
+
+231
+00:12:58,287 --> 00:13:00,801
+that makes the Earthmen think they're Draconians.
+
+232
+00:13:00,887 --> 00:13:03,526
+Oh. Oh, well, that's simple then.
+
+233
+00:13:03,607 --> 00:13:07,202
+I mean, what we've got to is find out what's going on,
+
+234
+00:13:07,287 --> 00:13:10,597
+who's behind the Ogrons, where they've taken the TARDIS,
+
+235
+00:13:10,687 --> 00:13:13,247
+go and get it back and then we can all go home.
+
+236
+00:13:13,327 --> 00:13:14,840
+- Right? - Right.
+
+237
+00:13:15,087 --> 00:13:18,124
+Oh. I don't know what I've been worrying about.
+
+238
+00:13:19,407 --> 00:13:21,477
+<i>We are now in space port 10.</i>
+
+239
+00:13:21,567 --> 00:13:25,958
+<i>The ship will land in 15 minutes. The crew are safe.</i>
+
+240
+00:13:26,047 --> 00:13:29,801
+<i>Also aboard, two human stowaways, origins unknown.</i>
+
+241
+00:13:29,887 --> 00:13:32,560
+I want a cordon around the landing area,
+the minute that ship touches down.
+
+242
+00:13:32,647 --> 00:13:34,365
+Nobody on, nobody off till I get there.
+
+243
+00:13:34,447 --> 00:13:35,482
+<i>Sir.</i>
+
+244
+00:13:35,567 --> 00:13:38,859
+I'd better get down there.
+I want handle the preliminary interrogations myself.
+
+245
+00:13:40,507 --> 00:13:43,146
+- Outside. - We want to see somebody in authority.
+
+246
+00:13:43,227 --> 00:13:45,457
+You're going to, but outside.
+
+247
+00:13:49,507 --> 00:13:51,338
+Now then, what's all this about?
+
+248
+00:13:52,087 --> 00:13:55,318
+- Draconian agents? Are you sure? - What else can they be?
+
+249
+00:13:55,407 --> 00:13:56,840
+Their story is obvious nonsense.
+
+250
+00:13:56,927 --> 00:13:58,679
+But why? We...
+
+251
+00:13:58,767 --> 00:14:00,678
+Why would the Draconians leave them on board the ship?
+
+252
+00:14:00,767 --> 00:14:03,122
+The Draconians are preparing for war.
+
+253
+00:14:03,207 --> 00:14:05,596
+You're still only suspecting that. There is no proof.
+
+254
+00:14:05,687 --> 00:14:07,439
+Then they need to plant human agents,
+
+255
+00:14:07,527 --> 00:14:10,405
+traitors, on this planet to sabotage our war effort.
+
+256
+00:14:10,487 --> 00:14:13,081
+But we are bound to suspect them. They must have realised.
+
+257
+00:14:13,167 --> 00:14:16,045
+The Draconians probably thought the crew was dead.
+
+258
+00:14:16,127 --> 00:14:18,038
+We could easily have accepted those two as passengers,
+
+259
+00:14:18,127 --> 00:14:21,278
+two unfortunate refugees from a Draconian attack,
+
+260
+00:14:26,907 --> 00:14:29,865
+- When did you last eat? - Quite some while ago.
+
+261
+00:14:29,947 --> 00:14:31,744
+Well, I'll see they send you some food.
+
+262
+00:14:31,827 --> 00:14:34,216
+I'd like to get a message through to your president.
+
+263
+00:14:34,307 --> 00:14:35,820
+Not a chance.
+
+264
+00:14:35,907 --> 00:14:37,022
+I'm going straight back to my ship.
+
+265
+00:14:37,107 --> 00:14:38,335
+Don't want to get mixed up with security.
+
+266
+00:14:38,427 --> 00:14:40,145
+It's not healthy.
+
+267
+00:14:41,707 --> 00:14:44,426
+- Look, I'll give you a piece of advice. - DOCTOR: Yes?
+
+268
+00:14:44,507 --> 00:14:47,977
+Sooner or later, you're going to tell them everything.
+
+269
+00:14:48,667 --> 00:14:51,818
+They'll use the mind probe. You talk to them now.
+
+270
+00:14:52,747 --> 00:14:55,500
+You'll save yourselves a lot of trouble.
+
+271
+00:14:59,787 --> 00:15:02,779
+PRESIDENT: And you are quite sure it was a Draconian battle cruiser.
+
+272
+00:15:02,867 --> 00:15:03,902
+Of course, Madam.
+
+273
+00:15:03,987 --> 00:15:05,500
+They locked on and boarded us.
+
+274
+00:15:05,587 --> 00:15:08,101
+We saw them. They were Draconians.
+
+275
+00:15:09,187 --> 00:15:11,064
+Thank you. That will be all.
+
+276
+00:15:11,147 --> 00:15:14,139
+I hope you will soon recover from your ordeal.
+
+277
+00:15:19,787 --> 00:15:21,186
+Well, Your Highness?
+
+278
+00:15:21,267 --> 00:15:23,303
+These men are your servants.
+
+279
+00:15:23,387 --> 00:15:26,220
+They are saying what they have been ordered to say.
+
+280
+00:15:26,307 --> 00:15:29,538
+On this occasion, we have more than our servants to confront you with.
+
+281
+00:15:29,627 --> 00:15:31,265
+We have captured two of your human agents.
+
+282
+00:15:31,347 --> 00:15:33,303
+We have no human agents.
+
+283
+00:15:33,427 --> 00:15:36,419
+Subversion and espionage are expressly forbidden
+
+284
+00:15:36,507 --> 00:15:38,941
+by the treaty of peace between our two empires.
+
+285
+00:15:39,027 --> 00:15:41,336
+A treaty which you have flagrantly broken.
+
+286
+00:15:41,427 --> 00:15:43,224
+I shall return to my embassy.
+
+287
+00:15:43,307 --> 00:15:46,663
+Just a moment please, Your Highness. Bring them in.
+
+288
+00:15:51,587 --> 00:15:54,306
+These people stowed away on the cargo ship.
+
+289
+00:15:54,387 --> 00:15:55,581
+They transmitted signals
+
+290
+00:15:55,667 --> 00:15:58,340
+which enabled your battle cruiser to home in on its prey.
+
+291
+00:15:58,427 --> 00:16:00,258
+I know nothing of this.
+
+292
+00:16:00,347 --> 00:16:04,545
+Perhaps you do not, but some servant of the Draconian empire employed them.
+
+293
+00:16:04,627 --> 00:16:08,742
+Madam, I can assure that I've never been employed by anybody.
+
+294
+00:16:08,867 --> 00:16:10,778
+Least of all by the Draconians.
+
+295
+00:16:10,867 --> 00:16:14,780
+Your servants should have been better rehearsed in their lies.
+
+296
+00:16:14,867 --> 00:16:18,064
+Or they're showing a misguided loyalty to their Draconian masters.
+
+297
+00:16:18,147 --> 00:16:19,944
+If we really were working for the Draconians,
+
+298
+00:16:20,027 --> 00:16:21,301
+why did they leave us in your ship?
+
+299
+00:16:21,387 --> 00:16:24,618
+To act as spies when you were brought back to Earth.
+
+300
+00:16:24,707 --> 00:16:26,937
+Allow me to congratulate you, sir.
+
+301
+00:16:27,027 --> 00:16:29,939
+You have the most totally closed mind that I've ever encountered.
+
+302
+00:16:30,027 --> 00:16:32,143
+Madam, I beg of you to listen to me.
+
+303
+00:16:32,227 --> 00:16:35,742
+Some third party is trying to provoke war between Earth and Draconia.
+
+304
+00:16:35,827 --> 00:16:36,942
+You are both being duped.
+
+305
+00:16:37,027 --> 00:16:38,142
+Take them away.
+
+306
+00:16:38,227 --> 00:16:39,455
+Just a minute, please.
+
+307
+00:16:39,547 --> 00:16:40,821
+Why should a third party wish to do this?
+
+308
+00:16:40,907 --> 00:16:41,976
+I've no idea, Madam,
+
+309
+00:16:42,067 --> 00:16:43,386
+but believe me, that is what is happening.
+
+310
+00:16:43,467 --> 00:16:44,582
+Take them away.
+
+311
+00:16:44,667 --> 00:16:46,259
+Now please listen to me! If you don't
+
+312
+00:16:46,347 --> 00:16:50,977
+you'll be involved in a war that could cause the death of millions.
+
+313
+00:16:53,307 --> 00:16:56,856
+Is this the evidence upon which you accuse me?
+
+314
+00:16:57,507 --> 00:17:00,624
+I must ask you to convey a formal protest to your Emperor.
+
+315
+00:17:00,707 --> 00:17:05,986
+I shall inform him of this latest insult
+to the honour of the Draconian empire.
+
+316
+00:17:16,927 --> 00:17:18,155
+But why?
+
+317
+00:17:18,767 --> 00:17:22,157
+Why should they produce such an elaborate lie?
+
+318
+00:17:22,767 --> 00:17:28,000
+The ways of the Earthmen are devious. They're an inscrutable species.
+
+319
+00:17:29,407 --> 00:17:33,036
+Obviously, they are preparing the next stage of their plan.
+
+320
+00:17:33,567 --> 00:17:38,197
+First, the attacks on our ships and now this.
+
+321
+00:17:39,047 --> 00:17:43,563
+Is it possible, Your Highness,
+that for once the Earthmen spoke the truth?
+
+322
+00:17:43,727 --> 00:17:47,925
+Some plan of the Emperor of which Your Highness has not been informed?
+
+323
+00:17:48,007 --> 00:17:51,443
+The Emperor would not possibly contemplate such a plan.
+
+324
+00:17:51,527 --> 00:17:54,087
+We do not break the treaty of peace.
+
+325
+00:17:57,287 --> 00:18:01,678
+Shall I prepare your Excellency's report
+to the Emperor on this meeting?
+
+326
+00:18:02,207 --> 00:18:04,596
+I must have more information.
+
+327
+00:18:06,967 --> 00:18:11,404
+It would be useful to question the humans who were found on the ship.
+
+328
+00:18:12,687 --> 00:18:16,236
+They are supposed to be prisoners.
+
+329
+00:18:17,287 --> 00:18:21,075
+Prisoners have been known to escape, Your Highness.
+
+330
+00:18:21,567 --> 00:18:23,205
+Not without help.
+
+331
+00:18:23,687 --> 00:18:26,759
+And that would be a grave act of hostility.
+
+332
+00:18:27,247 --> 00:18:30,205
+I could not possibly countenance such a plan.
+
+333
+00:18:31,167 --> 00:18:39,922
+But, should two escaping prisoners seek sanctuary in this embassy,
+
+334
+00:18:41,767 --> 00:18:44,759
+it would be uncivilised to turn them away.
+
+335
+00:18:49,687 --> 00:18:52,155
+I must not detain you longer.
+
+336
+00:18:52,647 --> 00:18:57,437
+No doubt you have duties demanding your attention?
+
+337
+00:19:11,867 --> 00:19:14,540
+WILLIAMS: Well, Doctor, shall we try again?
+
+338
+00:19:15,387 --> 00:19:17,582
+You can suit yourself.
+
+339
+00:19:17,667 --> 00:19:20,500
+But I warn you, you're wasting your time.
+
+340
+00:19:20,907 --> 00:19:22,863
+(MIND PROBE BEEPING)
+
+341
+00:19:22,987 --> 00:19:25,262
+Are you a member of the Draconian Secret Service?
+
+342
+00:19:25,347 --> 00:19:26,985
+No.
+
+343
+00:19:27,067 --> 00:19:29,945
+No change in the rhythm, sir. He must be telling the truth.
+
+344
+00:19:30,027 --> 00:19:31,665
+How did you get on the cargo ship?
+
+345
+00:19:31,747 --> 00:19:32,816
+(DOCTOR SIGHING)
+
+346
+00:19:32,907 --> 00:19:35,341
+I came here in my own ship, the TARDIS.
+
+347
+00:19:35,427 --> 00:19:37,895
+- TARDIS? - Yes, my own spaceship.
+
+348
+00:19:38,107 --> 00:19:40,018
+(MIND PROBE BEEPING)
+
+349
+00:19:40,427 --> 00:19:42,941
+Why did you help the Draconians attack the cargo ship?
+
+350
+00:19:43,027 --> 00:19:44,096
+DOCTOR: I didn't.
+
+351
+00:19:44,187 --> 00:19:47,179
+In any case, it wasn't the Draconians, it was the Ogrons.
+
+352
+00:19:47,267 --> 00:19:48,416
+(WILLIAMS SIGHING)
+
+353
+00:19:48,507 --> 00:19:51,419
+Your machine can't be working properly. Or else he's controlling it.
+
+354
+00:19:51,507 --> 00:19:54,146
+We've checked all the circuits, sir. Those are his thoughts.
+
+355
+00:19:54,227 --> 00:19:57,060
+We know this man is a Draconian agent. He must be lying.
+
+356
+00:19:57,147 --> 00:19:59,456
+Perhaps he's already been brainwashed, sir.
+
+357
+00:19:59,547 --> 00:20:02,505
+But as far as he's concerned, what he's telling us is the truth.
+
+358
+00:20:02,587 --> 00:20:05,385
+Then we must break through his conditioning.
+
+359
+00:20:05,947 --> 00:20:09,542
+Unless you tell me the truth, the real truth,
+
+360
+00:20:09,627 --> 00:20:11,982
+I shall be forced to use increased power.
+
+361
+00:20:12,067 --> 00:20:14,501
+I wouldn't do that, old man.
+
+362
+00:20:14,587 --> 00:20:17,704
+I know these machines. They aren't awfully reliable, you know?
+
+363
+00:20:17,787 --> 00:20:21,018
+You'd do better to worry about the effects on your mind.
+
+364
+00:20:22,027 --> 00:20:24,666
+There's just no telling some people, is there, my dear?
+
+365
+00:20:24,747 --> 00:20:26,578
+Step up the power.
+
+366
+00:20:26,667 --> 00:20:28,464
+Increase to 12.
+
+367
+00:20:29,227 --> 00:20:30,899
+Now!
+
+368
+00:20:30,987 --> 00:20:32,215
+(BEEPING INTENSIFIES)
+
+369
+00:20:32,307 --> 00:20:34,502
+Are you an agent of the Draconians?
+
+370
+00:20:34,587 --> 00:20:37,147
+- DOCTOR: No. - When do they plan to attack us?
+
+371
+00:20:37,227 --> 00:20:38,660
+They don't.
+
+372
+00:20:38,747 --> 00:20:41,136
+- How did you board the cargo ship? - Through the TARDIS.
+
+373
+00:20:41,227 --> 00:20:43,995
+- Who first recruited you to serve the Draconians? - No one.
+
+374
+00:20:44,087 --> 00:20:44,936
+WILLIAMS: Who are the other Draconian agents on Earth?
+
+375
+00:20:45,027 --> 00:20:46,745
+I don't know.
+
+376
+00:20:46,827 --> 00:20:48,579
+WILLIAMS: The truth, man. I want the truth.
+
+377
+00:20:48,667 --> 00:20:50,544
+- I'm telling you the truth. - WILLIAMS: I will get the truth.
+
+378
+00:20:50,627 --> 00:20:51,901
+(MIND PROBE BEEPING RAPIDLY)
+
+379
+00:20:51,987 --> 00:20:53,466
+(MIND PROBE SPARKING)
+
+380
+00:21:08,547 --> 00:21:11,744
+Doctor, are you sure you're all right?
+
+381
+00:21:11,827 --> 00:21:15,456
+Mmm-hmm, apart from a bit of a headache.
+
+382
+00:21:17,187 --> 00:21:19,701
+I like the new outfit. Who are you fighting tonight?
+
+383
+00:21:19,787 --> 00:21:21,220
+(JO CHUCKLING)
+
+384
+00:21:21,547 --> 00:21:22,662
+What happened to you, anyway?
+
+385
+00:21:22,747 --> 00:21:25,625
+Oh, they kept going on at me to confess.
+
+386
+00:21:25,707 --> 00:21:27,345
+Yeah, it's awkward, isn't it?
+
+387
+00:21:27,427 --> 00:21:29,543
+Well, they've made up their minds, you see.
+
+388
+00:21:29,627 --> 00:21:32,983
+They'll only believe us if we tell them what they want to hear.
+
+389
+00:21:33,067 --> 00:21:35,535
+It's a pity really that the Ogrons didn't succeed in kidnapping us.
+
+390
+00:21:35,627 --> 00:21:36,855
+Perhaps we should have been more helpful.
+
+391
+00:21:36,947 --> 00:21:38,903
+- Why?  - Well, if they had succeeded,
+
+392
+00:21:38,987 --> 00:21:42,184
+presumably they'd have taken us to where the TARDIS is.
+
+393
+00:21:42,547 --> 00:21:43,741
+(SIGHING) I'm sorry, Jo,
+
+394
+00:21:43,827 --> 00:21:47,183
+but I'm afraid another kidnapping attempt is our only ray of hope.
+
+395
+00:21:47,267 --> 00:21:51,658
+So, we just sit around here waiting for
+those jolly old Ogrons to turn up again?
+
+396
+00:21:51,747 --> 00:21:52,816
+(CHUCKLING) That's about it, yes.
+
+397
+00:21:54,667 --> 00:21:57,579
+The President wants to see you. Get moving.
+
+398
+00:22:00,147 --> 00:22:01,739
+Not you. You.
+
+399
+00:22:02,187 --> 00:22:05,020
+This maybe your chance. Good luck.
+
+400
+00:22:08,187 --> 00:22:09,939
+- See you later. - Bye.
+
+401
+00:22:11,467 --> 00:22:13,537
+(DOOR CLOSING)
+
+402
+00:22:17,467 --> 00:22:20,539
+I'm giving you a final chance to tell me the truth.
+
+403
+00:22:20,627 --> 00:22:22,504
+Madam President,
+
+404
+00:22:22,587 --> 00:22:25,499
+I've been telling you the truth for some considerable time
+
+405
+00:22:25,587 --> 00:22:27,623
+but you just won't believe me.
+
+406
+00:22:27,707 --> 00:22:30,665
+I can't think why you chose to work for the Draconians.
+
+407
+00:22:30,787 --> 00:22:34,746
+But whatever it is, I'll double any offer they've made to you.
+
+408
+00:22:34,827 --> 00:22:36,704
+That's very generous of you, madam,
+
+409
+00:22:36,787 --> 00:22:40,063
+but you'd only be buying information that doesn't exist.
+
+410
+00:22:41,107 --> 00:22:42,904
+You leave me no alternative.
+
+411
+00:22:42,987 --> 00:22:46,138
+Under the powers invested in me by the Special Security Act,
+
+412
+00:22:46,227 --> 00:22:49,697
+I'm sending you to the Lunar Penal Colony.
+
+413
+00:22:49,787 --> 00:22:52,221
+What, without a trial?
+
+414
+00:22:52,467 --> 00:22:55,140
+Without even a chance to state my case?
+
+415
+00:22:56,827 --> 00:23:01,662
+So, you're just tucking me quietly away, are you?
+
+416
+00:23:02,307 --> 00:23:04,298
+What about my companion?
+
+417
+00:23:04,387 --> 00:23:05,945
+She will remain here.
+
+418
+00:23:06,027 --> 00:23:08,177
+I have hopes that, away from your influence,
+
+419
+00:23:08,267 --> 00:23:10,735
+I might be able to make her see the error of her ways.
+
+420
+00:23:10,827 --> 00:23:13,341
+But you will see that she comes to no harm?
+
+421
+00:23:13,427 --> 00:23:15,543
+We are not barbarians.
+
+422
+00:23:15,627 --> 00:23:17,106
+If you want to help her,
+
+423
+00:23:17,187 --> 00:23:19,223
+why don't you tell me where she comes from?
+
+424
+00:23:19,307 --> 00:23:21,423
+I'd like to inform her family.
+
+425
+00:23:21,507 --> 00:23:22,986
+I'd like to, madam.
+
+426
+00:23:23,067 --> 00:23:27,936
+I really would, but there's nothing that I can say that you'd believe.
+
+427
+00:23:28,587 --> 00:23:29,861
+May I say goodbye to her?
+
+428
+00:23:29,947 --> 00:23:33,940
+No! You'll be leaving immediately for the penal colony.
+
+429
+00:23:34,027 --> 00:23:38,100
+We're putting you where your Draconian friends will be unable to reach you.
+
+430
+00:24:04,107 --> 00:24:06,701
+Penny for them, Miss Grant?
+
+431
+00:24:06,787 --> 00:24:10,177
+You! What are you doing here?
+
+432
+00:24:10,267 --> 00:24:13,920
+To coin a phrase, I've come to take you away from all this.
+
+433
+00:24:14,027 --> 00:24:15,143
+What are you talking about?
+
+434
+00:24:15,227 --> 00:24:17,546
+Well, surely you don't want to spend the rest of your life in here, do you?
+
+435
+00:24:17,627 --> 00:24:19,299
+Well, I'm not going anywhere with you, that's for sure.
+
+436
+00:24:19,387 --> 00:24:21,139
+Oh, but you are, you know.
+
+437
+00:24:21,227 --> 00:24:22,296
+Believe it or not,
+
+438
+00:24:22,387 --> 00:24:26,266
+I am a fully accredited commissioner from the planet Sirius 4
+
+439
+00:24:26,347 --> 00:24:28,622
+and you and the Doctor are two dangerous criminals
+
+440
+00:24:28,707 --> 00:24:31,301
+being handed over into my custody.
+
+441
+00:24:31,387 --> 00:24:33,059
+So it was you!
+
+442
+00:24:33,147 --> 00:24:35,342
+You ordered those Ogrons to attack the ships
+
+443
+00:24:35,427 --> 00:24:36,655
+and pretend they were Draconians!
+
+444
+00:24:36,747 --> 00:24:37,862
+But, of course!
+
+445
+00:24:37,947 --> 00:24:39,665
+Those lumbering idiots could never have thought up
+
+446
+00:24:39,747 --> 00:24:42,022
+such a brilliant scheme by themselves.
+
+447
+00:24:42,107 --> 00:24:45,179
+Why did you want to start a war?
+
+448
+00:24:45,307 --> 00:24:47,867
+Now, come on, Miss Grant, be reasonable.
+
+449
+00:24:47,947 --> 00:24:49,778
+You want to see the Doctor again, don't you?
+
+450
+00:24:49,867 --> 00:24:52,335
+- Where is he? - He's in another prison, on the Moon.
+
+451
+00:24:52,427 --> 00:24:54,418
+We're going to collect him.
+
+452
+00:24:54,507 --> 00:24:56,338
+How do I know you're telling the truth?
+
+453
+00:24:56,427 --> 00:24:57,576
+You don't.
+
+454
+00:24:57,667 --> 00:25:00,465
+And the only way you'll find out is by coming with me.
+
+455
+00:25:00,547 --> 00:25:01,662
+Well?
+
+456
+00:25:01,747 --> 00:25:02,975
+(SIGHING)
+
+457
+00:25:05,667 --> 00:25:08,227
+How did you know we were here in the first place?
+
+458
+00:25:08,307 --> 00:25:09,979
+Well, after they'd attacked the cargo ships,
+
+459
+00:25:10,067 --> 00:25:14,583
+the Ogrons returned to their planet, taking their loot with them.
+
+460
+00:25:14,667 --> 00:25:17,659
+Now imagine my surprise, and my delight,
+
+461
+00:25:17,747 --> 00:25:20,705
+when I found that they brought me the Doctor's TARDIS.
+
+462
+00:25:20,787 --> 00:25:22,459
+And why are you taking us with you?
+
+463
+00:25:22,547 --> 00:25:23,900
+Oh, need you ask?
+
+464
+00:25:23,987 --> 00:25:27,024
+How could I leave two dear friends in such dire straits?
+
+465
+00:25:27,107 --> 00:25:28,540
+Oh, you don't seriously think that
+
+466
+00:25:28,627 --> 00:25:29,821
+I'm going to believe that you want to help us...
+
+467
+00:25:29,907 --> 00:25:32,023
+Believe what you like, Miss Grant, I have my reasons.
+
+468
+00:25:32,107 --> 00:25:33,506
+Now, are you coming,
+
+469
+00:25:33,587 --> 00:25:37,262
+or do you really wish to vegetate in
+this hole for the rest of your natural?
+
+470
+00:25:38,627 --> 00:25:40,857
+Very well. I'll come.
+
+471
+00:25:40,947 --> 00:25:42,346
+Excellent!
+
+472
+00:25:44,667 --> 00:25:47,818
+The prisoner and I are ready to leave now, guard.
+
+473
+00:26:09,687 --> 00:26:11,439
+- Hello, Jo. - Doctor!
+
+474
+00:26:15,007 --> 00:26:16,918
+- How are you? All right? - Well...
+
+475
+00:26:17,007 --> 00:26:19,885
+Right, they'll be plenty of time
+for the exchange of social pleasantries.
+
+476
+00:26:19,967 --> 00:26:21,480
+Put him inside.
+
+477
+00:26:36,647 --> 00:26:39,923
+Thank you, gentlemen.
+You can leave them to me now.
+
+478
+00:26:44,007 --> 00:26:47,556
+Well, Doctor,
+this is an interesting reversal.
+
+479
+00:26:48,567 --> 00:26:51,798
+I remember your once visiting me
+when I was in prison.
+
+480
+00:26:51,887 --> 00:26:53,366
+You know, I'd very much
+like to know why...
+
+481
+00:26:53,447 --> 00:26:54,766
+Why you've been locked up?
+
+482
+00:26:54,847 --> 00:26:57,486
+No, why I'm still alive.
+
+483
+00:26:57,687 --> 00:27:02,522
+Oh, come, your health is very precious
+to me, for the moment.
+
+484
+00:27:03,207 --> 00:27:06,085
+You see, my employers
+are most interested in you.
+
+485
+00:27:06,167 --> 00:27:10,126
+-The Ogrons?
+-Miss Grant, please! I employ them.
+
+486
+00:27:10,207 --> 00:27:13,085
+Yes, well, whatever it is you're up to,
+you needn't expect any help from me.
+
+487
+00:27:13,167 --> 00:27:14,646
+I don't need any help.
+
+488
+00:27:14,727 --> 00:27:17,161
+Your simple presence
+will be quite enough.
+
+489
+00:27:17,367 --> 00:27:21,201
+Oh, by the way, I need hardly warn you
+there is no point in trying to escape.
+
+490
+00:27:21,287 --> 00:27:23,198
+This is an interplanetary
+police spaceship,
+
+491
+00:27:23,287 --> 00:27:26,040
+specially built for carrying prisoners,
+as you can see.
+
+492
+00:27:26,127 --> 00:27:27,196
+Stolen, of course?
+
+493
+00:27:27,287 --> 00:27:30,438
+(SCOFFING) Of course.
+Oh, and another thing...
+
+494
+00:27:31,047 --> 00:27:34,119
+There's a closed-circuit television
+camera trained on you from up there,
+
+495
+00:27:34,207 --> 00:27:36,767
+so you will be
+under continuous observation.
+
+496
+00:27:36,847 --> 00:27:38,166
+I think that's all.
+
+497
+00:27:38,247 --> 00:27:40,761
+Well, now, if you'll excuse me,
+I have some rather complicated
+
+498
+00:27:40,847 --> 00:27:43,236
+astro-navigational calculations
+to work out.
+
+499
+00:27:43,327 --> 00:27:45,045
+May I ask where we're going?
+
+500
+00:27:45,127 --> 00:27:48,756
+Certainly. To the home of our friends,
+the Ogrons.
+
+501
+00:27:49,287 --> 00:27:52,802
+A barren and uninteresting planet
+on the remote fringes of the galaxy.
+
+502
+00:27:52,887 --> 00:27:54,525
+Why are you taking us there?
+
+503
+00:27:54,607 --> 00:27:57,917
+That, Miss Grant,
+you will discover when you arrive.
+
+504
+00:28:02,327 --> 00:28:04,397
+Right, now listen to me.
+We haven't got much time
+
+505
+00:28:04,487 --> 00:28:06,125
+before he gets back to the flight deck.
+
+506
+00:28:06,207 --> 00:28:08,562
+Now, the first thing
+we've got to do is to escape.
+
+507
+00:28:08,647 --> 00:28:11,002
+Now, they took my sonic screwdriver
+from me in the prison
+
+508
+00:28:11,087 --> 00:28:13,555
+but they didn't get a hold of this.
+
+509
+00:28:14,967 --> 00:28:16,764
+-A steel file.
+-Right, let's go.
+
+510
+00:28:16,847 --> 00:28:18,997
+No, not yet. Let's wait
+till he gets back to the flight deck,
+
+511
+00:28:19,087 --> 00:28:22,397
+then he'll set the controls.
+Now, this is an automatic spaceship.
+
+512
+00:28:22,487 --> 00:28:24,842
+Once we're underway,
+the computers take over, right?
+
+513
+00:28:24,927 --> 00:28:26,883
+-Okay, so what's the plan?
+-Now this is what we're gonna do.
+
+514
+00:28:52,427 --> 00:28:54,497
+<i>So I told the High Council</i>
+<i>of the Time Lords,</i>
+
+515
+00:28:54,587 --> 00:28:58,466
+<i>I said they had absolutely no right</i>
+<i>to put me on trial in the first place.</i>
+
+516
+00:28:58,547 --> 00:29:01,345
+Well, if I chose to go wandering around
+the universe in my own time,
+
+517
+00:29:01,427 --> 00:29:02,496
+that was my business.
+
+518
+00:29:02,587 --> 00:29:04,179
+What about stealing the TARDIS?
+
+519
+00:29:04,267 --> 00:29:06,861
+I didn't steal it. I just borrowed it.
+
+520
+00:29:06,947 --> 00:29:09,177
+I fully intended to return it,
+I assure you.
+
+521
+00:29:09,267 --> 00:29:11,178
+Anyway, she wasn't exactly
+the latest model, poor old thing.
+
+522
+00:29:11,267 --> 00:29:13,144
+JO: (LAUGHING) You can say that again.
+
+523
+00:29:13,227 --> 00:29:15,866
+I tell you, I made a complete fool
+of that prosecuting council, though.
+
+524
+00:29:15,947 --> 00:29:18,142
+I ridiculed his every argument.
+
+525
+00:29:18,227 --> 00:29:20,377
+Yes, and I told him
+that I had the complete answer
+
+526
+00:29:20,467 --> 00:29:21,946
+to every one his charges against me.
+
+527
+00:29:22,027 --> 00:29:23,426
+JO: And then what happened?
+
+528
+00:29:23,507 --> 00:29:26,180
+DOCTOR: Then what happened, well,
+they found me guilty,
+
+529
+00:29:26,267 --> 00:29:28,986
+changed my appearance
+and exiled me to Earth.
+
+530
+00:29:29,067 --> 00:29:30,705
+JO: And that's where you met me!
+
+531
+00:29:30,787 --> 00:29:33,460
+<i>That's right. That's where I met you.</i>
+
+532
+00:29:33,547 --> 00:29:35,902
+<i>And that alone</i>
+<i>made the exile worthwhile, Miss Grant.</i>
+
+533
+00:29:35,987 --> 00:29:37,136
+JO: <i>Thank you!</i>
+
+534
+00:29:37,227 --> 00:29:38,945
+<i>Not that there's anything wrong</i>
+<i>with Earth.</i>
+
+535
+00:29:39,027 --> 00:29:41,541
+<i>Well, it's quite a nice, little planet</i>
+<i>in its own way, but...</i>
+
+536
+00:29:41,627 --> 00:29:45,302
+<i>After all, I am a Time Lord,Jo,</i>
+<i>and I think I've deserve my freedom.</i>
+
+537
+00:29:45,387 --> 00:29:48,459
+-JO: <i>Right!</i>
+-In reminiscent mood, are you, Doctor?
+
+538
+00:29:48,547 --> 00:29:50,856
+Poor Miss Grant,
+you have my deepest sympathy.
+
+539
+00:29:50,947 --> 00:29:52,300
+(CHUCKLING)
+
+540
+00:30:00,947 --> 00:30:03,222
+As I soon realised,
+the trouble with Lethbridge-Stewart
+
+541
+00:30:03,307 --> 00:30:04,706
+is that he's got a military mind.
+
+542
+00:30:04,787 --> 00:30:07,824
+Well, he is a brigadier, after all.
+I mean, what do you expect?
+
+543
+00:30:07,907 --> 00:30:08,976
+No, that's just the trouble though.
+
+544
+00:30:09,067 --> 00:30:12,423
+He's hidebound, you see.
+He always does everything by the rules.
+
+545
+00:30:12,507 --> 00:30:14,179
+I keep telling him.
+I said, "There are times, you know,
+
+546
+00:30:14,267 --> 00:30:16,701
+"when you've simply got to cut
+right through the red tape."
+
+547
+00:30:16,787 --> 00:30:18,743
+And you've managed to do that, have you?
+
+548
+00:30:18,827 --> 00:30:22,058
+DOCTOR: Yes, I've managed to cut
+right through it.
+
+549
+00:30:23,987 --> 00:30:27,946
+And I'm not going to let authority
+stand between me and my freedom.
+
+550
+00:30:28,347 --> 00:30:32,420
+(SIGHING) Lethbridge-Stewart, I...
+
+551
+00:30:32,507 --> 00:30:37,183
+Hey! As far as he's concerned I've been
+absent without leave all this time.
+
+552
+00:30:38,067 --> 00:30:39,297
+I'm always telling people ...
+
+553
+00:30:45,547 --> 00:30:48,061
+Is everything all right, Miss Grant?
+
+554
+00:30:48,947 --> 00:30:51,097
+Yes, yes, I'm fine.
+
+555
+00:30:51,427 --> 00:30:54,624
+And how about you, Doctor?
+No ill effects, I hope?
+
+556
+00:30:56,347 --> 00:30:58,383
+Doctor, are you all right?
+
+557
+00:30:58,867 --> 00:31:01,984
+JO: <i>Please don't wake him.</i>
+<i>He's...he's fast asleep.</i>
+
+558
+00:31:02,747 --> 00:31:07,867
+Is he? How very relaxed of him.
+
+559
+00:31:08,747 --> 00:31:10,262
+you come with me, Miss Grant.
+
+560
+00:31:11,427 --> 00:31:12,746
+Come on!
+
+561
+00:31:19,707 --> 00:31:21,937
+Right, in you go, Miss Grant.
+
+562
+00:31:32,107 --> 00:31:34,098
+Can you hear me, Doctor?
+
+563
+00:31:34,347 --> 00:31:37,862
+<i>Are you on the flight deck?</i>
+<i>If so, listen to this.</i>
+
+564
+00:31:38,707 --> 00:31:40,937
+<i>Miss Grant is in the air lock.</i>
+
+565
+00:31:43,067 --> 00:31:45,865
+Unless you surrender yourself
+to me immediately,
+
+566
+00:31:45,947 --> 00:31:49,303
+I shall open the outer door
+and hurl her into space.
+
+567
+00:31:53,587 --> 00:31:56,420
+What an ingenious fellow
+you are, Doctor!
+
+568
+00:31:57,147 --> 00:31:59,183
+Oh, no, you don't!
+
+569
+00:32:01,147 --> 00:32:03,342
+Now hold it, Doctor, hold it!
+
+570
+00:32:04,227 --> 00:32:06,661
+Get that blaster over to me
+or I press this button,
+
+571
+00:32:06,747 --> 00:32:09,420
+and that will be the end of Miss Grant!
+
+572
+00:32:16,507 --> 00:32:18,179
+(DOCTOR EXCLAIMING)
+
+573
+00:32:26,547 --> 00:32:27,775
+Thank you, Doctor.
+
+574
+00:32:27,867 --> 00:32:29,778
+(THUDDING)
+
+575
+00:32:30,567 --> 00:32:32,876
+Well, we appear to have company.
+
+576
+00:32:39,387 --> 00:32:41,742
+Would these be your Ogron friends?
+
+577
+00:32:41,827 --> 00:32:43,226
+Why, no, no.
+
+578
+00:32:44,667 --> 00:32:47,659
+Well, I should try and be
+a bit more hospitable, old chap.
+
+579
+00:32:47,747 --> 00:32:51,740
+Come on, put that gun away.
+They've probably got us outnumbered.
+
+580
+00:32:56,147 --> 00:32:59,378
+Welcome on board my ship.
+To what do I owe the honour?
+
+581
+00:32:59,467 --> 00:33:02,379
+Why have you violated
+the Draconian frontier?
+
+582
+00:33:02,467 --> 00:33:06,016
+Uh, yes, I'm most apologetic about that,
+but it was really beyond my control.
+
+583
+00:33:06,107 --> 00:33:08,575
+You see, my prisoners
+were trying to escape and my...
+
+584
+00:33:08,667 --> 00:33:10,897
+-My ship was thrown off course.
+-Prisoners?
+
+585
+00:33:10,987 --> 00:33:13,455
+Yes, I am the commissioner
+of Earth's Interplanetary Police.
+
+586
+00:33:13,547 --> 00:33:17,142
+I'm taking these two people back
+to planet Sirius 4 for...for trial.
+
+587
+00:33:17,227 --> 00:33:18,819
+Uh, here is my warrant of authority.
+
+588
+00:33:18,907 --> 00:33:21,023
+Now, don't believe this man, he's lying.
+
+589
+00:33:21,107 --> 00:33:24,224
+I'm not concerned in disputes
+between Earthmen.
+
+590
+00:33:24,867 --> 00:33:27,461
+We shall take them to Draconia.
+Put them in the cage.
+
+591
+00:33:27,547 --> 00:33:28,662
+But you can't do that!
+
+592
+00:33:28,747 --> 00:33:30,146
+I'm a commissioner
+of Interplanetary Police!
+
+593
+00:33:30,227 --> 00:33:33,105
+This is my spaceship!
+I tell you, you can't do that!
+
+594
+00:33:45,227 --> 00:33:48,617
+Well, personally I'm quite happy
+to be going to Draconia, Jo.
+
+595
+00:33:48,707 --> 00:33:50,060
+Perhaps we can convince the Emperor
+
+596
+00:33:50,147 --> 00:33:51,785
+what our friend here
+has been trying to do.
+
+597
+00:33:51,867 --> 00:33:53,937
+You really think he'd believe you?
+
+598
+00:33:54,027 --> 00:33:56,700
+Well, this won't be my first visit
+to Draconia, you know?
+
+599
+00:33:56,787 --> 00:33:59,460
+Many years ago,
+I spent quite some time there.
+
+600
+00:33:59,547 --> 00:34:02,220
+I was able to help them through a period
+of very great difficulty.
+
+601
+00:34:02,687 --> 00:34:04,917
+So there's a good chance
+that they'll believe you, huh?
+
+602
+00:34:05,007 --> 00:34:07,316
+Well, it was a long time ago.
+Things may have changed.
+
+603
+00:34:07,407 --> 00:34:09,318
+But I do understand
+the Draconian mentality, Jo.
+
+604
+00:34:09,407 --> 00:34:11,045
+It all depends how you approach them.
+
+605
+00:34:11,127 --> 00:34:14,437
+So, if they do believe the Doctor,
+you've had it!
+
+606
+00:34:14,527 --> 00:34:16,722
+Perhaps, Miss Grant, perhaps.
+
+607
+00:34:16,927 --> 00:34:19,964
+But one never knows
+when help may be at hand.
+
+608
+00:34:20,047 --> 00:34:22,402
+Now, if you'll excuse me,
+I think that this is going to be
+
+609
+00:34:22,487 --> 00:34:26,765
+rather a long journey,
+so, uh, good night.
+
+610
+00:34:27,767 --> 00:34:30,076
+We'll wake you with a cup of tea
+in the morning.
+
+611
+00:34:30,167 --> 00:34:31,486
+Thank you.
+
+612
+00:34:55,727 --> 00:34:59,356
+So, Father, once more
+Earthmen have invaded our space.
+
+613
+00:34:59,447 --> 00:35:03,156
+You will address the Emperor
+in a proper manner.
+
+614
+00:35:03,247 --> 00:35:04,396
+Your pardon.
+
+615
+00:35:04,487 --> 00:35:07,445
+May I have permission
+to address the Emperor?
+
+616
+00:35:10,367 --> 00:35:11,925
+My life at your command.
+
+617
+00:35:12,007 --> 00:35:15,716
+One day, my Son,
+you will inherit this throne.
+
+618
+00:35:15,807 --> 00:35:19,800
+Then you will realise
+the importance of due formality.
+
+619
+00:35:19,887 --> 00:35:22,685
+Now, what do you wish to say?
+
+620
+00:35:22,767 --> 00:35:26,203
+Surely, now you will declare war
+upon the Earthmen?
+
+621
+00:35:26,287 --> 00:35:28,437
+Let me lead your battle fleets
+to crush their...
+
+622
+00:35:28,527 --> 00:35:31,087
+They too, have battle fleets, my Son.
+
+623
+00:35:31,167 --> 00:35:34,000
+Such a war could
+well bring down both empires.
+
+624
+00:35:34,087 --> 00:35:37,238
+Not if we strike first,
+then we shall be the victors!
+
+625
+00:35:37,327 --> 00:35:40,763
+In such a war, there are no victors.
+
+626
+00:35:40,847 --> 00:35:43,600
+The nobles of the court
+are demanding action.
+
+627
+00:35:43,687 --> 00:35:45,678
+They fear for the honour of Draconia.
+
+628
+00:35:45,767 --> 00:35:51,205
+I am the emperor!
+The honour of Draconia is vested in me.
+
+629
+00:35:51,287 --> 00:35:55,200
+The throne depends upon
+the great families for support.
+
+630
+00:35:55,287 --> 00:35:58,006
+Emperors have been deposed before now.
+
+631
+00:35:58,087 --> 00:36:01,841
+An emperor who does not rule
+deposes himself!
+
+632
+00:36:02,807 --> 00:36:04,798
+Then what will you do, Father?
+
+633
+00:36:04,887 --> 00:36:07,845
+I shall question these Earthmen myself.
+
+634
+00:36:07,927 --> 00:36:09,963
+I have already sent for them.
+
+635
+00:36:10,047 --> 00:36:12,720
+Why waste time listening to their lies?
+
+636
+00:36:19,247 --> 00:36:22,364
+Majesty, I bring the prisoners.
+
+637
+00:36:23,007 --> 00:36:25,965
+May I have permission
+to address the Emperor?
+
+638
+00:36:26,407 --> 00:36:27,476
+Wait!
+
+639
+00:36:27,567 --> 00:36:29,285
+This is an insult!
+
+640
+00:36:32,767 --> 00:36:34,803
+My life at your command, sire.
+
+641
+00:36:34,887 --> 00:36:36,445
+How dare you address the Emperor
+
+642
+00:36:36,527 --> 00:36:38,597
+in a manner reserved
+for a noble of Draconia?
+
+643
+00:36:38,687 --> 00:36:40,882
+Ah, but I am a noble of Draconia.
+
+644
+00:36:40,967 --> 00:36:43,197
+The honour was conferred on me
+by the 15th Emperor.
+
+645
+00:36:43,287 --> 00:36:47,439
+The 15th Emperor reigned 500 years ago.
+
+646
+00:36:47,527 --> 00:36:48,596
+(LAUGHING)
+
+647
+00:36:48,687 --> 00:36:53,158
+Your Majesty, do not be taken
+in by this ridiculous story...
+
+648
+00:36:53,247 --> 00:36:54,760
+Be silent!
+
+649
+00:36:55,727 --> 00:36:57,399
+There is a legend
+among our people of a man
+
+650
+00:36:57,487 --> 00:37:00,718
+who assisted the 15th Emperor
+at a time of great trouble
+
+651
+00:37:00,807 --> 00:37:06,165
+when we were almost overwhelmed
+by a great plague from outer space.
+
+652
+00:37:06,247 --> 00:37:11,844
+But you could not be that man.
+No Earthman lives so long.
+
+653
+00:37:11,927 --> 00:37:14,487
+Your Majesty,
+this man that you speak of,
+
+654
+00:37:14,567 --> 00:37:16,444
+was he not known as the Doctor?
+
+655
+00:37:17,207 --> 00:37:20,438
+And did he not come to this planet
+in a spaceship called the TARDIS?
+
+656
+00:37:20,527 --> 00:37:21,846
+He did.
+
+657
+00:37:21,927 --> 00:37:23,963
+Well, I am that man, sire.
+
+658
+00:37:24,487 --> 00:37:27,684
+And I come from a race of people
+that live far longer than any Earthman.
+
+659
+00:37:27,767 --> 00:37:31,362
+Even if I accept your claim,
+you have broken our law.
+
+660
+00:37:31,447 --> 00:37:34,837
+Why did you violate Draconian space?
+
+661
+00:37:34,927 --> 00:37:38,078
+Your Majesty, this man was,
+and still is, my prisoner.
+
+662
+00:37:38,167 --> 00:37:39,839
+It is true, Your Majesty.
+
+663
+00:37:39,927 --> 00:37:43,158
+I did come here as a prisoner,
+but I came willingly,
+
+664
+00:37:43,247 --> 00:37:45,363
+in order to inform you that
+this man is plotting a war
+
+665
+00:37:45,447 --> 00:37:46,721
+between Earth and Draconia!
+
+666
+00:37:46,807 --> 00:37:48,957
+All Earthmen are determined upon war.
+
+667
+00:37:49,047 --> 00:37:51,607
+Ah, but the Master is not an Earthman.
+
+668
+00:37:51,687 --> 00:37:54,838
+I'm sorry to have to admit it,
+but he's a renegade of my own race
+
+669
+00:37:54,927 --> 00:37:57,521
+and he's using creatures called Ogrons
+
+670
+00:37:57,607 --> 00:37:59,802
+to attack your spaceships
+and those of the Earthmen.
+
+671
+00:37:59,887 --> 00:38:02,720
+The Earthmen who attacked
+our spaceships,
+
+672
+00:38:02,807 --> 00:38:04,843
+they have been seen many times.
+
+673
+00:38:04,927 --> 00:38:06,918
+I'm sorry,
+but there you are in error, sir.
+
+674
+00:38:07,007 --> 00:38:08,918
+Your people have seen Ogrons,
+
+675
+00:38:09,007 --> 00:38:11,999
+but they appear to them as Earthmen
+because of a hypnotic device.
+
+676
+00:38:12,087 --> 00:38:13,645
+It's true, Your Majesty.
+
+677
+00:38:13,727 --> 00:38:15,797
+When the Ogrons attacked
+the Earth ships,
+
+678
+00:38:15,887 --> 00:38:18,037
+the Earthmen saw them as Draconians.
+
+679
+00:38:18,127 --> 00:38:21,483
+Silence! Females are not permitted
+to speak in the presence of the Emperor.
+
+680
+00:38:21,567 --> 00:38:25,446
+Your Majesty, do not be deceived
+by the pathetic ravings
+
+681
+00:38:25,527 --> 00:38:27,802
+of two criminals
+trying to evade justice.
+
+682
+00:38:27,887 --> 00:38:31,641
+If what you say is true,
+it would explain much.
+
+683
+00:38:31,727 --> 00:38:34,287
+We lived at peace with the Earthmen
+for many years,
+
+684
+00:38:34,367 --> 00:38:37,404
+then suddenly they began
+to raid our spaceships.
+
+685
+00:38:37,487 --> 00:38:40,843
+When we protested,
+they said that we were attacking them.
+
+686
+00:38:40,927 --> 00:38:42,883
+In order to cover up their own attacks!
+
+687
+00:38:42,967 --> 00:38:47,245
+This is simply a plot of the Earthmen
+to lull us into false security.
+
+688
+00:38:50,047 --> 00:38:51,196
+Speak!
+
+689
+00:38:51,607 --> 00:38:53,518
+Your Majesty, a spaceship from Earth
+
+690
+00:38:53,607 --> 00:38:56,201
+seeks permission to land
+in the palace spaceport.
+
+691
+00:38:56,287 --> 00:38:59,438
+They say they're on a special mission
+from the President of Earth.
+
+692
+00:38:59,527 --> 00:39:01,563
+This is a trick!
+You must not allow them to land!
+
+693
+00:39:01,647 --> 00:39:03,922
+We are not yet at war with Earth.
+
+694
+00:39:04,007 --> 00:39:07,079
+I shall hear what
+their president has to say.
+
+695
+00:39:07,167 --> 00:39:08,725
+I give my permission.
+
+696
+00:39:08,807 --> 00:39:10,240
+Your Majesty.
+
+697
+00:39:10,327 --> 00:39:12,363
+A wise decision, Your Majesty.
+
+698
+00:39:12,447 --> 00:39:14,278
+For only by Earth and Draconia
+working together
+
+699
+00:39:14,367 --> 00:39:16,358
+can we hope to arrive at the truth.
+
+700
+00:39:16,447 --> 00:39:18,836
+I, too, welcome your wisdom,
+Your Majesty.
+
+701
+00:39:18,927 --> 00:39:22,044
+Nobody could be more devoted
+to the cause of peace than I.
+
+702
+00:39:22,127 --> 00:39:24,243
+As a commissioner of Earth's
+Interplanetary Police,
+
+703
+00:39:24,327 --> 00:39:27,524
+I have devoted my life
+to the cause of law and order.
+
+704
+00:39:27,607 --> 00:39:30,644
+And law and order can only exist
+in a time of peace.
+
+705
+00:39:30,727 --> 00:39:32,877
+You feeling all right, old chap?
+
+706
+00:39:32,967 --> 00:39:35,686
+Only during a period
+of social stability,
+
+707
+00:39:35,767 --> 00:39:38,600
+can society adequately
+deal with criminals
+
+708
+00:39:38,687 --> 00:39:40,279
+such as this man
+and this unfortunate girl.
+
+709
+00:39:40,367 --> 00:39:41,402
+(HYPNOTIC PULSE SOUNDING)
+
+710
+00:39:41,487 --> 00:39:44,001
+Doctor, listen! That sound!
+
+711
+00:39:44,967 --> 00:39:46,195
+PRINCE: Silence, female!
+
+712
+00:39:46,287 --> 00:39:47,515
+Quiet!
+
+713
+00:39:47,607 --> 00:39:50,644
+It's the same noise
+that I heard on the cargo ship.
+
+714
+00:39:50,727 --> 00:39:51,921
+Doctor, it's the Ogrons!
+
+715
+00:39:52,007 --> 00:39:54,726
+Your Majesty,
+I beg of you to be cautious.
+
+716
+00:39:54,807 --> 00:39:56,957
+Something is seriously wrong here.
+This ship that has just landed,
+
+717
+00:39:57,047 --> 00:39:58,446
+I beg you,
+place it under guard immediately.
+
+718
+00:39:58,527 --> 00:40:00,006
+Your Majesty, please?
+
+719
+00:40:00,087 --> 00:40:02,362
+DRACONIAN: (SHOUTING) Earthmen!
+
+720
+00:40:03,407 --> 00:40:05,398
+MASTER: Seize them, fool!
+
+721
+00:40:06,367 --> 00:40:08,483
+(ALL GRUNTING)
+
+722
+00:40:08,567 --> 00:40:11,286
+Ah, you idiots!
+Back to the ship, all of you!
+
+723
+00:40:11,367 --> 00:40:13,403
+Come on, back to the ship!
+
+724
+00:40:14,367 --> 00:40:17,325
+Now will you believe
+in the treachery of the Earthmen?
+
+725
+00:40:17,407 --> 00:40:20,558
+Your Majesty, look down here
+and tell me, what do you see?
+
+726
+00:40:20,647 --> 00:40:22,239
+(HYPNOTIC PULSE SOUNDING)
+
+727
+00:40:24,807 --> 00:40:27,480
+I see one of your Earth soldiers
+
+728
+00:40:27,567 --> 00:40:31,003
+who attacked my palace
+and killed my people.
+
+729
+00:40:31,087 --> 00:40:33,840
+Jo? Jo, can you still hear that sound?
+
+730
+00:40:33,927 --> 00:40:34,962
+(HYPNOTIC PULSE FADING)
+
+731
+00:40:35,047 --> 00:40:37,515
+Yes, it's fading. It's almost gone.
+
+732
+00:40:37,607 --> 00:40:39,325
+Your Majesty, I beg of you, please.
+Look again.
+
+733
+00:40:39,407 --> 00:40:41,602
+Why do we delay? Destroy him!
+
+734
+00:40:42,367 --> 00:40:43,482
+Wait!
+
+735
+00:40:46,887 --> 00:40:49,685
+He has spoken the truth.
+
+736
+00:41:00,047 --> 00:41:02,197
+Great, lumbering idiots!
+
+737
+00:41:02,287 --> 00:41:06,121
+Now you tell me that you've left
+one of your fellows in the palace!
+
+738
+00:41:06,207 --> 00:41:07,879
+Do you realise what this means?
+
+739
+00:41:07,967 --> 00:41:10,481
+As soon as the effect
+of the hypno-sound wears off,
+
+740
+00:41:10,567 --> 00:41:13,479
+the Draconians will know
+who it really was who attacked them.
+
+741
+00:41:13,567 --> 00:41:14,716
+You've ruined everything!
+
+742
+00:41:14,807 --> 00:41:16,286
+What shall we do now?
+
+743
+00:41:16,367 --> 00:41:19,962
+Do? There's only one thing we can do.
+
+744
+00:41:20,047 --> 00:41:22,242
+Make sure that the Doctor
+and his evidence
+
+745
+00:41:22,327 --> 00:41:24,636
+is never allowed to reach Earth.
+
+746
+00:41:29,167 --> 00:41:32,477
+Why does the Master want war
+between Earth and Draconia?
+
+747
+00:41:32,567 --> 00:41:35,843
+Did you attack our spaceships
+and those of the Earthmen?
+
+748
+00:41:35,927 --> 00:41:38,316
+Oh, it's no good.
+We're not getting anywhere.
+
+749
+00:41:38,407 --> 00:41:40,796
+Let me take him for questioning.
+He will answer to me.
+
+750
+00:41:40,887 --> 00:41:42,400
+I shall use the mind probe.
+
+751
+00:41:42,487 --> 00:41:44,557
+You'd only be wasting your time.
+
+752
+00:41:44,647 --> 00:41:47,525
+The Ogrons have got the finest
+defence mechanism of all, stupidity.
+
+753
+00:41:47,607 --> 00:41:48,756
+They haven't got a mind
+for you to probe.
+
+754
+00:41:48,847 --> 00:41:52,203
+Then remove him.
+We will deal with him later.
+
+755
+00:41:55,207 --> 00:42:00,042
+Why did that sound make us see
+this creature as a soldier from Earth?
+
+756
+00:42:00,127 --> 00:42:01,958
+Because you're frightened of Earthmen.
+
+757
+00:42:02,047 --> 00:42:04,242
+Draconians fear nothing, female.
+
+758
+00:42:04,327 --> 00:42:08,479
+Well, of course you do.
+You fear them and they fear you.
+
+759
+00:42:08,567 --> 00:42:11,718
+That's why when Earthmen
+heard that sound, they saw Draconians.
+
+760
+00:42:11,807 --> 00:42:13,081
+That is true.
+
+761
+00:42:13,167 --> 00:42:18,287
+We do fear the Earthmen
+and they fear us.
+
+762
+00:42:18,367 --> 00:42:20,801
+And fear breeds hatred, Your Majesty.
+
+763
+00:42:20,887 --> 00:42:24,197
+Fear is the greatest enemy of them all,
+for fear leads us to war.
+
+764
+00:42:24,287 --> 00:42:27,438
+We shall tell the Earthmen
+what has happened here.
+
+765
+00:42:27,527 --> 00:42:29,358
+They, too, must know the truth.
+
+766
+00:42:29,447 --> 00:42:31,085
+They will not believe us.
+
+767
+00:42:31,167 --> 00:42:32,805
+The Prince is right, Your Majesty.
+
+768
+00:42:32,887 --> 00:42:35,959
+We must mount an expedition at once
+and we must take the Ogron as evidence.
+
+769
+00:42:36,047 --> 00:42:38,197
+The empires are on the verge of war.
+
+770
+00:42:38,287 --> 00:42:40,198
+A Draconian spaceship in Earth space
+
+771
+00:42:40,287 --> 00:42:43,723
+could be destroyed before it
+reaches its destination.
+
+772
+00:42:43,807 --> 00:42:45,763
+We could use the ship
+the Master brought us in.
+
+773
+00:42:45,847 --> 00:42:47,166
+It's an Earth police spaceship.
+
+774
+00:42:47,247 --> 00:42:49,283
+Females are not permitted to speak...
+
+775
+00:42:49,367 --> 00:42:50,766
+The female may speak.
+
+776
+00:42:50,847 --> 00:42:53,077
+-But...
+-We must respect
+
+777
+00:42:53,167 --> 00:42:56,796
+the customs of our guests,
+strange though they may be.
+
+778
+00:42:56,887 --> 00:42:58,798
+The suggestion had merit.
+
+779
+00:42:58,887 --> 00:43:00,684
+Thank you, Your Majesty.
+
+780
+00:43:00,767 --> 00:43:02,837
+You too, will go on this mission.
+
+781
+00:43:02,927 --> 00:43:05,646
+But it must be headed
+by a Draconian of noble rank.
+
+782
+00:43:05,727 --> 00:43:07,877
+I shall send my son.
+
+783
+00:43:14,447 --> 00:43:16,119
+Doctor, where are we?
+
+784
+00:43:16,207 --> 00:43:18,596
+We're just about to cross
+the frontier into Earth space.
+
+785
+00:43:18,687 --> 00:43:20,166
+Ooh, that's good.
+
+786
+00:43:20,247 --> 00:43:22,761
+Unless your Earth people destroy us.
+
+787
+00:43:22,847 --> 00:43:25,077
+Well, this is an Earth police spaceship,
+you know, sir.
+
+788
+00:43:25,167 --> 00:43:27,078
+Even if it is stolen.
+
+789
+00:43:27,167 --> 00:43:29,397
+What is that?
+
+790
+00:43:29,487 --> 00:43:31,637
+DOCTOR: It looks like another spaceship.
+
+791
+00:43:31,727 --> 00:43:33,957
+It appears to be following us.
+
+792
+00:43:39,927 --> 00:43:41,360
+OGRON: Look!
+
+793
+00:43:43,167 --> 00:43:44,964
+MASTER: Well, that must be them.
+
+794
+00:43:45,267 --> 00:43:49,226
+DOCTOR: We should be picking them up
+on the visual scanner now.
+
+795
+00:43:52,707 --> 00:43:54,618
+JO: It's an Ogron ship!
+
+796
+00:43:54,867 --> 00:43:55,982
+Fire!
+
+797
+00:44:17,547 --> 00:44:18,866
+DOCTOR: Hang on.
+I think we're shaking them off.
+
+798
+00:44:18,947 --> 00:44:20,062
+(OGRON GRUNTING)
+
+799
+00:44:20,147 --> 00:44:21,262
+Doctor!
+
+800
+00:44:21,347 --> 00:44:23,542
+He's broken out! Get out, Jo!
+
+801
+00:44:25,347 --> 00:44:26,826
+MASTER: We must have hit them.
+They're losing speed.
+
+802
+00:44:26,907 --> 00:44:28,056
+OGRON: Shall I fire again?
+
+803
+00:44:28,147 --> 00:44:32,060
+No, no, it might be possible
+to take the Doctor alive after all.
+
+804
+00:44:32,147 --> 00:44:33,466
+Muster a boarding party.
+
+805
+00:44:33,547 --> 00:44:34,446
+Yes, Master.
+
+806
+00:44:35,247 --> 00:44:36,839
+(OGRON GRUNTING)
+
+807
+00:44:37,487 --> 00:44:39,796
+Right, there you are, my friend.
+
+808
+00:44:45,927 --> 00:44:47,645
+Are you all right?
+
+809
+00:44:47,727 --> 00:44:49,479
+JO: Oh, no, you don't!
+
+810
+00:44:49,567 --> 00:44:51,603
+No, no!
+
+811
+00:44:51,687 --> 00:44:53,166
+-No, let go of me!
+-This way!
+
+812
+00:44:53,247 --> 00:44:54,362
+JO: Let me go!
+
+813
+00:44:54,447 --> 00:44:56,119
+We've been boarded!
+We need the blasters, come on!
+
+814
+00:44:56,207 --> 00:44:57,435
+-The prisoner?
+-Don't worry about him.
+
+815
+00:44:57,527 --> 00:44:58,801
+He's no use to us at the moment.
+
+816
+00:44:58,887 --> 00:45:01,924
+JO: Let me go! No! Doctor!
+
+817
+00:45:03,647 --> 00:45:06,081
+DOCTOR: Get down!
+OGRON: The enemy!
+
+818
+00:45:06,687 --> 00:45:08,279
+OGRON: Fool, go!
+
+819
+00:45:10,367 --> 00:45:12,119
+JO: Help! Doctor!
+OGRON: You come!
+
+820
+00:45:12,207 --> 00:45:13,481
+-You must come!
+-No!
+
+821
+00:45:13,567 --> 00:45:16,161
+Look out! We must take the girl!
+
+822
+00:45:16,247 --> 00:45:17,282
+No!
+
+823
+00:45:19,327 --> 00:45:20,601
+In here!
+
+824
+00:45:23,567 --> 00:45:25,637
+MASTER: Right. Unlock!
+
+825
+00:45:31,127 --> 00:45:33,641
+CAPTAIN ON RADIO:
+<i>This is Earth battle cruiser X29.</i>
+
+826
+00:45:33,727 --> 00:45:36,161
+<i>Do you read me? Identify yourself.</i>
+
+827
+00:45:37,367 --> 00:45:39,437
+<i>This is Earth battle cruiser X29.</i>
+
+828
+00:45:39,527 --> 00:45:41,882
+<i>Do you read me? Identify yourself.</i>
+
+829
+00:45:41,967 --> 00:45:46,459
+Hello, this is Earth
+police spaceship 2390,
+
+830
+00:45:46,547 --> 00:45:48,542
+on a special mission
+to the President of Earth. Over.
+
+831
+00:45:48,687 --> 00:45:51,679
+CAPTAIN: <i>Identify the ship</i>
+<i>that has just unlocked from you.</i>
+
+832
+00:45:51,767 --> 00:45:53,678
+<i>They refuse to answer our signals.</i>
+
+833
+00:45:53,767 --> 00:45:55,325
+Look, it's of vital importance
+
+834
+00:45:55,407 --> 00:45:58,001
+that you pursue and capture
+that ship immediately. Over.
+
+835
+00:45:58,087 --> 00:46:00,999
+<i>You are in possession</i>
+<i>of a stolen police spaceship.</i>
+
+836
+00:46:01,087 --> 00:46:03,123
+<i>You are under arrest.</i>
+<i>Stand by to be boarded.</i>
+
+837
+00:46:03,207 --> 00:46:04,526
+DOCTOR ON RADIO:
+<i>Look, you don't understand.</i>
+
+838
+00:46:04,607 --> 00:46:07,326
+<i>The man who stole this ship</i>
+<i>is escaping in that vessel.</i>
+
+839
+00:46:07,407 --> 00:46:08,522
+CAPTAIN: <i>You are under arrest.</i>
+
+840
+00:46:08,607 --> 00:46:11,360
+<i>You'll be given the opportunity</i>
+<i>of making a full statement.</i>
+
+841
+00:46:11,447 --> 00:46:14,723
+<i>Do not offer any resistance.</i>
+<i>Stand by to be boarded.</i>
+
+842
+00:46:14,807 --> 00:46:17,640
+DOCTOR: <i>Oh, very well.</i>
+<i>We're standing by.</i>
+
+843
+00:46:17,727 --> 00:46:18,842
+(LAUGHING)
+
+844
+00:46:18,927 --> 00:46:23,557
+Poor Doctor.
+Enmeshed in the throes of bureaucracy.
+
+845
+00:46:23,647 --> 00:46:24,716
+(LAUGHING)
+
+846
+00:46:24,807 --> 00:46:27,162
+It'll take him a long time
+to talk himself out of that one.
+
+847
+00:46:27,247 --> 00:46:29,761
+But he'll get to see the President,
+eventually.
+
+848
+00:46:29,847 --> 00:46:30,882
+She won't believe him.
+
+849
+00:46:30,967 --> 00:46:34,357
+Oh, yes, she will,
+when she sees the Ogron prisoner.
+
+850
+00:46:34,447 --> 00:46:36,119
+He's our evidence.
+
+851
+00:46:37,847 --> 00:46:40,725
+Your evidence is standing
+right behind you.
+
+852
+00:46:43,527 --> 00:46:47,076
+The Draconian Prince knows
+the truth and he's with the Doctor.
+
+853
+00:46:47,167 --> 00:46:51,604
+My dear, Miss Grant, in the climate
+of opinion that I have created,
+
+854
+00:46:51,687 --> 00:46:53,166
+do you think that any Earthman
+
+855
+00:46:53,247 --> 00:46:55,283
+is going to believe the word
+of a Draconian?
+
+856
+00:46:56,767 --> 00:47:00,043
+Your Highness,
+we've heard the Doctor's theory before.
+
+857
+00:47:00,127 --> 00:47:03,836
+And, with respect,
+there is still no concrete evidence.
+
+858
+00:47:03,927 --> 00:47:06,236
+I myself would like to believe you
+but, as you can see,
+
+859
+00:47:06,327 --> 00:47:08,397
+I need proof to convince my people.
+
+860
+00:47:08,487 --> 00:47:10,717
+Then we must mount an expedition
+to the planet of the Ogrons.
+
+861
+00:47:10,807 --> 00:47:11,956
+The proof we need is there, madam.
+
+862
+00:47:12,047 --> 00:47:14,163
+With Earth on the brink of war,
+how can we divert our forces
+
+863
+00:47:14,247 --> 00:47:16,317
+into such a pointless expedition?
+
+864
+00:47:16,807 --> 00:47:19,446
+My dear chap,
+I'm not asking for a battle fleet.
+
+865
+00:47:19,527 --> 00:47:21,757
+All I require is one small spaceship.
+
+866
+00:47:29,687 --> 00:47:34,715
+Well, Miss Grant,
+welcome to my humble abode.
+
+867
+00:47:34,807 --> 00:47:36,320
+I think you were better off in prison.
+
+868
+00:47:36,407 --> 00:47:37,556
+Oh, temporary quarters, my dear.
+
+869
+00:47:37,647 --> 00:47:40,036
+I shall soon be changing them
+for something better.
+
+870
+00:47:40,127 --> 00:47:41,924
+Oh, you'll soon be back in jail.
+
+871
+00:47:42,007 --> 00:47:43,042
+When the truth gets out,
+
+872
+00:47:43,127 --> 00:47:45,880
+Earth and Draconia will combine
+their forces to attack you.
+
+873
+00:47:45,967 --> 00:47:49,403
+I don't think so.
+There's too much distrust between them.
+
+874
+00:47:49,487 --> 00:47:51,045
+The Doctor will find you, eventually.
+
+875
+00:47:51,127 --> 00:47:54,642
+Ah, there I agree with you.
+He must find me.
+
+876
+00:47:54,727 --> 00:47:57,366
+Not only to rescue you,
+
+877
+00:47:57,447 --> 00:48:01,565
+but also to be reunited
+with his beloved TARDIS.
+
+878
+00:48:03,807 --> 00:48:06,958
+Your Royal Highness,
+could you convince your people
+
+879
+00:48:07,047 --> 00:48:08,799
+they were not being attacked
+by Earthmen?
+
+880
+00:48:08,887 --> 00:48:11,447
+(SIGHING) If only we had proof.
+
+881
+00:48:11,527 --> 00:48:14,564
+Then I could convince my people
+and you could convince yours.
+
+882
+00:48:14,647 --> 00:48:16,638
+But there's not much time.
+
+883
+00:48:16,727 --> 00:48:20,356
+Madam President, everything is ready.
+We shall use my personal scoutship.
+
+884
+00:48:20,447 --> 00:48:23,280
+We'd better leave at once.
+Madam President.
+
+885
+00:48:25,847 --> 00:48:29,476
+-My life at your command.
+-Madam President.
+
+886
+00:48:36,287 --> 00:48:38,801
+DOCTOR: Right, 34 seconds,
+
+887
+00:48:38,887 --> 00:48:44,166
+a course correction to galactic
+coordinates 2349-6784.
+
+888
+00:48:44,247 --> 00:48:45,680
+You realise where that will take us?
+
+889
+00:48:45,767 --> 00:48:47,837
+A completely uninhabited sector
+of the galaxy.
+
+890
+00:48:47,927 --> 00:48:49,918
+Well, not completely uninhabited,
+General Williams.
+
+891
+00:48:50,007 --> 00:48:51,360
+That's where the Ogron's planet is.
+
+892
+00:48:51,447 --> 00:48:53,642
+No doubt your information
+is better than mine.
+
+893
+00:48:53,727 --> 00:48:56,799
+-May I ask where you obtained it?
+-Certainly. From the Master.
+
+894
+00:48:56,887 --> 00:48:59,959
+He fed the co-ordinates into his
+ship's computer when I was his prisoner.
+
+895
+00:49:00,047 --> 00:49:01,685
+And after you'd captured the ship, sir,
+
+896
+00:49:01,767 --> 00:49:03,803
+I extracted the information
+from the ship's memory banks.
+
+897
+00:49:03,887 --> 00:49:06,037
+We're simply wasting time...
+
+898
+00:49:07,127 --> 00:49:08,526
+Dragons!
+
+899
+00:49:08,607 --> 00:49:11,075
+Let me talk to them, I shall explain!
+
+900
+00:49:11,167 --> 00:49:12,520
+Somehow I don't think
+they're in the mood
+
+901
+00:49:12,607 --> 00:49:13,642
+for explanations at this minute.
+
+902
+00:49:13,727 --> 00:49:15,285
+-Can you outrun them?
+-This ship can outrun anything.
+
+903
+00:49:15,367 --> 00:49:18,245
+Hyper-drive. Max hyper-drive!
+
+904
+00:49:22,367 --> 00:49:26,326
+-Right, we're out of range now.
+-Reduce speed, return to course.
+
+905
+00:49:26,447 --> 00:49:28,103
+MASTER: They should be here very soon now.
+
+906
+00:49:28,187 --> 00:49:29,256
+(DEVICE BEEPING)
+
+907
+00:49:29,347 --> 00:49:33,386
+Judging by the size of the ship,
+they can't be in any great force.
+
+908
+00:49:33,467 --> 00:49:38,621
+So conceal yourselves and ambush them
+as soon as they arrive, right?
+
+909
+00:49:38,707 --> 00:49:40,504
+Hold on, wait a minute.
+Something's happened.
+
+910
+00:49:40,587 --> 00:49:42,498
+They must have landed very nearby.
+
+911
+00:49:42,587 --> 00:49:43,736
+Right, send out patrols!
+
+912
+00:49:43,827 --> 00:49:45,419
+Get them and bring them
+back here immediately.
+
+913
+00:49:45,507 --> 00:49:48,499
+And, remember, I want the Doctor alive.
+
+914
+00:49:48,587 --> 00:49:50,339
+OGRONS: Yes, Master.
+
+915
+00:49:55,647 --> 00:49:59,401
+One dominant life form,
+a large and savage reptile.
+
+916
+00:49:59,487 --> 00:50:02,001
+Yes, well, let's hope
+we don't encounter one.
+
+917
+00:50:02,087 --> 00:50:03,440
+Doctor, has it occurred to you
+what we're going to do
+
+918
+00:50:03,527 --> 00:50:05,518
+when we discover
+the source of this signal?
+
+919
+00:50:05,607 --> 00:50:09,361
+I've no idea, old chap.
+We'll find out when we get there.
+
+920
+00:50:09,447 --> 00:50:11,278
+Come on, can't be far.
+
+921
+00:50:35,287 --> 00:50:37,960
+-Drop! Surrender!
+-WILLIAMS: Take cover!
+
+922
+00:50:47,007 --> 00:50:48,076
+(GROWLING)
+
+923
+00:50:48,167 --> 00:50:49,725
+WILLIAMS: What is that?
+
+924
+00:50:49,807 --> 00:50:53,083
+I've no idea, but whatever it is,
+it's on our side.
+
+925
+00:50:56,527 --> 00:50:59,360
+Yes, I await your arrival
+with the greatest of pleasure.
+
+926
+00:50:59,447 --> 00:51:02,837
+And I shall be there to meet you
+the moment that your ship touches down.
+
+927
+00:51:07,327 --> 00:51:08,999
+(OGRONS GRUNTING)
+
+928
+00:51:11,207 --> 00:51:14,699
+-So, where's the Doctor?
+-The monster came.
+
+929
+00:51:14,787 --> 00:51:17,801
+The monster?
+And I suppose you all ran like rabbits?
+
+930
+00:51:17,887 --> 00:51:21,926
+-We fear the monster!
+-You stupid, cowardly idiots!
+
+931
+00:51:22,007 --> 00:51:23,804
+You will answer
+to your masters for this.
+
+932
+00:51:23,887 --> 00:51:26,685
+-What? They are coming?
+-Yes, they are coming!
+
+933
+00:51:26,767 --> 00:51:29,839
+Which means that I can dispense
+with your doubtful assistance.
+
+934
+00:51:29,927 --> 00:51:31,406
+Out of my way!
+
+935
+00:51:39,647 --> 00:51:41,126
+Hello, Doctor!
+
+936
+00:51:41,967 --> 00:51:44,117
+So here you are at last, eh?
+
+937
+00:51:45,047 --> 00:51:48,403
+-Surrender or you'll be shot down!
+-No, he's unarmed.
+
+938
+00:51:49,527 --> 00:51:53,440
+Unarmed maybe, but not unaccompanied.
+
+939
+00:51:53,527 --> 00:51:56,644
+I've brought some old friends along
+to meet you.
+
+940
+00:51:58,927 --> 00:52:00,565
+(MASTER LAUGHING)
+
+941
+00:52:01,987 --> 00:52:03,941
+Quite a touching little reunion.
+
+942
+00:52:05,227 --> 00:52:06,262
+(MASTER LAUGHING)
+
+943
+00:52:13,587 --> 00:52:17,341
+CHIEF DALEK: <i>Doctor, you are in our</i>
+<i>power and you will be exterminated.</i>
+
+944
+00:52:17,427 --> 00:52:20,499
+-No, not yet.
+<i>-You will obey the Daleks!</i>
+
+945
+00:52:20,587 --> 00:52:24,102
+You know as well as I do
+that this man does not fear death.
+
+946
+00:52:24,187 --> 00:52:27,099
+I want him to suffer
+a much worse punishment.
+
+947
+00:52:27,187 --> 00:52:29,781
+Look, my skill and cunning
+has brought about this war
+
+948
+00:52:29,867 --> 00:52:32,381
+which will make you
+the masters of the galaxy.
+
+949
+00:52:32,467 --> 00:52:37,063
+Leave the Doctor with me
+and let him see the result of that war.
+
+950
+00:52:37,867 --> 00:52:40,097
+Let him see the galaxy in ruins.
+
+951
+00:52:40,187 --> 00:52:44,499
+Let him see the planet Earth,
+that he loves so much, in ruins,
+
+952
+00:52:44,587 --> 00:52:46,384
+then exterminate him.
+
+953
+00:52:46,667 --> 00:52:52,185
+<i>Very well. He will remain your prisoner</i>
+<i>until the war is concluded.</i>
+
+954
+00:52:52,267 --> 00:52:56,863
+<i>Then you will bring him to us</i>
+<i>and we shall exterminate him.</i>
+
+955
+00:52:56,947 --> 00:53:01,463
+<i>We shall now return to our base</i>
+<i>and prepare the army of the Daleks.</i>
+
+956
+00:53:15,987 --> 00:53:20,503
+Oh, I suppose I should thank you
+for saving my life?
+
+957
+00:53:20,587 --> 00:53:24,296
+Not for long, Doctor.
+It's going to be a very short war.
+
+958
+00:53:25,027 --> 00:53:26,858
+Right, take them away.
+
+959
+00:53:41,867 --> 00:53:43,823
+-Hello, Doctor.
+-Hello, Jo.
+
+960
+00:53:43,907 --> 00:53:46,057
+Oh, so now they've got all of us.
+
+961
+00:53:46,147 --> 00:53:48,741
+All except the pilot.
+He's repairing the ship.
+
+962
+00:53:48,827 --> 00:53:53,025
+Why do these Dalek creatures wish
+to set your people and mine at war?
+
+963
+00:53:53,107 --> 00:53:56,702
+'Cause war will mean the extermination
+of both empires, Your Royal Highness,
+
+964
+00:53:56,787 --> 00:53:59,984
+and the Daleks will emerge
+as the supreme rulers.
+
+965
+00:54:00,067 --> 00:54:03,264
+Now somehow, we've got to get
+out of here and stop them.
+
+966
+00:54:03,347 --> 00:54:08,102
+(WHISPERING) Doctor! Doctor,
+would the Master's little fear-box help?
+
+967
+00:54:09,267 --> 00:54:10,336
+Well done, Jo!
+
+968
+00:54:10,427 --> 00:54:12,065
+You see, we could use it
+to frighten the Ogrons away
+
+969
+00:54:12,147 --> 00:54:13,216
+and then we can all escape.
+
+970
+00:54:13,307 --> 00:54:14,342
+Well, that's hardly practical,
+Miss Grant.
+
+971
+00:54:14,467 --> 00:54:15,866
+They'd just run off
+and we'd still be locked in.
+
+972
+00:54:15,947 --> 00:54:17,016
+(SIGHING) Oh!
+
+973
+00:54:17,107 --> 00:54:21,862
+There is one thing we can do, though,
+and it'll need a very slight adjustment.
+
+974
+00:54:24,227 --> 00:54:25,342
+There's nothing to worry about.
+
+975
+00:54:25,427 --> 00:54:28,260
+The Doctor will be perfectly safe
+in my hands.
+
+976
+00:54:28,347 --> 00:54:31,100
+And I promise you,
+when I deliver him to you,
+
+977
+00:54:31,187 --> 00:54:32,905
+he'll be a broken man.
+
+978
+00:54:32,987 --> 00:54:35,296
+CHIEF DALEK OVER RADIO:
+<i>Do not fail the Daleks.</i>
+
+979
+00:54:35,387 --> 00:54:37,264
+The war is certain now.
+
+980
+00:54:37,347 --> 00:54:40,145
+And once the great empires
+have destroyed each other,
+
+981
+00:54:40,227 --> 00:54:44,539
+I ask but one thing, let me rule
+the planet Earth in your name.
+
+982
+00:54:46,027 --> 00:54:49,099
+General Williams,
+if we do manage to get out of here,
+
+983
+00:54:49,187 --> 00:54:51,621
+and Jo and I manage
+to create a diversion,
+
+984
+00:54:51,707 --> 00:54:53,345
+could you find your way back
+to your spaceship?
+
+985
+00:54:53,427 --> 00:54:56,260
+-Certainly.
+-Good.
+
+986
+00:54:56,347 --> 00:54:58,622
+Right, that should do it.
+
+987
+00:54:58,707 --> 00:55:00,698
+Now I want you to take off immediately.
+
+988
+00:55:00,787 --> 00:55:02,584
+Get the truth back
+to your respective governments.
+
+989
+00:55:02,667 --> 00:55:03,702
+Yes.
+
+990
+00:55:03,787 --> 00:55:05,459
+Tell them that they must mount
+a joint expedition
+
+991
+00:55:05,547 --> 00:55:08,903
+-and capture this base at once.
+-I shall stay and help.
+
+992
+00:55:08,987 --> 00:55:11,296
+No, we'll need you to convince
+the Emperor, Your Royal Highness.
+
+993
+00:55:11,387 --> 00:55:13,264
+What about you and Miss Grant,
+how will you get away?
+
+994
+00:55:13,347 --> 00:55:14,905
+Jo, I presume that the TARDIS
+is still here?
+
+995
+00:55:14,987 --> 00:55:16,659
+-Yes, I know where it is.
+-Well, don't worry about us.
+
+996
+00:55:16,747 --> 00:55:18,544
+-Our spaceship is here.
+-That's all very well, Doctor,
+
+997
+00:55:18,627 --> 00:55:20,219
+but we still happen to be locked in.
+
+998
+00:55:20,307 --> 00:55:22,741
+Yes, well, would you mind
+blocking your ears
+
+999
+00:55:22,827 --> 00:55:24,226
+and covering your eyes
+just for a moment?
+
+1000
+00:55:24,307 --> 00:55:25,456
+I do not understand.
+
+1001
+00:55:25,547 --> 00:55:28,015
+No, but I think you will in a moment.
+Just do as I ask, would you?
+
+1002
+00:55:28,107 --> 00:55:29,665
+-You, too, Jo.
+-Oh, no, it's all right.
+
+1003
+00:55:29,747 --> 00:55:31,180
+-I can resist it.
+-Can you?
+
+1004
+00:55:31,267 --> 00:55:33,019
+-Yes.
+-Good.
+
+1005
+00:55:36,507 --> 00:55:40,500
+DOCTOR: Uh, how much longer are you
+gonna keep us locked in here?
+
+1006
+00:55:41,667 --> 00:55:43,623
+Yes, I'm talking to you.
+
+1007
+00:55:43,707 --> 00:55:45,698
+(HYPNOTIC PULSE SOUNDING)
+
+1008
+00:55:46,267 --> 00:55:51,500
+<i>Open the gate. Open the gate.</i>
+
+1009
+00:55:53,787 --> 00:55:57,746
+<i>Open the gate or I will exterminate you.</i>
+
+1010
+00:55:58,347 --> 00:56:00,099
+It worked.
+
+1011
+00:56:05,747 --> 00:56:08,580
+DOCTOR: Right.
+JO: Come on, then. Follow me.
+
+1012
+00:56:12,227 --> 00:56:14,218
+CHIEF DALEK OVER RADIO:
+<i>Do not fail the Daleks.</i>
+
+1013
+00:56:15,347 --> 00:56:16,780
+(SCOFFING)
+
+1014
+00:56:17,267 --> 00:56:21,385
+Right, we'll see who rules
+the galaxy when this is over.
+
+1015
+00:56:21,667 --> 00:56:24,101
+(MOCKINGLY IMPERSONATING THE DALEKS)
+"Do not fail the Daleks", indeed!
+
+1016
+00:56:24,387 --> 00:56:25,900
+You stupid, tin boxes!
+
+1017
+00:56:25,987 --> 00:56:27,818
+(OGRON GASPING)
+
+1018
+00:56:27,907 --> 00:56:29,306
+Why aren't you guarding the prisoners?
+
+1019
+00:56:29,387 --> 00:56:32,162
+-The Daleks sent me away.
+-There are no Daleks!
+
+1020
+00:56:32,247 --> 00:56:36,160
+-The Daleks have all left the planet.
+-The Dalek said to open the cell.
+
+1021
+00:56:36,247 --> 00:56:39,922
+Did he now? Fetch the others!
+I want them here immediately.
+
+1022
+00:56:44,887 --> 00:56:49,483
+-Doctor, look at this.
+-DOCTOR: Well, that's fascinating.
+
+1023
+00:56:50,247 --> 00:56:53,637
+Is it some sort of idol?
+I saw one of the Ogrons worshipping it.
+
+1024
+00:56:53,727 --> 00:56:56,195
+Yes, I'm not surprised.
+We've seen the real thing, haven't we?
+
+1025
+00:56:56,287 --> 00:56:58,482
+They're probably more frightened of him
+than they are of the Daleks.
+
+1026
+00:56:58,567 --> 00:57:00,558
+Right, come on. This way.
+
+1027
+00:57:05,527 --> 00:57:07,279
+Right, you can get out this way.
+Good luck.
+
+1028
+00:57:07,367 --> 00:57:09,005
+-And you, Miss Grant. Doctor.
+-General Williams.
+
+1029
+00:57:09,087 --> 00:57:10,884
+WILLIAMS: Farewell.
+JO: Good luck.
+
+1030
+00:57:10,967 --> 00:57:13,197
+DOCTOR: Your Royal Highness.
+PRINCE: My life at your command.
+
+1031
+00:57:13,287 --> 00:57:15,278
+The TARDIS is over there.
+
+1032
+00:57:15,487 --> 00:57:16,522
+Going somewhere, Doctor?
+
+1033
+00:57:16,607 --> 00:57:19,041
+You know, you really are incredibly
+persistent, aren't you?
+
+1034
+00:57:19,127 --> 00:57:23,564
+-That is my property, I believe.
+-Oh, yes, a most ingenious device.
+
+1035
+00:57:23,647 --> 00:57:24,796
+I congratulate you.
+
+1036
+00:57:24,887 --> 00:57:26,445
+OGRONS: Oh! The monster!
+
+1037
+00:57:26,527 --> 00:57:27,721
+(HYPNOTIC PULSE SOUNDING)
+
+1038
+00:57:35,407 --> 00:57:39,320
+-Oh, Doctor, I thought you were dead.
+-Help me.
+
+1039
+00:57:39,407 --> 00:57:43,400
+Come on, yes. Careful.
+
+1040
+00:57:49,287 --> 00:57:51,005
+-Help me into the TARDIS, Jo.
+-Okay.
+
+1041
+00:57:53,927 --> 00:57:55,883
+-All right, Jo.
+-Careful.
+
+1042
+00:58:02,047 --> 00:58:05,323
+The first thing we've got to do
+is get out of here.
+
+1043
+00:58:06,847 --> 00:58:08,280
+(WHOOSHING)
+
+1044
+00:58:12,607 --> 00:58:13,926
+(BEEPING)
+
+1045
+00:58:15,047 --> 00:58:16,639
+(BREATHING DEEPLY)
+
+1046
+00:58:16,727 --> 00:58:19,366
+Doctor, what are you doing?
+
+1047
+00:58:19,447 --> 00:58:24,202
+Telepathic circuits,
+sending a message to the Time Lords.
+
