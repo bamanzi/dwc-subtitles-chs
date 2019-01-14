@@ -1,2685 +1,2836 @@
-1
+2
 00:00:00,000 --> 00:00:03,600
 <i>It's time for a new adventure for Doctor Who.</i>
 
-2
+3
 00:00:04,100 --> 00:00:07,400
 <i>The Doctor, together with his friends Ben, Polly and Jamie,</i>
 
-3
+4
 00:00:07,500 --> 00:00:11,800
 <i>defeated the insane professor Zaroff to blow up the world.</i>
 
-4
+5
 00:00:12,010 --> 00:00:16,300
 <i>Leaving Atlantis behind, the Doctor set course for Mars</i>
 
-5
+6
 00:00:16,510 --> 00:00:20,000
 <i>But then the TARDIS goes wildly out of control.</i>
 
-6
-00:01:14,616 --> 00:01:16,739
+7
+00:01:19,616 --> 00:01:21,339
 Anyone would think we got rats up here.
 
-7
-00:01:24,988 --> 00:01:25,978
-Who's that?!
-
 8
-00:01:32,862 --> 00:01:33,974
+00:01:30,862 --> 00:01:31,974
 WHO IS THAT?!
 
 9
+00:01:39,000 --> 00:01:40,000
+Who is it?
+
+10
 00:02:08,000 --> 00:02:12,000
 <b>The Moonbase</i>
 
-10
-00:02:12,400 --> 00:02:16,500
-<i>Whopix fan edit edition</i>
-
 11
-00:02:16,400 --> 00:02:19,000
-<i>(time axis: bamanzi)</i>
-<i>(based on english subtitles from opensubtitles.org)</i>
+00:02:12,400 --> 00:02:16,000
+<i>(Whopix fan edit version)</i>
 
 12
-00:03:00,091 --> 00:03:00,839
-Doctor, do something!
+00:02:16,400 --> 00:02:19,000
+<i>(time axis: bamanzi)</i>
 
 13
-00:03:01,775 --> 00:03:02,616
-I'm trying to!
-
-14
-00:03:16,893 --> 00:03:18,077
-Everything back under control again.
+00:02:19,400 --> 00:02:22,000
+<i>(Updated by bamanzi
+on english subtitles from opensubtitles.org)</i>
 
 15
-00:03:21,786 --> 00:03:22,967
-Here, we're landing! Look!
+00:03:05,091 --> 00:03:05,839
+Doctor, do something!
 
 16
-00:03:23,939 --> 00:03:24,866
-Coming at a fair rate!
+00:03:06,775 --> 00:03:07,616
+I'm trying to!
 
 17
-00:03:39,449 --> 00:03:44,902
-Oh, thank the lord for that. You know, Doctor, I'll never ask you to do that again.
+00:03:21,893 --> 00:03:23,077
+Everything back under control again.
 
 18
-00:03:48,408 --> 00:03:50,238
-There must be a reason for that.
+00:03:26,786 --> 00:03:28,667
+Here, we're landing! Look!
 
 19
-00:03:54,998 --> 00:03:58,591
-Hey, wait a mo! This doesn't look like Mars to me.
+00:03:44,849 --> 00:03:50,302
+Oh, thank the lord for that. You know, Doctor,
+I'll never ask you to do that again.
 
 20
-00:03:58,798 --> 00:04:00,533
-How do you know? You never seen it.
+00:03:53,808 --> 00:03:55,638
+There must be a reason for that.
 
 21
-00:04:00,755 --> 00:04:04,959
-No, Duchess, but I have seen pictures of the moon surface and that's what this looks like.
+00:04:00,398 --> 00:04:03,991
+Hey, wait a mo! This doesn't look like Mars to me.
 
 22
-00:04:05,394 --> 00:04:06,624
-That's the moon?
+00:04:04,198 --> 00:04:05,933
+How do you know? You never seen it.
 
 23
-00:04:07,519 --> 00:04:10,223
-Doctor, is it the moon?
+00:04:06,155 --> 00:04:10,359
+No, Duchess, but I have seen pictures of the moon surface
+and that's what this looks like.
 
 24
-00:04:13,014 --> 00:04:16,954
-Oh well, you weren't too far out, were you? Only two hundred million miles!
+00:04:10,794 --> 00:04:12,024
+That's the moon?
 
 25
-00:04:17,724 --> 00:04:22,152
-All right, let's move on - while we can.
+00:04:12,919 --> 00:04:15,623
+Doctor, is it the moon?
 
 26
-00:04:23,207 --> 00:04:27,869
-- What!
-- Now wait a minute! You don't expect to land us on the moon and let us fly off just like that, do you?
+00:04:18,414 --> 00:04:22,354
+Oh well, you weren't too far out, were you?
+Only two hundred million miles!
 
 27
-00:04:27,916 --> 00:04:30,254
-Yeah, at least let us have a look around!
+00:04:23,124 --> 00:04:27,552
+All right, let's move on - while we can.
 
 28
-00:04:30,357 --> 00:04:33,254
-That picture canna be the moon? The moon's way up in the sky.
+00:04:28,607 --> 00:04:33,269
+- What!
+- Now wait a minute! You don't expect to land us
+on the moon and let us fly off just like that, do you?
 
 29
-00:04:33,436 --> 00:04:34,525
-Where do you think you're going?
+00:04:33,316 --> 00:04:34,704
+Yeah, at least let us have a look around!
 
 30
-00:04:34,700 --> 00:04:36,108
-You're not going to tell us there is no shore leave.
+00:04:34,757 --> 00:04:38,654
+That picture canna be the moon? The moon's way up in the sky.
 
 31
-00:04:36,313 --> 00:04:39,647
-Oh please Doctor. The TARDIS isn't out of control or anything is it?
+00:04:38,836 --> 00:04:39,925
+Where do you think you're going?
 
 32
-00:04:39,742 --> 00:04:42,395
-Oh no, no, no. Just a bumpy landing. That's all 
+00:04:40,100 --> 00:04:41,508
+You're not going to tell us there is no shore leave?
 
 33
-00:04:42,820 --> 00:04:43,534
-Yeah?
+00:04:41,713 --> 00:04:45,047
+Oh please Doctor. The TARDIS isn't out of control or anything is it?
 
 34
-00:04:43,775 --> 00:04:46,951
-Well, if you must go ashore... only half an hour.
+00:04:45,142 --> 00:04:47,795
+Oh no, no, no. Just a bumpy landing. That's all
 
 35
-00:04:47,160 --> 00:04:47,643
+00:04:48,220 --> 00:04:48,934
+Yeah?
+
+36
+00:04:49,175 --> 00:04:52,351
+Well, if you must go ashore... only half an hour.
+
+37
+00:04:52,560 --> 00:04:53,043
 - Right.
 - Superb
 
-36
-00:04:47,719 --> 00:04:53,333
-You can't go ashore like that! You need space suits, there's no atmosphere out there. Come on, there's some in the chest.
-
-37
-00:04:59,533 --> 00:05:01,821
-Maybe we'll meet the old man in the moon.
-
 38
-00:05:02,574 --> 00:05:04,930
-You won't meet anybody mate if you don't get some gear on.
+00:04:53,119 --> 00:04:56,993
+You can't go ashore like that!
+You need space suits, there's no atmosphere out there.
 
 39
-00:05:05,125 --> 00:05:07,091
-What? Oh aye.
+00:04:57,119 --> 00:04:58,733
+Come on, there's some in the chest.
 
 40
-00:05:19,094 --> 00:05:21,112
-Come on now, lets go over here.
+00:05:04,933 --> 00:05:07,221
+Maybe we'll meet the old man in the moon.
 
 41
-00:05:21,548 --> 00:05:23,694
-Hey, look at this.
+00:05:07,974 --> 00:05:10,330
+You won't meet anybody mate if you don't get some gear on.
 
 42
-00:05:23,976 --> 00:05:25,462
-Its deserted.
+00:05:10,525 --> 00:05:12,491
+What? Oh aye.
 
 43
-00:05:25,767 --> 00:05:27,238
-Yeah, I don't think I like it.
+00:05:26,948 --> 00:05:29,094
+Hey, look at this.
 
 44
-00:05:28,533 --> 00:05:31,663
-Hey, what do we need this great clogs for?
+00:05:29,376 --> 00:05:30,862
+Its deserted.
 
 45
-00:05:31,954 --> 00:05:33,608
-Try a little jump.
+00:05:31,167 --> 00:05:32,638
+Yeah, I don't think I like it.
 
 46
-00:05:34,594 --> 00:05:36,147
-All right.
+00:05:33,933 --> 00:05:37,063
+Hey, what do we need this great clogs for?
 
 47
-00:05:52,317 --> 00:05:56,493
-Careful! One tear in that space suit and you'll suffocate.
+00:05:37,354 --> 00:05:39,008
+Try a little jump.
 
 48
-00:05:58,870 --> 00:06:00,682
-Come on, it's easy.
+00:05:39,994 --> 00:05:41,547
+All right.
 
 49
-00:06:02,125 --> 00:06:04,074
-Look out, here I come.
+00:05:57,717 --> 00:06:01,893
+Careful! One tear in that space suit and you'll suffocate.
 
 50
-00:06:09,889 --> 00:06:11,082
-Where's he gone?
+00:06:04,270 --> 00:06:06,082
+Come on, it's easy.
 
 51
-00:06:11,340 --> 00:06:12,047
-Over there.
+00:06:07,525 --> 00:06:09,474
+Look out, here I come.
 
 52
-00:06:19,258 --> 00:06:21,724
-What on Earth? Look!
+00:06:15,289 --> 00:06:16,482
+Where's he gone?
 
 53
-00:06:22,078 --> 00:06:23,472
-Blimey! What is it?
+00:06:16,740 --> 00:06:17,447
+Over there.
 
 54
-00:06:23,668 --> 00:06:24,948
-Doctor, what is it?
+00:06:24,658 --> 00:06:27,124
+What on Earth? Look!
 
 55
-00:06:25,195 --> 00:06:26,532
-I don't know.
+00:06:27,478 --> 00:06:28,872
+Blimey! What is it?
 
 56
-00:06:26,724 --> 00:06:28,545
-Hey, I can see Jamie, there he is.
+00:06:29,068 --> 00:06:30,348
+Doctor, what is it?
 
 57
-00:06:29,573 --> 00:06:31,213
-Hey, there's somebody coming out.
+00:06:30,595 --> 00:06:31,932
+I don't know.
 
 58
-00:06:31,971 --> 00:06:33,960
-Come on, let's go.
+00:06:32,124 --> 00:06:33,945
+Hey, I can see Jamie, there he is.
 
 59
-00:07:12,495 --> 00:07:16,344
-And... Jules, you take over.
+00:06:34,973 --> 00:06:36,613
+Hey, there's somebody coming out.
 
 60
-00:07:19,631 --> 00:07:26,515
-There must be some source to this infection.  
-Look, then get the lads in here and tell them what's happening. Get them on the blower would you, Nils.
+00:06:37,371 --> 00:06:39,360
+Come on, let's go.
 
 61
-00:07:32,289 --> 00:07:37,365
-Hello. Where did you lot spring from? Don't tell me the shuttle rocket arrived already?
+00:07:17,895 --> 00:07:21,744
+And... Jules, you take over.
 
 62
-00:07:37,474 --> 00:07:38,289
-No, it hasn't.
+00:07:25,031 --> 00:07:28,015
+There must be some source to this infection.
 
 63
-00:07:38,591 --> 00:07:44,415
-There was another one with them, sir. Bob taken him along to the Medical unit. He's all right. He's just knocked himself out or something.
+00:07:28,031 --> 00:07:30,215
+Look, then get the lads in here and tell them what's happening.
 
 64
-00:07:44,611 --> 00:07:46,791
-Oh no, if we haven't got enough troubles already.
+00:07:30,331 --> 00:07:31,915
+Get them on the blower would you, Nils.
 
 65
-00:07:46,896 --> 00:07:50,590
-We don't want to cause you any trouble. Just let us collect our young friend and we'll be off.
+00:07:37,689 --> 00:07:39,865
+Hello. Where did you lot spring from? /
 
 66
-00:07:50,641 --> 00:07:52,395
-Hey, not so fast.
+00:07:40,000 --> 00:07:42,765
+Don't tell me the shuttle rocket arrived already?
 
 67
-00:07:52,628 --> 00:07:54,296
-Please let me go and see Jamie.
+00:07:42,874 --> 00:07:43,689
+No, it hasn't.
 
 68
-00:07:54,516 --> 00:07:57,449
-I will take you there Mademoiselle. If you come with me.
+00:07:43,991 --> 00:07:47,815
+There was another one with them, sir.
+Bob taken him along to the Medical unit.
 
 69
-00:07:57,975 --> 00:07:59,901
-All right, young lady. You can carry on.
+00:07:48,191 --> 00:07:49,815
+He's all right. He's just knocked himself out or something.
 
 70
-00:08:00,185 --> 00:08:01,189
-This way.
+00:07:50,011 --> 00:07:52,191
+Oh no, if we haven't got enough troubles already.
 
 71
-00:08:03,453 --> 00:08:05,074
-Well, you know what this place is?
+00:07:52,296 --> 00:07:55,990
+We don't want to cause you any trouble.
+Just let us collect our young friend and we'll be off.
 
 72
-00:08:05,311 --> 00:08:09,954
-Well, it looks like some sort of weather control centre.
+00:07:56,041 --> 00:07:57,795
+Hey, not so fast.
 
 73
-00:08:09,653 --> 00:08:14,129
-Ah, yes. And that's the thing with which you control the weather. That's the culprit then.
+00:07:58,028 --> 00:07:59,696
+Please let me go and see Jamie.
 
 74
-00:08:14,334 --> 00:08:15,014
-Hey?
+00:07:59,916 --> 00:08:02,849
+I will take you there Mademoiselle. If you come with me.
 
 75
-00:08:15,215 --> 00:08:17,937
-Hmmm. That's what gave us a bumpy landing.
+00:08:03,375 --> 00:08:05,301
+All right, young lady. You can carry on.
 
 76
-00:08:17,903 --> 00:08:18,774
+00:08:05,585 --> 00:08:06,589
+This way.
+
+77
+00:08:08,853 --> 00:08:10,474
+Well, you know what this place is?
+
+78
+00:08:10,711 --> 00:08:15,054
+Well, it looks like some sort of weather control centre.
+
+79
+00:08:15,153 --> 00:08:19,529
+Ah, yes. And that's the thing with which
+you control the weather. That's the culprit then.
+
+80
+00:08:19,734 --> 00:08:20,414
+Hey?
+
+81
+00:08:20,615 --> 00:08:23,337
+Hmmm. That's what gave us a bumpy landing.
+
+82
+00:08:23,343 --> 00:08:24,174
 - Hm-Hmm.
 - I see
 
-77
-00:08:19,125 --> 00:08:22,543
+83
+00:08:24,525 --> 00:08:27,943
 The gravitron controls the tides, the tides controls the weather.
 
-78
-00:08:22,762 --> 00:08:25,549
+84
+00:08:28,162 --> 00:08:30,949
 And from this console we can plot it all on that map.
 
-79
-00:08:25,907 --> 00:08:27,157
+85
+00:08:31,307 --> 00:08:32,557
 Simple, eh?
 
-80
-00:08:27,351 --> 00:08:28,750
+86
+00:08:32,751 --> 00:08:34,150
 Yeah, very simple.
 
-81
-00:08:36,894 --> 00:08:39,043
+87
+00:08:42,294 --> 00:08:44,443
 It's Jim. Quick Francois, take over.
 
-82
-00:08:52,038 --> 00:08:57,007
-International Space Control Earth calling Weather Control Moon - come in please.
-
-83
-00:08:57,197 --> 00:08:58,386
-Moonport - standing by.
-
-84
-00:08:58,562 --> 00:09:01,071
-It's never done that before, Doctor.
-
-85
-00:09:01,254 --> 00:09:02,079
-Hobson here.
-
-86
-00:09:04,704 --> 00:09:11,674
-What's happening up there? The hurricane you were guiding is now 45 degrees off course. It's threatening Hawaii.
-
-87
-00:09:11,885 --> 00:09:15,133
-One of my men were taken ill. We're operational again now.
-
 88
-00:09:16,480 --> 00:09:20,018
-The controller would like to know the cause of the illness.
+00:08:57,438 --> 00:09:02,407
+International Space Control Earth calling
+Weather Control Moon - come in please.
 
 89
-00:09:20,274 --> 00:09:27,833
-Yes, so would we. We now have three men down with this mysterious virus in the past few hours - including the Doctor.
+00:09:02,597 --> 00:09:03,786
+Moonport - standing by.
 
 90
-00:09:28,556 --> 00:09:34,078
-One moment please. Stand by for further instructions.
+00:09:03,962 --> 00:09:06,471
+Ever seen anything like that before, Doctor?
 
 91
-00:09:35,169 --> 00:09:40,737
-Just hang on for another couple of minutes lads. We better hear what the great Mr. Rinberg has to say.
+00:09:06,654 --> 00:09:07,479
+Hobson here.
 
 92
-00:09:40,747 --> 00:09:42,182
-We're being monitored again.
+00:09:10,104 --> 00:09:17,074
+What's happening up there? The hurricane you were guiding
+is now 45 degrees off course. It's threatening Hawaii.
 
 93
-00:09:42,332 --> 00:09:43,333
-Monitored?
+00:09:17,285 --> 00:09:20,533
+One of my men were taken ill. We're operational again now.
 
 94
-00:09:43,627 --> 00:09:48,874
-Someone, not too far away from the base, is listening to every word we say.
+00:09:21,880 --> 00:09:25,418
+The controller would like to know the cause of the illness.
 
 95
-00:09:50,485 --> 00:09:55,338
-"Moonbase, Moonbase, come in Moonbase. "
+00:09:25,674 --> 00:09:29,633
+Yes, so would we. We now have three men down
 
 96
-00:09:55,584 --> 00:09:57,166
-Still standing by.
+00:09:29,674 --> 00:09:33,233
+with this mysterious virus in the past few hours
+- including the Doctor.
 
 97
-00:09:59,093 --> 00:10:05,189
-If you radio information about this virus, we can do our best to identify it and suggest treatment.
+00:09:33,956 --> 00:09:39,478
+One moment please. Stand by for further instructions.
 
 98
-00:10:05,439 --> 00:10:07,764
-I demand to speak to Rinberg.
+00:09:40,569 --> 00:09:46,137
+Just hang on for another couple of minutes lads.
+We better hear what the great Mr. Rinberg has to say.
 
 99
-00:10:10,245 --> 00:10:15,180
-The controller is busy - I'm sorry. Over and out.
+00:09:46,147 --> 00:09:47,582
+We're being monitored again.
 
 100
-00:10:17,143 --> 00:10:21,122
-That whole conversion was monitored by someone or something.
+00:09:47,732 --> 00:09:48,733
+Monitored?
 
 101
-00:10:21,296 --> 00:10:28,850
-Oh, never mind about that now. That Rinberg fellow won't talk to you. How can we trace down this mystery illness with the Doctor himself down with it.
+00:09:49,027 --> 00:09:54,274
+Someone, not too far away from the base,
+is listening to every word we say.
 
 102
-00:10:29,044 --> 00:10:32,991
-We better get out of these things and see how Jamie is. Perhaps I can be of help in the sick bay now.
+00:09:55,885 --> 00:10:00,738
+"Moonbase, Moonbase, come in Moonbase. "
 
 103
-00:10:33,060 --> 00:10:34,842
-Anything you can do... Bob!
+00:10:00,984 --> 00:10:02,566
+Still standing by.
 
 104
-00:10:35,098 --> 00:10:35,985
-Yes, Mr Hobson?
+00:10:04,493 --> 00:10:07,389
+If you radio information about this virus,
 
 105
-00:10:36,154 --> 00:10:37,294
-Show them to the Medical unit will you?
+00:10:07,493 --> 00:10:10,589
+we can do our best to identify it and suggest treatment.
 
 106
-00:10:37,430 --> 00:10:39,621
-Yes, of course. Now, if you will come this way, please?
+00:10:10,839 --> 00:10:13,164
+I demand to speak to Rinberg.
 
 107
-00:10:39,807 --> 00:10:41,574
-Yes. Thank you.
+00:10:15,645 --> 00:10:20,580
+The controller is busy - I'm sorry. Over and out.
 
 108
-00:10:44,049 --> 00:10:56,552
-Well, you all heard the position. We don't know what this inflection is and how it got into the base but I want you all to take extra precautions while this emergency is on. We may be short-handed for quite a while.
+00:10:22,543 --> 00:10:26,522
+That whole conversion was monitored by someone or something.
 
 109
-00:10:56,669 --> 00:10:57,882
-Is this how its goes, Doctor?
+00:10:26,696 --> 00:10:30,250
+Oh, never mind about that now.
+That Rinberg fellow won't talk to you.
 
 110
-00:10:58,114 --> 00:11:03,207
-Yes, that's right. Then, this unit automatically controls the pulse, the temperature and the breathing.
+00:10:30,396 --> 00:10:34,250
+How can we trace down this mystery illness
+with the Doctor himself down with it.
 
 111
-00:11:03,403 --> 00:11:04,761
-A sort of electronic Doctor.
+00:10:34,444 --> 00:10:38,391
+We better get out of these things and see how Jamie is.
+Perhaps I can be of help in the sick bay now.
 
 112
-00:11:04,970 --> 00:11:05,810
-Yes.
+00:10:38,460 --> 00:10:40,242
+Anything you can do... Bob!
 
 113
-00:11:05,892 --> 00:11:07,432
-And it even give you medicines too.
+00:10:40,498 --> 00:10:41,385
+Yes, Mr Hobson?
 
 114
-00:11:07,604 --> 00:11:09,488
-Yes. It will do very nearly everything.
+00:10:41,554 --> 00:10:42,694
+Show them to the Medical unit will you?
 
 115
-00:11:09,744 --> 00:11:11,267
-How do you think he is, Doctor?
+00:10:42,830 --> 00:10:45,021
+Yes, of course. Now, if you will come this way, please?
 
 116
-00:11:11,840 --> 00:11:15,992
-Oh, he's not too bad. He's a bit concussed and feverish but he'll be all right with rest.
+00:10:45,207 --> 00:10:46,974
+Yes. Thank you.
 
 117
-00:11:16,147 --> 00:11:20,761
-The Piper! The McCrimmon Piper! Don't let him get me!
+00:10:49,449 --> 00:10:54,452
+Well, you all heard the position. We don't know
+what this infection is and how it got into the base
 
 118
-00:11:20,944 --> 00:11:21,846
-Piper?
+00:10:54,549 --> 00:10:58,452
+but I want you all to take extra precautions
+while this emergency is on
 
 119
-00:11:22,064 --> 00:11:28,934
-Some legend of his clan. As far, as I can make out - this piper appears to a McCrimmon just before he dies.
+00:10:58,549 --> 00:11:01,952
+We may be short-handed for quite a while.
 
 120
-00:11:29,073 --> 00:11:31,349
-Has this phantom piper appeared to Jamie yet?
+00:11:02,069 --> 00:11:03,282
+Is this how its goes, Doctor?
 
 121
-00:11:31,629 --> 00:11:32,968
-You don't believe it, do you?
+00:11:03,514 --> 00:11:08,607
+Yes, that's right. Then, this unit automatically
+controls the pulse, the temperature and the breathing.
 
 122
-00:11:33,207 --> 00:11:35,354
-No, but he does. It's important to him.
+00:11:08,803 --> 00:11:10,161
+A sort of electronic Doctor.
 
 123
-00:11:35,569 --> 00:11:38,012
-He keeps asking us to keep the piper away from him.
-
-124
-00:11:38,224 --> 00:11:41,356
-Good. We can see if we can do just that.
-
-125
-00:11:43,560 --> 00:11:44,816
-Well, carry on Nurse.
-
-126
-00:11:45,045 --> 00:11:50,131
-Well, at least I try to help. There's a ward full of sick men and no doctor. Somebody got to do something.
-
-127
-00:11:53,094 --> 00:11:54,155
-I wonder who this is?
-
-128
-00:11:54,415 --> 00:11:57,486
-Don't get too near. Have a look on his chart.
-
-129
-00:11:57,728 --> 00:11:59,245
-That's a good idea.
-
-130
-00:11:59,462 --> 00:12:00,497
-It's Dr. Evans.
-
-131
-00:12:00,683 --> 00:12:03,437
-Oh, yes. The station doctor. He was the first one to get it.
-
-132
-00:12:03,639 --> 00:12:05,204
-He looks one of the worst.
-
-133
-00:12:05,439 --> 00:12:13,750
-There's something about this epidemic that I... I just don't understand. It's not like a real disease at all! It's almost like...
-
-134
-00:12:13,936 --> 00:12:15,580
-Not real! What more do you want?
-
-135
-00:12:15,759 --> 00:12:19,950
-I don't know. But there are certain signs and symptoms which don't add up.
-
-136
-00:12:20,140 --> 00:12:23,814
-Ben, I want you to go to the control room and keep an eye on things.
-
-137
-00:12:23,949 --> 00:12:24,693
-But how?
-
-138
-00:12:24,893 --> 00:12:27,210
-Give a hand, do anything but keep your eyes and ears open.
-
-139
-00:12:27,254 --> 00:12:28,094
-Right.
-
-140
-00:12:28,115 --> 00:12:31,687
-There's something very wrong here. Something very wrong indeed.
-
-141
-00:12:39,054 --> 00:12:42,663
-Still up, Nobby. Why not take a rest. Go and get some sleep.
-
-142
-00:12:42,854 --> 00:12:57,934
-Oh, How can I rest with that thing up the spout. You know the score as well as I do. 
-Five units off centre and we lift half London into space! Five more and the Atlantic water level goes up three feet! 
-Rinberg don't understand the pressure we're under.
-
-143
-00:12:58,036 --> 00:13:01,097
-Hey you! What do you thinking you are doing?! Skulking here?
-
-144
-00:13:01,292 --> 00:13:03,290
-Just wondering if I can help, sir.
-
-145
-00:13:03,500 --> 00:13:04,664
-Well, how can you help?
-
-146
-00:13:04,820 --> 00:13:07,170
-We can do with an extra pair of hands - he can help me.
-
-147
-00:13:07,363 --> 00:13:11,765
-Well, keep him away from me, that's all. All right, I'll go and lie down. Call me if anything happens.
-
-148
-00:13:11,970 --> 00:13:12,840
-Yes, of course.
-
-149
-00:13:13,047 --> 00:13:18,751
-Oh, by the way, there were two more of those momentary drops in air pressure while I was on. I have put them in the log.
-
-150
-00:13:18,760 --> 00:13:19,697
-Right.
-
-151
-00:13:21,132 --> 00:13:22,154
-What is that?
-
-152
-00:13:22,276 --> 00:13:27,429
-Shhhh, it's all right Polly. It's only me. We don't want to wake everybody up do we?
-
-153
-00:13:33,715 --> 00:13:35,740
-You look if you can do with some sleep yourself.
-
-154
-00:13:36,049 --> 00:13:38,885
-I'm all right.
-
-155
-00:13:39,144 --> 00:13:40,468
-What have you got there?
-
-156
-00:13:40,699 --> 00:13:42,858
-Oh, I been doing a little investigation.
-
-157
-00:13:43,474 --> 00:13:45,029
-A piece of silver paper. What is it?
-
-158
-00:13:45,249 --> 00:13:46,188
-I don't know.
-
-159
-00:13:46,921 --> 00:13:48,314
-What's happened?!
-
-160
-00:13:48,573 --> 00:13:51,551
-Oh, it's nothing. It probably just a changeover in the time cycle.
-
-161
-00:13:51,960 --> 00:13:53,118
-What do you mean?
-
-162
-00:13:53,415 --> 00:13:59,914
-Oh, you see - it's rather interesting really - you see on the moon, they have a fortnight of days and a fortnight of nights.
-
-163
-00:14:00,138 --> 00:14:00,882
-Well?
-
-164
-00:14:01,253 --> 00:14:08,399
-Well, it's oblivious isn't it? They have to make their own day and night artificially up there - or it would upset their own biological time clock.
-
-165
-00:14:08,658 --> 00:14:09,674
-Their what?
-
-166
-00:14:10,239 --> 00:14:13,476
-They won't know if they were coming or going. Get it?
-
-167
-00:14:13,737 --> 00:14:14,623
+00:11:10,370 --> 00:11:11,210
 Yes.
 
+124
+00:11:11,292 --> 00:11:12,832
+And it even give you medicines too?
+
+125
+00:11:13,004 --> 00:11:14,888
+Yes. It will do very nearly everything.
+
+126
+00:11:15,144 --> 00:11:16,667
+How do you think he is, Doctor?
+
+127
+00:11:17,240 --> 00:11:21,392
+Oh, he's not too bad. He's a bit concussed
+and feverish but he'll be all right with rest.
+
+128
+00:11:21,547 --> 00:11:26,161
+The Piper! The McCrimmon Piper! Don't let him get me!
+
+129
+00:11:26,344 --> 00:11:27,246
+Piper?
+
+130
+00:11:27,464 --> 00:11:34,334
+Some legend of his clan. As far, as I can make out
+- this piper appears to a McCrimmon just before he dies.
+
+131
+00:11:34,473 --> 00:11:36,749
+Has this phantom piper appeared to Jamie yet?
+
+132
+00:11:37,029 --> 00:11:38,368
+You don't believe it, do you?
+
+133
+00:11:38,607 --> 00:11:40,754
+No, but he does. It's important to him.
+
+134
+00:11:40,969 --> 00:11:43,412
+He keeps asking us to keep the piper away from him.
+
+135
+00:11:43,624 --> 00:11:46,756
+Good. We can see if we can do just that.
+
+136
+00:11:48,960 --> 00:11:50,216
+Well, carry on Nurse.
+
+137
+00:11:50,445 --> 00:11:55,531
+Well, at least I try to help. There's a ward full of sick men
+and no doctor. Somebody got to do something.
+
+138
+00:11:58,494 --> 00:11:59,555
+I wonder who this is?
+
+139
+00:11:59,815 --> 00:12:02,886
+Don't get too near. Have a look on his chart.
+
+140
+00:12:03,128 --> 00:12:04,645
+That's a good idea.
+
+141
+00:12:04,862 --> 00:12:05,897
+It's Dr. Evans.
+
+142
+00:12:06,083 --> 00:12:08,837
+Oh, yes. The station doctor. He was the first one to get it.
+
+143
+00:12:09,039 --> 00:12:10,604
+He looks one of the worst.
+
+144
+00:12:10,839 --> 00:12:15,150
+There's something about this epidemic
+that I... I just don't understand.
+
+145
+00:12:15,239 --> 00:12:19,150
+It's not like a real disease at all! It's almost like...
+
+146
+00:12:19,336 --> 00:12:20,980
+Not real! What more do you want?
+
+147
+00:12:21,159 --> 00:12:25,350
+I don't know. But there are certain signs and symptoms
+which don't add up.
+
+148
+00:12:25,540 --> 00:12:29,214
+Ben, I want you to go to the control room and keep an eye on things.
+
+149
+00:12:29,349 --> 00:12:30,093
+But how?
+
+150
+00:12:30,293 --> 00:12:32,610
+Give a hand, do anything but keep your eyes and ears open.
+
+151
+00:12:32,654 --> 00:12:33,494
+Right.
+
+152
+00:12:33,515 --> 00:12:37,087
+There's something very wrong here. Something very wrong indeed.
+
+153
+00:12:44,454 --> 00:12:48,063
+Still up, Nobby. Why not take a rest. Go and get some sleep.
+
+154
+00:12:48,254 --> 00:12:53,334
+Oh, How can I rest with that thing up the spout.
+You know the score as well as I do.
+
+155
+00:12:53,454 --> 00:12:56,834
+Five units off centre and we lift half London into space!
+
+156
+00:12:56,954 --> 00:12:59,934
+Five more and the Atlantic water level goes up three feet!
+
+157
+00:13:00,004 --> 00:13:03,334
+Rinberg don't understand the pressure we're under.
+
+158
+00:13:03,436 --> 00:13:06,497
+Hey you! What do you thinking you are doing?! Skulking here?
+
+159
+00:13:06,692 --> 00:13:08,690
+Just wondering if I can help, sir.
+
+160
+00:13:08,900 --> 00:13:10,064
+Well, how can you help?
+
+161
+00:13:10,220 --> 00:13:12,570
+We can do with an extra pair of hands - he can help me.
+
+162
+00:13:12,763 --> 00:13:14,665
+Well, keep him away from me, that's all.
+
+163
+00:13:14,763 --> 00:13:17,165
+All right, I'll go and lie down. Call me if anything happens.
+
+164
+00:13:17,370 --> 00:13:18,240
+Yes, of course.
+
+165
+00:13:18,447 --> 00:13:23,251
+Oh, by the way, there were two more of those momentary drops
+in air pressure while I was on.
+
+166
+00:13:23,347 --> 00:13:24,151
+I have put them in the log.
+
+167
+00:13:24,160 --> 00:13:25,097
+Right.
+
 168
-00:14:15,013 --> 00:14:18,425
-Clever girl. QED. That's why it's dark up here.
+00:13:26,532 --> 00:13:27,554
+What is that?
 
 169
-00:14:18,643 --> 00:14:21,877
-Oh, I see what you mean. Yes, of course. How stupid of me.
+00:13:27,676 --> 00:13:32,829
+Shhhh, it's all right Polly. It's only me.
+We don't want to wake everybody up do we?
 
 170
-00:14:21,983 --> 00:14:25,314
-Of course along the control centre it's probably broad daylight.
+00:13:39,115 --> 00:13:41,140
+You look if you can do with some sleep yourself.
 
 171
-00:14:26,139 --> 00:14:28,393
-Polly, you wouldn't be making fun of me would you?
+00:13:41,449 --> 00:13:44,285
+I'm all right.
 
 172
-00:14:28,943 --> 00:14:29,657
-No.
+00:13:44,544 --> 00:13:45,868
+What have you got there?
 
 173
-00:14:30,060 --> 00:14:30,972
-Dr. Evans.
+00:13:46,099 --> 00:13:48,258
+Oh, I been doing a little investigation.
 
 174
-00:14:35,298 --> 00:14:48,071
-The hand. No, don't touch me. No. The silver hand.
+00:13:48,874 --> 00:13:50,929
+A piece of silver paper. What is it?
 
 175
-00:14:57,809 --> 00:14:59,545
-Doctor, is he...
+00:13:51,049 --> 00:13:51,988
+I don't know.
 
 176
-00:15:01,294 --> 00:15:03,982
-Yes, I'm afraid he is.
+00:13:52,321 --> 00:13:53,714
+What's happened?!
 
 177
-00:15:12,609 --> 00:15:14,018
-What are we gone to do?
+00:13:53,973 --> 00:13:56,951
+Oh, it's nothing. It probably just a changeover in the time cycle.
 
 178
-00:15:14,229 --> 00:15:19,088
-What does he means by the silver hand. I better report this to Mr. Hobson.
+00:13:57,360 --> 00:13:58,518
+What do you mean?
 
 179
-00:15:46,458 --> 00:15:47,405
-What's the matter?
+00:13:58,815 --> 00:14:01,314
+Oh, you see - it's rather interesting really
 
 180
-00:15:47,626 --> 00:15:49,529
-Something just went out of that door!
+00:14:01,415 --> 00:14:05,314
+you see on the moon, they have a fortnight of days
+and a fortnight of nights.
 
 181
-00:15:49,731 --> 00:15:51,017
-Nils! John!
+00:14:05,538 --> 00:14:06,282
+Well?
 
 182
-00:15:51,186 --> 00:15:52,251
-What was it?
+00:14:06,653 --> 00:14:11,099
+Well, it's oblivious isn't it? They have to
+make their own day and night artificially up there
 
 183
-00:15:57,852 --> 00:15:59,830
-Nothing. Nothing there.
+00:14:11,153 --> 00:14:13,799
+Or it would upset their own biological time clock.
 
 184
+00:14:14,058 --> 00:14:15,074
+Their what?
+
+185
+00:14:15,639 --> 00:14:18,876
+They won't know if they were coming or going. Get it?
+
+186
+00:14:19,137 --> 00:14:20,023
+Yes.
+
+187
+00:14:20,413 --> 00:14:23,825
+Clever girl. QED. That's why it's dark up here.
+
+188
+00:14:24,043 --> 00:14:27,277
+Oh, I see what you mean. Yes, of course. How stupid of me.
+
+189
+00:14:27,383 --> 00:14:30,714
+Of course along the control centre it's probably broad daylight.
+
+190
+00:14:31,539 --> 00:14:33,793
+Polly, you wouldn't be making fun of me would you?
+
+191
+00:14:34,343 --> 00:14:35,057
+No.
+
+192
+00:14:35,460 --> 00:14:36,372
+Dr. Evans.
+
+193
+00:14:40,098 --> 00:14:53,471
+The hand. No, don't touch me. No. The silver hand.
+
+194
+00:15:03,209 --> 00:15:04,945
+Doctor, is he...
+
+195
+00:15:06,694 --> 00:15:09,382
+Yes, I'm afraid he is.
+
+196
+00:15:18,009 --> 00:15:19,418
+What are we gone to do?
+
+197
+00:15:19,629 --> 00:15:24,488
+What does he means by the silver hand.
+I better report this to Mr. Hobson.
+
+198
+00:15:47,258 --> 00:15:48,205
+What's the matter?
+
+199
+00:15:48,426 --> 00:15:50,329
+Something just went out of that door!
+
+200
+00:15:50,531 --> 00:15:51,817
+Nils! John!
+
+201
+00:15:51,986 --> 00:15:53,051
+What was it?
+
+202
+00:15:58,652 --> 00:16:00,630
+Nothing. Nothing there.
+
+203
 00:16:06,901 --> 00:16:10,295
 Your nerves are getting the better of you. Where's Evan's body?
 
-185
+204
 00:16:10,747 --> 00:16:11,521
 Over there.
 
-186
+205
 00:16:19,066 --> 00:16:21,402
 All right, let's get it over with.
 
-187
+206
 00:16:26,565 --> 00:16:29,679
 Is this somebody's idea of a particularly bad joke?
 
-188
+207
 00:16:30,249 --> 00:16:31,285
 This is no joke, believe me!
 
-189
-00:16:31,456 --> 00:16:37,456
-Mr. Hobson, Mr. Hobson, you are wanted! Another man's collapsed at the controls and the Gravitron has been thrown off alignment again.
+208
+00:16:31,456 --> 00:16:33,456
+Mr. Hobson, Mr. Hobson, you are wanted!
 
-190
-00:16:37,647 --> 00:16:38,390
+209
+00:16:33,556 --> 00:16:37,856
+Another man's collapsed at the controls
+and the Gravitron has been thrown off alignment again.
+
+210
+00:16:37,947 --> 00:16:38,390
 Come on!
 
-191
+211
 00:16:40,050 --> 00:16:44,463
-And you better find that Doctor's body or out you all go - quarantine or no quarantine.
+And you better find that Doctor's body or out you all go
+- quarantine or no quarantine.
 
-192
-00:16:47,038 --> 00:16:55,252
-I don't understand what could have happened. I must have dozed off or something but one thing I am sure of - something went out of that door just as you came in.
+212
+00:16:47,038 --> 00:16:50,552
+I don't understand what could have happened.
+I must have dozed off or something
 
-193
+213
+00:16:50,738 --> 00:16:55,252
+but one thing I am sure of
+- something went out of that door just as you came in.
+
+214
 00:16:55,301 --> 00:16:59,180
-That body can't just have vanished. Polly, I am going to leave you alone...
+That body can't just have vanished.
+Polly, I am going to leave you alone...
 
-194
+215
 00:16:59,399 --> 00:17:00,356
 ...just for a minute.
 
-195
+216
 00:17:00,985 --> 00:17:01,789
 All right.
 
-196
+217
 00:17:02,235 --> 00:17:05,102
 Water. Water.
 
-197
+218
 00:17:05,750 --> 00:17:07,133
 I'll go and get you some.
 
-198
+219
 00:17:07,344 --> 00:17:08,461
 Water!
 
-199
-00:17:37,618 --> 00:17:42,126
-It's you! The phantom piper!
-
-200
-00:17:37,407 --> 00:17:38,896
+220
+00:17:37,407 --> 00:17:38,696
 It's you.
 
-201
+221
 00:17:39,058 --> 00:17:41,588
 The phantom piper!
 
-202
+222
 00:17:41,755 --> 00:17:43,679
 No!
 
-203
+223
 00:17:43,849 --> 00:17:46,746
 No! I'll not go with you!
 
-204
+224
 00:17:46,909 --> 00:17:49,921
 Do you hear me, piper? No! Leave me!
 
-205
+225
 00:17:50,090 --> 00:17:52,942
 Leave me. I'll not go with you, do you hear me?
 
-206
+226
 00:17:53,110 --> 00:17:56,923
 Leave me! No, I'll not go with you!
 
-207
+227
 00:17:57,096 --> 00:18:00,074
 I'll fight you every inch of the way.
 
-208
+228
 00:18:00,237 --> 00:18:02,241
 I'll not go with you.
 
-209
+229
 00:18:09,457 --> 00:18:11,461
 Leave me, piper.
 
-210
+230
 00:18:11,631 --> 00:18:15,616
 No. Leave me. I'll not go.
 
-211
+231
 00:18:19,080 --> 00:18:21,164
 Agh!
 
-212
+232
 00:18:22,261 --> 00:18:25,880
-- Molly, what's happened?
+- Polly, what's happened?
 - Oh, Doctor, it was horrible!
 
-213
+233
 00:18:26,046 --> 00:18:30,387
 - A giant creature like a Cyberman!
 - It's all right. Don't be frightened.
 
-214
+234
 00:18:30,458 --> 00:18:34,737
 - Whatever it was, it's gone now.
 - It's the... Doctor, the Cyberman was carrying a patient.
 
-215
+235
 00:18:34,904 --> 00:18:38,362
 - Cyberman? What are you talking about?
 - I'm sure it was.
 
-216
+236
 00:18:38,527 --> 00:18:40,417
 - I'll not go with you.
 - It's OK. It's safe now. Take it easy.
 
-217
+237
 00:18:40,581 --> 00:18:43,638
-She's right.
-There's another one gone.
+She's right. There's another one gone.
 
-218
+238
 00:18:44,527 --> 00:18:48,947
 Sam, Jules, you've got to find these men.
 They can't just disappear in a place this size.
 
-219
+239
 00:18:49,117 --> 00:18:52,610
-Search every square inch, come back until you find them. Now move.
+Search every square inch, don't come back
+until you find them. Now move.
 
-220
+240
 00:18:55,277 --> 00:18:59,011
-Now, supposing you tell me your story?
-What did you see?
+Now, supposing you tell me your story? What did you see?
 
-221
+241
 00:18:59,908 --> 00:19:02,312
 I went out to get Jamie some water,
 
-222
+242
 00:19:02,484 --> 00:19:08,600
 and when I came back,
 I saw this giant man or creature or something,
 
-223
+243
 00:19:08,766 --> 00:19:13,347
 just going out of the door,
 carrying one of the patients... like a doll.
 
-224
+244
 00:19:13,517 --> 00:19:17,170
 - I think it was a Cyberman.
 - Forget that part. Then what?
 
-225
+245
 00:19:18,107 --> 00:19:21,760
-Then nothing.
-The door shut, and then you came in.
+Then nothing. The door shut, and then you came in.
 
-226
+246
 00:19:23,703 --> 00:19:27,723
 - What do you know about all this?
 - Nothing. Absolutely nothing.
 
-227
+247
 00:19:27,891 --> 00:19:30,055
 We'll see about that in a minute.
 
-228
+248
 00:19:30,226 --> 00:19:34,326
 - This thing you saw. What was it like?
 - It was enormous, and silver.
 
-229
+249
 00:19:34,494 --> 00:19:37,987
 - It had holes in its head for eyes, like a robot.
 - A robot?
 
-230
+250
 00:19:38,158 --> 00:19:41,410
-But the Cybermen were all killed
-when Mondas blew up.
+But the Cybermen were all killed when Mondas blew up.
 
-231
-00:19:41,581 --> 00:19:46,894
-Stop this Cyberman nonsense! There were Cybermen, every child knows that, but they were destroyed ages ago!
+251
+00:19:41,581 --> 00:19:42,494
+Stop this Cyberman nonsense!
 
-232
+252
+00:19:42,581 --> 00:19:46,894
+There were Cybermen, every child knows that,
+but they were destroyed ages ago!
+
+253
 00:19:47,056 --> 00:19:49,747
 - So we all thought.
 - That's enough.
 
-233
+254
 00:19:49,915 --> 00:19:52,205
 Let's have a little calm thinking.
 
-234
+255
 00:19:53,136 --> 00:19:57,556
 For the past two weeks,
 a complete unknown disease has appeared in the base.
 
-235
+256
 00:19:57,726 --> 00:20:01,986
 People drop in their tracks
 and develop a black pattern on their skin.
 
-236
+257
 00:20:02,155 --> 00:20:04,079
 Then some of the patients disappear, right?
 
-237
+258
 00:20:05,377 --> 00:20:10,644
 They can't leave the base without wearing spacesuits,
 and there are no spacesuits missing. So where are they?
 
-238
+259
 00:20:10,812 --> 00:20:14,511
 - I must say, It does sound a little odd.
 - More than a little.
 
-239
+260
 00:20:14,677 --> 00:20:19,499
-I do know one thing - a new disease starts, people disappear, and then you turn up.
+I do know one thing - a new disease starts,
+people disappear, and then you turn up.
 
-240
+261
 00:20:19,670 --> 00:20:23,243
 - And you think we did it!
 - Oh, come on, we haven't done a thing!
 
-241
+262
 00:20:23,415 --> 00:20:27,274
 Perhaps maybe, I don't know who you are,
 what you are, or where you came from,
 
-242
+263
 00:20:27,441 --> 00:20:29,491
 but you can get off the moon now!
 
-243
+264
 00:20:29,656 --> 00:20:32,953
 - Well, that suits me fine, the sooner the better!
 - No, Ben, we can't go yet.
 
-244
+265
 00:20:33,118 --> 00:20:38,066
 - Why not? They don't want us here.
 - Because there is something evil here. We must stay.
 
-245
+266
 00:20:38,232 --> 00:20:41,529
 - Evil? Don't be daft!
 - Evil is what I meant.
 
-246
+267
 00:20:41,694 --> 00:20:46,882
 There are some corners of the universe
 which have bred the most terrible things.
 
-247
+268
 00:20:47,050 --> 00:20:52,111
 Things which act against everything
 that we believe in. They must be fought.
 
-248
+269
 00:20:52,284 --> 00:20:57,872
 This disease, for instance. It isn't really
 a disease at all, but I can help you with it.
 
-249
+270
 00:20:58,042 --> 00:21:01,373
 You'll see. I'll find the cause for you.
 
-250
+271
 00:21:01,545 --> 00:21:05,404
 - Will you, indeed?
 - Yes, certainly. I just need to examine a few things. That's all.
 
-251
+272
 00:21:05,571 --> 00:21:08,983
 - It should be simple.
 - Well, I'm not sure.
 
-252
+273
 00:21:09,799 --> 00:21:13,864
-I'll give you just one Earth-day cycle
-to find the cause.
+I'll give you just one Earth-day cycle to find the cause.
 
-253
+274
 00:21:14,026 --> 00:21:15,916
 - Earth what?
 - 24 hours.
 
-254
+275
 00:21:16,080 --> 00:21:19,492
 - But that's no time at all.
 - It's all you're going to get.
 
-255
+276
 00:21:19,663 --> 00:21:22,720
-Then you get off the moon,
-with this bloke here.
+Then you get off the moon, with this bloke here.
 
-256
+277
 00:21:22,884 --> 00:21:25,896
 - You can't move him! He's very ill.
 - We accept.
 
-257
+278
 00:21:26,065 --> 00:21:29,684
-Now tell me, you have pathological
-equipment here, yes?
+Now tell me, you have pathological equipment here, yes?
 
-258
+279
 00:21:29,850 --> 00:21:34,672
-Yes. Evans was working on
-an extensive research project. It's all in here.
+Yes. Evans was working on an extensive research project.
+It's all in here.
 
-259
+280
 00:21:34,843 --> 00:21:40,191
 It's quite a small unit. We're not equipped
 to deal with a full-scale epidemic.
 
-260
-00:21:41,849 --> 00:21:44,253
+281
+00:21:41,449 --> 00:21:44,253
 - Do you think you can manage?
-- Yes.
+- Yes. I think I can.
 
-261
+282
 00:21:44,426 --> 00:21:49,579
-Right. I'll leave you to it.
-Don't forget - 24 hours.
+Right. I'll leave you to it. Don't forget - 24 hours.
 
-262
+283
 00:21:55,981 --> 00:22:00,322
 - What are you going to do, Doctor?
 - We'll start with this one.
 
-263
-00:22:00,491 --> 00:22:06,079
+284
+00:22:00,491 --> 00:22:05,779
 - Are you really a medical doctor?
-- Yes, I think I was once, Polly.
+- Yes, I think I was once
 
-264
-00:22:06,248 --> 00:22:10,061
-I think I took a degree once, in Glasgow.
+285
+00:22:05,848 --> 00:22:10,061
+Polly, I think I took a degree once, in Glasgow.
 
-265
-00:22:10,678 --> 00:22:15,223
+286
+00:22:10,678 --> 00:22:15,923
 1888, I think. Lister. Hold that for me, will you?
 
-266
+287
 00:22:17,643 --> 00:22:21,021
 - Oh!
 - All right. He's quite unconscious.
 
-267
+288
 00:22:50,822 --> 00:22:56,492
 It's all right, Jamie. It's all right.
 You're going to get better but you must lie still.
 
-268
+289
 00:22:56,661 --> 00:23:00,233
-What is this place?
-Is it the home of the piper?
+What is this place? Is it the home of the piper?
 
-269
+290
 00:23:00,405 --> 00:23:03,783
-No, we're on the moon.
-You know, the moon up in the sky.
+No, we're on the moon. You know, the moon up in the sky.
 
-270
+291
 00:23:03,948 --> 00:23:05,792
 No, I can't be alive.
 
-271
+292
 00:23:05,962 --> 00:23:08,286
 I've just seen the piper.
 
-272
+293
 00:23:27,744 --> 00:23:30,641
 The piper! I knew!
 
-273
-00:24:03,257 --> 00:24:05,834
+294
+00:24:02,957 --> 00:24:05,534
 Polly! What's happened?
 
-274
-00:24:06,220 --> 00:24:07,788
+295
+00:24:05,920 --> 00:24:07,488
 Polly.
 
-275
-00:24:07,951 --> 00:24:10,081
+296
+00:24:07,651 --> 00:24:09,781
 Are you all right?
 
-276
-00:24:12,944 --> 00:24:15,600
+297
+00:24:12,644 --> 00:24:15,300
 Nothing. Absolutely nothing.
 
-277
-00:24:15,762 --> 00:24:19,942
+298
+00:24:15,462 --> 00:24:19,642
 - Isn't there any clue at all?
 - No. It's a complete blank.
 
-278
-00:24:20,111 --> 00:24:25,459
+299
+00:24:19,811 --> 00:24:25,159
 All the tests are negative. As far as I can see,
 this whole ridiculous place is sterile.
 
-279
-00:24:26,593 --> 00:24:31,861
-- We'll have to tell Mr Hobson, I suppose.
-- I simply don't understand it.
+300
+00:24:26,293 --> 00:24:28,561
+We'll have to tell Mr Hobson, I suppose.
 
-280
-00:24:32,874 --> 00:24:36,940
+301
+00:24:28,693 --> 00:24:31,561
+I don't like it very much. I simply don't understand it.
+
+302
+00:24:32,074 --> 00:24:36,940
 Doctor, it couldn't possibly have
 anything to do with Lister, could it?
 
-281
-00:24:37,102 --> 00:24:39,507
+303
+00:24:37,002 --> 00:24:39,407
 - Lister?
-- Well, I mean, you did say
+- Well, I mean, you did say...
 
-282
-00:24:39,679 --> 00:24:42,691
+304
+00:24:39,579 --> 00:24:42,591
 that you took your degree in Glasgow in 1888.
 
-283
-00:24:42,860 --> 00:24:45,471
+305
+00:24:42,760 --> 00:24:45,871
 That's an awfully long time from now, 2070, whatever it is.
 
-284
-00:24:46,081 --> 00:24:49,814
-Are you suggesting that I'm not confident to carry out these tests?
+306
+00:24:45,981 --> 00:24:49,714
+Polly, are you suggesting that
+I'm not confident to carry out these tests?
 
-285
-00:24:49,986 --> 00:24:55,094
+307
+00:24:49,886 --> 00:24:54,994
 No, No, I'm just wondering if there was anything
 that Joseph Lister didn't know in 1888
 
-286
-00:24:55,261 --> 00:24:59,567
+308
+00:24:55,161 --> 00:24:59,467
 - that might help you now.
 - Ssh! Somebody's coming!
 
-287
-00:25:00,858 --> 00:25:04,155
+309
+00:25:00,758 --> 00:25:04,855
 It's Mr Hobson. Out for blood - ours. Look busy! Quick!
 
-288
-00:25:04,320 --> 00:25:08,740
-That's the third person
-to disappear in the past few hours.
+310
+00:25:04,920 --> 00:25:08,640
+That's the third person to disappear in the past few hours.
 
-289
-00:25:08,910 --> 00:25:11,647
+311
+00:25:08,810 --> 00:25:11,547
 - It's completely illogical.
 - Do you mind?
 
-290
-00:25:11,809 --> 00:25:17,238
+312
+00:25:11,709 --> 00:25:17,138
 Would you mind standing away from the door
 and allowing it to close? The slides. The dust!
 
-291
-00:25:21,110 --> 00:25:25,737
+313
+00:25:21,010 --> 00:25:25,637
 It must be you people.
 We've got some straight talking to do, you and I.
 
-292
-00:25:25,902 --> 00:25:28,272
+314
+00:25:25,802 --> 00:25:28,172
 - Polly. Another boot.
 - Do you hear me?
 
-293
-00:25:28,438 --> 00:25:32,091
+315
+00:25:28,338 --> 00:25:31,991
 - This is extraordinary. Look here.
 - Excuse me, please.
 
-294
-00:25:32,988 --> 00:25:36,286
+316
+00:25:32,888 --> 00:25:36,186
 Excuse me. We ARE trying to help you.
 
-295
-00:25:36,451 --> 00:25:40,677
+317
+00:25:36,351 --> 00:25:40,577
 - Help? Is that what you call it? You can all get off the moon now.
 - No, wait a minute. You said...
 
-296
-00:25:40,840 --> 00:25:42,808
+318
+00:25:40,740 --> 00:25:42,708
 - I don't care what I said!
 - Ah!
 
-297
-00:25:42,974 --> 00:25:46,305
+319
+00:25:42,874 --> 00:25:46,205
 - Have you found something?
 - I think perhaps I have.
 
-298
-00:25:47,684 --> 00:25:52,265
-Yes, I may be onto something,
-but I must have some room.
+320
+00:25:47,584 --> 00:25:52,165
+Yes, I may be onto something, but I must have some room.
 
-299
-00:25:52,436 --> 00:25:57,177
-How can I work under these conditions?
-Now, please, come along. Outside. I'm trying to work in here!
+321
+00:25:52,336 --> 00:25:57,077
+How can I work under these conditions? Now, please,
+come along. Outside. I'm trying to work in here!
 
-300
-00:25:57,348 --> 00:26:00,920
+322
+00:25:57,248 --> 00:26:00,820
 - Ben, see that they stay outside.
 - Did you mean that?
 
-301
-00:26:01,092 --> 00:26:03,256
+323
+00:26:00,992 --> 00:26:03,156
 - What?
 - You've found something?
 
-302
-00:26:04,112 --> 00:26:06,964
+324
+00:26:04,012 --> 00:26:06,864
 Oh, Polly, I only wish I had.
 
-303
-00:26:30,889 --> 00:26:34,588
+325
+00:26:30,789 --> 00:26:34,488
 - Coffee? Sugar?
 - Hello, Doctor. Thank you.
 
-304
-00:26:36,647 --> 00:26:40,265
+326
+00:26:36,547 --> 00:26:40,165
 - It's very hot. Doctor, what about you?
 - Thank you, Polly.
 
-305
-00:26:40,431 --> 00:26:45,458
-Doctor, as I was saying, you've had
-your chance. You come up with absolutely  nothing.
+327
+00:26:40,331 --> 00:26:45,358
+Doctor, as I was saying, you've had your chance.
+You come up with absolutely nothing.
 
-306
-00:26:52,188 --> 00:26:53,837
+328
+00:26:52,088 --> 00:26:53,737
 Don't touch him!
 
-307
-00:26:54,000 --> 00:26:55,489
+329
+00:26:53,900 --> 00:26:55,389
 Let me look.
 
-308
-00:27:05,516 --> 00:27:09,661
-Charlie and you, Ben,
-give us a hand to get him into the medical unit.
+330
+00:27:05,416 --> 00:27:09,561
+Charlie and you, Ben, give us a hand
+to get him into the medical unit.
 
-309
-00:27:09,824 --> 00:27:12,308
+331
+00:27:09,724 --> 00:27:12,208
 Try not to touch his skin.
 
-310
-00:27:30,761 --> 00:27:33,613
+332
+00:27:30,661 --> 00:27:33,513
 Don't drink that! It's the sugar!
 
-311
-00:27:33,781 --> 00:27:39,450
-That's why the disease doesn't affect everyone.
+333
+00:27:33,681 --> 00:27:37,350
+Don't you see? That's why the disease doesn't affect everyone.
+
+334
+00:27:37,481 --> 00:27:39,350
 It's the sugar. Not everyone takes it.
 
-312
-00:27:39,619 --> 00:27:41,623
+335
+00:27:39,519 --> 00:27:41,523
 Don't touch it.
 
-313
-00:27:54,678 --> 00:27:57,083
+336
+00:27:54,578 --> 00:27:56,983
 - What are you doing?
 - Just be patient.
 
-314
-00:28:09,052 --> 00:28:10,620
+337
+00:28:08,952 --> 00:28:10,520
 Just as I thought.
 
-315
-00:28:11,387 --> 00:28:14,319
+338
+00:28:11,287 --> 00:28:14,219
 A large neurotropic virus.
 
-316
-00:28:14,488 --> 00:28:17,065
+339
+00:28:14,388 --> 00:28:16,965
 - Like the space plague?
 - No.
 
-317
-00:28:17,226 --> 00:28:21,004
-It's a large infective agent
-that only attacks the nerves.
+340
+00:28:17,126 --> 00:28:20,904
+It's a large infective agent that only attacks the nerves.
 
-318
-00:28:21,171 --> 00:28:27,020
-That's why these patients got these lines appear on faces and hands.
+341
+00:28:21,071 --> 00:28:23,920
+That's why these patients got these lines
+appear on faces and hands.
+
+342
+00:28:24,071 --> 00:28:26,920
 It follows the course of the nerves under the skin.
 
-319
-00:28:27,088 --> 00:28:28,657
+343
+00:28:26,988 --> 00:28:28,557
 That's _ it well. But how did it get in here?
 
-320
-00:28:28,822 --> 00:28:33,988
-It is the Cybermen. I believe
-they have deliberately infected the base.
+344
+00:28:28,722 --> 00:28:33,800
+It is the Cybermen. I believe they have
+deliberately infected the base.
 
-321
-00:28:33,955 --> 00:28:39,602
-My men have searched every square of the base. There's no space to hide a cat, let alone a Cyberman.
+345
+00:28:33,855 --> 00:28:36,602
+My men have searched every square of the base.
 
-322
-00:28:39,668 --> 00:28:41,418
+346
+00:28:36,655 --> 00:28:39,202
+There's no space to hide a cat, let alone a Cyberman.
+
+347
+00:28:39,268 --> 00:28:41,318
 Anyhow, how did they get in?
 
-323
-00:28:42,632 --> 00:28:44,877
+348
+00:28:42,532 --> 00:28:44,777
 - One moment.
 - What is it?
 
-324
-00:28:48,108 --> 00:28:51,280
+349
+00:28:48,008 --> 00:28:51,180
 - You say you searched all the base?
 - Yes. What of it?
 
-325
-00:28:51,450 --> 00:28:55,629
+350
+00:28:51,350 --> 00:28:55,529
 - No chance of anyone hiding anywhere?
 - None whatever.
 
-326
-00:28:56,523 --> 00:28:59,855
+351
+00:28:56,423 --> 00:28:59,755
 Did your men search in here? Did they?
 
-327
-00:29:00,026 --> 00:29:03,083
+352
+00:28:59,926 --> 00:29:03,883
 - There was'nt people in here, so...
 - Did they search in here?
 
-328
-00:29:03,247 --> 00:29:07,266
+353
+00:29:03,947 --> 00:29:07,166
 - No.
 - There's nowhere in here they could hide.
 
-329
-00:29:38,397 --> 00:29:41,970
-Oh, no!
-Back!
+354
+00:29:38,297 --> 00:29:41,870
+Oh, no! Back!
 
-330
-00:29:42,142 --> 00:29:43,744
+355
+00:29:42,042 --> 00:29:43,644
 Back.
 
-331
+356
 00:29:52,231 --> 00:29:56,854
 Stand back, stand back from that door.
 
-332
+357
 00:29:58,742 --> 00:29:59,901
 You're right! It is them!
 
-333
+358
 00:30:09,728 --> 00:30:10,554
 Quick! Get out of it!
 
-334
+359
 00:30:10,747 --> 00:30:11,368
 No!
 
-335
+360
 00:30:18,432 --> 00:30:19,984
 Remain still.
 
-336
+361
 00:30:20,984 --> 00:30:24,662
 You devils! You killed him! An unarmed man!
 
-337
+362
 00:30:25,082 --> 00:30:25,775
 Get up.
 
-338
+363
 00:30:30,129 --> 00:30:32,823
 You are known to us.
 
-339
+364
 00:30:33,743 --> 00:30:34,640
 And you to me.
 
-340
+365
 00:30:36,905 --> 00:30:39,656
 Who is in command?
 
-341
+366
 00:30:40,147 --> 00:30:41,034
 I am.
 
-342
+367
 00:30:41,332 --> 00:30:43,374
 You will be needed.
 
-343
+368
 00:30:43,797 --> 00:30:45,364
 What have you done with my men?
 
-344
+369
 00:30:45,679 --> 00:30:48,007
 They will return.
 
-345
+370
 00:30:48,261 --> 00:30:49,771
 They're not dead?!
 
-346
+371
 00:30:50,305 --> 00:30:54,689
 No. They are not dead. They are altered.
 
-347
+372
 00:30:54,799 --> 00:30:56,394
 Altered? What have you done to them?
 
-348
+373
 00:30:56,475 --> 00:30:58,485
 They are now controlled.
 
-349
+374
 00:30:59,848 --> 00:31:01,402
 If you do anything to my...
 
-350
+375
 00:31:01,477 --> 00:31:03,114
 You will do nothing.
 
-351
+376
 00:31:03,892 --> 00:31:07,976
 You will now take us to the control centre.
 
-352
+377
 00:31:08,237 --> 00:31:10,053
 I'll be damned...
 
-353
+378
 00:31:12,956 --> 00:31:14,054
 Through here.
 
-354
+379
 00:31:17,452 --> 00:31:25,202
-You will remain here. If you leave you will be converted like the others.
+You will remain here. If you leave
+you will be converted like the others.
 
-355
+380
 00:31:40,025 --> 00:31:43,658
 Survey party, come in, we are not receiving you, over.
 
-356
+381
 00:31:48,869 --> 00:31:50,785
 Can we see the control antenna from here?
 
-357
+382
 00:31:50,992 --> 00:31:53,334
-No, Roger. It's just around that first block just outside the main port.
+No, Roger. It's just around that first block
+just outside the main port.
 
-358
+383
 00:31:54,371 --> 00:31:56,647
 So, we have to send somebody outside so get ready...
 
-359
+384
 00:31:56,891 --> 00:31:57,567
 We have to...
 
-360
+385
 00:31:57,773 --> 00:31:59,492
 Get back! Get back! These things are lethal!
 
-361
+386
 00:31:59,772 --> 00:32:02,324
 None will move.
 
-362
+387
 00:32:02,648 --> 00:32:04,402
 If you move you will be killed.
 
-363
+388
 00:32:05,147 --> 00:32:06,732
 What are they?! How did they get in!?
 
-364
+389
 00:32:06,964 --> 00:32:11,067
-Silence! We are Cybermen! 
+Silence! We are Cybermen!
 
-365
+390
 00:32:11,313 --> 00:32:13,171
 But you were all killed!
 
-366
-00:32:13,450 --> 00:32:23,506
-We are going to take over the Gravitron and use it to destroy the surface of the Earth by changing the weather.
+391
+00:32:13,450 --> 00:32:16,506
+We are going to take over the Gravitron
 
-367
+392
+00:32:16,650 --> 00:32:23,506
+And use it to destroy the surface of the Earth
+by changing the weather.
+
+393
 00:32:23,610 --> 00:32:25,046
 But that will kill everybody on the Earth.
 
-368
+394
 00:32:25,234 --> 00:32:26,243
 Yes.
 
-369
+395
 00:32:26,609 --> 00:32:32,039
-You're supposed to be so advanced. Here you are, taking your revenge like children.
+You're supposed to be so advanced. Here you are,
+taking your revenge like children.
 
-370
+396
 00:32:32,241 --> 00:32:35,216
 Revenge? What is that?
 
-371
+397
 00:32:35,931 --> 00:32:37,506
 A feeling people have...
 
-372
-00:32:37,741 --> 00:32:49,468
-Feelings? Yes, we know of this weakness of yours. We are fortunate. We do not posses feelings.
+398
+00:32:37,741 --> 00:32:44,168
+Feelings? Yes, we know of this weakness of yours.
 
-373
-00:32:49,715 --> 00:32:51,557
+399
+00:32:44,241 --> 00:32:49,268
+We are fortunate. We do not posses feelings.
+
+400
+00:32:49,315 --> 00:32:51,157
 Then why are you here?
 
-374
-00:32:51,886 --> 00:32:54,767
+401
+00:32:51,486 --> 00:32:54,367
 To eliminate all dangers.
 
-375
-00:32:55,319 --> 00:32:58,348
+402
+00:32:54,919 --> 00:32:57,948
 But you kill every single thing on the Earth!
 
-376
-00:32:58,562 --> 00:33:02,682
+403
+00:32:58,162 --> 00:33:02,282
 Yes. All dangers will be eliminated.
 
-377
-00:33:04,209 --> 00:33:06,353
+404
+00:33:03,809 --> 00:33:05,953
 Hey, what do you think you're doing?
 
-378
-00:33:07,674 --> 00:33:09,016
+405
+00:33:07,274 --> 00:33:08,616
 You seem to be better.
 
-379
-00:33:09,296 --> 00:33:10,373
+406
+00:33:08,896 --> 00:33:09,973
 Aye, I feel myself again.
 
-380
-00:33:10,563 --> 00:33:11,461
+407
+00:33:10,163 --> 00:33:11,061
 Lie back there!
 
-381
-00:33:11,694 --> 00:33:12,498
+408
+00:33:11,294 --> 00:33:12,098
 But I'm better!
 
-382
-00:33:13,399 --> 00:33:15,081
+409
+00:33:12,999 --> 00:33:14,681
 Oh, my head.
 
-383
-00:33:15,298 --> 00:33:16,583
+410
+00:33:14,898 --> 00:33:16,183
 Well, take it easy, mate.
 
-384
-00:33:17,378 --> 00:33:19,556
+411
+00:33:16,978 --> 00:33:19,156
 At least, you know it is not your McCrimmon piper.
 
-385
-00:33:19,784 --> 00:33:21,973
+412
+00:33:19,384 --> 00:33:21,573
 It had me worried though, I admit that.
 
-386
-00:33:22,163 --> 00:33:25,648
-Yeah, those Cybermen have got us all worried mate. We see them in action before.
+413
+00:33:21,763 --> 00:33:23,748
+Yeah, those Cybermen have got us all worried mate.
 
-387
-00:33:25,987 --> 00:33:28,269
+414
+00:33:23,763 --> 00:33:25,248
+We see them in action before.
+
+415
+00:33:25,587 --> 00:33:27,869
 They must have some weakness.
 
-388
-00:33:28,395 --> 00:33:31,310
+416
+00:33:27,995 --> 00:33:30,910
 Well, in my day, they used to sprinkle witches with holy water.
 
-389
-00:33:31,574 --> 00:33:33,237
+417
+00:33:31,174 --> 00:33:32,837
 Fat lot of use that would be on them.
 
-390
-00:33:33,820 --> 00:33:38,679
+418
+00:33:33,420 --> 00:33:38,279
 Sprinkle... Holy Water... Ben!
 
-391
-00:33:38,869 --> 00:33:40,094
+419
+00:33:38,469 --> 00:33:39,694
 What are the Cybermen covered in?
 
-392
+420
 00:33:40,450 --> 00:33:42,804
 As far as I know, their suit is a metal of some sort.
 
-393
+421
 00:33:44,321 --> 00:33:48,935
-What about that thing on their chests? You know the part that replaced their heart and lungs.
+What about that thing on their chests? You know the part
+that replaced their heart and lungs.
 
-394
+422
 00:33:49,136 --> 00:33:50,286
 Some kind of plastic I think.
 
-395
-00:33:50,909 --> 00:34:02,005
-I thought so. You see, it's simple. Nail vanish remover dissolves nail vanish. Nail vanish is a plastic so we do what Jamie says, we sprinkle them, see?!
+423
+00:33:50,909 --> 00:33:56,800
+I thought so. You see, it's simple.
+Nail vanish remover dissolves nail vanish.
 
-396
+424
+00:33:56,909 --> 00:34:02,005
+Nail vanish is a plastic. So we do what Jamie says,
+we sprinkle them, see?!
+
+425
 00:34:02,144 --> 00:34:03,848
 No, clear as mud if you ask me.
 
-397
+426
 00:34:04,225 --> 00:34:05,766
 Anyway, I am going to try an experiment.
 
-398
+427
 00:34:06,138 --> 00:34:08,161
 Yes, Professor.
 
-399
+428
 00:34:23,370 --> 00:34:27,284
-Dr. Evans! I thought he was dead. I thought that they were all dead!
+Dr. Evans! I thought he was dead.
+I thought that they were all dead!
 
-400
+429
 00:34:27,335 --> 00:34:28,903
-Better if they were by the look of it.
+Bet if they were by the look of it.
 
-401
+430
 00:34:39,636 --> 00:34:45,247
 Tell the operators in the power unit to come out.
 
-402
+431
 00:34:45,578 --> 00:34:46,861
 Now.
 
-403
-00:34:54,135 --> 00:34:59,891
-All right, you can all see what is happening. Come on out, leave the machine and don't try anything.
+432
+00:34:54,135 --> 00:34:56,391
+All right, you can all see what is happening.
 
-404
+433
+00:34:56,435 --> 00:34:59,891
+Come on out, leave the machine and don't try anything.
+
+434
 00:35:06,035 --> 00:35:11,009
 They will now take over the Gravitron power unit.
 
-405
+435
 00:35:11,350 --> 00:35:12,161
 Yes.
 
-406
+436
 00:35:31,067 --> 00:35:34,016
 But you can't send them in their without protected helmets.
 
-407
+437
 00:35:34,278 --> 00:35:35,203
 Why?
 
-408
-00:35:35,475 --> 00:35:41,170
-The machine produces very intense sonic fields. Without the helmets, those men will be insane in a few hours!
+438
+00:35:35,475 --> 00:35:38,170
+The machine produces very intense sonic fields.
 
-409
+439
+00:35:38,275 --> 00:35:41,170
+Without the helmets, those men will be insane in a few hours!
+
+440
 00:35:41,383 --> 00:35:43,225
 How many hours?
 
-410
+441
 00:35:43,576 --> 00:35:44,681
 Twelve possibly.
 
-411
+442
 00:35:44,923 --> 00:35:47,426
 Then there is no problem.
 
-412
+443
 00:35:47,619 --> 00:35:48,276
 Why?
 
-413
+444
 00:35:48,523 --> 00:35:52,074
 Our purpose will be achieved before that.
 
-414
+445
 00:35:52,724 --> 00:35:54,371
 But what about the men?
 
-415
+446
 00:35:54,737 --> 00:35:58,338
 They will be disposed of.
 
-416
+447
 00:36:06,136 --> 00:36:08,218
 Now, keep your fingers crossed.
 
-417
+448
 00:36:10,583 --> 00:36:12,258
-It's works!
+It works!
 
-418
+449
 00:36:12,522 --> 00:36:14,007
 But I still don't know what you are on about.
 
-419
+450
 00:36:14,195 --> 00:36:18,103
-If we can sprinkle some of that on their chest units, it might help to soften them.
+If we can sprinkle some of that on their chest units,
+it might help to soften them.
 
-420
+451
 00:36:18,635 --> 00:36:21,095
-I get it! You mwan it will clobber their controls or something.
+I get it! You mean it will clobber their controls or something.
 
-421
+452
 00:36:21,298 --> 00:36:22,173
 Yes, that's it.
 
-422
+453
 00:36:28,186 --> 00:36:33,076
-Main power into the vortex generators now.
+May the power into the vortex generators now.
 
-423
-00:36:37,173 --> 00:36:39,457
+454
+00:36:37,173 --> 00:36:39,257
 What is happening?
 
-424
+455
 00:36:39,298 --> 00:36:41,902
 There is loss of control.
 
-425
-00:37:01,601 --> 00:37:08,799
-Now look, we only have one chance at this. When I open the door, drop down as low as you can, aim this things... at their chests and squirt like mad. Right?
+456
+00:37:01,601 --> 00:37:03,199
+Now look, we only have one chance at this.
 
-426
+457
+00:37:03,201 --> 00:37:05,799
+When I open the door, drop down as low as you can,
+
+458
+00:37:05,801 --> 00:37:08,799
+aim this things... at their chests and squirt like mad. Right?
+
+459
 00:37:09,007 --> 00:37:09,603
 Right.
 
-427
+460
 00:37:09,791 --> 00:37:10,456
 Get ready.
 
-428
+461
 00:37:10,486 --> 00:37:12,688
 Someone is there.
 
-429
+462
 00:37:15,015 --> 00:37:16,613
 Quick, get their chest things!
 
-430
+463
 00:37:41,603 --> 00:37:43,298
 Quick, get these things off their heads!
 
-431
-00:37:51,109 --> 00:37:56,039
-Come on! Quick, there isn't a moment to lose. We got to get the Gravitron down to safe level.
+464
+00:37:51,109 --> 00:37:53,339
+Come on! Quick, there isn't a moment to lose./
 
-432
+465
+00:37:53,409 --> 00:37:56,039
+We got to get the Gravitron down to safe level.
+
+466
 00:37:56,232 --> 00:37:57,287
 What about those poor men?
 
-433
+467
 00:37:57,496 --> 00:37:59,466
 Shift them off to the medical unit, as quick as you can.
 
-434
+468
 00:38:02,861 --> 00:38:09,524
 We are not receiving you. We are not receiving you.
 
-435
+469
 00:38:10,517 --> 00:38:13,590
 They must have failed.
 
-436
+470
 00:38:14,029 --> 00:38:20,817
 Yes. We must invade now. Prepare the weapons.
 
-437
+471
 00:38:21,263 --> 00:38:22,352
 Yes.
 
-438
-00:38:24,491 --> 00:38:33,164
-Now listen everybody. I don't know how many more of these Cybermen there are, but our point of view we are under siege. I'll reckon they will be back in a bit...
+472
+00:38:24,491 --> 00:38:28,964
+Now listen everybody. I don't know how many more
+of these Cybermen there are, /
 
-439
+473
+00:38:28,991 --> 00:38:33,164
+but our point of view we are under siege.
+I'll reckon they will be back in a bit...
+
+474
 00:38:33,399 --> 00:38:36,802
-Now communications. Charlie, keep trying to get through to Earth. Right?
+Now communications. Charlie, keep trying
+to get through to Earth. Right?
 
-440
+475
 00:38:36,974 --> 00:38:37,608
 Right, will do.
 
-441
-00:38:37,807 --> 00:38:43,322
-The rest of you, lower the armoured doors at all exits. Make up as much of that gubbins that you got, we may need it.
+476
+00:38:37,807 --> 00:38:40,322
+The rest of you, lower the armoured doors at all exits./
 
-442
-00:38:44,104 --> 00:38:47,389
+477
+00:38:40,407 --> 00:38:43,822
+Make up as much of that gubbins that you got, we may need it.
+
+478
+00:38:44,004 --> 00:38:47,389
 Mr Hobson, how far can the probe be lowered down?
 
-443
+479
 00:38:47,717 --> 00:38:48,717
 About thirty degrees.
 
-444
+480
 00:38:48,879 --> 00:38:49,524
 That's no good.
 
-445
+481
 00:38:49,677 --> 00:38:50,553
 What do you mean?
 
-446
+482
 00:38:50,745 --> 00:38:52,435
 Can any other part be lowered?
 
-447
+483
 00:38:52,777 --> 00:38:56,271
-Well, the main coil lenses can be shifted about without too much trouble but too much trouble...
+Well, the main coil lenses can be shifted about
+without too much trouble but...
 
-448
-00:38:56,565 --> 00:38:57,400
+484
+00:38:56,295 --> 00:38:57,400
 There's something outside there!
 
-449
+485
 00:38:57,579 --> 00:38:58,227
 What is it?
 
-450
+486
 00:38:58,419 --> 00:38:59,212
 It's a long way off.
 
-451
+487
 00:38:59,527 --> 00:39:00,340
 I'll come.
 
-1
-00:40:39,716 --> 00:40:44,146
-- They can't just march in here, can they?
-- Not now we've discovered how they got in.
+488
+00:40:39,716 --> 00:40:43,146
+They can't just march in here, can they?
 
-2
-00:40:44,317 --> 00:40:46,807
+489
+00:40:43,320 --> 00:40:44,646
+Not now. We've discovered how they got in.
+
+490
+00:40:44,717 --> 00:40:46,807
 Yes. They tunnelled into the storeroom.
 
-3
-00:40:46,980 --> 00:40:49,917
+491
+00:40:47,380 --> 00:40:50,317
 - Doctor, Mr. Hobson, come quickly!
 - What is it?
 
-4
-00:40:54,099 --> 00:40:57,887
-<i>MoonbaseI MoonbaseI</i>
+492
+00:40:54,499 --> 00:40:58,287
+<i>Moonbase, Moonbase</i>
 
-5
-00:40:58,054 --> 00:41:02,209
+493
+00:40:58,454 --> 00:41:02,609
 <i>- They've got our wavelength. We hear you.
 - You are surrounded.</i>
 
-6
-00:41:02,372 --> 00:41:05,150
+494
+00:41:02,772 --> 00:41:05,550
 <i>All resistance is useless.</i>
 
-7
-00:41:05,318 --> 00:41:08,463
+495
+00:41:05,718 --> 00:41:08,863
 <i>You must open the entry port.</i>
 
-8
-00:41:08,628 --> 00:41:14,435
-Let me. You're wasting your time. We've
-discovered your passageway and blocked it.
+496
+00:41:09,028 --> 00:41:14,835
+Let me. You're wasting your time.
+We've discovered your passageway and blocked it.
 
-9
-00:41:14,600 --> 00:41:18,789
+497
+00:41:15,000 --> 00:41:19,189
 <i>- You cannot enter now.
 - Resistance is useless.</i>
 
-10
-00:41:18,958 --> 00:41:21,977
+498
+00:41:19,358 --> 00:41:22,377
 - Can they get in?
 - I don't know, but I'm not stopping to find out.
 
-11
-00:41:22,147 --> 00:41:24,683
+499
+00:41:22,547 --> 00:41:25,083
 - Get me Earth as quick as you can.
 - Right.
 
-12
-00:41:24,850 --> 00:41:27,869
-Weather Control Moon calling Earth.
-Come in.
+500
+00:41:25,250 --> 00:41:28,269
+Weather Control Moon calling Earth. Come in.
 
-13
-00:41:34,534 --> 00:41:37,633
+501
+00:41:34,934 --> 00:41:38,033
 <i>Emergency! Emergency!</i>
 
-14
-00:41:37,802 --> 00:41:41,223
-<i>There is a spaceship
-approaching from Earth.</i>
+502
+00:41:38,202 --> 00:41:41,623
+<i>There is a spaceship approaching from Earth.</i>
 
-15
-00:41:41,394 --> 00:41:47,122
-<i>It will arrive on the lunar surface
-in 15 minutes.</i>
+503
+00:41:41,794 --> 00:41:47,522
+<i>It will arrive on the lunar surface in 15 minutes.</i>
 
-16
-00:41:47,286 --> 00:41:51,603
+504
+00:41:47,686 --> 00:41:52,003
 <i>Immediate offensive action must be taken.</i>
 
-17
-00:41:51,719 --> 00:41:55,541
+505
+00:41:52,119 --> 00:41:55,941
 <i>They have blocked up our way into the base.</i>
 
-18
-00:41:55,714 --> 00:42:00,065
+506
+00:41:56,114 --> 00:42:00,465
 <i>Other methods to gain entry will be tried.</i>
 
-19
+507
 00:42:01,326 --> 00:42:05,068
-<i>The machine from Earth
-must first be destroyed.</i>
+<i>The machine from Earth must first be destroyed.</i>
 
-20
+508
 00:42:05,241 --> 00:42:08,466
 <i>There are 14 minutes left.</i>
 
-21
+509
 00:42:08,631 --> 00:42:10,399
 <i>Understood.</i>
 
-22
+510
 00:42:20,093 --> 00:42:23,720
 <i>Transmit control signal.</i>
 
-23
+511
 00:43:34,954 --> 00:43:41,112
-<i>You will listen to me
-and follow my instructions.</i>
+<i>You will listen to me and follow my instructions.</i>
 
-24
+512
 00:43:41,204 --> 00:43:43,901
 Here we are. I've brought some coffee to keep us awake.
 
-25
+513
 00:43:44,070 --> 00:43:47,008
 - Without sugar this time, I hope?
 - Of course. Don't remind me.
 
-26
+514
 00:43:47,177 --> 00:43:50,241
 - Take some to the Doctor. He's in the Dome.
 - Right.
 
-27
+515
 00:44:17,082 --> 00:44:23,854
-<i>You will now change
-field co-ordinates as instructed.</i>
+<i>You will now change field co-ordinates as instructed.</i>
 
-28
+516
 00:44:27,090 --> 00:44:31,003
-Doctor, they've spotted it
-on the scanner - the relief ship.
+Doctor, they've spotted it on the scanner - the relief ship.
 
-29
+517
 00:44:31,166 --> 00:44:33,094
-- Ben, where?
-- Over here.
-- Let's see.
+- Ben, where?   - Over here.   - Let's see.
 
-30
+518
 00:44:33,264 --> 00:44:36,570
 - Well?
 - No doubt about it. I told you they would be on their way!
 
-31
+519
 00:44:36,762 --> 00:44:38,208
 It's not far off.
 
-32
+520
 00:44:38,376 --> 00:44:41,636
-Far off? It's coming in now off parking orbit. It will be down in six minutes.
+Far off? It's coming in now off parking orbit.
+It will be down in six minutes.
 
-33
+521
 00:44:41,807 --> 00:44:45,308
 - Don't think you ought to warn them?
 - Yes, the Cybermen will be waiting for them.
 
-34
-00:44:45,479 --> 00:44:48,658
+522
+00:44:45,479 --> 00:44:49,358
 Don't worry. They've got their own warning system and weapons.
 
-35
-00:44:48,829 --> 00:44:54,235
+523
+00:44:49,429 --> 00:44:54,235
 They'll blast the Cybermen and their spaceship
-to kingdom come four minutes from now.
+to kingdom come in about four minutes from now.
 
-36
+524
 00:44:56,255 --> 00:44:58,263
 Come on!
 
-37
+525
 00:44:58,434 --> 00:45:01,097
 It seems to move so slowly.
 
-38
+526
 00:45:06,183 --> 00:45:10,258
 - What are they doing?
 - Looks like they've changed direction.
 
-39
+527
 00:45:11,147 --> 00:45:14,372
-They've changed into an escape orbit.
-Follow it.
+They've changed into an escape orbit. Follow it.
 
-40
+528
 00:45:14,537 --> 00:45:17,762
 - It's going too fast. I can't keep up with it.
 - Keep trying.
 
-41
-00:45:17,927 --> 00:45:23,252
+529
+00:45:17,927 --> 00:45:23,552
 - I can't hold it. It's accelerating too fast.
 - Look out man. You're on the sun.
 
-42
-00:45:23,414 --> 00:45:27,041
+530
+00:45:23,614 --> 00:45:27,041
 - That's where it's heading.
-- The acceleration's gigantic!
+- The acceleration is.. it's gigantic!
 
-43
+531
 00:45:27,208 --> 00:45:32,568
 - Get R/T contact with the ship.
-- It's no good, sir...the
-doppler effect...It's going too fast.
+- It's no good, sir...the doppler effect...It's going too fast.
 
-44
+532
 00:45:34,432 --> 00:45:36,842
 They've had it, I'm afraid.
 
-45
+533
 00:45:37,015 --> 00:45:39,391
 - The sun...
 - Yes.
 
-46
+534
 00:45:39,557 --> 00:45:42,576
-Will somebody please tell us
-what it all means?
+Will somebody please tell us what it all means?
 
-47
+535
 00:45:42,746 --> 00:45:47,222
-The rocket has been deflected
-towards the sun. Nothing can save them now.
+The rocket has been deflected towards the sun.
+Nothing can save them now.
 
-48
+536
 00:45:47,387 --> 00:45:51,048
-- Save them? What do you mean?
+- Save them? What are you talking about?
 - From plunging into the sun.
 
-49
+537
 00:45:51,221 --> 00:45:53,516
 But the sun's millions of miles away.
 
-50
+538
 00:45:53,683 --> 00:45:58,113
 Once they get into the sun's gravity belt,
 they can't change course.
 
-51
+539
 00:45:58,283 --> 00:46:01,509
 It may take a week but they'll end up there.
 
-52
+540
 00:46:01,673 --> 00:46:04,899
 What on earth could have caused it?
 
-53
+541
 00:46:05,063 --> 00:46:08,530
-The rocket was deflected off course,
-but why, and how?
+The rocket was deflected off course, but why, and how?
 
-54
+542
 00:46:08,696 --> 00:46:10,704
 Deflected?
 
-55
+543
 00:46:10,875 --> 00:46:15,905
 - Yes, of course. The Gravitron!
 - Have the Cybermen got a gravity weapon, do you think?
 
-56
+544
 00:46:16,076 --> 00:46:17,851
 - No, they haven't, but we have.
 - You're not suggesting...?
 
-57
-00:46:18,017 --> 00:46:22,447
-The only one way that rocket could be deflected into the sun
-was from this very room.
+545
+00:46:18,017 --> 00:46:23,547
+The only one way that rocket could be deflected
+into the sun... was this very room.
 
-58
-00:46:22,618 --> 00:46:24,224
+546
+00:46:23,618 --> 00:46:24,324
 I see what you mean.
 
-59
+547
 00:46:24,394 --> 00:46:26,529
 Of course - the Gravitron.
 
-60
-00:46:26,694 --> 00:46:30,614
+548
+00:46:26,694 --> 00:46:31,114
 - Benson! He must...
 - I said he'd been on duty too long.
 
-61
-00:46:30,986 --> 00:46:32,696
+549
+00:46:31,286 --> 00:46:32,696
 If it IS Benson...
 
-62
+550
 00:46:39,810 --> 00:46:41,819
 It's Evans!
 
-63
+551
 00:46:47,534 --> 00:46:51,356
 - He was in the medical room.
 - The Cybermen have control of them again.
 
-64
+552
 00:46:51,430 --> 00:46:54,737
 - And the other men in there?
 - They may not be affected yet.
 
-65
-00:46:54,904 --> 00:46:59,496
-- Get down to the medical room. Barricade the door with everything
-you can find. Keep them in there at all costs!
-- Right.
+553
+00:46:54,904 --> 00:46:57,996
+Get down to the medical room.
+Barricade the door with everything you can find.
 
-66
+554
+00:46:58,004 --> 00:46:59,496
+- Keep them in there at all costs!  - Right.
+
+555
 00:47:21,392 --> 00:47:23,848
 What is he doing in there?
 
-67
-00:47:25,387 --> 00:47:30,105
-Look at the field reactors. We must get back control soon. 
+556
+00:47:25,387 --> 00:47:29,705
+Look at the field reactors. We must get back control soon.
+
+557
+00:47:29,771 --> 00:47:33,576
 He could flood half of Europe
+if he keeps the Gravitron aligned with spring tides.
 
-68
-00:47:30,271 --> 00:47:33,576
-if he keeps the Gravitron
-aligned with spring tides.
-
-69
+558
 00:47:33,741 --> 00:47:36,679
 That settles it. We'll have to rush him.
 Get those weapons out.
 
-70
+559
 00:47:42,338 --> 00:47:45,356
 <i>Resistance is useless.</i>
 
-71
-00:47:45,526 --> 00:47:49,072
+560
+00:47:45,526 --> 00:47:49,872
 <i>All further ships from Earth will be deflected.</i>
 
-72
-00:47:49,638 --> 00:47:52,048
+561
+00:47:49,938 --> 00:47:52,048
 <i>Open the air lock to us.</i>
 
-73
+562
 00:47:52,221 --> 00:47:55,687
 <i>If you do not, we shall destroy the base,</i>
 
-74
+563
 00:47:55,853 --> 00:47:58,343
 <i>and you will be eliminated.</i>
 
-75
+564
 00:47:58,516 --> 00:48:00,043
 Can you hear me?
 
-76
+565
 00:48:00,211 --> 00:48:05,284
 <i>Everything you have said
 in the past half-hour has been overheard.</i>
 
-77
+566
 00:48:05,458 --> 00:48:10,624
-You can hear this, too, then. We're not done
-yet, and we'll fight you to the last man.
+You can hear this, too, then: we're not done yet,
+and we'll fight you to the last man.
 
-78
+567
 00:48:10,785 --> 00:48:14,894
 <i>- You'll never get inside this base!
 - We are in it already.</i>
 
-79
+568
 00:48:17,063 --> 00:48:20,308
 They've punctured the dome!
 
-80
+569
 00:48:20,471 --> 00:48:24,098
 The oxygen masks.
 Everyone take a mask over there!
 
-81
+570
 00:48:32,901 --> 00:48:35,839
 I hope that we don't lose too much oxygen.
 
-82
+571
 00:48:36,009 --> 00:48:39,073
 - Can we patch it, do you think?
 - We can try.
 
-83
+572
 00:48:39,237 --> 00:48:41,246
 Give me a hand off with this.
 
-84
+573
 00:48:41,416 --> 00:48:45,044
 Doctor, I can't breathe.
 
-85
+574
 00:48:49,447 --> 00:48:52,190
 Thank heavens! I can breathe again.
 
-86
+575
 00:48:55,420 --> 00:48:57,428
 Oh, no!
 
-87
+576
 00:48:57,599 --> 00:49:00,744
 - What can we patch it with?
 - Nothing.
 
-88
+577
 00:49:00,908 --> 00:49:02,642
 Wait...
 
-89
+578
 00:49:02,805 --> 00:49:04,458
 Over there.
 
-90
+579
 00:49:06,276 --> 00:49:09,053
 Slide it to me but don't let go of it.
 
-91
-00:49:11,401 --> 00:49:14,510
+580
+00:49:11,401 --> 00:49:14,910
 We have to do it in one action. No second chance. Are you ready?
 
-92
+581
 00:49:14,980 --> 00:49:16,403
 Now!
 
-93
+582
 00:49:23,751 --> 00:49:26,000
 Stopped them for the moment.
 
-94
+583
 00:49:26,172 --> 00:49:29,994
 - I wonder for how long.
 - Let's have a look.
 
-95
+584
 00:49:38,279 --> 00:49:41,424
 Polly! Are you all right?
 
-96
+585
 00:49:42,436 --> 00:49:44,089
 Yes.
 
-97
+586
 00:49:45,786 --> 00:49:49,331
 - Where's that air coming from?
 - Reserve tanks of oxygen.
 
-98
+587
 00:49:49,498 --> 00:49:53,733
 - Why couldn't we have had those before?
 - And lose all our oxygen?
 
-99
+588
 00:49:53,897 --> 00:49:55,905
 I see.
 
-100
+589
 00:50:01,403 --> 00:50:04,708
-- It's so quiet!
-- Yes, it is, isn't it?
+- It's so quiet!  - Yes, it is, isn't it?
 
-101
+590
 00:50:04,874 --> 00:50:07,410
 The Gravitron's stopped!
 
-102
+591
 00:50:09,354 --> 00:50:12,693
 Quick. Before he comes to. Ben! Jamie!
 
-103
+592
 00:50:13,874 --> 00:50:15,446
 Joe!
 
-104
+593
 00:50:15,609 --> 00:50:19,636
-We've barricaded the sick bay with half the chairs and tables in the base, but it won’t
-hold them for ever.
+We've barricaded the sick bay with half the chairs and tables in the base, but it won’t hold them for ever.
 
-105
+594
 00:50:19,703 --> 00:50:22,628
-Well done.
-Here's another one for you.
+- Well done. - Here's another one for you.
 
-106
+595
 00:50:22,793 --> 00:50:25,731
 - What do we do with him, Doctor?
 - That's your problem.
 
-107
+596
 00:50:25,900 --> 00:50:27,794
-Just make sure he doesn’t come
-back here for a while.
+Just make sure he doesn’t come back here for a while.
 
-108
+597
 00:50:27,958 --> 00:50:31,425
 I’ll be after a job as a copper when I get
 back to 1966!
 
-109
+598
 00:50:34,981 --> 00:50:36,828
 Mr Hobson, I've got an idea.
 
-110
+599
 00:50:37,498 --> 00:50:41,184
 - Doctor, what do you make of this?
 - Made by a laser beam, I think.
 
-111
+600
 00:50:41,250 --> 00:50:46,429
-- Is there anything the Cybermen haven't got?
+- Is there anything known to science the Cybermen haven't got?
 - They haven’t got a Gravitron. Or they wouldn't be after yours.
 
-112
+601
 00:50:46,497 --> 00:50:49,516
 We'll have to stand guard here
-with their cyberguns.
 
-113
+602
 00:50:49,685 --> 00:50:54,564
 Not much use. They're getting
 reinforcements. Looks like another spaceship.
 
-114
+603
 00:50:55,376 --> 00:50:57,304
 Just there.
 
-115
+604
 00:50:57,347 --> 00:50:58,792
 Another one!
 
-116
+605
 00:51:04,820 --> 00:51:09,250
 <i>We have brought
 reinforcements with other weapons.</i>
 
-117
+606
 00:51:09,420 --> 00:51:13,897
 <i>You have one chance.
 You must open the entry port.</i>
 
-118
+607
 00:51:14,061 --> 00:51:19,984
 <i>You cannot stop us now.
 You will all be completely destroyed.</i>
 
-119
+608
 00:51:20,155 --> 00:51:25,321
 - What does he mean, other weapons?
 - We'll soon find out. You stay here. I must report this to Mr. Hobson.
 
-120
+609
 00:51:31,254 --> 00:51:33,504
 <i>I shall count to ten.</i>
 
-121
+610
 00:51:33,675 --> 00:51:39,403
-<i>If you still stupidly remain silent,
-we shall fire.</i>
+<i>If you still stupidly remain silent, we shall fire.</i>
 
-122
+611
 00:51:39,567 --> 00:51:41,737
 <i>One...</i>
 
-123
+612
 00:51:43,925 --> 00:51:47,839
 - Hurry! They've got another weapon. They're going to ...
 - Yes, I know. There it is.
 
-124
+613
 00:51:48,001 --> 00:51:51,869
-Everybody take cover.
-Get down, all of you! Doctor!
+Everybody take cover. Get down, all of you! Doctor!
 
-125
+614
 00:51:52,037 --> 00:51:54,099
-- Is the Gravitron still switched on?
-- Yes.
+- Is the Gravitron still switched on?  - Yes.
 
-126
+615
 00:51:54,362 --> 00:51:55,854
 Then I shall certainly stay here.
 
-127
+616
 00:51:56,864 --> 00:52:01,456
-<i>.. nine, ten... FireI</i>
+<i>.. nine, ten... Fire!</i>
 
-128
+617
 00:52:11,070 --> 00:52:13,079
 <i>Again. Fire.</i>
 
-129
+618
 00:52:22,612 --> 00:52:26,354
 - What happened?
 - It just deflected over the dome.
 
-130
+619
 00:52:26,527 --> 00:52:28,260
-- Are you all right?
-- Yes.
+- Are you all right?  - Yes.
 
-131
+620
 00:52:28,424 --> 00:52:33,624
 - The Gravitron deflected it. The force field.
 - Yes. And that gives me an idea.
 
-132
+621
 00:52:33,791 --> 00:52:36,454
 What are they doing now?
 
-133
+622
 00:52:41,337 --> 00:52:43,231
 They're packing it away.
 
-134
+623
 00:52:43,395 --> 00:52:46,414
 What will they cook up next?
 
-135
+624
 00:52:49,893 --> 00:52:55,862
 How far down can this be aimed? Can it be
 brought to bear on the surface of the moon?
 
-136
+625
 00:52:56,027 --> 00:52:58,483
-- I see!
-- Well...
+- I see!  - Well...
 
-137
+626
 00:52:58,651 --> 00:53:01,509
-- Has it ever been tried?
-- No, but we shall try.
+- Has it ever been tried?  - No, but we shall try.
 
-138
+627
 00:53:01,677 --> 00:53:05,625
 - With Evans gone, the Gravitron is all yours.
 - Je m'en occupe!
 
-139
+628
 00:53:05,794 --> 00:53:09,054
-Any further down,
-and the field may affect the base.
+Any further down, and the field may affect the base.
 
-140
+629
 00:53:09,224 --> 00:53:11,887
 - What does that matter now?
 - Ah, I suppose you're right.
 
-141
+630
 00:53:12,049 --> 00:53:16,560
 - Get someone to stand by that window
 and relay instructions direct to Benoit.
 - Right!
 
-142
+631
 00:53:27,103 --> 00:53:30,121
-- He's ready.
-- Start moving the probe down.
+- He's ready.  - Start moving the probe down.
 
-143
+632
 00:54:24,813 --> 00:54:27,912
 - That's as far as it will go.
 - What?
 
-144
+633
 00:54:28,082 --> 00:54:30,217
 But it's way over their heads.
 
-145
+634
 00:54:30,382 --> 00:54:33,963
-There's one chance.
-We'll try bringing it down by hand.
+There's one chance. We'll try bringing it down by hand.
 
-146
+635
 00:54:34,136 --> 00:54:37,154
 - Is this still switched off?
 - No, No.. Yes, of course.
 
-147
+636
 00:54:43,054 --> 00:54:46,440
 - It won't go.
 - All your weight. Once more.
 
-148
+637
 00:54:48,219 --> 00:54:52,567
 - It's no use. It won't shift.
 - Ah, stupid of me! Of course it won't!
 
-149
+638
 00:54:52,636 --> 00:54:54,872
 - Why?
 - The angular cut-out. It's obvious!
 
-150
+639
 00:54:57,300 --> 00:55:01,168
 There's got to be a safety cut-out
 on the angle of the probe.
 
-151
-00:55:01,336 --> 00:55:07,258
+640
+00:55:01,336 --> 00:55:03,258
 Otherwise, it might affect the whole base.
+
+641
+00:55:03,336 --> 00:55:07,258
 That's done it. Stand back. Benoit can do it now.
 
-152
+642
 00:55:07,429 --> 00:55:09,082
 Switch on!
 
-153
+643
 00:55:45,889 --> 00:55:48,506
 Well, that's taken care of the Cybermen!
 
-154
+644
 00:55:48,674 --> 00:55:54,034
-We've got to get this Gravitron
-in operation as fast as we can!
+We've got to get this Gravitron in operation as fast as we can!
 
-155
+645
 00:55:54,203 --> 00:55:57,026
-- I'm so sorry we damaged it.
-- What? Oh, yes...
+- I'm so sorry we damaged it.  - What? Oh, yes...
 
-156
+646
 00:55:58,279 --> 00:56:02,193
-Nils, rig up a temporary aerial.
-Call up Space Control.
+Nils, rig up a temporary aerial. Call up Space Control.
 
-157
+647
 00:56:02,355 --> 00:56:07,761
-Tell Rinberg we'll be operational
-in about two hours. It's the best we can do.
+Tell Rinberg we'll be operational in about two hours.
+It's the best we can do.
 
-158
+648
 00:56:07,924 --> 00:56:13,125
-We've only two hours to get
-the world's weather under control again.
+Two hours! That's all we've got to
+get the world's weather under control again.
 
-159
+649
 00:56:13,292 --> 00:56:17,160
 Benoit, take charge of your side.
 And, Doctor... What the...
 
-160
+650
 00:56:19,507 --> 00:56:22,767
-It's just as well.
-We've enough madmen here already!
+It's just as well. We've enough madmen here already!
 
-161
+651
 00:56:22,937 --> 00:56:26,518
-I want to see
-your first weather plot in two minutes!
+I want to see your first weather plot in two minutes!
 
-162
+652
 00:56:26,691 --> 00:56:28,022
 Come on, boys.
 
-163
+653
 00:56:50,057 --> 00:56:51,388
 Doctor, look.
 
-164
+654
 00:56:52,519 --> 00:56:56,099
-Could that be them?
-Possibly.
+- Could that be them?  - Possibly.
 
-165
+655
 00:56:56,272 --> 00:56:59,210
 And I hope it's the last we see of them.
 
-169
+656
+00:57:20,738 --> 00:57:22,988
+There we are. In perfect flight.
+
+657
+00:57:23,160 --> 00:57:28,440
+- Yes, and look what happened last time!
+- Just a bumpy landing. It won't happen again.
+
+658
+00:57:28,608 --> 00:57:29,973
+- I know.
+- What you're up now?
+
+659
 00:57:30,142 --> 00:57:33,160
-- Let's have a look at the Time Scanner.
-- The what?
+- Let's have a look at the Time Scanner. - The what?
 
-170
+660
 00:57:33,330 --> 00:57:38,496
-The Time Scanner. Instead of showing where
-we are, it gives you a glimpse of the future.
+The Time Scanner. Instead of showing where we are,
+it gives you a glimpse of the future.
 
-171
+661
 00:57:38,657 --> 00:57:41,802
 The second sight? Very dangerous.
 
-172
+662
 00:57:41,966 --> 00:57:46,719
 Nonsense! I haven't used it very much.
 It's not very reliable, as you can see.
 
-173
+663
 00:57:46,890 --> 00:57:48,302
 Doctor...
 
-174
-00:57:48,464 --> 00:57:50,277
-Look!
-
-175
-00:57:51,500 --> 00:57:54,500
-Next: The Macra Terror
