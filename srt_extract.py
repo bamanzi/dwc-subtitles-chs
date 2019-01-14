@@ -1,10 +1,14 @@
 #!/usr/bin/env python2
 
+from __future__ import print_function
+
 import re
 import sys
 import logging
+import copy
 
 from datetime import datetime
+
 
 def locate_english_in_entries(entries, english):
     english1 = ''.join(english)
@@ -13,13 +17,16 @@ def locate_english_in_entries(entries, english):
         entry = entries[i]
         dialog = entry['dialog']  # to translate
 
-        raw_english = dialog[0]
-        if (english1 in raw_english) or (english2 in raw_english):
+        english_to_trans= dialog[0]
+        if (english1 in english_to_trans) or (english2 in english_to_trans):
             return i
 
-def merge_srt_files(filenames):    
+def merge_srt_files(en_srt_file, trans_files):    
     re_time = re.compile("([0-9:,]{10,12}) --> ([0-9:,]{10,12})")
 
+    filenames = copy.copy(trans_files)
+    filenames.insert(0, en_srt_file)
+    
     entries = []
     #import pdb; pdb.set_trace()
     for filename in filenames:
@@ -60,9 +67,11 @@ def merge_srt_files(filenames):
                         entries.append(entry)
                     elif len(dialog)>1:
                         # translated entries
-                        chinese = dialog[0]
+
+                        # TODO: auto-tell which line is english and which line is chinese
+                        chinese = dialog[-1]
                             
-                        idx = locate_english_in_entries(entries, dialog[1:])
+                        idx = locate_english_in_entries(entries, dialog[0:-1])
                         if idx:
                             old_entry = entries[idx]
                             old_entry['dialog'].append(chinese)
@@ -72,20 +81,22 @@ def merge_srt_files(filenames):
             last_line = line
 
     # output merged subtitles
+    #with open(target_file, 'w') as fp:
+    fp = sys.stdout
     for i in range(len(entries)):
         entry = entries[i]
 
-        print("%d" % (i+1))
-        print("%s" % entry['time_line'])
+        print("%d" % (i+1),              file=fp)
+        print("%s" % entry['time_line'], file=fp)
         for line in entry['dialog']:
-            print("%s" % line)
-        print("")
-                   
+            print("%s" % line,           file=fp)
+        print("",                    file=fp)
+        
                 
                     
 if __name__=="__main__":
-    import sys
-    if len(sys.argv)<3:
-        print("Usage: merge two srt files.")
+    if len(sys.argv)<2:
+        print("Extract translations (by english string), merge them to the timestamp of first file.")
+        print("Usage: %s en.srt chs1.srt chs2.srt... " % (sys.argv[0]))
     else:
-        merge_srt_files(sys.argv[1:])
+        merge_srt_files(sys.argv[1], sys.argv[2:])
