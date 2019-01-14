@@ -1,0 +1,729 @@
+1
+00:26:09,687 --> 00:26:11,439
+- Hello, Jo. - Doctor!
+- 嘿, Jo  - 博士!
+
+2
+00:26:15,007 --> 00:26:16,918
+- How are you? All right? - Well...
+- 你怎么样? 没事吧?  - 这个...
+
+3
+00:26:17,007 --> 00:26:19,885
+Right, they'll be plenty of time
+for the exchange of social pleasantries.
+好啦, 他们有足够的时间来嘘寒问暖
+
+4
+00:26:19,967 --> 00:26:21,480
+Put him inside.
+把他关进去
+
+5
+00:26:36,647 --> 00:26:39,923
+Thank you, gentlemen. You can leave them to me now.
+谢谢你们, 先生们. 你们可以把他们俩留给我了
+
+6
+00:26:44,007 --> 00:26:47,556
+Well, Doctor, this is an interesting reversal.
+怎样, 博士, 这真是有趣的反转啊
+
+7
+00:26:48,567 --> 00:26:51,798
+I remember your once visiting me when I was in prison.
+我记得有一次我在监狱里面你还来探访
+
+8
+00:26:51,887 --> 00:26:53,366
+You know, I'd very much like to know why...
+你知道吗, 我倒是很想知道为什么...
+
+9
+00:26:53,447 --> 00:26:54,766
+Why you've been locked up?
+为什么你被锁起来了?
+
+10
+00:26:54,847 --> 00:26:57,486
+No, why I'm still alive.
+不, 为什么我还活着
+
+11
+00:26:57,687 --> 00:27:02,522
+Oh, come, your health is very precious to me, for the moment.
+哦, 得了, 你的健康对我来说很珍贵的, 至少目前是
+
+12
+00:27:03,207 --> 00:27:06,085
+You see, my employers are most interested in you.
+要知道, 我的雇主对你非常有兴趣
+
+13
+00:27:06,167 --> 00:27:10,126
+- The Ogrons? - Miss Grant, please! I employ them.
+- 是 Ogrons?  - Grant 小姐, 是我雇佣他们好不
+
+14
+00:27:10,207 --> 00:27:13,085
+Yes, well, whatever it is you're up to,
+you needn't expect any help from me.
+好吧, 不管你的图谋是什么, 别想从我这里得到帮助
+
+15
+00:27:13,167 --> 00:27:14,646
+I don't need any help.
+我不需要任何帮助
+
+16
+00:27:14,727 --> 00:27:17,161
+Your simple presence will be quite enough.
+你们只要出现就完全够了
+
+17
+00:27:17,367 --> 00:27:21,201
+Oh, by the way, I need hardly warn you
+there is no point in trying to escape.
+哦, 对了, 不需要我警告你吧, 企图在这里逃跑完全没意义
+
+18
+00:27:21,287 --> 00:27:23,198
+This is an interplanetary police spaceship,
+这是一艘星际警用飞船
+
+19
+00:27:23,287 --> 00:27:26,040
+specially built for carrying prisoners, as you can see.
+专为运送囚犯建造的, 你可以看得出来
+
+20
+00:27:26,127 --> 00:27:27,196
+Stolen, of course?
+偷来的, 对吧?
+
+21
+00:27:27,287 --> 00:27:30,438
+(SCOFFING) Of course. Oh, and another thing...
+当然. 哦, 还有一件事
+
+22
+00:27:31,047 --> 00:27:34,119
+There's a closed-circuit television
+camera trained on you from up there,
+这里有一个闭路电视摄像头, 对准了你
+
+23
+00:27:34,207 --> 00:27:36,767
+so you will be under continuous observation.
+所以你在我的持续监视之下
+
+24
+00:27:36,847 --> 00:27:38,166
+I think that's all.
+差不多就是这些了
+
+25
+00:27:38,247 --> 00:27:40,761
+Well, now, if you'll excuse me,/
+现在, 如果没有什么事情
+
+26
+00:27:40,847 --> 00:27:43,236
+I have some rather complicated
+astro-navigational calculations to work out.
+我还要去做一些复杂的航天导航计算
+
+27
+00:27:43,327 --> 00:27:45,045
+May I ask where we're going?
+我能问问我们要去哪儿吗?
+
+28
+00:27:45,127 --> 00:27:48,756
+Certainly. To the home of our friends, the Ogrons.
+当然可以, 去我们朋友的家乡, 那些 Ogrons 的
+
+29
+00:27:49,287 --> 00:27:52,802
+A barren and uninteresting planet
+on the remote fringes of the galaxy.
+一颗贫瘠而无趣的星球, 在遥远的星系边缘
+
+30
+00:27:52,887 --> 00:27:54,525
+Why are you taking us there?
+你为什么带我去那里?
+
+31
+00:27:54,607 --> 00:27:57,917
+That, Miss Grant, you will discover when you arrive.
+这个, Grant 小姐, 你到了就知道了
+
+32
+00:28:02,327 --> 00:28:04,397
+Right, now listen to me. We haven't got much time
+好了, 现在听我说, 我们没有太多时间
+
+33
+00:28:04,487 --> 00:28:06,125
+before he gets back to the flight deck.
+要赶在他回到飞行舱之前
+
+34
+00:28:06,207 --> 00:28:08,562
+Now, the first thing we've got to do is to escape.
+现在第一件事我们要做的事情是逃脱
+
+35
+00:28:08,647 --> 00:28:11,002
+Now, they took my sonic screwdriver from me in the prison
+在监狱的时候他们把我的音速起子给拿走了
+
+36
+00:28:11,087 --> 00:28:13,555
+but they didn't get a hold of this.
+不过他们没发现这个
+
+37
+00:28:14,967 --> 00:28:16,764
+- A steel file.   - Right, let's go.
+- 一把锉刀?   - 对, 我们开始
+
+38
+00:28:16,847 --> 00:28:18,997
+No, not yet. Let's wait till he gets back to the flight deck,
+不, 还不行. 先等他回到飞行舱
+
+39
+00:28:19,087 --> 00:28:22,397
+then he'll set the controls. Now, this is an automatic spaceship.
+等他设定好控制, 飞船就进入自动巡航状态了
+
+40
+00:28:22,487 --> 00:28:24,842
+Once we're underway, the computers take over, right?
+等我们一启程, 电脑就完全接管了, 对吧
+
+41
+00:28:24,927 --> 00:28:26,883
+-Okay, so what's the plan?
+-Now this is what we're gonna do.
+- 好了, 计划是什么  - 我们接下来要这样
+
+42
+00:28:52,427 --> 00:28:54,497
+<i>So I told the High Council of the Time Lords,</i>
+于是我就告诉时间领主最高理事会
+
+43
+00:28:54,587 --> 00:28:58,466
+<i>I said they had absolutely no right</i>
+<i>to put me on trial in the first place.</i>
+我说他们一开始就完全无权让我受审
+
+44
+00:28:58,547 --> 00:29:01,345
+Well, if I chose to go wandering around the universe in my own time,
+就是说, 如果我自己决定要用我自己的时间去宇宙里四处逛逛
+
+45
+00:29:01,427 --> 00:29:02,496
+that was my business.
+那是我自己的事情
+
+46
+00:29:02,587 --> 00:29:04,179
+What about stealing the TARDIS?
+那偷 TARDIS 的事情怎么说?
+
+47
+00:29:04,267 --> 00:29:06,861
+I didn't steal it. I just borrowed it.
+我没偷, 我是借走的
+
+48
+00:29:06,947 --> 00:29:09,177
+I fully intended to return it, I assure you.
+我本来就打算还回去的, 我向你保证
+
+49
+00:29:09,267 --> 00:29:11,178
+Anyway, she wasn't exactly the latest model, poor old thing.
+再说了, 它也不是最新的型号, 可怜的老古董
+
+50
+00:29:11,267 --> 00:29:13,144
+JO: (LAUGHING) You can say that again.
+你又说这个
+
+51
+00:29:13,227 --> 00:29:15,866
+I tell you, I made a complete fool of that prosecuting council, though.
+我跟你说, 我把他们检察委员会从头到尾给耍了
+
+52
+00:29:15,947 --> 00:29:18,142
+I ridiculed his every argument.
+我把他的每句话都驳倒了
+
+53
+00:29:18,227 --> 00:29:20,377
+Yes, and I told him that I had the complete answer
+是的, 我跟他说我全有理由
+
+54
+00:29:20,467 --> 00:29:21,946
+to every one his charges against me.
+对于他指控我的每一条
+
+55
+00:29:22,027 --> 00:29:23,426
+JO: And then what happened?
+然后发生了什么
+
+56
+00:29:23,507 --> 00:29:26,180
+DOCTOR: Then what happened, well, they found me guilty,
+然后发生了什么, 这个, 他们说我有罪
+
+57
+00:29:26,267 --> 00:29:28,986
+changed my appearance and exiled me to Earth.
+改变了我的外形, 把我流放到了地球
+
+58
+00:29:29,067 --> 00:29:30,705
+JO: And that's where you met me!
+就是你碰见我的地方!
+
+59
+00:29:30,787 --> 00:29:33,460
+<i>That's right. That's where I met you.</i>
+对, 就是我碰见你的地方
+
+60
+00:29:33,547 --> 00:29:35,902
+<i>And that alone made the exile worthwhile, Miss Grant.</i>
+单单这个就让这次流放变得有价值了, Grant 小姐
+
+61
+00:29:35,987 --> 00:29:37,136
+JO: <i>Thank you!</i>
+谢谢你!
+
+62
+00:29:37,227 --> 00:29:38,945
+<i>Not that there's anything wrong with Earth.</i>
+不过地球本身也没有什么问题
+
+63
+00:29:39,027 --> 00:29:41,541
+<i>Well, it's quite a nice, little planet in its own way, but...</i>
+嗯, 它很不错, 小小的星球, 有自己的风格, 不过...
+
+64
+00:29:41,627 --> 00:29:45,302
+<i>After all, I am a Time Lord, Jo,</i>
+<i>and I think I've deserve my freedom.</i>
+毕竟, 我是一个时间领主, Jo, 我想我应该享有我的自由
+
+65
+00:29:45,387 --> 00:29:48,459
+-JO: <i>Right!</i>
+-In reminiscent mood, are you, Doctor?
+对啊, 又在回忆了, 是吗, 博士?
+
+66
+00:29:48,547 --> 00:29:50,856
+Poor Miss Grant, you have my deepest sympathy.
+可怜的 Grant 小姐, 我对你深表同情
+
+67
+00:29:50,947 --> 00:29:52,300
+(CHUCKLING)
+
+68
+00:30:00,947 --> 00:30:03,222
+As I soon realised, the trouble with Lethbridge-Stewart
+我很快就发现, Lethbridge-Stewart 准将的问题是
+
+69
+00:30:03,307 --> 00:30:04,706
+is that he's got a military mind.
+他始终是军人的思维
+
+70
+00:30:04,787 --> 00:30:07,824
+Well, he is a brigadier, after all. I mean, what do you expect?
+但是, 毕竟他是一个准将啊. 我是说, 你还想他怎么样?
+
+71
+00:30:07,907 --> 00:30:08,976
+No, that's just the trouble though.
+不, 那还只是问题的开始
+
+72
+00:30:09,067 --> 00:30:12,423
+He's hidebound, you see. He always does everything by the rules.
+他很死板, 你明白吗. 他总是按照规则来做事情
+
+73
+00:30:12,507 --> 00:30:14,179
+I keep telling him. I said, "There are times, you know,
+我一直跟他说: "有些时候啊, 
+
+74
+00:30:14,267 --> 00:30:16,701
+"when you've simply got to cut right through the red tape."
+你就得抛弃那些繁文缛节
+
+75
+00:30:16,787 --> 00:30:18,743
+And you've managed to do that, have you?
+你就真这样做了, 是吗
+
+76
+00:30:18,827 --> 00:30:22,058
+DOCTOR: Yes, I've managed to cut right through it.
+是的, 我就抛掉这些东西
+
+77
+00:30:23,987 --> 00:30:27,946
+And I'm not going to let authority stand between me and my freedom.
+我可不打算让当局挡住我去追求自由
+
+78
+00:30:28,347 --> 00:30:32,420
+(SIGHING) Lethbridge-Stewart, I...
+Lethbridge-Stewart, 我...
+
+79
+00:30:32,507 --> 00:30:37,183
+Hey! As far as he's concerned
+I've been absent without leave all this time.
+说到他, 我还没有跟他请假就离开了
+
+80
+00:30:38,067 --> 00:30:39,297
+I'm always telling people ...
+我一直跟人说...
+
+81
+00:30:45,547 --> 00:30:48,061
+Is everything all right, Miss Grant?
+一切都还好吗，Grant 小姐？
+
+82
+00:30:48,947 --> 00:30:51,097
+Yes, yes, I'm fine.
+是的是的，我很好
+
+83
+00:30:51,427 --> 00:30:54,624
+And how about you, Doctor?
+No ill effects, I hope?
+你怎么样，博士。没什么不舒服吧，但愿？
+
+84
+00:30:56,347 --> 00:30:58,383
+Doctor, are you all right?
+博士，你没事吧？
+
+85
+00:30:58,867 --> 00:31:01,984
+JO: <i>Please don't wake him.</i>
+请不要吵醒他
+
+86
+00:31:02,747 --> 00:31:07,867
+Is he? How very relaxed of him.
+是吧？他心还挺宽啊
+
+87
+00:31:08,747 --> 00:31:10,262
+You come with me, Miss Grant.
+你跟我来，Grant 小姐
+
+88
+00:31:11,427 --> 00:31:12,746
+Come on!
+过来！
+
+89
+00:31:19,707 --> 00:31:21,937
+Right, in you go, Miss Grant.
+好了，进去吧你，Grant 小姐
+
+90
+00:31:32,107 --> 00:31:34,098
+Can you hear me, Doctor?
+你能听到吗，博士？
+
+91
+00:31:34,347 --> 00:31:37,862
+<i>Are you on the flight deck?</i>
+<i>If so, listen to this.</i>
+你是在飞行甲板上吗？如果是，听好了
+
+92
+00:31:38,707 --> 00:31:40,937
+<i>Miss Grant is in the air lock.</i>
+Grant 小姐在气闸里
+
+93
+00:31:43,067 --> 00:31:45,865
+Unless you surrender yourself
+to me immediately,
+除非你立刻向我投降
+
+94
+00:31:45,947 --> 00:31:49,303
+I shall open the outer door
+and hurl her into space.
+否则我打开外门把她抛进太空去
+
+95
+00:31:53,587 --> 00:31:56,420
+What an ingenious fellow you are, Doctor!
+你真是个聪明的家伙，博士
+
+96
+00:31:57,147 --> 00:31:59,183
+Oh, no, you don't!
+噢，别
+
+97
+00:32:01,147 --> 00:32:03,342
+Now hold it, Doctor, hold it!
+现在住手，博士，住手
+
+98
+00:32:04,227 --> 00:32:06,661
+Get that blaster over to me
+or I press this button,
+把枪递给我，否则我按按钮了
+
+99
+00:32:06,747 --> 00:32:09,420
+and that will be the end of Miss Grant!
+那样的话 Grant 小姐就玩完了！
+
+100
+00:32:16,507 --> 00:32:18,179
+(DOCTOR EXCLAIMING)
+
+101
+00:32:26,547 --> 00:32:27,775
+Thank you, Doctor.
+谢谢你，博士
+
+102
+00:32:27,867 --> 00:32:29,778
+(THUDDING)
+
+103
+00:32:30,567 --> 00:32:32,876
+Well, we appear to have company.
+哦，看来我们有同伴了
+
+104
+00:32:39,387 --> 00:32:41,742
+Would these be your Ogron friends?
+会是你的那些 Orgron 朋友吗？
+
+105
+00:32:41,827 --> 00:32:43,226
+Why, no, no.
+为什么，不不
+
+106
+00:32:44,667 --> 00:32:47,659
+Well, I should try and be
+a bit more hospitable, old chap.
+那，我就会尽量好客一点，老伙计
+
+107
+00:32:47,747 --> 00:32:51,740
+Come on, put that gun away.
+They've probably got us outnumbered.
+得了，扔掉那把枪吧。他们很可能比我们人多
+
+108
+00:32:56,147 --> 00:32:59,378
+Welcome on board my ship.
+To what do I owe the honour?
+欢迎来到我的飞船。是谁带给我这份荣幸呢？
+
+109
+00:32:59,467 --> 00:33:02,379
+Why have you violated
+the Draconian frontier?
+你们为什么犯我龙族边界？
+
+110
+00:33:02,467 --> 00:33:06,016
+Uh, yes, I'm most apologetic about that,
+but it was really beyond my control.
+啊，是，我对此非常抱歉。不过情况真的超出了我的控制
+
+111
+00:33:06,107 --> 00:33:08,575
+You see, my prisoners
+were trying to escape and my...
+你看，这两个囚犯试图逃走，而我的...
+
+112
+00:33:08,667 --> 00:33:10,897
+- My ship was thrown off course.
+- Prisoners?
+- 我的飞船又被抛出了航线
+- 囚犯？
+
+113
+00:33:10,987 --> 00:33:13,455
+Yes, I am the commissioner
+of Earth's Interplanetary Police.
+是的，我是地球星际警局的专员FIXME
+
+114
+00:33:13,547 --> 00:33:17,142
+I'm taking these two people back
+to planet Sirius 4 for...for trial.
+我要把这两个人带回天狼星四号，为了...让他们受审
+
+115
+00:33:17,227 --> 00:33:18,819
+Uh, here is my warrant of authority.
+啊，这是我的授权书FIXME
+
+116
+00:33:18,907 --> 00:33:21,023
+Now, don't believe this man, he's lying.
+噢，别相信这个人，他在撒谎
+
+117
+00:33:21,107 --> 00:33:24,224
+I'm not concerned in disputes
+between Earthmen.
+我不关心你们地球人相互之间的纠纷
+
+118
+00:33:24,867 --> 00:33:27,461
+We shall take them to Draconia.
+Put them in the cage.
+我们要带他们回国去。先把他们关进笼子吧
+
+119
+00:33:27,547 --> 00:33:28,662
+But you can't do that!
+但你不能这么做！
+
+120
+00:33:28,747 --> 00:33:30,146
+I'm a commissioner
+of Interplanetary Police!
+我是星际警局的专员FIXME！
+
+121
+00:33:30,227 --> 00:33:33,105
+This is my spaceship!
+I tell you, you can't do that!
+这是我的飞船！我跟你说，你不能这么干！
+
+122
+00:33:45,227 --> 00:33:48,617
+Well, personally I'm quite happy
+to be going to Draconia, Jo.
+不过呢，我个人倒是非常高兴去龙帝国走一趟，Jo
+
+123
+00:33:48,707 --> 00:33:50,060
+Perhaps we can convince the Emperor
+说不定我们可以说服皇帝
+
+124
+00:33:50,147 --> 00:33:51,785
+what our friend here has been trying to do.
+让他知道我们这位朋友一直在干的事情
+
+125
+00:33:51,867 --> 00:33:53,937
+You really think he'd believe you?
+你真的以为他会相信你？
+
+126
+00:33:54,027 --> 00:33:56,700
+Well, this won't be my first visit
+to Draconia, you know?
+哦，这也不是我第一次去龙帝国，你知道不？
+
+127
+00:33:56,787 --> 00:33:59,460
+Many years ago,
+I spent quite some time there.
+很多年前，我在那里待了一段时间
+
+128
+00:33:59,547 --> 00:34:02,220
+I was able to help them through a period
+of very great difficulty.
+我在他们一段困难的时期帮了些忙
+
+129
+00:34:02,687 --> 00:34:04,917
+So there's a good chance
+that they'll believe you, huh?
+所以有很大机会他们会相信你，是吧？
+
+130
+00:34:05,007 --> 00:34:07,316
+Well, it was a long time ago.
+Things may have changed.
+不过，那是好久以前，情况也许会变
+
+131
+00:34:07,407 --> 00:34:09,318
+But I do understand
+the Draconian mentality, Jo.
+但我倒是明白他们考虑问题的方式，Jo
+
+132
+00:34:09,407 --> 00:34:11,045
+It all depends how you approach them.
+一切都取决于你如何接近他们
+
+133
+00:34:11,127 --> 00:34:14,437
+So, if they do believe the Doctor,
+you've had it!
+所以，如果他们相信了博士，你就有好果子吃了
+
+134
+00:34:14,527 --> 00:34:16,722
+Perhaps, Miss Grant, perhaps.
+也许吧，Grant 小姐，也许吧
+
+135
+00:34:16,927 --> 00:34:19,964
+But one never knows
+when help may be at hand.
+但人们永远不知道，帮助什么时候就会到来
+
+136
+00:34:20,047 --> 00:34:24,402
+Now, if you'll excuse me,
+I think that this is going to be rather a long journey,/
+现在，如果没什么事的话，而我觉得这会是一段不短的旅程
+
+137
+00:34:24,487 --> 00:34:26,765
+so, uh, good night.
+所以，晚安
+
+138
+00:34:27,767 --> 00:34:30,076
+We'll wake you with a cup of tea
+in the morning.
+到早上了我们会给你准备一杯茶再叫醒你的
+<part4 ends here>
+
