@@ -678,12 +678,14 @@ Doctor, what are you doing?
 
 135
 00:07:29,567 --> 00:07:33,560
-I'm reversing the polarity of my ultrasonic screwdriver's power source,
+I'm reversing the polarity of
+my ultrasonic screwdriver's power source,
 我在把音速起子上电源的极性翻转过来
 
 136
 00:07:33,647 --> 00:07:36,605
-thereby converting it into an extremely powerful electromagnet.
+thereby converting it into
+an extremely powerful electromagnet.
 这样它就变成了一个极强的电磁铁
 
 137
@@ -712,8 +714,9 @@ Yes, I think so.
 
 142
 00:07:47,407 --> 00:07:49,318
-- I'm going to get the prisoners. - What for?
-- 我去把囚犯带出来 - 带出来做什么?
+- I'm going to get the prisoners.
+- What for?
+- 我去把俘虏带出来 - 带出来做什么?
 
 143
 00:07:49,407 --> 00:07:51,238
@@ -722,7 +725,8 @@ We're using them as hostages, remember?
 
 144
 00:07:51,327 --> 00:07:54,160
-You'd better be quick about it. We haven't got much time.
+You'd better be quick about it.
+We haven't got much time.
 你最好动作快点，我们没有太多时间
 
 145
@@ -756,34 +760,39 @@ We're going to meet your friends.
 
 151
 00:08:16,407 --> 00:08:20,082
-- Come on! Get up there! - Come on, they're almost through.
+- Come on! Get up there!
+- Come on, they're almost through.
 - 快点，上这里来! - 快点，他们快打穿了
 
 152
 00:08:20,167 --> 00:08:22,806
-HARDY: Get in front! If your friends start shooting,
-they'll get you first.
+HARDY: Get in front! If your friends
+start shooting, they'll get you first.
 站前面去! 如果你的朋友们开始开枪，先射死的是你们
 
 153
 00:08:22,887 --> 00:08:25,640
-- But they're not our friends! - You are part of their boarding party.
+- But they're not our friends!
+- You are part of their boarding party.
 - 但他们不是我们的朋友! - 你们俩是他们登船小队的成员
 
 154
 00:08:25,727 --> 00:08:27,877
-They haven't boarded yet. They're still breaking through that door.
+They haven't boarded yet.
+They're still breaking through that door.
 他们还没有登船. 他们还在切割舱门呢
 
 155
 00:08:27,967 --> 00:08:30,435
-- Now, try and be logical, man. - They're coming through!
+- Now, try and be logical, man.
+- They're coming through!
 - 能不能讲点理，伙计 - 他们过来了
 
 156
 00:08:32,327 --> 00:08:35,241
-- Ogrons! - DOCTOR: Back to the TARDIS, Jo. Back!
-- Ogrons!  - 快回到 TARDIS, Jo. 回去!
+- Ogrons!
+- DOCTOR: Back to the TARDIS, Jo. Back!
+- 是 Ogrons!  - 快回到 TARDIS, Jo. 回去!
 
 157
 00:08:39,487 --> 00:08:41,717
@@ -832,12 +841,14 @@ Must have been some kind of neuronic stun gun.
 
 166
 00:09:33,927 --> 00:09:37,715
-I wonder why they didn't kill me? What exactly happened, Jo?
+I wonder why they didn't kill me?
+What exactly happened, Jo?
 很奇怪他们为什么没杀了我? 到底发生了什么，Jo?
 
 167
 00:09:37,807 --> 00:09:40,924
-Well, they took the cargo, threw me in here and...
+Well, they took the cargo,
+threw me in here and...
 呃..他们把货拿走了，然后把我扔到这里面就...
 
 168
@@ -871,7 +882,8 @@ Why should the Ogrons attack this ship?
 
 174
 00:09:55,607 --> 00:10:00,078
-- To steal the cargo. - No. No, there's more to it than that.
+- To steal the cargo.
+- No. No, there's more to it than that.
 - 为了偷货呗 - 不，不，远不仅于此
 
 175
@@ -886,7 +898,8 @@ it's all too sophisticated for the Ogrons.
 
 177
 00:10:08,567 --> 00:10:11,684
-- Well, they're gone now. - Yeah, the question is, where?
+- Well, they're gone now.
+- Yeah, the question is, where?
 - 他们现在已经走了 - 对，但问题是，去了哪儿?
 
 178
@@ -901,7 +914,8 @@ they were working for the Daleks, right?
 
 180
 00:10:16,967 --> 00:10:20,039
-- Well, you don't suppose that that... - No, no, not necessarily.
+- Well, you don't suppose that that...
+- No, no, not necessarily.
 - 这，你不是想说... - 不，不，不一定
 
 181
@@ -921,7 +935,8 @@ Come on, Jo, let's go and find the crew.
 
 184
 00:10:29,487 --> 00:10:33,801
-<i>(博士与 Jo 上一次碰到 Ogrons 是在09x01 The Day of the Daleks 这集,
+<i>(博士与 Jo 上一次碰到 Ogrons 是在
+09x01 The Day of the Daleks 这集,
 所以这次 Ogrons 这次一露面，Jo 就能认出他们了)</i>
 
 185
@@ -961,27 +976,31 @@ I see. Having a fancy dress party? What happened?
 
 192
 00:11:11,187 --> 00:11:13,621
-- Dragons attacked us. - Did they get the cargo?
+- Dragons attacked us.
+- Did they get the cargo?
 - 那些龙袭击了我们 - 他们劫走货物了没
 
 193
 00:11:13,707 --> 00:11:15,425
-- I don't know. - Yes, they took everything.
+- I don't know.
+- Yes, they took everything.
 - 我不清楚 - 是的，他们全拿走了
 
 194
 00:11:15,507 --> 00:11:17,782
 Including some rather valuable property of mine.
-包括我个人的一些相当值钱的东西
+包括我个人的一些相当有价值的东西
 
 195
 00:11:17,867 --> 00:11:21,064
-- Well, tough luck. - Oh, thank you very much.
+- Well, tough luck.
+- Oh, thank you very much.
 - 这样啊，挺倒霉啊 - 哦，很感谢你们
 
 196
 00:11:21,147 --> 00:11:24,742
-- Dragons... They attacked us. - Yes, we know.
+- Dragons... They attacked us.
+- Yes, we know.
 - 那些龙...他们攻击了我们 - 是的，我们知道了
 
 197
@@ -1017,7 +1036,8 @@ Stowaways... That's it, they were stowaways.
 
 203
 00:11:38,787 --> 00:11:40,796
-- They were sending messages. - That's right.
+- They were sending messages.
+- That's right.
 - 他们曾经往外发送信息 - 那就对了
 
 204
@@ -1032,7 +1052,8 @@ But that's absolute nonsense.
 
 206
 00:11:45,487 --> 00:11:47,876
-Look, we didn't want to be on this ship. It was an accident.
+Look, we didn't want to be on this ship.
+It was an accident.
 是这样，我们并不想到这艘船上来的，是一次事故
 
 207
@@ -1042,12 +1063,14 @@ You said you were passengers.
 
 208
 00:11:49,727 --> 00:11:53,561
-I was merely trying to avoid a lot of tiresome explanations, old chap.
+I was merely trying to avoid
+a lot of tiresome explanations, old chap.
 我只是想把事情弄简单一点，免得浪费半天口舌，老伙计
 
 209
 00:11:53,647 --> 00:11:56,207
-Stewart, I'll leave Kemp on board to take your ship back to Earth.
+Stewart, I'll leave Kemp on board
+to take your ship back to Earth.
 Stewart, 我把 Kemp 留在船上，带你们回地球
 
 210
@@ -1062,7 +1085,8 @@ Lock them in the hold, put a guard on them.
 
 212
 00:11:58,807 --> 00:12:01,321
-- But we haven't done anything. - They say you have. Take them away.
+- But we haven't done anything.
+- They say you have. Take them away.
 - 但我们没干过任何事啊 - 他们说你干过. 带走
 
 213
@@ -1082,7 +1106,8 @@ They'll listen, it's their business.
 
 216
 00:12:04,807 --> 00:12:08,436
-- Put them in the starboard cubicle. - All right, get moving.
+- Put them in the starboard cubicle.
+- All right, get moving.
 - 把他们带到右舷小隔间去 - 好的，走
 
 217
@@ -1107,7 +1132,8 @@ why don't the crewmen remember what really happened?
 
 221
 00:12:29,607 --> 00:12:32,326
-Because the true facts have been erased from their minds, that's why.
+Because the true facts have been erased
+from their minds, that's why.
 因为真相已经从他们大脑里面抹掉了，这就是为什么
 
 222
@@ -1122,7 +1148,8 @@ Oh, they don't know that they're lying, Jo.
 
 224
 00:12:36,607 --> 00:12:39,167
-They're desperately trying to fit us into their version of things.
+They're desperately trying to fit us
+into their version of things.
 他们只是在尽力地把我们装进他们那个版本的真实中去
 
 225
@@ -1153,12 +1180,14 @@ Jo, 你看，这些人相信
 
 230
 00:12:49,287 --> 00:12:51,278
-that the Draconians are attacking their spaceships, right?
+that the Draconians are attacking
+their spaceships, right?
 是龙族人袭击了他们的飞船，对吧?
 
 231
 00:12:51,367 --> 00:12:53,039
-- Right. - We know that they're wrong, don't we?
+- Right.
+- We know that they're wrong, don't we?
 - 是的   - 我们知道他们说的是错的，是不?
 
 232
@@ -1193,7 +1222,8 @@ I mean, what we've got to is find out what's going on,
 
 238
 00:13:07,287 --> 00:13:10,597
-who's behind the Ogrons, where they've taken the TARDIS,
+who's behind the Ogrons,
+where they've taken the TARDIS,
 谁在操纵这些 Ogrons, 他们又把 TARDIS 带到哪里去了
 
 239
@@ -1218,12 +1248,14 @@ Oh. I don't know what I've been worrying about.
 
 243
 00:13:21,567 --> 00:13:25,958
-<i>The ship will land in 15 minutes. The crew are safe.</i>
+<i>The ship will land in 15 minutes. </i>
+<i>The crew are safe.</i>
 飞船将在15分钟内降落，船员都安全
 
 244
 00:13:26,047 --> 00:13:29,801
-<i>Also aboard, two human stowaways, origins unknown.</i>
+<i>Also aboard, two human stowaways,</i>
+<i>origins unknown.</i>
 船上还有两个偷渡的人类，来源未知
 
 245
@@ -1250,7 +1282,8 @@ I want handle the preliminary interrogations myself.
 
 249
 00:13:40,507 --> 00:13:43,146
-- Outside. - We want to see somebody in authority.
+- Outside.
+- We want to see somebody in authority.
 - 出来 - 我们要见你们老大
 
 250
@@ -1265,7 +1298,8 @@ Now then, what's all this about?
 
 252
 00:13:52,087 --> 00:13:55,318
-- Draconian agents? Are you sure? - What else can they be?
+- Draconian agents? Are you sure?
+- What else can they be?
 - 龙族特工? 你确定吗?   - 要不然还能是什么
 
 253
@@ -1290,7 +1324,8 @@ The Draconians are preparing for war.
 
 257
 00:14:03,207 --> 00:14:05,596
-You're still only suspecting that. There is no proof.
+You're still only suspecting that.
+There is no proof.
 你这只是在怀疑，但没有证据
 
 258
@@ -1305,7 +1340,8 @@ traitors, on this planet to sabotage our war effort.
 
 260
 00:14:10,487 --> 00:14:13,081
-But we are bound to suspect them. They must have realised.
+But we are bound to suspect them.
+They must have realised.
 但我们肯定会怀疑他们啊，他们肯定能想到这个
 
 261
@@ -1325,7 +1361,8 @@ two unfortunate refugees from a Draconian attack,
 
 264
 00:14:26,907 --> 00:14:29,865
-- When did you last eat? - Quite some while ago.
+- When did you last eat?
+- Quite some while ago.
 - 你上次什么时候吃饭的? - 有些时候了
 
 265
@@ -1360,7 +1397,8 @@ It's not healthy.
 
 271
 00:14:41,707 --> 00:14:44,426
-- Look, I'll give you a piece of advice. - DOCTOR: Yes?
+- Look, I'll give you a piece of advice.
+- DOCTOR: Yes?
 - 对了，我要给你们一个小建议 - 什么...
 
 272
@@ -1380,7 +1418,8 @@ You'll save yourselves a lot of trouble.
 
 275
 00:14:59,787 --> 00:15:02,779
-PRESIDENT: And you are quite sure it was a Draconian battle cruiser.
+PRESIDENT: And you are quite sure
+it was a Draconian battle cruiser.
 你确定那是一艘龙族战斗巡航舰吗?
 
 276
@@ -1425,7 +1464,8 @@ They are saying what they have been ordered to say.
 
 284
 00:15:26,307 --> 00:15:29,538
-On this occasion, we have more than our servants to confront you with.
+On this occasion, we have more than
+our servants to confront you with.
 这次不同了，能跟你对质的不仅仅是我们的人
 
 285
@@ -1485,12 +1525,14 @@ I know nothing of this.
 
 296
 00:16:00,347 --> 00:16:04,545
-Perhaps you do not, but some servant of the Draconian empire employed them.
+Perhaps you do not, but some servant
+of the Draconian empire employed them.
 也许你是不知道，但龙族帝国的某些人雇佣了他们
 
 297
 00:16:04,627 --> 00:16:08,742
-Madam, I can assure that I've never been employed by anybody.
+Madam, I can assure that
+I've never been employed by anybody.
 夫人，我可以保证，我从来没有被任何人雇佣
 
 298
@@ -1500,7 +1542,8 @@ Least of all by the Draconians.
 
 299
 00:16:10,867 --> 00:16:14,780
-Your servants should have been better rehearsed in their lies.
+Your servants should have been better
+rehearsed in their lies.
 你的喽罗应该好好排练一下如何撒谎
 
 300
@@ -1531,7 +1574,8 @@ Allow me to congratulate you, sir.
 
 305
 00:16:27,027 --> 00:16:29,939
-You have the most totally closed mind that I've ever encountered.
+You have the most totally closed mind
+that I've ever encountered.
 你拥有我所见过的最封闭的头脑
 
 306
@@ -1541,7 +1585,8 @@ Madam, I beg of you to listen to me.
 
 307
 00:16:32,227 --> 00:16:35,742
-Some third party is trying to provoke war between Earth and Draconia.
+Some third party is trying to provoke war
+between Earth and Draconia.
 某个第三方团体正试图挑起地球与龙族的战争
 
 308
@@ -1597,7 +1642,8 @@ Is this the evidence upon which you accuse me?
 
 318
 00:16:57,507 --> 00:17:00,624
-I must ask you to convey a formal protest to your Emperor.
+I must ask you to convey
+a formal protest to your Emperor.
 我必须要求你向你的皇帝转达我们的正式抗议
 
 319
@@ -1624,7 +1670,8 @@ They're an inscrutable species.
 
 323
 00:17:29,407 --> 00:17:33,036
-Obviously, they are preparing the next stage of their plan.
+Obviously, they are preparing
+the next stage of their plan.
 很显然，他们在为他们自己计划的下一步铺路
 
 324
@@ -1698,7 +1745,8 @@ I could not possibly countenance such a plan.
 
 337
 00:18:31,167 --> 00:18:39,922
-But, should two escaping prisoners seek sanctuary in this embassy,
+But, should two escaping prisoners
+seek sanctuary in this embassy,
 但是，如果两个逃犯到大使馆来寻求庇护
 
 338
@@ -1752,7 +1800,8 @@ No.
 
 348
 00:19:27,067 --> 00:19:29,945
-No change in the rhythm, sir. He must be telling the truth.
+No change in the rhythm, sir.
+He must be telling the truth.
 没有波动，他说的应该是实话
 
 349
@@ -1790,7 +1839,8 @@ DOCTOR: I didn't.
 
 356
 00:19:44,187 --> 00:19:47,179
-In any case, it wasn't the Draconians, it was the Ogrons.
+In any case, it wasn't the Draconians,
+it was the Ogrons.
 而且，那也不是龙族人，是 Ogrons
 
 357
@@ -1799,17 +1849,20 @@ In any case, it wasn't the Draconians, it was the Ogrons.
 
 358
 00:19:48,507 --> 00:19:51,419
-Your machine can't be working properly. Or else he's controlling it.
+Your machine can't be working properly.
+Or else he's controlling it.
 你的机器工作不正常，要不然就是他可以控制它
 
 359
 00:19:51,507 --> 00:19:54,146
-We've checked all the circuits, sir. Those are his thoughts.
+We've checked all the circuits, sir.
+Those are his thoughts.
 我们都检查过所有线路了，先生. 这就是他的想法
 
 360
 00:19:54,227 --> 00:19:57,060
-We know this man is a Draconian agent. He must be lying.
+We know this man is a Draconian agent.
+He must be lying.
 我们知道这个人是一个龙族特工，他肯定在撒谎
 
 361
@@ -1819,7 +1872,8 @@ Perhaps he's already been brainwashed, sir.
 
 362
 00:19:59,547 --> 00:20:02,505
-But as far as he's concerned, what he's telling us is the truth.
+But as far as he's concerned,
+what he's telling us is the truth.
 但就他现在而言，他告诉我们的是实情
 
 363
@@ -1844,7 +1898,8 @@ I wouldn't do that, old man.
 
 367
 00:20:14,587 --> 00:20:17,704
-I know these machines. They aren't awfully reliable, you know?
+I know these machines.
+They aren't awfully reliable, you know?
 我了解这些机器，他们并不是太可靠，知道不?
 
 368
@@ -1883,7 +1938,8 @@ Are you an agent of the Draconians?
 
 375
 00:20:34,587 --> 00:20:37,147
-- DOCTOR: No. - When do they plan to attack us?
+- DOCTOR: No.
+- When do they plan to attack us?
 - 不是   - 他们打算什么时候开始攻击?
 
 376
@@ -1893,12 +1949,14 @@ They don't.
 
 377
 00:20:38,747 --> 00:20:41,136
-- How did you board the cargo ship? - Through the TARDIS.
+- How did you board the cargo ship?
+- Through the TARDIS.
 - 你是如何到货船上去的? - 通过 TARDIS
 
 378
 00:20:41,227 --> 00:20:43,995
-- Who first recruited you to serve the Draconians? - No one.
+- Who first recruited you to serve the Draconians?
+- No one.
 - 谁招募你服务于龙族人的?   - 没谁
 
 379
@@ -1918,7 +1976,8 @@ WILLIAMS: The truth, man. I want the truth.
 
 382
 00:20:48,667 --> 00:20:50,544
-- I'm telling you the truth. - WILLIAMS: I will get the truth.
+- I'm telling you the truth.
+- WILLIAMS: I will get the truth.
 - 我说的就是实情    - 我会得到实情的
 
 383
@@ -1941,7 +2000,8 @@ Mmm-hmm, apart from a bit of a headache.
 
 387
 00:21:17,187 --> 00:21:19,701
-I like the new outfit. Who are you fighting tonight?
+I like the new outfit.
+Who are you fighting tonight?
 我对结果挺满意. 你今晚在跟谁斗?
 
 388
@@ -1970,12 +2030,14 @@ Well, they've made up their minds, you see.
 
 393
 00:21:29,627 --> 00:21:32,983
-They'll only believe us if we tell them what they want to hear.
+They'll only believe us
+if we tell them what they want to hear.
 只有我们说他们想听的，他们才会相信我们
 
 394
 00:21:33,067 --> 00:21:35,535
-It's a pity really that the Ogrons didn't succeed in kidnapping us.
+It's a pity really that the Ogrons
+didn't succeed in kidnapping us.
 Ogrons 没能成功绑架我们，还真是遗憾啊
 
 395
@@ -2000,7 +2062,8 @@ presumably they'd have taken us to where the TARDIS is.
 
 399
 00:21:43,827 --> 00:21:47,183
-but I'm afraid another kidnapping attempt is our only ray of hope.
+but I'm afraid another kidnapping attempt
+is our only ray of hope.
 不过恐怕再来一次绑架才是我们唯一的希望
 
 400
@@ -2065,7 +2128,8 @@ I can't think why you chose to work for the Draconians.
 
 412
 00:22:30,787 --> 00:22:34,746
-But whatever it is, I'll double any offer they've made to you.
+But whatever it is, I'll double any offer
+they've made to you.
 不管怎样吧，他们给你许诺了什么，我都加倍
 
 413
@@ -2085,7 +2149,8 @@ You leave me no alternative.
 
 416
 00:22:42,987 --> 00:22:46,138
-Under the powers invested in me by the Special Security Act,
+Under the powers invested in me
+by the Special Security Act,
 根据特别安全法案授权于我的权力
 
 417
@@ -2160,7 +2225,8 @@ I'd like to, madam.
 
 431
 00:23:23,067 --> 00:23:27,936
-I really would, but there's nothing that I can say that you'd believe.
+I really would, but there's nothing
+that I can say that you'd believe.
 我真的这样，但确实我说不出什么你能相信的东西
 
 432
@@ -2175,7 +2241,8 @@ No! You'll be leaving immediately for the penal colony.
 
 434
 00:23:34,027 --> 00:23:38,100
-We're putting you where your Draconian friends will be unable to reach you.
+We're putting you where your Draconian friends
+will be unable to reach you.
 我们要把你放到你那些龙族朋友够不到你的地方
 
 435
@@ -2200,7 +2267,8 @@ What are you talking about?
 
 439
 00:24:15,227 --> 00:24:17,546
-Well, surely you don't want to spend the rest of your life in here, do you?
+Well, surely you don't want to
+spend the rest of your life in here, do you?
 你当然不会期望在这里过完你的下半辈子，是吧?
 
 440
@@ -2220,7 +2288,8 @@ Believe it or not,
 
 443
 00:24:22,387 --> 00:24:26,266
-I am a fully accredited commissioner from the planet Sirius 4
+I am a fully accredited commissioner
+from the planet Sirius 4
 我现在是天狼星4号的完全授权的专员
 
 444
@@ -2280,7 +2349,8 @@ You want to see the Doctor again, don't you?
 
 455
 00:24:49,867 --> 00:24:52,335
-- Where is he? - He's in another prison, on the Moon.
+- Where is he?
+- He's in another prison, on the Moon.
 - 他在哪儿?  - 他现在在另外一个监狱，月球上
 
 456
@@ -2324,7 +2394,8 @@ Well, after they'd attacked the cargo ships,
 
 464
 00:25:10,067 --> 00:25:14,583
-the Ogrons returned to their planet, taking their loot with them.
+the Ogrons returned to their planet,
+taking their loot with them.
 他们带着战利品，回到自己的星球
 
 465
@@ -2596,7 +2667,8 @@ No, not yet. Let's wait till he gets back to the flight deck,
 
 517
 00:28:19,087 --> 00:28:22,397
-then he'll set the controls. Now, this is an automatic spaceship.
+then he'll set the controls.
+Now, this is an automatic spaceship.
 等他设定好控制，飞船就进入自动巡航状态了
 
 518
@@ -2606,8 +2678,8 @@ Once we're underway, the computers take over, right?
 
 519
 00:28:24,927 --> 00:28:26,883
--Okay, so what's the plan?
--Now this is what we're gonna do.
+- Okay, so what's the plan?
+- Now this is what we're gonna do.
 - 好了，计划是什么  - 我们接下来要这样
 
 520
@@ -2623,7 +2695,8 @@ Once we're underway, the computers take over, right?
 
 522
 00:28:58,547 --> 00:29:01,345
-Well, if I chose to go wandering around the universe in my own time,
+Well, if I chose to go wandering
+around the universe in my own time,
 就是说，如果我自己决定要用我自己的时间去宇宙里四处逛逛
 
 523
@@ -2658,7 +2731,8 @@ JO: (LAUGHING) You can say that again.
 
 529
 00:29:13,227 --> 00:29:15,866
-I tell you, I made a complete fool of that prosecuting council, though.
+I tell you, I made a complete fool of
+that prosecuting council, though.
 我跟你说，我把他们检察委员会从头到尾给耍了
 
 530
@@ -2718,7 +2792,8 @@ JO: <i>Thank you!</i>
 
 541
 00:29:39,027 --> 00:29:41,541
-<i>Well, it's quite a nice, little planet in its own way, but...</i>
+<i>Well, it's quite a nice,</i>
+<i>little planet in its own way, but...</i>
 嗯，它很不错，小小的星球，有自己的风格，不过...
 
 542
@@ -2754,7 +2829,8 @@ is that he's got a military mind.
 
 548
 00:30:04,787 --> 00:30:07,824
-Well, he is a brigadier, after all. I mean, what do you expect?
+Well, he is a brigadier, after all.
+I mean, what do you expect?
 但是，毕竟他是一个准将啊. 我是说，你还想他怎么样?
 
 549
@@ -2769,7 +2845,8 @@ He's hidebound, you see. He always does everything by the rules.
 
 551
 00:30:12,507 --> 00:30:14,179
-I keep telling him. I said, "There are times, you know,
+I keep telling him. I said,
+"There are times, you know,
 我一直跟他说: "有些时候啊，
 
 552
@@ -2789,7 +2866,8 @@ DOCTOR: Yes, I've managed to cut right through it.
 
 555
 00:30:23,987 --> 00:30:27,946
-And I'm not going to let authority stand between me and my freedom.
+And I'm not going to let authority stand
+between me and my freedom.
 我可不打算让当局挡住我去追求自由
 
 556
@@ -2811,84 +2889,100 @@ I'm always telling people ...
 559
 00:30:45,547 --> 00:30:48,061
 Is everything all right, Miss Grant?
+一切都还好吗，Grant 小姐？
 
 560
 00:30:48,947 --> 00:30:51,097
 Yes, yes, I'm fine.
+是的是的，我很好
 
 561
 00:30:51,427 --> 00:30:54,624
 And how about you, Doctor?
 No ill effects, I hope?
+你怎么样，博士．没什么不舒服吧，但愿？
 
 562
 00:30:56,347 --> 00:30:58,383
 Doctor, are you all right?
+博士，你没事吧？
 
 563
 00:30:58,867 --> 00:31:01,984
 JO: <i>Please don't wake him.</i>
+请不要吵醒他
 
 564
 00:31:02,747 --> 00:31:07,867
 Is he? How very relaxed of him.
+是吧？他心还挺宽啊
 
 565
 00:31:08,747 --> 00:31:10,262
-you come with me, Miss Grant.
+You come with me, Miss Grant.
+你跟我来，Grant 小姐
 
 566
 00:31:11,427 --> 00:31:12,746
 Come on!
+过来！
 
 567
 00:31:19,707 --> 00:31:21,937
 Right, in you go, Miss Grant.
+好了，进去吧你，Grant 小姐
 
 568
 00:31:32,107 --> 00:31:34,098
 Can you hear me, Doctor?
+你能听到吗，博士？
 
 569
 00:31:34,347 --> 00:31:37,862
 <i>Are you on the flight deck?</i>
 <i>If so, listen to this.</i>
+你是在飞行甲板上吗？如果是，听好了
 
 570
 00:31:38,707 --> 00:31:40,937
 <i>Miss Grant is in the air lock.</i>
+Grant 小姐在气闸里
 
 571
 00:31:43,067 --> 00:31:45,865
-Unless you surrender yourself
-to me immediately,
+Unless you surrender yourself to me immediately,
+除非你立刻向我投降
 
 572
 00:31:45,947 --> 00:31:49,303
 I shall open the outer door
 and hurl her into space.
+否则我打开外门把她抛进太空去
 
 573
 00:31:53,587 --> 00:31:56,420
-What an ingenious fellow
-you are, Doctor!
+What an ingenious fellow you are, Doctor!
+你真是个聪明的家伙，博士
 
 574
 00:31:57,147 --> 00:31:59,183
 Oh, no, you don't!
+噢，别
 
 575
 00:32:01,147 --> 00:32:03,342
 Now hold it, Doctor, hold it!
+现在住手，博士，住手
 
 576
 00:32:04,227 --> 00:32:06,661
-Get that blaster over to me
-or I press this button,
+Get that blaster over to me or I press this button,
+把枪递给我，否则我按按钮了
 
 577
 00:32:06,747 --> 00:32:09,420
 and that will be the end of Miss Grant!
+那样的话 Grant 小姐就玩完了！
 
 578
 00:32:16,507 --> 00:32:18,179
@@ -2897,6 +2991,7 @@ and that will be the end of Miss Grant!
 579
 00:32:26,547 --> 00:32:27,775
 Thank you, Doctor.
+谢谢你，博士
 
 580
 00:32:27,867 --> 00:32:29,778
@@ -2905,3223 +3000,2464 @@ Thank you, Doctor.
 581
 00:32:30,567 --> 00:32:32,876
 Well, we appear to have company.
+好，看来我们有同伴了
 
 582
 00:32:39,387 --> 00:32:41,742
 Would these be your Ogron friends?
+会是你的那些 Orgron 朋友吗？
 
 583
 00:32:41,827 --> 00:32:43,226
 Why, no, no.
+为什么，不不
 
 584
 00:32:44,667 --> 00:32:47,659
 Well, I should try and be
 a bit more hospitable, old chap.
+那，我就会尽量好客一点，老伙计
 
 585
 00:32:47,747 --> 00:32:51,740
 Come on, put that gun away.
 They've probably got us outnumbered.
+得了，扔掉那把枪吧．他们很可能比我们人多
 
 586
 00:32:56,147 --> 00:32:59,378
 Welcome on board my ship.
 To what do I owe the honour?
+欢迎来到我的飞船．是谁带给我这份荣幸呢？
 
 587
 00:32:59,467 --> 00:33:02,379
-Why have you violated
-the Draconian frontier?
+Why have you violated the Draconian frontier?
+你们为什么犯我龙族边界？
 
 588
 00:33:02,467 --> 00:33:06,016
 Uh, yes, I'm most apologetic about that,
 but it was really beyond my control.
+啊，是，我对此非常抱歉．不过情况真的超出了我的控制
 
 589
 00:33:06,107 --> 00:33:08,575
-You see, my prisoners
-were trying to escape and my...
+You see, my prisoners were trying to escape and my...
+你看，这两个囚犯试图逃走，而我的...
 
 590
 00:33:08,667 --> 00:33:10,897
--My ship was thrown off course.
--Prisoners?
+- My ship was thrown off course.
+- Prisoners?
+- 我的飞船又被抛出了航线  - 囚犯？
 
 591
 00:33:10,987 --> 00:33:13,455
 Yes, I am the commissioner
 of Earth's Interplanetary Police.
+是的，我是地球星际警局的专员
 
 592
 00:33:13,547 --> 00:33:17,142
 I'm taking these two people back
 to planet Sirius 4 for...for trial.
+我要把这两个人带回天狼星四号，为了...让他们受审
 
 593
 00:33:17,227 --> 00:33:18,819
 Uh, here is my warrant of authority.
+啊，这是我的授权书
 
 594
 00:33:18,907 --> 00:33:21,023
 Now, don't believe this man, he's lying.
+噢，别相信这个人，他在撒谎
 
 595
 00:33:21,107 --> 00:33:24,224
-I'm not concerned in disputes
-between Earthmen.
+I'm not concerned in disputes between Earthmen.
+我不关心你们地球人相互之间的纠纷
 
 596
 00:33:24,867 --> 00:33:27,461
 We shall take them to Draconia.
 Put them in the cage.
+我们要带他们回国去．先把他们关进笼子吧
 
 597
 00:33:27,547 --> 00:33:28,662
 But you can't do that!
+但你不能这么做！
 
 598
 00:33:28,747 --> 00:33:30,146
-I'm a commissioner
-of Interplanetary Police!
+I'm a commissioner of Interplanetary Police!
+我是星际警局的专员！
 
 599
 00:33:30,227 --> 00:33:33,105
 This is my spaceship!
 I tell you, you can't do that!
+这是我的飞船！我跟你说，你不能这么干！
 
 600
 00:33:45,227 --> 00:33:48,617
 Well, personally I'm quite happy
 to be going to Draconia, Jo.
+不过呢，我个人倒是非常高兴去龙帝国走一趟，Jo
 
 601
 00:33:48,707 --> 00:33:50,060
 Perhaps we can convince the Emperor
+说不定我们可以说服皇帝
 
 602
 00:33:50,147 --> 00:33:51,785
-what our friend here
-has been trying to do.
+what our friend here has been trying to do.
+让他知道我们这位朋友一直在干的事情
 
 603
 00:33:51,867 --> 00:33:53,937
 You really think he'd believe you?
+你真的以为他会相信你？
 
 604
 00:33:54,027 --> 00:33:56,700
 Well, this won't be my first visit
 to Draconia, you know?
+哦，这也不是我第一次去龙帝国，你知道不？
 
 605
 00:33:56,787 --> 00:33:59,460
-Many years ago,
-I spent quite some time there.
+Many years ago, I spent quite some time there.
+很多年前，我在那里待了一段时间
 
 606
 00:33:59,547 --> 00:34:02,220
 I was able to help them through a period
 of very great difficulty.
+我在他们一段困难的时期帮了些忙
 
 607
 00:34:02,687 --> 00:34:04,917
 So there's a good chance
 that they'll believe you, huh?
+所以有很大机会他们会相信你，是吧？
 
 608
 00:34:05,007 --> 00:34:07,316
 Well, it was a long time ago.
 Things may have changed.
+不过，那是好久以前，情况也许会变
 
 609
 00:34:07,407 --> 00:34:09,318
-But I do understand
-the Draconian mentality, Jo.
+But I do understand the Draconian mentality, Jo.
+但我倒是明白他们考虑问题的方式，Jo
 
 610
 00:34:09,407 --> 00:34:11,045
 It all depends how you approach them.
+一切都取决于你如何接近他们
 
 611
 00:34:11,127 --> 00:34:14,437
-So, if they do believe the Doctor,
-you've had it!
+So, if they do believe the Doctor, you've had it!
+所以，如果他们相信了博士，你就有好果子吃了
 
 612
 00:34:14,527 --> 00:34:16,722
 Perhaps, Miss Grant, perhaps.
+也许吧，Grant 小姐，也许吧
 
 613
 00:34:16,927 --> 00:34:19,964
-But one never knows
-when help may be at hand.
-
-614
-00:34:20,047 --> 00:34:22,402
-Now, if you'll excuse me,
-I think that this is going to be
-
-615
-00:34:22,487 --> 00:34:26,765
-rather a long journey,
-so, uh, good night.
-
-616
-00:34:27,767 --> 00:34:30,076
-We'll wake you with a cup of tea
-in the morning.
-
-1
-00:26:09,687 --> 00:26:11,439
-- Hello, Jo. - Doctor!
-- 嘿, Jo  - 博士!
-
-2
-00:26:15,007 --> 00:26:16,918
-- How are you? All right? - Well...
-- 你怎么样? 没事吧?  - 这个...
-
-3
-00:26:17,007 --> 00:26:19,885
-Right, they'll be plenty of time
-for the exchange of social pleasantries.
-好啦, 他们有足够的时间来嘘寒问暖
-
-4
-00:26:19,967 --> 00:26:21,480
-Put him inside.
-把他关进去
-
-5
-00:26:36,647 --> 00:26:39,923
-Thank you, gentlemen. You can leave them to me now.
-谢谢你们, 先生们. 你们可以把他们俩留给我了
-
-6
-00:26:44,007 --> 00:26:47,556
-Well, Doctor, this is an interesting reversal.
-怎样, 博士, 这真是有趣的反转啊
-
-7
-00:26:48,567 --> 00:26:51,798
-I remember your once visiting me when I was in prison.
-我记得有一次我在监狱里面你还来探访
-
-8
-00:26:51,887 --> 00:26:53,366
-You know, I'd very much like to know why...
-你知道吗, 我倒是很想知道为什么...
-
-9
-00:26:53,447 --> 00:26:54,766
-Why you've been locked up?
-为什么你被锁起来了?
-
-10
-00:26:54,847 --> 00:26:57,486
-No, why I'm still alive.
-不, 为什么我还活着
-
-11
-00:26:57,687 --> 00:27:02,522
-Oh, come, your health is very precious to me, for the moment.
-哦, 得了, 你的健康对我来说很珍贵的, 至少目前是
-
-12
-00:27:03,207 --> 00:27:06,085
-You see, my employers are most interested in you.
-要知道, 我的雇主对你非常有兴趣
-
-13
-00:27:06,167 --> 00:27:10,126
-- The Ogrons? - Miss Grant, please! I employ them.
-- 是 Ogrons?  - Grant 小姐, 是我雇佣他们好不
-
-14
-00:27:10,207 --> 00:27:13,085
-Yes, well, whatever it is you're up to,
-you needn't expect any help from me.
-好吧, 不管你的图谋是什么, 别想从我这里得到帮助
-
-15
-00:27:13,167 --> 00:27:14,646
-I don't need any help.
-我不需要任何帮助
-
-16
-00:27:14,727 --> 00:27:17,161
-Your simple presence will be quite enough.
-你们只要出现就完全够了
-
-17
-00:27:17,367 --> 00:27:21,201
-Oh, by the way, I need hardly warn you
-there is no point in trying to escape.
-哦, 对了, 不需要我警告你吧, 企图在这里逃跑完全没意义
-
-18
-00:27:21,287 --> 00:27:23,198
-This is an interplanetary police spaceship,
-这是一艘星际警用飞船
-
-19
-00:27:23,287 --> 00:27:26,040
-specially built for carrying prisoners, as you can see.
-专为运送囚犯建造的, 你可以看得出来
-
-20
-00:27:26,127 --> 00:27:27,196
-Stolen, of course?
-偷来的, 对吧?
-
-21
-00:27:27,287 --> 00:27:30,438
-(SCOFFING) Of course. Oh, and another thing...
-当然. 哦, 还有一件事
-
-22
-00:27:31,047 --> 00:27:34,119
-There's a closed-circuit television
-camera trained on you from up there,
-这里有一个闭路电视摄像头, 对准了你
-
-23
-00:27:34,207 --> 00:27:36,767
-so you will be under continuous observation.
-所以你在我的持续监视之下
-
-24
-00:27:36,847 --> 00:27:38,166
-I think that's all.
-差不多就是这些了
-
-25
-00:27:38,247 --> 00:27:40,761
-Well, now, if you'll excuse me,/
-现在, 如果没有什么事情
-
-26
-00:27:40,847 --> 00:27:43,236
-I have some rather complicated
-astro-navigational calculations to work out.
-我还要去做一些复杂的航天导航计算
-
-27
-00:27:43,327 --> 00:27:45,045
-May I ask where we're going?
-我能问问我们要去哪儿吗?
-
-28
-00:27:45,127 --> 00:27:48,756
-Certainly. To the home of our friends, the Ogrons.
-当然可以, 去我们朋友的家乡, 那些 Ogrons 的
-
-29
-00:27:49,287 --> 00:27:52,802
-A barren and uninteresting planet
-on the remote fringes of the galaxy.
-一颗贫瘠而无趣的星球, 在遥远的星系边缘
-
-30
-00:27:52,887 --> 00:27:54,525
-Why are you taking us there?
-你为什么带我去那里?
-
-31
-00:27:54,607 --> 00:27:57,917
-That, Miss Grant, you will discover when you arrive.
-这个, Grant 小姐, 你到了就知道了
-
-32
-00:28:02,327 --> 00:28:04,397
-Right, now listen to me. We haven't got much time
-好了, 现在听我说, 我们没有太多时间
-
-33
-00:28:04,487 --> 00:28:06,125
-before he gets back to the flight deck.
-要赶在他回到飞行舱之前
-
-34
-00:28:06,207 --> 00:28:08,562
-Now, the first thing we've got to do is to escape.
-现在第一件事我们要做的事情是逃脱
-
-35
-00:28:08,647 --> 00:28:11,002
-Now, they took my sonic screwdriver from me in the prison
-在监狱的时候他们把我的音速起子给拿走了
-
-36
-00:28:11,087 --> 00:28:13,555
-but they didn't get a hold of this.
-不过他们没发现这个
-
-37
-00:28:14,967 --> 00:28:16,764
-- A steel file.   - Right, let's go.
-- 一把锉刀?   - 对, 我们开始
-
-38
-00:28:16,847 --> 00:28:18,997
-No, not yet. Let's wait till he gets back to the flight deck,
-不, 还不行. 先等他回到飞行舱
-
-39
-00:28:19,087 --> 00:28:22,397
-then he'll set the controls. Now, this is an automatic spaceship.
-等他设定好控制, 飞船就进入自动巡航状态了
-
-40
-00:28:22,487 --> 00:28:24,842
-Once we're underway, the computers take over, right?
-等我们一启程, 电脑就完全接管了, 对吧
-
-41
-00:28:24,927 --> 00:28:26,883
--Okay, so what's the plan?
--Now this is what we're gonna do.
-- 好了, 计划是什么  - 我们接下来要这样
-
-42
-00:28:52,427 --> 00:28:54,497
-<i>So I told the High Council of the Time Lords,</i>
-于是我就告诉时间领主最高理事会
-
-43
-00:28:54,587 --> 00:28:58,466
-<i>I said they had absolutely no right</i>
-<i>to put me on trial in the first place.</i>
-我说他们一开始就完全无权让我受审
-
-44
-00:28:58,547 --> 00:29:01,345
-Well, if I chose to go wandering around the universe in my own time,
-就是说, 如果我自己决定要用我自己的时间去宇宙里四处逛逛
-
-45
-00:29:01,427 --> 00:29:02,496
-that was my business.
-那是我自己的事情
-
-46
-00:29:02,587 --> 00:29:04,179
-What about stealing the TARDIS?
-那偷 TARDIS 的事情怎么说?
-
-47
-00:29:04,267 --> 00:29:06,861
-I didn't steal it. I just borrowed it.
-我没偷, 我是借走的
-
-48
-00:29:06,947 --> 00:29:09,177
-I fully intended to return it, I assure you.
-我本来就打算还回去的, 我向你保证
-
-49
-00:29:09,267 --> 00:29:11,178
-Anyway, she wasn't exactly the latest model, poor old thing.
-再说了, 它也不是最新的型号, 可怜的老古董
-
-50
-00:29:11,267 --> 00:29:13,144
-JO: (LAUGHING) You can say that again.
-你又说这个
-
-51
-00:29:13,227 --> 00:29:15,866
-I tell you, I made a complete fool of that prosecuting council, though.
-我跟你说, 我把他们检察委员会从头到尾给耍了
-
-52
-00:29:15,947 --> 00:29:18,142
-I ridiculed his every argument.
-我把他的每句话都驳倒了
-
-53
-00:29:18,227 --> 00:29:20,377
-Yes, and I told him that I had the complete answer
-是的, 我跟他说我全有理由
-
-54
-00:29:20,467 --> 00:29:21,946
-to every one his charges against me.
-对于他指控我的每一条
-
-55
-00:29:22,027 --> 00:29:23,426
-JO: And then what happened?
-然后发生了什么
-
-56
-00:29:23,507 --> 00:29:26,180
-DOCTOR: Then what happened, well, they found me guilty,
-然后发生了什么, 这个, 他们说我有罪
-
-57
-00:29:26,267 --> 00:29:28,986
-changed my appearance and exiled me to Earth.
-改变了我的外形, 把我流放到了地球
-
-58
-00:29:29,067 --> 00:29:30,705
-JO: And that's where you met me!
-就是你碰见我的地方!
-
-59
-00:29:30,787 --> 00:29:33,460
-<i>That's right. That's where I met you.</i>
-对, 就是我碰见你的地方
-
-60
-00:29:33,547 --> 00:29:35,902
-<i>And that alone made the exile worthwhile, Miss Grant.</i>
-单单这个就让这次流放变得有价值了, Grant 小姐
-
-61
-00:29:35,987 --> 00:29:37,136
-JO: <i>Thank you!</i>
-谢谢你!
-
-62
-00:29:37,227 --> 00:29:38,945
-<i>Not that there's anything wrong with Earth.</i>
-不过地球本身也没有什么问题
-
-63
-00:29:39,027 --> 00:29:41,541
-<i>Well, it's quite a nice, little planet in its own way, but...</i>
-嗯, 它很不错, 小小的星球, 有自己的风格, 不过...
-
-64
-00:29:41,627 --> 00:29:45,302
-<i>After all, I am a Time Lord, Jo,</i>
-<i>and I think I've deserve my freedom.</i>
-毕竟, 我是一个时间领主, Jo, 我想我应该享有我的自由
-
-65
-00:29:45,387 --> 00:29:48,459
--JO: <i>Right!</i>
--In reminiscent mood, are you, Doctor?
-对啊, 又在回忆了, 是吗, 博士?
-
-66
-00:29:48,547 --> 00:29:50,856
-Poor Miss Grant, you have my deepest sympathy.
-可怜的 Grant 小姐, 我对你深表同情
-
-67
-00:29:50,947 --> 00:29:52,300
-(CHUCKLING)
-
-68
-00:30:00,947 --> 00:30:03,222
-As I soon realised, the trouble with Lethbridge-Stewart
-我很快就发现, Lethbridge-Stewart 准将的问题是
-
-69
-00:30:03,307 --> 00:30:04,706
-is that he's got a military mind.
-他始终是军人的思维
-
-70
-00:30:04,787 --> 00:30:07,824
-Well, he is a brigadier, after all. I mean, what do you expect?
-但是, 毕竟他是一个准将啊. 我是说, 你还想他怎么样?
-
-71
-00:30:07,907 --> 00:30:08,976
-No, that's just the trouble though.
-不, 那还只是问题的开始
-
-72
-00:30:09,067 --> 00:30:12,423
-He's hidebound, you see. He always does everything by the rules.
-他很死板, 你明白吗. 他总是按照规则来做事情
-
-73
-00:30:12,507 --> 00:30:14,179
-I keep telling him. I said, "There are times, you know,
-我一直跟他说: "有些时候啊, 
-
-74
-00:30:14,267 --> 00:30:16,701
-"when you've simply got to cut right through the red tape."
-你就得抛弃那些繁文缛节
-
-75
-00:30:16,787 --> 00:30:18,743
-And you've managed to do that, have you?
-你就真这样做了, 是吗
-
-76
-00:30:18,827 --> 00:30:22,058
-DOCTOR: Yes, I've managed to cut right through it.
-是的, 我就抛掉这些东西
-
-77
-00:30:23,987 --> 00:30:27,946
-And I'm not going to let authority stand between me and my freedom.
-我可不打算让当局挡住我去追求自由
-
-78
-00:30:28,347 --> 00:30:32,420
-(SIGHING) Lethbridge-Stewart, I...
-Lethbridge-Stewart, 我...
-
-79
-00:30:32,507 --> 00:30:37,183
-Hey! As far as he's concerned
-I've been absent without leave all this time.
-说到他, 我还没有跟他请假就离开了
-
-80
-00:30:38,067 --> 00:30:39,297
-I'm always telling people ...
-我一直跟人说...
-
-81
-00:30:45,547 --> 00:30:48,061
-Is everything all right, Miss Grant?
-一切都还好吗，Grant 小姐？
-
-82
-00:30:48,947 --> 00:30:51,097
-Yes, yes, I'm fine.
-是的是的，我很好
-
-83
-00:30:51,427 --> 00:30:54,624
-And how about you, Doctor?
-No ill effects, I hope?
-你怎么样，博士。没什么不舒服吧，但愿？
-
-84
-00:30:56,347 --> 00:30:58,383
-Doctor, are you all right?
-博士，你没事吧？
-
-85
-00:30:58,867 --> 00:31:01,984
-JO: <i>Please don't wake him.</i>
-请不要吵醒他
-
-86
-00:31:02,747 --> 00:31:07,867
-Is he? How very relaxed of him.
-是吧？他心还挺宽啊
-
-87
-00:31:08,747 --> 00:31:10,262
-You come with me, Miss Grant.
-你跟我来，Grant 小姐
-
-88
-00:31:11,427 --> 00:31:12,746
-Come on!
-过来！
-
-89
-00:31:19,707 --> 00:31:21,937
-Right, in you go, Miss Grant.
-好了，进去吧你，Grant 小姐
-
-90
-00:31:32,107 --> 00:31:34,098
-Can you hear me, Doctor?
-你能听到吗，博士？
-
-91
-00:31:34,347 --> 00:31:37,862
-<i>Are you on the flight deck?</i>
-<i>If so, listen to this.</i>
-你是在飞行甲板上吗？如果是，听好了
-
-92
-00:31:38,707 --> 00:31:40,937
-<i>Miss Grant is in the air lock.</i>
-Grant 小姐在气闸里
-
-93
-00:31:43,067 --> 00:31:45,865
-Unless you surrender yourself
-to me immediately,
-除非你立刻向我投降
-
-94
-00:31:45,947 --> 00:31:49,303
-I shall open the outer door
-and hurl her into space.
-否则我打开外门把她抛进太空去
-
-95
-00:31:53,587 --> 00:31:56,420
-What an ingenious fellow you are, Doctor!
-你真是个聪明的家伙，博士
-
-96
-00:31:57,147 --> 00:31:59,183
-Oh, no, you don't!
-噢，别
-
-97
-00:32:01,147 --> 00:32:03,342
-Now hold it, Doctor, hold it!
-现在住手，博士，住手
-
-98
-00:32:04,227 --> 00:32:06,661
-Get that blaster over to me
-or I press this button,
-把枪递给我，否则我按按钮了
-
-99
-00:32:06,747 --> 00:32:09,420
-and that will be the end of Miss Grant!
-那样的话 Grant 小姐就玩完了！
-
-100
-00:32:16,507 --> 00:32:18,179
-(DOCTOR EXCLAIMING)
-
-101
-00:32:26,547 --> 00:32:27,775
-Thank you, Doctor.
-谢谢你，博士
-
-102
-00:32:27,867 --> 00:32:29,778
-(THUDDING)
-
-103
-00:32:30,567 --> 00:32:32,876
-Well, we appear to have company.
-哦，看来我们有同伴了
-
-104
-00:32:39,387 --> 00:32:41,742
-Would these be your Ogron friends?
-会是你的那些 Orgron 朋友吗？
-
-105
-00:32:41,827 --> 00:32:43,226
-Why, no, no.
-为什么，不不
-
-106
-00:32:44,667 --> 00:32:47,659
-Well, I should try and be
-a bit more hospitable, old chap.
-那，我就会尽量好客一点，老伙计
-
-107
-00:32:47,747 --> 00:32:51,740
-Come on, put that gun away.
-They've probably got us outnumbered.
-得了，扔掉那把枪吧。他们很可能比我们人多
-
-108
-00:32:56,147 --> 00:32:59,378
-Welcome on board my ship.
-To what do I owe the honour?
-欢迎来到我的飞船。是谁带给我这份荣幸呢？
-
-109
-00:32:59,467 --> 00:33:02,379
-Why have you violated
-the Draconian frontier?
-你们为什么犯我龙族边界？
-
-110
-00:33:02,467 --> 00:33:06,016
-Uh, yes, I'm most apologetic about that,
-but it was really beyond my control.
-啊，是，我对此非常抱歉。不过情况真的超出了我的控制
-
-111
-00:33:06,107 --> 00:33:08,575
-You see, my prisoners
-were trying to escape and my...
-你看，这两个囚犯试图逃走，而我的...
-
-112
-00:33:08,667 --> 00:33:10,897
-- My ship was thrown off course.
-- Prisoners?
-- 我的飞船又被抛出了航线
-- 囚犯？
-
-113
-00:33:10,987 --> 00:33:13,455
-Yes, I am the commissioner
-of Earth's Interplanetary Police.
-是的，我是地球星际警局的专员FIXME
-
-114
-00:33:13,547 --> 00:33:17,142
-I'm taking these two people back
-to planet Sirius 4 for...for trial.
-我要把这两个人带回天狼星四号，为了...让他们受审
-
-115
-00:33:17,227 --> 00:33:18,819
-Uh, here is my warrant of authority.
-啊，这是我的授权书FIXME
-
-116
-00:33:18,907 --> 00:33:21,023
-Now, don't believe this man, he's lying.
-噢，别相信这个人，他在撒谎
-
-117
-00:33:21,107 --> 00:33:24,224
-I'm not concerned in disputes
-between Earthmen.
-我不关心你们地球人相互之间的纠纷
-
-118
-00:33:24,867 --> 00:33:27,461
-We shall take them to Draconia.
-Put them in the cage.
-我们要带他们回国去。先把他们关进笼子吧
-
-119
-00:33:27,547 --> 00:33:28,662
-But you can't do that!
-但你不能这么做！
-
-120
-00:33:28,747 --> 00:33:30,146
-I'm a commissioner
-of Interplanetary Police!
-我是星际警局的专员FIXME！
-
-121
-00:33:30,227 --> 00:33:33,105
-This is my spaceship!
-I tell you, you can't do that!
-这是我的飞船！我跟你说，你不能这么干！
-
-122
-00:33:45,227 --> 00:33:48,617
-Well, personally I'm quite happy
-to be going to Draconia, Jo.
-不过呢，我个人倒是非常高兴去龙帝国走一趟，Jo
-
-123
-00:33:48,707 --> 00:33:50,060
-Perhaps we can convince the Emperor
-说不定我们可以说服皇帝
-
-124
-00:33:50,147 --> 00:33:51,785
-what our friend here has been trying to do.
-让他知道我们这位朋友一直在干的事情
-
-125
-00:33:51,867 --> 00:33:53,937
-You really think he'd believe you?
-你真的以为他会相信你？
-
-126
-00:33:54,027 --> 00:33:56,700
-Well, this won't be my first visit
-to Draconia, you know?
-哦，这也不是我第一次去龙帝国，你知道不？
-
-127
-00:33:56,787 --> 00:33:59,460
-Many years ago,
-I spent quite some time there.
-很多年前，我在那里待了一段时间
-
-128
-00:33:59,547 --> 00:34:02,220
-I was able to help them through a period
-of very great difficulty.
-我在他们一段困难的时期帮了些忙
-
-129
-00:34:02,687 --> 00:34:04,917
-So there's a good chance
-that they'll believe you, huh?
-所以有很大机会他们会相信你，是吧？
-
-130
-00:34:05,007 --> 00:34:07,316
-Well, it was a long time ago.
-Things may have changed.
-不过，那是好久以前，情况也许会变
-
-131
-00:34:07,407 --> 00:34:09,318
-But I do understand
-the Draconian mentality, Jo.
-但我倒是明白他们考虑问题的方式，Jo
-
-132
-00:34:09,407 --> 00:34:11,045
-It all depends how you approach them.
-一切都取决于你如何接近他们
-
-133
-00:34:11,127 --> 00:34:14,437
-So, if they do believe the Doctor,
-you've had it!
-所以，如果他们相信了博士，你就有好果子吃了
-
-134
-00:34:14,527 --> 00:34:16,722
-Perhaps, Miss Grant, perhaps.
-也许吧，Grant 小姐，也许吧
-
-135
-00:34:16,927 --> 00:34:19,964
-But one never knows
-when help may be at hand.
+But one never knows when help may be at hand.
 但人们永远不知道，帮助什么时候就会到来
 
-136
+614
 00:34:20,047 --> 00:34:24,402
-Now, if you'll excuse me,
-I think that this is going to be rather a long journey,/
+Now, if you'll excuse me, I think that
+this is going to be rather a long journey,
 现在，如果没什么事的话，而我觉得这会是一段不短的旅程
 
-137
+615
 00:34:24,487 --> 00:34:26,765
 so, uh, good night.
 所以，晚安
 
-138
+616
 00:34:27,767 --> 00:34:30,076
-We'll wake you with a cup of tea
-in the morning.
-到早上了我们会给你准备一杯茶再叫醒你的
-<part4 ends here>
+We'll wake you with a cup of tea in the morning.
+到早上了我们会给你准备一杯茶，然后再叫醒你
 
-1
+617
 00:34:55,727 --> 00:34:59,356
-So, Father, once more
-Earthmen have invaded our space.
+So, Father, once more Earthmen have invaded our space.
 看，父亲，地球人又一次入侵了我们的空间
 
-2
+618
 00:34:59,447 --> 00:35:03,156
-You will address the Emperor
-in a proper manner.
+You will address the Emperor in a proper manner.
 你得先用得体的方式先皇帝致礼
 
-3
+619
 00:35:03,247 --> 00:35:04,396
 Your pardon.
 请您谅解
 
-4
+620
 00:35:04,487 --> 00:35:07,445
 May I have permission to address the Emperor?
 我可以向皇帝致礼吗？
 
-5
+621
 00:35:10,367 --> 00:35:11,925
 My life at your command.
 我听候您的差遣
 
-6
+622
 00:35:12,007 --> 00:35:15,716
 One day, my Son, you will inherit this throne.
 某一天，儿子，你会继承这个宝座
 
-7
+623
 00:35:15,807 --> 00:35:19,800
 Then you will realise the importance of due formality.
 那时你就会明白仪式感的重要性
 
-8
+624
 00:35:19,887 --> 00:35:22,685
 Now, what do you wish to say?
 现在看看，你想要说些什么？
 
-9
+625
 00:35:22,767 --> 00:35:26,203
-Surely, now you will declare war
-upon the Earthmen?
-当然。现在你们要向地球人宣战了吗？
+Surely, now you will declare war upon the Earthmen?
+当然．现在你们要向地球人宣战了吗？
 
-10
+626
 00:35:26,287 --> 00:35:28,437
-Let me lead your battle fleets
-to crush their...
+Let me lead your battle fleets to crush their...
 让我带领你的战斗舰队去碾压他们的...
 
-11
+627
 00:35:28,527 --> 00:35:31,087
 They too, have battle fleets, my Son.
 他们一样，也有战斗舰队，孩子
 
-12
+628
 00:35:31,167 --> 00:35:34,000
 Such a war could well bring down both empires.
 这样的战争很可能把这两个帝国都摧毁
 
-13
+629
 00:35:34,087 --> 00:35:37,238
 Not if we strike first,
 then we shall be the victors!
 如果我们先行出击就不会，我们将会是胜利者！
 
-14
+630
 00:35:37,327 --> 00:35:40,763
 In such a war, there are no victors.
-在这样的战争中, 没有胜利者
+在这样的战争中，没有胜利者
 
-15
+631
 00:35:40,847 --> 00:35:43,600
 The nobles of the court are demanding action.
 王廷上的贵族们都要求采取行动
 
-16
+632
 00:35:43,687 --> 00:35:45,678
 They fear for the honour of Draconia.
 他们担心龙帝国的荣誉
 
-17
+633
 00:35:45,767 --> 00:35:51,205
 I am the emperor!
 The honour of Draconia is vested in me.
 我是皇帝，龙帝国的荣誉在我这里
 
-18
+634
 00:35:51,287 --> 00:35:55,200
-The throne depends upon
-the great families for support.
+The throne depends upon the great families for support.
 皇位也依赖于各大家族的支持
 
-19
+635
 00:35:55,287 --> 00:35:58,006
 Emperors have been deposed before now.
 以前也有皇帝被废掉
 
-20
+636
 00:35:58,087 --> 00:36:01,841
-An emperor who does not rule
-deposes himself!
-一个不统治的皇帝就会被遗弃!
+An emperor who does not rule deposes himself!
+一个不统治的皇帝自己就会下台!
 
-21
+637
 00:36:02,807 --> 00:36:04,798
 Then what will you do, Father?
 那你决定怎么做，父亲？
 
-22
+638
 00:36:04,887 --> 00:36:07,845
 I shall question these Earthmen myself.
 我将亲自找这些地球人问话
 
-23
+639
 00:36:07,927 --> 00:36:09,963
 I have already sent for them.
 我已经让人去带他们过来了
 
-24
+640
 00:36:10,047 --> 00:36:12,720
 Why waste time listening to their lies?
 为什么要浪费时间听他们的谎言呢？
 
-25
+641
 00:36:19,247 --> 00:36:22,364
 Majesty, I bring the prisoners.
 陛下，我把囚犯带过来了
 
-26
+642
 00:36:23,007 --> 00:36:25,965
 May I have permission to address the Emperor?
 允许我向皇帝致礼吗？
 
-27
+643
 00:36:26,407 --> 00:36:27,476
 Wait!
 等一下！
 
-28
+644
 00:36:27,567 --> 00:36:29,285
 This is an insult!
 这是种侮辱！
 
-29
+645
 00:36:32,767 --> 00:36:34,803
 My life at your command, sire.
 我听候您的差遣，陛下
 
-30
+646
 00:36:34,887 --> 00:36:36,445
 How dare you address the Emperor
 你怎敢这样向皇帝致礼？
 
-31
+647
 00:36:36,527 --> 00:36:38,597
 in a manner reserved for a noble of Draconia?
 这是龙帝国贵族才可以使用的方式
 
-32
+648
 00:36:38,687 --> 00:36:40,882
 Ah, but I am a noble of Draconia.
 啊，但我是龙帝国贵族
 
-33
+649
 00:36:40,967 --> 00:36:43,197
 The honour was conferred on me
 by the 15th Emperor.
 这项荣誉是第十五世皇帝授予我的
 
-34
+650
 00:36:43,287 --> 00:36:47,439
 The 15th Emperor reigned 500 years ago.
 第十五世皇帝是500年前了
 
-35
+651
 00:36:47,527 --> 00:36:48,596
 (LAUGHING)
 
-36
+652
 00:36:48,687 --> 00:36:53,158
-Your Majesty, do not be taken
-in by this ridiculous story...
+Your Majesty, do not be taken in by this ridiculous story...
 陛下，别被这种荒谬的故事给诓进去了
 
-37
+653
 00:36:53,247 --> 00:36:54,760
 Be silent!
 安静！
 
-38
+654
 00:36:55,727 --> 00:36:57,399
 There is a legend among our people 
 我们的人当中的确有个传说
 
-39
+655
 00:36:57,487 --> 00:37:00,718
 of a man who assisted the 15th Emperor
 at a time of great trouble
 说有个人在十五世皇帝非常困难的时期帮了大忙
 
-40
+656
 00:37:00,807 --> 00:37:06,165
 when we were almost overwhelmed
 by a great plague from outer space.
 当时我们被外太空来的一种厉害的瘟疫害得不轻
 
-41
+657
 00:37:06,247 --> 00:37:11,844
 But you could not be that man.
 No Earthman lives so long.
-但你不可能是那个人。没有哪个地球人能活那么久
+但你不可能是那个人．没有哪个地球人能活那么久
 
-42
+658
 00:37:11,927 --> 00:37:14,487
 Your Majesty, this man that you speak of,
 陛下，你所说的这个人
 
-43
+659
 00:37:14,567 --> 00:37:16,444
 was he not known as the Doctor?
 是不是都叫他博士？
 
-44
+660
 00:37:17,207 --> 00:37:20,438
 And did he not come to this planet
 in a spaceship called the TARDIS?
 而且他是乘坐一个叫做 TARDIS 的飞船来到这个星球的？
 
-45
+661
 00:37:20,527 --> 00:37:21,846
 He did.
 是的
 
-46
+662
 00:37:21,927 --> 00:37:23,963
 Well, I am that man, sire.
 对了，我就是那个人，陛下
 
-47
+663
 00:37:24,487 --> 00:37:27,684
 And I come from a race of people
 that live far longer than any Earthman.
 我来自另外一个种族，我们比地球人寿命长得多
 
-48
+664
 00:37:27,767 --> 00:37:31,362
 Even if I accept your claim,
 you have broken our law.
 即使我接受你宣称的这个身份，你也触犯了法律
 
-49
+665
 00:37:31,447 --> 00:37:34,837
 Why did you violate Draconian space?
 你为什么要侵犯龙帝国边界？
 
-50
+666
 00:37:34,927 --> 00:37:38,078
 Your Majesty, this man was, and still is, my prisoner.
 陛下，这个人本来是我的囚犯，现在也还是
 
-51
+667
 00:37:38,167 --> 00:37:39,839
 It is true, Your Majesty.
 这是真的，陛下
 
-52
+668
 00:37:39,927 --> 00:37:43,158
 I did come here as a prisoner,
 but I came willingly,
 我的确是以囚犯身份来到这里的，但愿意过来
 
-53
+669
 00:37:43,247 --> 00:37:45,363
 in order to inform you that
 this man is plotting a war
 只是为了告诉你们，这个人试图挑起一场战争
 
-54
+670
 00:37:45,447 --> 00:37:46,721
 between Earth and Draconia!
 以让地球和龙帝国两败俱伤！
 
-55
+671
 00:37:46,807 --> 00:37:48,957
 All Earthmen are determined upon war.
 所有地球人都铁了心要一场战争
 
-56
+672
 00:37:49,047 --> 00:37:51,607
 Ah, but the Master is not an Earthman.
 是，但这位法师不是地球人
 
-57
+673
 00:37:51,687 --> 00:37:54,838
 I'm sorry to have to admit it,
 but he's a renegade of my own race
 我不得不惭愧地承认，他是我那个种族中的败类
 
-58
+674
 00:37:54,927 --> 00:37:57,521
 and he's using creatures called Ogrons
 他利用了一种叫做 Ogrons 的生物
 
-59
+675
 00:37:57,607 --> 00:37:59,802
 to attack your spaceships and those of the Earthmen.
 攻击了你们和那些地球人的飞船
 
-60
+676
 00:37:59,887 --> 00:38:02,720
 The Earthmen who attacked our spaceships,
 那些袭击过我们的地球人
 
-61
+677
 00:38:02,807 --> 00:38:04,843
 they have been seen many times.
 之前也被看到过很多次
 
-62
+678
 00:38:04,927 --> 00:38:06,918
 I'm sorry, but there you are in error, sir.
 抱歉，你们搞错了，阁下
 
-63
+679
 00:38:07,007 --> 00:38:08,918
 Your people have seen Ogrons,
 你们的人看见的是 Ogrons
 
-64
+680
 00:38:09,007 --> 00:38:11,999
 but they appear to them as Earthmen
 because of a hypnotic device.
 但你们以为你们看见的是地球人，这都是因为一种致幻装置
 
-65
+681
 00:38:12,087 --> 00:38:13,645
 It's true, Your Majesty.
 这是真的，陛下
 
-66
+682
 00:38:13,727 --> 00:38:15,797
 When the Ogrons attacked the Earth ships,
 当 Ogrons 攻击地球飞船的时候
 
-67
+683
 00:38:15,887 --> 00:38:18,037
 the Earthmen saw them as Draconians.
 地球人看他们就是龙族人
 
-68
+684
 00:38:18,127 --> 00:38:21,483
 Silence! Females are not permitted
 to speak in the presence of the Emperor.
 安静！女人不允许在皇帝面前说话
 
-69
+685
 00:38:21,567 --> 00:38:25,446
 Your Majesty, do not be deceived
 by the pathetic ravings
-陛下, 不要被这些可悲的胡言乱语欺骗了
+陛下，不要被这些可悲的胡言乱语欺骗了
 
-70
+686
 00:38:25,527 --> 00:38:27,802
 of two criminals trying to evade justice.
 这两个罪犯只是试图逃避法律制裁
 
-71
+687
 00:38:27,887 --> 00:38:31,641
 If what you say is true, it would explain much.
 如果你说的是真的，那很多东西就解释得通了
 
-72
+688
 00:38:31,727 --> 00:38:34,287
-We lived at peace with the Earthmen
-for many years,
+We lived at peace with the Earthmen for many years,
 我们跟地球人和平共处了这么多年
 
-73
+689
 00:38:34,367 --> 00:38:37,404
 then suddenly they began to raid our spaceships.
 他们突然间就开始攻击我们的飞船了
 
-74
+690
 00:38:37,487 --> 00:38:40,843
 When we protested, they said that we were attacking them.
 我们提出抗议的时候，他们又说是我们在攻击他们
 
-75
+691
 00:38:40,927 --> 00:38:42,883
 In order to cover up their own attacks!
 他们是在掩盖他们自己的攻击行为！
 
-76
+692
 00:38:42,967 --> 00:38:47,245
 This is simply a plot of the Earthmen
 to lull us into false security.
-这只是地球人的阴谋, 让我们陷入虚假的安全
+这只是地球人的阴谋，让我们陷入虚假的安全
 
-77
+693
 00:38:50,047 --> 00:38:51,196
 Speak!
 说！
 
-78
+694
 00:38:51,607 --> 00:38:53,518
 Your Majesty, a spaceship from Earth
 陛下，地球来了一艘飞船
 
-79
+695
 00:38:53,607 --> 00:38:56,201
 seeks permission to land in the palace spaceport.
 请求降落在皇家空港
 
-80
+696
 00:38:56,287 --> 00:38:59,438
 They say they're on a special mission
 from the President of Earth.
 他们说他们在执行地球总统授命的一项特殊任务
 
-81
+697
 00:38:59,527 --> 00:39:01,563
 This is a trick! You must not allow them to land!
 这是个骗局！你不能让他们着陆！
 
-82
+698
 00:39:01,647 --> 00:39:03,922
 We are not yet at war with Earth.
 我们跟地球还没开战
 
-83
+699
 00:39:04,007 --> 00:39:07,079
 I shall hear what their president has to say.
 我要听听他们的总统有什么可说的
 
-84
+700
 00:39:07,167 --> 00:39:08,725
 I give my permission.
 我给他们许可
 
-85
+701
 00:39:08,807 --> 00:39:10,240
 Your Majesty.
 陛下
 
-86
+702
 00:39:10,327 --> 00:39:12,363
 A wise decision, Your Majesty.
 一个明智的决定，陛下
 
-87
+703
 00:39:12,447 --> 00:39:14,278
 For only by Earth and Draconia
 working together
 只有地球和龙帝国一起努力
 
-88
+704
 00:39:14,367 --> 00:39:16,358
 can we hope to arrive at the truth.
 我们才有期望得到真相
 
-89
+705
 00:39:16,447 --> 00:39:18,836
-I, too, welcome your wisdom,
-Your Majesty.
+I, too, welcome your wisdom, Your Majesty.
 我赞同你智慧的决策，陛下
 
-90
+706
 00:39:18,927 --> 00:39:22,044
 Nobody could be more devoted
 to the cause of peace than I.
 没有人比我更热衷于和平事业
 
-91
+707
 00:39:22,127 --> 00:39:24,243
-As a commissioner of Earth's
-Interplanetary Police,
+As a commissioner of Earth's Interplanetary Police,
 作为地球的星际警局专员
 
-92
+708
 00:39:24,327 --> 00:39:27,524
 I have devoted my life to the cause of law and order.
 我把我的一生都献给了法律和秩序事业
 
-93
+709
 00:39:27,607 --> 00:39:30,644
-And law and order can only exist
-in a time of peace.
+And law and order can only exist in a time of peace.
 而法律和秩序只能在和平的时代存在
 
-94
+710
 00:39:30,727 --> 00:39:32,877
 You feeling all right, old chap?
-你感觉还好吗, 老伙计？
+你感觉还好吗，老伙计？
 
-95
+711
 00:39:32,967 --> 00:39:35,686
 Only during a period of social stability,
 只有在社会稳定时期，
 
-96
+712
 00:39:35,767 --> 00:39:38,600
 can society adequately deal with criminals
 社会才能有力打击罪犯
 
-97
+713
 00:39:38,687 --> 00:39:40,279
 such as this man and this unfortunate girl.
 就像这个人和这个不幸女孩儿这样的罪犯
 
-98
+714
 00:39:40,367 --> 00:39:41,402
 (HYPNOTIC PULSE SOUNDING)
 
-99
+715
 00:39:41,487 --> 00:39:44,001
 Doctor, listen! That sound!
 博士，听！那个声音！
 
-100
+716
 00:39:44,967 --> 00:39:46,195
 PRINCE: Silence, female!
 安静，女人！
 
-101
+717
 00:39:46,287 --> 00:39:47,515
 Quiet!
 安静！
 
-102
+718
 00:39:47,607 --> 00:39:50,644
 It's the same noise that I heard on the cargo ship.
 这和我在货船上听到的声音是一样的
 
-103
+719
 00:39:50,727 --> 00:39:51,921
 Doctor, it's the Ogrons!
 博士，是 Ogrons！
 
-104
+720
 00:39:52,007 --> 00:39:54,726
 Your Majesty, I beg of you to be cautious.
 陛下，我请求你小心行事
 
-105
+721
 00:39:54,807 --> 00:39:56,957
 Something is seriously wrong here.
 This ship that has just landed,
-这里有些事非常不对劲。刚刚降落的那艘飞船，
+这里有些事非常不对劲．刚刚降落的那艘飞船，
 
-106
+722
 00:39:57,047 --> 00:39:58,446
 I beg you, place it under guard immediately.
 我请求你，把它纳入警戒控制之内
 
-107
+723
 00:39:58,527 --> 00:40:00,006
 Your Majesty, please?
 陛下，可以吗？
 
-108
+724
 00:40:00,087 --> 00:40:02,362
 DRACONIAN: (SHOUTING) Earthmen!
 地球人！
 
-109
+725
 00:40:03,407 --> 00:40:05,398
 MASTER: Seize them, fool!
 抓住它们，笨蛋！
 
-110
+726
 00:40:06,367 --> 00:40:08,483
 (ALL GRUNTING)
 
-111
+727
 00:40:08,567 --> 00:40:11,286
 Ah, you idiots! Back to the ship, all of you!
 啊，这群笨蛋！回到船上去吧，你们全部！
 
-112
+728
 00:40:11,367 --> 00:40:13,403
 Come on, back to the ship!
 快点，回到船上去！
 
-113
+729
 00:40:14,367 --> 00:40:17,325
 Now will you believe
 in the treachery of the Earthmen?
 现在你相信地球人会背信弃义吧？
 
-114
+730
 00:40:17,407 --> 00:40:20,558
 Your Majesty, look down here
 and tell me, what do you see?
 陛下，往下看看，告诉我，你看到的是什么？
 
-115
+731
 00:40:20,647 --> 00:40:22,239
 (HYPNOTIC PULSE SOUNDING)
 
-116
+732
 00:40:24,807 --> 00:40:27,480
 I see one of your Earth soldiers
 我看到了一个你们的地球士兵
 
-117
+733
 00:40:27,567 --> 00:40:31,003
 who attacked my palace and killed my people.
 是他攻击我皇宫、杀我族人
 
-118
+734
 00:40:31,087 --> 00:40:33,840
 Jo? Jo, can you still hear that sound?
 Jo? 你还能听到那声音吗？
 
-119
+735
 00:40:33,927 --> 00:40:34,962
 (HYPNOTIC PULSE FADING)
 
-120
+736
 00:40:35,047 --> 00:40:37,515
 Yes, it's fading. It's almost gone.
 是的，不过小了，基本听不到了
 
-121
+737
 00:40:37,607 --> 00:40:39,325
-Your Majesty, I beg of you, please.
-Look again.
+Your Majesty, I beg of you, please. Look again.
 陛下，我请求你，再看一眼
 
-122
+738
 00:40:39,407 --> 00:40:41,602
 Why do we delay? Destroy him!
 还耽搁什么？消灭他！
 
-123
+739
 00:40:42,367 --> 00:40:43,482
 Wait!
 等等！
 
-124
+740
 00:40:46,887 --> 00:40:49,685
 He has spoken the truth.
 他说的是实情
 
-125
+741
 00:41:00,047 --> 00:41:02,197
 Great, lumbering idiots!
 很好，蠢笨的家伙！
 
-126
+742
 00:41:02,287 --> 00:41:06,121
 Now you tell me that you've left
 one of your fellows in the palace!
 现在你跟说你把一个家伙留在皇宫里了!
 
-127
+743
 00:41:06,207 --> 00:41:07,879
 Do you realise what this means?
 你知道这意味着什么吗？
 
-128
+744
 00:41:07,967 --> 00:41:10,481
 As soon as the effect
 of the hypno-sound wears off,
 一旦催眠声音的效果消失了
 
-129
+745
 00:41:10,567 --> 00:41:13,479
 the Draconians will know
 who it really was who attacked them.
 龙族人就会知道真正是谁攻击了他们
 
-130
+746
 00:41:13,567 --> 00:41:14,716
 You've ruined everything!
 你们坏了所有的事！
 
-131
+747
 00:41:14,807 --> 00:41:16,286
 What shall we do now?
 我们现在该怎么办？
 
-132
+748
 00:41:16,367 --> 00:41:19,962
 Do? There's only one thing we can do.
 办？只有一件事我们能办
 
-133
+749
 00:41:20,047 --> 00:41:22,242
 Make sure that the Doctor and his evidence
 确保博士和他的证据...
 
-134
+750
 00:41:22,327 --> 00:41:24,636
 is never allowed to reach Earth.
 绝对到不了地球！
 
-135
+751
 00:41:29,167 --> 00:41:32,477
 Why does the Master want war
 between Earth and Draconia?
 为什么法师想要让地球和龙帝国之间发生战争？
 
-136
+752
 00:41:32,567 --> 00:41:35,843
 Did you attack our spaceships
 and those of the Earthmen?
 是你攻击了我们的飞船吗？地球人的呢？
 
-137
+753
 00:41:35,927 --> 00:41:38,316
 Oh, it's no good. We're not getting anywhere.
-噢，这样没用。我们什么也问不出来
+噢，这样没用．我们什么也问不出来
 
-138
+754
 00:41:38,407 --> 00:41:40,796
 Let me take him for questioning.
 He will answer to me.
 让我把他带去问话吧，他会告诉我的
 
-139
+755
 00:41:40,887 --> 00:41:42,400
 I shall use the mind probe.
 我将使用思维探测器
 
-140
+756
 00:41:42,487 --> 00:41:44,557
 You'd only be wasting your time.
 你这只是在浪费时间
 
-141
+757
 00:41:44,647 --> 00:41:47,525
 The Ogrons have got the finest
 defence mechanism of all, stupidity.
+Ogrons 有着最好的防御能力 - 愚蠢
 
-142
+758
 00:41:47,607 --> 00:41:48,756
-They haven't got a mind
-for you to probe.
+They haven't got a mind for you to probe.
+他们甚至都没有思维可供你探测
 
-143
+759
 00:41:48,847 --> 00:41:52,203
-Then remove him.
-We will deal with him later.
+Then remove him. We will deal with him later.
+那把他带下去．我们稍后再来处理它
 
-144
+760
 00:41:55,207 --> 00:42:00,042
 Why did that sound make us see
 this creature as a soldier from Earth?
 为什么那个声音会让我们把这个生物看成是来自地球的士兵？
 
-145
+761
 00:42:00,127 --> 00:42:01,958
 Because you're frightened of Earthmen.
 因为你们害怕地球人
 
-146
+762
 00:42:02,047 --> 00:42:04,242
 Draconians fear nothing, female.
 龙族人什么也不怕，女人
 
-147
+763
 00:42:04,327 --> 00:42:08,479
 Well, of course you do.
 You fear them and they fear you.
 得了，你们当然怕，你们怕他们，他们怕你们
 
-148
+764
 00:42:08,567 --> 00:42:11,718
-That's why when Earthmen heard that sound, they saw Draconians.
-这就是为什么当地球人听到这个声音时, 他们看到了龙族人
+That's why when Earthmen heard that sound,
+they saw Draconians.
+这就是为什么当地球人听到这个声音时，他们看到了龙族人
 
-149
+765
 00:42:11,807 --> 00:42:13,081
 That is true.
 说得没错
 
-150
+766
 00:42:13,167 --> 00:42:18,287
 We do fear the Earthmen and they fear us.
 我们害怕地球人，他们也怕我们
 
-151
+767
 00:42:18,367 --> 00:42:20,801
 And fear breeds hatred, Your Majesty.
 而恐惧滋生仇恨，陛下
 
-152
+768
 00:42:20,887 --> 00:42:24,197
-Fear is the greatest enemy of them all, for fear leads us to war.
+Fear is the greatest enemy of them all,
+for fear leads us to war.
 恐惧是最大的敌人，因为恐惧导致我们走向战争
 
-153
+769
 00:42:24,287 --> 00:42:27,438
 We shall tell the Earthmen
 what has happened here.
 我们要告诉地球人这里发生了什么
 
-154
+770
 00:42:27,527 --> 00:42:29,358
 They, too, must know the truth.
 他们也得知道真相
 
-155
+771
 00:42:29,447 --> 00:42:31,085
 They will not believe us.
 他们不会相信我们的
 
-156
+772
 00:42:31,167 --> 00:42:32,805
 The Prince is right, Your Majesty.
 王子是对的，陛下
 
-157
+773
 00:42:32,887 --> 00:42:35,959
 We must mount an expedition at once
 and we must take the Ogron as evidence.
-我们必须立即安排一支队伍, 而且必须带上食人魔作为证据
+我们必须立即安排一支队伍，而且必须带上 Ogron 作为证据
 
-158
+774
 00:42:36,047 --> 00:42:38,197
 The empires are on the verge of war.
 俩帝国正处于战争的边缘
 
-159
+775
 00:42:38,287 --> 00:42:40,198
 A Draconian spaceship in Earth space
 一艘龙帝国飞船进入地球空间，
 
-160
+776
 00:42:40,287 --> 00:42:43,723
 could be destroyed before it reaches its destination.
 还没到达目的地就可能被摧毁了
 
-161
+777
 00:42:43,807 --> 00:42:45,763
 We could use the ship the Master brought us in.
 我们可以用法师带我们来的那艘飞船
 
-162
+778
 00:42:45,847 --> 00:42:47,166
 It's an Earth police spaceship.
 那是一艘地球警局的飞船
 
-163
+779
 00:42:47,247 --> 00:42:49,283
 Females are not permitted to speak...
 女人不允许说话...
 
-164
+780
 00:42:49,367 --> 00:42:50,766
 The female may speak.
 这个女人可以说话
 
-165
+781
 00:42:50,847 --> 00:42:52,077
 But...
 但是...
 
-
-166
+782
 00:42:52,167 --> 00:42:56,796
-We must respect the customs of our guests, strange though they may be.
+We must respect the customs of our guests,
+strange though they may be.
 我们必须尊重我们客人的习俗，不管它们看起来多么奇怪
 
-167
+783
 00:42:56,887 --> 00:42:58,798
 The suggestion had merit.
 这项建议值得采纳
 
-168
+784
 00:42:58,887 --> 00:43:00,684
 Thank you, Your Majesty.
 谢谢你，陛下
 
-169
+785
 00:43:00,767 --> 00:43:02,837
 You too, will go on this mission.
 你，也将参加这次任务
 
-170
+786
 00:43:02,927 --> 00:43:05,646
 But it must be headed by a Draconian of noble rank.
 但必须得有龙族爵位的人带队
 
-171
+787
 00:43:05,727 --> 00:43:07,877
 I shall send my son.
 我将送我的儿子去
 
-172
+788
 00:43:13,347 --> 00:43:14,719
 Doctor, where are we?
 博士，我们在哪儿？
 
-173
+789
 00:43:15,307 --> 00:43:17,696
 We're just about to cross the frontier into Earth space.
 我们就要跨越边界进入地球空间了
 
-174
+790
 00:43:17,787 --> 00:43:19,266
 Ooh, that's good.
 喔，太好了
 
-175
+791
 00:43:19,347 --> 00:43:21,861
 Unless your Earth people destroy us.
 咱们可别被你们地球人摧毁了
 
-176
+792
 00:43:21,947 --> 00:43:24,177
 Well, this is an Earth police spaceship, you know, sir.
 这可是一艘地球警局的飞船，你知道吧
 
-177
+793
 00:43:24,267 --> 00:43:26,178
 Even if it is stolen.
 即使它是偷来的
 
-178
+794
 00:43:26,267 --> 00:43:28,497
 What is that?
 那是什么？
 
-179
+795
 00:43:28,587 --> 00:43:30,737
 DOCTOR: It looks like another spaceship.
 看起来像是又一艘飞船
 
-180
+796
 00:43:30,827 --> 00:43:33,057
 It appears to be following us.
 它好像一直跟着我们
 
-181
+797
 00:43:39,027 --> 00:43:40,460
 OGRON: Look!
 看！
 
-182
+798
 00:43:42,267 --> 00:43:44,064
 MASTER: Well, that must be them.
 好了，那肯定是他们
 
-183
+799
 00:43:44,367 --> 00:43:48,326
 DOCTOR: We should be picking them up
 on the visual scanner now.
 我们现在应该能在视频扫描仪上看到他们了
 
-184
+800
 00:43:51,807 --> 00:43:53,718
 JO: It's an Ogron ship!
 这是艘 Ogron 的船
 
-185
+801
 00:43:53,967 --> 00:43:55,082
 Fire!
 开火！
 
-186
+802
 00:44:16,847 --> 00:44:18,566
 DOCTOR: Hang on. I think we're shaking them off.
-把住。我想我们我们可以甩掉他们
+把住．我想我们我们可以甩掉他们
 
-187
+803
 00:44:18,647 --> 00:44:19,562
 (OGRON GRUNTING)
 
-188
+804
 00:44:19,647 --> 00:44:20,562
 Doctor!
 博士！
 
-189
+805
 00:44:20,647 --> 00:44:21,842
 He's broken out! Get out, Jo!
-他逃出来了。出去，Jo！
+他逃出来了．出去，Jo！
 
-190
+806
 00:44:24,047 --> 00:44:25,526
 MASTER: We must have hit them.
 They're losing speed.
 我们肯定击中他们了，他们速度下来了
 
-191
+807
 00:44:25,607 --> 00:44:26,756
 OGRON: Shall I fire again?
 要我再次开火吗？
 
-192
+808
 00:44:26,847 --> 00:44:30,760
 No, no, it might be possible
 to take the Doctor alive after all.
 不不，必须要能够生擒住博士
 
-193
+809
 00:44:30,847 --> 00:44:32,166
 Muster a boarding party.
 召集一个登机小队
 
-194
+810
 00:44:32,247 --> 00:44:33,146
 Yes, Master.
 好的，法师
 
-195
+811
 00:44:33,947 --> 00:44:35,539
 (OGRON GRUNTING)
 
-196
+812
 00:44:36,187 --> 00:44:38,496
 Right, there you are, my friend.
 好了，乖乖的吧，朋友
 
-197
+813
 00:44:44,627 --> 00:44:46,345
 Are you all right?
 你没事吧
 
-198
+814
 00:44:46,427 --> 00:44:48,179
 JO: Oh, no, you don't!
 噢，不，你不能！
 
-199
+815
 00:44:48,267 --> 00:44:50,303
 No, no!
 不，不！
 
-200
+816
 00:44:50,387 --> 00:44:51,866
 - No, let go of me!
 - This way!
 - 不，放开我！  - 这边！
 
-201
+817
 00:44:51,947 --> 00:44:53,062
 JO: Let me go!
 放开我！
 
-202
+818
 00:44:53,147 --> 00:44:54,819
 We've been boarded! We need the blasters, come on!
 有人登船了！我们需要枪，快来！
 
-203
+819
 00:44:54,907 --> 00:44:56,135
 - The prisoner?
 - Don't worry about him.
 - 俘虏呢？  - 不用操心他了
 
-204
+820
 00:44:56,227 --> 00:44:57,501
 He's no use to us at the moment.
 现在这个时候他对我们没用了
 
-205
+821
 00:44:57,587 --> 00:45:00,624
 JO: Let me go! No! Doctor!
 放开我！不！博士！
 
-206
+822
 00:45:02,347 --> 00:45:04,781
-DOCTOR: Get down!
-OGRON: The enemy!
+- DOCTOR: Get down!
+- OGRON: The enemy!
 - 蹲下！ - 有敌人！
 
-207
+823
 00:45:05,387 --> 00:45:06,979
 OGRON: Fool, go!
 傻瓜，走！
 
-208
+824
 00:45:09,067 --> 00:45:10,819
 JO: Help! Doctor!
 OGRON: You come!
 - 救命，博士！  - 你过来！
 
-209
+825
 00:45:10,907 --> 00:45:12,181
-- You must come!
-- No!
+- You must come!  - No!
 - 你必须过来！  - 不！
 
-210
+826
 00:45:12,267 --> 00:45:14,861
 Look out! We must take the girl!
 小心！我们必须带着这个女孩儿！
 
-211
+827
 00:45:14,947 --> 00:45:15,982
 No!
 不！
 
-212
+828
 00:45:18,027 --> 00:45:19,301
 In here!
 进来！
 
-213
+829
 00:45:22,267 --> 00:45:24,337
 MASTER: Right. Unlock!
-行了。断开！
+行了．断开！
 
-214
+830
 00:45:32,427 --> 00:45:34,941
-CAPTAIN ON RADIO:
-<i>This is Earth battle cruiser X29.</i>
+CAPTAIN ON RADIO: <i>This is Earth battle cruiser X29.</i>
 这里是地球战斗巡航舰X29
 
-215
+831
 00:45:35,027 --> 00:45:37,461
 <i>Do you read me? Identify yourself.</i>
 你能听到吗？请表明你的身份
 
-216
+832
 00:45:38,667 --> 00:45:40,737
 <i>This is Earth battle cruiser X29.</i>
 这里是地球战斗巡航舰X29
 
-217
+833
 00:45:40,827 --> 00:45:43,182
 <i>Do you read me? Identify yourself.</i>
 你能听到吗？请表明你的身份
 
-218
+834
 00:45:43,267 --> 00:45:47,759
 Hello, this is Earth police spaceship 2390,
 你好，这是地球警用飞船2390
 
-219
+835
 00:45:47,847 --> 00:45:49,842
 on a special mission to the President of Earth. Over.
-正在执行一项特殊任务，飞往地球总统。结束
+正在执行一项特殊任务，飞往地球总统．结束
 
-220
+836
 00:45:49,987 --> 00:45:52,979
 CAPTAIN: <i>Identify the ship</i>
 <i>that has just unlocked from you.</i>
 表明刚与你船断开的飞船身份
 
-221
+837
 00:45:53,067 --> 00:45:54,978
 <i>They refuse to answer our signals.</i>
 他们拒绝应答我们的问话
 
-222
+838
 00:45:55,077 --> 00:45:56,655
 Look, it's of vital importance
 注意，这是非常重要的：
 
-223
+839
 00:45:56,767 --> 00:45:59,301
-that you pursue and capture
-that ship immediately. Over.
-你们应该立刻追上那艘飞船，抓获他们。结束
+that you pursue and capture that ship immediately. Over.
+你们应该立刻追上那艘飞船，抓获他们．结束
 
-224
+840
 00:45:59,387 --> 00:46:02,299
-<i>You are in possession</i>
-<i>of a stolen police spaceship.</i>
+<i>You are in possession of a stolen police spaceship.</i>
 你们占有了一艘被偷走的警用飞船
 
-225
+841
 00:46:02,387 --> 00:46:04,423
-<i>You are under arrest.</i>
-<i>Stand by to be boarded.</i>
-你们被捕了。我们即将登船，请准备
+<i>You are under arrest. Stand by to be boarded.</i>
+你们被捕了．我们即将登船，请准备
 
-226
+842
 00:46:04,507 --> 00:46:05,826
-DOCTOR ON RADIO:
-<i>Look, you don't understand.</i>
+DOCTOR ON RADIO: <i>Look, you don't understand.</i>
 听着，你没有弄明白
 
-227
+843
 00:46:05,907 --> 00:46:08,626
-<i>The man who stole this ship</i>
-<i>is escaping in that vessel.</i>
+<i>The man who stole this ship is escaping in that vessel.</i>
 偷了这艘船的人正在用那个船上逃走
 
-228
+844
 00:46:08,707 --> 00:46:09,822
 CAPTAIN: <i>You are under arrest.</i>
 你们被捕了
 
-229
+845
 00:46:09,907 --> 00:46:12,660
 <i>You'll be given the opportunity</i>
 <i>of making a full statement.</i>
 你们有机会做完整的陈述
 
-230
+846
 00:46:12,747 --> 00:46:16,023
 <i>Do not offer any resistance.</i>
 <i>Stand by to be boarded.</i>
 不要做任何抵抗，我们即将登船
 
-231
+847
 00:46:16,107 --> 00:46:18,940
 DOCTOR: <i>Oh, very well.</i>
 <i>We're standing by.</i>
 哦，好吧，我们待命
 
-232
+848
 00:46:19,027 --> 00:46:20,142
 (LAUGHING)
 
-233
+849
 00:46:20,227 --> 00:46:24,857
 Poor Doctor. Enmeshed in the throes of bureaucracy.
 可怜的博士，陷入官僚主义的痛苦之中
 
-234
+850
 00:46:24,947 --> 00:46:26,016
 (LAUGHING)
 
-235
+851
 00:46:26,107 --> 00:46:28,462
 It'll take him a long time
 to talk himself out of that one.
 可得要些时间他才能说明白，再脱开身
 
-236
+852
 00:46:28,547 --> 00:46:31,061
-But he'll get to see the President,
-eventually.
+But he'll get to see the President, eventually.
 但他最终会去见到总统
 
-237
+853
 00:46:31,147 --> 00:46:32,182
 She won't believe him.
 总统不会相信他
 
-238
+854
 00:46:32,267 --> 00:46:35,657
 Oh, yes, she will, when she sees the Ogron prisoner.
 哦，会，她会的，只要看见 Ogron 俘虏就会了
 
-239
+855
 00:46:35,747 --> 00:46:37,419
 He's our evidence.
 他是我们的证据
 
-240
+856
 00:46:39,147 --> 00:46:42,025
-Your evidence is standing
-right behind you.
+Your evidence is standing right behind you.
 你的证据正站在你的后面呢
 
-241
+857
 00:46:44,827 --> 00:46:48,376
 The Draconian Prince knows
 the truth and he's with the Doctor.
 龙族王子知道真相，他也跟博士在一起
 
-242
+858
 00:46:48,467 --> 00:46:52,904
 My dear, Miss Grant, in the climate
 of opinion that I have created,
 我亲爱的 Grant 小姐，在我制造的舆论趋势下
 
-243
+859
 00:46:52,987 --> 00:46:54,466
 do you think that any Earthman
 你觉得任何地球人
 
-244
+860
 00:46:54,547 --> 00:46:56,583
 is going to believe the word of a Draconian?
 会相信一个龙族人的话么？
 
-245
+861
 00:46:58,067 --> 00:47:01,343
 Your Highness, we've heard the Doctor's theory before.
 殿下，我们之前已经听过这个博士的理论
 
-246
+862
 00:47:01,427 --> 00:47:05,136
 And, with respect, there is still no concrete evidence.
 而且，恕我直言，它并没有可靠证据支撑
 
-247
+863
 00:47:05,227 --> 00:47:07,536
-I myself would like to believe you
-but, as you can see,
-我个人倒是想要相信你。但是，如你所见
+I myself would like to believe you.
+But, as you can see,
+我个人倒是想要相信你．但是，如你所见
 
-248
+864
 00:47:07,627 --> 00:47:09,697
 I need proof to convince my people.
 我需要证据去说服我的人
 
-249
+865
 00:47:09,787 --> 00:47:12,017
 Then we must mount an expedition
 to the planet of the Ogrons.
 那我们必须安排一队人去 Ogrons 的星球
 
-250
+866
 00:47:12,107 --> 00:47:13,256
 The proof we need is there, madam.
 我们需要的证据在那里，夫人
 
-251
+867
 00:47:13,347 --> 00:47:15,463
 With Earth on the brink of war,
 how can we divert our forces
 眼看地球处于战争边缘，我们怎么能转移我们的力量
 
-252
+868
 00:47:15,547 --> 00:47:17,617
 into such a pointless expedition?
 去搞这种无意义的远征呢？
 
-253
+869
 00:47:18,107 --> 00:47:20,746
 My dear chap, I'm not asking for a battle fleet.
 我亲爱的伙计，我不是要求派一支战斗舰队去
 
-254
+870
 00:47:20,827 --> 00:47:23,057
 All I require is one small spaceship.
 我所要的只是一艘小飞船
 
-255
+871
 00:47:30,987 --> 00:47:36,015
 Well, Miss Grant, welcome to my humble abode.
 好了，Grant 小姐，欢迎来到我简陋的土屋
 
-256
+872
 00:47:36,107 --> 00:47:37,620
 I think you were better off in prison.
 我觉得你在监狱里过得比这更好
 
-257
+873
 00:47:37,707 --> 00:47:38,856
 Oh, temporary quarters, my dear.
 噢，临时住所而已，亲爱的
 
-258
+874
 00:47:38,947 --> 00:47:41,336
 I shall soon be changing them
 for something better.
 我很快就会将他们换成更好的
 
-259
+875
 00:47:41,427 --> 00:47:43,224
 Oh, you'll soon be back in jail.
 噢，对，你很快就会回到监狱了
 
-260
+876
 00:47:43,307 --> 00:47:44,342
 When the truth gets out,
 等真相一出来
 
-261
+877
 00:47:44,427 --> 00:47:47,180
 Earth and Draconia will combine
 their forces to attack you.
 地球和龙族就会联合起来对付你
 
-262
+878
 00:47:47,267 --> 00:47:50,703
 I don't think so. There's too much distrust between them.
-我不觉得。他们之间有太多的不信任
+我不觉得．他们之间有太多的不信任
 
-263
+879
 00:47:50,787 --> 00:47:52,345
 The Doctor will find you, eventually.
 博士最终会找到你
 
-264
+880
 00:47:52,427 --> 00:47:55,942
 Ah, there I agree with you. He must find me.
 啊，这我倒是同意你的说法，他必须找到我
 
-265
+881
 00:47:56,027 --> 00:47:58,666
 Not only to rescue you,
 不仅是要来救你
 
-266
+882
 00:47:58,747 --> 00:48:02,865
 but also to be reunited with his beloved TARDIS.
 还要跟他所爱的 TARDIS 会合
-<part5 ends>
-1
+
+883
 00:48:03,807 --> 00:48:06,958
 Your Royal Highness, could you convince your people
 殿下，你能否让你的人民相信
 
-2
+884
 00:48:07,047 --> 00:48:08,799
 they were not being attacked by Earthmen?
 他们并不是被地球人攻击的
 
-3
+885
 00:48:08,887 --> 00:48:11,447
 (SIGHING) If only we had proof.
 除非我们有证据
 
-4
+886
 00:48:11,527 --> 00:48:14,564
 Then I could convince my people
 and you could convince yours.
 那样我就可以说服我的人民，你也能说服你的
 
-5
+887
 00:48:14,647 --> 00:48:16,638
 But there's not much time.
 但我们没有太多时间
 
-6
+888
 00:48:16,727 --> 00:48:20,356
 Madam President, everything is ready.
 We shall use my personal scoutship.
-总统夫人，一切准备就绪了。我们用我个人的侦察舰
+总统夫人，一切准备就绪了．我们用我个人的侦察舰
 
-7
+889
 00:48:20,447 --> 00:48:23,280
 We'd better leave at once. Madam President.
 我们最好马上离开，总统夫人
 
-8
+890
 00:48:25,847 --> 00:48:29,476
-- My life at your command.
-- Madam President.
+- My life at your command.   - Madam President.
 - 听候您的差遣  - 总统夫人
 
-9
+891
 00:48:36,287 --> 00:48:38,801
 DOCTOR: Right, 34 seconds,
 找到了，34 秒
 
-10
+892
 00:48:38,887 --> 00:48:44,166
 a course correction to galactic
 coordinates 2349-6784.
 航线调整为星际坐标 2349-6784
 
-11
+893
 00:48:44,247 --> 00:48:45,680
 You realise where that will take us?
 你知道那会带我们去哪儿吗？
 
-12
+894
 00:48:45,767 --> 00:48:47,837
-A completely uninhabited sector
-of the galaxy.
+A completely uninhabited sector of the galaxy.
 这个星系中一片完全无人居住的区域
 
-13
+895
 00:48:47,927 --> 00:48:49,918
-Well, not completely uninhabited,
-General Williams.
+Well, not completely uninhabited, General Williams.
 嗯，也不是完全无人居住，威廉将军
 
-14
+896
 00:48:50,007 --> 00:48:51,360
 That's where the Ogron's planet is.
 Orgons 的星球就在那里
 
-15
+897
 00:48:51,447 --> 00:48:53,642
 No doubt your information is better than mine.
 当然，你的信息比我全
 
-16
+898
 00:48:53,727 --> 00:48:56,799
 - May I ask where you obtained it?
 - Certainly. From the Master.
-- 我能问问从哪儿知道的吗？ - 没问题。从法师那里
+- 我能问问从哪儿知道的吗？ - 没问题．从法师那里
 
-17
+899
 00:48:56,887 --> 00:48:59,959
 He fed the co-ordinates into his
 ship's computer when I was his prisoner.
 他之前把坐标输入到飞船电脑里面了，那会儿我还是他的俘虏
 
-18
+900
 00:49:00,047 --> 00:49:01,685
 And after you'd captured the ship, sir,
 在你捕获这艘飞船之后
 
-19
+901
 00:49:01,767 --> 00:49:03,803
-I extracted the information
-from the ship's memory banks.
+I extracted the information from the ship's memory banks.
 我把这信息从飞船的记忆库中提取出来了
 
-20
+902
 00:49:03,887 --> 00:49:06,037
 We're simply wasting time...
 我们纯粹是在浪费时间...
 
-21
+903
 00:49:07,127 --> 00:49:08,526
 Dragons!
 龙族人！
 
-22
+904
 00:49:08,607 --> 00:49:11,075
 Let me talk to them, I shall explain!
 让我来跟他们说，我可以解释
 
-23
+905
 00:49:11,167 --> 00:49:12,520
 Somehow I don't think they're in the mood
 我怎么觉得他们这会儿没这个心情
 
-24
+906
 00:49:12,607 --> 00:49:13,642
 for explanations at this minute.
 根本不给我们解释的机会
 
-25
+907
 00:49:13,727 --> 00:49:15,285
 - Can you outrun them?
 - This ship can outrun anything.
 - 你能跑得过他们吗？ - 这艘船跑得过任何船
 
-26
+908
 00:49:15,367 --> 00:49:18,245
 Hyper-drive. Max hyper-drive!
 超驱模式，开到最大！
 
-27
+909
 00:49:22,367 --> 00:49:26,326
 - Right, we're out of range now.
 - Reduce speed, return to course.
 - 好了，现在够不着我们了  - 减速，回归原航线
 
-28
+910
 00:49:26,447 --> 00:49:28,103
 MASTER: They should be here very soon now.
 他们应该很快就到了
 
-29
+911
 00:49:28,187 --> 00:49:29,256
 (DEVICE BEEPING)
 
-30
+912
 00:49:29,347 --> 00:49:33,386
-Judging by the size of the ship, they can't be in any great force.
-从飞船的大小来看, 他们的力量不可能太强
+Judging by the size of the ship,
+they can't be in any great force.
+从飞船的大小来看，他们的力量不可能太强
 
-31
+913
 00:49:33,467 --> 00:49:38,621
 So conceal yourselves and ambush them
 as soon as they arrive, right?
-所以你们隐藏起来, 他们一到达就伏击他们，行吧？
+所以你们隐藏起来，他们一到达就伏击他们，行吧？
 
-32
+914
 00:49:38,707 --> 00:49:40,504
-Hold on, wait a minute.
-Something's happened.
-停，等一下。有点情况
+Hold on, wait a minute. Something's happened.
+停，等一下．有点情况
 
-33
+915
 00:49:40,587 --> 00:49:42,498
 They must have landed very nearby.
 他们肯定已经在很近的地方着陆了
 
-34
+916
 00:49:42,587 --> 00:49:43,736
 Right, send out patrols!
 好，派出巡逻队
 
-35
+917
 00:49:43,827 --> 00:49:45,419
-Get them and bring them
-back here immediately.
+Get them and bring them back here immediately.
 抓住他们，立刻带回这里
 
-36
+918
 00:49:45,507 --> 00:49:48,499
 And, remember, I want the Doctor alive.
 并且记着，博士我要活的
 
-37
+919
 00:49:48,587 --> 00:49:50,339
 OGRONS: Yes, Master.
 是，法师
 
-38
+920
 00:49:55,647 --> 00:49:59,401
-One dominant life form,
-a large and savage reptile.
+One dominant life form, a large and savage reptile.
 一种处于统治地位的生命形式，体型巨大，行为野蛮的爬行动物
 
-39
+921
 00:49:59,487 --> 00:50:02,001
-Yes, well, let's hope
-we don't encounter one.
+Yes, well, let's hope we don't encounter one.
 好吧，期望我们一个也不要碰到
 
-40
+922
 00:50:02,087 --> 00:50:03,440
-Doctor, has it occurred to you
-what we're going to do
+Doctor, has it occurred to you what we're going to do
 博士，你有没有想过我们该做什么...
 
-41
+923
 00:50:03,527 --> 00:50:05,518
 when we discover the source of this signal?
 ...等我们找到这个信号的源头的时候？
 
-42
+924
 00:50:05,607 --> 00:50:09,361
 I've no idea, old chap.
 We'll find out when we get there.
 我也没概念，老伙计，我们到了那儿应该就能发现了
 
-43
+925
 00:50:09,447 --> 00:50:11,278
 Come on, can't be far.
 快来，应该不远了
 
-44
+926
 00:50:35,287 --> 00:50:37,960
 - Drop! Surrender!
 - WILLIAMS: Take cover!
 - 放下武器！投降！  - 隐蔽！
 
-45
+927
 00:50:47,007 --> 00:50:48,076
 (GROWLING)
 
-46
+928
 00:50:48,167 --> 00:50:49,725
 What is that?
 那是什么？
 
-47
+929
 00:50:49,807 --> 00:50:53,083
-I've no idea, but whatever it is,
-it's on our side.
+I've no idea, but whatever it is, it's on our side.
 我也不知道，但不管是什么，它在帮我们
 
-48
+930
 00:50:56,527 --> 00:50:59,360
 Yes, I await your arrival with the greatest of pleasure.
 是的，我怀着极大的喜悦等待着你们的到来
 
-49
+931
 00:50:59,447 --> 00:51:02,837
 And I shall be there to meet you
 the moment that your ship touches down.
 你们的飞船一沾地，我就在那里迎接你们
 
-50
+932
 00:51:07,327 --> 00:51:08,999
 (OGRONS GRUNTING)
 
-51
+933
 00:51:11,207 --> 00:51:14,699
-- So, where's the Doctor?
-- The monster came.
+- So, where's the Doctor?   - The monster came.
 - 怎么，博士在哪儿？  - 怪兽出来了
 
-52
+934
 00:51:14,787 --> 00:51:17,801
-The monster?
-And I suppose you all ran like rabbits?
+The monster? And I suppose you all ran like rabbits?
 怪兽？然后你们就跟兔子一样乱跑了？
 
-53
+935
 00:51:17,887 --> 00:51:21,926
 - We fear the monster!
 - You stupid, cowardly idiots!
 - 我们害怕怪兽！ - 你们这群愚蠢、胆怯的笨蛋！
 
-54
+936
 00:51:22,007 --> 00:51:23,804
 You will answer to your masters for this.
 你们自己答复你们的主人吧
 
-55
+937
 00:51:23,887 --> 00:51:26,685
 - What? They are coming?
 - Yes, they are coming!
 - 什么，他们到了？  - 是的，到了
 
-56
+938
 00:51:26,767 --> 00:51:29,839
 Which means that I can dispense
 with your doubtful assistance.
 也就是我可以不要你们帮倒忙了
 
-57
+939
 00:51:29,927 --> 00:51:31,406
 Out of my way!
 给我闪开！
 
-58
+940
 00:51:39,647 --> 00:51:41,126
 Hello, Doctor!
 你好，博士！
 
-59
+941
 00:51:41,967 --> 00:51:44,117
 So here you are at last, eh?
 看来你终于到了，哈？
 
-60
+942
 00:51:45,047 --> 00:51:48,403
 - Surrender or you'll be shot down!
 - No, he's unarmed.
 - 投降，要不然把你打下来！ - 不，他没武器
 
-61
+943
 00:51:49,527 --> 00:51:53,440
 Unarmed maybe, but not unaccompanied.
 可能是没武器，但并不算没帮手
 
-62
+944
 00:51:53,527 --> 00:51:56,644
-I've brought some old friends along
-to meet you.
+I've brought some old friends along to meet you.
 我带来了一些老朋友跟你见见面
 
-63
+945
 00:51:58,927 --> 00:52:00,565
 (MASTER LAUGHING)
 
-64
+946
 00:52:01,987 --> 00:52:03,941
 Quite a touching little reunion.
 多么令人感动的小重逢啊
 
-65
+947
 00:52:05,227 --> 00:52:06,262
 (MASTER LAUGHING)
 
-66
+948
 00:52:13,787 --> 00:52:17,541
-CHIEF DALEK: <i>Doctor, you are in our</i>
-<i>power and you will be exterminated.</i>
+CHIEF DALEK: <i>Doctor, you are in our power</i>
+<i>and you will be exterminated.</i>
 博士，你在我们掌控之中了，你会被终结
 
-67
+949
 00:52:17,627 --> 00:52:20,699
 - No, not yet.
 <i>-You will obey the Daleks!</i>
 - 不，还不要  - 你要服从 Daleks!
 
-68
+950
 00:52:20,787 --> 00:52:24,302
 You know as well as I do
 that this man does not fear death.
 你们跟我一样清楚，这个人并不怕死
 
-69
+951
 00:52:24,387 --> 00:52:27,299
 I want him to suffer a much worse punishment.
 我希望他受到更严重的惩罚
 
-70
+952
 00:52:27,387 --> 00:52:29,981
-Look, my skill and cunning
-has brought about this war
+Look, my skill and cunning has brought about this war
 听着，我靠我的技巧和狡猾挑起了这场战争
 
-71
+953
 00:52:30,067 --> 00:52:32,581
 which will make you the masters of the galaxy.
 而这场战争可以让你们成为这个星系的主人
 
-72
+954
 00:52:32,667 --> 00:52:37,263
 Leave the Doctor with me
 and let him see the result of that war.
 把博士留给我，让他看看这场战争的结局
 
-73
+955
 00:52:38,067 --> 00:52:40,297
 Let him see the galaxy in ruins.
 让他看着这个星系变成废墟
 
-74
+956
 00:52:40,387 --> 00:52:44,699
 Let him see the planet Earth,
 that he loves so much, in ruins,
 让他看着他深爱的地球变成废墟
 
-75
+957
 00:52:44,787 --> 00:52:46,584
 then exterminate him.
 然后再终结他
 
-76
+958
 00:52:46,867 --> 00:52:52,385
 <i>Very well. He will remain your prisoner</i>
 <i>until the war is concluded.</i>
-好。他仍然是你的俘虏，直到战争结束
+好．他仍然是你的俘虏，直到战争结束
 
-77
+959
 00:52:52,467 --> 00:52:57,063
 <i>Then you will bring him to us</i>
 <i>and we shall exterminate him.</i>
 然后你带他过来，我们会终结他
 
-78
+960
 00:52:57,147 --> 00:53:01,663
 <i>We shall now return to our base</i>
 <i>and prepare the army of the Daleks.</i>
 我们现在返回我们的基地，准备 Daleks 军队
 
-79
+961
 00:53:16,187 --> 00:53:20,703
-Oh, I suppose I should thank you
-for saving my life?
+Oh, I suppose I should thank you for saving my life?
 噢，我觉得我应该感谢你救了我一命？
 
-80
+962
 00:53:20,787 --> 00:53:24,496
 Not for long, Doctor.
 It's going to be a very short war.
 不会太久的，博士，这将是一场很短暂的战争
 
-81
+963
 00:53:25,227 --> 00:53:27,058
 Right, take them away.
 好了，把他们带走
 
-82
+964
 00:53:42,067 --> 00:53:44,023
-- Hello, Doctor.
-- Hello, Jo.
+- Hello, Doctor.   - Hello, Jo.
 - 你好，博士  - 你好，Jo
 
-83
+965
 00:53:44,107 --> 00:53:46,257
 Oh, so now they've got all of us.
 噢，这样一来他们把我们所有人都抓了
 
-84
+966
 00:53:46,347 --> 00:53:48,941
 All except the pilot. He's repairing the ship.
 驾驶员还没，他在维修飞船
 
-85
+967
 00:53:49,027 --> 00:53:53,225
 Why do these Dalek creatures wish
 to set your people and mine at war?
 为什么这些叫 Dalek 的东西期望你们和我们之间发生战争？
 
-86
+968
 00:53:53,307 --> 00:53:56,902
 'Cause war will mean the extermination
 of both empires, Your Royal Highness,
 因为战争就意味着两个帝国的终结，殿下
 
-87
+969
 00:53:56,987 --> 00:54:00,184
 and the Daleks will emerge
 as the supreme rulers.
 然后 Daleks 就会成为最高统治者
 
-88
+970
 00:54:00,267 --> 00:54:03,464
-Now somehow, we've got to get
-out of here and stop them.
+Now somehow, we've got to get out of here and stop them.
 现在，我们得想个什么方法逃出这里，然后阻止他们
 
-89
+971
 00:54:03,547 --> 00:54:08,302
 (WHISPERING) Doctor! Doctor,
 would the Master's little fear-box help?
 博士！博士，法师的这个恐惧小盒子有用吗？
 
-90
+972
 00:54:09,467 --> 00:54:10,536
 Well done, Jo!
 干得好，Jo！
 
-91
+973
 00:54:10,627 --> 00:54:12,265
-You see, we could use it
-to frighten the Ogrons away
+You see, we could use it to frighten the Ogrons away
 你们看，我们可以用它把那些 Ogrons 吓跑
 
-92
+974
 00:54:12,347 --> 00:54:13,416
 and then we can all escape.
 然后我就都可以逃走了
 
-93
+975
 00:54:13,507 --> 00:54:14,542
 Well, that's hardly practical, Miss Grant.
 这，不太好操作，Grant 小姐
 
-94
+976
 00:54:14,667 --> 00:54:16,066
 They'd just run off and we'd still be locked in.
 即使他们跑掉，我们还是关在里面
 
-95
+977
 00:54:16,147 --> 00:54:17,216
 (SIGHING) Oh!
 噢！
 
-96
+978
 00:54:17,307 --> 00:54:22,062
 There is one thing we can do, though,
 and it'll need a very slight adjustment.
 不过，还有一个方法我们可以用，只需要做一点很小的调整
 
-97
+979
 00:54:24,427 --> 00:54:25,542
 There's nothing to worry about.
 没有什么可担心的
 
-98
+980
 00:54:25,627 --> 00:54:28,460
-The Doctor will be perfectly safe
-in my hands.
+The Doctor will be perfectly safe in my hands.
 博士在我手中会很安全
 
-99
+981
 00:54:28,547 --> 00:54:31,300
-And I promise you,
-when I deliver him to you,
+And I promise you, when I deliver him to you,
 而我向你保证，当我把他交给你们的时候
 
-100
+982
 00:54:31,387 --> 00:54:33,105
 he'll be a broken man.
 他将是个废人
 
-101
+983
 00:54:33,187 --> 00:54:35,496
-CHIEF DALEK OVER RADIO:
-<i>Do not fail the Daleks.</i>
+CHIEF DALEK OVER RADIO: <i>Do not fail the Daleks.</i>
 不要让 Daleks 失望
 
-102
+984
 00:54:35,587 --> 00:54:37,464
 The war is certain now.
 现在这仗是肯定要打了
 
-103
+985
 00:54:37,547 --> 00:54:40,345
-And once the great empires
-have destroyed each other,
+And once the great empires have destroyed each other,
 一旦这两大帝国摧毁了对方
 
-104
+986
 00:54:40,427 --> 00:54:44,739
 I ask but one thing, let me rule
 the planet Earth in your name.
 我只要求一件事情：让我以你们的名义统治地球
 
-105
+987
 00:54:46,227 --> 00:54:49,299
-General Williams,
-if we do manage to get out of here,
+General Williams, if we do manage to get out of here,
 威廉将军，如果我们设法逃了出去
 
-106
+988
 00:54:49,387 --> 00:54:51,821
 and Jo and I manage to create a diversion,
 而Jo 和 我设法把他们引开了
 
-107
+989
 00:54:51,907 --> 00:54:53,545
-could you find your way back
-to your spaceship?
+could you find your way back to your spaceship?
 你能找到回到自己飞船的路吗？
 
-108
+990
 00:54:53,627 --> 00:54:56,460
-- Certainly.
-- Good.
+- Certainly.   - Good.
 - 当然  - 很好
 
-109
+991
 00:54:56,547 --> 00:54:58,822
 Right, that should do it.
 好，这样应该可以了
 
-110
+992
 00:54:58,907 --> 00:55:00,898
 Now I want you to take off immediately.
 我要你们立刻起飞
 
-111
+993
 00:55:00,987 --> 00:55:02,784
-Get the truth back
-to your respective governments.
+Get the truth back to your respective governments.
 把真相带回给各自的政府
 
-112
+994
 00:55:02,867 --> 00:55:03,902
 Yes.
 好
 
-113
+995
 00:55:03,987 --> 00:55:05,659
-Tell them that they must mount
-a joint expedition
+Tell them that they must mount a joint expedition
 告诉他们必须建立一支联合的远征军
 
-114
+996
 00:55:05,747 --> 00:55:09,103
 - and capture this base at once.
 - I shall stay and help.
-- 要立刻攻占这个基地
-- 我留下来帮忙
+- 要立刻攻占这个基地 - 我留下来帮忙
 
-115
+997
 00:55:09,187 --> 00:55:11,496
-No, we'll need you to convince
-the Emperor, Your Royal Highness.
+No, we'll need you to convince the Emperor,
+Your Royal Highness.
 不，我们需要你去说服皇帝，殿下
 
-116
+998
 00:55:11,587 --> 00:55:13,464
 What about you and Miss Grant,
 how will you get away?
 你和 Grant 小姐怎么办，你们怎么逃走？
 
-117
+999
 00:55:13,547 --> 00:55:15,105
-Jo, I presume that the TARDIS
-is still here?
+Jo, I presume that the TARDIS is still here?
 Jo，我估计 TARDIS 仍然在这里？
 
-118
+1000
 00:55:15,187 --> 00:55:16,859
 - Yes, I know where it is.
 - Well, don't worry about us.
 - 是的，我知道它在哪儿  - 那，不用担心我们了
 
-119
+1001
 00:55:16,947 --> 00:55:18,744
 - Our spaceship is here.
 - That's all very well, Doctor,
 - 我们的飞船在这里  - 那就太好了，博士
 
-120
+1002
 00:55:18,827 --> 00:55:20,419
 but we still happen to be locked in.
 不过目前我们还是被锁在这里面啊
 
-121
+1003
 00:55:20,507 --> 00:55:22,941
 Yes, well, would you mind blocking your ears
-是。不过你们不介意捂一下耳朵吧
+是．不过你们不介意捂一下耳朵吧
 
-122
+1004
 00:55:23,027 --> 00:55:24,426
 and covering your eyes just for a moment?
 眼睛也要盖住一会儿
 
-123
+1005
 00:55:24,507 --> 00:55:25,656
 I do not understand.
 我没搞懂
 
-124
+1006
 00:55:25,747 --> 00:55:28,215
 No, but I think you will in a moment.
 Just do as I ask, would you?
-过一会儿你就能懂了。按我说的做，好吗？
+过一会儿你就能懂了．按我说的做，好吗？
 
-125
+1007
 00:55:28,307 --> 00:55:29,865
 - You, too, Jo.
 - Oh, no, it's all right.
 - 你也是，Jo  - 噢，不用，没事的
 
-126
+1008
 00:55:29,947 --> 00:55:31,380
-- I can resist it.
-- Can you?
-- 我能抵抗住  - 能吗？
+- I can resist it.   - Can you?
+- 我能抵抗住  - 你能？
 
-127
+1009
 00:55:31,467 --> 00:55:33,219
-- Yes.
-- Good.
+- Yes.  - Good.
 - 是的  - 好
 
-128
+1010
 00:55:36,707 --> 00:55:40,700
 DOCTOR: Uh, how much longer are you
 gonna keep us locked in here?
 啊，你们还能把我们锁在这里多久？
 
-129
+1011
 00:55:41,867 --> 00:55:43,823
 Yes, I'm talking to you.
 是的，跟你说话呢
 
-130
+1012
 00:55:43,907 --> 00:55:45,898
 (HYPNOTIC PULSE SOUNDING)
 
-131
+1013
 00:55:46,467 --> 00:55:51,700
 <i>Open the gate. Open the gate.</i>
 把门打开，把门打开
 
-132
+1014
 00:55:53,987 --> 00:55:57,946
 <i>Open the gate or I will exterminate you.</i>
 把门打开，否则我终结你
 
-133
+1015
 00:55:58,547 --> 00:56:00,299
 It worked.
 生效了
 
-134
+1016
 00:56:05,947 --> 00:56:08,780
 DOCTOR: Right.
 JO: Come on, then. Follow me.
-- 好
-- 快点，跟着我
+- 好  - 快点，跟着我
 
-135
+1017
 00:56:12,427 --> 00:56:14,418
-CHIEF DALEK OVER RADIO:
-<i>Do not fail the Daleks.</i>
+CHIEF DALEK OVER RADIO: <i>Do not fail the Daleks.</i>
 不要让 Daleks 失望
 
-136
+1018
 00:56:15,547 --> 00:56:16,980
 (SCOFFING)
 
-137
+1019
 00:56:17,467 --> 00:56:21,585
 Right, we'll see who rules
 the galaxy when this is over.
 行，等这事完了，我们来看看谁是这个星系的统治者
 
-138
+1020
 00:56:21,867 --> 00:56:24,301
 (MOCKINGLY IMPERSONATING THE DALEKS)
 "Do not fail the Daleks", indeed!
 “不要让 Daleks 失望“，真事似的
 
-139
+1021
 00:56:24,587 --> 00:56:26,100
 You stupid, tin boxes!
 你们这些愚蠢的铁桶
 
-140
+1022
 00:56:26,187 --> 00:56:28,018
 (OGRON GASPING)
 
-141
+1023
 00:56:28,107 --> 00:56:29,506
 Why aren't you guarding the prisoners?
 你为什么不看守着俘虏？
 
-142
+1024
 00:56:29,587 --> 00:56:32,362
 - The Daleks sent me away.
 - There are no Daleks!
 - Dalek 把我派开了  - 现在没有 Daleks！
 
-143
+1025
 00:56:32,447 --> 00:56:36,360
 - The Daleks have all left the planet.
 - The Dalek said to open the cell.
 - 他们已经离开这个星球了  - 那个 Dalek 说让我打开牢房
 
-144
+1026
 00:56:36,447 --> 00:56:40,122
 Did he now? Fetch the others!
 I want them here immediately.
 他说了？把其他人找来，我要他们马上到这里来
 
-145
+1027
 00:56:45,087 --> 00:56:49,683
 - Doctor, look at this.
 - DOCTOR: Well, that's fascinating.
 - 博士，看看这个  - 嗯，很迷人
 
-146
+1028
 00:56:50,447 --> 00:56:53,837
 Is it some sort of idol?
 I saw one of the Ogrons worshipping it.
 会不会是某种偶像？我看见一个 Ogrons 在拜它
 
-147
+1029
 00:56:53,927 --> 00:56:56,395
 Yes, I'm not surprised.
 We've seen the real thing, haven't we?
-哦，我不会奇怪的。我们刚才见过这种生物，是吧
+哦，我不会奇怪的．我们刚才见过这种生物，是吧
 
-148
+1030
 00:56:56,487 --> 00:56:58,682
 They're probably more frightened of him
 than they are of the Daleks.
-他们可能更害怕他, 更甚过害怕 Daleks
+他们可能更害怕他，更甚过害怕 Daleks
 
-149
+1031
 00:56:58,767 --> 00:57:00,758
 Right, come on. This way.
 好了，快来，这边
 
-150
+1032
 00:57:05,727 --> 00:57:07,479
 Right, you can get out this way. Good luck.
-来，你可以从这条路出去。好运
+来，你可以从这条路出去．好运
 
-151
+1033
 00:57:07,567 --> 00:57:09,205
 - And you, Miss Grant. Doctor.
 - General Williams.
-- 你也是，Grant 小姐，博士
-- 威廉将军
+- 你也是，Grant 小姐，博士  - 威廉将军
 
-152
+1034
 00:57:09,287 --> 00:57:11,084
 WILLIAMS: Farewell.
 JO: Good luck.
 - 再见  - 祝你好运
 
-153
+1035
 00:57:11,167 --> 00:57:13,397
 DOCTOR: Your Royal Highness.
 PRINCE: My life at your command.
 - 殿下  - 听候您的差遣
 
-154
+1036
 00:57:13,487 --> 00:57:15,478
 The TARDIS is over there.
 TARDIS 就在那边
 
-155
+1037
 00:57:15,687 --> 00:57:16,722
 Going somewhere, Doctor?
 要去哪儿，博士？
 
-156
+1038
 00:57:16,807 --> 00:57:19,241
 You know, you really are incredibly
 persistent, aren't you?
 知道吗，你还真是阴魂不散啊，是吧？
 
-157
+1039
 00:57:19,327 --> 00:57:23,764
 - That is my property, I believe.
 - Oh, yes, a most ingenious device.
 - 那是我的东西，我想  - 是的，这个设备做得很精巧
 
-158
+1040
 00:57:23,847 --> 00:57:24,996
 I congratulate you.
 我恭喜你
 
-159
+1041
 00:57:25,087 --> 00:57:26,645
 OGRONS: Oh! The monster!
 哦，有怪兽！
 
-160
+1042
 00:57:26,727 --> 00:57:27,921
 (HYPNOTIC PULSE SOUNDING)
 
-161
+1043
 00:57:35,607 --> 00:57:39,520
 - Oh, Doctor, I thought you were dead.
 - Help me.
 - 噢，博士，我还以为你已经死了  - 帮我一下
 
-162
+1044
 00:57:39,607 --> 00:57:43,600
 Come on, yes. Careful.
 加油，好，小心点
 
-163
+1045
 00:57:49,487 --> 00:57:51,205
-- Help me into the TARDIS, Jo.
-- Okay.
+- Help me into the TARDIS, Jo.  - Okay.
 - 扶我进 TARDIS 去，Jo  - 好
 
-164
+1046
 00:57:54,127 --> 00:57:56,083
-- All right, Jo.
-- Careful.
+- All right, Jo.  - Careful.
 - 好了，Jo  - 小心点
 
-165
+1047
 00:58:02,247 --> 00:58:05,523
-The first thing we've got to do
-is get out of here.
+The first thing we've got to do is get out of here.
 我们要做的第一件事，就是离开这里
 
-166
+1048
 00:58:07,047 --> 00:58:08,480
 (WHOOSHING)
 
-167
+1049
 00:58:12,807 --> 00:58:14,126
 (BEEPING)
 
-168
+1050
 00:58:15,247 --> 00:58:16,839
 (BREATHING DEEPLY)
 
-169
+1051
 00:58:16,927 --> 00:58:19,566
 Doctor, what are you doing?
 博士，你在做什么？
 
-170
+1052
 00:58:19,647 --> 00:58:24,402
 Telepathic circuits,
 sending a message to the Time Lords.
 心灵感应回路，给时间领主传递一个信息
-

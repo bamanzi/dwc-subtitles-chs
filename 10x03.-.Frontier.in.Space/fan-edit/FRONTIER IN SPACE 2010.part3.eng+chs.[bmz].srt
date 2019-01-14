@@ -76,7 +76,8 @@ In any case, it wasn't the Draconians, it was the Ogrons.
 
 17
 00:19:48,507 --> 00:19:51,419
-Your machine can't be working properly. Or else he's controlling it.
+Your machine can't be working properly.
+Or else he's controlling it.
 你的机器工作不正常, 要不然就是他可以控制它
 
 18
@@ -437,7 +438,8 @@ I'd like to, madam.
 
 90
 00:23:23,067 --> 00:23:27,936
-I really would, but there's nothing that I can say that you'd believe.
+I really would, but there's nothing that I can say
+that you'd believe.
 我真的这样, 但确实我说不出什么你能相信的东西
 
 91
@@ -452,7 +454,8 @@ No! You'll be leaving immediately for the penal colony.
 
 93
 00:23:34,027 --> 00:23:38,100
-We're putting you where your Draconian friends will be unable to reach you.
+We're putting you where
+your Draconian friends will be unable to reach you.
 我们要把你放到你那些龙族朋友够不到你的地方
 
 94
@@ -477,7 +480,8 @@ What are you talking about?
 
 98
 00:24:15,227 --> 00:24:17,546
-Well, surely you don't want to spend the rest of your life in here, do you?
+Well, surely you don't want to
+spend the rest of your life in here, do you?
 你当然不会期望在这里过完你的下半辈子, 是吧?
 
 99
@@ -533,12 +537,12 @@ But, of course!
 109
 00:24:37,947 --> 00:24:39,665
 Those lumbering idiots could never have thought up
-那些愚蠢的家伙是无论如何也想不出
+那些愚蠢的家伙是无论如何也想不出...
 
 110
 00:24:39,747 --> 00:24:42,022
 such a brilliant scheme by themselves.
-如此天才的计划的
+...如此天才的计划的
 
 111
 00:24:42,107 --> 00:24:45,179

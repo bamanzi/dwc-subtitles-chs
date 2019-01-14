@@ -35,7 +35,8 @@ Lock them in the hold, put a guard on them.
 
 8
 00:11:58,807 --> 00:12:01,321
-- But we haven't done anything. - They say you have. Take them away.
+- But we haven't done anything.
+- They say you have. Take them away.
 - 但我们没干过任何事啊 - 他们说你干过. 带走
 
 9
@@ -589,7 +590,8 @@ Why should they produce such an elaborate lie?
 
 118
 00:17:22,767 --> 00:17:28,000
-The ways of the Earthmen are devious. They're an inscrutable species.
+The ways of the Earthmen are devious.
+They're an inscrutable species.
 地球人的行为很怪异, 他们这个种族真是难以揣测
 
 119
@@ -610,7 +612,8 @@ that for once the Earthmen spoke the truth?
 
 122
 00:17:43,727 --> 00:17:47,925
-Some plan of the Emperor of which Your Highness has not been informed?
+Some plan of the Emperor of which
+Your Highness has not been informed?
 皇帝有他自己的计划, 而没有告知殿下?
 
 123
@@ -667,7 +670,7 @@ I could not possibly countenance such a plan.
 133
 00:18:31,167 --> 00:18:39,922
 But, should two escaping prisoners seek sanctuary in this embassy,
-但是, 如果两个逃犯到大使馆来寻求庇护
+但是, 如果两个逃跑的犯人到大使馆来寻求庇护
 
 134
 00:18:41,767 --> 00:18:44,759

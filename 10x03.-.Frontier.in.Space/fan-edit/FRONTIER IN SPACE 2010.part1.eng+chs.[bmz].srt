@@ -478,7 +478,7 @@ You have invaded our part of the galaxy many times.
 97
 00:05:37,987 --> 00:05:40,579
 In pursuit of your ships when they have raided ours!
-FIXME
+你们的飞船先袭击了我们的，我们追他们才越境的
 
 98
 00:05:41,507 --> 00:05:43,657
@@ -667,7 +667,7 @@ Yes, I think so.
 135
 00:07:47,407 --> 00:07:49,318
 - I'm going to get the prisoners. - What for?
-- 我去把囚犯带出来 - 带出来做什么?
+- 我去把俘虏带出来 - 带出来做什么?
 
 136
 00:07:49,407 --> 00:07:51,238
