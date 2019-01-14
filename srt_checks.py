@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 
 import re
 import sys
@@ -14,8 +14,10 @@ def check_srt_file(filename):
         for line in fp:
             lineno = lineno + 1
             line = line.strip()
-            
-            if line.isdigit() and last_line!=None and len(last_line)>0:
+
+            if not last_line:  #None or empty
+                pass
+            elif line.isdigit() and len(last_line)>0:
                 print("%s:%s: No blank line before entry index id" % (filename, lineno))
             else:
                 match = re_time.search(line)
@@ -31,18 +33,44 @@ def check_srt_file(filename):
                         sys.exit(1)
                         
                     delta = (t2 - t1).total_seconds()
-                    if delta < 0:
+                    if delta < 0.0:
                         print("%s:%s: Negative span: %.1f seconds" % (filename, lineno, delta))
-                    if delta > 10:
-                        print("%s:%s: Too long: %d seconds" % (filename, lineno, delta))
+                    if delta > 6.0:
+                        print("%s:%s: Time span too long: %.1f seconds" % (filename, lineno, delta))
                         
                     if last_t2 and t1 < last_t2[0]:
                         print("%s:%s: Overlapped time span with line %d" % (filename, lineno, last_t2[1]))
                     last_t2 = (t2, lineno)
+                elif len(line)>0 and not line[0:2].isdigit():
+                    if len(last_line)>0 and not last_line[0:2].isdigit():
+                        len_last = len(last_line)
+                        len_this = len(line)
+                        len_total = len_last + len_this
+
+                        if not _is_ascii(line):
+                            if len_this>40:
+                                print("%s:%s: Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
+
+                            if not _is_ascii(last_line):
+                                print("%s:%s: Two non-ascii lines" % (filename, lineno))
+                                
+                        else:    
+                            if len_this>75:
+                                print("%s:%s: Line too long: %d chars" % (filename, lineno, len_this))
+                        
+                            if len_total<60 and (len_last<25 or len_this<25):
+                                print("%s:%s: Line too short: %d chars" % (filename, lineno, len_this))
 
             last_line = line
 
-                    
+            
+def _is_ascii(s):
+    try:
+        s.encode('cp1250')
+        return True
+    except UnicodeEncodeError:
+        return False
+
 if __name__=="__main__":
     for f in sys.argv[1:]:
         check_srt_file(f)
