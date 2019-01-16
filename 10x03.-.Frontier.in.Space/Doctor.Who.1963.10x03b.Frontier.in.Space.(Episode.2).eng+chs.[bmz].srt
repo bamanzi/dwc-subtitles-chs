@@ -552,7 +552,7 @@ Someone's coming.
 
 112
 00:06:05,927 --> 00:06:08,157
-You're going to but outside.
+You're going to, but outside.
 你会见到的, 不过得先出来
 
 113
@@ -1055,6 +1055,7 @@ but believe me, that is what is happening.
 212
 00:10:41,367 --> 00:10:42,482
 Take them away.
+把他们带走
 
 213
 00:10:42,567 --> 00:10:44,159
@@ -1227,7 +1228,7 @@ First, the attacks on our ships and now this.
 00:14:05,647 --> 00:14:10,163
 Is it possible, Your Highness,
 that for once the Earthmen spoke the truth?
-有没有可能, 殿下, 地球人说的是事实?
+有没有可能, 殿下, 这一次地球人说的是事实?
 
 247
 00:14:10,327 --> 00:14:14,525
@@ -1299,7 +1300,7 @@ it would be uncivilised to turn them away.
 260
 00:15:16,287 --> 00:15:18,755
 I must not detain you longer.
-我就不再耽搁里了
+我就不再耽搁你了
 
 261
 00:15:19,247 --> 00:15:24,037

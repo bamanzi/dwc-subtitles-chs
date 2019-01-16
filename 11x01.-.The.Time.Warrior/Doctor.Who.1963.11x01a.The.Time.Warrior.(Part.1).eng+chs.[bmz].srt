@@ -9,23 +9,24 @@ Doctor Who (1963) 11x01 The Time Warrior (Part 1)
 
 3
 00:00:16,400 --> 00:00:19,000
-【翻译】巴蛮子sz
+<i>【翻译】巴蛮子sz</i>
 
 4
 00:00:19,400 --> 00:00:22,000
-<i>基于opensubtitles.org 英文字幕翻译</i>
+<i>【时间轴】巴蛮子sz</i>
 
 5
 00:00:22,400 --> 00:00:25,000
-<i>初稿．尚未校对</i>
+<i>【时间轴】巴蛮子sz</i>
 
 6
 00:00:31,406 --> 00:00:33,715
-(SPACESHIP WHIRRING)
+<i>基于opensubtitles.org 英文字幕翻译</i>
 
 7
 00:00:43,125 --> 00:00:46,939
-This sheep has been dead a year. Are they trying to poison me?
+This sheep has been dead a year. 
+Are they trying to poison me?
 这头羊都死了一年了吧。他们这是打算毒死我吗？
 
 8
@@ -45,7 +46,8 @@ Wine! Must I perish of thirst? Bring me wine!
 
 11
 00:00:56,725 --> 00:01:00,559
-'Tis the dregs of the barrel, Captain. 'Tis the last there is.
+'Tis the dregs of the barrel, Captain. 
+'Tis the last there is.
 这是桶底的残余, 头儿。这是最后的一点儿
 
 12
@@ -64,13 +66,15 @@ Sour wine! Is this how I'm served?
 
 15
 00:01:13,685 --> 00:01:17,678
-Our supplies are low, Captain. It's some time since we went aforaging.
+Our supplies are low, Captain. 
+It's some time since we went aforaging.
 我们的供应不足, 头儿。我们四处搜罗已经有一段时间了
 
 16
 00:01:17,765 --> 00:01:21,440
-Meanwhile our fine neighbours feast their bellies full on fresh meat
-为什么我们的邻居这个时候肚子里装着满满的鲜肉
+Meanwhile our fine neighbours feast their bellies
+full on fresh meat
+为什么我们的邻居这个时候肚子里装满了鲜肉
 
 17
 00:01:21,525 --> 00:01:23,834
@@ -84,7 +88,8 @@ Well, Sir Edward's storehouses and cellars are well-stocked.
 
 19
 00:01:27,405 --> 00:01:31,193
-Then perhaps we should relieve him of some of his abundance, eh, my friend?
+Then perhaps we should relieve him 
+of some of his abundance, eh, my friend?
 那或许我们应该帮他减轻一点负担啊, 对不, 我的朋友？
 
 20
@@ -1395,7 +1400,7 @@ Shouldn't we tell the Brigadier?
 269
 00:16:33,160 --> 00:16:34,912
 I think we can decide what to do about Miss Smith
-我想我们能决定拿 Smith 小姐怎么办
+我想我们能决定拿史密斯小姐怎么办
 
 270
 00:16:35,000 --> 00:16:38,117
@@ -1744,11 +1749,12 @@ Remember what happened to you on Metebelis III.
 00:20:36,877 --> 00:20:40,267
 - Well, I got there, didn't I?
 - Yes, eventually, after several detours.
-- 不管怎样, 我到了哪儿, 对吧  - 最终是到了, 折腾了好几趟
+- 不管怎样, 我到了那儿, 对吧  - 是，最终是到了, 折腾了好几趟
 
 338
 00:20:40,357 --> 00:20:45,306
-Brigadier, a straight line may be the shortest distance between two points,
+Brigadier, a straight line may be the shortest distance
+between two points,
 准将, 直线或许是两点之间距离最短的
 
 339

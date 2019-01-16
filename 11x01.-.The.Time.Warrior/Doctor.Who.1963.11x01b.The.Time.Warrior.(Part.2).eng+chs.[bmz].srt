@@ -13,1858 +13,1861 @@ Doctor Who (1963) 11x01 The Time Warrior (Part 2)
 
 4
 00:00:16,400 --> 00:00:19,000
-【翻译】巴蛮子sz
+<i>【翻译】巴蛮子sz</i>
 
 5
 00:00:19,400 --> 00:00:22,000
-<i>基于opensubtitles.org 英文字幕翻译</i>
+<i>【时间轴】巴蛮子sz</i>
 
 6
 00:00:22,400 --> 00:00:25,000
-<i>初稿．尚未校对</i>
+<i>【时间轴】巴蛮子sz</i>
 
 7
+00:00:31,406 --> 00:00:33,715
+<i>基于opensubtitles.org 英文字幕翻译</i>
+
+8
 00:00:31,407 --> 00:00:33,921
 I won't tell you again!
 我不会跟你说第二遍!
 
-8
+9
 00:00:34,007 --> 00:00:38,125
 Look, I'm not amused. Stop it!
 听着, 这并不好玩, 停下！
 
-9
+10
 00:00:41,047 --> 00:00:42,560
 (TWIG SNAPS)
 
-10
+11
 00:01:08,367 --> 00:01:09,880
 Come on.
 进来吧
 
-11
+12
 00:01:18,407 --> 00:01:20,204
 (GRUNTING)
 
-12
+13
 00:01:25,006 --> 00:01:26,917
 Make it keen.
 要磨锋利
 
-13
+14
 00:01:27,006 --> 00:01:29,964
 I want Sir Edward not to know the moment
 when his head is parted from...
 我期望爱德华爵士的头被砍下来的时候他还没有反应过来...
 
-14
+15
 00:01:30,046 --> 00:01:31,195
 (SHOUTING)
 
-15
+16
 00:01:31,286 --> 00:01:34,722
 - What's this!
 - She was found within bowshot, Captain.
 - 这是什么？  - 在弓箭射程之内找到的, 头儿
 
-16
+17
 00:01:34,806 --> 00:01:38,685
 Idiots! Why don't you stop this ridiculous pantomime?
 蠢人！你们就不能停止你们这荒谬的表演吗？
 
-17
+18
 00:01:38,766 --> 00:01:41,917
 She spits fire, eh, Bloodaxe? Come here, girl.
 她会吐火啊, 是不, Bloodaxe? 过来, 女孩
 
-18
+19
 00:01:42,006 --> 00:01:44,645
 Get lost! Oh! Ow!
 消失！哦, 噢！
 
-19
+20
 00:01:44,726 --> 00:01:47,365
 - She wears gold, Bloodaxe.
 - That hurt, you fool!
 - 她戴着金首饰, Bloodaxe  - 弄疼我了, 你这蠢人！
 
-20
+21
 00:01:47,446 --> 00:01:50,006
 You call Irongron a fool?
 你管 Irongron 叫蠢人?
 
-21
+22
 00:01:50,086 --> 00:01:53,283
 I'll have the marrow from your bones, my little chicken.
 我要把你的骨髓碾出来, 我的小鸡
 
-22
+23
 00:01:53,366 --> 00:01:54,685
 Where are you from?
 你从哪里来的？
 
-23
+24
 00:01:54,766 --> 00:01:58,042
 Look, just pack this up, will you? It's not funny.
 行了, 收起这些吧, 行吗？这并不有趣
 
-24
+25
 00:01:58,126 --> 00:02:00,720
 I happen to be a reporter, and I've got a big story...
 我恰好是个记者, 我还有个大事件要...
 
-25
+26
 00:02:00,806 --> 00:02:02,637
 Take her away, Bloodaxe. Throw her in the dungeon.
 把他带走, Bloodaxe。扔到地牢里去
 
-26
+27
 00:02:02,726 --> 00:02:06,958
 Why don't you take off that ridiculous gear
 and go home to your butcher's shop?
 你们为什么不脱掉你们那可笑的行头, 回到你们的肉铺去呢？
 
-27
+28
 00:02:07,046 --> 00:02:09,401
 Let go! Look, I warn you.
 放开！嘿, 我警告你
 
-28
+29
 00:02:09,486 --> 00:02:12,080
 Any more of this and I'm going straight to the police.
 再这样我就直接报警了啊
 
-29
+30
 00:02:12,166 --> 00:02:14,236
 - Stay, Bloodaxe!
 - Captain?
 - 停下, Bloodaxe！  - 头儿？
 
-30
+31
 00:02:14,326 --> 00:02:15,964
 Leave her.
 放开她
 
-31
+32
 00:02:16,046 --> 00:02:17,479
 That's better.
 这还差不多
 
-32
+33
 00:02:17,566 --> 00:02:20,126
 (SCOFFS) Now, if I could just use your telephone.
 现在, 我能否用一下你们的电话
 
-33
+34
 00:02:20,206 --> 00:02:21,764
 (MAN GROANING)
 
-34
+35
 00:02:25,046 --> 00:02:27,844
 This is the dog that shot at you, Captain!
 就是这条狗朝你射箭的, 头儿！
 
-35
+36
 00:02:29,326 --> 00:02:31,521
 So you thought to kill Irongron, eh?
 看来你是想杀 Irongron, 嗯？
 
-36
+37
 00:02:31,606 --> 00:02:34,803
 Aye, and I would but for her. She drew my aim aside.
 是, 要不是她我就成功了。她干扰了我
 
-37
+38
 00:02:34,886 --> 00:02:36,638
 You treacherous dog!
 你这奸诈的小狗！
 
-38
+39
 00:02:37,286 --> 00:02:38,719
 - Did Sir Edward send you?
 - No.
 - 是爱德华爵士派你来的吗？  - 不是
 
-39
+40
 00:02:39,686 --> 00:02:41,119
 - You lie!
 - I speak the truth!
 - 你撒谎！  - 我说的是事实！
 
-40
+41
 00:02:41,206 --> 00:02:44,801
 - If not Sir Edward, who then?
 - I don't understand. Where am I?
 - 如果不是爱德华爵士, 那是谁？  - 我搞不懂了, 我在哪儿？
 
-41
+42
 00:02:44,886 --> 00:02:47,195
 It was my Lady Eleanor.
 是我家夫人 Eleanor
 
-42
+43
 00:02:48,406 --> 00:02:50,874
 Ah, that narrow-hipped vixen.
 啊, 那个小心眼的泼妇
 
-43
+44
 00:02:51,566 --> 00:02:55,081
 Bloodaxe, tomorrow we dine at Wessex Castle.
 Bloodaxe, 明天我们就到 Wessex 城堡去吃晚饭
 
-44
+45
 00:02:55,166 --> 00:02:57,202
 Yes, Captain. And what of the prisoner?
 好, 头儿！这个囚犯怎么处理？
 
-45
+46
 00:02:57,286 --> 00:03:00,119
 Ere long we shall deal with him sharply.
 稍后我们再来严厉处置他
 
-46
+47
 00:03:00,206 --> 00:03:01,639
 (LAUGHING)
 
-47
+48
 00:03:01,726 --> 00:03:04,160
 Sharply, eh? 'Tis richly put.
 严厉地, 嗯？这词用得好吧
 
-48
+49
 00:03:04,246 --> 00:03:07,795
 Aye. That'll be a fine jest, Captain Irongron.
 啊, 那是个不错的词, Irongron 队长
 
-49
+50
 00:03:07,886 --> 00:03:10,639
 I'm not one of your stuffy Norman nobles.
 我可不是你们那些自以为是的诺曼贵族
 
-50
+51
 00:03:10,726 --> 00:03:12,125
 I like a bit of rough fun.
 我喜欢玩点野蛮趣味
 
-51
+52
 00:03:12,206 --> 00:03:14,515
 'Tis true, Captain, you have a merry wit indeed!
 这是真的, 头儿, 你真是个有头脑的人！
 
-52
+53
 00:03:14,606 --> 00:03:18,042
 Look, please! Now you've had your laugh,
 请, 听着！既然你们笑也笑了,
 
-53
+54
 00:03:18,126 --> 00:03:21,436
 now, you know, just let's stop it and talk sensibly.
 现在, 你看, 我们停下来认真地谈一谈
 
-54
+55
 00:03:21,526 --> 00:03:25,678
 I mean, if it's any consolation to you,
 you're scaring me out of my wits.
 我是说, 如果你们觉得这些很好玩, 但我真的被吓破胆子了
 
-55
+56
 00:03:25,766 --> 00:03:30,044
 - Perhaps the wench is crazed, Captain.
 - Oh, come on. What is this place?
 - 好像这个村姑被吓傻了, 头儿  - 噢, 得了, 这是什么地方？
 
-56
+57
 00:03:30,126 --> 00:03:33,243
 You are in the castle of Irongron, my lady.
 你在 Irongron 的城堡里, 我的夫人
 
-57
+58
 00:03:33,326 --> 00:03:37,285
 Few uninvited guests come here,
 and few that do leave alive.
 很少有人不请自来, 更少人能活着离开
 
-58
+59
 00:03:37,366 --> 00:03:41,075
 All right. If you insist on playing guessing games...
 好吧, 如果你们非要玩这种猜谜游戏...
 
-59
+60
 00:03:41,166 --> 00:03:45,205
 Now, it's not a village pageant.
 It's too elaborate for that.
 现在, 这不是一个村庄表演, 因为这太复杂了
 
-60
+61
 00:03:45,806 --> 00:03:48,923
 A film set. No, no lights, no cameras.
 电影拍摄现场。不, 没有灯, 也没有摄像机
 
-61
+62
 00:03:49,006 --> 00:03:53,636
 Aye, the wench is crazed, right enough.
 And pity, she's not un-comely.
 是, 这村姑吓傻了, 肯定的。可惜了, 她本来还不难看
 
-62
+63
 00:03:54,606 --> 00:03:58,838
 I've got it! It's one of those tourist places.
 我知道了！这是一个旅游观光点
 
-63
+64
 00:03:58,926 --> 00:04:03,397
 Uh, a medieval castle,
 all restored to its original condition
 喔, 一个中世纪城堡, 所有都恢复到原样
 
-64
+65
 00:04:03,486 --> 00:04:06,523
 with jolly banquets and buxom serving wenches.
 带着欢乐宴席, 活泼的女仆
 
-65
+66
 00:04:07,046 --> 00:04:09,037
 That's it, isn't it?
 就是这样, 对不对？
 
-66
+67
 00:04:09,166 --> 00:04:12,636
 Mind you, I think you're overdoing the sordid realism a bit.
 提醒一下,你们把脏乱这一点做得过头了
 
-67
+68
 00:04:12,726 --> 00:04:15,445
 I mean, I know things were pretty grotty in the Middle Ages,
 我是说, 我知道中世纪的时候很多东西是不怎么样
 
-68
+69
 00:04:15,526 --> 00:04:18,757
 but, really, you might leave the tourists
 a bit of glamorous illusion.
 但, 真的, 你们应该给游客留下一个好的印象
 
-69
+70
 00:04:18,846 --> 00:04:20,165
 I've never seen such a scurvy...
 我从来没有见过这么无礼地...
 
-70
+71
 00:04:20,246 --> 00:04:22,714
 For pity's sake, cease this babbling, girl!
 天可怜见, 别叨叨了, 女孩儿！
 
-71
+72
 00:04:22,806 --> 00:04:24,478
 BLOODAXE: Captain.
 头儿
 
-72
+73
 00:04:25,526 --> 00:04:29,678
 Ah, Linx. What of my weapons? Are they ready?
 啊, Linx, 我的武器怎样了？准备好了吗？
 
-73
+74
 00:04:29,766 --> 00:04:33,236
 Soon. But I have another weapon to show you.
 快了。但我要给你展示另外一样武器
 
-74
+75
 00:04:33,326 --> 00:04:36,477
 - For your leave, master, the prisoner?
 - Aye, aye.
 - 那就留给你了, 主人, 那个囚犯？  - 好, 好
 
-75
+76
 00:04:37,366 --> 00:04:39,084
 - What is this?
 - Eh?
 - 这是什么？  - 嗯？
 
-76
+77
 00:04:39,166 --> 00:04:42,124
 - Oh, just a girl taken in the forest.
 - Girl?
 - 哦, 只是一个女孩儿, 森林里面抓到的  - 女孩儿？
 
-77
+78
 00:04:42,966 --> 00:04:46,322
 - You have two species on this planet?
 - How say you?
 - 你们这个星球有两个物种吗？  - 怎么说？
 
-78
+79
 00:04:47,086 --> 00:04:49,646
 The girl is not of your kind, Irongron.
 这个女孩跟你不是一个类别, Irongron
 
-79
+80
 00:04:49,726 --> 00:04:52,798
 The hair is finer. The thorax of a different construction.
 头发要好一些, 胸膛的结构也不太一样
 
-80
+81
 00:04:52,886 --> 00:04:55,446
 Oh, hell's teeth, have you no girls beyond the stars?
 哦, 可怜呐, 你们那星星上没有女孩儿？
 
-81
+82
 00:04:55,526 --> 00:04:59,041
 - No women to do the lowly work?
 - Ah, I understand.
 - 没有人做一些低等的活儿？  - 啊, 我明白了
 
-82
+83
 00:04:59,126 --> 00:05:02,436
 You have a primary and secondary reproductive cycle.
 你们有一个高等和低等的生殖循环
 
-83
+84
 00:05:03,126 --> 00:05:05,401
 It is an inefficient system. You should change it.
 这个系统很没效率, 你们应该改掉它
 
-84
+85
 00:05:05,486 --> 00:05:06,521
 You what?
 你说什么？
 
-85
+86
 00:05:06,606 --> 00:05:08,915
 In the Sontaran Military Academy,
 在桑塔军事学院
 
-86
+87
 00:05:09,006 --> 00:05:12,282
 we have hatchings of a million cadets at each muster parade.
 我们每次集结时, 都生成上百万的士官生
 
-87
+88
 00:05:12,366 --> 00:05:15,483
 Thus we can sustain enormous casualties on all battlefronts.
 所以我们能承受那么多战线上的巨大伤亡
 
-88
+89
 00:05:15,566 --> 00:05:18,036
 You cluck away like a broody old hen.
 你们的方法好像多产的老母鸡啊 
 
-89
+90
 00:05:19,286 --> 00:05:22,402
 Wait! This cloth is machine-woven.
 等一下, 这个衣服是机器造出来的
 
-90
+91
 00:05:22,486 --> 00:05:23,839
 The girl is not of your time, Irongron.
 这个女孩儿不是你们这个时代的, Irongron
 
-91
+92
 00:05:24,846 --> 00:05:28,156
 Oh, curse the girl! Show me the...
 啊, 该死的女孩！向我说明...
 
-92
+93
 00:05:32,486 --> 00:05:37,200
 Who? What? How?
 谁？ 什么？ 什么情况？
 
-93
+94
 00:05:37,286 --> 00:05:39,754
 Sarah Jane Smith. Reporter.
 莎拉-简-史密斯, 记者
 
-94
+95
 00:05:40,326 --> 00:05:42,282
 In a machine. I did not understand it.
 在一个机器里, 我搞不明白它
 
-95
+96
 00:05:42,366 --> 00:05:43,845
 - What century?
 - Twentieth.
 - 哪个世纪？  - 二十
 
-96
+97
 00:05:45,685 --> 00:05:49,598
 Your civilisation knows nothing
 of time-dimensional technology. Explain.
 你们的文明没有时间维度技术方面的知识。解释
 
-97
+98
 00:05:49,685 --> 00:05:53,155
 I cannot. It is a machine that
 belongs to someone called the Doctor.
 我解释不了, 那个机器属于某个叫做博士的人
 
-98
+99
 00:05:53,245 --> 00:05:54,803
 - Linx...
 - Silence!
 - Linx...  - 安静!
 
-99
+100
 00:05:54,885 --> 00:05:57,763
 This is important. My mission is threatened.
 这很重要, 我的任务有威胁了
 
-100
+101
 00:05:58,365 --> 00:05:59,514
 Explain the Doctor.
 解释一下“博士”
 
-101
+102
 00:05:59,605 --> 00:06:02,324
 He is a scientist. He was at the research centre.
 他是个科学家, 他当时在研究中心
 
-102
+103
 00:06:02,405 --> 00:06:05,283
 He said he was very fond of delta particles.
 他说他非常喜欢德尔塔粒子
 
-103
+104
 00:06:05,405 --> 00:06:07,680
 Ah. Is he here?
 啊, 他现在在这里吗？
 
-104
+105
 00:06:07,765 --> 00:06:11,678
 Yes. Somewhere. I was hiding in the machine when he left.
 是的, 在某个地方。他出来的时候我还躲在机器里
 
-105
+106
 00:06:11,765 --> 00:06:13,403
 It becomes clear.
 事情清楚了
 
-106
+107
 00:06:14,605 --> 00:06:17,119
 Linx, what of the weapon?
 Linx, 武器的事情怎样了？
 
-107
+108
 00:06:17,725 --> 00:06:19,238
 Very well.
 很好
 
-108
+109
 00:06:20,885 --> 00:06:22,238
 It is here.
 来了
 
-109
+110
 00:06:30,045 --> 00:06:33,481
 Who are you? How do you come into my castle?
 你是谁？你怎么到我的城堡里来的？
 
-110
+111
 00:06:35,125 --> 00:06:37,116
 Well, speak fellow!
 喂, 说话伙计！
 
-111
+112
 00:06:37,885 --> 00:06:39,955
 Answer me or lose your head for insolence!
 回答我, 否则你的头就没了, 无礼的家伙！
 
-112
+113
 00:06:40,045 --> 00:06:43,799
 It cannot answer you.
 It is just a suit of steel. It is empty.
 它没法回答你。它只是一堆铁片, 里面是空的
 
-113
+114
 00:06:43,885 --> 00:06:44,855
 But it walks!
 但他能走路啊
 
-114
+115
 00:06:45,325 --> 00:06:50,874
 It walks. And it fights, Irongron. Is it a good weapon?
 它能走路, 还能战斗, Irongron。这个武器还不错吧？
 
-115
+116
 00:06:51,925 --> 00:06:52,960
 Does it kill?
 它能杀人吗？
 
-116
+117
 00:06:53,045 --> 00:06:55,923
 It does nothing else and it cannot be killed.
 它就会干这个, 而且还不会被杀
 
-117
+118
 00:06:56,005 --> 00:06:59,042
 By heavens, Linx, can you make me more of these?
 天啊, Linx, 你能给我多造几个这个吗？
 
-118
+119
 00:06:59,125 --> 00:07:00,194
 If you wish.
 只要你想要
 
-119
+120
 00:07:00,285 --> 00:07:03,516
 With a few such soldiers as that, I could take the world!
 只要有几个这样的士兵, 我能夺下整个世界！
 
-120
+121
 00:07:03,605 --> 00:07:06,403
 When I have left this dull planet,
 当我离开这个无趣的星球时
 
-121
+122
 00:07:06,485 --> 00:07:10,524
 it would amuse me to think of it
 under the rule of King Irongron.
 想到它是在 Irongron 国王的统治之下, 还是会觉得有点意思的
 
-122
+123
 00:07:10,605 --> 00:07:12,835
 Very well, provide me with all that I ask for
 很好, 只要把我说的东西都提供过来
 
-123
+124
 00:07:12,925 --> 00:07:15,883
 - and I can make many more of these.
 - It's a bargain.
 - 我就能找出更多这个来  - 说定了
 
-124
+125
 00:07:15,965 --> 00:07:18,354
 By heavens, Linx, I never thought when I first saw you
 老天, Linx, 我第一次看见你的时候, 我从没想到
 
-125
+126
 00:07:18,445 --> 00:07:20,083
 that I should come to love you as a brother.
 有一天我会像一个兄弟一样爱你
 
-126
+127
 00:07:20,165 --> 00:07:22,998
 Now, show me how the iron man works.
 现在, 给我展示一下铁人是怎么用的
 
-127
+128
 00:07:23,185 --> 00:07:25,038
 Wait. The girl creature has gone.
 等一下。那个女孩生物跑掉了
 
-128
+129
 00:07:25,125 --> 00:07:28,083
 Oh, she'll not get far before one of my guards grabs her tail.
 哦, 她跑不了多远就会被我的守卫给抓回来
 
-129
+130
 00:07:28,165 --> 00:07:31,760
 Now, show me. Show me how it fights. Make it walk again.
 来, 展示一下, 展示一下它是怎么战斗的, 让它再走起来
 
-130
+131
 00:07:43,164 --> 00:07:46,315
 Sarah? Miss Smith. Come back!
 莎拉？史密斯小姐。回来！
 
-131
+132
 00:08:05,244 --> 00:08:08,156
 - Stay! Bloodaxe.
 - Sire.
 - 停下, Bloodaxe  - 大人
 
-132
+133
 00:08:14,724 --> 00:08:19,115
 - Would you fight for your life, fellow?
 - I'll fight any man, my lord.
 - 你愿意为你的性命战斗吗, 伙计？  - 我愿意跟任何人打, 大人
 
-133
+134
 00:08:19,204 --> 00:08:21,115
 (IRONGRON LAUGHING)
 
-134
+135
 00:08:31,204 --> 00:08:34,640
 - Then stand against Irongron's champion.
 - Who is this?
 - 那就来跟我的护卫打吧  - 这是谁？
 
-135
+136
 00:08:34,724 --> 00:08:38,922
 You'll see some sport now, Bloodaxe. Here, fellow.
 你也消遣一下, Bloodaxe。来吧, 伙计
 
-136
+137
 00:08:39,004 --> 00:08:41,837
 Master, this is not fair combat
 to pitch knight against bowman.
 主人, 让骑士直接对战弓箭手是不公平
 
-137
+138
 00:08:41,924 --> 00:08:44,358
 At this close range, his arrows'll
 pierce the armour's weak points.
 在这么近的距离下, 他的箭会刺穿盔甲的薄弱之处
 
-138
+139
 00:08:44,444 --> 00:08:46,321
 - Take aim, fellow.
 - I am that.
 - 瞄准, 伙计  - 我瞄好了
 
-139
+140
 00:08:46,404 --> 00:08:49,157
 Your freedom if you kill him. Stand back.
 你能否自由就看你能否杀了他了。往后退
 
-140
+141
 00:08:55,724 --> 00:08:59,601
 Your champion'll have more arrows
 in his gizzard than a thistle has spikes.
 你的护卫身上中的箭可要比刺猬的刺还多了
 
-141
+142
 00:09:06,564 --> 00:09:08,794
 My lord, look! He still moves!
 大人，快看！他还能动！
 
-142
+143
 00:09:24,324 --> 00:09:26,679
 (MEN LAUGHING)
 
-143
+144
 00:09:34,924 --> 00:09:36,676
 What fool...
 哪个傻瓜...
 
-144
+145
 00:09:44,284 --> 00:09:46,275
 Guard your back, my lord!
 注意你后面，大人！
 
-145
+146
 00:09:54,564 --> 00:09:56,043
 BLOODAXE: Captain!
 头儿！
 
-146
+147
 00:09:56,764 --> 00:09:57,879
 Psst!
 噗斯
 
-147
+148
 00:10:07,764 --> 00:10:10,232
 By heavens, Bloodaxe, 'tis like a tin tadpole.
 老天，Bloodaxe，这家伙就像个蝌蚪似的
 
-148
+149
 00:10:10,324 --> 00:10:12,280
 You cut off its head and yet it wriggles.
 砍掉它的脑袋，它还能扭动
 
-149
+150
 00:10:12,364 --> 00:10:14,924
 I'll have a word with Linx about this.
 我得跟 Linx 说说这个情况
 
-150
+151
 00:10:15,004 --> 00:10:16,232
 (GROWLING)
 
-151
+152
 00:10:17,644 --> 00:10:19,521
 (MEN LAUGHING)
 
-152
+153
 00:10:42,404 --> 00:10:43,678
 (BANGING ON DOOR)
 
-153
+154
 00:10:43,764 --> 00:10:46,403
 IRONGRON: Linx? Linx, you mongrel!
 Linx? Linx 你个杂种
 
-154
+155
 00:10:46,484 --> 00:10:49,282
 I have a bone to pick with you. Come here!
 我得跟你理论理论，过来！
 
-155
+156
 00:10:49,764 --> 00:10:51,720
 I am occupied, Irongron.
 我正忙，Irongron
 
-156
+157
 00:10:52,124 --> 00:10:55,321
 What! Out this minute or I'll burst the door down.
 什么？过了这会儿我可就把门砸碎了啊
 
-157
+158
 00:10:59,124 --> 00:11:01,797
 Well? What is it you need to say to me?
 怎么？你有什么要同我说的？
 
-158
+159
 00:11:03,204 --> 00:11:06,799
 Didn't I tell you you might not find my face pleasing?
 我有没有告诉过你，你可能会不太喜欢我的相貌
 
-159
+160
 00:11:06,884 --> 00:11:10,035
 Aye, and never was truer word spoken.
 是，再也没有比这更实在的话了
 
-160
+161
 00:11:11,004 --> 00:11:13,837
 Are they all so fair of face beyond the stars?
 星星上面的人都是这样的相貌吗
 
-161
+162
 00:11:13,924 --> 00:11:16,836
 The variety of sentient life forms is infinite.
 智慧生命的形式是无限的
 
-162
+163
 00:11:16,924 --> 00:11:20,439
 Do you think your primitive features are pleasing to me?
 就你们这原始生命的相貌，你觉得我会喜欢吗？
 
-163
+164
 00:11:20,524 --> 00:11:24,153
 -Well, what is it you want?
 -That accursed iron warrior of yours.
 - 好了，你想要什么 - 你那个下了咒语的铁武士
 
-164
+165
 00:11:24,244 --> 00:11:25,518
 You are pleased with it?
 你还满意吗？
 
-165
+166
 00:11:25,604 --> 00:11:29,153
 Some knave with a crossbow shot the control from my hand.
 某个拿十字弓的混蛋从我手上把控制器射掉了
 
-166
+167
 00:11:29,244 --> 00:11:31,997
 The iron man became crazed, tried to kill all of us.
 那个铁人就疯了，要杀了我们所有人
 
-167
+168
 00:11:32,084 --> 00:11:35,679
 Perhaps the hand control unit itself is a weakness.
 也许手持控制器本身就是个弱点
 
-168
+169
 00:11:35,764 --> 00:11:38,756
 I will make you a better warrior, Irongron.
 我会给你造一个更好的武士，Irongron
 
-169
+170
 00:11:38,844 --> 00:11:40,755
 One that'll obey your voice perhaps.
 一个服从你的声音的，或许
 
-170
+171
 00:11:40,844 --> 00:11:45,156
 First, help me kill the one I have now.
 It still struggles to slay my knaves.
 首先，帮我杀了我已经有的那个，它还在追杀我的那些混球呢
 
-171
+172
 00:11:45,244 --> 00:11:48,202
 It cannot be killed. It was never alive.
 不可能杀死它，它从来也不是活的
 
-172
+173
 00:11:48,284 --> 00:11:50,844
 Come, I will de-activate it.
 来，我来关闭它
 
-173
+174
 00:12:31,644 --> 00:12:33,362
 Professor Morrison?
 莫瑞森教授？
 
-174
+175
 00:12:36,564 --> 00:12:37,917
 Professor.
 教授
 
-175
+176
 00:12:49,844 --> 00:12:51,562
 Absolute lunacy.
 完全精神错乱了
 
-176
+177
 00:13:01,004 --> 00:13:03,120
 - Rubeish!
 - What? Who is it? 
 - Rubeish！- 啥？谁啊？
 
-177
+178
 00:13:03,644 --> 00:13:05,680
 It's me. It's the Doctor. Don't you remember?
 是我，博士。还记得我吗
 
-178
+179
 00:13:05,764 --> 00:13:07,516
 We were on the same landing at the research centre.
 在研究中心时我们在同一楼层啊
 
-179
+180
 00:13:07,604 --> 00:13:10,164
 Oh, my dear fellow. So he's got you, too, has he?
 噢，亲爱的朋友，这么说他把你也抓住了，是吗？
 
-180
+181
 00:13:10,244 --> 00:13:14,157
 No, hardly. Look, Professor,
 what's wrong with all these people?
 不，没那么容易。看看，教授，这些人是怎么回事？
 
-181
+182
 00:13:14,244 --> 00:13:17,156
 Hypnotised. Can't get a word out of them. Rotten company.
 都被催眠了，从他们那里一个字也问不出来。都烂掉了
 
-182
+183
 00:13:17,244 --> 00:13:19,474
 - Well, you seem to be all right.
 - Oh, didn't work with me.
 - 不过，你好像挺正常 - 哦，对我不起作用
 
-183
+184
 00:13:19,564 --> 00:13:21,953
 - Strong-minded, you see.
 - Yes, and very nearly blind.
 - 意志力很强的，你看  - 是的，而且很盲
 
-184
+185
 00:13:22,044 --> 00:13:24,000
 Oh, nonsense.
 噢，胡说
 
-185
+186
 00:13:24,084 --> 00:13:26,917
 Obviously working some sort of ocular device.
 显然是某种视觉屏蔽装置
 
-186
+187
 00:13:27,004 --> 00:13:28,722
 Professor, have you any idea where you are?
 教授，对于你现在在哪儿你有概念吗？
 
-187
+188
 00:13:28,804 --> 00:13:31,113
 Some medieval English castle, I suspect.
 某座中世纪英国城堡吧，我怀疑
 
-188
+189
 00:13:31,204 --> 00:13:33,354
 I've been feeling the carvings on some of these columns.
 我是从这些柱子上的雕刻来揣测的
 
-189
+190
 00:13:33,444 --> 00:13:34,877
 They're astonishingly well preserved.
 它们保存得异常地完好
 
-190
+191
 00:13:34,964 --> 00:13:37,876
 Yes, you're in a castle all right,
 but do you know the time?
 是的，你的确是在一座城堡里，但你知道时间吗？
 
-191
+192
 00:13:37,964 --> 00:13:41,957
 About four in the afternoon.
 We haven't had breakfast yet, you know.
 大约下午四点。我们连早饭还没吃呢，你看
 
-192
+193
 00:13:42,044 --> 00:13:44,558
 Doesn't feed us much. Once a day if we're lucky.
 很少给我们提供食物，运气好的话一天有一顿
 
-193
+194
 00:13:44,644 --> 00:13:46,441
 Now, Professor, listen to me.
 现在，教授，请听我说
 
-194
+195
 00:13:46,524 --> 00:13:49,243
 This may come as a shock to you so steel yourself.
 这可能会吓着你，所以做好心理准备
 
-195
+196
 00:13:49,324 --> 00:13:53,033
 You have been brought back
 to the early years of the Middle Ages.
 你们被带回到了中世纪的早期
 
-196
+197
 00:13:53,124 --> 00:13:54,682
 That's interesting.
 这很有意思
 
-197
+198
 00:13:54,764 --> 00:13:56,561
 I've always maintained that the Loop Theory of Time
 我一直就觉得＜时间循环理论＞
 
-198
+199
 00:13:56,644 --> 00:13:59,238
 shouldn't have been so arrogantly dismissed
 by Crabshaw and his cronies.
 不应该被 Crabshaw 那帮人轻易地否定了
 
-199
+200
 00:13:59,324 --> 00:14:00,723
 Tell me about it some other time.
 回头再讨论这个吧
 
-200
+201
 00:14:00,804 --> 00:14:02,522
 We've got to get out of here before Linx comes back.
 我们得在 Linx 回来之前逃离这个地方
 
-201
+202
 00:14:02,604 --> 00:14:05,164
 Not yet, Doctor. This is the opportunity of a lifetime.
 先别，博士，这可是一生中难得的机会啊
 
-202
+203
 00:14:05,244 --> 00:14:07,678
 There's some most interesting work being done here.
 这里还有很多非常有意思的成果
 
-203
+204
 00:14:07,764 --> 00:14:09,595
 If only I could see it all properly.
 最好我能把它们都研究明白
 
-204
+205
 00:14:09,684 --> 00:14:12,278
 Professor, your life is in considerable danger.
 I must insist you...
 教授，你的性命处于相当大的危险之中，我坚持要你...
 
-205
+206
 00:14:12,364 --> 00:14:15,322
 You go if you want to, Doctor. Go on, but leave me alone.
 你要走就走吧，博士，不过不要管我
 
-206
+207
 00:14:15,404 --> 00:14:18,282
 - Professor, don't you understand?
 - Stop!
 - 教授，你不明白吗？
 - 停下！
 
-207
+208
 00:14:25,964 --> 00:14:28,876
 - You are the one called the Doctor?
 - You know who I am?
 - 你就是那个叫做博士的？ - 你知道我是谁？
 
-208
+209
 00:14:28,964 --> 00:14:33,355
 I have been expecting you. Why did you follow me to this time?
 我一直在等着你呢，为什么跟我跟到这个时代来？
 
-209
+210
 00:14:33,444 --> 00:14:35,321
 To prevent your interference with the affairs of Earth.
 为了阻止你干涉地球事物
 
-210
+211
 00:14:35,404 --> 00:14:36,917
 Don't you realise the harm that you'll cause?
 你没有意识到你所造成的伤害吗？
 
-211
+212
 00:14:37,004 --> 00:14:39,677
 This primitive planet and its affairs are of no importance.
 这个原始星期的事情没什么重要的
 
-212
+213
 00:14:39,764 --> 00:14:41,277
 That's a typically Sontaran attitude.
 这是典型的桑塔人态度
 
-213
+214
 00:14:42,243 --> 00:14:44,473
 Only one thing matters, to complete the repairs to my ship
 我唯一在乎的事情，是完成我飞船的修理
 
-214
+215
 00:14:44,563 --> 00:14:47,361
 and return to the glorious war that is my destiny.
 返回到光荣的战斗中去，那才是我的归宿
 
-215
+216
 00:14:47,443 --> 00:14:51,197
 Nothing must interfere with that, nothing and nobody.
 没什么能干涉这个，没什么能，也没谁能
 
-216
+217
 00:14:54,442 --> 00:14:56,910
 I vouch for her, my lord.
 Without her help, I would not be here.
 我为她担保，大人。没有她帮忙，我不能回到这里
 
-217
+218
 00:14:57,002 --> 00:14:59,436
 She looks like one I would trust.
 她看起来像是我能信任的人
 
-218
+219
 00:14:59,522 --> 00:15:02,161
 Sit, child. Tell us where you're from.
 坐下，孩子，告诉我们你从哪里来的
 
-219
+220
 00:15:03,002 --> 00:15:05,675
 I can't. It's too difficult to explain.
 我没法说，这太难解释了
 
-220
+221
 00:15:05,802 --> 00:15:09,397
 The manner of her dress is strange,
 and the manner of her speech.
 她的穿着风格很奇怪，说话风格也是
 
-221
+222
 00:15:09,482 --> 00:15:12,360
 There is much strange at Irongron's castle, Sir Edward.
 Irongron 城堡里也有很多奇怪的事情，爱德华爵士
 
-222
+223
 00:15:12,442 --> 00:15:15,161
 I told you of the knight that fights on
 though it should be dead.
 我跟你说过吧，那个骑士本来该死了，但还可以战斗
 
-223
+224
 00:15:15,242 --> 00:15:17,472
 And one of the guards told me
 there's a man from the stars that lives among them.
 有个守卫还跟我说，有个从星星上来的人跟他们住在一起
 
-224
+225
 00:15:18,262 --> 00:15:20,395
 A mighty wizard who makes magic weapons.
 是个强大的巫师，会制造魔法武器
 
-225
+226
 00:15:20,482 --> 00:15:22,040
 A man from the stars.
 一个从星星来的人
 
-226
+227
 00:15:22,122 --> 00:15:24,352
 I've heard it said he has the help of devils and magicians.
 我听到过传言，说他得到了魔鬼和魔法师的帮助
 
-227
+228
 00:15:24,442 --> 00:15:27,832
 - It is true, Sir Edward. I have seen it.
 - Well, I know who's helping him.
 - 这是真的，爱德华爵士，我看到过 - 对了，我知道谁在帮助他了
 
-228
+229
 00:15:27,922 --> 00:15:29,514
 - It's the Doctor.
 - The doctor?
 - 是那个博士   - 博士？
 
-229
+230
 00:15:29,602 --> 00:15:32,196
 Well, that's what he calls himself,
 but he's no magician.
 哦，他自己说自己叫这个。不过他不是魔法师
 
-230
+231
 00:15:32,282 --> 00:15:35,160
 - Just some eccentric scientist.
 - What does she say?
 - 只是个心术不正的科学家 - 她说什么？
 
-231
+232
 00:15:35,242 --> 00:15:38,518
 The words are strange, but I know her meaning.
 用词有点奇怪，但我大概知道她的意思
 
-232
+233
 00:15:38,602 --> 00:15:40,991
 Who is this doctor? What do you know of him?
 这个博士是谁？对于他你都知道些什么？
 
-233
+234
 00:15:41,082 --> 00:15:43,277
 Scientists, learned men.
 科学家，学识渊博的人
 
-234
+235
 00:15:43,362 --> 00:15:46,001
 They're being taken from the place I come from,
 他们被劫持到了这里，从我来的那个地方
 
-235
+236
 00:15:46,082 --> 00:15:47,800
 and I believe that the Doctor is bringing them here
 而且我相信是博士把他们带过来的
 
-236
+237
 00:15:47,882 --> 00:15:49,361
 and handing them over to Irongron.
 把他们交给了 Irongron
 
-237
+238
 00:15:49,442 --> 00:15:51,512
 What would Irongron want with these wizards?
 Irongron 想要这些巫师干什么？
 
-238
+239
 00:15:51,602 --> 00:15:53,354
 To make him magic weapons, my lady.
 给他制造魔法武器，夫人
 
-239
+240
 00:15:53,442 --> 00:15:55,319
 Irongron thinks only of war and conquest.
 Irongron 脑子里只有战斗和征服
 
-240
+241
 00:15:55,402 --> 00:15:58,519
 Anything that makes Irongron strong can work only to our harm.
 任何能让 Irongron 强大的东西，都能给我们带来伤害
 
-241
+242
 00:15:58,602 --> 00:16:00,832
 With an army of magic knights such as I fought,
 就我斗过的那种魔法骑士，要是有了一整支军队
 
-242
+243
 00:16:00,922 --> 00:16:02,913
 Irongron could conquer the whole kingdom.
 Irongron 可以征服整个王国了
 
-243
+244
 00:16:03,002 --> 00:16:05,516
 Who knows what other sorceries
 he may soon have at his command?
 谁知道还会有什么别的魔法师会听命于他
 
-244
+245
 00:16:05,602 --> 00:16:07,832
 I'm sure the Doctor's the key to it all.
 我相信博士是这一切的关键
 
-245
+246
 00:16:07,922 --> 00:16:10,072
 He was there when one of the scientists was taken.
 其中一个科学家被劫走的时候他就在现场
 
-246
+247
 00:16:10,162 --> 00:16:12,118
 He has a machine that can travel through time.
 他有一台可以穿越时间的机器
 
-247
+248
 00:16:12,202 --> 00:16:15,558
 Well, it must be him, and somehow we've got to stop him.
 嗯，肯定是他，我们得用个什么法子阻止他
 
-248
+249
 00:16:15,642 --> 00:16:17,155
 If he's Irongron's ally,
 如果他是 Irongron 的同伙
 
-249
+250
 00:16:17,242 --> 00:16:19,995
 he sits safe within Irongron's walls.
 There's nought we can do.
 他稳稳地坐在 Irongron 的城墙内，我们拿他没办法
 
-250
+251
 00:16:20,082 --> 00:16:23,597
 Oh, there's always something you can do.
 It's just a matter of working out what.
 噢，总是会有办法的，只是具体什么办法的问题
 
-251
+252
 00:16:23,682 --> 00:16:26,594
 - A brave speech.
 - She has the heart of a lion, sire.
 - 这话很勇敢 - 她有一颗狮子一般的心，大人
 
-252
+253
 00:16:26,682 --> 00:16:28,832
 I saw her give Irongron the sharp edge of her tongue.
 我看见过他跟 Irongron 唇枪舌战
 
-253
+254
 00:16:28,922 --> 00:16:32,551
 If I had an army of girls such as you,
 I might hold this castle forever.
 如果我有一队像你这样的女孩儿，我可能就可以永远守住这座城堡了
 
-254
+255
 00:16:32,642 --> 00:16:36,191
 As it is, how can I fight Irongron and this doctor?
 就目前来说，我怎么才能打得过 Irongron 和这个博士呢？
 
-255
+256
 00:16:36,282 --> 00:16:38,876
 All right, I'll tell you how.
 好吧，我来告诉你怎么弄
 
-256
+257
 00:16:38,962 --> 00:16:41,032
 Now, the first thing we must do is grab the Doctor
 现在，我们必须做的第一件事是抓住博士
 
-257
+258
 00:16:41,122 --> 00:16:42,635
 and get him away from Irongron.
 把他从 Irongron 那里弄走
 
-258
+259
 00:16:42,722 --> 00:16:45,555
 And force him to make his magic for me? Aha, good thought.
 然后强迫让他的魔法为我效力？啊哈，好想法
 
-259
+260
 00:16:45,642 --> 00:16:47,200
 Aye, but how could it be done?
 是啊，不过怎样才能搞定呢？
 
-260
+261
 00:16:47,282 --> 00:16:50,911
 Oh, what's wrong with you?
 All it needs is a sort of commando raid.
 噢，你们怎么回事？只需要一个突击小队什么的就行了啊
 
-261
+262
 00:16:51,002 --> 00:16:52,799
 You knock out the sentries, rush into the castle,
 把哨兵敲晕，冲进城堡
 
-262
+263
 00:16:52,882 --> 00:16:54,679
 grab the Doctor, and away.
 抓住博士，然后走人
 
-263
+264
 00:16:54,762 --> 00:16:57,356
 - You've got soldiers, haven't you?
 - A handful.
 - 你手头有士兵吧，有吗
 - 有几个
 
-264
+265
 00:16:57,442 --> 00:16:59,512
 - A raid? A bold plan.
 - I'll go, Sir Edward.
 - 一个小队？这计划很大胆
 - 我去，爱德华爵士
 
-265
+266
 00:17:03,842 --> 00:17:06,436
 You resisted well, Doctor.
 你抵抗力不错，博士
 
-266
+267
 00:17:06,522 --> 00:17:08,831
 I could have increased the power,
 but I might have killed you.
 我本可以加大功率的，但可能会杀死你
 
-267
+268
 00:17:08,922 --> 00:17:10,514
 I need you alive.
 我需要你活着
 
-268
+269
 00:17:10,602 --> 00:17:13,116
 A brain of your capacity can be of use to me.
 你这样容量的脑子对我来说很有用
 
-269
+270
 00:17:13,202 --> 00:17:14,840
 Thank you.
 谢谢你
 
-270
+271
 00:17:14,922 --> 00:17:16,913
 You're not of this planet. How came you to be here?
 你不是这个星球上的，怎么来到这里的？
 
-271
+272
 00:17:17,002 --> 00:17:19,072
 Oh, I'm just a tourist. I like it here.
 哦，我只是一个游客，我喜欢这里
 
-272
+273
 00:17:19,162 --> 00:17:22,791
 - This hole in space?
 - You haven't seen it at its best.
 - 就这个破地方？ - 你没有见到它最好的一面
 
-273
+274
 00:17:22,882 --> 00:17:26,761
 It has no military value, no strategic significance.
 它没有军事价值，没有战略重要性
 
-274
+275
 00:17:26,842 --> 00:17:29,072
 Once again, a Sontaran philosophy.
 又一次，桑塔人的哲学
 
-275
+276
 00:17:29,162 --> 00:17:32,472
 I'm Commander Linx, Fifth Sontaran Army Space Fleet.
 我是军官 Linx，第五桑塔陆军太空舰队
 
-276
+277
 00:17:32,562 --> 00:17:35,759
 Ah, yes. Yes, as I thought.
 啊，是的是的，一如我所料
 
-277
+278
 00:17:36,682 --> 00:17:38,434
 A Sontaran warrior.
 一位桑塔战士
 
-278
+279
 00:17:39,362 --> 00:17:42,991
 So, the perpetual war between the Sontarans and the Rutans
 这么说，桑塔人和如坦人的持久战
 
-279
+280
 00:17:43,082 --> 00:17:47,155
 - has spread to this tiny planet, has it?
 - Emergency landing.
 - 已经扩大到这个小星球了，是吗？
 - 紧急降落而已
 
-280
+281
 00:17:47,242 --> 00:17:49,392
 I was on a reconnaissance mission
 when I was attacked
 我在一次勘测任务中被袭击了
 
-281
+282
 00:17:49,482 --> 00:17:51,791
 by a squadron of Rutan fighters.
 对方是一中队的如坦战士
 
-282
+283
 00:17:53,002 --> 00:17:55,721
 You have encountered my race before, Doctor?
 你以前碰见过我的族人，博士？
 
-283
+284
 00:17:55,802 --> 00:17:57,281
 Unfortunately.
 很不幸，是的
 
-284
+285
 00:18:00,162 --> 00:18:02,915
 I'll overlook that insult for the moment.
 我暂且忽略你这种侮辱
 
-285
+286
 00:18:03,962 --> 00:18:08,513
 - What is your native planet?
 - Gallifrey. I am a Time Lord.
 - 你的母星是哪个？ - 咖喱弗瑞，我是个时间领主
 
-286
+287
 00:18:08,602 --> 00:18:10,558
 Ah, yes.
 啊，是了
 
-287
+288
 00:18:10,642 --> 00:18:13,918
 A race of great technical achievement,
 一个有很高技术成就的种族
 
-288
+289
 00:18:14,002 --> 00:18:16,470
 but lacking the morale to withstand a determined assault.
 但缺乏士气, 无法承受坚决的攻击
 
-289
+290
 00:18:16,562 --> 00:18:20,555
 - Oh, you think so?
 - I'm only a lowly commander, Doctor.
 - 哦，你这么想？ - 我只是个低层军官，博士
 
-290
+291
 00:18:20,642 --> 00:18:24,317
 I merely quote from the appreciation
 circulated by our military intelligence.
 我只不过是引用我们军队情报部门散发的评价
 
-291
+292
 00:18:24,402 --> 00:18:25,551
 Well, you'd be well advised
 好吧，我倒是强烈建议你
 
-292
+293
 00:18:25,642 --> 00:18:28,156
 never to put that appreciation to the test, Linx.
 永远不会去验证那些评价，Linx
 
-293
+294
 00:18:28,242 --> 00:18:32,997
 My only ambition at the moment is to return to my squadron.
 在这一刻我唯一的夙愿，是返回我的中队
 
-294
+295
 00:18:33,762 --> 00:18:37,437
 You can be of value to me. You can help repair this ship.
 你对我来说是有价值的，可以帮忙维修飞船
 
-295
+296
 00:18:37,522 --> 00:18:39,797
 You seem to have acquired some help already.
 你似乎已经获得了一些帮助
 
-296
+297
 00:18:39,882 --> 00:18:43,670
 Primitives. I adapted my ship's frequency modulator
 很有限。我改造了飞船的频率调制器
 
-297
+298
 00:18:43,762 --> 00:18:46,993
 and projected myself forward as far as I could.
 尽力将我延时间线向前投射
 
-298
+299
 00:18:47,082 --> 00:18:50,438
 Unfortunately, I only had the power
 to reach the 20th century.
 不幸的是，我的功率只够我到达20世纪
 
-299
+300
 00:18:50,522 --> 00:18:51,955
 From which you stole the equipment
 你从那里偷了这些设备
 
-300
+301
 00:18:52,042 --> 00:18:53,760
 and the skilled help that you couldn't find here.
 还有那些你从这里找不到的技术援助
 
-301
+302
 00:18:53,842 --> 00:18:54,911
 Yes.
 是的
 
-302
+303
 00:18:55,882 --> 00:18:57,918
 But the work goes slowly.
 但工作进展很慢
 
-303
+304
 00:18:58,842 --> 00:19:02,039
 Commander Linx, if you will return
 these people to their own time,
 指挥官 Linx，如果你愿意将这些人送回他们原来的时间
 
-304
+305
 00:19:02,122 --> 00:19:03,396
 I might possibly consider helping you.
 我或许可以考虑帮你
 
-305
+306
 00:19:03,482 --> 00:19:06,280
 Do not attempt to bargain with me, Doctor!
 别试图和我讲条件，博士
 
-306
+307
 00:19:08,042 --> 00:19:10,681
 Take that seat there by the controls.
 去控制开关那边坐着
 
-307
+308
 00:19:11,402 --> 00:19:12,596
 Move.
 走
 
-308
+309
 00:19:15,682 --> 00:19:18,150
 You're interfering with human evolution, Linx.
 你在干涉人类进化史，Linx
 
-309
+310
 00:19:18,242 --> 00:19:21,518
 Don't you realise the damage
 that you're going to do to them?
 你没有意识到你会对他们造成的伤害吗？
 
-310
+311
 00:19:21,602 --> 00:19:24,275
 I have no interest in human evolution.
 我对人类进化没有兴趣
 
-311
+312
 00:19:30,602 --> 00:19:33,116
 I'm placing you under auto-control, Doctor,
 我要将你放置于自动控制之下，博士
 
-312
+313
 00:19:33,202 --> 00:19:35,762
 to ensure your complete cooperation.
 以确保你会完全合作
 
-313
+314
 00:19:35,842 --> 00:19:38,834
 Human beings must be allowed
 to develop at their own pace.
 人类必须要让他们以自己的步伐演进
 
-314
+315
 00:19:38,922 --> 00:19:41,482
 At this period, they're just a few steps away from barbarism.
 在这个阶段，他们刚刚脱离野蛮状态，还没走几步
 
-315
+316
 00:19:41,562 --> 00:19:46,033
 You will monitor progress rates on
 the input panel against the programmer.
 你得在这个输入面板上监控程序员的进度
 
-316
+317
 00:19:48,202 --> 00:19:51,114
 Now I must leave you in charge for a time.
 现在我必须得让你自己负责一段时间了
 
-317
+318
 00:20:02,762 --> 00:20:04,320
 You give them breech-loading guns now,
 你现在就给他们致命的枪械
 
-318
+319
 00:20:04,402 --> 00:20:06,711
 they'll have atomic weapons by the 17th century.
 他们不到17世纪就会有原子武器了
 
-319
+320
 00:20:07,481 --> 00:20:09,073
 They'll have the capability to destroy their own planet
 然后他们就有了能摧毁他们星球的能力
 
-320
+321
 00:20:09,161 --> 00:20:10,719
 before they're civilised enough to handle it!
 但他们的文明还不能处理这类事情
 
-321
+322
 00:20:12,320 --> 00:20:16,916
 You would do well to concentrate
 on the task I have given you, Doctor.
 你要是聚焦在我给你的任务上的话，还是能做好的，博士
 
-322
+323
 00:20:17,000 --> 00:20:18,831
 Answer the programmer.
 回应程序员
 
-323
+324
 00:20:36,560 --> 00:20:38,039
 (ZAPPING)
 
-324
+325
 00:20:56,400 --> 00:20:58,038
 I still say this is no work for women.
 我仍然认为这不是女人干的事情
 
-325
+326
 00:20:58,120 --> 00:20:59,519
 I wouldn't have missed this for anything.
 我不想错过这里任何一件事
 
-326
+327
 00:20:59,600 --> 00:21:02,672
 Anyway, I'm the only one who knows
 what the Doctor looks like.
 不管怎么说，我是唯一知道博士长什么样子的
 
-327
+328
 00:21:02,760 --> 00:21:04,398
 Come on, this way.
 快来，这边
 
-328
+329
 00:21:08,160 --> 00:21:12,551
 Ah, now these are more to my taste
 than your iron man, Linx.
 啊，比起铁人来这些更对我的口味，Linx
 
-329
+330
 00:21:12,640 --> 00:21:15,677
 I will still perfect the fighting robot
 for your army, Irongron.
 我还在为你的军队完善战斗机器人，Irongron
 
-330
+331
 00:21:15,760 --> 00:21:17,398
 We'll take these weapons to the men, Bloodaxe,
 把这些武器散发下去，Bloodaxe
 
-331
+332
 00:21:17,480 --> 00:21:20,119
 and I shall instruct them in their use.
 我会教他们怎么使用
 
-332
+333
 00:21:20,200 --> 00:21:24,159
-Tomorrow morning, at dawn,
-we march on Sir Edward's castle.
+Tomorrow morning, at dawn, we march on Sir Edward's castle.
 明天早上，天一亮，我们就朝爱德华爵士的城堡进发
 
-333
+334
 00:21:24,240 --> 00:21:25,798
 Yes, Captain.
 好的，头儿
 
-334
+335
 00:21:25,880 --> 00:21:28,519
 By sunset he'll be feeding the crows.
-到日落就可以拿他喂乌鸦了
+不到日落就可以拿他喂乌鸦了
 
-335
+336
 00:21:34,920 --> 00:21:36,911
 Rubeish! Professor, over here quickly.
 Rubeish! 教授，快过来
 
-336
+337
 00:21:37,000 --> 00:21:38,558
 Is that you, Doctor? I thought you were going.
 是你吗，博士？我以为你已经走了
 
-337
+338
 00:21:38,640 --> 00:21:41,438
 - A change of plan. I want your help.
 - Are you wearing a hat?
 - 计划有变，我需要你的帮助
 - 你戴的是一顶帽子吗？
 
-338
+339
 00:21:41,520 --> 00:21:43,238
 Behind me you'll find a panel. There's a switch on it.
 在我身后你能找到一个面板，上面有个开关
 
-339
+340
 00:21:43,320 --> 00:21:44,753
 It's dangerous, overheats the brain.
 这很危险，可能烧坏你的脑子
 
-340
+341
 00:21:45,799 --> 00:21:48,996
 - Panel... Oh, yes, I've got it.
 - Right, turn the switch.
 - 面板...噢，是有，我找到了  - 好，扳动开关
 
-341
+342
 00:21:49,079 --> 00:21:51,149
 I've always thought that's why judges are so peculiar.
 我一直在想为什么法官都如此特别
 
-342
+343
 00:21:51,239 --> 00:21:52,592
 It's those wigs they wear.
 原来是他们所戴的假发
 
-343
+344
 00:21:52,679 --> 00:21:54,749
 No! No! That's the wrong... No, no, man!
 不，错了！不是那个... 不，不，伙计
 
-344
+345
 00:21:54,839 --> 00:21:57,558
 Sorry. I do wish I'd brought my glasses.
 抱歉，我真期望我把眼镜也带过来了
 
-345
+346
 00:21:58,439 --> 00:22:00,714
 Yes, so do I. It was the wrong one.
 是，我也期望。刚才搞错了
 
-346
+347
 00:22:00,799 --> 00:22:01,948
 Is this the one?
 这个对了吗？
 
-347
+348
 00:22:11,879 --> 00:22:15,633
 Yes, that was the one.
 Thank you very much indeed, Professor.
 是的，就是这个。真的非常谢谢你，教授
 
-348
+349
 00:22:15,719 --> 00:22:20,349
 - Not at all, Smith.
 - Smith. Yes, of course.
 - 不用谢，史密斯 - 史密斯？是了，当然是
 
-349
+350
 00:22:20,439 --> 00:22:22,828
 Will you excuse me? I've got to go and find a young girl.
 我现告辞了，我必须得走了，得去找一个年轻女孩儿
 
-350
+351
 00:22:22,919 --> 00:22:24,955
 I'll see you later, I hope.
 回头再见，我期望
 
-351
+352
 00:22:26,159 --> 00:22:30,072
 Young girl? I should've thought
 he was a bit old for that sort of thing.
 年轻女孩儿？我原本以为他有点太老了，不适合那类事情
 
-352
+353
 00:22:30,159 --> 00:22:31,228
 Oh, well.
 噢，好吧
 
-353
+354
 00:22:34,439 --> 00:22:36,316
 Ah, good evening.
 啊，晚上好
 
-354
+355
 00:22:39,039 --> 00:22:41,394
 Get after him! Call the guards!
 去追他！叫守卫！
 
-355
+356
 00:22:41,479 --> 00:22:43,435
 (SHOUTING)
 
-356
+357
 00:22:46,559 --> 00:22:48,311
 Catch him!
 抓住他！
 
-357
+358
 00:22:57,959 --> 00:22:59,677
 (SHOUTING)
 
-358
+359
 00:22:59,759 --> 00:23:02,068
 Grab him! Grab him!
 抓住他，抓住他！
 
-359
+360
 00:23:12,079 --> 00:23:14,115
 (SHOUTING)
 
-360
+361
 00:23:16,079 --> 00:23:18,468
 He who strikes Irongron dies!
 敢犯我 Irongron 者死！
