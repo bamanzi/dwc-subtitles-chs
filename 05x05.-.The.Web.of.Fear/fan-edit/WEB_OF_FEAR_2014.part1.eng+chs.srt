@@ -1,8 +1,7 @@
 1
 00:00:10,267 --> 00:00:13,498
-- Mr Silverstein?
-- Yes. Who are you?
-- Silverstein 先生吗?  - 是的, 你是谁?
+- Mr Silverstein?   - Yes. Who are you?
+- Silverstein 先生吗?  - 是, 你是谁?
 
 2
 00:00:13,667 --> 00:00:16,227
@@ -50,14 +49,13 @@ You were supposed to be meeting me.
 - 是吗？    - 在机场
 
 11
-00:00:43,867 --> 00:00:47,940
-What's wrong? You send me a cable
-saying you're in grave trouble.
-怎么了？你给我发了电报说你遇到大麻烦了
+00:00:43,867 --> 00:00:48,440
+Father, what is the matter? You send me a cable saying you're in grave trouble.
+父亲，是怎么回事？你给我发了电报，说你遇到大麻烦了
 
 12
-00:00:48,107 --> 00:00:51,622
-- I fly half the way round the world...
+00:00:48,507 --> 00:00:51,622
+- And I fly half the way round the world...
 - Trouble? Yes.
 - 我飞了大半个地球...   - 麻烦? 是的
 
@@ -72,438 +70,420 @@ A great deal of trouble. It's that thing.
 - 雪怪？      - 嗯
 
 15
-00:00:58,747 --> 00:01:02,023
+00:00:58,747 --> 00:01:02,423
 You're a stupid old fool, Julius Silverstein!
 你是个愚蠢的糊涂蛋, Julius Silverstein！
 
 16
-00:01:02,187 --> 00:01:07,181
-ME the fool? You would like me to be the fool
-and give you back my Yeti, huh?
+00:01:02,787 --> 00:01:07,581
+ME the fool? You would like me to be the fool and give you back my Yeti, huh?
 我是糊涂蛋？你就期望我是糊涂蛋, 好把雪怪还给你, 哈？
 
 17
-00:01:07,347 --> 00:01:10,737
-You must, man. Don't you understand?
-It's dangerous.
+00:01:07,847 --> 00:01:11,237
+You must, man. Don't you understand? It's dangerous.
 你必须, 伙计．你不明白吗？它太危险了
 
 18
-00:01:10,907 --> 00:01:16,425
-For 30 years this stands here in my museum,
-and now he tells me it is dangerous!
+00:01:11,407 --> 00:01:16,925
+For 30 years this stands here in my museum, and now he tells me it is dangerous!
 在我的博物馆放了３０年, 现在你跟我说它很危险！
 
 19
-00:01:16,587 --> 00:01:20,978
+00:01:17,087 --> 00:01:21,478
 - I wish I'd never brought it back from Tibet.
 - Father, what has happened?
 - 我期望我没有把它从西藏带回来   - 父亲, 发生了什么？
 
 20
-00:01:21,147 --> 00:01:25,584
-The silly old goat won't listen to me.
-I've told him, warned him.
+00:01:21,647 --> 00:01:26,084
+The silly old goat won't listen to me. I've told him, warned him.
 这头老笨山羊不听我的．我告诉他了, 警告他了
 
 21
-00:01:25,747 --> 00:01:30,662
+00:01:26,247 --> 00:01:31,162
 - Damn it, he knows it's a robot!
 - But, Father, the Yeti isn't dangerous.
-- 蛋, 他知道这就是个机器人   - 但是, 父亲, 雪怪并不危险
+- 蛋, 他知道它是个机器人   - 但是, 父亲, 雪怪并不危险
 
 22
-00:01:30,827 --> 00:01:33,864
+00:01:31,327 --> 00:01:34,364
 It can't work unless it has a control unit.
 没有那个控制器它是不会启动的
 
 23
-00:01:34,027 --> 00:01:36,302
+00:01:34,527 --> 00:01:36,802
 But I've done it, Anne!
 但我搞定了, Anne！
 
 24
-00:01:36,467 --> 00:01:38,856
+00:01:36,967 --> 00:01:39,356
 I HAVE reactivated the control unit.
 我已经重新激活了控制器
 
 25
-00:01:39,947 --> 00:01:42,541
+00:01:40,447 --> 00:01:43,041
 But, Father, this is wonderful news.
 啊, 父亲, 这是非常好的消息啊
 
 26
-00:01:42,707 --> 00:01:46,177
-Is it? Yes, I suppose it would be,
-except for one thing.
+00:01:43,207 --> 00:01:46,677
+Is it? Yes, I suppose it would be, except for one thing.
 是吗？是, 我也觉得是, 除了一件事
 
 27
-00:01:46,347 --> 00:01:48,338
+00:01:46,847 --> 00:01:48,838
 What?
 什么？
 
 28
-00:01:48,507 --> 00:01:50,304
+00:01:49,007 --> 00:01:50,804
 The sphere - it's gone!
 那个球  - 不见了！
 
 29
-00:01:50,467 --> 00:01:54,699
-It's disappeared! You must let me
-have the Yeti back, Julius.
-它小时了！你必须得让我把雪怪要回来, Julius
+00:01:50,967 --> 00:01:55,199
+It's disappeared! You must let me have the Yeti back, Julius.
+它消失了！你必须得让我把雪怪要回来, Julius
 
 30
-00:01:56,947 --> 00:01:58,744
+00:01:57,447 --> 00:01:59,244
 Make him understand, Anne!
 你跟他说明白吧, Anne!
 
 31
-00:01:58,907 --> 00:02:00,898
+00:01:59,407 --> 00:02:01,398
 I understand.
 我很明白
 
 32
-00:02:01,067 --> 00:02:03,740
+00:02:01,567 --> 00:02:04,240
 I buy the Yeti off you 30 years ago.
 我30年前从你手里买走了雪怪
 
 33
-00:02:03,907 --> 00:02:06,501
+00:02:04,407 --> 00:02:07,001
 Now, it is valuable.
 现在, 它值钱了
 
 34
-00:02:06,667 --> 00:02:10,057
+00:02:07,167 --> 00:02:10,557
 You try to scare me, take your Yeti back.
-你就试图吓唬吧, 好把你的雪怪要回去
+你就试图吓唬我, 好把你的雪怪要回去
 
 35
-00:02:10,227 --> 00:02:12,218
-Why? Money!
-为什么？钱！
+00:02:10,727 --> 00:02:14,318
+Why? Money! You want to rob me!
+为什么？钱！你想打劫我！
 
 36
-00:02:12,387 --> 00:02:16,585
-- You want to rob me!
-- I'll buy the thing back if that's what you want!
-- 你想抢劫我！   - 我可以把它买回来, 如果你想要的是这个
+00:02:14,687 --> 00:02:17,085
+I'll buy the thing back if that's what you want!
+我可以把它买回来, 如果你想要的是这个
 
 37
-00:02:17,587 --> 00:02:20,659
+00:02:18,087 --> 00:02:21,159
 No, no. It's priceless.
 不, 不, 它是无价的
 
 38
-00:02:20,827 --> 00:02:23,580
+00:02:21,327 --> 00:02:24,080
 The only one in the world, and it is mine.
 全世界独一无二的, 就我才有
 
 39
-00:02:23,747 --> 00:02:25,544
+00:02:24,247 --> 00:02:26,044
 - You fool!  - Thief!
 - 你糊涂！    - 小偷！
 
 40
-00:02:25,707 --> 00:02:28,016
+00:02:26,207 --> 00:02:28,516
 - I'm not a thief.   - Swindler!
 - 我不是小偷      - 骗子！
 
 41
-00:02:28,187 --> 00:02:29,540
+00:02:28,687 --> 00:02:30,040
 Stubborn old goat!
 顽固的老山羊！
 
 42
-00:02:29,707 --> 00:02:33,256
+00:02:30,207 --> 00:02:33,756
 - Father!   - Take him away - out of my house!
 - 父亲！   - 把他带走, 离开我的房子！
 
 43
-00:02:33,427 --> 00:02:35,418
-Perhaps you've made a mistake.
-也许是你搞错了
+00:02:33,927 --> 00:02:36,818
+Father, perhaps you've made a mistake.
+父亲，也许是你搞错了
 
 44
-00:02:35,587 --> 00:02:40,138
-You've put the sphere away
-somewhere in your laboratory and forgotten it.
+00:02:36,887 --> 00:02:40,738
+You've put the sphere away somewhere in your laboratory and forgotten it.
 你把那个球放在实验室里某个地方, 然后忘了
 
 45
-00:02:40,307 --> 00:02:43,777
+00:02:40,807 --> 00:02:44,277
 - You've done it before.
 - No. I've looked everywhere.
 - 你以前也干过这事   - 不, 我都找遍了
 
 46
-00:02:43,947 --> 00:02:47,986
-Let's go home and look again, shall we?
-You know what you're like.
-我们回家去, 再找找, 行吗？我知道你是怎样的
+00:02:44,447 --> 00:02:48,886
+Let's go home and look again, shall we? You know what you're like.
+我们回家去, 再找找, 行吗？你知道你是怎样的
 
 47
-00:02:48,147 --> 00:02:49,500
+00:02:48,947 --> 00:02:50,000
 Yes, but suppose...
 好, 不过要是...
 
 48
-00:02:49,667 --> 00:02:53,740
-Let's go and have a quiet dinner,
-and you can tell me all about it.
+00:02:50,167 --> 00:02:54,240
+Let's go and have a quiet dinner, and you can tell me all about it.
 走吧, 一起安静地用个晚餐, 你跟我详细说说
 
 49
-00:02:53,907 --> 00:02:56,580
+00:02:54,407 --> 00:02:57,080
 Then we'll go home and look for the sphere.
 然后我们回家, 找那个球
 
 50
-00:02:57,627 --> 00:03:01,222
-Well, all right...
-But I warned you, Julius! I warned you!
+00:02:58,127 --> 00:03:01,722
+Well, all right... But I warned you, Julius! I warned you!
 好, 行吧...但我警告过你了, Julius! 我警告过你了
 
 51
-00:03:01,387 --> 00:03:03,059
+00:03:01,887 --> 00:03:03,559
 Get out! Take him away!
 出去！把他带走！
 
 52
-00:03:03,227 --> 00:03:07,106
-Nobody destroys Julius Silverstein's collection!
-Nobody!
+00:03:03,727 --> 00:03:07,606
+Nobody destroys Julius Silverstein's collection! Nobody!
 没谁能破坏 Julius Silverstein 的收藏品！没谁！
 
 53
-00:03:07,267 --> 00:03:09,542
+00:03:07,767 --> 00:03:10,042
 - Come on, Father.
 - The Yeti's mine!
 - 得啦, 父亲   - 雪怪是我的！
 
 54
-00:03:09,707 --> 00:03:12,267
+00:03:10,207 --> 00:03:12,767
 You can't scare me with your mad stories.
 你别想用你的疯狂故事吓住我
 
 55
-00:03:13,347 --> 00:03:15,497
+00:03:13,847 --> 00:03:15,997
 Out! Out!
 出去！出去！
 
 56
-00:03:46,907 --> 00:03:49,341
+00:03:47,407 --> 00:03:49,841
 Travers...
 
 57
-00:03:49,507 --> 00:03:53,056
-It is you? I am not frightened
-by your stupid tricks!
+00:03:50,007 --> 00:03:53,856
+It is you? I am not frightened by your stupid tricks!
 是你吗？我不会被你的愚蠢伎俩吓倒的
 
 58
-00:03:53,227 --> 00:03:55,218
+00:03:53,927 --> 00:03:55,718
 Travers! I know it's you.
 Travers! 我知道是你
 
 59
-00:03:55,387 --> 00:03:56,740
+00:03:55,887 --> 00:03:57,240
 I'm not a fool!
 我可不糊涂！
 
 60
-00:04:24,427 --> 00:04:26,179
+00:04:24,927 --> 00:04:26,679
 Agh!
 啊！
 
 61
-00:04:28,000 --> 00:04:48,000
+00:04:28,500 --> 00:04:48,500
 (theme)
 
 62
-00:04:50,000 --> 00:04:53,000
+00:04:50,500 --> 00:04:53,500
 <b>The Web of Fear</b>
 <b>Doctor Who 1963 05x05 (whopix fan edit)</b>
 <b>神秘博士老版 第五季第五集 恐惧之网 （粉丝剪辑版）</b>
 
 63
-00:05:10,087 --> 00:05:12,078
+00:05:10,587 --> 00:05:11,978
 Some sort of grille.
 某种栅栏
 
 64
-00:05:12,247 --> 00:05:14,681
+00:05:12,247 --> 00:05:15,181
 Don't say you've landed us in a prison!
 可别说你降落到了一座监狱里！
 
 65
-00:05:14,847 --> 00:05:17,156
+00:05:15,347 --> 00:05:17,656
 It could be the dungeons of a castle.
 可能是一座城堡的地牢
 
 66
-00:05:17,327 --> 00:05:18,680
+00:05:17,827 --> 00:05:19,180
 It's so dark.
 好黑呀
 
 67
-00:05:18,847 --> 00:05:20,838
+00:05:19,347 --> 00:05:21,338
 Ah, steps.
 啊, 台阶
 
 68
-00:05:21,007 --> 00:05:23,316
+00:05:21,507 --> 00:05:23,816
 Come along. Be careful.
 过来, 小心点
 
 69
-00:05:31,087 --> 00:05:32,805
+00:05:31,387 --> 00:05:33,105
 Yes...
 好...
 
 70
-00:05:32,967 --> 00:05:34,958
+00:05:33,467 --> 00:05:35,458
 It seems to be a large room.
 看起来是个很大的房间
 
 71
-00:05:35,127 --> 00:05:37,118
+00:05:35,627 --> 00:05:37,618
 Tiled walls.
 瓷砖墙
 
 72
-00:05:37,287 --> 00:05:39,278
+00:05:37,787 --> 00:05:39,778
 Curved ceiling.
 拱形天花板
 
 73
-00:05:39,447 --> 00:05:41,358
+00:05:39,947 --> 00:05:41,858
 Come on.
 快来
 
 74
-00:05:46,047 --> 00:05:48,038
+00:05:46,547 --> 00:05:48,538
 The floor seems to end here.
 地面好像到这里就没有了
 
 75
-00:05:48,207 --> 00:05:51,916
+00:05:48,707 --> 00:05:52,416
 There's a sort of trench. Look.
 这里有某种壕沟, 你看
 
 76
-00:05:52,087 --> 00:05:56,524
+00:05:52,787 --> 00:05:57,224
 - Hey, Doctor. Come and look at this.
 - What have you found, Victoria?
 - 嘿, 博士, 来看看这个   - 你发现了什么, Victoria？
 
 77
-00:05:56,687 --> 00:05:58,678
+00:05:57,287 --> 00:05:59,178
 See for yourself.
 你自己看看
 
 78
-00:06:01,367 --> 00:06:04,677
+00:06:01,867 --> 00:06:05,177
 "Covent... Garden... "
 "科文特...花园..."
-<i>（注：伦敦西部一街区名称, 特色是
-皇家歌剧院和诸多的小商店）</i>
+<i>（注：伦敦西部一街区名称, 特色是皇家歌剧院和诸多的小商店）</i>
 
 79
-00:06:04,847 --> 00:06:10,285
-Yes, of course! It's an underground station.
-We're standing on the platform.
+00:06:05,347 --> 00:06:10,785
+Yes, of course! It's an underground station. We're standing on the platform.
 是了, 当然！这是一个地下车站, 我们站在月台上
 
 80
-00:06:10,447 --> 00:06:13,280
+00:06:10,947 --> 00:06:13,780
 - Underground station?   - Underground trains.
 - 地下车站？   - 地铁
 
 81
-00:06:13,447 --> 00:06:17,486
+00:06:13,947 --> 00:06:17,986
 - A little after your time, Victoria.
 - Is it always as dark as this?
 - 略晚于你的时代, Victoria  - 总是这么黑吗？
 
 82
-00:06:17,647 --> 00:06:22,243
-No, it's probably the middle of the night.
-Come on. Let's go up top.
+00:06:18,147 --> 00:06:22,743
+No, it's probably the middle of the night. Come on. Let's go up top.
 不．只是现在很可能是午夜．快来, 我们到顶上去
 
 83
-00:06:25,327 --> 00:06:30,655
+00:06:25,827 --> 00:06:30,855
 - Professor Travers is here, sir.
 - Why have I been brought here? Who are you?
 - Travers 教授来了, 先生  - 为什么带我来这儿？你是谁？
 
 84
-00:06:30,727 --> 00:06:32,404
+00:06:30,957 --> 00:06:32,904
 - Knight.       - Never heard of you.
 - 我叫 Knight   - 从没听说过
 
 85
-00:06:32,567 --> 00:06:34,558
+00:06:33,067 --> 00:06:35,058
 Captain Knight. OK, Corporal.
 Knight 上校。好了, 下士
 
 86
-00:06:35,607 --> 00:06:37,484
+00:06:36,107 --> 00:06:37,984
 It's no good shouting at me.
 朝我喊可没什么好处
 
 87
-00:06:37,647 --> 00:06:40,036
+00:06:38,147 --> 00:06:40,536
 - I didn't ask for you.   - Who did, then?
 - 不是我叫你来的   - 那是谁？
 
 88
-00:06:40,207 --> 00:06:43,722
-- Your daughter.
-- Anne? Just like her mother.
+00:06:40,707 --> 00:06:44,222
+- Your daughter.   - Anne? Just like her mother.
 - 你女儿   - Anne? 真像她妈
 
 89
-00:06:43,887 --> 00:06:45,798
+00:06:44,387 --> 00:06:46,298
 Always interfering in things she knows nothing about!
 总是在她啥也不懂的事情上插手
 
 90
-00:06:45,967 --> 00:06:48,925
-I understood that you'd sent for her
-to come back from America to help you.
+00:06:46,467 --> 00:06:49,425
+I understood that you'd sent for her to come back from merica to help you.
 我还以为是你把她从美国叫回来帮你的
 
 91
-00:06:49,087 --> 00:06:50,725
+00:06:49,587 --> 00:06:51,225
 What do you want me for, anyway?
 你要我做什么？
 
 92
-00:06:50,887 --> 00:06:53,360
+00:06:51,387 --> 00:06:53,860
 I don't. I consider this to be a military matter./
 不是我要。我认为这是一个军事问题
 
 93
-00:06:53,833 --> 00:06:57,360
+00:06:54,333 --> 00:06:57,860
 Well, you haven't much success so far, haven you?
 那你到目前也还没获得什么成功, 是吧？
 
 94
-00:07:01,607 --> 00:07:05,361
+00:07:02,107 --> 00:07:05,861
 Army? What the devil do they know about it?
 军方？他们到底对这个知道些什么？
 
 95
-00:07:09,687 --> 00:07:13,805
+00:07:09,887 --> 00:07:14,305
 - The Doctor was wrong!
 - It's not night-time. It's broad daylight.
 - 博士搞错了！   - 现在不是晚上, 是光天白日
 
 96
-00:07:16,007 --> 00:07:20,797
+00:07:15,707 --> 00:07:20,897
 - Just let me get my breath... Those stairs!
 - It looks like we're locked in.
 - 且让我喘口气...这些台阶！   - 看来我们被锁在里面了
@@ -514,302 +494,293 @@ Army? What the devil do they know about it?
 - 这很奇怪啊     - 博士...
 
 98
-00:07:23,047 --> 00:07:25,561
+00:07:23,347 --> 00:07:25,861
 - Yes?    - Listen.
 - 什么？   - 听
 
 99
-00:07:25,727 --> 00:07:27,240
+00:07:26,027 --> 00:07:27,540
 I can't hear anything.
 我什么也没听到
 
 100
-00:07:28,847 --> 00:07:31,720
+00:07:29,147 --> 00:07:32,020
 Oh... It IS quiet. I see what you mean./
 噢...是太安静了．我明白你的意思了
 
 101
-00:07:31,850 --> 00:07:35,320
+00:07:32,150 --> 00:07:35,620
 The middle of London. There should be some noise.
 伦敦市中心, 应该会有些噪音才对
 
 102
-00:07:35,487 --> 00:07:38,240
+00:07:35,787 --> 00:07:38,840
 Hey, Doctor. There's an old man over there. Let's ask him.
 嘿，博士，那儿有个老人, 我们去问问他
 
 103
-00:07:38,407 --> 00:07:40,318
+00:07:38,907 --> 00:07:40,818
 Yes, go on.
 对, 去吧
 
 104
-00:07:42,487 --> 00:07:44,159
+00:07:42,787 --> 00:07:44,459
 Excuse me...
 打扰一下...
 
 105
-00:07:45,327 --> 00:07:47,318
+00:07:45,627 --> 00:07:47,618
 Excuse me...
 打扰一下...
 
 106
-00:07:51,047 --> 00:07:52,644
+00:07:51,247 --> 00:07:52,844
 Who are you?
 你是谁？
 
 107
-00:07:52,707 --> 00:07:55,516
+00:07:53,007 --> 00:07:55,616
 - Harold Chorley. London Television.
 - Oh, What? 
 - Harold Chorley. 伦敦电视台   - 噢，什么？
 
 108
-00:07:55,587 --> 00:07:58,126
+00:07:55,637 --> 00:07:58,426
 Television? Never watch it. Are you an actor or something?
 电视台？从来没看过．你是个演员什么的吗？
 
 109
-00:07:59,401 --> 00:08:01,226
+00:07:59,701 --> 00:08:01,526
 Journalist, actually.
 新闻记者, 实际上
 
 110
-00:08:01,687 --> 00:08:06,884
-The government decided to only allow one
-correspondent down here. The press chose me.
+00:08:01,787 --> 00:08:07,184
+The government decided to only allow one correspondent down here. The press chose me.
 政府决定允许派一个新闻记者下来, 台里选了我
 
 111
-00:08:07,347 --> 00:08:08,724
+00:08:07,447 --> 00:08:08,824
 Oh, yeah?
 噢, 那又怎样？
 
 112
-00:08:09,487 --> 00:08:14,677
-Tell me, Professor, will you be in charge
-of the scientific section, or will your daughter?
+00:08:09,587 --> 00:08:14,777
+Tell me, Professor, will you be in charge of the scientific  ection, or will your daughter?
 告诉我，教授，是你负责这里的科学组吗？还是你女儿
 
 113
-00:08:14,847 --> 00:08:16,838
+00:08:15,147 --> 00:08:17,138
 Mind your own business!
 管好你自己的事！
 
 114
-00:08:17,687 --> 00:08:21,700
-How long do you think it will take you
-to come up with the answer?
+00:08:17,787 --> 00:08:21,600
+And how long do you think it will take you to come up with the answer?
 你觉得你需要多久才能得到答案？
 
 115
-00:08:21,767 --> 00:08:25,482
+00:08:21,667 --> 00:08:25,382
 - One week? Three, perhaps?
 - How the hell should I know?
 - 一周？三周, 也许要？  - 我怎么可能知道？
 
 116
-00:08:25,647 --> 00:08:27,478
+00:08:25,447 --> 00:08:27,778
 - Is that working?
 - Of course.
 - 那东西好使吗？   - 当然
 
 117
 00:08:28,467 --> 00:08:30,860
-It's more than likely
-we may not be able to defeat this menace.
+It's more than likely we may not be able to defeat this menace.
 感觉更像是, 我们可能无法消除这场危机
 
 118
 00:08:30,927 --> 00:08:37,303
-London...the whole of England might be completely
-wiped out. There - did you get that?
-伦敦...整个英格兰都可能被完全毁灭．喏 - 你明白了吗？
+London...perhaps the whole of England might be completely wiped out. There - did you get that?
+伦敦...也许整个英格兰都可能被完全毁灭．喏 - 你明白了吗？
 
 119
-00:08:59,627 --> 00:09:02,699
-- What are you doing?
+00:08:59,727 --> 00:09:02,199
+- What are you doing, Doctor?
 - Just confirming something.
-- 你要干什么去？  - 去确认点事情
+- 你在干什么，博士？  - 只是确认点事情
 
 120
-00:09:02,867 --> 00:09:06,985
-Just as I thought.
-There haven't been any trains here for some time.
-正如我说料, 这里有段时间没跑地铁了
+00:09:02,667 --> 00:09:07,185
+Yes, just as I thought. There haven't been any trains here for some time.
+是的，正如我所料, 这里有段时间没跑地铁了
 
 121
-00:09:07,147 --> 00:09:09,138
+00:09:07,247 --> 00:09:09,238
 What's that over there?
 那边是什么？
 
 122
-00:09:14,947 --> 00:09:19,020
-It's a power cable.
-I wonder what it's doing down here.
+00:09:15,047 --> 00:09:19,120
+It's a power cable. I wonder what it's doing down here.
 是一根电缆．我很好奇它在这里有什么用
 
 123
-00:09:19,187 --> 00:09:21,178
+00:09:19,287 --> 00:09:21,278
 In there quickly!
 进去那儿, 快！
 
 124
-00:09:55,187 --> 00:09:58,463
+00:09:55,287 --> 00:09:58,563
 Soldiers? I wonder what they're doing down here.
 士兵？奇怪, 他们在这下面干什么？
 
 125
-00:09:58,627 --> 00:10:03,098
+00:09:58,727 --> 00:10:03,198
 - Let's go and ask them.
 - No. I think we'd better tread carefully.
 - 我们去问问他们   - 不, 我觉得我们还是小心行事
 
 126
-00:10:03,267 --> 00:10:06,020
+00:10:03,367 --> 00:10:06,120
 Let's go and find out what's going on first.
 我们去看看是在干什么
 
 127
-00:10:14,947 --> 00:10:17,017
+00:10:15,047 --> 00:10:17,117
 What do you want us to do, Doctor?
 你期望我们做什么, 博士？
 
 128
-00:10:17,187 --> 00:10:20,782
+00:10:17,287 --> 00:10:20,882
 You follow the soldiers, but keep out of sight.
 你跟着那些士兵, 但别被看见了
 
 129
-00:10:20,947 --> 00:10:22,567
+00:10:21,047 --> 00:10:22,667
 I'm going to see where this cable goes to./
 我要去看看这些线缆通向那里
 
 130
-00:10:22,700 --> 00:10:25,567
-Meet back here in a few minutes. Right？
+00:10:22,800 --> 00:10:25,667
+Meet back here in a few minutes. Right?
 过几分钟回来这里汇合。好吧？
 
 131
-00:10:36,587 --> 00:10:39,545
+00:10:36,687 --> 00:10:39,645
 - What's the matter?
 - I thought I heard something.
 - 怎么了？   - 我觉得我听到了点什么
 
 132
-00:10:39,707 --> 00:10:44,144
+00:10:39,807 --> 00:10:44,244
 - Getting a bit jumpy, aren't you, Weams?
 - It's no wonder, is it, Staff?
 - 有点神经质了吧, 是不, Weams?  - 那也不稀奇, 是吧, Staff?
 
 133
-00:10:44,307 --> 00:10:48,061
+00:10:44,407 --> 00:10:48,161
 - Shall we connect the new drum now, Staff?
 - All right, Corporal.
-- 我们现在连上新鼓吗, Staff (FIXME)
-- 好的, 下士
+- 我们现在要连上新桶了吧, Staff？  - 是, 下士
 
 134
-00:10:49,467 --> 00:10:52,186
-- Good thing we fixed these lights.  - Yeah.
-- 好的是我们把这些灯修好了  - 是啊
+00:10:49,567 --> 00:10:52,486
+- Good thing we fixed these lights.
+- Yeah. You said that again.
+- 好的是我们把这些灯修好了  - 是，你说过了
 
 135
-00:10:58,387 --> 00:11:01,982
+00:10:58,487 --> 00:11:02,082
 - I can't hear anything.
 - Are they still there?
 - 我什么也听不见   - 他们还在那儿吗？
 
 136
-00:11:02,147 --> 00:11:04,980
+00:11:02,247 --> 00:11:05,080
 I think they must be moving. Come on.
 我觉得他们肯定走了．快来
 
 137
-00:11:06,507 --> 00:11:08,225
+00:11:06,607 --> 00:11:08,325
 Agh!
 啊！
 
 138
-00:11:10,907 --> 00:11:14,183
-- I told you I heard something, didn't I?  - Yeah.
-- 我就说我听到了什么, 说过吧   - 是
+00:11:11,007 --> 00:11:13,483
+I told you I heard something, didn't I?
+我就说我听到了什么, 说过吧
 
 139
-00:11:14,347 --> 00:11:16,258
-Come on!
-快点！
+00:11:13,547 --> 00:11:16,358
+Yeah. Come on!
+是的。快来！
 
 140
-00:11:16,427 --> 00:11:19,066
+00:11:16,527 --> 00:11:19,166
 - I'm sorry!   - It was only a cobweb!
 - 我很抱歉！   - 不过是蜘蛛网
 
 141
-00:11:19,227 --> 00:11:23,266
+00:11:19,327 --> 00:11:23,366
 - Do you think they heard?
 - Hope not. Come on.
 - 你觉得他们听到了吗？   - 但愿没有, 快来
 
 142
-00:11:33,387 --> 00:11:37,221
-Well, well, well, would you believe it?
-The Babes in the Wood!
-好, 好, 好, 你能相信不？树林中的美女! (FIXME)
+00:11:33,487 --> 00:11:37,621
+Well, well, well, would you believe it? The Babes in the Wood!
+好, 好, 好, 你能相信不？树林中的美女!
+<i>（备注：“树林中的美女”原为一童话故事名，后衍生为指在不知情的情况下进入危险境地的无辜者）</i>
 
 143
-00:13:05,127 --> 00:13:09,598
+00:13:05,227 --> 00:13:10,198
 - You're quite sure there was nobody with you?
 - How many more times?
 - 你确定你们没有其他人？   - 还要说多少次？
 
 144
-00:13:09,767 --> 00:13:11,564
+00:13:10,467 --> 00:13:12,264
 That's all right, then.
 那就没事了
 
 145
-00:13:12,887 --> 00:13:16,197
+00:13:13,387 --> 00:13:16,897
 - Clear to fire, Staff?
 - Yes, they were on their own.
 - 可以点火了吗, Staff?   - 是的, 就他们自己
 
 146
-00:13:16,367 --> 00:13:18,358
+00:13:17,067 --> 00:13:19,058
 Right.
 好
 
 147
-00:13:18,527 --> 00:13:20,518
+00:13:19,127 --> 00:13:21,018
 What was all that about?
 这都是怎么回事？
 
 148
-00:13:21,567 --> 00:13:25,640
-I suppose there's no harm in telling you.
-You two are very lucky.
+00:13:22,067 --> 00:13:26,340
+I suppose there's no harm in telling you. You two are very lucky.
 我觉得告诉你也没有关系, 你们俩非常幸运
 
 149
-00:13:25,807 --> 00:13:28,560
+00:13:26,407 --> 00:13:29,060
 - We're going to blow up the tunnel.
 - What?!
 - 我们打算炸掉这个隧道   - 什么?!
 
 150
-00:13:28,727 --> 00:13:31,366
+00:13:29,227 --> 00:13:31,866
 - That's what the cable's for.
 - The Doctor!
 - 那些电缆是干这个的   - 博士！
 
 151
-00:13:35,207 --> 00:13:40,725
-It's all right. They were on their own.
-OK, let's not waste any more time. Off you go.
+00:13:35,707 --> 00:13:41,225
+It's all right. They were on their own. OK, let's not waste any more time. Off you go.
 没问题了, 就他们自己．好, 我们不要再浪费时间, 走你
 
 152
-00:13:42,527 --> 00:13:44,518
+00:13:43,027 --> 00:13:45,018
 Agh!
 啊
 

@@ -1,53 +1,50 @@
 1
-00:13:49,476 --> 00:13:53,298
-A doctor! Well, if he was anywhere near those explosives
-when they went up...
-一位博士！当他们上来的时候，如果他在那些炸药附近的话...
+00:13:49,476 --> 00:13:53,498
+A doctor! Well, if he was anywhere near those explosives when they went up...
+一位博士！如果炸药爆炸的时候他在那附近的话...
 
 2
-00:13:53,542 --> 00:13:58,384
+00:13:53,542 --> 00:13:55,684
 Yes sir. Don't you think I should go and have a look, sir? 
-The youngsters said he was following the cable.
 是的长官。我是不是应该去看一下？
-这两个年轻人说他们当时正沿着电缆在走
 
 3
+00:13:55,742 --> 00:13:58,384
+The youngsters said he was following the cable.
+这两个年轻人说他们当时正沿着电缆在走
+
+4
 00:13:58,623 --> 00:13:59,672
 Yes, you'd better.
 是，最好是
 
-4
+5
 00:13:59,887 --> 00:14:00,443
 Sir!
 是！
 
-5
+6
 00:14:00,910 --> 00:14:02,994
 Oh, and Staff, take someone with you.
 哦，Staff，带个人跟你一起
 
-6
+7
 00:14:03,242 --> 00:14:04,143
 Sir!
 是！
 
-7
-00:14:16,888 --> 00:14:17,659
-Father?
-父亲？
-
 8
-00:14:17,949 --> 00:14:18,453
-Hmm...?
-嗯？
+00:14:16,888 --> 00:14:17,659
+- Father?  - Hmm?
+- 父亲？  - 嗯？
 
 9
-00:14:18,700 --> 00:14:20,423
-The soldiers have found two youngsters in the tunnels./
+00:14:17,900 --> 00:14:19,623
+The soldiers have found two youngsters in the tunnels.
 士兵们在隧道里发现了两个年轻人
 
 10
-00:14:20,500 --> 00:14:22,223
+00:14:20,200 --> 00:14:21,923
 They seem to know a great deal about the Yeti.
 他们好像知道雪怪的不少事情
 
@@ -88,7 +85,7 @@ Where are they?
 
 18
 00:14:37,020 --> 00:14:38,479
-Hello, hello, Holborn?... /38.5
+Hello, hello, Holborn?...
 哈罗，哈罗，Holborn？... 
 
 19
@@ -97,997 +94,965 @@ This is HQ to Holborn. Can you hear me?... Not a sausage.
 这里是总部呼叫 Holborn．你能听到吗？...一丁点儿也没有
 
 20
-00:14:45,346 --> 00:14:46,505
+00:14:45,346 --> 00:14:46,805
 There must be someone manning the phone.
 肯定有谁在操纵电话线
 
 21
-00:14:47,575 --> 00:14:48,838
+00:14:47,575 --> 00:14:48,938
 OK, Lane, what gives?
-好了, Lane, 什么情况fixme
+好了, Lane, 什么情况
 
 22
-00:14:49,243 --> 00:14:51,007
+00:14:49,243 --> 00:14:50,507
 Well, it's just firing at the other end, sir.
 另一端有人开火, 长官
 
 23
-00:14:51,192 --> 00:14:51,873
-Firing?
-开火？
+00:14:50,692 --> 00:14:52,373
+- Firing?  - Yes, sir. Listen.
+- 开火？ - 是的, 头儿．听
 
 24
-00:14:52,088 --> 00:14:53,008
-Yes, sir. Listen.
-是的, 长官．听
-
-25
 00:15:01,730 --> 00:15:03,486
 Oh, good grief, no!
 噢, 可怜人, 不！
 
-26
+25
 00:15:13,540 --> 00:15:14,633
 Hello, HQ to Holborn?
-哈喽, 总部呼叫 Holborn
+哈罗, 总部呼叫 Holborn
 
-27
+26
 00:15:16,888 --> 00:15:18,081
 What happened, Lane?
 怎么了, Lane
 
-28
+27
 00:15:18,170 --> 00:15:20,514
-Well, it was difficult to hear, sir.
-I think the truck was late getting there...
-嗯, 很难听清, 长官．我觉得手推车(fixme)没及时到达...
+Well, it was difficult to hear, sir. I think the truck was late getting there...
+嗯, 很难听清, 长官．我觉得卡车到那里晚了...
 
-29
+28
 00:15:20,718 --> 00:15:21,428
 Then what?
-那怎么？
+那又怎样？
+
+29
+00:15:21,622 --> 00:15:24,937
+Well they must have got the ammo unloaded, sir, 'cos he says they were jumped when they were leaving.
+他们肯定已经把弹药卸下来了, 头儿．因为他说他们正要离开的时候它们扑过来了
 
 30
-00:15:21,622 --> 00:15:24,937
-Well they must have got the ammo unloaded, sir,
-'cos he says they were jumped when they were leaving.
-它们肯定把弹药卸出来了, 头儿．因为他说他们正要离开的时候它们扑过来了
-
-31
 00:15:24,983 --> 00:15:26,481
 Take O'Brien and a couple of the others.
 带上 O'Brien 等几个人
 
-32
+31
 00:15:26,689 --> 00:15:27,930
 Sir! Come on, mate.
 是！快来, 伙计们
 
-33
+32
 00:15:30,683 --> 00:15:31,928
 Here, you're not going out there?
 你不打算出去吧？
 
-34
+33
 00:15:32,348 --> 00:15:36,584
 Yes, Mr Chorley. Want to come? Report some action first hand?
 出去, Chorley 先生, 你想来？想获得第一手的报道？
 
-35
+34
 00:15:36,790 --> 00:15:38,644
-Well, I don't think I'd better get in the way. I.../38
+Well, I don't think I'd better get in the way. I...
 哦, 我觉得我还是不要碍事的好。我...
 
-36
+35
 00:15:38,790 --> 00:15:40,444
 I think I'd better stay here, don't you?
 我觉得待在这里更好, 是吧？
 
-37
+36
 00:15:40,656 --> 00:15:42,704
 Yes. Yes, I think you better had.
 是的, 是的, 我想你最好
 
-38
+37
 00:15:47,555 --> 00:15:48,777
 Father?
 父亲？
 
-39
+38
 00:15:49,408 --> 00:15:52,093
 But it... it can't be...
 但这...这不可能啊...
 
-40
+39
 00:15:53,448 --> 00:16:00,301
 Why... that's... that's over... forty years ago!
 为什么...那已经是...四十年前了！
 
-41
+40
 00:16:00,541 --> 00:16:01,700
 What's going on here?
 这里在干什么？
 
-42
+41
 00:16:01,948 --> 00:16:05,524
 Oh Jamie, don't you recognise him? It's Professor Travers.
 噢 Jamie, 你不认识他了？这是 Travers 教授
 
-43
+42
 00:16:06,701 --> 00:16:10,776
 So it is! Professor Travers! Here, hasn't he got old!
 还真是啊！Travers 教授！看, 他没怎么变老
 
-44
+43
 00:16:11,022 --> 00:16:11,510
 Huh?
 啊？
 
-45
+44
 00:16:11,694 --> 00:16:14,635
 Oh, but we're very pleased to see you, Professor, very pleased.
 噢, 我们都非常高兴见到你, 教授, 非常高兴
 
-46
+45
 00:16:14,811 --> 00:16:20,038
 The time machine... it was all true then?
-这个时间机器...这么说都是真的？
+时间机器...这么说都是真的？
 
-47
+46
 00:16:20,245 --> 00:16:24,654
-The TARDIS - I mean aye, of course it's true!
-Hey, do you know what's happened to the Doctor?
+The TARDIS - I mean aye, of course it's true! Hey, do you know what's happened to the Doctor?
 TARDIS - 我是说, 当然是真的！嘿, 你知道博士现在怎么样了？
 
-48
+47
 00:16:24,824 --> 00:16:25,474
 Oh, is he safe?
 哦, 他还安全吗？
 
-49
+48
 00:16:25,633 --> 00:16:26,346
 Isn't he with you?
-他没有跟你在一起吗？
+他没有跟你们在一起吗？
 
-50
+49
 00:16:26,473 --> 00:16:29,596
-No, he's in the tunnels. Arnold's gone to look for him.
-Father, what is going on?
+No, he's in the tunnels. Arnold's gone to look for him. Father, what is going on?
 没, 他在隧道里．Arnold 去找他去了．父亲, 这是在干什么？
 
-51
+50
 00:16:29,792 --> 00:16:33,182
-Oh dear, I do hope he's alright. Come on, Jamie,
-let's go and find out if he's got back yet.
-亲爱的, 我期望他没事．来, Jamie, 我们去看看他回来没有
+Oh dear, I do hope he's alright. Come on, Jamie, let's go and find out if he's got back yet.
+亲爱的, 我真期望他没事．来, Jamie, 我们去看看他回来没有
 
-52
+51
 00:16:35,071 --> 00:16:36,328
 Father!
 父亲！
 
-53
+52
 00:16:37,835 --> 00:16:40,887
 Eh? Oh, Victoria, try and explain to Anne, will you?
 嗯？哦, Victoria, 你给 Anne 解释一下, 行吗？
 
-54
+53
 00:16:41,476 --> 00:16:42,315
 Oh dear!
 哦, 老天！
 
-55
+54
 00:17:00,296 --> 00:17:01,724
 There hasn't been an explosion, Staff!
 没有发生爆炸, Staff！
 
-56
-00:17:02,021 --> 00:17:04,121
-Oh, no - well at least, we hope not.
-哦, 没有 - 至少, 我们也期望没有
-
-57
-00:17:02,043 --> 00:17:03,873
+55
+00:17:02,143 --> 00:17:03,873
 I can see that, lad... Here!
-我看到了, 小伙子...过来！fixts
+我看到了, 小伙子...过来！
 
-58
+56
 00:17:15,706 --> 00:17:17,076
 No sign of that Doctor bloke.
 没有见到这什么博士的影子
 
-59
+57
 00:17:17,265 --> 00:17:20,552
 No... here, give me a hand with this.
 没有...嘿, 给我搭把手
 
-60
+58
 00:17:22,523 --> 00:17:25,559
-It's our detonator, alright. It's fired, too.../25.5
+It's our detonator, alright. It's fired, too...
 是我们的引爆器, 也已经引爆了...
 
-61
+59
 00:17:25,623 --> 00:17:32,059
-'ere, hang on a minute. All the ammo, Staff.
-If it's fired, then why didn't...
+'ere, hang on a minute. All the ammo, Staff. If it's fired, then why didn't...
 等一下, 所有的弹药, Staff．如果已经引爆了, 为什么没有...
 
-62
+60
 00:17:32,274 --> 00:17:35,778
 Yeah, why didn't this tunnel go up?... No damage at all...
 是啊, 为什么这个隧道没有被炸掉？...完全没受损...
 
-63
+61
 00:17:36,443 --> 00:17:38,066
 Yet something blew up here!
 但这里的确爆炸了啊！
 
-64
+62
 00:17:38,454 --> 00:17:42,467
 It's obvious, ain't it? It's been got at.
-很显然, 不是？fixme
+很显然, 对不？被人破坏了
 
-65
+63
 00:17:42,680 --> 00:17:45,651
 Where's that Doctor? That's what I'd like to know.
 那个博士在哪儿？这是我想知道的
 
-66
+64
 00:17:46,780 --> 00:17:50,544
 Tibet? Tibet? You're joking.
 西藏？西藏？你在开玩笑
 
-67
+65
 00:17:50,753 --> 00:17:54,219
-That's where old Travers says they come from.
-He reckons they're Abominable Snowmen.
+That's where old Travers says they come from. He reckons they're Abominable Snowmen.
 是 Travers 说它们就来自那儿. 他管他们叫做可恶的雪人
 
-68
+66
 00:17:54,501 --> 00:17:57,642
-Well, he's off his chump, ain't he?
-How'd they get here in the first place?
+Well, he's off his chump, ain't he? How'd they get here in the first place?
 他脑袋有问题吧, 是不？它们最开始是怎么到这里来的？
 
-69
+67
 00:17:57,853 --> 00:17:59,025
 Come through the post, don't they?
 邮递来的, 不是吗？
 
-70
+68
 00:17:59,200 --> 00:18:03,740
-Nah, seriously. Outer space, that's where they come from.
-Well that's what I reckon, anyway.
+Nah, seriously. Outer space, that's where they come from. Well that's what I reckon, anyway.
 严肃点．外太空, 那是它们来的地方．这是我的猜测
 
-71
+69
 00:18:03,917 --> 00:18:06,912
-Oh do leave off! You've been reading
-too many kids' comics, you have!
+Oh do leave off! You've been reading too many kids' comics, you have!
 噢, 得了吧！你看了太多小孩子的漫画书, 对不？
 
-72
+70
 00:18:07,128 --> 00:18:09,182
 Alright then, Corp, where do they come from?
 好吧．下士, 那他们是从那儿来的？
 
-73
+71
 00:18:09,373 --> 00:18:13,808
-It's a foreign power, ain't it? Bacteriological warfare,
-that's what that stuff is in the tunnels.
+It's a foreign power, ain't it? Bacteriological warfare, that's what that stuff is in the tunnels.
 应该是外国势力, 对不？细菌战争, 隧道里面的东西就是这个
 
-74
+72
 00:18:14,065 --> 00:18:15,175
 What, that fungus stuff?
 什么, 那些真菌？
 
-75
+73
 00:18:15,401 --> 00:18:19,448
-Yeah. And them Yeti are some sort of new weapon.
-Well, a sort of robot army.
+Yeah. And them Yeti are some sort of new weapon. Well, a sort of robot army.
 对, 那些雪怪就是某种新式武器, 一种机器人军队
 
-76
+74
 00:18:19,641 --> 00:18:21,093
 What, you mean it ain't real then?
 什么, 你是说他们不是真的动物？
 
-77
+75
 00:18:21,293 --> 00:18:23,597
 Well of course they ain't, you nit!
 当然不是真的, 你个废柴！
 
-78
+76
 00:18:23,693 --> 00:18:25,997
-Otherwise we'd be able to knock 'em out
-with the small arms, wouldn't we?
+Otherwise we'd be able to knock 'em out with the small arms, wouldn't we?
 否则我们就可以用小型武器搞定他们了, 对不？
 
-79
+77
 00:18:26,193 --> 00:18:27,897
 Yeah - nothing hardly touches 'em, does it?
 是啊 - 没什么能搞定它们了, 有吗？
 
-80
+78
 00:18:28,193 --> 00:18:30,497
-Not unless you can cop 'em straight between the eyes.
-Then they've had it.
+Not unless you can cop 'em straight between the eyes. Then they've had it.
 除非你直接对准它们两眼之间下手, 那它们就嗝屁了
 
-81
+79
 00:18:31,828 --> 00:18:32,969
 Father?
 父亲？
 
-82
+80
 00:18:33,315 --> 00:18:33,704
 Hmm?
 嗯？
 
-83
+81
 00:18:34,052 --> 00:18:36,433
 Have you ever seen this TARDIS?
 你见过 TARDIS 吗？
 
-84
+82
 00:18:37,444 --> 00:18:39,493
 No, no, I can't say I have.
 没, 没有, 我说不上见过
 
-85
+83
 00:18:39,714 --> 00:18:42,034
 It all sounds a bit far-fetched to me.
 在我听来感觉有点太不现实了
 
-86
+84
 00:18:42,265 --> 00:18:45,074
 You know, I think the Doctor's at the back of all this.
 你知道吗, 我觉得这一切都是博士在背后捣鬼
 
-87
+85
 00:18:45,357 --> 00:18:46,270
 What do you mean?
 你什么意思？
 
-88
+86
 00:18:46,481 --> 00:18:50,815
-Doesn't it strike you as odd that on the two occasions
-you've encountered the Yeti, you've also come across the Doctor?
+Doesn't it strike you as odd that on the two occasions you've encountered the Yeti, you've also come across the Doctor?
 你就从来没有觉得奇怪, 你两次遇到雪怪, 你都碰到了博士？
 
-89
+87
 00:18:51,183 --> 00:18:51,981
 Well?
 怎样？
 
-90
+88
 00:18:52,256 --> 00:18:54,278
 Well, it's obvious - he controls them!
 这, 很显然 - 他在控制他们！
 
-91
+89
 00:18:54,468 --> 00:18:55,812
 Oh, but surely...
 哦, 但当然...
 
-92
+90
 00:18:56,085 --> 00:18:59,188
 What? Oh, tea. Thank you, my dear.
 什么？哦, 茶．谢谢你, 亲爱的
 
-93
+91
 00:19:00,142 --> 00:19:01,966
 Oh, aren't you having any?
 哦, 你不喝点吗？
 
-94
+92
 00:19:02,450 --> 00:19:04,792
 No, I think I'll go and lie down for a bit.
 不了, 我想我要去躺一会儿
 
-95
+93
 00:19:05,096 --> 00:19:06,215
 Good idea.
 好主意
 
-96
+94
 00:19:09,691 --> 00:19:11,187
 Do you think she heard?
 你觉得她听到了吗？
 
-97
+95
 00:19:11,193 --> 00:19:14,428
-No... in any case, what you say is nonsense, Anne./14.5
+No... in any case, what you say is nonsense, Anne.
 不管怎么说, 你说的都是胡扯, Anne
 
-98
+96
 00:19:14,593 --> 00:19:19,728
-I saw the Doctor defeat those robots and save Detsen Monastery. /19.7
+I saw the Doctor defeat those robots and save Detsen Monastery.
 我看见博士打败了那些机器人, 拯救了德赞寺
 
-99
+97
 00:19:19,793 --> 00:19:22,828
 He wouldn't do that if he was in league with them, now would he?
 如果他跟它们是一伙的, 他不会那么做的, 现在他会吗？
 
-100
+98
 00:19:23,897 --> 00:19:25,213
 No, no I suppose not.
 不, 我觉得不会
 
-101
+99
 00:19:27,707 --> 00:19:29,079
 Here, Corp, look at this!
 过来, 下士, 看看这个
 
-102
+100
 00:19:30,665 --> 00:19:37,049
 What... oh crikey! That's what comes of talking about it!
 什么...啊呀！真是说什么来什么
 
-103
+101
 00:19:37,591 --> 00:19:39,187
 It's that fungus stuff, it's moving again!
 是那些真菌, 它又在移动了！
 
-104
+102
 00:19:44,115 --> 00:19:45,660
 Don't worry!
 别担心
 
-105
+103
 00:19:46,013 --> 00:19:49,470
-Can't help it - I feel... responsible somehow./49.5
+Can't help it - I feel... responsible somehow.
 忍不住啊 - 不知怎的...我觉得我有责任
 
-106
+104
 00:19:49,613 --> 00:19:53,470
 If only the Doctor would turn up. I'm sure he could help us.
 如果博士能出现就好了, 我肯定他能帮上我们
 
-107
+105
 00:19:53,925 --> 00:19:55,663
 'Scuse me, sir...
 抱歉, 先生
 
-108
+106
 00:19:55,858 --> 00:19:56,613
 Eh, what?
 嗯, 什么？
 
-109
+107
 00:19:56,792 --> 00:19:59,801
-That fungus stuff, it's on the move again.
-Euston Square's gone.
+That fungus stuff, it's on the move again. Euston Square's gone.
 那些真菌, 又在移动了．尤斯顿广场没了
 
-110
+108
 00:19:59,975 --> 00:20:01,131
 Come on, let's have a look!
 快来, 我们来看看！
 
-111
+109
 00:20:06,962 --> 00:20:08,093
 It's on the move again, Weams?
 它又在移动了, Weams？
 
-112
+110
 00:20:08,303 --> 00:20:09,905
-Yes, sir. Kings Cross has gone,
-and it's moving on to Farringdon.
+Yes, sir. Kings Cross has gone, and it's moving on to Farringdon.
 是的, 先生, 国王十字车站也丢了．它现在往 Farringdon 站去了
 
-113
+111
 00:20:10,073 --> 00:20:11,946
 It's never moved as fast as this before!
 它以前从来没有移动得这么快过！
 
-114
+112
 00:20:12,163 --> 00:20:13,612
 Hasn't moved at all the last three weeks, Miss.
 前面三个星期都没移动过，小姐
 
-115
+113
 00:20:13,829 --> 00:20:15,043
 What started it up again all of a sudden?
 是什么东西突然间触发了它？
 
-116
+114
 00:20:15,245 --> 00:20:16,109
 Can't say.
 不好说
 
-117
+115
 00:20:16,322 --> 00:20:20,647
-Strange, isn't it, that all this should happen
-on the very day that your mysterious Doctor friend turns up?
+Strange, isn't it, that all this should happen on the very day that your mysterious Doctor friend turns up?
 很奇怪啊，是不是，你的那位博士朋友出现的同一天，就发生了这么多事
 
-118
+116
 00:20:20,907 --> 00:20:22,038
 He hasn't turned up.
 他还没出现呢
 
-119
+117
 00:20:22,285 --> 00:20:25,745
 Precisely. He could have sent those kids in here as spies.
 的确．他可能是把那两个孩子派过来做间谍了
 
-120
+118
 00:20:26,000 --> 00:20:29,820
-Rubbish! Would Jamie go away and leave Victoria,
-if he didn't intend coming back again?
+Rubbish! Would Jamie go away and leave Victoria, if he didn't intend coming back again?
 胡说！你说 Jamie 不会再回来, 那他会留下 Victoria 一个人吗？
 
-121
+119
 00:20:30,044 --> 00:20:31,584
 Excuse me, sir, but where is the young lady?
 对不起, 先生, 但那个年轻女士在哪儿？
 
-122
+120
 00:20:31,771 --> 00:20:33,173
 Oh, in the Common Room, I suppose.
 哦, 在公共休息室, 我估计
 
-123
+121
 00:20:33,341 --> 00:20:35,509
 No she's not, 'cos I went in there when I was looking for you!
 不, 她没有．我刚才找你的时候到那里面去过了！
 
-124
+122
 00:20:35,703 --> 00:20:38,699
 What? Well... where is she then?
 什么？那...她在哪儿呢？
 
-125
+123
 00:20:43,937 --> 00:20:57,471
 Jamie? Doctor?... Jamie? Doctor?
 Jamie? 博士? ... Jamie? 博士?
 
-126
+124
 00:20:57,892 --> 00:20:58,630
 Victoria!
 
-127
+125
 00:20:58,833 --> 00:21:01,465
 Oh, Doctor, thank goodness I found you! Are you alright?
 哦, 博士, 感谢上帝我找到你了！你没事吧
 
-128
+126
 00:21:01,534 --> 00:21:03,324
 Look, sir, the fungus! It's moving again!
 看, 头儿, 真菌！又在移动了！
 
-129
+127
 00:21:06,601 --> 00:21:09,930
-Hope the Captain and Staff Arnold
-ain't anywhere near that little lot.
+Hope the Captain and Staff Arnold ain't anywhere near that little lot.
 期望队长和 Staff Arnold 不在那个小东西的附近
 
-130
+128
 00:21:11,006 --> 00:21:15,390
 Lane? Lane! Fall back, you'll never hold them!
 Lane? Lane! 后撤, 你阻挡不了它们的！
 
-131
+129
 00:21:22,220 --> 00:21:23,571
 Will nothing stop them?
 没什么能挡住他们吗？
 
-132
+130
 00:21:38,071 --> 00:21:39,507
 Come on, back!
 快, 回来！
 
-133
+131
 00:22:16,085 --> 00:22:17,931
 We couldn't hold 'em, sir. They're coming, two of 'em!
 我们没法顶住他们, 头儿．他们来了, 有两个！
 
-134
+132
 00:22:18,085 --> 00:22:19,931
 They got O'Brien and Cocksey, nothing stops them!
 O'Brien 和 Cocksey 已经落入它们手上了, 没什么能挡住它们！
 
-135
+133
 00:22:22,851 --> 00:22:23,746
 It's Staff Arnold!
 是 Staff Arnold!
 
-136
+134
 00:22:24,091 --> 00:22:24,817
 Yeah, come on.
 是啊, 快来
 
-137
+135
 00:22:32,214 --> 00:22:32,686
 Captain?
 队长？
 
-138
+136
 00:22:32,912 --> 00:22:33,420
 Yeti!
 雪怪！
 
-139
+137
 00:22:33,633 --> 00:22:34,247
 They got two of us!
 它们抓了我们两个人！
 
-140
+138
 00:22:34,469 --> 00:22:35,412
 And the ammo detail - they're all gone.
-还有那些弹药, 都不见了(fixme)
+还有那些弹药, 都不见了
 
-141
+139
 00:22:35,838 --> 00:22:36,730
 What's the plan then?
 那计划是什么？
 
-142
+140
 00:22:36,905 --> 00:22:40,584
-I brought a load of explosives down from Holborn.
-I'm going to blow it - and them with it.
+I brought a load of explosives down from Holborn. I'm going to blow it - and them with it.
 我从 Holborn 那里带下来一包炸药．我打算引爆它, 炸了它们
 
-143
+141
 00:22:40,849 --> 00:22:42,452
 Taking a bit of a risk, aren't you, sir?
-有点风险, fixme
+得冒点风险, 是吧, 头儿
 
-144
+142
 00:22:42,669 --> 00:22:43,658
 Yeah, I know.
 是的, 我知道
 
-145
+143
 00:22:43,874 --> 00:22:45,222
 Hey, look what's happening!
 嘿, 看看什么情况！
 
-146
+144
 00:22:48,792 --> 00:22:50,036
 What are they doing?
 它们在干什么？
 
-147
+145
 00:22:57,209 --> 00:22:58,338
 Looks like the cobwebs!
 看着像是蜘蛛网！
 
-148
+146
 00:22:58,525 --> 00:23:01,711
 Cobwebs or not, I'm going to blow it sky high. Get back!
 不管是蜘蛛网还是什么, 我要把它炸到天上去．后退！
 
-149
+147
 00:23:13,776 --> 00:23:14,771
 What's that noise?
 那是什么声音？
 
-150
+148
 00:23:14,993 --> 00:23:16,233
 The boxes are pulsating!
 那盒子在脉动！
 
-151
+149
 00:23:24,105 --> 00:23:25,194
 Get back!
 回来！
 
-152
+150
 00:23:39,122 --> 00:23:41,914
-This waiting's getting on my nerves.
-Why the heck don't they do something?
+This waiting's getting on my nerves. Why the heck don't they do something?
 这么等着让我更紧张了，他们为什么不做点什么？
 
-153
-00:23:42,177 --> 00:23:44,370
+151
+00:23:42,177 --> 00:23:44,670
 Steady, lad. We'll know soon enough.
 稳住, 小伙子。我们很快就会知道
 
-154
-00:23:44,587 --> 00:23:46,979
+152
+00:23:44,887 --> 00:23:46,979
 We can't just stand here. Can't we make a run for it?
-我们不能就这么站在这儿，要不我们跑过去吧？
+我们不能就这么站在这儿，我们要不跑过去吧？
 
-155
+153
 00:23:47,195 --> 00:23:49,079
 We wouldn't stand a chance, not with them switched on.
 我们一点机会都没有, 只要它们的开关还开着
 
-156
+154
 00:23:49,467 --> 00:23:50,766
 How do you know that?
 你怎么知道的？
 
-157
-00:23:50,946 --> 00:23:55,965
-It's alright, sir. The Professor's vouched for him. 
-Understand he knows a great deal about these robots.
+155
+00:23:50,946 --> 00:23:56,165
+It's alright, sir. The Professor's vouched for him. Understand he knows a great deal about these robots.
 没事的, 头儿。教授为他担保了。你要知道他对这些机器人很了解
 
-158
-00:23:56,146 --> 00:23:57,487
+156
+00:23:56,246 --> 00:23:57,487
 See, you have to find out...
 看，如果你想搞明白
 
-159
+157
 00:23:57,762 --> 00:23:58,727
 What's that?
 怎么回事？
 
-160
+158
 00:24:16,935 --> 00:24:20,307
 What made them do that, I wonder?
 谁让它们这样的，真奇怪
 
-161
+159
 00:24:20,487 --> 00:24:23,946
 Couldn't say, sir. But I don't think we should stay to find out.
 不好说，头儿。但我觉得我们不要停在这里研究这个
 
-162
+160
 00:24:24,207 --> 00:24:26,629
 Yes, you're right, Staff. Come on, let's get back.
 是，你说得对，Staff。来，我们回去
 
-163
+161
 00:24:27,080 --> 00:24:30,132
 Wait - can we not just see what they're up to?
 等等 -- 我们能不能看看他们在干什么？
 
-164
+162
 00:24:30,352 --> 00:24:34,705
 No! If there's one thing that I've learned, it's never push your luck. Now come on.
 不！如果说有一件事我学乖了, 那就是永远不会用光你的运气。现在赶紧
 
-165
+163
 00:24:52,798 --> 00:24:53,514
 What is it, sir?
 是什么，头儿？
 
-166
+164
 00:24:53,729 --> 00:24:54,416
 Quiet! Listen.
 安静！听
 
-167
+165
 00:24:57,244 --> 00:24:58,545
 Quick, get in here.
 快，到里面去
 
-168
+166
 00:25:07,274 --> 00:25:07,965
 Soldier!
 士兵！
 
-169
+167
 00:25:10,679 --> 00:25:13,272
 Well, there's a sight for sore eyes!
 啊，眼睛都酸了总算看到个人！
 
-170
+168
 00:25:13,487 --> 00:25:15,142
 Are you stark raving mad?
 你疯了吗？
 
-171
+169
 00:25:15,341 --> 00:25:17,401
 Aye, well I always sing when I'm scared, see.
 啊，我害怕的时候就总唱歌, 就这样。
 
-172
+170
 00:25:17,612 --> 00:25:19,268
 Stand to attention when you're talking to an officer!
 和长官说话的时候, 要立正站好！
 
-173
+171
 00:25:19,572 --> 00:25:20,742
 Name and serial!
 名字、番号！
 
-174
-00:25:20,952 --> 00:25:21,822
-6-0...
+172
+00:25:20,952 --> 00:25:22,322
+- 6-0...  - Shush!
+- 6-0...  - 嘘！
 
-175
-00:25:22,282 --> 00:25:22,882
-Shush!
-嘘！
-
-176
-00:25:23,082 --> 00:25:24,387
+173
+00:25:22,582 --> 00:25:24,387
 6-0-1 Evans, sir!
+601 Evans，长官！
 
-177
+174
 00:25:24,554 --> 00:25:26,255
 Evans? Anybody know him?
 Evans？有谁认识他吗？
 
-178
+175
 00:25:26,557 --> 00:25:28,142
 Oh, I'm not one of your lot, sir.
 哦，我不是你们这伙的，长官
 
-179
+176
 00:25:28,331 --> 00:25:29,827
 Then what are you doing down here?
 那你在这下面做什么？
 
-180
+177
 00:25:30,102 --> 00:25:31,548
 Trying to get out, Sarge!
 在找路出去, 中士!
 
-181
+178
 00:25:31,733 --> 00:25:35,295
-Don't try to be funny with me, lad! 
-How did you get down here in the first place?
+Don't try to be funny with me, lad! How did you get down here in the first place?
 别想跟我开玩笑, 小伙子！你一开始是怎么来这里的？
 
-182
+179
 00:25:35,462 --> 00:25:40,144
-Driver on the ammo truck to Holborn. Got jumped, we did - quite a dust up, there was. /40
+Driver on the ammo truck to Holborn. Got jumped, we did - quite a dust up, there was.
+我是开运弹药卡车的司机．我们被袭击了, 真的 - 一片狼藉
 
-183
+180
 00:25:40,462 --> 00:25:46,444
-Couldn't get past them hairy creatures, see? Been wandering for hours. Lost, I was. /46
+Couldn't get past them hairy creatures, see? Been wandering for hours. Lost, I was.
+没法越过那些毛绒怪啊．我在这里转悠几个小时,迷路了
 
-184
+181
 00:25:46,462 --> 00:25:50,644
 I tried one way, but there seemed to be some sort of cobweb muck moving down the tunnel.
+我试过这边, 但似乎有某种蜘蛛网在隧道里移动
 
-185
+182
 00:25:50,733 --> 00:25:52,688
 Moving? Are you sure it was moving?
 在移动？你确定它是在移动？
 
-186
+183
 00:25:52,848 --> 00:25:56,851
-Well of course I'm sure!... sir. Sounds daft, I know, /56
+Well of course I'm sure!... sir. Sounds daft, I know,
 我当然确定，长官。听起来有点傻，我知道
 
-187
-00:25:56,848 --> 00:26:00,851
+184
+00:25:56,948 --> 00:26:00,851
 but it seemed to be following a Yeti that had a kind of pointed glass thing in its hands.
 但它似乎是跟一个雪怪在移动, 雪怪手里有一种玻璃状的尖头器件
 
-188
+185
 00:26:01,354 --> 00:26:02,068
 Was it shaped like a pyramid?
 它是不是是角锥状的？
 
-189
+186
 00:26:02,257 --> 00:26:03,265
 Well, I suppose it was, really.
 嗯，我觉得是，真的
 
-190
+187
 00:26:03,441 --> 00:26:05,878
 Well that's it! Smash the pyramid, and you put the Intelligence out of action!
 那就是了！砸烂那个角锥，你就让大智慧没招了
 
-191
+188
 00:26:06,058 --> 00:26:06,879
 What Intelligence?
 什么智慧？
 
-192
+189
 00:26:07,064 --> 00:26:08,261
 Whereabouts did you say this happened?
 你说这是在哪里发生的？
 
-193
+190
 00:26:08,431 --> 00:26:09,499
 Kings Cross, Staff.
 国王十字车站，Staff
 
-194
+191
 00:26:09,664 --> 00:26:10,255
 What!
 什么！
 
-195
+192
 00:26:10,414 --> 00:26:11,628
 Headquarters, sir - HQ may be in danger!
 总部，头儿 - 总部可能遇到危险了
 
-196
+193
 00:26:11,801 --> 00:26:13,270
 Yes, we'd better get back as soon as we can. Come on.
 是的, 我们最好尽快回去。快来
 
-197
+194
 00:26:13,489 --> 00:26:13,912
 No, look...
 不，你看
 
-198
+195
 00:26:14,210 --> 00:26:15,542
 Now listen to what the officer said, young man. Come on!
 现在听长官的话，年轻人。快点！
 
-199
+196
 00:26:15,753 --> 00:26:18,270
 Look, I came down here to find the Doctor. I'm not going back till I have!
 你看，我是下来找博士的。找到他之前我不会回去！
 
-200
+197
 00:26:18,455 --> 00:26:19,112
 Now look here...
 看看这里...
 
-201
+198
 00:26:19,421 --> 00:26:21,342
 No, I'm not going! And if I get a chance to smash that pyramid, I will!
 不，我不去！而且如果我有机会砸烂那个角锥的话，我会砸的
 
-202
+199
 00:26:21,495 --> 00:26:22,622
 That's quite a risk you're taking.
-你这是在冒很大的风险
+你这风险可不小
 
-203
+200
 00:26:22,788 --> 00:26:24,062
 Aye, but it's me that's taking it.
+是, 但反正是我在冒风险
 
-204
+201
 00:26:24,266 --> 00:26:25,842
 Alright, it's your neck, chum.
-好吧，这是你的脖子, 伙计FIXME
+好吧，不听就算了
 
-205
+202
 00:26:26,021 --> 00:26:26,585
 Sir!
 长官！
 
-206
+203
 00:26:26,785 --> 00:26:27,371
 Yes?
 什么？
 
-207
+204
 00:26:27,532 --> 00:26:29,522
 I'd like to volunteer to go with the young gentleman, sir.
 我自愿跟这个年轻绅士一起去，长官
 
-208
+205
 00:26:29,781 --> 00:26:33,098
 Well, you're not one of my lot... alright. Come on, the rest of you.
 那个，你也不是我这部分的...好吧。快点，你们其它人
 
-209
+206
 00:26:45,053 --> 00:26:46,473
 Monument! Then it's Tower Hill next.
+纪念版站！那下一站就是塔丘了
 
-210
+207
 00:26:48,917 --> 00:26:52,389
 Wait a minute! Did you hear something?
 等一下，你听到什么了没？
 
-211
+208
 00:26:52,883 --> 00:26:53,622
 What?
 什么？
 
-212
+209
 00:26:54,004 --> 00:26:54,812
 Listen.
 听
 
-213
+210
 00:26:58,978 --> 00:27:01,917
 Look! The fungus, it's here!
 看，真菌，它到这儿了！
 
-214
+211
 00:27:04,727 --> 00:27:06,427
 We'd better get out, fast!
 我们最好出去，快！
 
-215
+212
 00:27:09,000 --> 00:27:11,500
 - Jamie!  - Doctor! Good to see you!
 - Jamie！ - 博士！见到你太好了
