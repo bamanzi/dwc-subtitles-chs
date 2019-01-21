@@ -11,14 +11,20 @@ def check_srt_file(filename):
         lineno = 0
         last_t2 = None
         last_line = None
+        dialog = []
+        
         for line in fp:
             lineno = lineno + 1
             line = line.strip()
 
-            if not last_line:  #None or empty
-                pass
-            elif line.isdigit() and len(last_line)>0:
-                print("%s:%s: No blank line before entry index id" % (filename, lineno))
+            if line.isdigit(): # new entry starting
+
+                if last_line!=None and len(last_line)>0: 
+                    print("%s:%s: No blank line before entry index id" % (filename, lineno))
+                if len(dialog)>2:
+                    if not dialog[0].startswith('-'):
+                        print("%s:%s: Too many dialog lines" % (filename, lineno-2))
+                dialog = []  # clear
             else:
                 match = re_time.search(line)
                 if match:
@@ -41,7 +47,9 @@ def check_srt_file(filename):
                     if last_t2 and t1 < last_t2[0]:
                         print("%s:%s: Overlapped time span with line %d" % (filename, lineno, last_t2[1]))
                     last_t2 = (t2, lineno)
-                elif len(line)>0 and not line[0:2].isdigit():
+                elif len(line)>0 and not line[0:2].isdigit(): # dialog line
+                    dialog.append(line)
+                    
                     if len(last_line)>0 and not last_line[0:2].isdigit():
                         len_last = len(last_line)
                         len_this = len(line)
@@ -51,14 +59,14 @@ def check_srt_file(filename):
                             if len_this>40:
                                 print("%s:%s: Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
 
-                            if not _is_ascii(last_line):
+                            if not _is_ascii(last_line) and not last_line.startswith('<'):
                                 print("%s:%s: Two non-ascii lines" % (filename, lineno))
                                 
                         else:    
                             if len_this>75:
                                 print("%s:%s: Line too long: %d chars" % (filename, lineno, len_this))
                         
-                            if len_total<60 and (len_last<25 or len_this<25):
+                            if len_total<60 and (len_last<25 or len_this<25) and not line.startswith('-'):
                                 print("%s:%s: Line too short: %d chars" % (filename, lineno, len_this))
 
             last_line = line
