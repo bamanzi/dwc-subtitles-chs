@@ -1,0 +1,308 @@
+1
+00:25:34,078 --> 00:25:35,462
+Dyson, get through to Zeus 5!
+
+2
+00:25:35,638 --> 00:25:36,970
+What's happened to you, Doctor?
+你怎么了, 博士？
+
+3
+00:25:37,143 --> 00:25:43,636
+I'm not sure, my dear. Comes from an outside influence. Unless this old body of mine is wearing a bit thin.
+我也不太确定, 亲爱的．是外界来的影响, 看样子我这把老骨头有点撑不住了．fixme
+
+4
+00:25:43,820 --> 00:25:45,330
+What do you mean "wearing a bit thin"?
+＂撑不住了＂？什么意思？
+
+5
+00:25:45,486 --> 00:25:47,521
+Oh, don't worry child, don't worry, don't worry...
+喔, 别担心孩子, 别担心, 别担心...
+
+6
+00:25:56,864 --> 00:26:04,657
+Silence. Anyone who moves will be killed instantly.
+安静． 谁再动就格杀勿论
+
+7
+00:26:05,224 --> 00:26:10,963
+Your planet is finished. It will disintegrate. We know why you came here./?
+你的星球完蛋了．它将会碎掉．我们知道你们为什么来这里
+
+8
+00:26:11,224 --> 00:26:14,063
+So why not stay and live with us in peace, hmm?
+所以为什么不坐下来, 与我们和平相处呢, 嗯？
+
+9
+00:26:14,991 --> 00:26:21,438
+We cannot talk while that missile is aimed at Mondas. It must be disarmed first.
+如果导弹还对着 Mondas, 我们不能和谈．必须先把它卸掉．
+
+10
+00:26:21,668 --> 00:26:22,856
+A moment, please.
+请等一下．
+
+11
+00:26:23,205 --> 00:26:25,732
+Are you able to disarm this rocket?
+你能够将火箭解除武装吗？
+
+12
+00:26:25,987 --> 00:26:26,589
+Well, yes - but...
+哦, 可以 - 不过．．．
+
+13
+00:26:26,974 --> 00:26:27,797
+It will give us the time we need!
+这可以帮我们争取时间，我们正需要这个！
+
+14
+00:26:27,999 --> 00:26:29,030
+The time for Mondas to burn itself out, you mean?
+好让 Mondas 自己烧毁, 是这意思吗？
+
+15
+00:26:29,199 --> 00:26:35,617
+Yes, now quiet! We accept your terms. The warhead will be removed from the rocket.
+是的, 安静！ 我们接受你们的条件, 弹头将会从火箭上拆卸下来．
+
+16
+00:26:36,013 --> 00:26:39,676
+It must be removed to below ground level.
+弹头必须移动到地下去．
+
+17
+00:26:39,888 --> 00:26:41,871
+Well, there's the Radiation Room. It's the deepest in the base.
+这样, 有个辐射室, 是这个基地最深的地方．
+
+18
+00:26:42,060 --> 00:26:48,888
+That will do. And to make sure you do this, we will take two hostages.
+那倒可以．为了确保你们能做到, 我们将扣留两人做人质
+
+19
+00:26:49,172 --> 00:26:52,003
+That girl will go to the spacecraft.
+那个女孩儿, 到我们的飞船去
+
+20
+00:26:52,456 --> 00:26:55,812
+Surely you're not going to return to Mondas now?
+
+21
+00:26:56,126 --> 00:26:58,940
+We will not discuss our plans with you.
+我们不会跟你们讨论我们的计划
+
+22
+00:26:59,099 --> 00:27:05,161
+What is your second objective? It's quite obvious, isn't it? The destruction of the Earth!
+你们的第二目标是什么？ 昭然若揭了, 对不对, 就是要毁灭地球！
+
+23
+00:27:05,588 --> 00:27:08,998
+Listen to me. This close proximity of our two planets means that /?
+请我说, 我们两个星球靠得太近
+
+24
+00:27:09,188 --> 00:27:13,998
+one has to be eliminated for the safety of the other.
+这意味着要保障其中一个的安全, 就得毁灭另外一个
+
+25
+00:27:13,588 --> 00:27:20,998
+The one to be destroyed will be Earth. We cannot allow Mondas to burn up.
+将被毁灭的是地球, 我们不可能让 Mondas 烧毁
+
+26
+00:27:21,490 --> 00:27:24,733
+Take the old man out to the spacecraft.
+将老人从飞船里放出来
+
+27
+00:27:24,833 --> 00:27:26,530
+You will regret this.
+你会后悔的
+
+28
+00:27:35,078 --> 00:27:36,704
+Doctor... Doctor?
+博士．．．博士？
+
+29
+00:27:37,675 --> 00:27:39,079
+Hmm... What is it, child?
+唔．．．怎么了, 孩子？
+
+30
+00:27:39,419 --> 00:27:43,320
+Engines! They're not going to take off, are they?
+引擎！他们不打算起飞, 是吧？
+
+31
+00:27:44,209 --> 00:27:52,394
+No, no. Wait! The vibrations. Perhaps it's coming from Mondas!
+不, 不． 等等！ 这个振动, 也许是来自 Mondas!
+
+32
+00:27:52,733 --> 00:27:54,006
+What do you mean, Mondas?
+Mondas? 什么意思？
+
+33
+00:27:54,245 --> 00:28:00,664
+This spacecraft receives its energy from Mondas. Perhaps it's absorbing too much.
+这艘飞船是从 Mondas 接收能量的, 可能 Mondas 吸收能量吸收得太多了
+
+34
+00:28:01,443 --> 00:28:03,523
+Don't mean it's going to blow up, do you?
+是不是意味着它就要爆炸了, 是吗？
+
+35
+00:28:03,796 --> 00:28:06,525
+No, I don't know, child. It is an unknown power...
+我也不知道, 孩子．这是一种未知的能量
+
+36
+00:28:07,836 --> 00:28:10,051
+Doctor, I'm scared!
+博士, 我害怕！
+
+37
+00:28:10,376 --> 00:28:13,481
+Just look at Mondas! I can't believe it!
+快看 Mondas! 简直不敢相信
+
+38
+00:28:21,639 --> 00:28:24,829
+Fantastic! It looks as if it's melting!
+太神了, 看起来它在融化！
+
+39
+00:28:27,140 --> 00:28:28,585
+It's falling to bits!
+正在裂成碎片！
+
+40
+00:28:29,102 --> 00:28:31,072
+The end of Mondas.
+Mondas 的末日
+
+41
+00:28:31,614 --> 00:28:33,078
+Hey, look!
+嘿, 看！
+
+42
+00:28:40,850 --> 00:28:42,171
+What's happened to them?
+他们怎么了？
+
+43
+00:28:42,857 --> 00:28:44,920
+They've disintegrated!
+他们分解了！
+
+44
+00:28:45,324 --> 00:28:49,986
+They must have been entirely dependent on power from Mondas!
+他们一定完全依靠 Mondas 提供能量
+
+45
+00:28:52,263 --> 00:28:53,041
+Doctor!
+博士！
+
+46
+00:28:53,296 --> 00:28:56,307
+Ben! Oh please, Ben, help me... get me out of this thing!
+Ben! 哦, 请, Ben, 帮我一下．．．把我带出这里！
+
+47
+00:28:56,550 --> 00:28:58,118
+All right, don't panic, I'll have you out soon!
+好的, 别慌, 我马上把你弄出去！
+
+48
+00:28:58,444 --> 00:29:03,649
+Ow! My hands were stuck and I couldn't get out!... Ben, I've been so scared!
+哦！ 我的手卡住了, 弄不出来！．．．Ben, 我很害怕
+
+49
+00:29:03,864 --> 00:29:05,216
+Take it easy love, take it easy.
+放松点, 放松点
+
+50
+00:29:05,404 --> 00:29:08,194
+And that Cyberman thing, it just fizzled into nothing, Ben, it was awful...
+还有那些赛博人, 突然全都消失了．Ben, 好可怕．．．
+
+51
+00:29:08,366 --> 00:29:09,778
+Now what's the matter with the Doctor?
+博士这是怎么了？
+
+52
+00:29:09,958 --> 00:29:11,536
+I don't know. When the lights went out, he just seemed to faint.
+我不知道． 当灯熄灭的时候, 他似乎晕过去了
+
+53
+00:29:11,704 --> 00:29:14,463
+Hey, come on Doctor, wakey wakey! It's all over now.
+嘿, 来吧博士, 醒醒！ 都结束了
+
+54
+00:29:22,402 --> 00:29:23,907
+What did you say, my boy?
+你说什么, 孩子？
+
+55
+00:29:29,000 --> 00:29:31,800
+"It's all over. " That's what you said.
+＂都结束了＂这是你说的
+
+56
+00:29:35,100 --> 00:29:45,000
+No... but it isn't all over. It's far from being all over.
+不, 还没都结束, 还远没结束呢
+
+57
+00:29:45,279 --> 00:29:46,439
+Wait for us!
+等等我们！
+
+58
+00:29:46,469 --> 00:29:47,517
+Open the door!
+打开门！
+
+59
+00:29:47,546 --> 00:29:48,468
+Hey, let us in!
+嘿, 让我们进去！
+
+60
+00:29:48,594 --> 00:29:51,218
+You can't leave us here, of all places! Open up!
+你不能把我们留着这里, 留在那里也不行！打开！
+
+61
+00:29:51,462 --> 00:29:52,295
+Doctor!
+博士!
+
+62
+00:30:20,604 --> 00:30:22,383
+Doctor! Quick, help him!
+博士！快, 帮忙他！
+
