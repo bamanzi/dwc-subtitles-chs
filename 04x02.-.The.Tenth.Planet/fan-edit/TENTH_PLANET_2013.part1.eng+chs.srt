@@ -1,12 +1,12 @@
 1
 00:00:42,291 --> 00:00:50,061
 Man, it's blowing like crazy out there. All I can see is snow, snow and more snow.
-呀，外面风吹得太吓人了。我唯一能看见的是雪，除了雪还是雪
+呀，外面风吹得太吓人了．我唯一能看见的是雪，除了雪还是雪
 
 2
 00:01:26,018 --> 00:01:31,007
 Quite an arctic storm blowing out there. Hmm! Come along Polly, my child, with my cloak.
-外面刮着很强烈的极寒风暴。嗯，快来，Polly，孩子，带上我的斗篷
+外面刮着很强烈的极寒风暴．嗯，快来，Polly，孩子，带上我的斗篷
 
 3
 00:01:31,316 --> 00:01:33,023
@@ -21,12 +21,13 @@ Yes, well I'm glad you approve my child.
 5
 00:01:35,255 --> 00:01:37,503
 These are gorgeous. Where do you shop, Carnaby street?! Ha ha!
-它们太棒了。你都在哪儿买的，Carnaby 街吗？哈哈！
+它们太棒了．你都在哪儿买的，Carnaby 街吗？哈哈！
 
 6
 00:01:37,702 --> 00:01:39,293
 Who do you think you are, Nanook of the North or something?!
-你以为你是谁, 北方的纳努克什么的？!
+你觉得你像谁，北方的纳努克怎么样？!
+<i>(备注: Nanook of the North 是1992年无声记录片，记录了北极圈内的原住民纳努克家族艰苦的生活）</i>
 
 7
 00:01:39,477 --> 00:01:41,406
@@ -36,7 +37,7 @@ Oh now, now, now. Tcha, tcha, tcha. Stop being so flippant.
 8
 00:01:41,527 --> 00:01:45,606
 We don't know what we are in for outside there. Now come along, come along, come along.
-我们不知道到外面会碰到什么。快来吧，来吧，来吧
+我们不知道到外面会碰到什么．快来吧，来吧，来吧
 
 9
 00:01:45,824 --> 00:01:46,933
@@ -51,7 +52,7 @@ Are you sure you're going to be warm enough?
 11
 00:01:49,102 --> 00:01:52,367
 Oh, like toast my dear. Now, did you find everything you want?
-噢，就像吐司面包一样，亲爱的。你都找到你想要的没有？
+噢，就像吐司面包一样，亲爱的．你都找到你想要的没有？
 
 12
 00:01:52,415 --> 00:01:53,067
@@ -66,7 +67,7 @@ All right, well let's go outside and investigate. Go along.
 14
 00:02:02,719 --> 00:02:07,241
 The Doctor was right about this being the coldest place on earth. I'm freezing already.
-博士说对了，这地方的确是地球上最冷的地方。我已经冻死了
+博士说对了，这地方的确是地球上最冷的地方．我已经冻死了
 
 15
 00:02:07,320 --> 00:02:07,930
@@ -86,7 +87,7 @@ Well watch it Polly!
 18
 00:02:11,135 --> 00:02:14,849
 It's some kind of an aerial. There must be something buried underneath there.
-这是某种天线。这下面肯定有什么东西
+这是某种天线．这下面肯定有什么东西
 
 19
 00:02:15,211 --> 00:02:17,645
@@ -136,7 +137,7 @@ Looks... looks like some kind of a hut.
 28
 00:02:54,650 --> 00:02:58,429
 Quick, take those small arms, get upstairs and get... bring them down. Get moving!
-快，带上那些小武器, 上去把他们带下来，动起来！
+快，带上那些小武器，上去把他们带下来，动起来！
 
 29
 00:03:06,827 --> 00:03:08,516
@@ -145,7 +146,7 @@ I think we'd better go with 'em.
 
 30
 00:03:15,943 --> 00:03:19,462
-Move it, come on, hurry it up, come on, let's go, let's go, come on pops,/
+Move it, come on, hurry it up, come on, let's go, let's go, come on pops,
 动起来，来吧，快点，来，走了走了，快点小伙子
 
 31
@@ -156,7 +157,7 @@ Will you move it, will you move it pops, let's go, come on!
 32
 00:03:21,497 --> 00:03:22,996
 Please stop that. Please, please stop that.
-请别催了。求你了, 别喊了
+请别催了．求你了，别喊了
 
 33
 00:03:23,095 --> 00:03:26,297
@@ -251,7 +252,7 @@ The Commanding Officer, the boss.
 51
 00:03:56,445 --> 00:03:59,826
 Hallo... Sir? Er, Private Tito, duty guard here. 
-哈罗，长官。我是值班士兵 Tito
+哈罗，长官．我是值班士兵 Tito
 
 52
 00:03:59,856 --> 00:04:02,826
@@ -386,7 +387,7 @@ Hmm!
 78
 00:05:07,564 --> 00:05:10,454
 Sergeant, bring him into Tracking and put him under guard in the observation room. 
-中士, 把他带到追踪处, 把他置于观察室的看守之下
+中士，把他带到追踪处，把他置于观察室的看守之下
 
 79
 00:05:10,550 --> 00:05:13,524
@@ -406,7 +407,7 @@ OK, come on, move...
 82
 00:05:27,723 --> 00:05:32,195
 Hey, this is smashing. It looks just like that rocket place in America.
-嘿，这很惊人啊。看起来跟那种美国火箭发射的地方差不多
+嘿，这很惊人啊．看起来跟那种美国火箭发射的地方差不多
 
 83
 00:05:32,388 --> 00:05:33,632
@@ -426,17 +427,17 @@ I don't know what you see on your TV, son,
 86
 00:05:36,850 --> 00:05:39,524
 but this is General Cutler's outfit. Come on, you'd better take a seat.
-但这是 Cutler 将军的场所。过来，你们最好坐下
+但这是 Cutler 将军的场所．过来，你们最好坐下
 
 87
 00:05:39,666 --> 00:05:43,668
 He don't like a lot of personnel, cuts down to the bare minimum and works them right into the ground.
-他不喜欢很多人员, 削减到最低限度, 把他们直接投入地下
+他不喜欢很多人员，削减到最低限度，把他们直接投入地下
 
 88
 00:05:43,773 --> 00:05:47,664
 We only spend a couple of months on this station anyway. We can't stand more than that.
-反正我们只在这里待两三个月而已。我们没法忍受太久
+反正我们只在这里待两三个月而已．我们没法忍受太久
 
 89
 00:05:47,786 --> 00:05:48,399
@@ -446,7 +447,7 @@ Ha ha ha!
 90
 00:05:48,639 --> 00:05:50,823
 I see. Hey, perhaps we can catch a lift back to England.
-明白了。嗨，也许我们还可以赶上个回英格兰的顺风车呢
+明白了．嗨，也许我们还可以赶上个回英格兰的顺风车呢
 
 91
 00:05:51,025 --> 00:05:53,228
@@ -456,7 +457,7 @@ Oh, I can't see the squire there giving us a free lift to anywhere.
 92
 00:05:54,059 --> 00:05:57,968
 Well I don't want to depress you both but I'm afraid we're not quite where you think we are.
-我不想让你们俩郁闷, 但恐怕我们并不完全是在你们想象的地方
+我不想让你们俩郁闷，但恐怕我们并不完全是在你们想象的地方
 
 93
 00:05:58,187 --> 00:05:58,891
@@ -466,7 +467,7 @@ Well I don't want to depress you both but I'm afraid we're not quite where you t
 94
 00:05:59,187 --> 00:06:01,732
 Well, just take a peek at that. Huh huh! Hmm!
-咯，瞥一眼那个去。哼哼！哼！
+咯，瞥一眼那个去．哼哼！哼！
 
 95
 00:06:01,845 --> 00:06:06,316
@@ -476,17 +477,17 @@ Well, just take a peek at that. Huh huh! Hmm!
 96
 00:06:06,585 --> 00:06:09,855
 Yeah, we're still at sea. Here, but that'll explain the few people. 
-是，我们还在海上。对了，这就解释了为什么这么少人了
+是，我们还在海上．对了，这就解释了为什么这么少人了
 
 97
 00:06:09,950 --> 00:06:14,295
 The computers must do all the work now. Here, I wonder if they got to the moon yet.
-所有的工作现在肯定是电脑干。嗨，我好奇他们登上月球没有
+所有的工作现在肯定是电脑干．嗨，我好奇他们登上月球没有
 
 98
 00:06:14,435 --> 00:06:15,564
 Sure, don't you listen to the news?
-当然。你们就不听新闻的吗？
+当然．你们就不听新闻的吗？
 
 99
 00:06:15,766 --> 00:06:16,917
@@ -566,17 +567,17 @@ Snowcap to Zeus 4. Can you read me?
 114
 00:06:51,398 --> 00:06:54,050
 Zeus 4 to Snowcap. Strength 8, over.
-宙斯4号回复雪冠，强度为8。结束
+宙斯4号回复雪冠，强度为8．结束
 
 115
 00:06:54,354 --> 00:06:57,250
 Take visual checks on Mars to establish position. Report back.
-参考火星进行目视检查, 以确定位置，回报结果
+参考火星进行目视检查，以确定位置，回报结果
 
 116
 00:06:57,285 --> 00:07:00,658
 Here we are. Well now, excuse me my dear...
-好了。现在，打扰一下...
+好了．现在，打扰一下...
 
 117
 00:07:00,874 --> 00:07:01,949
@@ -591,7 +592,7 @@ Me? Are you crazy?
 119
 00:07:03,202 --> 00:07:05,695
 Very well then, take me to the General. I think perhaps I can help him.
-那好吧, 带我去见将军。我想我可以帮上他
+那好吧，带我去见将军．我想我可以帮上他
 
 120
 00:07:05,983 --> 00:07:06,882
@@ -661,12 +662,12 @@ It must be on a weak orbit.
 133
 00:07:33,014 --> 00:07:35,251
 It's approaching quite fast. Barclay, couldn't it be...
-它正在快速接近。Barclay，它会不会...
+它正在快速接近．Barclay，它会不会...
 
 134
 00:07:35,347 --> 00:07:39,946
 I know what you're thinking. Zeus 4 is out of orbit and a new planet has appeared.
-我知道你在想什么。宙斯4号偏离了轨道，又有一颗行星出现了...
+我知道你在想什么．宙斯4号偏离了轨道，又有一颗行星出现了...
 
 135
 00:07:40,070 --> 00:07:43,046
@@ -691,7 +692,7 @@ An emergency splash zone?
 139
 00:07:47,506 --> 00:07:55,796
 Yes. Snowcap calling Zeus 4, come in please. Zeus 4 come in please. Do you read me?
-是。雪冠呼叫宙斯4号，请回话。宙斯4号请回话。你们能否听到？
+是．雪冠呼叫宙斯4号，请回话．宙斯4号请回话．你们能否听到？
 
 140
 00:07:56,015 --> 00:07:57,839
@@ -701,7 +702,7 @@ Yes, we read you loud and clear.
 141
 00:07:58,112 --> 00:08:02,240
 You are strength 2 only. Come in please, speak up.
-你们的强度只有2级。请回话，大声点
+你们的强度只有2级．请回话，大声点
 
 142
 00:08:02,697 --> 00:08:04,660
@@ -756,7 +757,7 @@ You say you know what this planet is. Well what is it?
 152
 00:08:21,446 --> 00:08:24,205
 Well I'm not quite sure sir. Let me have another look into this instrument.
-呃我也不是太确定长官。我再去看一眼仪表
+呃我也不是太确定长官．我再去看一眼仪表
 
 153
 00:08:25,744 --> 00:08:28,386
@@ -806,7 +807,7 @@ Yeah. Hey Ben, look, that bit looks just like... Malaysia!
 162
 00:08:50,661 --> 00:08:57,343
 Oh, give over. No, hang on, isn't that... well it looks like South America but it can't be though!
-哦，算了吧。不，等等，那不是...看起来像是南美洲，但这不可能啊！
+哦，算了吧．不，等等，那不是...看起来像是南美洲，但这不可能啊！
 
 163
 00:08:57,400 --> 00:08:58,686
@@ -941,7 +942,7 @@ And what does it mean to Earth?
 189
 00:10:01,372 --> 00:10:03,831
 Well, that pretty soon we shall be having visitors.
-很快我们就会有客人来了
+意味着，很快我们就会有客人来了
 
 190
 00:10:05,336 --> 00:10:09,968
@@ -1020,7 +1021,7 @@ What, that thing out there?
 205
 00:10:57,448 --> 00:10:59,252
 Yeah, that's right. Come on, hurry up and get dressed up.
-是的，就是这样。来吧，快点，穿上点
+是的，就是这样．来吧，快点，穿上点
 
 206
 00:10:59,436 --> 00:11:00,300
@@ -1060,14 +1061,10 @@ Who the heck are you?!
 213
 00:12:00,773 --> 00:12:03,608
 OK Joe, that should do it. OK, let's go.
-好了 Joe，这应该可以了。好，我们走
+好了 Joe，这应该可以了．好，我们走
 
 214
 00:12:13,549 --> 00:12:16,053
 Hey, this is where it is guys.
 嘿，就是这个地方了伙计们
 
-215
-00:12:16,465 --> 00:12:17,443
-Hey sir, what's going on?
-嘿头儿，怎么样了？

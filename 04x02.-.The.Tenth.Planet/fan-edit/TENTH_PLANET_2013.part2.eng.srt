@@ -1,150 +1,150 @@
-2
+1
 00:12:36,230 --> 00:12:39,225
 That's the most fantastic story I've ever heard.
 
-3
+2
 00:12:39,430 --> 00:12:42,392
 I can only repeat, sir, what I have already told you.
 
-4
+3
 00:12:42,510 --> 00:12:44,992
 You will get visitors from that other planet.
 
-5
+4
 00:12:45,237 --> 00:12:46,193
 Nonsense.
 
-6
+5
 00:13:15,416 --> 00:13:16,502
 It's imperative that I talk to you, General.
 
-7
+6
 00:13:16,756 --> 00:13:18,514
 Get away, old man. Can't you see...
 
-8
+7
 00:13:18,710 --> 00:13:20,589
 You, will you pay attention? Will you?!
 
-9
+8
 00:13:20,818 --> 00:13:25,441
 Get this man back into the observations room. Sergeant, that was an order!
 
-10
+9
 00:13:26,314 --> 00:13:27,080
 Take that man back to the obs...
 
-11
+10
 00:13:32,144 --> 00:13:32,997
 Back to your places.
 
-12
+11
 00:13:37,557 --> 00:13:38,424
 Oh no...
 
-13
+12
 00:13:38,676 --> 00:13:39,999
 Come back Polly, they'll blow your head off!
 
-14
+13
 00:13:40,228 --> 00:13:40,737
 Ah!
 
-15
+14
 00:13:45,601 --> 00:13:50,408
 Now look, I don't know who you are or what you are
 你看，我不知道你们是谁，是什么东西
 but we've got two men in space, if we don't act now we won't get them back alive.
 
-16
+15
 00:13:50,681 --> 00:13:51,979
 They will not return.
 
-17
+16
 00:13:52,252 --> 00:13:53,135
 Why not?
 
-18
+17
 00:13:53,444 --> 00:13:56,413
 It is unimportant now.
 
-19
+18
 00:13:57,239 --> 00:13:58,894
 But... We must get them back! When...
 
-20
+19
 00:13:59,142 --> 00:14:03,740
 There is really no point. They could never reach Earth now.
 
-21
+20
 00:14:04,009 --> 00:14:05,048
 But don't you care?
 
-22
+21
 00:14:05,326 --> 00:14:08,037
 Care? No, why should I care?
 
-23
+22
 00:14:08,303 --> 00:14:10,246
 Because they're people and they're going to die!
 
-24
+23
 00:14:10,469 --> 00:14:17,696
 I do not understand you. There are people dying all over your world yet you do not care about them.
 
-25
+24
 00:14:17,959 --> 00:14:19,470
 Yes, but we could avoid their deaths...
 
-26
+25
 00:14:19,706 --> 00:14:23,156
 You will be wondering what has happened.
 
-27
+26
 00:14:23,210 --> 00:14:27,356
 Your astronomers will have just discovered a new planet. Is that not so?
 
-28
+27
 00:14:27,610 --> 00:14:28,506
 Yes, that's right.
 
-29
+28
 00:14:28,764 --> 00:14:32,793
 That is where we come from. It is called Mondas.
 
-30
+29
 00:14:33,037 --> 00:14:33,955
 Mondas?
 
-31
+30
 00:14:34,235 --> 00:14:36,315
 Mondas? But isn't that one of the ancient names of Earth?
 
-32
+31
 00:14:36,530 --> 00:14:45,733
 Yes. Aeons ago our planets were twins then we drifted away from you...
 
-33
+32
 00:14:41,213 --> 00:14:45,733
 ...on a journey to the edge of space. Now we have returned.
 
-34
+33
 00:14:46,050 --> 00:14:47,004
 You were right, Doctor.
 
-35
+34
 00:14:47,224 --> 00:14:48,628
 But who or what are you?
 
-36
+35
 00:14:48,931 --> 00:14:51,279
 We are called Cybermen.
 
-37
+36
 00:14:51,636 --> 00:14:52,523
 Cybermen?
 
-38
+37
 00:14:52,882 --> 00:14:57,184
 Yes, Cybermen. We were exactly like you once
 
@@ -152,612 +152,623 @@ Yes, Cybermen. We were exactly like you once
 00:14:57,442 --> 0:15:01,0884
 but our cybernetic scientists realised that our race was getting weak.
 
-40
+38
 00:15:02,148 --> 00:15:03,099
 Weak, how?
 
-41
+39
 00:15:03,362 --> 00:15:09,909
 Our life span was getting shorter so our scientists and doctors devised spare parts for our bodies
 
-42
+40
 00:15:10,252 --> 00:15:15,009
 ...until we could be almost completely replaced.
 
-43
+41
 00:15:16,047 --> 00:15:19,239
 But... that means you're not like us. You're robots!
 
-44
+42
 00:15:19,545 --> 00:15:25,665
 Our brains are just like yours except that certain weaknesses have been removed.
 
-45
+43
 00:15:25,929 --> 00:15:27,525
 Weaknesses? What weaknesses?
 
-46
+44
 00:15:27,759 --> 00:15:30,331
 You call them emotions, do you not?
 
-47
+45
 00:15:30,588 --> 00:15:34,931
 But... that's terrible! You... you mean you wouldn't care about someone in pain?
 
-48
+46
 00:15:35,154 --> 00:15:38,970
 There would be no need. We do not feel pain.
 
-49
+47
 00:15:39,220 --> 00:15:40,403
 But we do.
 
-50
+48
 00:15:41,895 --> 00:15:42,807
 General!
 
-51
+49
 00:15:43,188 --> 00:15:46,101
 Ha, that'll fix ya! Europe will know there's an emergency here now.
 
-52
+50
 00:15:46,480 --> 00:15:51,481
 That was really most unfortunate. You should not have done that.
 
-53
+51
 00:15:51,782 --> 00:15:59,016
 Switch off the radio and tell Europe that nothing further has happened and that all is well here.
 
-54
+52
 00:15:59,241 --> 00:16:00,867
 I'll do no such thing.
 
-55
+53
 00:16:01,097 --> 00:16:02,451
 That is an order.
 
-56
+54
 00:16:02,702 --> 00:16:05,991
 Go take a jump!
 
-57
+55
 00:16:06,296 --> 00:16:07,755
 Trigger pack.
 
-58
+56
 00:16:18,876 --> 00:16:20,579
 Stay where you are.
 
-59
+57
 00:16:20,825 --> 00:16:22,035
 You've killed him!
 
-60
+58
 00:16:22,305 --> 00:16:25,182
 I have not killed him. He will recover.
 
-61
+59
 00:16:25,333 --> 00:16:30,982
 Now, someone must answer your commander in Europe. He is waiting.
 
-62
+60
 00:16:31,614 --> 00:16:32,466
 I refuse.
 
-63
+61
 00:16:34,973 --> 00:16:35,768
 You.
 
-64
+62
 00:16:36,443 --> 00:16:36,874
 Yes?
 
-65
+63
 00:16:37,168 --> 00:16:39,895
 Which are the communication controls?
 
-66
+64
 00:16:40,493 --> 00:16:41,522
 O... over here.
 
-67
+65
 00:16:41,746 --> 00:16:42,455
 Dyson!
 
-68
+66
 00:16:46,402 --> 00:16:47,716
 Stand aside
 
-69
+67
 00:16:51,512 --> 00:16:52,591
 What are you going to do?
 
-70
+68
 00:16:52,906 --> 00:16:54,259
 You will see.
 
-71
+69
 00:16:54,478 --> 00:16:57,395
 If you destroy those we shall be unable to keep contact with the capsule.
 
-72
+70
 00:16:57,690 --> 00:17:01,650
 Your commander is still waiting for your report.
 
-73
+71
 00:17:01,982 --> 00:17:05,062
 For God's sake Barclay, do as he asks. Do you want the place destroyed?
 
-74
+72
 00:17:06,228 --> 00:17:07,192
 All right.
 
-75
+73
 00:17:11,819 --> 00:17:13,153
 Come in Geneva.
 
-76
+74
 00:17:13,466 --> 00:17:18,509
 Snowcap. What's going on? We received an emergency from you on the radio link.
 
-77
+75
 00:17:18,894 --> 00:17:23,417
 I-i-i-it was a fault. We're, we are looking at it now. I'm sorry about the false alarm.
 
-78
+76
 00:17:23,645 --> 00:17:28,042
 Where is the static coming from? We can hardly hear you, even on these bands.
 
-79
+77
 00:17:28,257 --> 00:17:31,481
 It it it, well, I-I-I, er think it must have been the reactor.
 
-80
+78
 00:17:31,555 --> 00:17:36,484
 We had the moderator on, er, for a time this afternoon and er, well, well that's probably it.
 
-81
+79
 00:17:36,931 --> 00:17:42,450
 I see. Contact us if you have any further reports on this new planet.
 
-82
+80
 00:17:42,703 --> 00:17:43,549
 Yes sir.
 
-83
+81
 00:17:44,047 --> 00:17:47,719
 Well done, Barclay. Now the space capsule will have another chance.
 
-84
+82
 00:17:48,434 --> 00:17:51,731
 Now you must let us try and get in touch with our astronauts.
 
-85
+83
 00:17:51,977 --> 00:17:56,344
 I told you it is impossible for them to get back now.
 
-86
+84
 00:17:56,421 --> 00:17:58,845
 The force on them is too strong.
 
-87
+85
 00:17:59,249 --> 00:18:01,034
 But you must let us try, please.
 
-88
+86
 00:18:01,336 --> 00:18:05,242
 It is a foregone conclusion. You are wasting time.
 
-89
+87
 00:18:05,321 --> 00:18:09,223
 However, if you wish to contact them I have no objection.
 
-90
+88
 00:18:09,926 --> 00:18:14,703
 He and his colleagues may use their equipment.
 
-91
+89
 00:18:14,094 --> 00:18:17,896
 Any attempt at deceit however, kill them at once.
 
-92
+90
 00:18:18,094 --> 00:18:22,696
 Remove the soldier. I will carry on detail.
 
-93
+91
 00:18:23,425 --> 00:18:27,240
 Snowcap to Zeus 4, come in please. Zeus 4, come in please.
 
-94
+92
 00:18:27,500 --> 00:18:28,869
 We have you, over.
 
-95
+93
 00:18:29,161 --> 00:18:30,902
 Prepare to check orbital density.
 
-96
+94
 00:18:31,149 --> 00:18:31,837
 Ready.
 
-97
+95
 00:18:34,150 --> 00:18:35,402
 Right Doctor, while they take him out we'll make a break for it.
 
-98
+96
 00:18:35,660 --> 00:18:36,038
 Eh?
 
-99
+97
 00:18:36,237 --> 00:18:37,147
 Then we can get back to the TARDIS!
 
-100
+98
 00:18:37,322 --> 00:18:38,271
 Well how can we do that, boy?
 
-101
+99
 00:18:38,515 --> 00:18:42,226
 Well, we can make a break for it. Down that corridor, the trapdoor and then bolt it from behind.
 
-102
+100
 00:18:42,548 --> 00:18:44,292
 Nonsense, nonsense, they'll burn it down in a flash!
 
-103
+101
 00:18:44,498 --> 00:18:45,811
 We can do with that for a start!
 
-104
+102
 00:18:46,025 --> 00:18:46,501
 No, Ben!
 
-105
+103
 00:18:46,718 --> 00:18:48,615
 If they see you... Ben, for goodness sake!
 
-106
+104
 00:18:48,861 --> 00:18:53,307
 Stop! Come here.
 
-107
+105
 00:19:01,443 --> 00:19:05,277
 You do not seem to take us seriously.
 
-108
+106
 00:19:12,242 --> 00:19:13,442
 Blimey!
 
-109
+107
 00:19:14,527 --> 00:19:15,411
 Heavens!
 
-110
+108
 00:19:15,978 --> 00:19:19,258
 Take him out and look after him.
 
-111
+109
 00:19:23,441 --> 00:19:28,409
 It is quite useless to resist us. We are stronger
 
-112
+110
 00:19:28,517 --> 00:19:33,609
 and more efficient than your Earth people. We must be obeyed.
 
-113
+111
 00:19:38,489 --> 00:19:47,344
 Uh! Locked... uh! No
 
-114
+112
 00:20:03,823 --> 00:20:04,663
 What happened?
 
-115
+113
 00:20:06,942 --> 00:20:10,367
 I'm afraid the spaceship exploded, my dear.
 
-116
+114
 00:20:11,727 --> 00:20:12,924
 You mean they're dead?
 
-117
+115
 00:20:13,186 --> 00:20:19,535
 Now perhaps you can see that your planet is in great and imminent danger.
 
-118
+116
 00:20:19,867 --> 00:20:28,545
 In order to save you we shall require information to be transmitted to Mondas.
 
-119
+117
 00:20:25,852 --> 00:20:26,660
 Save us?
 
-120
+118
 00:20:27,018 --> 00:20:28,136
 What about those poor men?
 
-121
+119
 00:20:28,359 --> 00:20:34,404
 Perhaps you will co-operate. Mondas drew the ship away. It was unavoidable.
 
-122
+120
 00:20:34,672 --> 00:20:36,008
 Why? What is happening?
 
-123
+121
 00:20:36,213 --> 00:20:37,734
 I will require your name.
 
-124
+122
 00:20:37,956 --> 00:20:38,845
 Tell us!
 
-125
+123
 00:20:39,359 --> 00:20:43,562
 The energy of Mondas is nearly exhausted
 
-126
+124
 00:20:43,621 --> 00:20:47,572
 and now we turn to it's twin and will gather energy from Earth.
 
-127
+125
 00:20:48,284 --> 00:20:48,720
 Gather energy?!
 
-128
+126
 00:20:48,946 --> 00:20:49,794
 Age, name and occupation.
 
-129
+127
 00:20:49,983 --> 00:20:50,840
 But for how long?
 
-130
+128
 00:20:51,079 --> 00:20:52,577
 My name is John Dyson, supervising engineer.
 
-131
+129
 00:20:52,898 --> 00:20:55,418
 Until it is all gone. Age.
 
-132
+130
 00:20:55,631 --> 00:20:57,781
 But that means that the Earth will... will die!
 
-133
+131
 00:20:58,002 --> 00:21:01,738
 Yes. Everything on Earth will stop. Age please.
 
-134
+132
 00:21:01,928 --> 00:21:04,401
 But you can't calmly stand there and tell us we're all going to die!
 
-135
+133
 00:21:04,654 --> 00:21:06,733
 You are not going to die.
 
-136
+134
 00:21:06,946 --> 00:21:09,665
 And how are you going to stop this energy drain from Mondas?
 
-137
+135
 00:21:10,073 --> 00:21:13,658
 Name and occupation please. We cannot. It is beyond our powers.
 
-138
+136
 00:21:13,861 --> 00:21:14,829
 How are we going to survive?!
 
-139
+137
 00:21:15,143 --> 00:21:17,723
 Speak please. By coming with us. Age.
 
-140
+138
 00:21:18,215 --> 00:21:19,182
 With you?
 
-141
+139
 00:21:19,497 --> 00:21:24,796
 Yes. We are going to take you all back to Mondas. Your age please.
 
-142
+140
 00:21:25,060 --> 00:21:26,700
 - His age is unimportant here!
 - That's the most ridiculous thing I've ever heard in my life!
 
-143
+141
 00:21:26,979 --> 00:21:29,058
 You cannot for one moment...
 
-144
+142
 00:21:36,918 --> 00:21:43,261
 Hey, wait a minute! If I was to turn this on the door...
 
-145
+143
 00:21:43,831 --> 00:21:47,901
 ...it might blind him! Yeah.
 
-146
+144
 00:22:01,910 --> 00:22:04,238
 Hah! I saw that film 20 years ago.
 
-147
+145
 00:22:08,565 --> 00:22:12,741
 Oy, come in here mate, you're wanted! Oy, come in here!
 
-148
+146
 00:22:14,519 --> 00:22:16,290
 Blemmy ehny ah fu! Uh!
 
-149
+147
 00:22:17,364 --> 00:22:18,777
 Now then, Fred!
 
-150
+148
 00:22:19,039 --> 00:22:20,489
 Ahh!
 
-151
+149
 00:22:24,329 --> 00:22:27,921
 Do not resist. Give me that weapon.
 
-152
+150
 00:22:28,216 --> 00:22:32,359
 No, I'm sorry mate, I'm giving the orders here. Now look, get back.
 
-153
+151
 00:22:32,594 --> 00:22:34,550
 Look, I'm telling you, get back!
 
-154
+152
 00:22:37,914 --> 00:22:39,488
 You didn't give me no alternative!
 
-155
+153
 00:22:39,758 --> 00:22:42,741
 There's no scientific certainty that this is a dying planet!
 
-156
+154
 00:22:43,374 --> 00:22:45,321
 Perhaps we would prefer to take our chances here.
 
-157
+155
 00:22:45,337 --> 00:22:47,669
 You must come and live with us.
 
-158
+156
 00:22:47,897 --> 00:22:51,150
 But we cannot live with you, you're... you're different, you've got no feelings.
 
-159
+157
 00:22:51,360 --> 00:22:55,146
 Feelings? I do not understand that word.
 
-160
+158
 00:22:55,409 --> 00:23:01,282
 Emotions. Love, pride, hate, fear. Have you no emotions, sir?
 
-161
+159
 00:23:01,536 --> 00:23:06,262
 Come to Mondas and you will have no need of emotions.
 
-162
+160
 00:23:06,304 --> 00:23:08,462
 You will become like us.
 
-163
+161
 00:23:08,809 --> 00:23:09,897
 Like you?
 
-164
+162
 00:23:10,170 --> 00:23:17,856
 We have freedom from disease, protection against heat and cold, true mastery.
 
-165
+163
 00:23:17,957 --> 00:23:19,560
 Do you prefer to die in misery?
 
-166
+164
 00:23:19,918 --> 00:23:23,509
 But look, surely I... it's possible for us not to lose Earth's energy?
 
-167
+165
 00:23:23,780 --> 00:23:25,606
 It is inevitable.
 
-168
+166
 00:23:26,240 --> 00:23:28,517
 Then you don't mind if we all die.
 
-169
+167
 00:23:28,784 --> 00:23:30,384
 Why should we mind?
 
-170
+168
 00:23:30,770 --> 00:23:31,609
 Why? Why?!
 
-171
+169
 00:23:32,125 --> 00:23:36,137
 Because millions and millions of people are going to suffer and die horribly!
 
-172
+170
 00:23:36,433 --> 00:23:38,586
 We shall not be affected.
 
-173
+171
 00:23:38,818 --> 00:23:41,148
 Don't you think of anything except yourselves?!
 
-174
+172
 00:23:41,389 --> 00:23:47,253
 We are equipped to survive. We are only interested in survival.
 
-175
+173
 00:23:47,334 --> 00:23:53,753
 Anything else is of no importance. Your deaths will not affect us.
 
-176
+174
 00:23:54,003 --> 00:23:58,298
 But I can't make you understand, you're condemning us all to die, have you no heart?
 
-177
+175
 00:23:58,564 --> 00:24:03,541
 No, that is one of the weaknesses that we have removed.
 
-178
+176
 00:24:09,915 --> 00:24:11,671
 All right, get me Geneva, quick!
 
-179
+177
 00:24:13,304 --> 00:24:15,984
 Come on, let's have some action. Get rid of these... things!
 
-180
+178
 00:24:16,232 --> 00:24:19,884
 I don't think you should have done that, General. We may have learned a very great deal.
 
-181
+179
 00:24:20,093 --> 00:24:22,703
 Yeah, we may have lost a very great deal, our lives!
 
-182
+180
 00:24:26,225 --> 00:24:33,742
 Missile control? Program all Cobra anti-missiles for launch imminent. Stand in readiness and await instructions.
 
-183
+181
 00:24:35,141 --> 00:24:36,123
 What a ghastly man.
 
-184
+182
 00:24:36,329 --> 00:24:37,579
 Yeah, I wouldn't want him on the bridge.
 
-185
+183
 00:24:37,811 --> 00:24:39,514
 We'll soon have this place sealed up like a bottle.
 
-186
+184
 00:24:39,702 --> 00:24:42,467
 I think you rather underestimate the Cybermen, General.
 
-187
+185
 00:24:43,286 --> 00:24:45,537
 Oh, that's what you reckon is it, old man?
 
-188
+186
 00:24:45,844 --> 00:24:49,537
 Well, you're entitled to your opinions so long as you keep them to yourself!
 
-189
+187
 00:24:50,764 --> 00:24:51,348
 General Cutler, sir!
 
-190
+188
 00:24:51,563 --> 00:24:52,079
 Yes, what is it?
 
-191
+189
 00:24:52,284 --> 00:24:53,803
 Strong signal on the early warning, unidentified.
 
+190
+00:24:56,891 --> 00:24:59,668
+Yes sir, it's er, er... There are hundreds of them, sir!
+
+191
+00:24:59,879 --> 00:25:00,935
+Hundreds of what, man?
+
+192
+00:25:01,127 --> 00:25:02,522
+Spaceships sir. In formation!

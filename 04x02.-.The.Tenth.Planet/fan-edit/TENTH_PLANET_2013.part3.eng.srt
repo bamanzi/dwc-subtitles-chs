@@ -1,28 +1,16 @@
-2
-00:24:56,891 --> 00:24:59,668
-Yes sir, it's er, er... There are hundreds of them, sir!
-
-3
-00:24:59,879 --> 00:25:00,935
-Hundreds of what, man?
-
-4
-00:25:01,127 --> 00:25:02,522
-Spaceships sir. In formation!
-
-5
+1
 00:25:05,075 --> 00:25:08,689
 Spaceships. That means only one thing, more Cybermen.
 
-6
+2
 00:25:08,756 --> 00:25:12,289
 Dyson, see if you can get hold of Zeus 5, I want to speak to my son.
 
-7
+3
 00:25:12,489 --> 00:25:13,383
 Trying now, sir.
 
-8
+4
 00:25:14,394 --> 00:25:15,803
 What's the matter, Doctor?
 
