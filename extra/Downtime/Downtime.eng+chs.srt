@@ -1,6 +1,6 @@
 1
 00:00:03,000 --> 00:00:07,000
-（此为片前广告，正片在3:02开始）
+（此为片前广告, 正片在3:02开始）
 
 2
 00:03:20,000 --> 00:03:23,000
@@ -10,11 +10,11 @@ Det-sen Monasnary, Tibet
 3
 00:03:23,200 --> 00:03:26,500
 15年前 
-（这里指1980年，因本片故事设定为1995年）
+（这里指1980年, 因本片故事主体设定在1995年）
 
 4
-00:03:27,200 --> 00:03:32,500
-（西藏德赞寺是博士及其同伴杰米、维多利亚首次遭遇大智慧和雪怪的地方，见《神秘博士》老版本第五季第二集《可恶的雪人》 The Abominable Snowmen）
+00:03:27,200 --> 00:03:36,500
+（西藏德赞寺是博士及其同伴杰米、维多利亚首次遭遇大智慧和雪怪的地方, 见《神秘博士》老版第五季第二集《可恶的雪人》 The Abominable Snowmen）
 
 5
 00:03:40,640 --> 00:03:42,358
@@ -100,7 +100,7 @@ My father died far away
 00:04:42,480 --> 00:04:45,996
 - on another world.
 - There are many other worlds,
-- 在另外一个世界  - 有很多其它的世界
+- 死在另外一个世界  - 有很多其它的世界
 
 22
 00:04:46,120 --> 00:04:47,793
@@ -115,18 +115,17 @@ But I can hear his voice in my thoughts.
 24
 00:04:51,160 --> 00:04:53,470
 He's called me all this way.
-他一直都在呼唤着我
+他一直都在这样呼唤着我
 
 25
 00:04:53,600 --> 00:04:58,390
-Demons and hungry ghosts
-steal many shapes.
-恶魔和饥饿的鬼魂偷了许多形体
+Demons and hungry ghosts steal many shapes.
+恶魔和饥饿的鬼魂会盗用许多形体
 
 26
 00:04:59,280 --> 00:05:01,794
 Turn away, Victoria.
-掉头吧，Victoria
+掉头吧, 维多利亚
 
 27
 00:05:01,960 --> 00:05:05,999
@@ -136,12 +135,12 @@ Why do you delay? Release me!
 28
 00:05:06,120 --> 00:05:10,910
 I know he's here. Please tell me where to find him.
-我知道他在这里。请告诉我哪里可以找到他
+我知道他在这里. 请告诉我哪里可以找到他
 
 29
 00:05:11,040 --> 00:05:15,238
 A second time I ask, what do you seek?
-我问第二遍，你在找什么？
+我问第二遍, 你在找什么？
 
 30
 00:05:15,360 --> 00:05:17,636
@@ -156,7 +155,7 @@ I'm alone in the darkness.
 32
 00:05:20,400 --> 00:05:24,712
 Do not disturb it. It is not your father.
-别惊扰它，它不是你父亲
+别惊扰它, 它不是你父亲
 
 33
 00:05:24,840 --> 00:05:27,753
@@ -197,7 +196,7 @@ You were expected.
 00:05:50,280 --> 00:05:54,956
 My task is ended. I cannot prevent
 your journey into the dark.
-我的任务结束了，我不再阻止你踏入黑暗
+我的任务结束了, 我不再阻止你踏入黑暗
 
 41
 00:05:56,440 --> 00:06:00,115
@@ -217,12 +216,12 @@ I've been alone,
 44
 00:06:16,280 --> 00:06:18,191
 like you, Victoria.
-跟你一样，维多利亚
+跟你一样, 维多利亚
 
 45
 00:06:18,800 --> 00:06:20,871
 But together..
-但是一起...
+但是我们一起...
 
 46
 00:06:21,040 --> 00:06:22,474
@@ -269,47 +268,46 @@ Find me the Locus!
 
 55
 00:06:52,000 --> 00:07:02,800
-（Victoria 诞生于19世纪，她父亲因制造时间机器而引来Daleks，然后她和她父亲还有博士一行被 Daleks 带到 Daleks 的母星 Skaro。当 Dalek 朝博士开枪时，她父亲替他挡了一枪，因此牺牲。相关故事参见老版第四季第九集 《Dalek的邪恶》。她父亲其实跟大智慧没有什么交集，只是她自己一直因父亲的死而不能释怀。）
+（Victoria 诞生于19世纪, 她父亲因制造时间机器而引来Daleks, 然后她和她父亲还有博士一行被 Daleks 带到 Daleks 的母星 Skaro. 当 Dalek 朝博士开枪时, 她父亲替他挡了一枪, 因此牺牲. 相关故事参见老版第四季第九集 《Dalek的邪恶》. 她父亲其实跟大智慧没有什么交集, 只是她自己一直因父亲的死而不能释怀. ）
 
 56
 00:07:07,500 --> 00:07:10,000
 <b>Downtime</b>
-
 
 57
 00:07:26,320 --> 00:07:29,278
 (HOUSE MUSIC PLAYING THROUGH HEADPHONES)
 
 58
-00:07:34,320 --> 00:07:36,277
+00:07:34,120 --> 00:07:36,277
 No, Gordy, I told you to play down there while I'm talking.
-不，高迪，我跟你说过，我在讲电话的时候你要在下面玩
+不, 戈迪, 我跟你说过, 我在讲电话的时候你要在下面玩
 
 59
 00:07:36,400 --> 00:07:37,674
 Now, off you go.
-现在，下来吧
+现在, 下来吧
 
 60
 00:07:38,040 --> 00:07:39,838
 Hello? Hello, Beth?
-你好？你好，贝丝
+你好？你好, 贝丝
 
 61
 00:07:40,440 --> 00:07:41,919
 Look, they're still there.
-看，他们还在那儿
+看, 他们还在那儿
 
 62
 00:07:42,040 --> 00:07:45,271
-Those two, you know, New World weirdos, Chillys or whatever they're called.
-这两个是什么新世界的怪人，他们称呼为鸡仔什么的
+Those two, you know, New World weirdos, 
+Chillys or whatever they're called.
+这两个是什么新世界的怪人, 他们称呼为鸡仔什么的
 
 63
 00:07:46,160 --> 00:07:49,278
-Yes, of course, I've called the police
-and the council.
-是的，当然，我已经报告给警察和理事会了fixme
+Yes, of course, I've called the police and the council.
+是的, 当然, 我已经报告给警察和地方议会了
 
 64
 00:07:49,400 --> 00:07:50,993
@@ -318,35 +316,36 @@ They all think I'm crazy.
 
 65
 00:07:51,120 --> 00:07:53,680
-The Chillys just vanish when anyone comes, but they're soon back.
-一有人来这些鸡仔就消失了，但很快又回来了
+The Chillys just vanish when anyone comes,
+but they're soon back.
+一有人来这些鸡仔就消失了, 但很快又会回来
 
 66
 00:07:54,640 --> 00:07:56,074
 I mean, why pick me?
-我是说，为什么挑上我？
+我是说, 为什么挑上我？
 
 67
 00:07:56,800 --> 00:07:59,758
 1 don't know what to do, Beth.
 I have no one else to talk to.
-我不知道该怎么办，贝丝。我找不到其它人聊这个事
+我不知道该怎么办, 贝丝. 我找不到其它人聊这个事
 
 68
 00:07:59,880 --> 00:08:02,838
 BETH: Look, I'll tell you what. Why
 don't you try asking your dad for help?
-听着，我告诉你怎么办，你为什么不找你爸爸求助？
+听着, 我告诉你怎么办, 你为什么不找你爸爸求助？
 
 69
 00:08:04,320 --> 00:08:06,311
 What? Sorry, this line's terrible.
-什么？抱歉，线路太不好了
+什么？抱歉, 线路太不好了
 
 70
 00:08:07,320 --> 00:08:09,311
 My dad? God, no, I couldn't do that.
-我爸爸？天呐，不，我不能那么干
+我爸爸？天呐, 不, 我不能那么干
 
 71
 00:08:09,440 --> 00:08:12,080
@@ -356,48 +355,47 @@ It's been at least six years since I spoke to him.
 72
 00:08:12,360 --> 00:08:14,954
 Oh, and the computer keeps crashing, so I can't work.
-噢，电脑一直宕机，我没法工作
+噢, 电脑一直宕机, 我没法工作
 
 73
 00:08:15,080 --> 00:08:18,357
 And that damn noise all the time,
 it's like being under siege.
-一直都有那个该死的噪音，感觉像是被攻击了
+一直都有那个该死的噪音, 感觉像是被攻击了
 
 74
 00:08:18,480 --> 00:08:20,630
-Oh, it's disturbing, Gordy.
-He can't stay here.
-噢，这很烦人，Gordy，他不能待在这里
+Oh, it's disturbing. Gordy he can't stay here.
+噢, 这很烦人. 戈迪他不能待在这里
 
 75
 00:08:22,080 --> 00:08:23,878
 Would you? Would you really, Beth?
-你会吗？你真的会吗，贝丝？
+你会吗？你真的会吗, 贝丝？
 
 76
 00:08:24,600 --> 00:08:26,511
 Yes. All right.
-是，好吧
+是, 好吧
 
 77
 00:08:26,640 --> 00:08:28,551
 But soon. He can't stay here.
-但快点，他不能待在这里
+但快点, 他不能待在这里
 
 78
 00:08:28,680 --> 00:08:30,637
 Yes, thanks, Beth. Okay, bye.
-是，谢谢，贝丝。好，再见
+是, 谢谢, 贝丝. 好, 再见
 
 79
 00:08:31,000 --> 00:08:36,000
-（此角色 Kate Lethbridge-Stewart 是UNIT负责人准将 Gordon Lethbridge-Stewart 的女儿。后来她也成了UNIT的负责人，在《博士之日》中再次亮相，不过不再是这个演员）
+（此角色 Kate Lethbridge-Stewart 是UNIT前负责人Gordon Lethbridge-Stewart 准将的女儿. 后来她也成了UNIT的负责人, 在《博士之日》中再次亮相, 不过不再是这个演员）
 
 80
 00:08:36,560 --> 00:08:37,595
 Gordy?
-高迪？
+戈迪？
 
 81
 00:08:38,960 --> 00:08:40,598
@@ -406,30 +404,30 @@ Gordy?
 82
 00:08:40,720 --> 00:08:42,711
 No, Gordy. Not guns. Come on, darling.
-不，高迪，别玩枪战了。快来，亲爱的
+不, 戈迪, 别玩枪战了. 快来, 亲爱的
 
 83
 00:08:42,840 --> 00:08:45,480
 Now, come on up. Put that down.
 Come on to the boat.
-现在，上这里来。把那个放下，快到船里来
+现在, 上这里来. 把那个放下, 快到船里来
 
 84
 00:08:45,600 --> 00:08:47,671
 I've told you before about this.
 Now quickly, now.
-我以前跟你说过这个。快过来，马上
+我以前跟你说过这个. 快过来, 马上
 
 85
 00:08:47,800 --> 00:08:50,474
 Here we go. Up you go. Great.
-来吧，起来啰，很好
+来吧, 起来啰, 很好
 
 86
 00:08:50,600 --> 00:08:53,274
 Now, you go and play inside
 till Beth comes, all right?
-现在，你到里面去玩，知道贝丝过来，好吗？
+现在, 你到里面去玩, 直到贝丝过来, 好吗？
 
 87
 00:08:53,400 --> 00:08:54,595
@@ -460,2382 +458,2375 @@ Leave us alone.
 (LOW GROWLING)
 
 93
-00:09:40,000 --> 00:09:43,000
-（Piccadilly Circus 皮卡迪利广场是伦敦一个路口的名称，《神秘博士》里有很多故事发生在这个地方）
+00:09:40,300 --> 00:09:43,300
+（Piccadilly Circus 皮卡迪利广场是伦敦一个路口的名称, 
+《神秘博士》里有很多故事发生在这个地方）
 
 94
 00:10:05,120 --> 00:10:08,590
-MAN: (ON RADIO) The sound of the
-future on 98.4 New World FM.
+MAN: (ON RADIO) The sound of the future
+on 98.4 New World FM.
 未来之声尽在FM98.4新世界电台
 
 95
-00:10:10,440 --> 00:10:13,319
+00:10:10,640 --> 00:10:13,519
 ANTHONY: (ON RADIO) And it's a Mega Morning
 to all you slickers out there.
 对你们所有的懒汉来说, 这是一个超级的早晨
 
 96
-00:10:13,440 --> 00:10:15,292
-You're jacked into N Treble U,
-the ones who share,
-你也许是刚刚切换到 NTU ，一个热爱分享的电台
+00:10:13,640 --> 00:10:15,792
+You're jacked into N Treble U, the ones who share,
+你现在收听的是 NTU , 一个热爱分享的电台
 
 97
-00:10:16,720 --> 00:10:19,792
-bringing you our daily show
-on National FM radio.
+00:10:16,920 --> 00:10:19,992
+bringing you our daily show on National FM radio.
 为你带来国家调频电台上的每日秀
 
 98
-00:10:19,920 --> 00:10:22,912
+00:10:20,120 --> 00:10:23,112
 I'm Anthony, and this is where
 the jazzy bright day starts,
-我是安东尼，轻松明亮的一天就从这里开始
+我是安东尼, 轻松明亮的一天就从这里开始
 
 99
-00:10:23,040 --> 00:10:25,714
-a New World coming soon,
-the way it always will be.
+00:10:23,240 --> 00:10:25,914
+a New World coming soon, the way it always will be.
 一个新世界迈步走来, 一如既往
 
 100
-00:10:27,040 --> 00:10:29,509
+00:10:27,240 --> 00:10:29,709
 0135-666-416.
 
 101
-00:10:30,160 --> 00:10:31,912
+00:10:30,360 --> 00:10:32,112
 We want to share that with you all.
 (KEYBOARD CLACKING)
 我们期望与你们所有人分享
 
 102
-00:10:32,040 --> 00:10:35,237
+00:10:32,240 --> 00:10:35,437
 Meantime, it can be a mean time out there, so let's...
-与此同时，它又fixme
+与此同时, 它可能又是艰苦的一天...
 
 103
-00:10:37,600 --> 00:10:39,000
+00:10:37,800 --> 00:10:39,200
 <b>(New World University)</b>
 （新世界大学）
 
 104
-00:10:41,720 --> 00:10:43,711
-(COMPUTER READING)
+00:10:41,920 --> 00:10:46,411
+(COMPUTER READING) Good morning.
+Today is Thursday 14th September, 1995
+<i>早上好, 今天是1995年9月14日 星期三</i>
 
 105
-00:11:01,040 --> 00:11:03,031
-(COMPUTER READING)
+00:10:46,530 --> 00:10:49,664
+(COMPUTER READING) Please insert your identity code.
+<i>请输入你的身份代号</i>
 
 106
-00:11:06,880 --> 00:11:09,394
-(HOUSE MUSIC PLAYING
-THROUGH HEADPHONES)
+00:11:01,240 --> 00:11:06,231
+(COMPUTER READING) Welcome to New World.
+Have the best one yet.
+<i>欢迎来到新世界. 还有一个最好的</i>
 
 107
-00:11:09,520 --> 00:11:12,080
-(KEYBOARD CLACKING)
+00:11:07,080 --> 00:11:09,594
+(HOUSE MUSIC PLAYING THROUGH HEADPHONES)
 
 108
-00:11:13,840 --> 00:11:16,593
-Hi, welcome to New World.
-How can I help you?
-嗨，欢迎来到新世界，有什么可以帮你的？
+00:11:09,720 --> 00:11:12,280
+(KEYBOARD CLACKING)
 
 109
-00:11:16,720 --> 00:11:19,155
-Sarah-Jane Smith, Metropolitan
-magazine.
-莎拉•简•史密斯，大都市杂志社
+00:11:14,040 --> 00:11:16,793
+Hi, welcome to New World.
+How can I help you?
+嗨, 欢迎来到新世界, 有什么可以帮你的？
 
 110
-00:11:19,280 --> 00:11:21,715
-I have an appointment to see your vice chancellor.
-我约好去见你的副校长
+00:11:16,920 --> 00:11:19,355
+Sarah-Jane Smith, Metropolitan magazine.
+莎拉•简•史密斯, 大都市杂志社
 
 111
-00:11:24,760 --> 00:11:27,991
-- I am expected. 
-- At 11 o'clock. Would you like to take a seat?
-- 他在等我  - 是11点，你可以过去坐一会儿吗？
+00:11:19,480 --> 00:11:21,915
+I have an appointment
+to see your vice chancellor.
+我约了去见你的副校长
 
 112
-00:11:29,120 --> 00:11:30,440
-Have the best one yet.
-还有一个最佳的座位
+00:11:24,960 --> 00:11:28,191
+- I am expected. 
+- At 11 o'clock. Would you like to take a seat?
+- 他在等我  - 是11点, 你可以过去坐一会儿吗？
 
 113
-00:11:35,720 --> 00:11:37,199
+00:11:29,320 --> 00:11:30,640
+Have the best one yet.
+还有一个最好的
+
+114
+00:11:35,920 --> 00:11:37,399
 - Miss Smith.  - Yes.
 - 史密斯小姐  - 我是
 
-114
-00:11:37,960 --> 00:11:39,359
+115
+00:11:38,160 --> 00:11:39,559
 Welcome to New World.
 欢迎来到新世界
 
-115
-00:11:40,000 --> 00:11:41,718
+116
+00:11:40,200 --> 00:11:41,918
 I'm so sorry if we've kept you waiting.
 很抱歉让你久等了
 
-116
-00:11:42,560 --> 00:11:45,029
-Christopher Rice, Marketing Facilitator.
-克里斯托弗·赖斯, 营销主持人。
-
 117
-00:11:45,160 --> 00:11:46,195
+00:11:42,760 --> 00:11:45,229
+Christopher Rice, Marketing Facilitator.
+克里斯托弗·赖斯, 市场部负责人
+
+118
+00:11:45,360 --> 00:11:46,395
 Good morning.
 早上好
 
-118
-00:11:46,320 --> 00:11:48,789
+119
+00:11:46,520 --> 00:11:48,989
 - You brought the profiles with you, I hope. 
 - Yes.
-- 你把档案带过来了吧，我期望  - 是的
-
-119
-00:11:48,920 --> 00:11:51,070
-Good. Then let's go on up.
-好，那我们上去再说吧
+- 你把档案带过来了吧, 我期望  - 是的
 
 120
-00:11:51,200 --> 00:11:53,157
-Miss Waterfield, the university's vice chancellor
-沃特菲尔德小姐，这所大学的副校长
+00:11:49,120 --> 00:11:51,270
+Good. Then let's go on up.
+好, 那我们上去再说吧
 
 121
-00:11:53,280 --> 00:11:54,759
+00:11:51,400 --> 00:11:53,357
+Miss Waterfield, the university's vice chancellor
+沃特菲尔德小姐, 这所大学的副校长
+
+122
+00:11:53,480 --> 00:11:54,959
 would like to thank you personally.
 她想亲自感谢你
 
-122
-00:12:00,640 --> 00:12:05,271
+123
+00:12:00,840 --> 00:12:05,471
 I think the sum agreed was 12k,
 assuming all the profiles are complete.
-我想总数是一万二，如果所有的档案都完整的话
-
-123
-00:12:05,400 --> 00:12:06,720
-Er, not quite.
-呃，不太完整
+我想总数是一万二, 如果所有的档案都完整的话
 
 124
-00:12:07,360 --> 00:12:08,873
-Er, Miss Smith, when we were advised of your reputation,
-哦，史密斯小姐，当有人向我们推荐你的时候
+00:12:05,600 --> 00:12:06,920
+Er, not quite.
+呃, 不太完整
 
 125
-00:12:11,400 --> 00:12:13,949
+00:12:07,560 --> 00:12:11,473
+Er, Miss Smith, when we were advised of your reputation,
+哦, 史密斯小姐, 当有人向我们推荐你的时候
+
+126
+00:12:11,600 --> 00:12:14,149
 both Miss Waterfield and I were impressed.
 沃特菲尔德小姐和我都很折服
 
-126
-00:12:14,080 --> 00:12:17,994
-We thought, "What's a few red-tape
-barriers to a journalist of this calibre?"
-我们想：“对于这样一个路子宽广的记者来说, 那些繁文缛节的障碍算什么？”
-
 127
-00:12:18,120 --> 00:12:21,556
+00:12:14,280 --> 00:12:18,194
+We thought, "What's a few red-tape barriers
+to a journalist of this calibre?"
+我们想：“对于这样一个路子宽广的记者来说, 那些繁文缛节算什么障碍？”
+
+128
+00:12:18,320 --> 00:12:21,756
 But you didn't tell me some of this data
 was government classified.
 但你们没告诉我这里某些数据是政府机密
 
-128
-00:12:23,600 --> 00:12:25,557
+129
+00:12:23,800 --> 00:12:25,757
 (COMPUTER READING) Authorisation failure.
 授权失败
 
-129
-00:12:25,680 --> 00:12:29,833
+130
+00:12:25,880 --> 00:12:30,033
 You have 10 seconds to enter Stage Three security key.
 你有10秒钟时间来输入第三阶段安全密钥
 
-130
-00:12:33,160 --> 00:12:34,912
+131
+00:12:33,360 --> 00:12:35,112
 Waterfield.
 沃特菲尔德
 
-131
-00:12:35,040 --> 00:12:38,078
+132
+00:12:35,240 --> 00:12:38,278
 (COMPUTER READING)
 You are attached to Priority Zone Z.
 你已经连接到优先区域Z区
 
-132
-00:12:39,000 --> 00:12:41,000
+133
+00:12:39,200 --> 00:12:41,200
 （他眼镜中呈现的图像很像是大智慧的三角锥/金字塔）
 
-133
-00:12:41,160 --> 00:12:42,389
+134
+00:12:41,360 --> 00:12:42,589
 Yes!
 成了！
 
-134
-00:12:43,000 --> 00:12:46,513
+135
+00:12:43,200 --> 00:12:46,713
 Look, I still don't know
 what New World wants these people for.
-看，我还是不知道新世界要这些人的资料做什么
+看, 我还是不知道新世界要这些人的资料做什么
 
-135
-00:12:46,760 --> 00:12:48,717
+136
+00:12:46,960 --> 00:12:48,917
 Afraid of unearthing a scandal?
 害怕发现一桩丑闻？
 
-136
-00:12:48,840 --> 00:12:51,251
+137
+00:12:49,040 --> 00:12:51,451
 Half of them vanish off any records.
 他们中有一半从所有记录里消失了
 
-137
-00:12:51,560 --> 00:12:54,200
+138
+00:12:51,760 --> 00:12:54,400
 And what is this "London Event”
 that connects them?
 与他们都相关的这个“伦敦事件”又是什么？
 
-138
-00:12:54,320 --> 00:12:55,276
+139
+00:12:54,520 --> 00:12:55,476
 What do you know?
 你知道些什么？
 
-139
-00:12:57,240 --> 00:13:00,631
+140
+00:12:57,440 --> 00:13:00,831
 I've found records implying
 that 25 years ago
-我发现有记录显示，在25年前
-
-140
-00:13:00,760 --> 00:13:03,832
-Central London was evacuated
-in an industrial accident.
-伦敦市中心因一起工业事故，出现过大规模疏散的事
+我发现有记录显示, 在25年前
 
 141
-00:13:03,952 --> 00:13:05,560
-（应该是指1970年前后的大智慧和雪怪入侵事件，见第五季第二季《恐惧之网》，不过该事件的具体时间不详）
+00:13:00,960 --> 00:13:03,332
+Central London was evacuated
+in an industrial accident.
+伦敦市中心因一起工业事故, 出现过大规模疏散的事
 
 142
-00:13:05,680 --> 00:13:09,116
-They say it lasted three months.
-There are no extant reports.
-他们说这事持续了三个月，但目前没有见到有报告保存下来
+00:13:03,452 --> 00:13:05,960
+（应该是指1970年前后的大智慧和雪怪入侵事件, 见第五季第二季《恐惧之网》, 不过该事件的具体时间不详）
 
 143
-00:13:09,240 --> 00:13:11,959
-No one even remembers.
-Well, how can that happen?
-也没有人记得。你说，这怎么可能呢？
+00:13:06,080 --> 00:13:09,316
+They say it lasted three months.
+There are no extant reports.
+他们说这事持续了三个月, 但目前没有见到有报告保存下来
 
 144
-00:13:13,680 --> 00:13:16,194
+00:13:09,440 --> 00:13:12,159
+No one even remembers. Well, how can that happen?
+也没有人记得. 你说, 这怎么可能呢？
+
+145
+00:13:13,880 --> 00:13:16,394
 The London Event was a wasted opportunity.
 伦敦事件是一次被浪费掉的契机
 
-145
-00:13:17,000 --> 00:13:20,880
+146
+00:13:17,200 --> 00:13:21,080
 The world missed out on an interface
 with a higher plane of existence.
 这个世界错过了一个与更高层面存在打交道的接口
 
-146
-00:13:21,920 --> 00:13:23,149
+147
+00:13:22,120 --> 00:13:23,349
 It's no big deal.
 这没什么要紧
 
-147
-00:13:24,480 --> 00:13:25,993
+148
+00:13:24,680 --> 00:13:26,193
 There will be other chances.
 还会有其它机会的
 
-148
-00:13:26,640 --> 00:13:28,836
+149
+00:13:26,840 --> 00:13:29,036
 It was totally misunderstood.
 这被完全误解了
 
-149
-00:13:28,960 --> 00:13:32,157
+150
+00:13:29,160 --> 00:13:32,357
 We all stumbled about
 in the unknowing darkness.
 我们都还困在莫名的黑暗中
 
-150
-00:13:32,280 --> 00:13:34,840
+151
+00:13:32,480 --> 00:13:35,040
 New World seeks to
 light the first candle.
 新世界致力于点亮第一根蜡烛
 
-151
-00:13:35,400 --> 00:13:36,435
-Oh, come on.
-噢，得了
-
 152
-00:13:36,560 --> 00:13:38,870
+00:13:35,600 --> 00:13:36,635
+Oh, come on.
+噢, 得了
+
+153
+00:13:36,760 --> 00:13:39,070
 New World's more than just
 a New Age Sunday School.
 新世界不仅仅是一所新时代的主日学校
 
-153
-00:13:39,000 --> 00:13:40,673
+154
+00:13:39,200 --> 00:13:40,873
 You've got fingers in more pies
 than Robert Maxwell.
-你们的手指比罗伯特·马克斯维尔还多fixme
-
-154
-00:13:43,280 --> 00:13:46,159
-I'm afraid we've wasted your time, Miss Smith.
-恐怕我们耽误你的时间了，史密斯小姐
+你们的手指比罗伯特·马克斯维尔还多
 
 155
-00:13:47,520 --> 00:13:48,669
+00:13:43,480 --> 00:13:46,359
+I'm afraid we've wasted your time, Miss Smith.
+恐怕我们耽误你的时间了, 史密斯小姐
+
+156
+00:13:47,720 --> 00:13:48,869
 You already knew.
 你已经知道了
 
-156
-00:13:49,440 --> 00:13:50,669
+157
+00:13:49,640 --> 00:13:50,869
 New World has the solution.
 新世界找到解决方案了
 
-157
-00:13:50,800 --> 00:13:52,279
+158
+00:13:51,000 --> 00:13:52,479
 That's our motto.
 这是我们的座右铭
 
-158
-00:13:54,080 --> 00:13:55,718
+159
+00:13:54,280 --> 00:13:55,918
 Our programme.
 我们的课程
 
-159
-00:13:56,800 --> 00:13:59,314
+160
+00:13:57,000 --> 00:13:59,514
 If you've got such high-flying sources,
 why employ me?
-如果里面有如此高的消息来源，为什么还雇我？
+如果里面有如此高的消息来源, 为什么还雇我？
 
-160
-00:14:00,280 --> 00:14:02,396
+161
+00:14:00,480 --> 00:14:02,596
 There is one name
 missing from your list.
 你的清单里少了一个名字
 
-161
-00:14:04,240 --> 00:14:05,878
+162
+00:14:04,440 --> 00:14:06,078
 Not to my knowledge.
 据我所知没有
 
-162
-00:14:06,000 --> 00:14:08,435
+163
+00:14:06,200 --> 00:14:08,635
 But much to ours.
 但对我们很重要
 
-163
-00:14:10,880 --> 00:14:12,075
-Lethbridge-Stewart.
-利斯布里奇-斯图尔特。
-
 164
-00:14:12,920 --> 00:14:14,831
+00:14:11,080 --> 00:14:12,275
+Lethbridge-Stewart.
+利斯布里奇-斯图尔特. 
+
+165
+00:14:13,120 --> 00:14:15,031
 What do they want old Stewpot for?
 他们找这个老斯图做什么？
 
-165
-00:14:16,840 --> 00:14:22,518
+166
+00:14:17,040 --> 00:14:22,718
 United Nations Intelligence Task-force
 is a paramilitary espionage squad.
 UNIT（联合国情报部门行动组）是一个准军事间谍小组
 
-166
-00:14:23,360 --> 00:14:25,510
+167
+00:14:23,560 --> 00:14:25,710
 It's the old MI5 story.
 这是老旧的军情五处类的故事
 
-167
-00:14:25,640 --> 00:14:30,032
+168
+00:14:25,840 --> 00:14:30,232
 Everyone knows it's there, but no
 one knows what its real agenda is.
-每个人都知道它的存在，但没有人清楚它的真正目标是什么
+每个人都知道它的存在, 但没有人清楚它的真正目标是什么
 
-168
-00:14:31,400 --> 00:14:33,232
+169
+00:14:31,600 --> 00:14:33,432
 Even those who work for it.
 即使是那些为他工作的人
 
-169
-00:14:34,040 --> 00:14:38,876
+170
+00:14:34,240 --> 00:14:39,076
 Alistair Gordon Lethbridge-Stewart figures
 largely in its setting up in the '70s.
-在它70年代的成立过程中，
-Listair Gordon Lethbridge-Stewart 扮演了很重要的角色
-
-170
-00:14:39,000 --> 00:14:42,436
-By then, he's a brigadier
-with a remarkable active service record.
-那时，他是一个准将, 有着出色的服役记录
+在它70年代的成立过程中, Listair Gordon Lethbridge-Stewart 扮演了很重要的角色
 
 171
-00:14:43,480 --> 00:14:45,118
+00:14:39,200 --> 00:14:42,636
+By then, he's a brigadier
+with a remarkable active service record.
+那时, 他是一个准将, 有着出色的服役记录
+
+172
+00:14:43,680 --> 00:14:45,318
 And then he vanishes.
 然后他就消失了
 
-172
-00:14:46,120 --> 00:14:49,078
+173
+00:14:46,320 --> 00:14:49,278
 You must have known him
 during your time with UNIT.
-你肯定认识他，那段时间你也在UNIT
-
-173
-00:14:49,800 --> 00:14:52,713
-Sorry to disappoint you,
-but I'm just a journalist.
-让你们失望了，我只是一个记者
+你肯定认识他, 那段时间你也在UNIT
 
 174
-00:14:53,800 --> 00:14:56,713
+00:14:50,000 --> 00:14:52,913
+Sorry to disappoint you,
+but I'm just a journalist.
+让你们失望了, 我只是一个记者
+
+175
+00:14:54,000 --> 00:14:56,913
 With no official records
 of Lethbridge-Stewart,
 由于没有关于 Lethbrige-Stewart 的官方记录
 
-175
-00:14:57,480 --> 00:14:59,994
+176
+00:14:57,680 --> 00:15:00,194
 one could easily imagine he was dead.
 其他人就会很轻易地认为他已经死了
 
-176
-00:15:00,120 --> 00:15:01,999
+177
+00:15:00,320 --> 00:15:02,199
 UNIT looks after its own.
 UNIT 会保护他们自己人
 
-177
-00:15:02,440 --> 00:15:04,477
-What's this brigadier
-supposed to have done?
+178
+00:15:02,640 --> 00:15:04,677
+What's this brigadier supposed to have done?
 你们觉得这个准将都做了什么？
 
-178
-00:15:05,200 --> 00:15:06,952
+179
+00:15:05,400 --> 00:15:07,152
 He has committed a great crime.
 他犯了一项巨大的罪行
 
-179
-00:15:07,560 --> 00:15:10,200
+180
+00:15:07,760 --> 00:15:10,400
 But there are other ways of seeking him.
 但还是有其它方法找到他
 
-180
-00:15:10,320 --> 00:15:12,789
+181
+00:15:10,520 --> 00:15:12,989
 (SPHERE BEEPING)
 
-181
-00:15:13,720 --> 00:15:14,676
+182
+00:15:13,920 --> 00:15:14,876
 (BANG)
 
-182
-00:15:19,120 --> 00:15:20,519
+183
+00:15:19,320 --> 00:15:20,719
 (PULSATING)
 
-183
-00:15:30,680 --> 00:15:31,829
+184
+00:15:30,880 --> 00:15:32,029
 (SPHERE BEEPING AND PULSATING)
 
-184
-00:15:31,960 --> 00:15:33,473
+185
+00:15:32,160 --> 00:15:33,673
 Someone in the secure system.
 有人进入了安全系统
 
-185
-00:15:33,600 --> 00:15:35,398
+186
+00:15:33,800 --> 00:15:35,598
 - What's happening?
 - Daniel Hinton.
 - 怎么回事？ - 是丹尼尔·辛顿
 
-186
-00:15:35,520 --> 00:15:39,832
+187
+00:15:35,720 --> 00:15:40,032
 - That devious little...
 - I don't want him hurt, Christopher.
-- 那个狡猾的小...  - 我不想他受伤，克里斯托弗
+- 那个狡猾的小...  - 我不想他受伤, 克里斯托弗
 
-187
-00:15:39,960 --> 00:15:41,075
+188
+00:15:40,160 --> 00:15:41,275
 Of course.
 当然
 
-188
-00:15:46,280 --> 00:15:47,839
-(HOUSE MUSIC PLAYING
-THROUGH HEADPHONES)
-
 189
-00:15:47,960 --> 00:15:50,236
+00:15:46,480 --> 00:15:48,039
+(HOUSE MUSIC PLAYING THROUGH HEADPHONES)
+
+190
+00:15:48,160 --> 00:15:50,436
 MAN: (ON RADIO) And that's the
 Acoustic Hoods here at Top o'the Clock.
 
-190
-00:15:50,360 --> 00:15:52,033
+191
+00:15:50,560 --> 00:15:52,233
 You're jacked into N Treble U
 你收听的是 NTU 电台
 
-191
-00:15:52,160 --> 00:15:54,436
+192
+00:15:52,360 --> 00:15:54,636
 from New World,
 the people with the solution,
 由有解决方案的人 - 新世界为你带来
 
-192
-00:15:54,560 --> 00:15:56,471
+193
+00:15:54,760 --> 00:15:56,671
 and we ain't talking watered down here.
 我们的节目不兑水
 
-193
-00:15:56,600 --> 00:15:59,114
+194
+00:15:56,800 --> 00:15:59,314
 If you can't get your
 head round life, no hassle.
-如果你不能从生活中抬起头来，没有问题
+如果你不能从生活中抬起头来, 没有问题
 
-194
-00:15:59,240 --> 00:16:02,278
+195
+00:15:59,440 --> 00:16:02,478
 There's over 300 different courses
 here at New World.
 新世界有300多种不同的课程
 
-195
-00:16:02,400 --> 00:16:04,471
+196
+00:16:02,600 --> 00:16:04,671
 So there's got to be a right one for you,
 hasn't there?
-所以总有一款适合你，是吧？
-
-196
-00:16:04,600 --> 00:16:07,194
-Give us a call. 0135-66...
-给我们来电话，0135-66...
+所以总有一款适合你, 是吧？
 
 197
-00:16:19,280 --> 00:16:20,350
+00:16:04,800 --> 00:16:07,394
+Give us a call. 0135-66...
+给我们来电话, 0135-66...
+
+198
+00:16:19,480 --> 00:16:20,550
 There he is!
 他在那儿！
 
-198
-00:16:32,600 --> 00:16:34,796
+199
+00:16:32,800 --> 00:16:34,996
 (SPHERE BEEPING AND PULSATING)
 
-199
-00:16:35,640 --> 00:16:37,472
+200
+00:16:35,840 --> 00:16:37,672
 What is New World University?
 新世界大学是什么？
 
-200
-00:16:38,160 --> 00:16:40,629
+201
+00:16:38,360 --> 00:16:40,829
 You don't have lectures.
 You don't even have tutors.
-你们没有讲座，你们连老师都没有
-
-201
-00:16:41,600 --> 00:16:44,672
-All the tuition is
-conducted by the mainframe,
-所有的授课都是由靠电脑主机来进行
+你们没有讲座, 你们连老师都没有
 
 202
-00:16:44,800 --> 00:16:46,871
+00:16:41,800 --> 00:16:44,872
+All the tuition is conducted by the mainframe,
+所有的授课都是由靠电脑主机来进行
+
+203
+00:16:45,000 --> 00:16:47,071
 a personalised syllabus for every student.
 为每个学生提供个性化的教学大纲
 
-203
-00:16:47,440 --> 00:16:49,431
-Since when did computers get
-personal?
+204
+00:16:47,640 --> 00:16:49,631
+Since when did computers get personal?
 电脑什么时候开始有个性了？
 
-204
-00:16:49,760 --> 00:16:52,036
+205
+00:16:49,960 --> 00:16:52,236
 (BEEPING AND PULSATING)
 
-205
-00:17:00,280 --> 00:17:03,193
-Come on, what are the Chillys really for?
-说说，鸡仔真正是干什么的
-
 206
-00:17:03,320 --> 00:17:05,118
+00:17:00,480 --> 00:17:03,393
+Come on, what are the Chillys really for?
+说说, 鸡仔真正是干什么的
+
+207
+00:17:03,520 --> 00:17:05,318
 A sort of a fascist hippy cult?
 一种法西斯嬉皮士邪教？
 
-207
-00:17:05,880 --> 00:17:10,351
+208
+00:17:06,080 --> 00:17:10,551
 The wicked world is full of lost children,
 the aimless, the lonely.
 这个邪恶的世界里到处都是失落的孩子, 漫无目的, 孤独无助
 
-208
-00:17:11,080 --> 00:17:14,675
+209
+00:17:11,280 --> 00:17:14,875
 We follow the Det-sen disciplines
 which we share with our Chancellor.
-我们遵循德赞信条，这点我们与校长是一致的
+我们遵循德赞信条, 这点我们与校长是一致的
 
-209
-00:17:15,520 --> 00:17:17,750
+210
+00:17:15,720 --> 00:17:17,950
 We really do care.
 我们真的在意
 
-210
-00:17:18,400 --> 00:17:21,153
-Well, where is he then? Why can't I see him?
-那，他在哪儿？我怎么见不到他？
-
 211
-00:17:21,280 --> 00:17:23,032
+00:17:18,600 --> 00:17:21,353
+Well, where is he then? Why can't I see him?
+那, 他在哪儿？我怎么见不到他？
+
+212
+00:17:21,480 --> 00:17:23,232
 The Chancellor sees no one.
 校长不见任何人
 
-212
-00:17:23,880 --> 00:17:26,759
+213
+00:17:24,080 --> 00:17:26,959
 He has taken the Path of Truth.
 他已经走上了真理之路
 
-213
-00:17:27,680 --> 00:17:29,353
+214
+00:17:27,880 --> 00:17:29,553
 Victoria Waterfield.
 维多利亚•沃特菲尔德
 
-214
-00:17:30,520 --> 00:17:32,670
+215
+00:17:30,720 --> 00:17:32,870
 That's you on the list, isn't it?
 At the London Event?
-在名单上的是你，对不？伦敦事件的时候
-
-215
-00:17:33,760 --> 00:17:35,433
-Oh, you must have been really young.
-噢，你那时一定很年轻
+在名单上的是你, 对不？伦敦事件的时候
 
 216
-00:17:35,560 --> 00:17:38,996
-Considering I was born
-over 140 years ago...
-考虑到我是140多年前出生的...
+00:17:33,960 --> 00:17:35,633
+Oh, you must have been really young.
+噢, 你那时一定很年轻
 
 217
-00:17:39,880 --> 00:17:42,554
-Peanuts, I used to know someone who...
-花生，我以前认识一个能够-fixme
+00:17:35,760 --> 00:17:39,196
+Considering I was born over 140 years ago...
+考虑到我是140多年前出生的...
 
 218
-00:17:42,680 --> 00:17:43,715
-Oh, never mind.
-噢，算了
+00:17:40,080 --> 00:17:42,754
+Peanuts, I used to know someone who...
+花生, 我以前认识一个能够...
 
 219
-00:17:44,360 --> 00:17:47,637
-Oh, sorry, I mean, no,
-you don't look a day over...
-哦，抱歉，我是说，你看起来一天也没有...
+00:17:42,880 --> 00:17:43,915
+Oh, never mind.
+噢, 算了
 
 220
-00:17:47,760 --> 00:17:50,752
-I don't feel a day over. (LAUGHING)
+00:17:44,560 --> 00:17:47,837
+Oh, sorry, I mean, no,
+you don't look a day over...
+哦, 抱歉, 我是说, 你看起来一天也没有超过（结束）...
 
 221
-00:17:52,920 --> 00:17:56,356
+00:17:47,960 --> 00:17:50,952
+I don't feel a day over. (LAUGHING)
+我从没感觉到一天结束(?)
+
+222
+00:17:53,120 --> 00:17:56,556
 (COMPUTER READING ON LOOP)
 Find the Locus.
 找到人偶
 
-222
-00:18:02,480 --> 00:18:03,959
+223
+00:18:02,680 --> 00:18:04,159
 (WHIMPERS)
 
-223
-00:18:05,680 --> 00:18:08,069
-We all have pain to face, Sarah,
-我们都有痛苦要面对，莎拉
-
 224
-00:18:08,960 --> 00:18:11,600
+00:18:05,880 --> 00:18:08,269
+We all have pain to face, Sarah,
+我们都有痛苦要面对, 莎拉
+
+225
+00:18:09,160 --> 00:18:11,800
 but the revelation will be soon.
 但启示很快就会出现
 
-225
-00:18:13,640 --> 00:18:16,598
+226
+00:18:13,840 --> 00:18:16,798
 (COMPUTER READING ON LOOP)
 
-226
-00:18:19,200 --> 00:18:21,350
+227
+00:18:19,400 --> 00:18:21,550
 (SPHERE BEEPING AND PULSATING)
 
-227
-00:18:21,520 --> 00:18:24,080
+228
+00:18:21,720 --> 00:18:24,280
 (HOUSE MUSIC PLAYING
 THROUGH HEADPHONES)
 
-228
-00:18:28,200 --> 00:18:29,270
-Come on, Daniel.
-来吧，丹尼尔
-
 229
-00:18:30,560 --> 00:18:32,278
+00:18:28,400 --> 00:18:29,470
+Come on, Daniel.
+来吧, 丹尼尔
+
+230
+00:18:30,760 --> 00:18:32,478
 Nothing to be afraid of.
 没什么可害怕的
 
-230
-00:18:33,200 --> 00:18:34,679
+231
+00:18:33,400 --> 00:18:34,879
 We're here to help you.
 我们是来帮你的
 
-231
-00:18:35,840 --> 00:18:37,194
+232
+00:18:36,040 --> 00:18:37,394
 You've been chosen.
 你被选中了
 
-232
-00:18:45,480 --> 00:18:46,470
+233
+00:18:45,680 --> 00:18:46,670
 It's a sham!
 这是假象！
 
-233
-00:18:46,600 --> 00:18:48,079
+234
+00:18:46,800 --> 00:18:48,279
 The whole thing!
 这整件事！
 
-234
-00:18:48,200 --> 00:18:49,679
+235
+00:18:48,400 --> 00:18:49,879
 It'll get you all!
 它会抓到你们所有人！
 
-235
-00:18:50,280 --> 00:18:52,476
-It already has you, Daniel.
-它已经抓到你了，丹尼尔
-
 236
-00:18:53,040 --> 00:18:54,235
+00:18:50,480 --> 00:18:52,676
+It already has you, Daniel.
+它已经抓到你了, 丹尼尔
+
+237
+00:18:53,240 --> 00:18:54,435
 Go on, then.
 继续啊
 
-237
-00:18:55,160 --> 00:18:58,357
-There's no escape, not even that way.
-你没法逃掉了，就是那边也不行
-
 238
-00:19:01,040 --> 00:19:03,953
+00:18:55,360 --> 00:18:58,557
+There's no escape, not even that way.
+你没法逃掉了, 就是那边也不行
+
+239
+00:19:01,240 --> 00:19:04,153
 -(DANIEL SCREAMING)
 -(WHISPERING) Daniel!
 丹尼尔！
 
-239
-00:19:09,920 --> 00:19:13,515
+240
+00:19:10,120 --> 00:19:13,715
 -(WIND HOWLING)
 -(CROWD CHATTERING)
 
-240
-00:19:15,120 --> 00:19:16,155
+241
+00:19:15,320 --> 00:19:16,355
 MAN: Ball!
 球！
 
-241
-00:19:49,520 --> 00:19:50,715
-Sir? Please, sir?
-长官？打扰了，长官
-
 242
-00:19:51,560 --> 00:19:53,995
+00:19:49,720 --> 00:19:50,915
+Sir? Please, sir?
+长官？打扰了, 长官
+
+243
+00:19:51,760 --> 00:19:54,195
 Hinton? What are you doing here?
 辛顿？你在这里做什么？
 
-243
-00:19:54,120 --> 00:19:56,509
-Hinton, D.A., sir. School House 91.
-辛顿, 地方检察官, 长官。学校房子91 fixme
-
 244
-00:20:00,000 --> 00:20:04,153
+00:19:54,320 --> 00:19:56,709
+Hinton, D.A., sir. School House 91.
+辛顿, 地方检察官, 长官. 布伦登学校91届
+
+245
+00:20:00,200 --> 00:20:04,353
 It must be a good three years
 since you got yourself expelled.
 你被开除后这三年过得肯定很不错
 
-245
-00:20:04,280 --> 00:20:07,591
+246
+00:20:04,480 --> 00:20:07,791
 Yes, sir, but I need to talk to you now.
 Sir, It's important.
-是的, 长官, 但我现在需要和你谈谈。 长官，很重要的事
-
-246
-00:20:09,800 --> 00:20:12,792
-Frankly, Hinton, I don't know
-how you could throw it all away.
-坦白说, 辛顿, 我不知道你怎么能把这一切都扔掉
+是的, 长官, 但我现在需要和你谈谈. 长官, 很重要的事
 
 247
-00:20:13,520 --> 00:20:15,750
-You excel at maths and
-computer work...
-你擅长数学和计算机工作..
+00:20:10,000 --> 00:20:12,992
+Frankly, Hinton, I don't know
+how you could throw it all away.
+坦白说, 辛顿, 我不知道你怎么能把一切都扔掉
 
 248
-00:20:15,880 --> 00:20:18,633
-The headmaster says
-I'm "a disruptive influence”.
-校长说我“破坏性的影响”
+00:20:13,720 --> 00:20:15,950
+You excel at maths and computer work...
+你擅长数学和计算机工作..
 
 249
-00:20:18,760 --> 00:20:19,989
-It wasn't deliberate, sir.
-这不是故意的，长官
+00:20:16,080 --> 00:20:18,833
+The headmaster says I'm "a disruptive influence”.
+校长说我有“破坏性的影响”
 
 250
-00:20:20,640 --> 00:20:24,634
+00:20:18,960 --> 00:20:20,189
+It wasn't deliberate, sir.
+这不是故意的, 长官
+
+251
+00:20:20,840 --> 00:20:24,834
 No more than losing your CCF kit
 or skiving off games.
 
-251
-00:20:26,600 --> 00:20:26,920
-(SIGHS) This occult nonsense.
-这太荒诞了
-
 252
-00:20:26,920 --> 00:20:29,275
+00:20:26,800 --> 00:20:27,120
 (SIGHS) This occult nonsense.
 这太荒诞了
 
 253
-00:20:29,400 --> 00:20:32,153
-Dabbling with black magic
-is a dangerous business.
-玩弄黑魔法太危险了
+00:20:27,120 --> 00:20:29,475
+(SIGHS) This occult nonsense.
+这太荒诞了
 
 254
-00:20:32,280 --> 00:20:35,318
-It was a séance, sir.
-Not magic, or drugs.
-那是个邪教，长官。没有魔法，没有磕药
+00:20:29,600 --> 00:20:32,353
+Dabbling with black magic
+is a dangerous business.
+玩弄黑魔法是件危险的事
 
 255
-00:20:35,440 --> 00:20:38,034
+00:20:32,480 --> 00:20:35,518
+It was a séance, sir.
+Not magic, or drugs.
+那是个集会, 长官. 没有魔法, 没有磕药
+
+256
+00:20:35,640 --> 00:20:38,234
 - No?  - I've done it loads of times.
 - 不是？ - 我已经做过好多次了
 
-256
-00:20:38,200 --> 00:20:39,554
+257
+00:20:38,400 --> 00:20:39,754
 I suppose it's a gift.
 我想这是种天份
 
-257
-00:20:40,120 --> 00:20:42,316
+258
+00:20:40,320 --> 00:20:42,516
 You have no idea
 what you're dealing with.
 你完全不知道你在对付什么
 
-258
-00:20:42,440 --> 00:20:44,556
-No, sir. Not natural, is it?
-不知道，长官。超自然的东西，对不？
-
 259
-00:20:47,520 --> 00:20:49,272
-Do you have a family, sir?
-你有家庭吗，长官？
+00:20:42,640 --> 00:20:44,756
+No, sir. Not natural, is it?
+不知道, 长官. 超自然的东西, 对不？
 
 260
-00:20:54,200 --> 00:20:56,316
-You realise we're under surveillance.
-你意识到我们被监视了吧
+00:20:47,720 --> 00:20:49,472
+Do you have a family, sir?
+你有家庭吗, 长官？
 
 261
-00:21:05,440 --> 00:21:07,272
+00:20:54,400 --> 00:20:56,516
+You realise we're under surveillance.
+你该意识到我们被监视了吧
+
+262
+00:21:05,640 --> 00:21:07,472
 Tsk. Wretched boy.
 唉, 可怜的男孩
 
-262
-00:21:22,200 --> 00:21:25,511
+263
+00:21:22,400 --> 00:21:25,711
 (DISTORTED) Where is the Locus?
 人偶在哪儿？
 
-263
-00:21:26,880 --> 00:21:28,109
+264
+00:21:27,080 --> 00:21:28,309
 Who are you?
 你是谁？
 
-264
-00:21:31,400 --> 00:21:33,118
+265
+00:21:31,600 --> 00:21:33,318
 (MONSTER GROWLING)
 
-265
-00:21:39,760 --> 00:21:42,115
+266
+00:21:39,960 --> 00:21:42,315
 (STATIC)
 
-266
-00:21:42,240 --> 00:21:44,390
-ANSWERING MACHINE: This is Alistair
-Lethbridge-Stewart at Brendon.
-这里是布伦登的Alistair
-Lethbridge-Stewart家
-
 267
-00:21:44,520 --> 00:21:46,591
-Leave your name, number
-and message after the tone,
-在嘀的一声后，留下你的名字、电话和留言
+00:21:42,440 --> 00:21:44,590
+ANSWERING MACHINE: This is 
+Alistair Lethbridge-Stewart at Brendon.
+这里是布伦登的Alistair Lethbridge-Stewart家
 
 268
-00:21:46,720 --> 00:21:48,393
-and I'll call you back
-as soon as possible.
-我会尽快给你打回去的
+00:21:44,720 --> 00:21:46,791
+Leave your name, number
+and message after the tone,
+在嘀的一声后, 留下你的名字、电话和留言
 
 269
-00:21:48,520 --> 00:21:49,715
-(ANSWERING MACHINE CLICKS)
+00:21:46,920 --> 00:21:48,593
+and I'll call you back as soon as possible.
+我会尽快给你打回去的
 
 270
-00:21:49,840 --> 00:21:53,595
-WOMAN: Oh, hello, er, Brigadier?
-This is the headmaster's secretary.
-噢，你好，准将。这里是校长秘书处
+00:21:48,720 --> 00:21:49,915
+(ANSWERING MACHINE CLICKS)
 
 271
-00:21:53,720 --> 00:21:55,836
-We were concerned
-that you missed the meeting
-你没来参加，我们很关切
+00:21:50,040 --> 00:21:53,795
+WOMAN: Oh, hello, er, Brigadier?
+This is the headmaster's secretary.
+噢, 你好, 准将. 这里是校长秘书处
 
 272
-00:21:55,960 --> 00:21:57,792
+00:21:53,920 --> 00:21:56,036
+We were concerned that you missed the meeting
+我们对你没来参加聚会的事颇为关切
+
+273
+00:21:56,160 --> 00:21:57,992
 about your retirement party this morning.
 今早是你的退休欢送会
 
-273
-00:21:58,880 --> 00:22:02,032
+274
+00:21:59,080 --> 00:22:02,232
 We've also had several rather
 strange phone enquiries about you.
-我们还接到几个奇怪的电话，都是在问你的问题
-
-274
-00:22:02,160 --> 00:22:04,879
-Could you get in touch ASAP?
-Thank you.
-你能尽快与我们联系吗，谢谢
+我们还接到几个奇怪的电话, 都是在问你的问题
 
 275
-00:22:05,000 --> 00:22:06,320
-(ANSWERING MACHINE BEEPS)
+00:22:02,360 --> 00:22:05,079
+Could you get in touch ASAP? Thank you.
+你能尽快与我们联系吗, 谢谢
 
 276
-00:22:06,440 --> 00:22:08,078
-I thought I was in Cromer.
-我以为我在克罗默fixme
+00:22:05,200 --> 00:22:06,520
+(ANSWERING MACHINE BEEPS)
 
 277
-00:22:13,040 --> 00:22:16,032
+00:22:06,640 --> 00:22:08,278
+I thought I was in Cromer.
+我以为我在克罗默
+
+278
+00:22:13,240 --> 00:22:16,232
 -(STATIC STOPS)
 -(CROWD CHATTERING)
 
-278
-00:22:19,120 --> 00:22:20,155
+279
+00:22:19,320 --> 00:22:20,355
 Tuesday?
 星期二了？
 
-279
-00:22:46,360 --> 00:22:48,271
+280
+00:22:46,560 --> 00:22:48,471
 (ANSWERING MACHINE REWINDING)
 
-280
-00:23:10,680 --> 00:23:11,829
+281
+00:23:10,880 --> 00:23:12,029
 (ANSWERING MACHINE BEEPS)
 
-281
-00:23:12,960 --> 00:23:16,032
-KATE: Look, erm, it's me, Dad.
-是这样，嗯，是我，爸爸
-
 282
-00:23:16,160 --> 00:23:18,276
-- I'm sorry, I know it's been a long time.
-- Kate!
-- 我很抱歉，我知道太长时间了  - 凯特！
+00:23:13,160 --> 00:23:16,232
+KATE: Look, erm, it's me, Dad.
+是这样, 嗯, 是我, 爸爸
 
 283
-00:23:18,400 --> 00:23:21,074
+00:23:16,360 --> 00:23:18,476
+- I'm sorry, I know it's been a long time.
+- Kate!
+- 我很抱歉, 我知道太长时间了  - 凯特！
+
+284
+00:23:18,600 --> 00:23:21,274
 This'll be a shock and all that...
 but can I see you?
 这很突然而且又...但我能见你吗？
 
-284
-00:23:21,800 --> 00:23:22,915
-Soon please, Dad.
-尽快好吗，爸爸
-
 285
-00:23:23,840 --> 00:23:27,959
-Sorry. It's, erm, 0585-226-904.
-抱歉，我的号码是0585-226-904
+00:23:22,000 --> 00:23:23,115
+Soon please, Dad.
+尽快好吗, 爸爸
 
 286
-00:23:29,000 --> 00:23:31,310
-Erm, thanks. (BEEPS)
-嗯，谢谢
+00:23:24,040 --> 00:23:28,159
+Sorry. It's, erm, 0585-226-904.
+抱歉, 我的号码是0585-226-904
 
 287
-00:23:31,440 --> 00:23:35,035
-(ANSWERING MACHINE)
-Saturday, 3:44 p.m.
-星期六，下午 3:44
+00:23:29,200 --> 00:23:31,510
+Erm, thanks. (BEEPS)
+嗯, 谢谢
 
 288
-00:23:36,440 --> 00:23:38,954
-Stupid machine.
-Can't have been asleep that long.
-愚蠢的机器。我不可能睡了那么久
+00:23:31,640 --> 00:23:35,235
+(ANSWERING MACHINE)
+Saturday, 3:44 p.m.
+星期六, 下午 3:44
 
 289
-00:23:40,440 --> 00:23:42,590
-(CROWD CHATTERING)
+00:23:36,640 --> 00:23:39,154
+Stupid machine.
+Can't have been asleep that long.
+愚蠢的机器. 我不可能睡了那么久
 
 290
-00:23:53,400 --> 00:23:54,674
-(BEEPS)
+00:23:40,640 --> 00:23:42,790
+(CROWD CHATTERING)
 
 291
-00:23:55,440 --> 00:23:58,637
-MALE VOICE:
-Greyhound is asked to call Trap Six.
-有要求让灰狗呼叫陷阱六号
-(灰狗 Greyhound 是 UNIT 中一个小组的代号，Brigadier 自己是灰狗一号）
+00:23:53,600 --> 00:23:54,874
+(BEEPS)
 
 292
-00:23:58,760 --> 00:24:02,435
-I repeat, Greyhound is to call Trap Six.
-重复一遍，灰狗将呼叫陷阱六号
+00:23:55,640 --> 00:23:58,837
+MALE VOICE:
+Greyhound is asked to call Trap Six.
+请求灰狗联系陷阱六号
+<i>(灰狗 Greyhound 是 UNIT 中一个小组的代号, Brigadier 自己是灰狗一号）</i>
 
 293
-00:24:03,840 --> 00:24:08,755
-- ANSWERING MACHINE: Monday, 10:05 a.m.
-- Monday? What ever happened to Sunday?
-- 星期一，上午 10:05  - 星期一？星期天哪儿去了？
+00:23:58,960 --> 00:24:02,635
+I repeat, Greyhound is to call Trap Six.
+重复一遍, 灰狗请呼叫陷阱六号
 
 294
-00:24:10,240 --> 00:24:13,437
-(SCOFFS) Nonsense.
-No one sleeps for three days.
-胡扯，没人能一觉睡三天
+00:24:04,040 --> 00:24:08,955
+- ANSWERING MACHINE: Monday, 10:05 a.m.
+- Monday? What ever happened to Sunday?
+- 星期一, 上午 10:05  - 星期一？星期天哪儿去了？
 
 295
-00:24:18,520 --> 00:24:20,511
-(PHONE RINGING)
+00:24:10,440 --> 00:24:13,637
+(SCOFFS) Nonsense. No one sleeps for three days.
+胡扯, 没人能一觉睡三天
 
 296
-00:24:24,400 --> 00:24:25,959
+00:24:18,720 --> 00:24:20,711
+(PHONE RINGING)
+
+297
+00:24:24,600 --> 00:24:26,159
 -(STATIC)
 - Brendon School.
 这里是布伦登学校
 
-297
-00:24:27,480 --> 00:24:28,629
+298
+00:24:27,680 --> 00:24:28,829
 Who is this?
 是哪位？
 
-298
-00:24:28,760 --> 00:24:30,114
-SARAH: Hello? Brigadier?
-你好，准将吗？
-
 299
-00:24:30,640 --> 00:24:32,790
+00:24:28,960 --> 00:24:30,314
+SARAH: Hello? Brigadier?
+你好, 准将吗？
+
+300
+00:24:30,840 --> 00:24:32,990
 - This is Sarah-Jane Smith.
 - Miss Smith?
 - 我是莎拉-简·史密斯  - 史密斯小姐？
 
-300
-00:24:33,560 --> 00:24:36,279
+301
+00:24:33,760 --> 00:24:36,479
 Yes. Look, just please listen.
 You could be in danger.
-是的。请听我说，你可能有危险
-
-301
-00:24:36,400 --> 00:24:38,232
-I've just come from
-New World University...
-我刚从新世界大学出来...
+是的. 请听我说, 你可能有危险
 
 302
-00:24:39,080 --> 00:24:40,479
--(STATIC) -Hello? Brigadier!
-能听到吗？准将！
+00:24:36,600 --> 00:24:38,432
+I've just come from New World University...
+我刚从新世界大学出来...
 
 303
-00:24:43,440 --> 00:24:45,590
--(PULSATING)
--(PLAYING ON LOOP) Brendon school.
+00:24:39,280 --> 00:24:40,679
+(STATIC) Hello? Brigadier!
+能听到吗？准将！
 
 304
-00:24:49,680 --> 00:24:50,875
+00:24:43,640 --> 00:24:45,790
+-(PULSATING)
+-(PLAYING ON LOOP) Brendon school.
+布伦登学校
+
+305
+00:24:49,880 --> 00:24:51,075
 We have him.
 我们找到他了
 
-305
-00:24:55,080 --> 00:24:58,118
-Hi, kids. Been in
-any good deprograms lately?
-嗨, 孩子们。最近有什么好的节目吗？
-
 306
-00:24:58,240 --> 00:24:59,674
+00:24:55,280 --> 00:24:58,318
+Hi, kids. Been in any good deprograms lately?
+嗨, 孩子们. 最近参加什么好的戒除活动了吗？
+
+307
+00:24:58,440 --> 00:24:59,874
 Want any autographs?
 想要谁的签名不？
 
-307
-00:25:00,520 --> 00:25:01,840
-If you can read, that is.
-
 308
-00:25:09,200 --> 00:25:10,235
-(DOOR OPENS)
+00:25:00,720 --> 00:25:02,040
+If you can read, that is.
+要是你会读, 那就是
 
 309
-00:25:16,560 --> 00:25:19,837
-- Looking for something, Anthony?
-- A producer with a sense of humour.
-- 在找什么吗，安东尼？  - 找一个有幽默感的制作人
+00:25:09,400 --> 00:25:10,435
+(DOOR OPENS)
 
 310
-00:25:19,960 --> 00:25:21,997
+00:25:16,760 --> 00:25:20,037
+- Looking for something, Anthony?
+- A producer with a sense of humour.
+- 在找什么吗, 安东尼？  - 找一个有幽默感的制作人
+
+311
+00:25:20,160 --> 00:25:22,197
 -(CHUCKLES)
 - I want a word with the high priestess.
 我想和高级女祭司说句话
 
-311
-00:25:22,160 --> 00:25:23,958
+312
+00:25:22,360 --> 00:25:24,158
 I'm afraid the vice chancellor's busy.
 恐怕副校长这会儿正忙
 
-312
-00:25:24,080 --> 00:25:27,914
+313
+00:25:24,280 --> 00:25:28,114
 The conviction I give your propagandist
 crap should win me a BAFTA.
-
-313
-00:25:28,040 --> 00:25:30,759
-I can't get into my office
-for ruddy computer hardware.
+我为你们那些坚定信仰搞的宣传, 都可以帮我赢得BAFTA奖了
+<i>（BAFTA: 英国电影电视艺术学院奖）</i>
 
 314
-00:25:30,880 --> 00:25:33,474
-Well, it's all part of the new
-automated transmitter programme.
+00:25:28,240 --> 00:25:30,959
+I can't get into my office
+for ruddy computer hardware.
+我都进不了办公室, 全是那些要命的电脑硬件
 
 315
-00:25:33,600 --> 00:25:36,319
-- Then get the transmitter
-to read the scripts. (CHUCKLES)
+00:25:31,080 --> 00:25:33,674
+Well, it's all part of the new
+automated transmitter programme.
+哦, 那都是为新的课程自动发送器准备的
 
 316
-00:25:36,440 --> 00:25:38,158
+00:25:33,800 --> 00:25:36,519
+Then get the transmitter
+to read the scripts. (CHUCKLES)
+那你让发送器来念稿子吧
+
+317
+00:25:36,640 --> 00:25:38,358
 There's no people left here.
 这里都没有人了
 
-317
-00:25:38,280 --> 00:25:41,398
-It's just computers
-and brain-dead Chillys.
+318
+00:25:38,480 --> 00:25:41,598
+It's just computers and brain-dead Chillys.
 只有电脑和无脑的鸡仔
 
-318
-00:25:42,120 --> 00:25:43,633
+319
+00:25:42,320 --> 00:25:43,833
 I'll tell Miss Waterfield.
 我会同沃特菲尔德小姐讲的
 
-319
-00:25:44,560 --> 00:25:46,631
-Tell her I want action now.
-告诉她我要看见行动
-
 320
-00:25:46,760 --> 00:25:50,390
-Not when orders come down from our
-Glorious Sponsor, wherever he hangs out.
+00:25:44,760 --> 00:25:46,831
+Tell her I want action now.
+告诉她我现在就要看见行动
 
 321
-00:25:54,800 --> 00:26:00,034
-DISTORTED VOICE: This blind,
-empty outer-darkness is unendurable!
-这个盲目的, 空虚的外面黑暗是无法忍受的!
+00:25:46,960 --> 00:25:50,590
+Not when orders come down from our
+Glorious Sponsor, wherever he hangs out.
+而不是等我们的荣誉赞助商下命令, 天知道他在哪里闲逛
 
 322
-00:26:00,840 --> 00:26:03,275
-Release me now!
-释放我吧！
+00:25:55,000 --> 00:26:00,234
+DISTORTED VOICE: This blind,
+empty outer-darkness is unendurable!
+这里只有盲目而空虚的黑暗, 令人无法忍受！
 
 323
-00:26:03,400 --> 00:26:06,199
-I gave you my word. Soon.
-我向你承诺过了，快了
+00:26:01,040 --> 00:26:03,475
+Release me now!
+现在就释放我吧！
 
 324
-00:26:11,560 --> 00:26:14,951
+00:26:03,600 --> 00:26:06,399
+I gave you my word. Soon!
+我向你承诺过了, 快了！
+
+325
+00:26:11,760 --> 00:26:15,151
 (SIGHS) I don't belong in this world.
 我不属于这个世界
 
-325
-00:26:16,360 --> 00:26:19,876
-My family and friends, all lost in time.
-我的家庭和朋友，都迷失在时间里了
-
 326
-00:26:21,520 --> 00:26:24,512
-We are both outcast, Victoria.
-我们都是被放逐的人，维多利亚
+00:26:16,560 --> 00:26:20,076
+My family and friends, all lost in time.
+我的家庭和朋友, 全都迷失在时间里了
 
 327
-00:26:25,640 --> 00:26:27,916
+00:26:21,720 --> 00:26:24,712
+We are both outcast, Victoria.
+我俩都是被放逐的人, 维多利亚
+
+328
+00:26:25,840 --> 00:26:28,116
 That is why we work together.
 所以我们要携手
 
-328
-00:26:29,400 --> 00:26:31,676
+329
+00:26:29,600 --> 00:26:31,876
 I built you this place,
 我给你建了这个地方
 
-329
-00:26:32,640 --> 00:26:36,998
-with the money my dear
-father invested 130 years ago
+330
+00:26:32,840 --> 00:26:37,198
+with the money my dear father
+invested 130 years ago
 用了我父亲130年前投资所产生的收益
 
-330
-00:26:37,680 --> 00:26:42,038
+331
+00:26:37,880 --> 00:26:42,238
 In return, you promised us
 the Light of Truth.
-作为回报，你许诺给我们真相之光
-
-331
-00:26:42,160 --> 00:26:45,437
-(SCOFFS) There is no Light.
-没有光
+作为回报, 你许诺给我们真相之光
 
 332
-00:26:48,280 --> 00:26:49,953
-I trust you, Victoria.
-我相信你，维多利亚
+00:26:42,360 --> 00:26:45,637
+(SCOFFS) There is no Light.
+没有什么光
 
 333
-00:26:50,920 --> 00:26:54,800
+00:26:48,480 --> 00:26:50,153
+I trust you, Victoria.
+我相信你, 维多利亚
+
+334
+00:26:51,120 --> 00:26:55,000
 One Locus still binds my power.
 还有一个人偶困住我的能力
 
-334
-00:26:55,920 --> 00:26:57,877
+335
+00:26:56,120 --> 00:26:58,077
 The others were dealt with.
 其它的都已经处理掉了
 
-335
-00:26:58,400 --> 00:27:02,792
-The last must... Will be ready for my
-return.
+336
+00:26:58,600 --> 00:27:02,992
+The last must... Will be ready for my return.
 最后一个必须...为我的回归做好准备
 
-336
-00:27:06,480 --> 00:27:09,916
+337
+00:27:06,680 --> 00:27:10,116
 I think I'm going to scream.
 我觉得我要尖叫了
 
-337
-00:27:12,320 --> 00:27:14,596
-Trap Six, this is Greyhound.
-What is your message?
-
 338
-00:27:14,720 --> 00:27:16,154
+00:27:12,520 --> 00:27:14,796
+Trap Six, this is Greyhound.
+What is your message
+陷阱六号, 我是灰狗, 你有什么信息
+
+339
+00:27:14,920 --> 00:27:16,354
 {STATIC)
 {INDISTINCT)
 
-339
-00:27:17,680 --> 00:27:20,035
+340
+00:27:17,880 --> 00:27:20,235
 Please repeat, Trap Six.
 It's an appalling line.
-请再说一遍，陷阱六号。这信息很震惊
+请再说一遍, 陷阱六号. 这信息很震惊
 
-340
-00:27:21,760 --> 00:27:22,830
+341
+00:27:21,960 --> 00:27:23,030
 In London?
 在伦敦吗？
 
-341
-00:27:24,000 --> 00:27:25,991
-Roger, Trap Six, message understood.
-收到，陷阱六号，明白了
-
 342
-00:27:42,080 --> 00:27:44,276
-(ENERGY PULSATING)
+00:27:24,200 --> 00:27:26,191
+Roger, Trap Six, message understood.
+收到, 陷阱六号, 明白了
 
 343
-00:27:57,080 --> 00:28:00,072
-(CROWD APPLAUDING)
+00:27:42,280 --> 00:27:44,476
+(ENERGY PULSATING)
 
 344
-00:28:16,560 --> 00:28:18,756
+00:27:57,280 --> 00:28:00,272
+(CROWD APPLAUDING)
+
+345
+00:28:16,760 --> 00:28:18,956
 The brigadier's on the move...
 准将出动了...
 
-345
-00:28:18,960 --> 00:28:20,598
+346
+00:28:19,160 --> 00:28:20,798
 Daniel Hinton?
 丹尼尔·辛顿呢？
 
-346
-00:28:20,720 --> 00:28:21,994
+347
+00:28:20,920 --> 00:28:22,194
 He fell from the roof.
 他从屋顶上掉下去了
 
-347
-00:28:23,080 --> 00:28:24,593
+348
+00:28:23,280 --> 00:28:24,793
 What are you saying?
 你在说什么？
 
-348
-00:28:24,720 --> 00:28:27,109
-Just jumped.
-There's no sign of him below.
-他跳下去了，但下面没有见到他的踪迹
-
 349
-00:28:28,200 --> 00:28:29,474
+00:28:24,920 --> 00:28:27,309
+Just jumped. There's no sign of him below.
+他跳下去了, 但下面没有见到他的踪迹
+
+350
+00:28:28,400 --> 00:28:29,674
 But no one could...
 但没人能...
 
-350
-00:28:30,680 --> 00:28:32,239
+351
+00:28:30,880 --> 00:28:32,439
 Why didn't you tell me?
 你怎么不早告诉我？
 
-351
-00:28:33,080 --> 00:28:34,957
-Poor Daniel. We must find him!
-可怜的丹尼尔。我们必须找到他！
-
 352
-00:28:35,960 --> 00:28:37,280
+00:28:33,280 --> 00:28:35,157
+Poor Daniel. We must find him!
+可怜的丹尼尔. 我们必须找到他！
+
+353
+00:28:36,160 --> 00:28:37,480
 Let me explain again.
 让我再解释一下
 
-353
-00:28:37,960 --> 00:28:41,590
-He's vanished.
-His programme's ring-fenced.
-
 354
-00:28:41,720 --> 00:28:43,313
-He cannot deprogram himself.
+00:28:38,160 --> 00:28:41,790
+He's vanished. His programme's ring-fenced.
+他消失了. 他的程序已被“环围住”了
 
 355
-00:28:43,880 --> 00:28:46,713
-Horrible modern terms. You deal with it.
-可怕的现代术语。你来处理吧
+00:28:41,920 --> 00:28:43,513
+He cannot deprogram himself.
+他不可能将他自己反编程掉
 
 356
-00:28:47,840 --> 00:28:50,309
-My task is to prepare the way.
+00:28:44,080 --> 00:28:46,913
+Horrible modern terms. You deal with it.
+这些现代术语真可怕. 你来处理吧
 
 357
-00:28:51,320 --> 00:28:52,993
+00:28:48,040 --> 00:28:50,509
+My task is to prepare the way.
+我的任务是铺平道路
+
+358
+00:28:51,520 --> 00:28:53,193
 Not found the Locus yet then?
 还没有找到人偶吗？
 
-358
-00:28:54,240 --> 00:28:58,757
+359
+00:28:54,440 --> 00:28:58,957
 Christopher, the chancellor is coming home.
 克里斯托弗, 校长要回来了
 
-359
-00:29:00,560 --> 00:29:02,631
+360
+00:29:00,760 --> 00:29:02,831
 VICTORIA: It seems the time is now.
 看来现在到时候了
 
-360
-00:29:03,240 --> 00:29:05,800
+361
+00:29:03,440 --> 00:29:06,000
 I must find the last Locus
 我必须找到最后一个人偶
 
-361
-00:29:06,480 --> 00:29:10,553
+362
+00:29:06,680 --> 00:29:10,753
 before Daniel's misguided hopes
 wreck everything we've worked for.
 免得被误导的丹尼尔会破坏我们为之奋斗的一切
 
-362
-00:29:24,760 --> 00:29:26,671
-Bleeding loaded.
-
 363
-00:29:27,600 --> 00:29:30,240
-Let it go, will ya? I was only looking!
-放手吧，行吗？我只是看看
+00:29:24,960 --> 00:29:26,871
+Bleeding loaded.
+这么多啊
 
 364
-00:29:53,160 --> 00:29:54,355
+00:29:27,800 --> 00:29:30,440
+Let it go, will ya? I was only looking!
+放手吧, 行吗？我只是看看
+
+365
+00:29:53,360 --> 00:29:54,555
 (WHISPERS) God.
 老天
 
-365
-00:29:55,880 --> 00:29:56,836
+366
+00:29:56,080 --> 00:29:57,036
 (SIGHS)
 
-366
-00:29:59,000 --> 00:30:00,559
+367
+00:29:59,200 --> 00:30:00,759
 (HORN HONKING)
 
-367
-00:30:09,800 --> 00:30:10,915
+368
+00:30:10,000 --> 00:30:11,115
 The Locus...
 那个人偶...
 
-368
-00:30:26,360 --> 00:30:28,715
-I'll break your fingers, you little...
-我要掰断你的手指，你个小...
-
 369
-00:30:28,840 --> 00:30:30,717
-(FOOTSTEPS)
+00:30:26,560 --> 00:30:28,915
+I'll break your fingers, you little...
+我要掰断你的手指, 你个小...
 
 370
-00:30:31,720 --> 00:30:33,836
-No, no... (MUFFLED GRUNTING)
-不，不...
+00:30:29,040 --> 00:30:30,917
+(FOOTSTEPS)
 
 371
-00:30:34,760 --> 00:30:36,637
-(HORNS BLARING)
+00:30:31,920 --> 00:30:34,036
+No, no... (MUFFLED GRUNTING)
+不, 不...
 
 372
-00:30:40,360 --> 00:30:41,680
-(BREATHING DEEPLY)
+00:30:34,960 --> 00:30:36,837
+(HORNS BLARING)
 
 373
-00:30:42,720 --> 00:30:46,076
-- I'm trying to get through there,
-but it's worse. - Yeah. Excuse me...
-- 我本打算从这边过去，但更不好走  - 是，抱歉...
+00:30:40,560 --> 00:30:41,880
+(BREATHING DEEPLY)
 
 374
-00:30:53,040 --> 00:30:54,235
+00:30:42,920 --> 00:30:46,276
+- I'm trying to get through there, but it's worse.
+- Yeah. Excuse me...
+- 我本打算从这边过去, 但更不好走  - 是, 抱歉...
+
+375
+00:30:53,240 --> 00:30:54,435
 It's coming closer.
 它越来越近了
 
-375
-00:30:55,040 --> 00:30:57,429
-Perhaps you have
-something it needs, sir.
+376
+00:30:55,240 --> 00:30:57,629
+Perhaps you have something it needs, sir.
 也许你手里有它要的东西
 
-376
-00:30:57,960 --> 00:31:00,998
+377
+00:30:58,160 --> 00:31:01,198
 After all this time?
 I rather doubt that, Hinton.
-这么些年以后？我很是怀疑，辛顿
-
-377
-00:31:02,160 --> 00:31:04,117
-But you remember
-what it was, don't you?
-但你记得是什么东西，对吗？
+这么些年以后？我很是怀疑, 辛顿
 
 378
-00:31:07,720 --> 00:31:09,597
-BRIGADIER: I'm not as blinkered
-as people think.
-我并不像人们想象的那么睁眼瞎
+00:31:02,360 --> 00:31:04,317
+But you remember what it was, don't you?
+但你记得是什么东西, 对吗？
 
 379
-00:31:10,360 --> 00:31:12,636
+00:31:07,920 --> 00:31:09,797
+BRIGADIER: I'm not as blinkered as people think.
+我并不像人们想象的那么睁眼瞎
+
+380
+00:31:10,560 --> 00:31:12,836
 It's a sort of mind parasite.
 它像是一种意识寄生虫
 
-380
-00:31:12,760 --> 00:31:16,037
+381
+00:31:12,960 --> 00:31:16,237
 - The first alien force I ever came up against.
 - Sir?
 - 是我第一次遭遇的外星力量  - 长官？
 
-381
-00:31:16,160 --> 00:31:19,278
+382
+00:31:16,360 --> 00:31:19,478
 In those days it called itself
 The Great Intelligence.
 那个时候它自称为“大智慧”
 
-382
-00:31:19,400 --> 00:31:20,435
+383
+00:31:19,600 --> 00:31:20,635
 And?
 还有呢？
 
-383
-00:31:20,560 --> 00:31:24,918
+384
+00:31:20,760 --> 00:31:25,118
 No physical shape of its own,
 so it enslaved humans as pawns.
 它没有它自己的物理形体, 所以它就奴役人类作为它的爪牙
 
-384
-00:31:25,800 --> 00:31:30,636
+385
+00:31:26,000 --> 00:31:30,836
 And it deployed a squad of strategic
 robots camouflaged like Yeti.
 它还部署了一队战斗机器人, 伪装成雪怪的样子
 
-385
-00:31:31,320 --> 00:31:32,674
+386
+00:31:31,520 --> 00:31:32,874
 Was this in Tibet, sir?
 那是在西藏吗, 长官？
 
-386
-00:31:33,520 --> 00:31:36,399
+387
+00:31:33,720 --> 00:31:36,599
 No. London, about 25 years ago.
 不, 伦敦, 大概25年前
 
-387
-00:31:37,280 --> 00:31:39,749
+388
+00:31:37,480 --> 00:31:39,949
 It invaded the city like a virus,
 它像病毒一样入侵了这个城市
 
-388
-00:31:40,680 --> 00:31:44,036
+389
+00:31:40,880 --> 00:31:44,236
 using the Underground network
 as its nervous system.
 把地铁网络用作了它的神经系统
 
-389
-00:31:45,240 --> 00:31:48,790
-Grisly business.
-I thought we were rid of the blighter.
-可怕的事情。我以为我们已经摆脱这个可恶的家伙了
-
 390
-00:31:48,920 --> 00:31:50,433
+00:31:45,440 --> 00:31:48,990
+Grisly business. I thought we were
+rid of the blighter.
+可怕的事情. 我以为我们已经摆脱这个可恶的家伙了
+
+391
+00:31:49,120 --> 00:31:50,633
 It's still here, sir,
 它还在这里, 长官
 
-391
-00:31:50,560 --> 00:31:53,234
+392
+00:31:50,760 --> 00:31:53,434
 out on the bardo, the astral plane,
 躲在中阴之中, 五行之外
 <i>（中阴：藏传佛教术语, 指灵魂处于死后与重生之间时的状态）</i>
 
-392
-00:31:53,360 --> 00:31:55,715
+393
+00:31:53,560 --> 00:31:55,915
 trapped outside our physical existence.
 被困于我们物理存在之外
 
-393
-00:31:55,840 --> 00:31:57,353
+394
+00:31:56,040 --> 00:31:57,553
 BRIGADIER: Is it indeed?
 确实吗？
 
-394
-00:31:57,480 --> 00:31:58,709
+395
+00:31:57,680 --> 00:31:58,909
 And what does it want?
 那它想要什么？
 
-395
-00:31:58,840 --> 00:32:00,319
+396
+00:31:59,040 --> 00:32:00,519
 I don't know, sir.
 我不知道, 长官
 
-396
-00:32:00,440 --> 00:32:01,794
+397
+00:32:00,640 --> 00:32:01,994
 It's you it's hunting.
 它在追寻的是你
 
-397
-00:32:06,800 --> 00:32:07,835
+398
+00:32:07,000 --> 00:32:08,035
 (GASPS)
 
-398
-00:32:12,320 --> 00:32:14,038
-What's this got to do with you, Hinton?
-但这怎么又跟你扯上了关系, Hinton？
-
 399
-00:32:14,160 --> 00:32:15,639
-Just don't trust anyone, sir.
-别相信任何人, 长官
+00:32:12,520 --> 00:32:14,238
+What's this got to do with you, Hinton?
+但这怎么又跟你扯上了关系, 辛顿？
 
 400
-00:32:15,760 --> 00:32:17,910
+00:32:14,360 --> 00:32:15,839
+Just don't trust anyone, sir.
+别相信任何人就是了, 长官
+
+401
+00:32:15,960 --> 00:32:18,110
 - What?  - No one at all.
 - 什么？ - 无论是谁
 
-401
-00:32:18,680 --> 00:32:22,036
+402
+00:32:18,880 --> 00:32:22,236
 Look, I'll thank you, Hinton,
 not to treat me like a complete idiot.
-嗯, 我得感谢你, Hinton, 没把我当做一个完全的傻子
-
-402
-00:32:23,240 --> 00:32:25,277
-(HORNS BLARING)
+嗯, 我得感谢你, 辛顿, 没把我当做一个完全的傻子
 
 403
-00:32:31,480 --> 00:32:32,709
-(YETI GROWLING)
+00:32:23,440 --> 00:32:25,477
+(HORNS BLARING)
 
 404
-00:32:37,480 --> 00:32:40,233
-Damn traffic. Brings out the worst
-in you, doesn't it?
-可恶的交通, 把每个人最坏的一面都带出来了, 是吧？
+00:32:31,680 --> 00:32:32,909
+(YETI GROWLING)
 
 405
-00:32:41,240 --> 00:32:42,753
-(HORN HONKING)
+00:32:37,680 --> 00:32:40,433
+Damn traffic. Brings out the worst in you,
+doesn't it?
+可恶的交通, 把每个人最坏的一面都带出来了, 是吧？
 
 406
-00:32:43,520 --> 00:32:44,749
+00:32:41,440 --> 00:32:42,953
+(HORN HONKING)
+
+407
+00:32:43,720 --> 00:32:44,949
 DISTORTED VOICE: Daniel Hinton.
 丹尼尔·辛顿
 
-407
-00:32:45,560 --> 00:32:47,039
+408
+00:32:45,760 --> 00:32:47,239
 You are summoned.
 你被召唤了
 
-408
-00:32:47,160 --> 00:32:50,551
+409
+00:32:47,360 --> 00:32:50,751
 (WHIMPERING) Sir, get off me!
 先生, 离我远点！
 
-409
-00:32:51,760 --> 00:32:53,114
+410
+00:32:51,960 --> 00:32:53,314
 Daniel Hinton!
 丹尼尔·辛顿
 
-410
-00:32:53,240 --> 00:32:55,277
-My summons binds you!
-我召唤你！
-
 411
-00:32:58,560 --> 00:33:00,551
-MAN: (ON RADIO) Traffic update
-on New World FM.
-新世界FM播报交通状况
+00:32:53,440 --> 00:32:55,477
+My summons binds you!
+我的召唤困住了你！
 
 412
-00:33:00,720 --> 00:33:02,870
+00:32:58,760 --> 00:33:00,751
+MAN: (ON RADIO) Traffic update on New World FM.
+新世界FM播报交通状况
+
+413
+00:33:00,920 --> 00:33:03,070
 ANTHONY: (ON RADIO) I think you'd
 better stay home today.
 我觉得你们最好今天待在家里
 
-413
-00:33:03,000 --> 00:33:04,991
+414
+00:33:03,200 --> 00:33:05,191
 On top of a ton of traffic probs,
 除了一大堆交通堵塞
 
-414
-00:33:05,120 --> 00:33:08,238
+415
+00:33:05,320 --> 00:33:08,438
 they've just announced that all the
 railways and major airports are suspended.
-他们刚刚还宣布了铁路和主要机场都关闭
+他们刚刚还宣布了所有铁路和主要机场都暂时关闭
 
-415
-00:33:08,360 --> 00:33:11,432
+416
+00:33:08,560 --> 00:33:11,632
 <i>So, you'd better get walking 'cause
 they're shutting down the tube, too.</i>
 所以你最好步行, 因为他们又要关闭隧道了
 
-416
-00:33:11,560 --> 00:33:13,676
+417
+00:33:11,760 --> 00:33:13,876
 Crazy. Everything has computer flu.
 疯了, 所有东西都患上了电脑病毒似的
 <i>(招牌文字: 电脑混沌在蔓延)</i>
 
-417
-00:33:13,800 --> 00:33:17,229
-So, whatever you do, don't log into your PCs.
-所以, 不管你干什么, 今天都不要登入电脑
-
 418
-00:33:17,320 --> 00:33:19,829
+00:33:14,000 --> 00:33:17,429
+So, whatever you do, don't log into your PCs.
+所以, 不管你干什么, 都不要登入电脑
+
+419
+00:33:17,520 --> 00:33:20,029
 They're in a mean mood today.
 (ALARM CHIRPS)
 它们今天心情很不爽
 
-419
-00:33:23,600 --> 00:33:25,557
+420
+00:33:23,800 --> 00:33:25,757
 Can I tell you about the New World, sir?
 我能跟你介绍一下新世界吗, 先生？
 
-420
-00:33:25,680 --> 00:33:26,954
+421
+00:33:25,880 --> 00:33:27,154
 I'm not interested.
 我不感兴趣
 
-421
-00:33:27,080 --> 00:33:28,673
-We want to tell you
-about our good news, sir.
+422
+00:33:27,280 --> 00:33:28,873
+We want to tell you about our good news, sir.
 我们想跟你说说我们的好消息, 先生
 
-422
-00:33:28,800 --> 00:33:30,598
+423
+00:33:29,000 --> 00:33:30,798
 I said I'm not interested.
 我说了我不感兴趣
 
-423
-00:33:33,240 --> 00:33:34,310
-Have a better one.
-找个更好的吧(fixme)
-
 424
-00:33:34,440 --> 00:33:38,399
+00:33:33,440 --> 00:33:34,510
+Have a better one.
+找个更好的吧
+
+425
+00:33:34,640 --> 00:33:38,599
 And that's the best of the weather,
 brought to you by New World University
 这是最好的天气, 新世界大学为你们带来
 
-425
-00:33:38,520 --> 00:33:40,158
+426
+00:33:38,720 --> 00:33:40,358
 where the sun always shines.
 而阳光永远灿烂
 
-426
-00:33:40,680 --> 00:33:41,715
+427
+00:33:40,880 --> 00:33:41,915
 Gridlock out there.
 外面交通大堵塞
 
-427
-00:33:41,840 --> 00:33:43,990
-Is it Friday the 13th,
-and they didn't tell us?
+428
+00:33:42,040 --> 00:33:44,190
+Is it Friday the 13th, and they didn't tell us?
 难道今天是黑色星期五, 而他们没有告诉我们？
 
-428
-00:33:44,120 --> 00:33:45,440
+429
+00:33:44,320 --> 00:33:45,640
 Stay at home, give us a call.
 待在家里, 给我们打电话
 
-429
-00:33:45,560 --> 00:33:48,439
+430
+00:33:45,760 --> 00:33:48,639
 0135-666-416.
 
-430
-00:33:48,560 --> 00:33:51,200
-And on line one, it's Danny.
-一号线接通了, 这位是丹尼
-
 431
-00:33:51,320 --> 00:33:53,118
+00:33:48,760 --> 00:33:51,400
+And on line one, it's... Danny.
+一号线接通了, 这位是...丹尼
+
+432
+00:33:51,520 --> 00:33:53,318
 Hi, Daniel. What's your problem?
 嗨, 丹尼尔, 你什么问题？
 
-432
-00:33:53,240 --> 00:33:56,153
+433
+00:33:53,440 --> 00:33:56,353
 HINTON: Anthony, it's me. I'm still alive.
 安东尼, 是我, 我还活着
 
-433
-00:33:56,280 --> 00:33:58,590
+434
+00:33:56,480 --> 00:33:58,790
 - Listen. It's coming.
 - Danny, you idiot. What's happening?
 - 听我说, 它要来了  - 丹尼, 你个笨蛋, 都怎么回事？
 
-434
-00:33:58,720 --> 00:34:00,074
+435
+00:33:58,920 --> 00:34:00,274
 It's already coming for me,
 but it wants all of us.
 它已经来找我了, 但它要我们全部
 
-435
-00:34:00,200 --> 00:34:02,271
+436
+00:34:00,400 --> 00:34:02,471
 - You've got to warn...
 - I knew you'd get caught! Where are you?
 - 你必须得警告...  - 我就知道你会被抓住的！你在哪儿？
 
-436
-00:34:03,200 --> 00:34:05,237
+437
+00:34:03,400 --> 00:34:05,437
 Danny, you've got to get help before we...
 丹尼, 你必须找人帮忙, 否则我们...
 
-437
-00:34:06,520 --> 00:34:08,591
+438
+00:34:06,720 --> 00:34:08,791
 Danny! Danny!
 丹尼！丹尼！
 
-438
-00:34:09,040 --> 00:34:11,429
+439
+00:34:09,240 --> 00:34:11,629
 (ENERGY PULSATING)
 
-439
-00:34:16,760 --> 00:34:18,751
+440
+00:34:16,960 --> 00:34:18,951
 {STATIC)
 {GROANING)
 
-440
-00:34:21,200 --> 00:34:23,635
+441
+00:34:21,400 --> 00:34:23,835
 -(SIGHS)
 - What are you after?
-你在追什么？
-
-441
-00:34:25,240 --> 00:34:26,639
-Bloody Chillys.
-要命的鸡杂
+你在追寻什么？
 
 442
-00:34:27,440 --> 00:34:29,954
+00:34:25,440 --> 00:34:26,839
+Bloody Chillys.
+要命的鸡仔
+
+443
+00:34:27,640 --> 00:34:30,154
 - I'm going to get the law.
 - Think they'd believe you?
 - 我打算去找执法部门了  - 觉得他们会相信你？
 
-443
-00:34:31,120 --> 00:34:33,714
+444
+00:34:31,320 --> 00:34:33,914
 Sir, I never hurt no one.
 先生, 我从没伤害过任何人
 
-444
-00:34:33,840 --> 00:34:36,832
-Not me, sir. Not old Harrods.
-不是过, 先生, 不是老哈罗斯
-
 445
-00:34:38,280 --> 00:34:39,315
+00:34:34,040 --> 00:34:37,032
+Not me, sir. Not old Harrods.
+我没有, 先生, 老哈罗斯没有
+
+446
+00:34:38,480 --> 00:34:39,515
 (SHOUTS) Don't!
 不要！
 
-446
-00:34:40,960 --> 00:34:42,075
+447
+00:34:41,160 --> 00:34:42,275
 Sir,
 先生
 
-447
-00:34:43,800 --> 00:34:45,791
+448
+00:34:44,000 --> 00:34:45,991
 flew right down, you did.
 飞下来了, 你那时候
 
-448
-00:34:45,920 --> 00:34:49,311
-Glided down out of that place. (LAUGHS)
-从哪个地方滑下来了
-
 449
-00:34:50,040 --> 00:34:52,475
-Don't need jets no more, sir?
-不在需要滑翔机了吗, 先生？
+00:34:46,120 --> 00:34:49,511
+Glided down out of that place. (LAUGHS)
+从那个地方滑下来了
 
 450
-00:34:52,600 --> 00:34:56,389
+00:34:50,240 --> 00:34:52,675
+Don't need jets no more, sir?
+不再需要滑翔机了吗, 先生？
+
+451
+00:34:52,800 --> 00:34:56,589
 And then he comes after us,
 like an old spidery man.
 然后他就开始追着我们, 像一只老蜘蛛
 
-451
-00:34:56,840 --> 00:34:58,319
+452
+00:34:57,040 --> 00:34:58,519
 He's coming after all of us.
 他在追我们所有人
 
-452
-00:34:59,920 --> 00:35:03,117
+453
+00:35:00,120 --> 00:35:03,317
 Listen, that money you nicked from me
 is no good to anyone. Period!
-听着, 你从我身上摸走的钱对谁也没有好处。句号！
-
-453
-00:35:03,240 --> 00:35:04,674
-Not unless you help me!
-除非你帮助我？
+听着, 你从我身上摸走的钱对谁也用了. 句号！
 
 454
-00:35:05,920 --> 00:35:07,035
+00:35:03,440 --> 00:35:04,874
+Not unless you help me!
+除非你帮助我！
+
+455
+00:35:06,120 --> 00:35:07,235
 You got more?
 你还有吗？
 
-455
-00:35:09,400 --> 00:35:12,119
+456
+00:35:09,600 --> 00:35:12,319
 Sir, 1 got principles.
 先生, 我有原则的
 
-456
-00:35:12,760 --> 00:35:14,319
+457
+00:35:12,960 --> 00:35:14,519
 I'm very particular.
 我非常挑剔
 
-457
-00:35:16,160 --> 00:35:17,480
+458
+00:35:16,360 --> 00:35:17,680
 You've seen what's coming,
 你看到什么东西会来
 
-458
-00:35:20,040 --> 00:35:22,077
-but it's only half what I see.
-但不及我说看到的一半
-
 459
-00:35:22,520 --> 00:35:25,034
-Come on, there's someone
-we have to reach fast.
-快, 我们必须得尽快找到一个人
+00:35:20,240 --> 00:35:22,277
+but it's only half what I see.
+但不及我所看到的一半
 
 460
-00:35:34,760 --> 00:35:37,434
+00:35:22,720 --> 00:35:25,234
+Come on, there's someone we have to reach fast.
+快, 我们必须得尽快找到一个人
+
+461
+00:35:34,960 --> 00:35:37,634
 - Good morning.
 - Hi. How can I help you?
 - 早上好  - 嗨, 有什么可以帮你的吗？
 
-461
-00:35:37,560 --> 00:35:38,880
+462
+00:35:37,760 --> 00:35:39,080
 Lethbridge-Stewart for Cavendish.
 利斯布里奇-斯图尔特, 来找凯文迪许
 
-462
-00:35:39,000 --> 00:35:40,911
+463
+00:35:39,200 --> 00:35:41,111
 Right. If you'd like to go through
 to the lounge, Brigadier,
 好, 如果你走过休息室, 准将
 
-463
-00:35:41,040 --> 00:35:43,953
+464
+00:35:41,240 --> 00:35:44,153
 you'll find Captain Cavendish
 already waiting for you.
 你就会发现凯文迪许队长已经在等你
 
-464
-00:35:44,840 --> 00:35:49,073
+465
+00:35:45,040 --> 00:35:49,273
 "John Jerum, soldierman,
 Is searching high and low.
-"John Jerum, 兵哥哥, 上下求索"
+"John Jerum, 兵哥哥, 上下求索着"
 
-465
-00:35:50,080 --> 00:35:54,677
+466
+00:35:50,280 --> 00:35:54,877
 "The only secret he can keep
 Is one he doesn't know.”
 “唯一能保住的秘密, 是他自己也不知道的”
 
-466
-00:35:56,840 --> 00:35:58,672
+467
+00:35:57,040 --> 00:35:58,872
 My father used to say that.
 我父亲经常念这句
 
-467
-00:35:59,760 --> 00:36:01,239
+468
+00:35:59,960 --> 00:36:01,439
 He'd have hated this.
 他肯定恨这个
 
-468
-00:36:03,160 --> 00:36:05,310
+469
+00:36:03,360 --> 00:36:05,510
 You haven't got a clue, have you?
 你一点都不知道, 是吧
 
-469
-00:36:06,120 --> 00:36:09,238
+470
+00:36:06,320 --> 00:36:09,438
 Your precious Chancellor's
 got all the real power,
 你那宝贵的校长拥有所有真正的能力
 
-470
-00:36:09,360 --> 00:36:11,351
+471
+00:36:09,560 --> 00:36:11,551
 the power we can all profit by.
 我们都可以从这些能力里受益
 
-471
-00:36:12,640 --> 00:36:15,439
+472
+00:36:12,840 --> 00:36:15,639
 He isn't just some
 father substitute for you.
 他可不是你那什么父亲的小替身
 
-472
-00:36:15,560 --> 00:36:18,154
+473
+00:36:15,760 --> 00:36:18,754
 He works for the world's spiritual good,
 他致力于建立一个很好的精神世界
 
-473
-00:36:19,000 --> 00:36:20,832
+474
+00:36:19,000 --> 00:36:21,032
 but you'd even sell your own soul.
 但你却把自己的灵魂都卖了
 
-474
-00:36:20,960 --> 00:36:23,520
+475
+00:36:21,160 --> 00:36:23,720
 (CHUCKLES) That's marketing.
 这是市场营销
 
-475
-00:36:24,480 --> 00:36:26,517
-All "ring-fenced” no doubt.
-
 476
-00:36:27,920 --> 00:36:29,752
-Like your expense account.
+00:36:24,680 --> 00:36:26,717
+All "ring-fenced” no doubt.
+都被“环围住”了, 毫无疑问
 
 477
-00:36:31,120 --> 00:36:32,633
+00:36:28,120 --> 00:36:29,952
+Like your expense account.
+就像你的支出账户
+
+478
+00:36:31,320 --> 00:36:32,833
 ANTHONY: (LOUDSPEAKERS)
 Victoria Waterfield!
 维多利亚•沃特菲尔德!
 
-478
-00:36:33,280 --> 00:36:34,554
+479
+00:36:33,480 --> 00:36:34,754
 Can you hear me?
 你能听到我吗？
 
-479
-00:36:35,200 --> 00:36:38,670
+480
+00:36:35,400 --> 00:36:38,870
 Miss Waterfield's our boss,
 ladies and gentlemen,
 沃特菲尔德小姐是我们的老板, 女士们先生们
 
-480
-00:36:38,800 --> 00:36:41,758
+481
+00:36:39,000 --> 00:36:41,958
 - the big cheese at N Treble U!
 - Make him stop! Stop him!
-- 她是 NTU 的重要任务！  - 让他停下来！阻止他！
+- 她是 NTU 的大人物！  - 让他停下来！阻止他！
 
-481
-00:36:41,880 --> 00:36:44,076
+482
+00:36:42,080 --> 00:36:44,276
 -(CHUCKLES)
 - And she's today's surprise guest
 她是今天的神秘嘉宾
 
-482
-00:36:44,200 --> 00:36:45,873
+483
+00:36:44,400 --> 00:36:46,073
 on “Lift the Lid.”
 来到“揭开盖子”栏目
 
-483
-00:36:46,000 --> 00:36:48,594
+484
+00:36:46,200 --> 00:36:48,794
 So, ring in those questions now.
 好, 现在打电话进来提问吧
 
-484
-00:36:48,720 --> 00:36:51,872
+485
+00:36:48,920 --> 00:36:52,072
 It's revelation time, Vice Chancellor!
 到了揭晓的时间了, 副校长！
 
-485
-00:36:52,920 --> 00:36:55,912
-Forget anything I said before.
-It was lies!
+486
+00:36:53,120 --> 00:36:56,112
+Forget anything I said before. It was lies!
 忘了我以前说过的话吧, 都是谎言！
 
-486
-00:36:56,440 --> 00:36:58,670
+487
+00:36:56,640 --> 00:36:58,870
 New World's just a big front.
 新世界只是一个大幌子
 
-487
-00:36:58,800 --> 00:37:01,758
+488
+00:36:59,000 --> 00:37:01,958
 But they pay well, don't they,
 Miss Waterfield?
 不过他们薪水不错, 是吧, 沃特菲尔德小姐？
 
-488
-00:37:02,600 --> 00:37:04,910
--(ENERGY PULSATING) - What about
+489
+00:37:02,800 --> 00:37:05,110
+(ENERGY PULSATING) What about
 all the people that disappear, eh?
 但那些失踪的人呢, 嗯？
 
-489
-00:37:05,040 --> 00:37:06,439
+490
+00:37:05,240 --> 00:37:06,639
 Danny was right!
 丹尼说对了！
 
-490
-00:37:06,560 --> 00:37:09,029
+491
+00:37:06,760 --> 00:37:09,229
 New World doesn't give a toss for you.
 新世界并不在乎你
 
-491
-00:37:09,160 --> 00:37:10,230
+492
+00:37:09,360 --> 00:37:10,430
 Something's coming.
 有东西来了
 
-492
-00:37:10,720 --> 00:37:12,631
+493
+00:37:10,920 --> 00:37:12,831
 Victoria Waterfield will tell you.
 维多利亚•沃特菲尔德会告诉你们的
 
-493
-00:37:13,800 --> 00:37:15,199
+494
+00:37:14,000 --> 00:37:15,399
 (SOBBING) She'll tell you.
 她会告诉你们
 
-494
-00:37:15,920 --> 00:37:19,276
+495
+00:37:16,120 --> 00:37:19,476
 And it'll finish everything.
 那东西会结束这一切
 
-495
-00:37:31,800 --> 00:37:34,360
+496
+00:37:32,000 --> 00:37:34,560
 - Good to see you, Brigadier.
 - Sorry I'm late, Cavendish.
 - 很高兴见到你, 准将  - 抱歉我来晚了, 凯文迪许
 
-496
-00:37:34,480 --> 00:37:37,438
+497
+00:37:34,680 --> 00:37:37,638
 The transport system seems to be
 fouled up by this computer business.
 交通系统似乎被电脑问题搞瘫痪了
 
-497
-00:37:37,560 --> 00:37:40,234
+498
+00:37:37,760 --> 00:37:40,434
 - Mmm, quite. Would you care for a drink?
 - No, thank you.
-- 唔, 太差了。你介意喝一杯吗？  - 不, 谢谢你
+- 唔, 太差了. 你介意喝一杯吗？  - 不, 谢谢你
 
-498
-00:37:40,880 --> 00:37:42,598
+499
+00:37:41,080 --> 00:37:42,798
 I thought it best to meet here.
 我觉得在这里见面最好
 
-499
-00:37:42,720 --> 00:37:45,439
+500
+00:37:42,920 --> 00:37:45,639
 Security boys get a bit stressed out
 over ID checks.
 负责安全的小伙子们总是要紧张兮兮地查证件
 
-500
-00:37:46,080 --> 00:37:48,720
+501
+00:37:46,280 --> 00:37:48,920
 So, UNIT hasn't changed since my time, eh?
 看来, 我走之后 UNIT 还没变, 嗯？
 
-501
-00:37:48,840 --> 00:37:51,354
+502
+00:37:49,040 --> 00:37:51,554
 Well, I doubt there'd be much left
 that you'd recognise.
-哦, 我怀疑还有多少你能认识
-
-502
-00:37:51,480 --> 00:37:53,949
-Razor-smart weapons,
-all are computers these days.
-Razor-smart 的武器, 现在全是电脑了fixme
+哦, 我怀疑还有多少你能认出来
 
 503
-00:37:54,880 --> 00:37:58,157
-I used to leave the technology to the
-experts.
-我那时都把技术问题留给专家
+00:37:51,680 --> 00:37:54,149
+Razor-smart weapons,
+all are computers these days.
+Razor-smart 的武器, 现在全是电脑了
 
 504
-00:37:58,280 --> 00:37:59,918
+00:37:55,080 --> 00:37:58,357
+I used to leave the technology to the experts.
+我那时都把技术问题留给专家们
+
+505
+00:37:58,480 --> 00:38:00,118
 Yes, of course.
 是, 当然
 
-505
-00:38:01,160 --> 00:38:03,993
+506
+00:38:01,360 --> 00:38:04,193
 Do you know they called your era
 "The Blunder Days"?
 你知道他们把你们那个时代叫做“Blunder时代”吗？
 
-506
-00:38:04,120 --> 00:38:06,316
+507
+00:38:04,320 --> 00:38:06,516
 - The what?
 - Blood and Thunder.
 - 什么时代？  - 热血和雷霆
 
-507
-00:38:06,440 --> 00:38:08,556
+508
+00:38:06,640 --> 00:38:08,756
 Well, you took on
 some formidable opposition.
-看, 你碰上了一些强硬的对手
+看, 你碰上过一些强硬的对手
 
-508
-00:38:08,680 --> 00:38:11,513
+509
+00:38:08,880 --> 00:38:11,713
 Cybermen, demons, Yeti.
 赛博人, 恶魔, 雪怪
 
-509
-00:38:12,560 --> 00:38:16,633
+510
+00:38:12,760 --> 00:38:16,833
 No worse than jumped up officers
 with tuppenny-halfpenny commissions.
+那也不如某些军官厉害, 他们靠着一两个便士的任务就升了上来
 
-510
-00:38:17,520 --> 00:38:18,874
+511
+00:38:17,720 --> 00:38:19,074
 Right.
 对
 
-511
-00:38:19,000 --> 00:38:21,992
+512
+00:38:19,200 --> 00:38:22,192
 Cavendish, exactly why did you call me
 up to town today?
 凯文迪许, 你今天到底是为了什么把我叫进城来？
 
-512
-00:38:22,120 --> 00:38:23,872
+513
+00:38:22,320 --> 00:38:24,072
 Information, sir,
 资料, 长官
 
-513
-00:38:25,280 --> 00:38:27,874
-of a personal nature, you understand?
-
 514
-00:38:28,000 --> 00:38:29,274
+00:38:25,480 --> 00:38:28,074
+of a personal nature, you understand?
+关于一点个人性质的, 明白吗？
+
+515
+00:38:28,200 --> 00:38:29,474
 Meaning?
 意思是...？
 
-515
-00:38:29,400 --> 00:38:31,789
+516
+00:38:29,600 --> 00:38:31,989
 Someone's been hacking
 into security files in Geneva.
 有人黑进了日内瓦的保密文件
 
-516
-00:38:31,920 --> 00:38:33,513
+517
+00:38:32,120 --> 00:38:33,713
 My files, I take it.
 我的文件, 我懂了
 
-517
-00:38:33,640 --> 00:38:36,632
+518
+00:38:33,840 --> 00:38:36,832
 Yes, so the MOD were never very
 forthcoming about dealings with UNIT.
-是的, 所有
-
-518
-00:38:36,760 --> 00:38:39,673
-Besides, we need more personal details.
-另外, 我们需要多一些个人信息
+是的, 在处理UNIT相关事情时国防部总是不太积极
 
 519
-00:38:39,800 --> 00:38:40,756
+00:38:36,960 --> 00:38:39,873
+Besides, we need more personal details.
+而且, 我们需要多一些个人信息
+
+520
+00:38:40,000 --> 00:38:40,956
 We?
 我们？
 
-520
-00:38:41,480 --> 00:38:44,233
-Do I take it that security is in the dark
-about this, too?
-
 521
-00:38:45,440 --> 00:38:48,273
-Strange you never rose
-above Brigadier, wasn't it?
-奇怪的是你做准将之后再也没有升值过, 是吗？
+00:38:41,680 --> 00:38:44,433
+Do I take it that security is
+in the dark about this, too?
+我能否理解为安全部门对此还不知情？
 
 522
-00:38:48,960 --> 00:38:50,598
-Internal politics.
-内部政治
+00:38:45,640 --> 00:38:48,473
+Strange you never rose
+above Brigadier, wasn't it?
+奇怪的是你做准将之后再也没有升职过, 是吗？
 
 523
-00:38:51,880 --> 00:38:55,157
+00:38:49,160 --> 00:38:50,798
+Internal politics.
+内部政治嘛
+
+524
+00:38:52,080 --> 00:38:55,357
 Well, I had no idea there was a market
 for my memoirs.
 啊, 我还不知道我的回忆录还挺有市场
 
-524
-00:38:56,000 --> 00:38:58,389
+525
+00:38:56,200 --> 00:38:58,589
 I'll send you a copy
 when I get round to writing them.
 等我有时间写完的话, 我会送你一本
 
-525
-00:39:04,840 --> 00:39:07,400
+526
+00:39:05,040 --> 00:39:09,600
 So, UNIT got all the blame
 for blowing up the church.
-所以, 炸掉教堂的事情就全是 UNIT 背锅了？fixme
-
-526
-00:39:07,520 --> 00:39:08,555
-(CHUCKLES)
+所以, 炸掉教堂的事情就全是 UNIT 背锅了？
+<i>（这应该是指第八季第五集《恶魔》The Dæmons中发生的事情）</i>
 
 527
-00:39:09,840 --> 00:39:12,354
+00:39:10,040 --> 00:39:12,554
 - Are you sure you won't join me, Brigadier?
 - Quite sure.
 - 你确定不陪我来一杯, 准将？ - 相当确定
 
 528
-00:39:14,160 --> 00:39:16,879
+00:39:14,360 --> 00:39:17,079
 You must've picked up
 the odd souvenir in your time.
 你那时肯定拿过一些奇怪的东西
 
 529
-00:39:17,760 --> 00:39:21,196
+00:39:17,960 --> 00:39:21,396
 I counted them in
 and I counted them all back out.
-收进来的时候我数过, 放回去的时候我哦也数过
+收进来的时候我数过, 放回去的时候我也全都数过
 
 530
-00:39:21,320 --> 00:39:23,914
+00:39:21,520 --> 00:39:24,114
 No particular keepsake?
 没有什么特别的纪念品？
 
 531
-00:39:24,040 --> 00:39:25,713
+00:39:24,240 --> 00:39:25,913
 I mean, things do get mislaid.
 我是说, 弄丢什么东西
 
 532
-00:39:26,200 --> 00:39:29,397
+00:39:26,400 --> 00:39:29,597
 If you lose things,
 you could lose men, too.
 如果你弄丢东西, 你也会弄丢人
 
 533
-00:39:30,160 --> 00:39:33,676
+00:39:30,360 --> 00:39:33,876
 Well, it's been good to talk to you, Cavendish.
 but I have another appointment.
-好了, 很高兴同你聊聊。凯文迪许。但我还有另外一个约
+好了, 很高兴同你聊聊. 凯文迪许. 但我还有另外一个约
 
 534
-00:39:33,800 --> 00:39:36,440
+00:39:34,000 --> 00:39:36,640
 So soon? I was concerned, Brigadier.
 这么快？我很担心, 准将？
 
 535
-00:39:36,560 --> 00:39:38,676
+00:39:36,760 --> 00:39:38,876
 - So was I
 - CAVENDISH: So you should be.
 - 我也是  - 你也该这样
 
 536
-00:39:40,240 --> 00:39:41,719
+00:39:40,440 --> 00:39:41,919
 Blood and Thunder, Captain.
-热血与雷霆, 队长fixme
+热血与雷霆, 队长
 
 537
-00:39:41,840 --> 00:39:43,194
+00:39:42,040 --> 00:39:43,394
 Now back off.
 现在退后
 
 538
-00:39:43,840 --> 00:39:45,160
+00:39:44,040 --> 00:39:45,360
 I'm leaving.
 我走了
 
 539
-00:39:48,000 --> 00:39:49,559
+00:39:48,200 --> 00:39:49,759
 Get after him!
 去追他！
 
 540
-00:39:52,160 --> 00:39:53,594
+00:39:52,360 --> 00:39:53,794
 It's not too late!
 还不算太迟！
 
 541
-00:39:54,360 --> 00:39:55,998
+00:39:54,560 --> 00:39:56,198
 I must find it.
 我必须找到它
 
 542
-00:39:56,760 --> 00:39:59,434
+00:39:56,960 --> 00:39:59,634
 (PYRAMID PULSATING)
 
 543
-00:39:59,560 --> 00:40:03,076
+00:39:59,760 --> 00:40:03,276
 DISTORTED VOICE: Victoria, I am here.
 维多利亚, 我在这里
 
 544
-00:40:21,320 --> 00:40:23,311
+00:40:21,520 --> 00:40:23,511
 (DISTORTED) Where is the Locus?
 人偶在哪里？
 
 545
-00:40:24,680 --> 00:40:26,671
+00:40:24,880 --> 00:40:26,871
 (HORNS BLARING)
 
 546
-00:40:32,160 --> 00:40:36,996
+00:40:32,360 --> 00:40:37,996
 All right then.
 Quote them the codes, NN and then QQ.
 那好吧, 告诉他们代号, NN 和 QQ
@@ -2843,2305 +2834,2307 @@ Quote them the codes, NN and then QQ.
 其实它们是相应电视剧集的生产代号)</i>
 
 547
-00:40:38,560 --> 00:40:41,837
+00:40:38,760 --> 00:40:42,037
 It's a risk, but we must reach
 someone we can trust.
 这是个风险, 但我们必须找到一个我们可以信任的人
 
 548
-00:40:57,200 --> 00:40:59,271
+00:40:57,400 --> 00:40:59,471
 (STATIC)
 
 549
-00:41:00,640 --> 00:41:05,237
+00:41:00,840 --> 00:41:05,437
 - MAN: (ON PHONE) Q?
 - No, I said codes NN and Q... QQ!
 - Q?  - 不, 我说了, 代号是 NN 和 Q .. QQ！
 
 550
-00:41:05,360 --> 00:41:06,759
+00:41:05,560 --> 00:41:06,959
 - It's urgent!
 - I see, thank you.
 - 这事很紧急！  - 明白了, 谢谢你
 
 551
-00:41:06,880 --> 00:41:08,200
+00:41:07,080 --> 00:41:08,400
 I'd get more sense from a tea lady.
 找个女服务员都比你明白
 
 552
-00:41:08,320 --> 00:41:10,072
+00:41:08,520 --> 00:41:10,272
 May I ask if you've encountered
 anything resembling a Yeti?
 我可以问问, 你是遇到了某种像是雪怪的东西？
 
 553
-00:41:10,200 --> 00:41:12,430
+00:41:10,400 --> 00:41:12,630
 - Have I encountered any what?
 - A Yeti.
 - 我是遇到了什么？ - 雪怪！
 
 554
-00:41:12,560 --> 00:41:14,471
+00:41:12,760 --> 00:41:14,671
 What have Yeti got to do with it?
 雪怪跟这有什么关系？
 
 555
-00:41:21,440 --> 00:41:23,477
+00:41:21,640 --> 00:41:23,677
 - You're late.
 - I was delayed.
 - 你迟到了  - 我被拖住了
 
 556
-00:41:23,600 --> 00:41:26,479
+00:41:23,800 --> 00:41:26,679
 The traffic and this computer business...
 堵车和电脑方面的问题...
 
 557
-00:41:26,600 --> 00:41:29,160
+00:41:26,800 --> 00:41:29,360
 - Are you all right?
 - Oh, I can't complain.
 - 你还好吗？  - 噢, 没什么可抱怨的
 
 558
-00:41:29,280 --> 00:41:30,509
+00:41:29,480 --> 00:41:30,709
 How are you?
 你好吗？
 
 559
-00:41:31,320 --> 00:41:32,754
+00:41:31,520 --> 00:41:32,954
 Look, this is stupid.
 看, 这事很愚蠢
 
 560
-00:41:32,880 --> 00:41:34,314
+00:41:33,080 --> 00:41:34,514
 I'll just go. I shouldn't have called you.
 我还是走吧, 不应该给你打电话的
 
 561
-00:41:34,440 --> 00:41:37,558
+00:41:34,640 --> 00:41:37,758
 Look, Kate, have you eaten?
 We could get a meal.
 嗯, 凯特, 你吃了吗？我们可以去吃个饭
 
 562
-00:41:37,680 --> 00:41:39,557
+00:41:37,880 --> 00:41:39,757
 No. Ugh...
 不, 呃...
 
 563
-00:41:39,680 --> 00:41:42,479
+00:41:39,880 --> 00:41:42,679
 - All right, er, we'll sit here.
 - 1... (SIGHS)
 - 没事, 嗯, 我们就这里坐坐  - 我...
 
 564
-00:41:43,680 --> 00:41:45,318
+00:41:43,880 --> 00:41:45,518
 I'm sorry, Dad.
 对不起, 爸爸
 
 565
-00:41:49,240 --> 00:41:50,594
+00:41:49,440 --> 00:41:50,794
 You look tired.
 你看起来很累
 
 566
-00:41:50,720 --> 00:41:52,199
+00:41:50,920 --> 00:41:52,399
 I've had a difficult morning.
 我这一早上过得很糟糕
 
 567
-00:41:53,680 --> 00:41:55,990
+00:41:53,880 --> 00:41:56,190
 Kate, it's been six years.
 凯特, 这都六年了
 
 568
-00:41:56,120 --> 00:41:57,315
+00:41:56,320 --> 00:41:57,515
 What's the matter? Is it money?
 出什么事呢？是因为钱吗？
 
 569
-00:41:57,440 --> 00:41:58,794
+00:41:57,640 --> 00:41:58,994
 No, no. Not especially.
-不, 不。并不是
+不, 不. 并不是
 
 570
-00:41:58,920 --> 00:42:01,594
+00:41:59,120 --> 00:42:01,794
 - Your mother then?
 - No! I don't see her either.
 - 那是你母亲？  - 不！我也没见她
 
 571
-00:42:02,640 --> 00:42:05,200
+00:42:02,840 --> 00:42:05,400
 Look, I know this is crazy, but...
-看, 我知道
+看, 我知道这很疯狂, 但是...
 
 572
-00:42:05,320 --> 00:42:06,913
+00:42:05,520 --> 00:42:07,113
 - I'm being harassed.
 - Who by?
 - 我被骚扰了  - 被谁？
 
 573
-00:42:07,600 --> 00:42:09,477
+00:42:07,800 --> 00:42:09,677
 - There are these Chillys.
 - Chillys?
 - 就那些鸡仔  - 鸡仔?
 
 574
-00:42:09,600 --> 00:42:11,193
+00:42:09,800 --> 00:42:11,393
 - You know? Children...
 -(EXCLAIMS) Children?
 - 你知道吗, 一些孩子...  - 孩子？
 
 575
-00:42:11,320 --> 00:42:14,233
+00:42:11,520 --> 00:42:14,433
 I mean they're called Children
 from this New World techno-cult.
 我是说他们被一个新世界的科技崇拜团队称为孩子
 
 576
-00:42:14,360 --> 00:42:15,509
+00:42:14,560 --> 00:42:15,709
 Two of them.
 有两个人
 
 577
-00:42:15,640 --> 00:42:17,551
+00:42:15,840 --> 00:42:17,751
 They just sit opposite the boat
 all the time.
 他们一直坐在船的对面
 
 578
-00:42:17,680 --> 00:42:19,717
+00:42:17,880 --> 00:42:19,917
 - Look, I'm being stupid.
 - No.
 - 看, 我是个蠢人...  - 不
 
 579
-00:42:19,840 --> 00:42:21,751
+00:42:20,040 --> 00:42:21,951
 But they just won't go away.
 但他们就是不走
 
 580
-00:42:21,880 --> 00:42:24,918
+00:42:22,080 --> 00:42:25,118
 And they're frightening...
 And they're frightening me.
 而且他们很吓人...他们让我害怕了
 
 581
-00:42:26,040 --> 00:42:27,360
+00:42:26,240 --> 00:42:27,560
 Chancellor.
 校长
 
 582
-00:42:33,320 --> 00:42:36,551
+00:42:33,520 --> 00:42:36,751
 Welcome home, Professor Travers.
-欢迎回来, Travers 教授
+欢迎回来, 特拉弗斯教授
 
 583
-00:42:36,680 --> 00:42:39,638
+00:42:36,880 --> 00:42:39,838
 (DISTORTED) I am still in the wilderness.
-还还在荒野里
+我还在荒野里
 
 584
-00:42:41,320 --> 00:42:45,439
+00:42:41,520 --> 00:42:45,639
 Only my will to survive
 keeps me from despair.
-都靠我求生的欲望才使我免于绝望
+都是我求生的欲望才使我免于绝望
 
 585
-00:42:46,320 --> 00:42:49,199
+00:42:46,520 --> 00:42:49,399
 You have lit a flame of hope in all of us.
 你在我们中间点起了希望的火焰
 
 586
-00:42:51,320 --> 00:42:54,756
+00:42:51,520 --> 00:42:54,956
 It is as I instructed.
 它是按照我的指示
 
 587
-00:42:55,880 --> 00:42:58,235
+00:42:56,080 --> 00:42:58,435
 Symmetry. Shape.
 对称. 形状
 
 588
-00:42:58,360 --> 00:43:02,149
+00:42:58,560 --> 00:43:02,349
 My form at last,
 最后是我的形体
 
 589
-00:43:02,280 --> 00:43:04,430
+00:43:02,480 --> 00:43:04,630
 shaping out my future!
 决定了我的未来！
 
 590
-00:43:07,080 --> 00:43:11,950
+00:43:07,280 --> 00:43:12,150
 When will my new web
 stretch out across the Earth?
-什么时候我的新网才能布满整个地球？
+什么时候我的新网才能延伸到整个地球？
 
 591
-00:43:12,080 --> 00:43:13,036
+00:43:12,280 --> 00:43:13,236
 Web?
 网？
 
 592
-00:43:14,080 --> 00:43:19,154
+00:43:14,280 --> 00:43:19,354
 Only when I have found the final Locus!
 只有等我找到最后的人偶！
 
 593
-00:43:20,200 --> 00:43:21,759
+00:43:20,400 --> 00:43:21,959
 But what about, erm...
 但那个谁, 嗯...
 
 594
-00:43:21,880 --> 00:43:23,473
+00:43:22,080 --> 00:43:23,673
 What's his name? Doesn't he help?
 他的名字是什么来着？他帮不上忙吗？
 
 595
-00:43:23,600 --> 00:43:25,591
+00:43:23,800 --> 00:43:25,791
 I split up with Jonathan two years ago.
 我同乔纳森分开了, 两年前
 
 596
-00:43:25,720 --> 00:43:27,119
+00:43:25,920 --> 00:43:27,319
 I'm sorry.
 对不起
 
 597
-00:43:27,240 --> 00:43:28,833
+00:43:27,440 --> 00:43:29,033
 I'm getting old.
 我老了
 
 598
-00:43:28,960 --> 00:43:30,473
+00:43:29,160 --> 00:43:30,673
 Perhaps you should get off that boat.
 也许你应该离开那艘船
 
 599
-00:43:30,600 --> 00:43:32,398
+00:43:30,800 --> 00:43:32,598
 It's not the boat. It's them!
 问题不是船, 是他们！
 
 600
-00:43:33,040 --> 00:43:34,792
+00:43:33,240 --> 00:43:34,992
 - And me too?
 - Well,
 - 我也是吗？  - 怎么说呢
 
 601
-00:43:35,600 --> 00:43:38,194
+00:43:35,800 --> 00:43:38,394
 army families get to live together,
 so why didn't we?
 军人家庭一般都住在一起, 为什么我们不是？
 
 602
-00:43:38,320 --> 00:43:40,118
+00:43:38,520 --> 00:43:40,318
 Was your career that important?
 你的事业就那么重要？
 
 603
-00:43:41,680 --> 00:43:44,035
+00:43:41,880 --> 00:43:44,235
 I'm afraid I can't explain, Kate.
 恐怕我没法解释, 凯特
 
 604
-00:43:44,160 --> 00:43:46,674
+00:43:44,360 --> 00:43:46,874
 Mum used to think that
 you were some sort of spy.
 妈妈曾经以为, 你是某种间谍
 
 605
-00:43:46,800 --> 00:43:49,314
+00:43:47,000 --> 00:43:49,514
 We used to hope it, because at least
 that would be interesting.
 我们曾经都盼望过, 因为那样的话就会很有意思
 
 606
-00:43:50,080 --> 00:43:51,479
+00:43:50,280 --> 00:43:51,679
 But it's just soldiers, isn't it?
 但你只是一个士兵, 是吗？
 
 607
-00:43:52,120 --> 00:43:54,873
+00:43:52,320 --> 00:43:55,073
 Training to kill people with big guns.
 被训练成用大枪去杀人
 
 608
-00:43:55,000 --> 00:43:56,718
+00:43:55,200 --> 00:43:56,918
 I had other responsibilities.
 我扛着其它一些责任
 
 609
-00:43:56,840 --> 00:43:58,319
+00:43:57,040 --> 00:43:58,519
 Well, who to?
 哦, 对谁的责任？
 
 610
-00:43:58,440 --> 00:44:00,397
+00:43:58,640 --> 00:44:00,597
 To everyone.
 对每一个人
 
 611
-00:44:00,520 --> 00:44:01,954
+00:44:00,720 --> 00:44:02,154
 What?
 什么？
 
 612
-00:44:02,080 --> 00:44:03,036
+00:44:02,280 --> 00:44:03,236
 That's all.
 只能说这么多
 
 613
-00:44:03,160 --> 00:44:05,436
+00:44:03,360 --> 00:44:05,636
 (OMINOUS MUSIC PLAYING)
 
 614
-00:44:09,120 --> 00:44:10,599
+00:44:09,320 --> 00:44:10,799
 Who do I trust, then?
 那, 我信任谁？
 
 615
-00:44:12,120 --> 00:44:16,034
+00:44:12,320 --> 00:44:16,234
 Don't trust anyone, sir.
 I told you, no one at all.
-别相信任何人, 长官。我告诉过你, 无论是谁
+别相信任何人, 长官. 我告诉过你, 无论是谁
 
 616
-00:44:20,000 --> 00:44:21,832
+00:44:20,200 --> 00:44:22,032
 Are you sure you don't want any money?
 你确定不想要些钱吗？
 
 617
-00:44:21,960 --> 00:44:23,439
+00:44:22,160 --> 00:44:23,639
 Oh, just forget it then.
 噢, 忘了这事算了
 
 618
-00:44:24,560 --> 00:44:26,073
+00:44:24,760 --> 00:44:26,273
 Kate. Kate, wait!
 凯特, 凯特, 等等！
 
 619
-00:44:27,320 --> 00:44:29,596
+00:44:27,520 --> 00:44:29,796
 (HOUSE MUSIC PLAYING THROUGH HEADPHONES)
 
 620
-00:44:32,960 --> 00:44:36,112
+00:44:33,160 --> 00:44:36,312
 Hello again, Granddad. We want you.
 又遇到了, 老爷爷, 我们在找你
 
 621
-00:44:36,240 --> 00:44:37,196
+00:44:36,440 --> 00:44:37,396
 Argh!
 啊！
 
 622
-00:44:48,520 --> 00:44:49,669
+00:44:48,720 --> 00:44:49,869
 Good Lord...
 好家伙...
 
 623
-00:44:50,200 --> 00:44:52,157
+00:44:50,400 --> 00:44:52,357
 Is that you?
 是你吗？
 
 624
-00:44:52,280 --> 00:44:55,352
+00:44:52,480 --> 00:44:55,552
 Have you changed yourself again?
 你又变样子了？
 <i>（显然这里准将以为这又是博士的新化身）</i>
 
 625
-00:44:59,720 --> 00:45:04,957
+00:44:59,920 --> 00:45:05,157
 <i>Om mani padme hum</i>
 <i>(唵嘛呢叭咪吽)</i>
 
 626
-00:45:04,920 --> 00:45:06,957
+00:45:05,120 --> 00:45:07,157
 I needed time!
 我需要时间!
 
 627
-00:45:07,640 --> 00:45:09,313
+00:45:07,840 --> 00:45:09,513
 DISTORTED VOICE: I needed freedom!
 我需要自由！
 
 628
-00:45:10,040 --> 00:45:11,872
+00:45:10,240 --> 00:45:12,072
 You're not Professor Travers!
-你不是 Travers 教授！
+你不是特拉弗斯教授！
 
 629
-00:45:12,000 --> 00:45:13,479
+00:45:12,200 --> 00:45:13,679
 -(LAUGHING)
 - A pity shame!
-可怜可耻！fixme
+可怜可耻！
 
 630
-00:45:13,600 --> 00:45:15,398
+00:45:13,800 --> 00:45:15,598
 Let me go!
 放开我！
 
 631
-00:45:15,520 --> 00:45:17,670
+00:45:15,720 --> 00:45:17,870
 Your task is done.
 你的任务完成了
 
 632
-00:45:17,800 --> 00:45:20,235
+00:45:18,000 --> 00:45:20,435
 Now, I take control!
-现在, 我掌握控制权了
+现在, 我来掌握控制权！
 
 633
-00:45:21,280 --> 00:45:22,873
+00:45:21,480 --> 00:45:23,073
 Let me go!
 放开我
 
 634
-00:45:23,520 --> 00:45:25,079
+00:45:23,720 --> 00:45:25,279
 Who are you?
 你是谁？
 
 635
-00:45:25,720 --> 00:45:27,631
+00:45:25,920 --> 00:45:27,831
 Remember me, Victoria?
 记得我吗, 维多利亚？
 
 636
-00:45:28,280 --> 00:45:30,351
+00:45:28,480 --> 00:45:30,551
 Who's blind now?
 现在谁是瞎子？
 
 637
-00:45:34,080 --> 00:45:35,832
+00:45:34,280 --> 00:45:36,032
 - Hello, Dad.  - Kate.
 - 嗨, 爸爸  - 凯特
 
 638
-00:45:37,040 --> 00:45:38,553
+00:45:37,240 --> 00:45:38,753
 - Where am I?  - On the boat.
 - 我在哪儿？  - 在船上
 
 639
-00:45:38,680 --> 00:45:39,670
+00:45:38,880 --> 00:45:39,870
 We had to bring you here.
 我们只能带你来这里
 
 640
-00:45:39,800 --> 00:45:42,474
+00:45:40,000 --> 00:45:42,674
 Daniel Hinton, Brigadier. School House 91.
-我是丹尼尔·辛顿, 准将。布伦登学校91届
+我是丹尼尔·辛顿, 准将. 布伦登学校91届
 
 641
-00:45:43,200 --> 00:45:45,237
+00:45:43,400 --> 00:45:45,437
 I remember. Thank you.
-我记得。谢谢你
+我记得. 谢谢你
 
 642
-00:45:46,400 --> 00:45:47,959
+00:45:46,600 --> 00:45:48,159
 But we met quite recently. Am I right?
 但我们最近碰过面, 我说得对吗？
 
 643
-00:45:48,080 --> 00:45:50,515
+00:45:48,280 --> 00:45:50,715
 On something called the astral plane?
 在一个被称为意识层面的地方？
 
 644
-00:45:50,640 --> 00:45:52,119
+00:45:50,840 --> 00:45:52,319
 It wasn't entirely wasted then.
 看来没有全白费
 
 645
-00:45:52,240 --> 00:45:53,560
+00:45:52,440 --> 00:45:53,760
 Extraordinary.
 令人惊奇
 
 646
-00:45:54,840 --> 00:45:56,638
+00:45:55,040 --> 00:45:56,838
 Hello? We're moving.
 怎么？我们在走
 
 647
-00:46:01,360 --> 00:46:02,873
+00:46:01,560 --> 00:46:03,073
 Dad, I thought it would be best if...
 爸爸, 我觉得最好还是...
 
 648
-00:46:03,000 --> 00:46:04,434
+00:46:03,200 --> 00:46:04,634
 Sir... Glad to see you're all right, sir.
 长官...很高兴看见你没事, 长官
 
 649
-00:46:04,560 --> 00:46:06,471
+00:46:04,760 --> 00:46:06,671
 Harrods saved you from the Chillys.
 哈罗斯从鸡仔手中救了你
 
 650
-00:46:06,600 --> 00:46:08,079
+00:46:06,800 --> 00:46:08,279
 Bunch of hooligans, sir.
 一群小流氓而已, 长官
 
 651
-00:46:08,200 --> 00:46:09,554
+00:46:08,400 --> 00:46:09,754
 Best off well away from them.
 最好离他们远一点
 
 652
-00:46:09,680 --> 00:46:12,035
+00:46:09,880 --> 00:46:12,235
 Well, thank you, erm... Harrods?
 好, 谢谢你, 呃...哈罗斯？
 
 653
-00:46:12,160 --> 00:46:13,150
+00:46:12,360 --> 00:46:13,350
 Sir.
 是
 
 654
-00:46:13,280 --> 00:46:15,556
+00:46:13,480 --> 00:46:15,756
 Army, aren't you? On your uppers?
-军人, 对不？在你鞋帮上fixme
+军人, 对不？看你鞋帮(?)
 
 655
-00:46:15,680 --> 00:46:20,993
+00:46:15,880 --> 00:46:21,193
 RAF, sir. Flight Sergeant Haroldson.
 Squadron got disbanded, sir.
-皇家空军, 长官。空军上士哈罗德森。中队编制被取消了, 长官
+皇家空军, 长官. 空军上士哈罗德森. 中队编制被取消了, 长官
 
 656
-00:46:22,120 --> 00:46:23,872
+00:46:22,320 --> 00:46:24,072
 Like losing your family.
 就像没了家一样
 
 657
-00:46:25,960 --> 00:46:29,396
+00:46:26,160 --> 00:46:29,596
 Get called Harrods
 'cause I'm fussy where I kip down.
 被叫做哈罗斯, 因为我对于睡觉的地方很挑剔
 
 658
-00:46:29,520 --> 00:46:31,955
+00:46:29,720 --> 00:46:32,155
 - Alright, Flight Sergeant. Carry on.
 - Sir.
 - 好吧, 空军上士, 继续  - 是
 
 659
-00:46:34,520 --> 00:46:37,478
+00:46:34,720 --> 00:46:37,678
 I must say, Kate,
 the company you keep's an eye-opener.
 我必须要说, 凯特, 你这些朋友很让人开眼
 
 660
-00:46:37,600 --> 00:46:38,999
+00:46:37,800 --> 00:46:39,199
 Oh, I thought they were with you.
 哦, 我还以为他们是你一伙儿的
 
 661
-00:46:39,120 --> 00:46:42,078
+00:46:39,320 --> 00:46:42,278
 We can't stay here, Brigadier,
 the Intelligence is hunting us.
-我们不能待在这里, 准将。大智慧在搜寻我们
+我们不能待在这里, 准将. 大智慧在搜寻我们
 
 662
-00:46:42,200 --> 00:46:45,830
+00:46:42,400 --> 00:46:46,030
 The both of us? Are you one of these
 Chilly characters too?
 我们两个都是？你不也是那些鸡仔中的一员吗？
 
 663
-00:46:46,360 --> 00:46:49,318
+00:46:46,560 --> 00:46:49,518
 New World's a front to bring
 the Intelligence back through,
 新世界只是一个外壳, 意图是要把大智慧带回来
 
 664
-00:46:49,440 --> 00:46:51,272
+00:46:49,640 --> 00:46:51,472
 an evil spirit that
 got bound to the Earth.
 那是个恶灵, 被困到地球了
 
 665
-00:46:51,880 --> 00:46:55,874
+00:46:52,080 --> 00:46:56,074
 Listen to you two. I mean, who do I
 call first, police or psychiatrist?
-听听你们两个。我是说, 我应该先打电话给谁, 警察还是精神病医生？
+听听你们两个. 我是说, 我应该先打电话给谁, 警察还是精神病医生？
 
 666
-00:46:56,000 --> 00:46:58,879
+00:46:56,200 --> 00:46:59,079
 Trust no one. Isn't that right, Hinton?
-别信任何人。这没错吧, 辛顿？
+别信任何人. 这没错吧, 辛顿？
 
 667
-00:46:59,000 --> 00:47:02,197
+00:46:59,200 --> 00:47:02,397
 - Not even my people at the UNIT.
 - The whole city's fouled up.
 - 即使是我那些 UNIT 的人  - 整个城市都混乱了
 
 668
-00:47:02,320 --> 00:47:04,709
+00:47:02,520 --> 00:47:04,909
 The computer Internet's virally infested.
 电脑互联网已经被病毒入侵了
 
 669
-00:47:04,840 --> 00:47:06,877
+00:47:05,040 --> 00:47:07,077
 And that's the Intelligence's new body?
 那就是大智慧的新形体？
 
 670
-00:47:07,880 --> 00:47:09,075
+00:47:08,080 --> 00:47:09,275
 It won't stop there.
 它不会止步于此的
 
 671
-00:47:14,360 --> 00:47:16,158
+00:47:14,560 --> 00:47:16,358
 (BEEPING)
 
 672
-00:47:16,280 --> 00:47:19,398
+00:47:16,480 --> 00:47:19,598
 The Intelligence was driven out.
 I was there.
 大智慧被赶走了, 当时我在那里
 
 673
-00:47:19,520 --> 00:47:23,115
+00:47:19,720 --> 00:47:23,315
 No. It's trapped until all its old
 icons of power can be destroyed.
-没有, 它只是被困住了。fixme
+没有, 它只是被困住了, 除非把它所有的权力图腾都摧毁
 
 674
-00:47:23,920 --> 00:47:27,117
+00:47:24,120 --> 00:47:27,317
 One link still remains, the final Locus.
 有一个链接还在, 最后那个人偶
 
 675
-00:47:27,240 --> 00:47:29,117
+00:47:27,440 --> 00:47:29,317
 - Well, how do you know?
 - Just do.
 - 哦, 你怎么知道？  - 就是知道
 
 676
-00:47:30,320 --> 00:47:33,039
+00:47:30,520 --> 00:47:33,239
 Cavendish asked me about keepsakes.
 卡文迪许问过我是否保留了纪念品
 
 677
-00:47:33,160 --> 00:47:34,309
+00:47:33,360 --> 00:47:34,509
 And now that I think of it,
 现在我再想想
 
 678
-00:47:34,440 --> 00:47:36,078
+00:47:34,640 --> 00:47:36,278
 - there was something.
 - Yes?
 - 好像是有某个东西  - 是吗？
 
 679
-00:47:36,200 --> 00:47:37,713
+00:47:36,400 --> 00:47:37,913
 But I lost that years ago.
 但多年以前弄丢了
 
 680
-00:47:37,840 --> 00:47:38,796
+00:47:38,040 --> 00:47:38,996
 Like what?
 什么样子的？
 
 681
-00:47:39,440 --> 00:47:42,637
+00:47:39,640 --> 00:47:42,837
 A small carving of a Yeti,
 like a chess piece.
 一个雪怪一样的小雕像, 像一个象棋棋子
 
 682
-00:47:42,760 --> 00:47:44,034
+00:47:42,960 --> 00:47:44,234
 Tibetan, I think.
 西藏的东西, 我想是
 
 683
-00:47:45,040 --> 00:47:45,996
+00:47:45,240 --> 00:47:46,196
 Dad...
 爸爸...
 
 684
-00:47:47,960 --> 00:47:49,553
+00:47:48,160 --> 00:47:49,753
 (BEEPING)
 
 685
-00:48:04,920 --> 00:48:06,035
+00:48:05,120 --> 00:48:06,235
 Like this?
 就像这个？
 
 686
-00:48:07,080 --> 00:48:09,469
+00:48:07,280 --> 00:48:09,669
 Yes. That's it.
 是的, 就是它
 
 687
-00:48:09,600 --> 00:48:11,193
+00:48:09,800 --> 00:48:11,393
 I've had it since I was little.
 我很小的时候拿了它
 
 688
-00:48:11,320 --> 00:48:13,994
+00:48:11,520 --> 00:48:14,194
 It's infinitely dangerous.
 We must get rid of it now.
 这东西非常的危险, 我们必须马上甩掉它
 
 689
-00:48:14,680 --> 00:48:15,750
+00:48:14,880 --> 00:48:15,950
 (CRASHING)
 
 690
-00:48:15,880 --> 00:48:17,075
+00:48:16,080 --> 00:48:17,275
 Sir?
 长官？
 
 691
-00:48:17,400 --> 00:48:18,720
+00:48:17,600 --> 00:48:18,920
 Sir, we have company.
 长官, 有客人来了
 
 692
-00:48:22,520 --> 00:48:24,670
+00:48:22,720 --> 00:48:24,870
 No, get them away! Get them away!
 不, 把他们弄走！把他们弄走！
 
 693
-00:48:24,800 --> 00:48:26,711
+00:48:25,000 --> 00:48:26,911
 - Everyone, out, now!
 - I'm sorry, Brigadier.
 - 所有人, 出去, 马上！  - 抱歉, 准将
 
 694
-00:48:26,840 --> 00:48:28,194
+00:48:27,040 --> 00:48:28,394
 Out of the way, Hinton.
 别碍事, 辛顿
 
 695
-00:48:28,320 --> 00:48:29,799
+00:48:28,520 --> 00:48:29,999
 I didn't know, I swear it.
 我不知道, 我发誓
 
 696
-00:48:29,920 --> 00:48:31,319
+00:48:30,120 --> 00:48:31,519
 What are you on about?
 你这是干什么？
 
 697
-00:48:31,440 --> 00:48:34,159
+00:48:31,640 --> 00:48:34,359
 I warned you! Don't trust anyone!
 我告诉过你！不要相信任何人！
 
 698
-00:48:34,280 --> 00:48:37,238
+00:48:34,480 --> 00:48:37,438
 The Intelligence used me to seek you out.
 I'm the trap!
 大智慧利用我来把你挖出来, 我就是诱饵！
 
 699
-00:48:37,360 --> 00:48:39,431
+00:48:37,560 --> 00:48:39,631
 I'm warning you, Hinton, stand back!
 我警告你, 辛顿, 后退！
 
 700
-00:48:39,560 --> 00:48:41,073
+00:48:39,760 --> 00:48:41,273
 - Give me the Locus.
 - KATE: No.
 - 把人偶给我  - 不
 
 701
-00:48:41,480 --> 00:48:43,198
+00:48:41,680 --> 00:48:43,398
 No guns. Not here!
 不要开枪, 这里不行！
 
 702
-00:48:43,320 --> 00:48:45,914
+00:48:43,520 --> 00:48:46,114
 - Get back!
 -(BEEPING)
 后退!
 
 703
-00:48:52,720 --> 00:48:54,791
+00:48:52,920 --> 00:48:54,991
 (ROARING)
 
 704
-00:49:02,720 --> 00:49:03,835
+00:49:02,920 --> 00:49:04,035
 (GROWLING)
 
 705
-00:49:17,440 --> 00:49:19,397
+00:49:17,640 --> 00:49:19,597
 What's happening? This is my home.
 发生了什么？这里是我家
 
 706
-00:49:20,120 --> 00:49:23,033
+00:49:20,320 --> 00:49:23,233
 Well, they got what they want
 and now they're going.
 喏, 他们得到了他们想要的东西, 现在就撤了
 
 707
-00:49:23,760 --> 00:49:25,637
+00:49:23,960 --> 00:49:25,837
 Back to the New World, sir.
 回新世界去了, 长官
 
 708
-00:49:25,760 --> 00:49:27,353
+00:49:25,960 --> 00:49:27,553
 That's where it all comes from.
 他们都来自那个地方
 
 709
-00:49:27,480 --> 00:49:29,073
+00:49:27,680 --> 00:49:29,273
 What sort of job do you do?
 你干的是什么工作？
 
 710
-00:49:29,200 --> 00:49:31,157
+00:49:29,400 --> 00:49:31,357
 - That boy...
 - I have to get after them, Kate.
 - 那个孩子...  - 我必须得去追他们, 凯特
 
 711
-00:49:31,280 --> 00:49:32,600
+00:49:31,480 --> 00:49:32,800
 I'll explain later.
 我后面再解释
 
 712
-00:49:32,720 --> 00:49:33,994
+00:49:32,920 --> 00:49:34,194
 Just go, then.
 走吧, 那就
 
 713
-00:49:34,120 --> 00:49:35,190
+00:49:34,320 --> 00:49:35,390
 Flight Sergeant?
 空军上士？
 
 714
-00:49:35,320 --> 00:49:37,675
+00:49:35,520 --> 00:49:37,875
 I'll come, sir. For the lad's sake.
-我也去, 长官。为了那个小伙子
+我也去, 长官. 为了那个小伙子
 
 715
-00:49:37,800 --> 00:49:39,029
+00:49:38,000 --> 00:49:39,229
 Good man.
 好人
 
 716
-00:49:39,160 --> 00:49:40,798
+00:49:39,360 --> 00:49:40,998
 Er, wait outside, will you?
 呃, 外面等一下, 好吗？
 
 717
-00:49:40,920 --> 00:49:41,876
+00:49:41,120 --> 00:49:42,076
 Sir.
 是
 
 718
-00:49:45,400 --> 00:49:46,834
-- Kate.
-- What?
+00:49:45,600 --> 00:49:47,034
+- Kate.  - What?
 - 凯特  - 什么？
 
 719
-00:49:47,560 --> 00:49:48,755
+00:49:47,760 --> 00:49:48,955
 Just tell me one thing.
 就告诉我一件事情
 
 720
-00:49:49,880 --> 00:49:52,156
+00:49:50,080 --> 00:49:52,356
 Why do you keep a box of toys down there?
 为什么你在这里存了一箱玩具？
 
 721
-00:49:59,560 --> 00:50:01,073
+00:49:59,760 --> 00:50:01,273
 He'll be five, next week.
 他就要满五岁了, 下个星期
 
 722
-00:50:04,520 --> 00:50:06,431
+00:50:04,720 --> 00:50:06,631
 (SOFTLY) I have a grandson!
 我有一个外孙了！
 
 723
-00:50:08,040 --> 00:50:10,919
+00:50:08,240 --> 00:50:11,119
 My grandson!
-我的孙子！
+我的外孙！
 
 724
-00:50:11,040 --> 00:50:12,838
+00:50:11,240 --> 00:50:13,038
 I never dreamt...
 我从没梦想过...
 
 725
-00:50:13,920 --> 00:50:14,876
+00:50:14,120 --> 00:50:15,076
 Good Lord.
 好家伙
 
 726
-00:50:15,600 --> 00:50:16,556
+00:50:15,800 --> 00:50:16,756
 Gordon.
 他叫戈登
 
 727
-00:50:17,440 --> 00:50:19,113
+00:50:17,640 --> 00:50:19,313
 Gordon James, after you.
 戈登-詹姆斯, 用你的名取得
 
 728
-00:50:20,600 --> 00:50:22,398
+00:50:20,800 --> 00:50:22,598
 He's safe, away from here.
 他很安全, 不在这里
 
 729
-00:50:23,320 --> 00:50:24,355
+00:50:23,520 --> 00:50:24,555
 Oh, I'm sorry.
 哦, 对不起
 
 730
-00:50:24,480 --> 00:50:26,551
+00:50:24,680 --> 00:50:26,751
 (SNIFFLES) My grandson.
 我的外孙
 
 731
-00:50:27,440 --> 00:50:29,113
+00:50:27,640 --> 00:50:29,313
 Kate, can I keep this?
 凯特, 我能留着这个吗？
 
 732
-00:50:29,560 --> 00:50:31,198
+00:50:29,760 --> 00:50:31,398
 It's getting late.
 时候不早了
 
 733
-00:50:31,320 --> 00:50:33,357
+00:50:31,520 --> 00:50:33,557
 We'll talk later. I'll be back.
 我们晚些再谈, 我会回来的
 
 734
-00:50:43,440 --> 00:50:45,477
+00:50:43,640 --> 00:50:45,677
 (GROWLING)
 
 735
-00:50:50,280 --> 00:50:51,395
+00:50:50,480 --> 00:50:51,595
 (DISTORTED) At last.
 终于
 
 736
-00:50:53,240 --> 00:50:55,754
+00:50:53,440 --> 00:50:55,954
 I created this tiny object
 我创造了这个小东西
 
 737
-00:50:57,120 --> 00:50:59,839
+00:50:57,320 --> 00:51:00,039
 and it has bound me in darkness.
 而它把我困在了黑暗中
 
 738
-00:51:04,400 --> 00:51:06,676
+00:51:04,600 --> 00:51:06,876
 Which of you shall release me?
 你们谁来释放我？
 
 739
-00:51:13,040 --> 00:51:14,394
+00:51:13,240 --> 00:51:14,594
 (EXPLODING)
 
 740
-00:51:15,520 --> 00:51:17,591
+00:51:15,720 --> 00:51:17,791
 Light...
 光...
 
 741
-00:51:18,520 --> 00:51:19,874
+00:51:18,720 --> 00:51:20,074
 (GROANING)
 
 742
-00:51:20,000 --> 00:51:25,234
+00:51:20,200 --> 00:51:25,434
 Symmetry of colours and shapes.
 对称的颜色和形状
 
 743
-00:51:26,840 --> 00:51:30,629
+00:51:27,040 --> 00:51:30,829
 No more tomb of darkness.
 不再有黑暗的坟墓了
 
 744
-00:51:33,560 --> 00:51:37,997
+00:51:33,760 --> 00:51:38,197
 My strength is growing again.
 我的力量又开始增长了
 
 745
-00:51:39,880 --> 00:51:42,076
+00:51:40,080 --> 00:51:42,276
 I grasp it.
 我抓住了
 
 746
-00:51:42,200 --> 00:51:48,515
+00:51:42,400 --> 00:51:48,715
 Now let my great plan take its shape.
 现在让我的伟大计划成形吧
 
 747
-00:51:49,160 --> 00:51:51,151
+00:51:49,360 --> 00:51:51,351
 (ENERGY PULSATING)
 
 748
-00:51:58,400 --> 00:52:01,119
+00:51:58,600 --> 00:52:07,319
 (ALL CHANTING) Om mani padme hum.
 唵嘛呢叭咪吽
 
 749
-00:52:13,320 --> 00:52:15,152
+00:52:13,520 --> 00:52:15,352
 TRAVERS: (NORMAL VOICE)
 I had a daughter once.
 我曾经又一个女儿
 
 750
-00:52:15,800 --> 00:52:18,553
+00:52:16,000 --> 00:52:18,753
 What... What happened to her?
 怎么...她后来怎么了？
 
 751
-00:52:19,320 --> 00:52:20,594
+00:52:19,520 --> 00:52:20,794
 Father?
 父亲？
 
 752
-00:52:22,880 --> 00:52:26,077
+00:52:23,080 --> 00:52:26,277
 No, no. Not you. Anne.
-不, 不, 不是你。安娜
+不, 不, 不是你. 安娜
 
 753
-00:52:26,880 --> 00:52:27,836
+00:52:27,080 --> 00:52:28,036
 (CHUCKLES)
 
 754
-00:52:28,400 --> 00:52:30,437
+00:52:28,600 --> 00:52:30,637
 Yeti...Travers...I...
 雪怪...Travers...我...
 
 755
-00:52:32,840 --> 00:52:35,229
+00:52:33,040 --> 00:52:35,429
 I brought it...
 我带回了它...
 
 756
-00:52:36,440 --> 00:52:38,113
+00:52:36,640 --> 00:52:38,313
 ...back from Tibet.
-...从西藏带来
+...从西藏带回来
 
 757
-00:52:40,680 --> 00:52:42,398
+00:52:40,880 --> 00:52:42,598
 It's all my fault.
 这都是我的错
 
 758
-00:52:45,080 --> 00:52:46,991
+00:52:45,280 --> 00:52:47,191
 My father died in a cold world,
 我的父亲死在了一个冰冷的世界
 <i>（她父亲死在 Daleks 母星 Skaro）</i>
 
 759
-00:52:48,400 --> 00:52:50,596
+00:52:48,600 --> 00:52:50,796
 a thousand light years away.
 一千光年以外
 
 760
-00:52:51,360 --> 00:52:54,318
+00:52:51,560 --> 00:52:54,518
 I died 15 years ago.
 我15年前就死了
 
 761
-00:52:56,080 --> 00:52:57,434
+00:52:56,280 --> 00:52:57,934
 Saw it in The Times.
 我在《时代》杂志上看到了
 
 762
-00:52:58,320 --> 00:53:00,755
+00:52:58,520 --> 00:53:00,955
 "Professor Edward Travers,”
 “爱德华-特拉弗斯教授”
 
 763
-00:53:01,320 --> 00:53:02,640
+00:53:01,520 --> 00:53:02,840
 CBE.
-大英帝国勋章(fixme)
+大英帝国司令勋章
 
 764
-00:53:03,440 --> 00:53:05,113
+00:53:03,640 --> 00:53:05,313
 Silly old fool.
 老糊涂
 
 765
-00:53:06,800 --> 00:53:07,756
+00:53:07,000 --> 00:53:07,956
 (CHUCKLING)
 
 766
-00:53:08,600 --> 00:53:10,716
+00:53:08,800 --> 00:53:10,916
 "No flowers, by request.”
 “应家属请求, 不要送花”
 
 767
-00:53:12,560 --> 00:53:14,392
+00:53:12,760 --> 00:53:14,592
 But they still sent them.
 但他们还是送来了花
 
 768
-00:53:15,800 --> 00:53:17,199
+00:53:16,000 --> 00:53:17,399
 No one listens.
-都不听
+没人肯听
 
 769
-00:53:18,400 --> 00:53:20,914
+00:53:18,600 --> 00:53:21,114
 Sometimes I can't remember his face.
 有时我记不起他的面容
 
 770
-00:53:24,760 --> 00:53:26,592
+00:53:24,960 --> 00:53:26,792
 And I've travelled in time.
 但我穿越了时间
 
 771
-00:53:28,480 --> 00:53:30,278
+00:53:28,680 --> 00:53:30,478
 Where do I belong now?
 我现在属于什么地方？
 
 772
-00:53:33,720 --> 00:53:34,994
+00:53:33,920 --> 00:53:35,194
 Don't you see?
 你不明白吗？
 
 773
-00:53:36,440 --> 00:53:37,760
+00:53:36,640 --> 00:53:37,960
 We've been tricked.
 我们被耍了
 
 774
-00:53:38,920 --> 00:53:42,197
+00:53:39,120 --> 00:53:42,397
 It was the Intelligence all the time!
 一直都是大智慧
 
 775
-00:53:44,760 --> 00:53:46,592
+00:53:44,960 --> 00:53:46,792
 Unfinished business.
-它未尽的事业(fixme)
+这事没完(?)
 
 776
-00:53:46,720 --> 00:53:48,518
+00:53:46,920 --> 00:53:48,718
 (BOOMING)
 
 777
-00:53:49,240 --> 00:53:51,277
+00:53:49,440 --> 00:53:51,477
 (LIGHTNING CRASHING)
 
 778
-00:54:09,000 --> 00:54:12,000
+00:54:09,200 --> 00:54:12,200
 <i>(Terminal Accessed)</i>
 <i>（电脑文字：终端访问已接入）</i>
 
 779
-00:54:15,280 --> 00:54:18,113
-What now, sir?
-Take the place by storm?
-现在怎样，长官？fixme
+00:54:15,480 --> 00:54:18,313
+What now, sir? Take the place by storm?
+现在怎样, 长官？顶着暴风雨拿下这个地方？(?)
 
 780
-00:54:18,240 --> 00:54:19,594
+00:54:18,440 --> 00:54:19,794
 If we must.
 如果必须的话
 
 781
-00:54:22,280 --> 00:54:24,590
+00:54:22,480 --> 00:54:24,790
 Damnation. I'm an old fool.
-见鬼，我真是老糊涂了
+见鬼, 我真是老糊涂了
 
 782
-00:54:24,720 --> 00:54:25,755
+00:54:24,920 --> 00:54:25,955
 - Sir?  - My gun.
 - 怎么  - 我的枪
 
 783
-00:54:25,880 --> 00:54:27,109
+00:54:26,080 --> 00:54:27,309
 I didn't pick it up.
 我没拿起来
 
 784
-00:54:27,240 --> 00:54:30,312
+00:54:27,440 --> 00:54:30,512
 - Want to go back?
 - Too late for that, now. Come on.
-- 想回去吗？  - 来不及了。现在走吧
+- 想回去吗？  - 来不及了. 现在走吧
 
 785
-00:54:32,240 --> 00:54:34,151
+00:54:32,440 --> 00:54:34,351
 (DISTORTED) Intruders.
 有人入侵
 
 786
-00:54:35,280 --> 00:54:39,035
+00:54:35,480 --> 00:54:39,235
 Go. Greet them.
-去，问候一下他们
+去, 问候一下他们
 
 787
-00:54:39,160 --> 00:54:41,231
+00:54:39,360 --> 00:54:41,431
 (ENERGY PULSATING)
 
 788
-00:54:49,520 --> 00:54:53,832
-Sir, something rotten
-in here, sir. I can feel it.
-长官，这里有什么东西坏掉了，我能感觉到
+00:54:49,720 --> 00:54:54,032
+Sir, something rotten in here, sir. 
+I can feel it.
+长官, 这里有什么东西坏掉了, 我能感觉到
 
 789
-00:54:53,960 --> 00:54:56,076
+00:54:54,160 --> 00:54:56,276
 Too quiet. Come on.
-太安静。快来
+太安静. 快来
 
 790
-00:54:57,960 --> 00:54:59,359
+00:54:58,160 --> 00:54:59,559
 Let's start at the top.
 我们先从上面开始
 
 791
-00:55:07,520 --> 00:55:08,954
+00:55:07,720 --> 00:55:09,154
 Sorry, sir.
-抱歉，长官
+抱歉, 长官
 
 792
-00:55:09,080 --> 00:55:12,391
+00:55:09,280 --> 00:55:12,591
 1 give up, Hinton.
 Am I asleep or are you dead?
-我放弃了，辛顿。是我在睡觉还是你死了？
+我放弃了, 辛顿. 是我在睡觉还是你死了？
 
 793
-00:55:12,520 --> 00:55:13,874
+00:55:12,720 --> 00:55:14,074
 I never did philosophy, sir.
-我不玩哲学，长官
+我不玩哲学, 长官
 
 794
-00:55:14,000 --> 00:55:16,071
+00:55:14,200 --> 00:55:16,271
 You're in the lift.
 I'm in the computer systems.
-你在电梯里，我在电脑系统里
+你在电梯里, 我在电脑系统里
 
 795
-00:55:16,200 --> 00:55:17,634
+00:55:16,400 --> 00:55:17,834
 We have interface.
 我们就有了交互界面
 
 796
-00:55:17,760 --> 00:55:20,479
+00:55:17,960 --> 00:55:20,679
 So I'm talking to a ghost in a machine.
 这么说我是在跟机器里面的一个鬼魂说话
 
 797
-00:55:21,280 --> 00:55:22,918
+00:55:21,480 --> 00:55:23,118
 And what's the warning this time?
 这次又是什么警告？
 
 798
-00:55:23,040 --> 00:55:26,158
+00:55:23,240 --> 00:55:26,358
 The Intelligence has got into the
 logic systems of New World's computers.
 大智慧已经进入新世界的电脑系统了
 
 799
-00:55:26,280 --> 00:55:27,839
+00:55:26,480 --> 00:55:28,039
 I snuck a ride too.
 我也偷偷搭便车
 
 800
-00:55:27,960 --> 00:55:31,157
+00:55:28,160 --> 00:55:31,357
 It's a virus. It's already spreading
 across the Internet.
-是一种病毒，已经散布到整个因特网了
+是一种病毒, 已经散布到整个因特网了
 
 801
-00:55:31,280 --> 00:55:33,237
+00:55:31,480 --> 00:55:33,437
 Transmitted from this building.
 是从这栋建筑传送出去的
 
 802
-00:55:33,360 --> 00:55:36,671
-I'll take you in as far as
-I can, sir. Trust me.
-我尽力带你进去，相信我
+00:55:33,560 --> 00:55:36,871
+I'll take you in as far as I can, sir.
+Trust me.
+我尽力带你进去, 相信我
 
 803
-00:55:37,160 --> 00:55:38,480
+00:55:37,360 --> 00:55:38,680
 You've said that before.
 你以前也说过这话
 
 804
-00:55:38,600 --> 00:55:39,749
+00:55:38,800 --> 00:55:39,949
 Sir?
 长官？
 
 805
-00:55:41,880 --> 00:55:44,759
+00:55:42,080 --> 00:55:44,959
 Nothing, Sergeant.
 I just walked over someone's grave.
-没什么，上士。我刚碰到鬼了
+没什么, 上士. 我刚碰到鬼了
 
 806
-00:55:46,120 --> 00:55:48,316
+00:55:46,320 --> 00:55:48,516
 Come on, Hinton! Come on!
-快啊，辛顿！快点
+快啊, 辛顿！快点
 
 807
-00:55:57,840 --> 00:55:59,433
+00:55:58,040 --> 00:55:59,933
 - I thought that you were dead.
 - Maybe.
 - 我以为你已经死了  - 也许
 
 808
-00:56:00,200 --> 00:56:02,237
-I need your help, Kate.
-So does your dad.
-我需要你的帮助，凯特，你爸爸也需要
+00:56:00,400 --> 00:56:02,437
+I need your help, Kate. So does your dad.
+我需要你的帮助, 凯特, 你爸爸也需要
 
 809
-00:56:02,360 --> 00:56:03,316
+00:56:02,560 --> 00:56:03,516
 Right.
 好
 
 810
-00:56:07,000 --> 00:56:09,958
+00:56:07,200 --> 00:56:10,158
 It's no good, sir. Something's jamming it.
-这没用的，被什么东西卡住了
+这没用的, 被什么东西卡住了
 
 811
-00:56:12,000 --> 00:56:13,229
+00:56:12,200 --> 00:56:13,429
 I'm not used to this system.
 我不熟悉这个系统
 
 812
-00:56:13,360 --> 00:56:14,430
+00:56:13,560 --> 00:56:14,630
 But I am.
 但我熟
 
 813
-00:56:14,560 --> 00:56:17,393
+00:56:14,760 --> 00:56:17,593
 Ever heard of automatic writing?
 Fingers on the keys.
-听说过知道写文章吗？把手指放上去
+听说过自动写文章吗？把手指放上去
 
 814
-00:56:33,960 --> 00:56:36,634
+00:56:34,160 --> 00:56:36,834
 (HOUSE MUSIC PLAYING
 THROUGH HEADPHONES)
 
 815
-00:56:44,760 --> 00:56:46,717
+00:56:44,960 --> 00:56:46,917
 HINTON: Something's moving that lift.
 有什么东西在控制那个电梯
 
 816
-00:56:47,480 --> 00:56:50,472
+00:56:47,680 --> 00:56:50,672
 Option. A-D-stroke-Alt-three. Hit four.
-Option键，A-D，敲Alt-3，按4
+Option键, A-D, 敲Alt-3, 按4
 
 817
-00:56:55,240 --> 00:56:56,799
+00:56:55,440 --> 00:56:56,999
 It's like a morgue, sir.
-像个停尸房，长官
+像个停尸房, 长官
 
 818
-00:56:58,320 --> 00:56:59,276
+00:56:58,520 --> 00:56:59,476
 Like a trap.
 像是个陷阱
 
 819
-00:56:59,960 --> 00:57:01,155
+00:57:00,160 --> 00:57:01,355
 Back the other way.
 回去那边
 
 820
-00:57:14,600 --> 00:57:15,590
+00:57:14,800 --> 00:57:15,790
 HINTON: Stop that lift!
 停掉那个电梯
 
 821
-00:57:15,720 --> 00:57:17,791
+00:57:15,920 --> 00:57:17,991
 Option, three-stroke-Alt-four.
-Option键，Alt-4敲三遍
+Option键, Alt-4敲三遍
 
 822
-00:57:20,240 --> 00:57:21,958
+00:57:20,440 --> 00:57:22,158
 Brigadier, Get back!
-准将，回去！
+准将, 回去！
 
 823
-00:57:22,720 --> 00:57:23,835
+00:57:22,920 --> 00:57:24,035
 You...
 你...
 
 824
-00:57:24,680 --> 00:57:27,035
+00:57:24,880 --> 00:57:27,235
 Get out of my head.
 滚出我的脑袋
 
 825
-00:57:27,160 --> 00:57:28,798
+00:57:27,360 --> 00:57:28,998
 I've had enough of your tricks.
 我已经受够了你的伎俩
 
 826
-00:57:29,320 --> 00:57:31,834
+00:57:29,520 --> 00:57:32,034
 I was wrong. Please!
-我之前错了，求你了！
+我之前错了, 求你了！
 
 827
-00:57:31,960 --> 00:57:34,110
+00:57:32,160 --> 00:57:34,310
 Get away from the lift!
 离开那个电梯！
 
 828
-00:57:34,240 --> 00:57:35,639
+00:57:34,440 --> 00:57:35,839
 It's fighting back.
 它在反击了
 
 829
-00:57:35,760 --> 00:57:37,353
+00:57:35,960 --> 00:57:37,553
 Alt-four again. Hold it down!
-再按 Alt-4。按住了
+再按 Alt-4. 按住了
 
 830
-00:57:37,960 --> 00:57:41,635
+00:57:38,160 --> 00:57:41,835
 Come away, please, Brigadier.
 You shouldn't have come here.
-你走吧, 准将。你不该来这里的
+你走吧, 准将. 你不该来这里的
 
 831
-00:57:41,760 --> 00:57:43,717
+00:57:41,960 --> 00:57:43,917
 It's a bit late for apologies, Madam.
-现在道歉晚了点吧，女士
+现在道歉晚了点吧, 女士
 
 832
-00:57:45,400 --> 00:57:46,356
+00:57:45,600 --> 00:57:46,556
 Hold it there!
 按住了！
 
 833
-00:57:46,480 --> 00:57:47,959
+00:57:46,680 --> 00:57:48,159
 I can't keep it down.
-我按不住了
+我没法按下去
 
 834
-00:57:48,800 --> 00:57:50,552
+00:57:49,000 --> 00:57:50,752
 Go back to your studies.
 回去继续学习
 
 835
-00:57:50,680 --> 00:57:52,000
+00:57:50,880 --> 00:57:52,200
 There's nothing here you want!
 这里没有你们想要的东西
 
 836
-00:57:52,120 --> 00:57:53,076
+00:57:52,320 --> 00:57:53,276
 (THUDDING)
 
 837
-00:57:53,680 --> 00:57:54,670
+00:57:53,880 --> 00:57:54,870
 Quickly.
 快
 
 838
-00:58:00,280 --> 00:58:01,475
+00:58:00,480 --> 00:58:01,675
 This way.
 这边
 
 839
-00:58:02,160 --> 00:58:03,719
+00:58:02,360 --> 00:58:03,919
 HARRODS: Look out, sir!
-小心，长官！
+小心, 长官！
 
 840
-00:58:04,640 --> 00:58:06,358
+00:58:04,840 --> 00:58:06,558
 Leave him alone!
 放开他！
 
 841
-00:58:11,960 --> 00:58:13,359
+00:58:12,160 --> 00:58:13,559
 Hold it down!
 按住！
 
 842
-00:58:13,480 --> 00:58:14,436
+00:58:13,680 --> 00:58:14,636
 (BANG)
 
 843
-00:58:16,240 --> 00:58:18,390
+00:58:16,440 --> 00:58:18,590
 (ROARING)
 
 844
-00:58:20,000 --> 00:58:23,197
+00:58:20,200 --> 00:58:23,397
 TRAVERS: Acolytes! You know me!
-助手们，你们认识我的！
+助手们, 你们认识我的！
 
 845
-00:58:24,320 --> 00:58:26,072
+00:58:24,520 --> 00:58:26,272
 Stand away!
 都闪开！
 
 846
-00:58:26,200 --> 00:58:27,270
+00:58:26,400 --> 00:58:27,470
 Travers?
+特拉弗斯？
 
 847
-00:58:31,120 --> 00:58:33,589
+00:58:31,320 --> 00:58:33,789
 Release him! Let him go free!
 放开他！让他走！
 
 848
-00:58:36,400 --> 00:58:38,471
+00:58:36,600 --> 00:58:38,671
 (ROARING)
 
 849
-00:58:44,160 --> 00:58:46,197
+00:58:44,360 --> 00:58:46,397
 (SCREAMING)
 
 850
-00:58:49,320 --> 00:58:50,958
+00:58:49,520 --> 00:58:51,158
 Must shut down the database.
 必须关闭数据库了
 
 851
-00:58:51,800 --> 00:58:53,438
+00:58:52,000 --> 00:58:53,638
 VICTORIA: Leave him alone!
 放开他！
 
 852
-00:58:54,920 --> 00:58:56,718
+00:58:55,120 --> 00:58:56,918
 (ROARING)
 
 853
-00:58:57,720 --> 00:59:00,951
+00:58:57,920 --> 00:59:01,151
 All right. I was coming anyway.
-好吧。反正我也会来的
+好吧. 反正我也会来的
 
 854
-00:59:02,040 --> 00:59:04,839
+00:59:02,240 --> 00:59:05,039
 DISTORTED VOICE: What happened
 to your faith, old man?
-你的信念怎么了，老头？
+你的信念怎么了, 老头？
 
 855
-00:59:05,720 --> 00:59:08,712
-Huh? I saw your
-Light of Truth, that's what!
-哈？我见过你的真理之光，这就是怎么了
+00:59:05,920 --> 00:59:08,912
+Huh? I saw your Light of Truth,
+that's what!
+哈？我见过你的真理之光了, 这就是怎么了
 
 856
-00:59:08,840 --> 00:59:10,956
+00:59:09,040 --> 00:59:11,156
 And I'll put a stop to it!
 我必须叫停它！
 
 857
-00:59:11,080 --> 00:59:14,198
+00:59:11,280 --> 00:59:14,398
 -(GASPS)
 - More intruders, as anticipated.
-又有入侵者，比预期要多
+又有入侵者, 比预期要多
 
 858
-00:59:15,360 --> 00:59:17,158
+00:59:15,560 --> 00:59:17,358
 (ALL ROARING)
 
 859
-00:59:17,600 --> 00:59:20,114
+00:59:17,800 --> 00:59:20,314
 Travers... (LAUGHING)
+特拉弗斯...
 
 860
-00:59:20,240 --> 00:59:22,800
+00:59:20,440 --> 00:59:23,000
 You're still my closest instrument!
 你仍然是我最好的工具！
 
 861
-00:59:31,320 --> 00:59:33,311
+00:59:31,520 --> 00:59:33,511
 (ALL ROARING)
 
 862
-00:59:37,200 --> 00:59:39,316
+00:59:37,400 --> 00:59:39,516
 (GUNFIRE)
 
 863
-00:59:42,560 --> 00:59:44,233
+00:59:42,760 --> 00:59:44,433
 (GUNFIRE CONTINUES)
 
 864
-00:59:48,480 --> 00:59:50,312
+00:59:48,680 --> 00:59:50,512
 This place is like a beacon.
 这地方跟一个灯塔似的
 
 865
-00:59:50,760 --> 00:59:52,637
+00:59:50,960 --> 00:59:52,837
 It's Kate Lethbridge-Stewart, isn't it?
-这是凯特fixme, 对吗？
+你是凯特•利斯布里奇-斯图尔特, 对吗？
 
 866
-00:59:52,800 --> 00:59:54,837
+00:59:53,000 --> 00:59:55,037
 - But...
 - Sarah-Jane Smith. Hello.
 - 但是...  - 我是莎拉-简·史密斯, 你好
 
 867
-00:59:54,960 --> 00:59:56,758
+00:59:55,160 --> 00:59:56,958
 Your father said it
 might be a family affair.
 你父亲说这可能是一个家庭事务
 
 868
-00:59:57,280 --> 01:00:00,113
+00:59:57,480 --> 01:00:00,313
 - So, show me where to find him.
 - All right.
 - 所以, 告诉我哪里可以找到他  - 好吧
 
 869
-01:00:00,240 --> 01:00:02,277
+01:00:00,440 --> 01:00:02,477
 - EXPLOSIONS)
 {GUNFIRE)
 
 870
-01:00:05,200 --> 01:00:06,793
+01:00:05,400 --> 01:00:06,993
 (ROARING)
 
 871
-01:00:18,000 --> 01:00:19,320
+01:00:18,200 --> 01:00:19,520
 (GRUNTS)
 
 872
-01:00:28,360 --> 01:00:30,397
+01:00:28,560 --> 01:00:30,597
 (LIGHTNING CRASHING)
 
 873
-01:00:34,080 --> 01:00:35,229
+01:00:34,280 --> 01:00:35,429
 Distract them, Brigadier.
 引开他们, 准将
 
 874
-01:00:35,360 --> 01:00:38,239
+01:00:35,560 --> 01:00:38,439
 This is my fault. If I can shut down
 the mainframe...
 这是我的错, 如果我能关闭电脑主机...
 
 875
-01:00:38,360 --> 01:00:40,078
+01:00:38,560 --> 01:00:40,278
 I'm sure we've met before.
 我敢肯定我们之前见过
 
 876
-01:00:40,200 --> 01:00:41,190
+01:00:40,400 --> 01:00:41,390
 I doubt it.
 我怀疑没有
 
 877
-01:00:42,360 --> 01:00:44,431
+01:00:42,560 --> 01:00:44,631
 (PULSATING)
 
 878
-01:00:58,520 --> 01:01:00,557
+01:00:58,720 --> 01:01:00,757
 {ROARING)
 {GRUNTS)
 
 879
-01:01:12,000 --> 01:01:14,196
+01:01:12,200 --> 01:01:14,396
 (DISTORTED) Bring my jailer here.
 带我的狱卒过来
 
 880
-01:01:20,920 --> 01:01:23,878
+01:01:21,120 --> 01:01:24,078
 Stop her! This time, destroy her.
 阻止她！这次, 消灭她
 
 881
-01:01:24,640 --> 01:01:26,790
+01:01:24,840 --> 01:01:26,990
 My strength is growing, jailer.
 我的力量在增长, 狱卒
 
 882
-01:01:29,920 --> 01:01:32,719
+01:01:30,120 --> 01:01:32,919
 Your defences are powerless to stop me.
 你的防御太弱, 阻止不了我
 
 883
-01:01:32,840 --> 01:01:35,480
+01:01:33,040 --> 01:01:35,680
 I'm amazed at your awesome ingenuity,
-我很惊讶于你的手艺
+我很惊讶于你的精巧布局
 
 884
-01:01:36,480 --> 01:01:37,436
+01:01:36,680 --> 01:01:37,636
 Travers.
+特拉弗斯
 
 885
-01:01:37,560 --> 01:01:39,836
+01:01:37,760 --> 01:01:40,036
 The late Professor Travers.
-已故的fixme教授
+已故的特拉弗斯教授
 
 886
-01:01:40,520 --> 01:01:42,238
+01:01:40,720 --> 01:01:42,438
 This is my world now.
 现在这是我的世界了
 
 887
-01:01:42,360 --> 01:01:43,316
+01:01:42,560 --> 01:01:43,516
 Oh, of course.
 噢, 当然
 
 888
-01:01:43,840 --> 01:01:47,231
+01:01:44,040 --> 01:01:47,431
 I'm doubtless you'll make a better job
 of it than we humans have.
 毫无疑问你会比我们人类干得好
 
 889
-01:01:48,320 --> 01:01:50,550
+01:01:48,520 --> 01:01:50,750
 Sarah, take this. It's for my father.
-莎拉, 拿着这个, 这是给我父亲的
+莎拉, 拿着这个, 这是我父亲的
 
 890
-01:01:51,080 --> 01:01:52,434
+01:01:51,280 --> 01:01:52,634
 I'm a rotten shot. You hang onto it.
 我枪法很烂, 你留着吧
 
 891
-01:01:52,560 --> 01:01:55,279
+01:01:52,760 --> 01:01:55,479
 Look, I don't want to fight.
 I want my dad back.
 看, 我并不想参战, 我只要我的爸爸回来
 
 892
-01:01:56,520 --> 01:01:58,557
+01:01:56,720 --> 01:01:58,757
 Where's the back-up gone to?
 后援都去哪儿了？
 
 893
-01:02:09,320 --> 01:02:11,277
+01:02:09,520 --> 01:02:11,477
 (ALL ROARING)
 
 894
-01:02:19,400 --> 01:02:22,631
+01:02:19,600 --> 01:02:22,831
 We humans are basically
 a gregarious species,
-我们人类基本上是群君物种
+我们人类基本上是群居物种
 
 895
-01:02:23,480 --> 01:02:24,470
+01:02:23,680 --> 01:02:24,670
 er, Great One,
-
+呃, 大智慧
 
 896
-01:02:25,120 --> 01:02:27,953
+01:02:25,320 --> 01:02:28,153
 despite exceptions, like Daniel Hinton.
 尽管有些例外, 比如丹尼尔·辛顿
 
 897
-01:02:28,080 --> 01:02:30,310
+01:02:28,280 --> 01:02:30,510
 Deleted from my system.
 从我的系统里删掉了
 
 898
-01:02:30,440 --> 01:02:31,919
+01:02:30,640 --> 01:02:32,119
 Oh, I see.
 噢, 我明白了
 
 899
-01:02:32,040 --> 01:02:34,953
+01:02:32,240 --> 01:02:35,153
 So, resistance is obviously...
 What's the word?
 所以, 抵抗显然是...那个词是什么来着？
 
 900
-01:02:35,600 --> 01:02:38,194
+01:02:35,800 --> 01:02:38,394
 Useless? Good.
 徒劳的？很好
 
 901
-01:02:39,240 --> 01:02:40,913
+01:02:39,440 --> 01:02:41,113
 But tell me, Brigadier.
 但是告诉我, 准将
 
 902
-01:02:41,880 --> 01:02:48,149
+01:02:42,080 --> 01:02:48,349
 Which part of my Great Plan do you think
 is most strategically successful?
 我的伟大计划中哪一部分你觉得在战略上是最成功的
 
 903
-01:02:48,720 --> 01:02:50,552
+01:02:48,920 --> 01:02:50,752
 - None of it.
 - What?
 - 全都不是  - 什么？
 
 904
-01:02:50,680 --> 01:02:53,718
+01:02:50,880 --> 01:02:53,918
 For a so-called Intelligence,
 you're pretty damn stupid.
 虽然叫做“大智慧”, 其实你相当蠢
 
 905
-01:02:54,320 --> 01:02:55,674
+01:02:54,520 --> 01:02:55,874
 You're still trapped.
 你还是被困住了
 
 906
-01:02:55,800 --> 01:02:58,189
+01:02:56,000 --> 01:02:58,389
 - No.
 - That's not a body.
-- 不  - 那不是fixme
+- 不  - 那不是一架躯体
 
 907
-01:02:58,320 --> 01:03:02,075
+01:02:58,520 --> 01:03:02,275
 You've trapped yourself
 in a web of silicon and cables.
 你把自己困在了硅晶和线缆的网里
 
 908
-01:03:02,720 --> 01:03:05,792
+01:03:02,920 --> 01:03:05,992
 All of it stolen.
 And you can't venture beyond it.
+全都是偷来的, 你还不敢冒险超越它
 
 909
-01:03:06,360 --> 01:03:09,193
+01:03:06,560 --> 01:03:09,393
 I have slammed the door on my darkness.
 我已经关上了黑暗的门
 
 910
-01:03:09,320 --> 01:03:14,315
+01:03:09,520 --> 01:03:14,515
 And I shall perpetuate myself in every machine
 and every being in my world.
 我将长存于我世界中每一台机器, 每一个生命里面
 
 911
-01:03:15,080 --> 01:03:16,195
+01:03:15,280 --> 01:03:16,395
 Balderdash.
 胡言乱语
 
 912
-01:03:18,040 --> 01:03:22,273
+01:03:18,240 --> 01:03:22,473
 Your power goes no further than
 the mainframe of this campus.
 你的能力跑不出这个园区里面的主机
 
 913
-01:03:23,200 --> 01:03:27,592
+01:03:23,400 --> 01:03:27,792
 All anyone has to do is to pull the plug.
 任何人只要拔下插头就可以了
 
 914
-01:03:28,360 --> 01:03:29,316
+01:03:28,560 --> 01:03:29,516
 (MOUTHING)
 
 915
-01:03:30,400 --> 01:03:31,629
+01:03:30,600 --> 01:03:31,829
 Stay out of sight till I'm back.
 躲起来直到我回来为止
 
 916
-01:03:31,760 --> 01:03:32,830
-No, Sarah. - Please.
-不, 莎拉 - 别
+01:03:31,960 --> 01:03:33,030
+No, Sarah.
+不, 莎拉
 
 917
-01:03:32,960 --> 01:03:34,951
+01:03:33,160 --> 01:03:35,151
 Protect the generators.
 保护发电机
 
 918
-01:03:38,280 --> 01:03:43,673
+01:03:38,480 --> 01:03:43,873
 I shall burrow deep into the Earth's roots
 and reach high into its skies.
-我将下潜入入树根, 上飞于天空
+我将下潜入地底, 上飞于天空
 
 919
-01:03:44,800 --> 01:03:48,953
+01:03:45,000 --> 01:03:49,153
 And the humans shall provide me
 with new machines
-而且人类会为同提供新的机器
+而且人类会为我提供新的机器
 
 920
-01:03:49,560 --> 01:03:51,915
+01:03:49,760 --> 01:03:52,115
 and new bodies.
 和新的身体
 
 921
-01:03:56,560 --> 01:03:57,516
+01:03:56,760 --> 01:03:57,716
 Dad!
 爸爸！
 
 922
-01:03:58,840 --> 01:03:59,796
+01:03:59,040 --> 01:03:59,996
 Kate.
 凯特
 
 923
-01:04:00,480 --> 01:04:04,189
+01:04:00,680 --> 01:04:04,389
 COMPUTER: (REPEATING) Access denied.
 拒绝访问
 
 924
-01:04:04,320 --> 01:04:05,276
+01:04:04,520 --> 01:04:05,476
 (WHIZZING)
 
 925
-01:04:06,880 --> 01:04:10,510
+01:04:07,080 --> 01:04:10,710
 Access denied, Victoria, my dear.
 访问被拒了, 维多利亚, 我亲爱的
 
 926
-01:04:10,640 --> 01:04:11,994
+01:04:10,840 --> 01:04:12,194
 It's not too late.
 还不算太迟
 
 927
-01:04:12,120 --> 01:04:13,838
+01:04:12,320 --> 01:04:14,038
 Way, way out of time.
 太, 太迟了
 
 928
-01:04:14,720 --> 01:04:17,155
-Let's see what the
-New World has in store.
-让我们看看新世界有什么fixme
+01:04:14,920 --> 01:04:17,355
+Let's see what the New World has in store.
+让我们看看新世界里面都存有些什么
 
 929
-01:04:17,280 --> 01:04:19,191
+01:04:17,480 --> 01:04:19,391
 - Get away from her!
 -(GUNSHOT)
 离她远点！
 
 930
-01:04:21,200 --> 01:04:22,429
+01:04:21,400 --> 01:04:22,629
 Turn off the power!
 关闭电源！
 
 931
-01:04:22,560 --> 01:04:23,709
+01:04:22,760 --> 01:04:23,909
 That's what I'm trying to do!
 我正要干这个！
 
 932
-01:04:23,840 --> 01:04:24,796
+01:04:24,040 --> 01:04:24,996
 (GUNSHOT)
 
 933
-01:04:26,040 --> 01:04:26,996
+01:04:26,240 --> 01:04:27,196
 I'm sorry, Dad.
 对不起, 爸爸
 
 934
-01:04:28,160 --> 01:04:29,150
+01:04:28,360 --> 01:04:29,350
 As bad as your mother.
-跟你母亲一样差fixme
+跟你母亲一样差
 
 935
-01:04:29,280 --> 01:04:31,590
+01:04:29,480 --> 01:04:31,790
 Oh, you have blood ties.
 噢, 你们有血缘纽带
 
 936
-01:04:31,720 --> 01:04:34,439
+01:04:31,920 --> 01:04:34,639
 Very well. I need more Yetis.
 很好, 我还需要些雪怪
 
 937
-01:04:34,640 --> 01:04:35,914
+01:04:34,840 --> 01:04:36,114
 She can be the next.
 她可以是下一个
 
 938
-01:04:42,640 --> 01:04:44,392
-- ROARING)
-{GUNSHOT)
+01:04:42,840 --> 01:04:44,592
+(ROARING)
+(GUNSHOT)
 
 939
-01:04:44,560 --> 01:04:45,755
+01:04:44,760 --> 01:04:45,955
 Ah!
 啊！
 
 940
-01:04:46,920 --> 01:04:47,876
+01:04:47,120 --> 01:04:48,076
 Daniel?
 丹尼尔？
 
 941
-01:04:48,000 --> 01:04:49,673
+01:04:48,200 --> 01:04:49,873
 (GROWLING)
 
 942
-01:04:50,480 --> 01:04:51,550
+01:04:50,680 --> 01:04:51,750
 Daniel.
 丹尼尔
 
 943
-01:04:52,360 --> 01:04:54,237
+01:04:52,560 --> 01:04:54,437
 I know you're still clinging there.
 我知道你还在那里
 
 944
-01:04:54,360 --> 01:04:55,316
+01:04:54,560 --> 01:04:55,516
 (ROARING)
 
 945
-01:04:55,480 --> 01:04:58,472
+01:04:55,680 --> 01:04:58,672
 Daniel, remember your disciplines.
 丹尼尔, 记住你的纪律
 
 946
-01:04:59,320 --> 01:05:01,709
+01:04:59,520 --> 01:05:01,909
 Daniel, fight the evil.
 丹尼尔, 同邪恶斗争
 
 947
-01:05:02,120 --> 01:05:03,918
+01:05:02,320 --> 01:05:04,118
 Remember your inner strength.
 记住你的内在力量
 
 948
-01:05:05,320 --> 01:05:09,314
-Remember the sword
-that cuts through the thorns of deceit.
+01:05:05,520 --> 01:05:09,514
+Remember the sword that cuts through
+the thorns of deceit.
 记住那把剑, 斩断欺骗的荆棘
 
 949
-01:05:10,200 --> 01:05:11,679
+01:05:10,400 --> 01:05:11,879
 Be that sword, Daniel!
 成为那把剑吧, 丹尼尔
 
 950
-01:05:12,480 --> 01:05:13,550
+01:05:12,680 --> 01:05:13,750
 Remember!
 记住！
 
 951
-01:05:13,680 --> 01:05:15,751
+01:05:13,880 --> 01:05:15,951
 -(ROARING)
 -(LAUGHING)
 
 952
-01:05:16,680 --> 01:05:18,079
+01:05:16,880 --> 01:05:18,279
 (SPHERE BEEPING)
 
 953
-01:05:23,720 --> 01:05:25,757
+01:05:23,920 --> 01:05:25,957
 (GUNSHOTS)
 
 954
-01:05:34,560 --> 01:05:36,471
+01:05:34,760 --> 01:05:36,671
 - Daniel?
 -(LAUGHING)
 丹尼尔？
 
 955
-01:05:36,600 --> 01:05:37,874
+01:05:36,800 --> 01:05:38,074
 You're dead.
 你死了
 
 956
-01:05:38,680 --> 01:05:40,717
+01:05:38,880 --> 01:05:40,917
 (SCREAMING)
 
 957
-01:05:41,560 --> 01:05:45,076
+01:05:41,760 --> 01:05:45,276
 No, Daniel! Destroy the generators!
 不, 丹尼尔！摧毁发电机！
 
 958
-01:05:53,160 --> 01:05:54,594
+01:05:53,360 --> 01:05:54,794
 I am not defeated!
 我没被打败！
 
 959
-01:05:54,720 --> 01:05:56,279
+01:05:54,920 --> 01:05:56,479
 Leave our world alone!
 离开我们的世界！
 
 960
-01:05:56,960 --> 01:05:58,314
+01:05:57,160 --> 01:05:58,514
 It's my world!
 这是我的世界！
 
 961
-01:05:58,440 --> 01:06:00,829
+01:05:58,640 --> 01:06:01,029
 Go back to Hell, you're not wanted here.
 回到地狱去吧, 这里不欢迎你
 
 962
-01:06:01,960 --> 01:06:04,031
+01:06:02,160 --> 01:06:04,231
 (GROANING AND WHIMPERING)
 
 963
-01:06:09,840 --> 01:06:11,877
+01:06:10,040 --> 01:06:12,077
 (ENERGY PULSATING)
 
 964
-01:06:20,560 --> 01:06:22,551
+01:06:20,760 --> 01:06:22,751
 (PULSATING)
 
 965
-01:06:37,240 --> 01:06:38,355
+01:06:37,440 --> 01:06:38,555
 Dad.
 爸爸
 
 966
-01:06:38,480 --> 01:06:39,914
+01:06:38,680 --> 01:06:40,114
 It's all right, Kate. It's gone.
 没事了, 凯特, 它消失了
 
 967
-01:06:40,640 --> 01:06:42,551
+01:06:40,840 --> 01:06:42,751
 This time, it's gone for good.
 这一次, 它永远离开了
 
 968
-01:06:42,680 --> 01:06:45,638
+01:06:42,880 --> 01:06:45,838
 Brigadier! Brigadier!
 准将！准将！
 
 969
-01:06:45,760 --> 01:06:49,469
-Miss Smith. I knew
-there was someone here I could rely on.
-史密斯小姐, 我就知道至少还是一个可以信赖的人
+01:06:45,960 --> 01:06:49,669
+Miss Smith. I knew there was someone here
+I could rely on.
+史密斯小姐, 我就知道至少还有一个人我可以信赖
 
 970
-01:06:50,120 --> 01:06:52,031
+01:06:50,320 --> 01:06:52,231
 - Oh, have you two, er...
 - Yes. We've met.
 - 噢, 你们俩是不是...  - 是的, 我们见过
 
 971
-01:06:52,680 --> 01:06:54,557
+01:06:52,880 --> 01:06:54,757
 It's just like old times, eh?
 就跟以前一样, 嗯？
 
 972
-01:06:54,680 --> 01:06:57,354
+01:06:54,880 --> 01:06:57,554
 And I still don't know what's going on.
 (LAUGHING)
-我还是不知道发生了什么？
+我还是不知道发生了什么
 
 973
-01:06:57,480 --> 01:07:00,518
+01:06:57,680 --> 01:07:00,718
 Well, someone else can clear up. Let's just go home.
-嗯，会有人来收拾的。我们还是回家吧
+嗯, 会有人来收拾的. 我们还是回家吧
 
 974
-01:07:20,940 --> 01:07:23,898
+01:07:21,140 --> 01:07:24,098
 So, he said it was Victoria's dress.
-这么说, 他说过是维多利亚的裙子
-fixme
+于是, 他说这是维多利亚的裙子
+<i>（见第十三季第三集《火星的金字塔》）</i>
 
 975
-01:07:24,940 --> 01:07:28,012
+01:07:25,140 --> 01:07:28,212
 And I said, "Well, as long as
 Albert didn't wear it."”
 然后我说：“哦, 只要阿尔伯特没有穿过”
 
 976
-01:07:29,060 --> 01:07:30,971
+01:07:29,260 --> 01:07:31,171
 And you think it could have been her.
-你以为这可能是她fixme
+所以你认为这可能是她
 
 977
-01:07:31,100 --> 01:07:34,616
+01:07:31,300 --> 01:07:34,816
 1 don't know. There's no trace of her.
 She just vanished into thin air.
-我不知道, 没有她的踪迹。她消失在空气中了
+我不知道,  没有她的踪迹, 她就那样凭空消失了
 
 978
-01:07:35,820 --> 01:07:38,130
-Certain people we know
-make a habit of that.
-fixme
+01:07:36,020 --> 01:07:38,330
+Certain people we know make a habit of that.
+我们认识的某些人是有这样的习惯
 
 979
-01:07:38,940 --> 01:07:40,214
+01:07:39,140 --> 01:07:40,414
 (BOTH CHUCKLING)
 
 980
-01:07:42,300 --> 01:07:46,578
+01:07:42,500 --> 01:07:46,778
 Do you know, companions used to be
 something only dowager aunts had.
+你知道吗, 同伴以前是只有老年贵妇人才有的
 
 981
-01:07:46,700 --> 01:07:49,977
+01:07:46,900 --> 01:07:50,177
 No, Sarah, it applies to families as well.
+不, 莎拉, 这对家庭也适用
 
 982
-01:07:50,900 --> 01:07:52,811
+01:07:51,100 --> 01:07:53,011
 Oh, yes, families.
+噢, 是的, 家庭
 
 983
-01:07:57,340 --> 01:08:01,254
+01:07:57,540 --> 01:08:01,454
 Dad, this is Gordon.
 Gordy, say hello to granddad.
-爸爸, 这是戈登。戈迪, 跟外公说你好
+爸爸, 这是戈登. 戈迪, 跟外公说你好
 
 984
-01:08:01,380 --> 01:08:02,529
+01:08:01,580 --> 01:08:02,729
 Hello, Gordy.
 你好, 戈迪
 
 985
-01:08:03,900 --> 01:08:05,174
+01:08:04,100 --> 01:08:05,374
 You're not shy, are you?
 你不害羞, 是吧？
 
 986
-01:08:06,780 --> 01:08:08,896
+01:08:06,980 --> 01:08:09,096
 I've got another friend too.
 我也另外有个朋友
 
 987
-01:08:09,340 --> 01:08:10,853
+01:08:09,540 --> 01:08:11,053
 Oh? What's his name?
 噢, 他叫什么名字？
 
 988
-01:08:10,980 --> 01:08:13,369
+01:08:11,180 --> 01:08:13,569
 Danny. But only I can see him.
 丹尼, 但只有我能看见他
 
 989
-01:08:14,180 --> 01:08:15,136
+01:08:14,380 --> 01:08:15,336
 Oh.
 噢
 
 990
-01:08:21,060 --> 01:08:22,016
+01:08:21,260 --> 01:08:22,216
 Oh.
 哦
 
 991
-01:08:24,740 --> 01:08:26,936
+01:08:24,940 --> 01:08:27,436
 Well, you'd better tell me all about him.
 那, 你最好把他的事都告诉我
 
 992
-01:08:31,180 --> 01:08:33,649
+01:08:31,380 --> 01:08:33,849
 I'm ravenous. Fancy a pizza?
 我饿死了, 对披萨有兴趣吗？
 
 993
-01:08:33,780 --> 01:08:35,930
+01:08:33,980 --> 01:08:36,130
 You know, I think I'd rather have a pint.
-知道不, 我想我还是来一品脱
+知道不, 我想我更愿意一杯
 
 994
-01:08:36,060 --> 01:08:37,892
+01:08:36,260 --> 01:08:38,092
 Make it a cup of tea, and you're on.
-跑一杯茶, 你就fixme
+泡上一杯茶, 你就高兴起来了 (?)
+
 
 995
-01:08:38,020 --> 01:08:39,294
+01:08:38,220 --> 01:08:39,494
 (BOTH LAUGHING)
 
 996
-01:08:41,000 --> 01:008:45,500
+01:08:41,200 --> 01:08:45,700
 <i>献给Douglas Camfield和Gerald Blake</i>
-<i>（前者是《Daleks大计划》《恐惧之网》《Zygons的恐怖》等集的导演，1984年去世；
-后者是《可恶的雪人》《时间入侵》等集的导演，1991年去世）</i>
+<i>（前者是《Daleks大计划》《恐惧之网》《Zygons的恐怖》等集的导演, 1984年去世；
+后者是《可恶的雪人》《时间入侵》等集的导演, 1991年去世）</i>
 
-996
-01:08:46,000 --> 01:008:48,500
-<i>中文翻译: 巴蛮子sz @ 新浪微博</i>
-
-
+997
+01:08:46,200 --> 01:08:48,700
+<i>（中文翻译: 巴蛮子sz )</i>
+<i>（基于 opensubtitles.org 上英文字幕翻译）</i>
 
