@@ -1,0 +1,752 @@
+1
+00:17:42,156 --> 00:17:45,432
+Hello, Moonbase! Can you hear me?
+哈罗, 月球基地! 你们能听到吗？
+
+2
+00:17:47,396 --> 00:17:48,375
+Yes!
+能！
+
+3
+00:17:48,436 --> 00:17:50,666
+Yes, I can hear you loud and clear!
+能, 你的声音很清楚很响亮！
+
+4
+00:17:50,836 --> 00:17:52,460
+What part of Earth are you speaking from?
+你是在地球上哪个位置说话？
+
+5
+00:17:52,596 --> 00:17:56,108
+<i>(DOCTOR) We're not on the Earth.
+We're in a rocket orbiting the moon.</i>
+我们不在地球上, 我们在一架火箭上, 目前正在月球轨道
+
+6
+00:17:56,476 --> 00:17:58,167
+A rocket? But that's impossible!
+火箭？这不可能啊！
+
+7
+00:17:58,636 --> 00:18:02,948
+I can assure you it's not impossible!
+What is your emergency?
+我可以向你保证这不是不可能！你的紧急状况是什么？
+
+8
+00:18:03,116 --> 00:18:05,107
+What's happening on Moonbase?
+月球基地发生了什么事情？
+
+9
+00:18:05,276 --> 00:18:08,268
+<i>We've been invaded! Aliens have taken over!</i>
+我们被入侵了！外星人占领了这里！
+
+10
+00:18:11,116 --> 00:18:13,505
+Put that cover back on.
+把那个盖子放回去
+
+11
+00:18:14,696 --> 00:18:17,529
+T-Mat back to Earth and report to Commander Radnor.
+传送回地球, 向指挥官 Radnor 汇报
+
+12
+00:18:17,696 --> 00:18:19,687
+(RASPING WHISPER)
+Stop!
+停下！
+
+13
+00:18:19,856 --> 00:18:22,416
+You will remain here!
+你得待在这里！
+
+14
+00:18:22,576 --> 00:18:24,886
+(HISSING, LABOURED BREATHING)
+
+15
+00:18:25,096 --> 00:18:27,248
+Doctor, these aliens he described...
+博士, 他说描述的外星人...
+
+16
+00:18:27,416 --> 00:18:29,486
+- Yes, Ice Warriors!
+- What?
+- 是了, 寒冰勇士！  - 什么？
+
+17
+00:18:29,656 --> 00:18:32,473
+Jamie and I have met them before.
+They come from the planet Mars.
+Jamie 和我之前跟他们遭遇过．他们来自火星
+
+18
+00:18:32,536 --> 00:18:35,089
+- What do they want?
+- Mars is a dying planet.
+- 他们想要什么？  - 火星是个要死的星球了
+
+19
+00:18:35,156 --> 00:18:38,065
+- I imagine that they want a new home.
+- Why the moon?
+- 我估计他们是想要一个新家  - 为什么选月球？
+
+20
+00:18:38,136 --> 00:18:41,692
+- I think it's just a stepping stone.
+- What did you say? They're...Ice Warriors?
+- 我想这只是一个垫脚石  - 你说他们叫什么来着, 是叫...寒冰勇士？
+
+21
+00:18:41,656 --> 00:18:45,326
+Yes, you know, Mars is a cold planet
+and they've adapted to that.
+是的, 你看, 火星是个寒冷的星球, 他们已经习惯了
+
+22
+00:18:45,496 --> 00:18:47,487
+It's heat they can't stand.
+所以他们忍受不了炎热
+
+23
+00:18:47,656 --> 00:18:51,126
+We should just about be coming into range now.
+我们现在应该快到地方了
+
+24
+00:18:51,296 --> 00:18:52,988
+Hello, Moonbase.
+你好, 月球基地
+
+25
+00:19:00,316 --> 00:19:03,270
+(RASPING WHISPER) You will remain here!
+你得待在这里！
+
+26
+00:19:14,176 --> 00:19:17,668
+That's the lot. The whole system's
+completely operational again.
+fixme 整个系统已经完全恢复可用了
+
+27
+00:19:17,756 --> 00:19:20,090
+We can now send to any city in the world?/?fixme
+我们现在可以传送物品给世界上任何一个城市了？
+
+27
+00:19:20,156 --> 00:19:22,290
+- Yes, anywhere with a T-Mat centre.
+- 是的, 只要这个城市有 T-Mat 中心
+
+28
+00:19:22,656 --> 00:19:26,368
+- Fewsham, Do you realise what you're doing?!
+- I'm trying to save our lives!
+- Fewsham, 你知道你在干什么吗？！  - 我尽力在救我们的命！
+
+29
+00:19:26,436 --> 00:19:29,288
+- Then what about the lives of the people on Earth?
+- We're in no position to argue!
+- 那地球上那么多人的命怎么办？  - 我们现在没资格讨价还价！
+
+30
+00:19:31,976 --> 00:19:34,444
+Why do you want control of T-Mat?
+你们为什么想要控制 T-Mat？
+
+31
+00:19:35,456 --> 00:19:37,154
+If you're going to invade the Earth,
+如果你们想要入侵地球
+
+32
+00:19:37,276 --> 00:19:41,447
+you'll be fighting the armed forces
+of the entire world. You'll never succeed.
+会有整个世界的武装力量跟你们斗争, 你们不会成功的
+
+33
+00:19:41,516 --> 00:19:44,889
+- There'll be too much resistance.
+- There will be no resistance!
+- 会有太多的反抗  - 不会有任何反抗！
+
+34
+00:19:44,956 --> 00:19:46,912
+What about us? What will happen to us?
+我们怎么办？我们会怎么样？
+
+35
+00:19:46,976 --> 00:19:51,049
+You will remain alive as long as you are useful.
+你们的命会留着, 只要你们还有用
+
+36
+00:19:53,756 --> 00:19:55,731
+You'll never get any help from me.
+你们永远别想从我这里得到帮助
+
+37
+00:19:55,896 --> 00:19:59,855
+When the time comes, you will do
+exactly what you are told...
+等时间到了, 你会按我们说的照做的
+
+38
+00:20:00,016 --> 00:20:03,452
+..or die!
+..不然就死！
+
+39
+00:20:36,176 --> 00:20:37,894
+Hello?
+哈罗？
+
+40
+00:20:38,056 --> 00:20:40,809
+- Who are you?
+- Oh!
+- 你是谁？  - 噢！
+
+41
+00:20:41,276 --> 00:20:44,571
+- Mr Phipps, I presume?
+- Yes, but where did you come from?
+- Phipps 先生, 我估计？  - 是的, 不过你们从哪儿来的啊
+
+42
+00:20:44,736 --> 00:20:47,614
+From the rocket. We were talking on the radio.
+从火箭啊, 我们在无线电里说过了
+
+43
+00:20:47,776 --> 00:20:50,988
+- Thank heavens you've made it. Are the others here too?
+- Yeah, They're still in the rocket.
+- 感谢上天你们成功了．还有其他人吗？  - 有, 他们还在火箭里面
+
+44
+00:20:51,156 --> 00:20:54,949
+- How many Ice Warriors are there?
+- Those creatures you mean?
+- 这里有多少寒冰勇士？  - 你是说那些怪物吗？
+
+45
+00:20:55,016 --> 00:20:58,128
+- Not many, but they're deadly.
+- They have their weak points.
+- 不多, 不过他们很厉害  - 他们有他们的弱点
+
+46
+00:20:58,196 --> 00:21:02,531
+Look, they've killed everybody here,
+except Fewsham, who's helping them.
+看, 他们已经杀了这里所有的人, 除了 Fewsham, 他在帮助他们
+
+47
+00:21:02,696 --> 00:21:05,869
+I see. Well, there's only one thing for it.
+我明白了．这么说, 就只有一件事可干
+
+48
+00:21:05,936 --> 00:21:08,824
+- We shall have to destroy T-Mat.
+- 我们必须得破坏 T-Mat
+
+49
+00:21:09,496 --> 00:21:14,251
+You will shortly dispatch a cargo
+to certain cities on Earth.
+很快你要发送一个货物到地球上的某个城市
+
+50
+00:21:14,856 --> 00:21:16,653
+Cargo? What sort of cargo?
+货物？什么样的货物？
+
+51
+00:21:24,696 --> 00:21:28,291
+That's an Ice Warrior's. It's got Miss Kelly, but how...?
+那就是寒冰勇士的fixme, 他们抓了 Kelly 小姐, 但怎么...？
+
+52
+00:21:30,736 --> 00:21:32,692
+Run!
+跑！
+
+53
+00:22:40,136 --> 00:22:41,535
+Oh!
+噢！
+
+54
+00:22:43,896 --> 00:22:45,375
+Stop!
+停下！
+
+55
+00:22:45,536 --> 00:22:48,767
+(RASPING WHISPER) You must be destroyed!
+必须消灭你！
+
+56
+00:22:48,936 --> 00:22:50,927
+You've got no orders to kill me!
+你没有得到要杀死我的命令！
+
+57
+00:22:51,096 --> 00:22:53,774
+Your leader will want to speak to me!
+你的头领想要同我谈谈的！
+
+58
+00:22:53,836 --> 00:22:56,127
+Humans are our enemies!
+人类都是我们的敌人！
+
+59
+00:22:56,296 --> 00:22:59,049
+But I can be useful to you, like Fewsham!
+但我对你们是有用的, 就像 Fewsham！
+
+60
+00:22:59,216 --> 00:23:03,687
+Your leader will be angry with you
+if you kill me! I'm a genius!
+如果你杀了我, 你的头领会发怒的！我是个天才！
+
+61
+00:23:03,856 --> 00:23:06,689
+(RASPING WHISPER) Genius!
+天才！
+
+62
+00:23:08,096 --> 00:23:11,088
+You will come with me!
+你跟我来！
+
+63
+00:23:15,396 --> 00:23:18,388
+The prisoner Kelly has escaped.
+俘虏 Kelly 逃走了
+
+64
+00:23:19,516 --> 00:23:23,191
+This human was in the corridors.
+这个人在走廊里
+
+65
+00:23:23,356 --> 00:23:26,314
+Who are you? Where are you from?
+你是谁？你从哪里来？
+
+66
+00:23:26,476 --> 00:23:29,149
+I might ask you the same question!
+我正想问你同样的问题！
+
+67
+00:23:29,316 --> 00:23:32,706
+You will find the human Kelly
+and bring her back here!
+如果你找到 Kelly 那个人类, 把她带回来！
+
+68
+00:23:32,876 --> 00:23:36,789
+- Who is this man?
+- He's not one of the crew.
+- 这个人是谁？  - 他不是我们组员之一
+
+69
+00:23:36,956 --> 00:23:39,390
+I don't know this man.
+He must have just arrived here.
+我不认识这个人, 他肯定是刚刚到这里的
+
+70
+00:23:39,556 --> 00:23:42,912
+Impossible - we control T-Mat.
+How did you get here?
+不可能 - 我们控制了 T-Mat．你怎么到这里的？
+
+71
+00:23:43,076 --> 00:23:46,148
+Our resources are not limited
+to T-Mat, you know!
+我们的资源可不止是 T-Mat, 你知道不？
+
+72
+00:23:46,316 --> 00:23:51,007
+- You arrived by other means? By space craft?
+- Rockets haven't been used for years.
+- 你用其它方法到这里的？坐宇宙飞船？  - 已经很多年不用火箭了
+
+73
+00:23:51,076 --> 00:23:53,465
+Then you are lying!
+那你在撒谎！
+
+74
+00:23:53,636 --> 00:23:57,788
+You have been concealed here all the time.
+你一直都躲在这里某个地方
+
+75
+00:23:57,956 --> 00:24:01,710
+(DOCTOR) But you can't be sure of that, can you, hmm?
+但你还是没把握, 对不, 嗯？
+
+76
+00:24:01,876 --> 00:24:03,867
+The people of the Earth
+地球上的人
+
+77
+00:24:04,036 --> 00:24:07,627
+may be preparing a whole fleet
+of rockets to defend themselves with!
+正在准备一整只火箭大军, 要保卫他们自己！
+
+78
+00:24:07,796 --> 00:24:11,668
+(ICE WARRIOR) No, Earth relies entirely on T-Mat.
+不, 地球完全依赖于 T-Mat
+
+79
+00:24:11,836 --> 00:24:14,953
+There is no defence against our plans.
+没有任何防御可以抵抗我们的计划
+
+80
+00:24:15,116 --> 00:24:18,472
+And what are your plans? Invasion by T-Mat?
+你们的计划是什么？用 T-Mat 入侵？
+
+81
+00:24:19,676 --> 00:24:22,793
+There are too few of you to conquer
+all the people of the Earth.
+但你们人太少了, 没法征服地球上这么多人
+
+82
+00:24:28,436 --> 00:24:32,873
+(ICE WARRIOR) The Grand Marshall
+has ordered the seeds to be prepared!
+大元帅已经下令, 准备好种子
+
+83
+00:24:33,036 --> 00:24:37,632
+- You are to receive your instructions.
+- Then guard the humans.
+- 你要去接收指示  - 看好这些人类
+
+84
+00:24:37,796 --> 00:24:41,311
+If they try to escape, kill them!
+如果他们打算逃跑, 杀了他们！
+
+85
+00:24:41,476 --> 00:24:46,072
+(HISSING, LABOURED BREATHING)
+
+86
+00:25:01,716 --> 00:25:04,105
+Why are you helping them?
+你为什么要帮他们？
+
+87
+00:25:04,276 --> 00:25:06,267
+I've seen what they can do!
+我见过了他们的能耐！
+
+88
+00:25:06,436 --> 00:25:08,996
+Do you know what is in that container?
+你知道那容器里面是什么吗？
+
+89
+00:25:09,156 --> 00:25:12,785
+All I know is they want me to send
+something to Earth by T-Mat.
+我只是知道他们想要我用 T-Mat 传送什么东西到地球上去
+
+90
+00:25:12,956 --> 00:25:16,744
+- I suppose that's what's in it.
+- I shall have to look inside,
+- 我觉得就是那里面的东西  - 我打算去看一眼
+
+91
+00:25:16,916 --> 00:25:19,225
+and you are going to help me!
+而你要帮我！
+
+92
+00:25:19,396 --> 00:25:20,909
+The Doctor's been captured? But couldn't you help him?
+博士被抓住了？你们不能帮他吗？
+
+92
+00:25:21,096 --> 00:25:23,609
+I'm sorry, but there was nothing we could do.
+抱歉, 但当时我们也没辙
+
+93
+00:25:23,676 --> 00:25:26,713
+- We had a job to reach here ourselves.
+- Aye. So did we!
+- fixme  - 嗯, 我们是！
+
+94
+00:25:26,876 --> 00:25:28,890
+Are you sure the Ice Warriors don't know about this place?
+你确定寒冰勇士不知道这个地方？
+
+95
+00:25:29,556 --> 00:25:34,301
+One of them did find it, but I fixed up some kind
+of a booby trap to the solar energy power line.
+其中一个还真发现了, 但我用太阳能电源fixme
+
+96
+00:25:34,356 --> 00:25:36,053
+It looks those things are invulnerable!
+看起来他们是刀枪不入的！
+
+97
+00:25:36,116 --> 00:25:39,586
+- No, the Doctor said they can't stand heat.
+- That's right!
+- 不, 博士说他们忍受不了热  - 对！
+
+98
+00:25:39,756 --> 00:25:41,647
+The heating system of the entire base
+is controlled from the Centre.
+这整个基地的供热系统都是在中心控制的
+
+99
+00:25:41,730 --> 00:25:44,350
+Now if we can reach those control,
+we can turn up the heating.
+如果我们能够得着那些控制, 我们就可以调高温度
+
+100
+00:25:44,516 --> 00:25:47,147
+But how can we get there?
+Ice Warriors are patrolling those corridors.
+但我们怎么到那里呢？这些走道里都有寒冰勇士在巡逻
+
+101
+00:25:47,216 --> 00:25:50,305
+Aye, Yes I know. The maintenance tunnel's over here!
+是, 我知道．这里有维修通道！
+
+102
+00:26:04,116 --> 00:26:06,584
+(WHISPERS) All right, Fewsham, now!
+好了, Fewsham, 动手！
+
+103
+00:26:06,756 --> 00:26:08,747
+I can't! They'll kill us both!
+我不能！他们会把我们俩都杀了！
+
+104
+00:26:08,916 --> 00:26:11,350
+- You've got to help me!
+- I can't, I daren't.
+- 你必须帮我！  - 我不能, 我不敢！
+
+105
+00:26:12,496 --> 00:26:14,691
+Very well, I shall do it by myself.
+好吧, 那我就自己干
+
+106
+00:26:14,856 --> 00:26:18,849
+If I am caught, which is most likely,
+we will both get killed.
+如果我被抓了, 这非常可能发生, 我们俩都会被杀
+
+107
+00:26:26,296 --> 00:26:28,491
+(RASPING WHISPER) Do not move!
+不许动！
+
+108
+00:26:28,656 --> 00:26:33,252
+I was ordered to prepare the controls for transmission.
+I’ve got to check that everything is in order.
+我被要求准备传送控制, 我得检查一下所有东西是不是正常
+
+109
+00:26:33,816 --> 00:26:36,728
+(RASPING WHISPER) Return to where you were!
+回到你原来的地方去！
+
+110
+00:26:36,896 --> 00:26:39,410
+(FEWSHAM) But this is most important!
+但这事情很重要！
+
+111
+00:26:39,576 --> 00:26:44,525
+If you are trying to escape, I shall destroy you!
+如果你是打算逃跑, 我会灭了你！
+
+112
+00:26:44,696 --> 00:26:46,732
+I'm not trying to escape!
+我没打算逃跑！
+
+113
+00:26:46,896 --> 00:26:49,569
+Go back to where you were!
+回到你原来的地方！
+
+114
+00:26:49,736 --> 00:26:52,534
+All right! All right!
+好吧, 好吧！
+
+115
+00:26:54,376 --> 00:26:55,973
+<i>Wait!</i>
+等一下！
+
+116
+00:26:56,336 --> 00:26:59,328
+(HISSING, LABOURED BREATHING)
+
+117
+00:27:01,576 --> 00:27:03,168
+Open it!
+打开它！
+
+118
+00:27:04,216 --> 00:27:07,208
+I said, ''Open it''!
+我说了, ＂打开它＂！
+
+119
+00:27:13,496 --> 00:27:15,487
+What are these things?
+这些是什么东西？
+
+120
+00:27:17,216 --> 00:27:19,207
+They look like seed pods.
+看起来像是种子荚
+
+121
+00:27:23,736 --> 00:27:26,728
+(CHOKING COUGH)
+
+122
+00:27:33,616 --> 00:27:35,686
+(FEWSHAM) What is it?
+
+123
+00:27:35,856 --> 00:27:37,892
+What's happened to him?
+他怎么了？
+
+124
+00:27:38,056 --> 00:27:39,426
+Is he dead?
+他死了吗？
+
+125
+00:27:39,756 --> 00:27:42,486
+We can get through it here then.
+Turn the heating up, knock the Warriors out
+我们可以从这里过去, 调高温度, 敲晕寒冰勇士
+
+126
+00:27:42,556 --> 00:27:45,906
+- We can rescue the Doctor.
+- And T-Mat ourselves back to Earth.
+- 我们就可以救出博士 - 然后再用 T-Mat 传送回地球
+
+127
+00:27:46,076 --> 00:27:48,670
+- But I thought that T-Mat's broken down.
+- Not any more, I repaired it.
+- 但我记得 T-Mat 坏掉了  - 不再是了, 我修好了
+
+128
+00:27:48,836 --> 00:27:50,827
+Can we get this cover off?
+你能把这个盖子拿掉吗？
+
+129
+00:27:50,996 --> 00:27:53,805
+This part of the base has been disused for ages.
+It's rusted. It will take some time.
+基地的这一片已经很久没有使用了, 都锈了, 要点时间
+
+130
+00:27:53,885 --> 00:27:54,900
+The Doctor may not have much time.
+博士可能没有太多时间
+
+131
+00:28:13,636 --> 00:28:17,629
+(HISSING, LABOURED BREATHING)
+
+132
+00:28:19,316 --> 00:28:23,172
+You will prepare to activate the cubicle
+and transmit to London.
+你准备好, 马上要激活格子间, 传送物品去伦敦
+
+133
+00:28:27,196 --> 00:28:28,950
+(HISSING, LABOURED BREATHING) Obey!
+服从！
+
+134
+00:28:34,136 --> 00:28:36,047
+Activate!
+激活！
+
+135
+00:28:38,936 --> 00:28:42,929
+(TRILLING HUM)
+
+136
+00:28:44,976 --> 00:28:46,967
+(TWO-TONE SIGNAL)
+
+137
+00:28:54,636 --> 00:28:56,945
+Commander Radnor! T-Mat is working.
+指挥官 Radnor！ T-Mat 正在工作
+
+138
+00:28:57,116 --> 00:29:00,267
+- Working? Kelly must have got through!
+- Splendid!
+- 工作！Kelly 肯定要过来了  - 太好了
+
+139
+00:29:04,216 --> 00:29:06,207
+What is it?
+这是什么？
+
+140
+00:29:12,776 --> 00:29:14,255
+It's alive!
+是活的！
+

@@ -1,0 +1,789 @@
+1
+00:35:49,941 --> 00:35:51,932
+Doctor! Are you all right?
+博士！你没事吧？
+
+2
+00:35:52,101 --> 00:35:54,740
+- Yes, I am. I think so.
+- Where's Phipps?
+- 是的, 没事, 我觉得是 - Phipps 哪儿去了？
+
+3
+00:35:54,901 --> 00:35:57,290
+He's dead. An Ice Warrior killed him.
+他死了, 一个寒冰勇士杀了他！
+
+4
+00:35:57,361 --> 00:35:58,640
+How did you manage to escape?
+你怎么逃出来的？
+
+5
+00:35:58,701 --> 00:36:02,037
+- The other man helped me.
+- Fewsham? I thought he was working for them
+- 另外那个人帮了我  - Fewsham？之前我认为他是帮他们的
+
+6
+00:36:02,101 --> 00:36:04,874
+- He saved my life.
+- Doesn't sound much like Fewsham.
+- 他救了我的命  - 听起来不像是 Fewsham
+
+7
+00:36:04,941 --> 00:36:08,820
+- He attacked the Ice Warrior. He's also got T-Mat working again.
+- (DOCTOR) Do I gether we can get back to Earth?
+- 他袭击了寒冰勇士, 还把 T-Mat 修好了  - 那就是我们可以回地球了？
+
+8
+00:36:08,981 --> 00:36:11,541
+- I think so.
+- Let's not waste any more time!
+- 我觉得是  - 那我们不要再浪费时间了！
+
+9
+00:36:17,000 --> 00:36:19,000
+<i>(Weather Control Center)</i>
+<i>（气候控制中心）</i>
+
+10
+00:36:21,000 --> 00:36:23,000
+<i>（四个推杆上面的文字：DRY - 干燥）</i>
+<i>（装置主题文字: Weather Control Unit - 气候控制器)</i>
+
+11
+00:36:42,421 --> 00:36:45,457
+I had to help them or they would have killed me!
+我不得不帮助他们, 否则他们就会杀了我！
+
+12
+00:36:45,521 --> 00:36:48,030
+All right, Fewsham. There'll be a full inquiry
+when we get back to Earth. Tell them.
+好了, Fewsham．等我们回到地球, 会有一个完整的听证会的．跟他们说吧
+
+13
+00:36:48,201 --> 00:36:51,671
+No more time to waste.
+We must T-Mat back to Earth immediately.
+不要再浪费时间了, 我们必须立即用 T-Mat 传送回地球
+
+14
+00:36:51,841 --> 00:36:53,516
+But if we all are going, who is going to dispatch us?
+但如果我们都走的话, 谁来控制设备送我们走啊
+
+15
+00:36:53,681 --> 00:36:58,712
+There's a way of doing that. Here, this time switch
+delays transportation by ten seconds.
+有一个方法可以搞定．这里, 这个延时器可以将传送延迟１０秒
+
+16
+00:36:58,781 --> 00:37:02,312
+- Oh, I see, how genius.
+- I'll dispatch you and follow you using the time switch.
+- 哦, 明白了, 很天才  - 我先送你们走, 然后我再用延时器过来
+
+17
+00:37:02,481 --> 00:37:05,598
+Right, so Zoe, Jamie, come along.
+I think this could be quite fun!
+好, Zoe, Jamie, 都过来．我觉得这肯定很有意思！
+
+18
+00:37:05,761 --> 00:37:09,754
+Fewsham, that time switch was down
+on the maintenance report for being inoperable.
+Fewsham, 维护记录里面说那个延时器已经坏了不能使用
+
+19
+00:37:09,921 --> 00:37:11,559
+We repaired it!
+我们已经修好了
+
+20
+00:37:11,721 --> 00:37:14,519
+(TRILLING)
+
+21
+00:37:16,041 --> 00:37:19,309
+In you get, Miss Kelly. I'll use the time switch.
+你进去, Kelly 小姐．我后面用延时器过来
+
+22
+00:37:19,381 --> 00:37:22,196
+You better hurry. Those Ice Warriors will be back any minute.
+你最好快点, 那些寒冰勇士随时都可能回来
+
+23
+00:37:25,321 --> 00:37:29,360
+Do you know, I find T-Mat travel rather disappointing.
+知道吗, 我发现 T-Mat 旅行很让人失望
+
+24
+00:37:29,521 --> 00:37:31,477
+There's no sensation at all!
+完全一点感觉都没有
+
+25
+00:37:31,641 --> 00:37:34,031
+Where have you been? And what were you being up to all this time?
+你们去哪儿了？这半天你们都在干什么？
+
+26
+00:37:34,201 --> 00:37:36,792
+Where's... Miss Kelly! What's happening up there?
+哪儿... Kelly 小姐！上面发上了什么？
+
+27
+00:37:36,901 --> 00:37:39,337
+Will someone tell me what's happening down here?!
+有没有谁能告诉我这里发生了什么？
+
+28
+00:37:39,501 --> 00:37:41,615
+Who are these people? Is T-Mat working?
+这些人是谁？T-Mat 能工作了吗？
+
+29
+00:37:41,781 --> 00:37:45,572
+Now, please, don't... Let us just one question at a time!
+好了, 停停, 别... 我们一个个问题来！
+
+30
+00:37:45,641 --> 00:37:48,075
+Doctor, do you know there's been an alien here?
+博士, 你知道这里出现了一个外星人吗？
+
+31
+00:37:48,141 --> 00:37:51,213
+- An Ice Warrior HERE?!
+- Jamie, I am not surprised.
+- 这里有了寒冰勇士？！  - Jamie, 我并不奇怪
+
+32
+00:37:51,381 --> 00:37:53,372
+They have taken over the whole Moonbase.
+他们已经完全占领了月球基地
+
+33
+00:37:53,541 --> 00:37:56,613
+- What about the crew?
+- All dead except Fewsham.
+- 组员都怎么样了？  - 除了 Fewsham, 都死了
+
+34
+00:37:56,781 --> 00:38:00,251
+- You left him there?
+- He said he'd follow using the time switch.
+- 你们把他丢在哪儿了？  - 他说他随后就来, 用延时器
+
+35
+00:38:00,421 --> 00:38:03,140
+He should be back.
+他会回来的
+
+36
+00:38:05,941 --> 00:38:07,532
+What's happening?
+什么情况？
+
+37
+00:38:07,601 --> 00:38:09,834
+I thought so! The time switch is still out of order.
+如我所料, 延时器仍然是坏的
+
+38
+00:38:09,501 --> 00:38:13,590
+- What? But he said he had repaired it.
+- He was lying.
+- 什么？但他说他修好了它  - 他在撒谎
+
+39
+00:38:13,961 --> 00:38:16,316
+- Why?  - Obviously he's working for them!
+- 为什么？  - 很显然, 他在为他们做事！
+
+40
+00:38:17,481 --> 00:38:19,472
+Then why did he let us escape?
+那他为什么又让我们逃走？
+
+41
+00:38:25,121 --> 00:38:28,511
+(HISSING, LABOURED BREATHING)
+
+42
+00:38:33,561 --> 00:38:37,440
+(HISSING, LABOURED BREATHING)
+
+43
+00:39:07,941 --> 00:39:09,373
+But don't you see, gentlmen? 
+你们没看出来吗, 先生们？
+
+43
+00:39:09,441 --> 00:39:13,273
+The invasion of Moonbase,
+the taking over of T-Mat, the seed pods,
+入侵月球基地, 占领 T-Mat, 还有这些种子
+
+44
+00:39:13,341 --> 00:39:16,050
+the arrival of the Ice Warrior,
+they're all part of the same plan.
+派遣寒冰勇士过来, 这些都是同一计划中的一部分
+
+45
+00:39:16,221 --> 00:39:17,700
+Plan? What plan?
+计划？什么计划？
+
+46
+00:39:17,861 --> 00:39:19,331
+These incidents seem unrelated.
+这些事件看起来都是不相关的
+
+46
+00:39:19,461 --> 00:39:21,631
+This fungus everywhere, what's that got to do with it?
+到处都有的泡沫, 跟这一切又有什么关系？
+
+47
+00:39:21,701 --> 00:39:24,454
+I'm not quite sure yet. Have your people
+been able to make anything of it?
+我也还不太确定．你们研究明白一点什么了没有？
+
+48
+00:39:24,821 --> 00:39:28,734
+It's indestructible. We've attacked it
+with every possible way, but without success.
+消灭不了它, 我们用尽了各种方法攻击它, 但都没有成效
+
+49
+00:39:28,901 --> 00:39:31,495
+Yes, but have you tried to UNDERSTAND it?
+是, 但你们有没有试过＂了解＂它？
+
+50
+00:39:31,661 --> 00:39:34,334
+You suggest we should psychoanalyse it, Doctor?
+你是说我们应该对它进行心里分析吗, 博士？
+
+51
+00:39:34,501 --> 00:39:38,779
+I'm merely suggesting that rather than destroy it,
+you should find out its composition and purpose.
+我只不过是说, 除了消灭它, 你们应该搞明白它的组成和目的
+
+52
+00:39:38,941 --> 00:39:41,751
+I have some laboratory equipment
+in my workshop. You could use that.
+我的工作室有一些实验设备, 你可以用
+
+53
+00:39:41,821 --> 00:39:44,614
+- Good. Then we need a sample.
+- No problem about that.
+- 很好, 然后我们需要一个样本  - 这没问题
+
+54
+00:39:44,681 --> 00:39:47,275
+- The gardens are full of the stuff.
+- Fine. The let no time to be lost.
+- 花园里面到处都是  - 好, 那就抓紧时间吧
+
+55
+00:39:47,365 --> 00:39:48,965
+I'll get some equipment for you.
+我去给你拿些设备
+
+56
+00:39:49,041 --> 00:39:52,850
+Doctor, do be careful. Those pod things are deadly.
+博士, 千万小心．那些夹子很致命的
+
+57
+00:39:52,921 --> 00:39:56,038
+Don't worry. I've already had experience. I'll be careful.
+别担心, 我已经有些经验了, 我会小心的
+
+58
+00:39:59,301 --> 00:40:02,657
+(DOCTOR) Yes... It's organic.
+嗯... 这是有机的
+
+59
+00:40:02,821 --> 00:40:04,812
+It's alive.
+是活的
+
+60
+00:40:04,981 --> 00:40:07,814
+It's definitely a fungus composition.
+这绝对是一种真菌组织
+
+61
+00:40:07,981 --> 00:40:11,615
+- Are you sure this is correct?
+- As far as I can make out, it is.
+- 你确定这是对的吗？  - 就我目前的理解, 是的
+
+62
+00:40:11,681 --> 00:40:15,276
+A molecule of five atoms...absorbs oxygen.
+由五个原子组成的一个分子...会吸收氧气
+
+63
+00:40:16,641 --> 00:40:18,438
+You know, a complete blanket of this
+你知道吗, 一大片这样的东西
+
+64
+00:40:18,601 --> 00:40:23,199
+would reduce the oxygen content
+of the Earth's atmosphere drastically.
+就会显著降低地球空气中的氧气浓度
+
+65
+00:40:23,261 --> 00:40:26,936
+According to my calculations,
+to one twentieth normal.
+根据我的计算, 会降到 5% 的水平
+
+66
+00:40:27,101 --> 00:40:30,299
+It would make the Earth's atmosphere
+uninhabitable to the human race,
+这会使得地球的大气不再适合人类居住
+
+67
+00:40:30,361 --> 00:40:33,680
+but exactly like the atmosphere of Mars!
+而是变得跟火星的大气一模一样！
+
+68
+00:40:34,041 --> 00:40:39,752
+Look at that. Even without vegetation
+to feed on, it's still active. Oh!
+看这个, 即使不蚕食植物, 它还是活着的．噢！
+
+69
+00:40:39,921 --> 00:40:42,879
+(ELDRED) If that thing explodes here,
+the fumes will kill us! Come on, Doctor!
+如果那个东西在这里爆炸, 那种烟会杀死我们的！快闪, 博士！
+
+70
+00:40:43,041 --> 00:40:45,714
+Just a minute. There must be some way of...
+等一下, 肯定有某种方法...
+
+71
+00:40:51,441 --> 00:40:54,831
+- (ELDRED) Come on!
+- (DOCTOR) Sulphuric acid!
+- 快点！  - 硫酸！
+
+72
+00:40:56,081 --> 00:40:58,356
+Hydrochloric acid!
+盐酸！
+
+73
+00:40:59,401 --> 00:41:01,312
+Acetic acid!
+乙酸！
+
+74
+00:41:11,201 --> 00:41:13,192
+(ELDRED) You've done it!
+你搞定了！
+
+75
+00:41:13,361 --> 00:41:16,034
+Well, what was it? What did you throw on it?
+哦, 那是什么？你倒了什么东西上去？
+
+76
+00:41:18,061 --> 00:41:21,451
+- You really think it would work?
+- Well It could be less effective than Moonbase, of course.
+- 你真的觉得这能行？  - 它可能没有月球基地那么有效, 这也是当然的
+
+77
+00:41:21,621 --> 00:41:24,419
+which handles up to two million microwave channels simultaneously,
+月球基地可以同时支持二百万的微波通道
+
+78
+00:41:24,581 --> 00:41:26,675
+the satellite would just take a few thousand.
+而卫星只能支持几千
+
+79
+00:41:26,841 --> 00:41:28,791
+That would be enough for vital food supplies.
+用来传送重要食物供应那也够了
+
+80
+00:41:28,861 --> 00:41:32,410
+But we can't use normal communications satellites.
+They are not programmed for T-Mat.
+但我们不能使用普通的通讯卫星啊, 它们不是为 T-Mat 准备的
+
+81
+00:41:32,581 --> 00:41:34,474
+No. We have to send up a specially programmed one.
+的确不是, 我们得单独发射一颗, 经过特殊编程的
+
+82
+00:41:34,540 --> 00:41:37,151
+That would mean using a rocket, wouldn't it?
+I thought no one use them nowadays.
+但那意味着要使用火箭, 对不对？我记得现在都没人使用了？
+
+83
+00:41:37,241 --> 00:41:40,814
+Not manned rockets, but we do send up satellites for communications.
+是没有载人火箭, 但我们还是会用它发射通讯卫星
+
+84
+00:41:40,981 --> 00:41:44,796
+- How soon can you get one up?
+- Well, I don't know. If we're given top priority...
+- 多久你们能搞一个上天？  - 嗯, 我不知道．如果我们被授予最高优先级...
+
+85
+00:41:44,821 --> 00:41:50,691
+(HISSING, LABOURED BREATHING)
+
+86
+00:41:51,261 --> 00:41:52,933
+There!
+那儿！
+
+87
+00:41:59,941 --> 00:42:02,091
+(FEWSHAM) What is it?
+什么东西？
+
+88
+00:42:02,261 --> 00:42:04,650
+A communications unit from our ship.
+一个通讯装置, 可以联系我们的飞船
+
+89
+00:42:06,541 --> 00:42:08,771
+Connect it to the solar batteries!
+把它连到太阳能电池上去
+
+90
+00:42:10,121 --> 00:42:13,033
+<i>(DOCTOR) Is Commander Radnor there, please?</i>
+Radnor 指挥官在, 请问？
+
+91
+00:42:13,201 --> 00:42:17,972
+- <i>Oh, Zoe, is Radnor there?</i>
+- He's in conference with Miss Kelly and Sir James Gregson.
+- 哦, Zoe, Radnor 在吗？  - 他正在跟 Kelly 小姐和 James 爵士开会
+
+92
+00:42:18,141 --> 00:42:21,358
+<i>Oh, I see. Zoe. There's the most wonderful news!</i>
+哦, 我知道了, Zoe．现在有一个非常好的消息！
+
+93
+00:42:21,521 --> 00:42:23,974
+<i>We've found a way of destroying the fungus!</i>
+我们找到了一种消灭泡沫的方法！
+
+94
+00:42:24,141 --> 00:42:26,909
+- Oh! What is it?
+- <i>Water! Ordinary water!</i>
+- 噢, 什么方法？  - 水！普通水！
+
+95
+00:42:27,081 --> 00:42:29,834
+- Oh, Doctor, surely...
+- <i>There's no time to explain now.</i>
+- 哦, 博士, 当然...  - 现在没有时间详细解释了
+
+96
+00:42:30,001 --> 00:42:33,398
+<i>Apparently, there is a Weather Control Bureau somewhere.</i>
+显然, 这里某个地方有一个气象控制局
+
+97
+00:42:33,561 --> 00:42:35,392
+<i>I want you to get in touch with them.</i>
+我期望你去联系一下他们
+
+98
+00:42:35,561 --> 00:42:37,975
+Can't you reach them on the video phone?
+你不能通过视频电话联系他们吗？
+
+99
+00:42:38,041 --> 00:42:40,917
+<i>No, I've tried. They are not answering,
+or it's broken down or something.</i>
+不能, 我试过了．他们没接, 或许是什么地方坏了
+
+100
+00:42:41,081 --> 00:42:43,952
+- What do you want me to do?
+- <i>Get hold of the Weather Control Bureau people</i>
+- 你期望我做什么  - 联系上气象控制局的人
+
+101
+00:42:44,021 --> 00:42:47,655
+<i>and to make rain, as much rain as possible</i>
+<i>over the entire country!</i>
+让他们造雨, 在全国范围内越多的雨越好！
+
+102
+00:42:52,481 --> 00:42:55,393
+- Well, where is everybody?
+- I don't know.
+- 咦, 人都哪儿去了  - 我不知道
+
+103
+00:42:55,561 --> 00:42:57,791
+Let's find the main control room. Come on.
+我们先找主控室吧, 快点
+
+104
+00:43:04,121 --> 00:43:07,238
+So that's why no one answered the video phone.
+怪不得没人接视频电话了
+
+105
+00:43:07,401 --> 00:43:09,392
+And look at that!
+快看那个！
+
+106
+00:43:12,541 --> 00:43:14,614
+No, it's no good. They're locked in position.
+不, 这没用, 他们的位置被锁死了
+
+107
+00:43:15,281 --> 00:43:20,777
+<i>Our fleet is approaching
+<i>the gravitational field of the moon.</i>
+我们的舰队已经接近月球的引力范围
+
+108
+00:43:20,791 --> 00:43:24,661
+- <i>Is all prepared?</i>
+- Everything is ready.
+- 都准备好了吗？  - 都准备好了
+
+109
+00:43:24,791 --> 00:43:28,989
+I shall guide our ships in on the homing beam signal.
+我将用指引信号引导我们的飞船过来
+
+110
+00:43:29,501 --> 00:43:32,254
+(BEEPING) What the devil's happening?
+都什么鬼？
+
+111
+00:43:32,421 --> 00:43:35,060
+I don't know... Yes, Moon Control!
+我不知道... 是了, 月球控制中心！
+
+112
+00:43:36,941 --> 00:43:38,977
+The sound, can you turn it up?
+那个声音, 你能调大一点吗？
+
+113
+00:43:41,061 --> 00:43:44,576
+<i>Shouldn't we test the directional beam?</i>
+我们不测试一下牵引光速吗？
+
+114
+00:43:44,741 --> 00:43:49,132
+<i>- It is not necessary!</i>
+<i>- But it's operating on Moonbase power.</i>
+- 这没有必要！  - 但它在耗用月球基地的能量
+
+115
+00:43:49,301 --> 00:43:51,511
+<i>I can't guarantee the pulsing rate will be the same.</i>
+我不能保证脉动率会是一样的
+
+116
+00:43:51,681 --> 00:43:54,556
+<i>Very well. Test it!</i>
+那好, 测试！
+
+117
+00:43:57,041 --> 00:43:59,032
+Commander Radnor, can this be recorded?
+Radnor 指挥官, 能把这录下来吗？
+
+118
+00:43:59,201 --> 00:44:01,192
+- Yes.  - Quickly! Manage it. It's vital!
+- 可以  - 快！安排一下, 这至关重要！
+
+119
+00:44:01,361 --> 00:44:04,194
+The transmission coming in on the video machine would be recorded.
+记录视频系统传送过来的信息
+
+120
+00:44:04,361 --> 00:44:08,354
+<i>(COMPUTER) Instruction Understood.</i>
+<i>Transmission will be recorded.</i>
+指令已经收到．信息将会被记录
+
+121
+00:44:08,521 --> 00:44:11,479
+<i>(TWO-TONE SIGNAL)</i>
+
+122
+00:44:11,641 --> 00:44:14,109
+<i>(ICE WARRIOR) The device is operating.</i>
+设备在运转了
+
+123
+00:44:14,281 --> 00:44:16,272
+<i>Wait a moment!</i>
+等一下！
+
+124
+00:44:16,441 --> 00:44:18,875
+Um...I must check the connections.
+唔...我必须坚持一下连接
+
+125
+00:44:19,041 --> 00:44:21,236
+(SIGNAL CONTINUES)
+
+126
+00:44:21,401 --> 00:44:25,713
+If the power fails, we won't be able
+to guide the fleet onto the moon.
+如果电源失效, 我们就无法引导舰队到月球上了
+
+127
+00:44:25,881 --> 00:44:27,872
+There must be no failures!
+那就必须没有失效！
+
+128
+00:44:28,041 --> 00:44:31,795
+I realise the importance of that.
+If we overshoot the moon,
+我明白这个的重要性．如果我们跑偏了
+
+129
+00:44:31,961 --> 00:44:36,591
+nothing will stop them from going
+straight into an orbit around the sun.
+他们就会直接进入太阳轨道, 没有什么能拦得住
+
+130
+00:44:36,761 --> 00:44:38,752
+They will not overshoot!
+他们不会跑偏！
+
+131
+00:44:38,921 --> 00:44:43,312
+Of course not, but since their fuel
+supplies are at a marginal level,
+当然不会, 但他们的燃料并不是太多
+
+132
+00:44:43,481 --> 00:44:47,918
+if anything did go wrong,
+they'd never be able to regain moon orbit.
+如果出现什么意外, 他们无法重新进入月球轨道
+
+133
+00:44:57,241 --> 00:44:59,630
+This video device is operating!
+这个视频设备在运转！
+
+134
+00:44:59,801 --> 00:45:02,554
+You have betrayed us!
+你背叛了我们！
+
+135
+00:45:02,721 --> 00:45:06,191
+- Every word has been heard on Earth!
+- Kill him!
+- 每句话都被地球人听到了  - 杀了他！
+
+136
+00:45:07,361 --> 00:45:10,353
+(TRILLING BUZZ)
+
+137
+00:45:16,641 --> 00:45:20,634
+(TRILLING BUZZ)
+
+138
+00:45:22,721 --> 00:45:25,613
+<i>(COMPUTER) Countdown in minus three minutes.</i>
+三分钟内开始倒计时
+
+139
+00:45:25,681 --> 00:45:30,072
+Cancel the launch! We can use that
+satellite to mislead the Martian fleet!
+取消发射！我们可以用那个火箭将火星舰队引开！
+
+140
+00:45:30,241 --> 00:45:34,972
+Don't you see? Poor Fewsham deliberately
+let us overhear their homing signal.
+你没明白吗？可怜的 Fewsham 有意让我们听到了他们的引导信号
+
+141
+00:45:35,141 --> 00:45:39,612
+We can imitate that signal
+with a homing device in the satellite!
+我们可以用一个引导装置模拟那个信号, 再把引导装置装进火箭里
+
+142
+00:45:39,861 --> 00:45:44,412
+Commander Radnor, top priority message
+to satellite launching site!
+我是指挥官 Radnor, 给火箭发射场发送最高优先级的消息！
+
+143
+00:45:44,581 --> 00:45:48,574
+- Cancel launch! Repeat, Cancel launch!
+- <i>(COMPUTER) Message understood.</i>
+- 取消发射！重复, 取消发射！  - 消息已收到
+
+144
+00:45:48,741 --> 00:45:50,951
+If we can deflect their armada, half our battle is won!
+如果我们能把他们的舰队引开, 这场仗我们就赢了一半了
+
+145
+00:45:51,081 --> 00:45:55,979
+- But still, that fungus stuff is everywhere.
+- We solved that one with H2O - water!
+- 但是, 那些泡沫还是到处都是  - 我们已经发现H2O可以解决那个问题 - 水！
+
+146
+00:45:56,141 --> 00:46:00,293
+Water? Well, all we need to do is to make it rain!
+水？那, 我们唯一要做的就是造雨！
+
