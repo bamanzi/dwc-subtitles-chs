@@ -1,0 +1,678 @@
+1
+00:46:02,218 --> 00:46:05,247
+It's hopeless, Doctor! 
+You'll never get that thing going again!
+
+2
+00:46:05,318 --> 00:46:08,476
+I'm not so sure, Jamie. After all, it's only the controls that are damaged.
+
+3
+00:46:08,638 --> 00:46:10,029
+The workings are all right.
+
+4
+00:46:10,198 --> 00:46:12,468
+If we can bypass the controls...
+
+5
+00:46:12,638 --> 00:46:16,790
+Have you got your knife on you?
+Lend it me, will you? Be careful.
+
+6
+00:46:16,958 --> 00:46:21,748
+Thank you. There we are.
+Now, what have we got here?
+
+7
+00:46:23,238 --> 00:46:26,275
+Ah, yes... Yes, yes.
+
+8
+00:46:26,438 --> 00:46:31,193
+Yes, well, it's just a question
+of sorting this lot out. That's all.
+
+9
+00:46:32,358 --> 00:46:36,146
+All is prepared, Grand Marshal.
+
+10
+00:46:40,398 --> 00:46:46,792
+I shall return to our ship
+to finalise invasion plans.
+
+11
+00:46:50,598 --> 00:46:56,393
+Right, now then, Zoe, let's see what happens when we try to connect these two together.
+
+12
+00:46:57,598 --> 00:47:00,158
+No, I don't think so somehow!
+
+13
+00:47:00,318 --> 00:47:02,309
+What about these two?
+
+14
+00:47:05,398 --> 00:47:10,233
+Ah! That's better! I think
+I've succeeded in re-establishing
+
+15
+00:47:10,398 --> 00:47:12,628
+one of these rain circuits, Jamie.
+
+16
+00:47:12,798 --> 00:47:14,789
+Well, it's not raining yet!
+
+17
+00:47:14,958 --> 00:47:18,492
+Oh, Jamie! Weather Control
+is a very difficult technology.
+
+18
+00:47:18,558 --> 00:47:20,147
+You can't expect immediate results.
+
+19
+00:47:20,218 --> 00:47:25,069
+- Are you sure you're getting it right?
+- Yeah, I hope so, Zoe. Just have to hope for the best. That's all.
+
+20
+00:47:25,138 --> 00:47:27,688
+I must get on as there's another little job I want to do.
+
+21
+00:47:33,478 --> 00:47:36,675
+We should have some nice heavy rain before long!
+
+22
+00:47:36,838 --> 00:47:39,272
+- Ah, there we are!
+- Yes, the satellite.
+
+23
+00:47:39,438 --> 00:47:41,394
+(ELDRED) Isn't that a beautiful sight!
+
+24
+00:47:42,798 --> 00:47:45,790
+- We've finished and installed the homing device. It's working perfectly.
+- Well done.
+
+25
+00:47:45,958 --> 00:47:49,011
+Doctor, I know we're sending up a false signal,
+
+26
+00:47:49,178 --> 00:47:52,250
+but aren't some of the Martian ships bound to follow the right one?
+
+27
+00:47:52,418 --> 00:47:55,476
+There isn't going to be a right one, there's going to be only ours, the wrong one,
+
+28
+00:47:55,538 --> 00:47:59,277
+and that's going to lead the entire Martian fleet
+into an orbit round the sun!
+
+29
+00:47:59,338 --> 00:48:02,228
+- What about Slaar's signal?
+- Obviously that has to be stopped.
+
+30
+00:48:02,348 --> 00:48:04,308
+- But how?
+- Well, as soon as that satellite is up
+
+31
+00:48:04,398 --> 00:48:07,747
+I shall T-Mat myself to the moon
+and destroy their homing device.
+
+32
+00:48:07,858 --> 00:48:09,870
+- They'll kill you on sight!
+- No, I don't think so.
+
+33
+00:48:09,998 --> 00:48:13,235
+I rigged up an interesting device here.
+
+34
+00:48:13,778 --> 00:48:16,246
+(TWO-TONE SIGNAL)
+
+35
+00:48:21,418 --> 00:48:24,535
+(KELLY) There it is. It's in orbit.
+
+36
+00:48:26,698 --> 00:48:29,273
+We're picking up the aliens'
+homing signal from the moon.
+
+37
+00:48:29,338 --> 00:48:31,752
+That means their invasion fleet is getting closer. There's no time to lose.
+
+38
+00:48:31,818 --> 00:48:36,512
+Are you quite clear? As soon as I have succeeded destroying their signal,
+
+39
+00:48:36,778 --> 00:48:38,688
+you must activate our signal in the satellite.
+
+40
+00:48:38,758 --> 00:48:40,713
+- We'll be ready.
+- Right, then I'll be off.
+
+41
+00:48:40,818 --> 00:48:44,967
+- Doctor, do be careful, won't you?
+- Don't worry, Zoe, I will.
+
+42
+00:48:45,138 --> 00:48:49,177
+- Are you ready, Miss Kelly?
+- Doctor, our control of T-Mat hasn't been tested!
+
+43
+00:48:49,338 --> 00:48:52,136
+Then now's the time to test it!
+
+44
+00:48:55,138 --> 00:48:58,687
+(TRILLING)
+
+45
+00:49:25,418 --> 00:49:28,490
+(HIGH-PITCHED BUZZING)
+
+46
+00:49:41,698 --> 00:49:44,690
+(TWO-TONE SIGNAL)
+
+47
+00:49:44,858 --> 00:49:47,418
+(SIGNAL GETS LOUDER)
+
+48
+00:49:47,578 --> 00:49:50,046
+(SIGNAL GETS QUIETER)
+
+49
+00:50:00,538 --> 00:50:04,577
+(HISSING, LABOURED BREATHING)
+
+50
+00:50:08,438 --> 00:50:10,429
+(SLAAR) No.
+
+51
+00:50:12,458 --> 00:50:14,449
+You...
+
+52
+00:50:14,618 --> 00:50:16,609
+..over there.
+
+53
+00:50:18,138 --> 00:50:21,130
+(HISSING, LABOURED BREATHING)
+
+54
+00:50:22,258 --> 00:50:24,374
+I ordered you to be destroyed!
+
+55
+00:50:24,538 --> 00:50:27,530
+Well, you weren't very successful, were you?
+
+56
+00:50:28,978 --> 00:50:30,809
+Destroy that weapon!
+
+57
+00:50:32,738 --> 00:50:34,729
+(TRILLING BUZZ)
+
+58
+00:50:34,898 --> 00:50:37,287
+What is your purpose in coming here?
+
+59
+00:50:37,458 --> 00:50:40,177
+You don't expect me to tell you that, do you?
+
+60
+00:50:41,698 --> 00:50:44,735
+(TWO-TONE BEEP)
+
+61
+00:50:44,898 --> 00:50:47,571
+The directional beam is still operative.
+
+62
+00:50:47,738 --> 00:50:51,526
+Yes. I'm afraid you were
+a little too quick for me.
+
+63
+00:50:51,698 --> 00:50:55,213
+(HISSING, LABOURED BREATHING)
+
+64
+00:50:55,378 --> 00:51:00,168
+Are you capable of operating
+the T-Mat mechanism?
+
+65
+00:51:00,338 --> 00:51:02,329
+Oh, no. I don't think I...
+
+66
+00:51:07,938 --> 00:51:10,816
+Well, yes, perhaps I could get the hang of it.
+
+67
+00:51:10,978 --> 00:51:16,257
+As long as you can be useful to us, you can live,
+
+68
+00:51:16,418 --> 00:51:20,297
+but this time, there will be no escape.
+
+69
+00:51:22,258 --> 00:51:28,367
+You will familiarise yourself
+with the T-Mat controls.
+
+70
+00:51:28,538 --> 00:51:30,529
+Oh, thank you very much!
+
+71
+00:51:31,778 --> 00:51:36,806
+You will not touch the controls
+until I give the order.
+
+72
+00:51:36,978 --> 00:51:39,766
+(TWO-TONE BEEP)
+
+73
+00:51:39,938 --> 00:51:43,931
+- (KELLY) It's operating perfectly!
+- Shoulf we wait till the Doctor got back?
+
+74
+00:51:44,098 --> 00:51:45,937
+The moon signal has disappeared, hasn't it?
+
+75
+00:51:46,048 --> 00:51:50,599
+That may be too atmospheric. As all we know they're transmitting as strongly as ever.
+
+76
+00:51:50,768 --> 00:51:52,759
+The moon signal was strong enough before the Doctor left.
+
+77
+00:51:52,928 --> 00:51:56,208
+- He must have succeeded.
+- Then why hasn't he come back?
+
+78
+00:51:56,258 --> 00:51:57,002
+(TWO-TONE BEEP)
+
+79
+00:51:57,188 --> 00:51:59,203
+When our Warriors arrive,
+
+80
+00:51:59,318 --> 00:52:02,927
+you will transmit them to Earth
+under my direction.
+
+81
+00:52:03,048 --> 00:52:06,518
+Yes. They haven't arrived yet.
+Something still might go wrong.
+
+82
+00:52:06,688 --> 00:52:10,645
+- Nothing can go wrong now!
+- There's many a slip between the cup and the lip.
+
+83
+00:52:10,728 --> 00:52:15,404
+If anything does go wrong,
+you will be the first to die.
+
+84
+00:52:18,888 --> 00:52:21,561
+(TWO-TONE BEEP)
+
+85
+00:52:22,228 --> 00:52:24,981
+Scan closer!
+
+86
+00:52:26,108 --> 00:52:30,659
+If they are going to divert,
+it should happen any moment now!
+
+87
+00:52:31,508 --> 00:52:33,339
+They're changing course!
+
+88
+00:52:35,988 --> 00:52:37,580
+I think you're right!
+
+89
+00:52:40,588 --> 00:52:43,944
+They're all following the satellite signal!
+
+90
+00:52:44,108 --> 00:52:48,021
+The Doctor must succeeded!
+He must turned off the Martians' signal.
+
+91
+00:52:48,188 --> 00:52:51,385
+What's happening up there, then?
+Why hasn't he come back?
+
+92
+00:52:51,548 --> 00:52:55,382
+Don't worry, Jamie. A squad of Security guards armed with flame throwers are on their way here now.
+
+93
+00:52:55,548 --> 00:52:58,858
+- As soon as they get here, we'll T-Mat them to the moon.
+- They'll be too late!
+
+94
+00:52:59,028 --> 00:53:02,862
+- You'll just have to be patient!
+- I'm sick of being patient!
+
+95
+00:53:04,428 --> 00:53:05,919
+(WHISPERS) Zoe.
+
+96
+00:53:06,288 --> 00:53:10,086
+- That T-Mat thing, do you know how it works?
+- - I think so. Why?
+
+97
+00:53:10,248 --> 00:53:13,479
+- Could you T-Mat me back to the moon?
+- Oh, no, Jamie, shouldn't you...
+
+98
+00:53:13,648 --> 00:53:16,199
+Look, Either the Doctor's all right, in which case we've no reason to worry
+
+99
+00:53:16,268 --> 00:53:18,657
+or he's in danger and he needs my help!
+
+100
+00:53:19,888 --> 00:53:21,844
+<i>You have failed us, Slaar!</i>
+
+101
+00:53:22,008 --> 00:53:24,238
+<i>We shall all die!</i>
+
+102
+00:53:24,408 --> 00:53:29,084
+<i>We're being pulled into the orbit of the sun!</i>
+
+103
+00:53:32,448 --> 00:53:34,757
+This is impossible!
+
+104
+00:53:34,928 --> 00:53:38,398
+The signal! There is no power!
+
+105
+00:53:38,568 --> 00:53:41,036
+(HISSING, LABOURED BREATHING)
+
+106
+00:53:41,208 --> 00:53:42,766
+You did this!
+
+107
+00:53:42,928 --> 00:53:48,127
+Yes. That signal has been going
+no further than this control room.
+
+108
+00:53:48,288 --> 00:53:50,756
+But they were receiving my signal!
+
+109
+00:53:50,928 --> 00:53:53,761
+Not your signal - ours.
+
+110
+00:53:53,928 --> 00:53:56,567
+You sent a signal...
+
+111
+00:53:56,728 --> 00:53:58,719
+..from Earth?
+
+112
+00:53:58,888 --> 00:54:00,401
+We sent up a satellite.
+
+113
+00:54:00,568 --> 00:54:03,958
+That signal has sent your fleet
+into a false orbit!
+
+114
+00:54:04,128 --> 00:54:08,041
+The heat of the sun will kill them!
+
+115
+00:54:08,208 --> 00:54:12,804
+You have destroyed our entire fleet!
+
+116
+00:54:12,968 --> 00:54:15,880
+You tried to destroy an entire world.
+
+117
+00:54:17,048 --> 00:54:20,199
+Earth will still die!
+
+118
+00:54:21,448 --> 00:54:26,602
+The fungus will take the oxygen
+from your atmosphere!
+
+119
+00:54:26,768 --> 00:54:29,157
+I'm afraid you've failed there, too.
+
+120
+00:54:29,328 --> 00:54:31,319
+We can destroy the fungus.
+
+121
+00:54:31,488 --> 00:54:35,561
+(HISSING, LABOURED BREATHING)
+
+122
+00:54:37,128 --> 00:54:39,517
+Kill him!
+
+123
+00:54:39,688 --> 00:54:41,485
+DOCTOR!
+
+124
+00:54:41,648 --> 00:54:43,639
+Jamie! Look out!
+
+125
+00:54:44,608 --> 00:54:47,281
+(TRILLING BUZZ)
+
+126
+00:54:56,088 --> 00:54:58,079
+Creag an tuire!
+
+127
+00:54:59,768 --> 00:55:01,804
+Jamie! The light terminal!
+
+128
+00:55:04,648 --> 00:55:06,639
+Well done, Jamie!
+
+129
+00:55:11,448 --> 00:55:14,724
+Oh, goodness me!
+Jamie, thank you very much!
+
+130
+00:55:14,888 --> 00:55:18,005
+Now then, we must T-Mat ourselves
+back to Earth.
+
+131
+00:55:18,168 --> 00:55:20,477
+(THUNDERCLAP)
+
+132
+00:55:23,688 --> 00:55:26,976
+<i>(COMPUTER) Widespread rainfall</i>
+<i>throughout the country.</i>
+
+133
+00:55:27,048 --> 00:55:31,166
+<i>Some flooding but none serious.</i>
+<i>Fungus rapidly disappearing.</i>
+
+134
+00:55:31,328 --> 00:55:35,116
+<i>Weather Control Bureau</i>
+<i>coming back into operation.</i>
+
+135
+00:55:35,288 --> 00:55:38,280
+<i>World food shortages partially relieved,</i>
+
+136
+00:55:38,448 --> 00:55:41,281
+<i>now T-Mats are becoming operational again.</i>
+
+137
+00:55:41,448 --> 00:55:46,739
+<i>Message to Commander Radnor from the Security Council</i>
+<i>of the United Nations -
+
+138
+00:55:46,808 --> 00:55:49,699
+- <i> Congratulations.</i>
+- All right. Just discontinue report.
+
+139
+00:55:49,868 --> 00:55:52,320
+So you DID know what you were doing
+at the Weather Control Bureau!
+
+140
+00:55:52,488 --> 00:55:53,967
+Zoe, of course I did.
+
+141
+00:55:54,128 --> 00:55:56,278
+Well, it took long enough to work!
+
+142
+00:55:56,448 --> 00:55:58,545
+Well, the rain seems dispose of the fungus well enough.
+
+143
+00:55:58,608 --> 00:56:01,684
+Now the next thing to do is to get T-Mat fully operational again.
+
+144
+00:56:01,748 --> 00:56:05,938
+Yes, when Moon Relay is repaired, 
+we must check over the equipment
+and build in safeguards.
+
+145
+00:56:06,008 --> 00:56:09,000
+From now on, T-Mat must be entirely controlled from Earth.
+
+146
+00:56:09,168 --> 00:56:12,080
+Oh, surely you've learned not to put all your eggs in one basket!
+
+147
+00:56:12,248 --> 00:56:14,204
+T-Mat itself is perfectly effective!
+
+148
+00:56:14,368 --> 00:56:18,202
+You need a secondary transportation system,
+a fleet of rockets on permanent stand by!
+
+149
+00:56:18,368 --> 00:56:22,156
+- There's no need to go to such lengths.
+- It's a question of common sense!
+
+150
+00:56:22,328 --> 00:56:25,125
+I'm sure the Doctor will agree with me! Doctor...
+
+151
+00:56:30,328 --> 00:56:33,282
+(JAMIE) You didn't have to make it
+rain as hard as all that!
+
+152
+00:56:33,348 --> 00:56:35,657
+Oh, Jamie, some of you is just never satisfied!
+
+153
+00:56:35,828 --> 00:56:40,280
+- What did you rush us back here for?
+- Oh, you know, questions and explanations are very difficult. Come on!
+
+154
+00:56:40,648 --> 00:56:42,611
+- Where are we going now?
+- It's no good asking him.
+
+155
+00:56:42,728 --> 00:56:44,922
+He's no more idea than the man in the moon!
+
+156
+00:56:45,188 --> 00:56:47,656
+I heard that, Jamie! Come on!
+
