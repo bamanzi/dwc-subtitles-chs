@@ -20,7 +20,7 @@ def check_duration(entry, last_entry):
     if delta < 1.0:
         print("%s:%s:HINT: Time span too short: %.2f seconds" % (filename, lineno, delta))
 
-        
+
 def check_span_overlay(entry, last_entry):
     if not last_entry:
         return
@@ -31,7 +31,7 @@ def check_span_overlay(entry, last_entry):
     filename = entry['filename']
     
     if last_t2 and t1 < last_t2:
-        print("%s:%s:ERROR: Overlapped time span with line %d" % (filename, lineno, last_t2[1]))
+        print("%s:%s:ERROR: Overlapped time span with line %d" % (filename, lineno, last_entry['lineno']))
 
 
 def check_line_length(entry, last_entry):
@@ -40,7 +40,6 @@ def check_line_length(entry, last_entry):
     filename = entry['filename']
 
     lineno = lineno0
-    non_ascii_line_count = 0
     for line in entry['dialog']:
         lineno += 1
 
@@ -48,10 +47,7 @@ def check_line_length(entry, last_entry):
         if not _is_ascii(line):
             if len_this>40:
                 print("%s:%s:HINT: Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
-                
-            if not line.startswith('<'):
-                non_ascii_line_count + 1
-                
+        
         else:
             if len_this>60:
                 print("%s:%s:HINT: Line too long: %d chars " % (filename, lineno, len_this))
@@ -61,13 +57,27 @@ def check_line_length(entry, last_entry):
                 #len_total = len_last + len_this
                 #if len_total<60 and (len_last<40 or len_this<40) and not line.startswith('-'):
                 #    print("%s:%s:HINT: Line too short: %d chars" % (filename, lineno, len_this))
-                
-                
+
+
+def check_non_ascii_lines(entry, last_entry):
+    lineno0 = entry['lineno']
+    filename = entry['filename']
+    if 'chs' not in filename:
+        return
+
+    non_ascii_line_count = 0
+    lineno = lineno0
+    
+    for line in entry['dialog']:
+        lineno += 1
+        if not _is_ascii(line) and not line.startswith('<'):
+            non_ascii_line_count += 1
+    
     if non_ascii_line_count>1:
         print("%s:%s:WARN: Too many non-ascii lines" % (filename, lineno0))
-    #if len(dialog)>2:
-    #    if not dialog[0].startswith('-') and not dialog[-1].startswith('<'):
-    #        print("%s:%s:WARN: Too many dialog lines" % (filename, lineno-2))
+    elif non_ascii_line_count==0:
+        import pdb; pdb.set_trace()
+        print("%s:%s:WARN: Translate missing" % (filename, lineno0))
 
     
 def check_separator(entry, last_entry):
@@ -89,7 +99,7 @@ def main(filename):
 
             if line.isdigit(): # new entry starting
 
-                if last_line!=None and len(last_line)>0: 
+                if last_line!=None and len(last_line)>0:
                     print("%s:%s:ERROR: No blank line before entry index id" % (filename, lineno))
 
                 else:
@@ -97,6 +107,7 @@ def main(filename):
                         checkers = [check_duration,
                                     check_span_overlay,
                                     check_line_length,
+                                    check_non_ascii_lines,
                                     check_separator,
                                     ]
                         for checker in checkers:
@@ -124,10 +135,10 @@ def main(filename):
                     entry['lineno']    = lineno
                 elif len(line)>0 and not line[0:2].isdigit(): # dialog line
                     entry['dialog'].append(line)
-                    
+             
             last_line = line
 
-            
+
 def _is_ascii(s):
     try:
         s.encode('cp1250')
