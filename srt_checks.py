@@ -5,13 +5,83 @@ import sys
 import logging
 from datetime import datetime
 
-def check_srt_file(filename):
+def check_duration(entry, last_entry):
+
+    t1 = entry['starttime']
+    t2 = entry['endtime']
+    lineno = entry['lineno']
+    filename = entry['filename']
+    
+    delta = (t2 - t1).total_seconds()
+    if delta < 0.0:
+        print("%s:%s:ERROR: Negative span: %.2f seconds" % (filename, lineno, delta))
+    if delta > 7.0:
+        print("%s:%s:HINT: Time span too long:  %.2f seconds" % (filename, lineno, delta))
+    if delta < 1.0:
+        print("%s:%s:HINT: Time span too short: %.2f seconds" % (filename, lineno, delta))
+
+        
+def check_span_overlay(entry, last_entry):
+    if not last_entry:
+        return
+    
+    last_t2 = last_entry['endtime']
+    t1 = entry['starttime']
+    lineno = entry['lineno']
+    filename = entry['filename']
+    
+    if last_t2 and t1 < last_t2:
+        print("%s:%s:ERROR: Overlapped time span with line %d" % (filename, lineno, last_t2[1]))
+
+
+def check_line_length(entry, last_entry):
+
+    lineno0 = entry['lineno']
+    filename = entry['filename']
+
+    lineno = lineno0
+    non_ascii_line_count = 0
+    for line in entry['dialog']:
+        lineno += 1
+
+        len_this = len(line)
+        if not _is_ascii(line):
+            if len_this>40:
+                print("%s:%s:HINT: Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
+                
+            if not line.startswith('<'):
+                non_ascii_line_count + 1
+                
+        else:
+            if len_this>60:
+                print("%s:%s:HINT: Line too long: %d chars " % (filename, lineno, len_this))
+
+                #len_last = len(last_line)
+                #len_this = len(line)
+                #len_total = len_last + len_this
+                #if len_total<60 and (len_last<40 or len_this<40) and not line.startswith('-'):
+                #    print("%s:%s:HINT: Line too short: %d chars" % (filename, lineno, len_this))
+                
+                
+    if non_ascii_line_count>1:
+        print("%s:%s:WARN: Too many non-ascii lines" % (filename, lineno0))
+    #if len(dialog)>2:
+    #    if not dialog[0].startswith('-') and not dialog[-1].startswith('<'):
+    #        print("%s:%s:WARN: Too many dialog lines" % (filename, lineno-2))
+
+    
+def check_separator(entry, last_entry):
+    pass
+    
+
+def main(filename):
     re_time = re.compile("([0-9:,]{10,12}) --> ([0-9:,]{10,12})")
     with open(filename) as fp:
         lineno = 0
-        last_t2 = None
+
         last_line = None
-        dialog = []
+        entry = None
+        last_entry = None
         
         for line in fp:
             lineno = lineno + 1
@@ -20,11 +90,20 @@ def check_srt_file(filename):
             if line.isdigit(): # new entry starting
 
                 if last_line!=None and len(last_line)>0: 
-                    print("%s:%s: No blank line before entry index id" % (filename, lineno))
-                if len(dialog)>2:
-                    if not dialog[0].startswith('-'):
-                        print("%s:%s: Too many dialog lines" % (filename, lineno-2))
-                dialog = []  # clear
+                    print("%s:%s:ERROR: No blank line before entry index id" % (filename, lineno))
+
+                else:
+                    if entry:
+                        checkers = [check_duration,
+                                    check_span_overlay,
+                                    check_line_length,
+                                    check_separator,
+                                    ]
+                        for checker in checkers:
+                            checker(entry, last_entry)
+
+                        last_entry = entry
+                    entry = {}
             else:
                 match = re_time.search(line)
                 if match:
@@ -37,38 +116,15 @@ def check_srt_file(filename):
                     except:
                         logging.error("Error parsing datetime from %s:%d" % (filename, lineno), exc_info=True)
                         sys.exit(1)
-                        
-                    delta = (t2 - t1).total_seconds()
-                    if delta < 0.0:
-                        print("%s:%s: Negative span: %.1f seconds" % (filename, lineno, delta))
-                    if delta > 6.0:
-                        print("%s:%s: Time span too long: %.1f seconds" % (filename, lineno, delta))
-                        
-                    if last_t2 and t1 < last_t2[0]:
-                        print("%s:%s: Overlapped time span with line %d" % (filename, lineno, last_t2[1]))
-                    last_t2 = (t2, lineno)
+                    entry = {}
+                    entry['starttime'] = t1
+                    entry['endtime']   = t2
+                    entry['filename']  = filename
+                    entry['dialog']    = []
+                    entry['lineno']    = lineno
                 elif len(line)>0 and not line[0:2].isdigit(): # dialog line
-                    dialog.append(line)
+                    entry['dialog'].append(line)
                     
-                    if len(last_line)>0 and not last_line[0:2].isdigit():
-                        len_last = len(last_line)
-                        len_this = len(line)
-                        len_total = len_last + len_this
-
-                        if not _is_ascii(line):
-                            if len_this>40:
-                                print("%s:%s: Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
-
-                            if not _is_ascii(last_line) and not last_line.startswith('<'):
-                                print("%s:%s: Two non-ascii lines" % (filename, lineno))
-                                
-                        else:    
-                            if len_this>75:
-                                print("%s:%s: Line too long: %d chars" % (filename, lineno, len_this))
-                        
-                            if len_total<60 and (len_last<25 or len_this<25) and not line.startswith('-'):
-                                print("%s:%s: Line too short: %d chars" % (filename, lineno, len_this))
-
             last_line = line
 
             
@@ -81,4 +137,4 @@ def _is_ascii(s):
 
 if __name__=="__main__":
     for f in sys.argv[1:]:
-        check_srt_file(f)
+        main(f)
