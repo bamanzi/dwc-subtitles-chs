@@ -46,7 +46,7 @@ Your Cybermen friends may have a chance of life, but not you, sailor!
 10
 00:01:04,347 --> 00:01:06,863
 Nor that old man. Now go get him up here.
-这老头子也没机会。把他扶起来吧。
+这老头子也没机会．把他扶起来吧
 
 11
 00:01:06,911 --> 00:01:07,687
@@ -72,7 +72,7 @@ Doctor, you alright?
 00:01:13,016 --> 00:01:17,945
 Yes, yes, yes... Your plan is foiled, sir. 
 You cannot fire the rocket!
-没事没事...你的计划被挫败了，先生。你不能发射火箭！
+没事没事...你的计划被挫败了，先生．你不能发射火箭！
 
 16
 00:01:18,590 --> 00:01:21,796
@@ -97,33 +97,33 @@ Dyson, 接通宙斯５号！
 20
 00:01:25,438 --> 00:01:26,770
 What's happened to you, Doctor?
-你怎么了, 博士？
+你怎么了，博士？
 
 21
 00:01:26,943 --> 00:01:30,866
 I'm not sure, my dear. Comes from an outside influence.
-我也不太确定, 亲爱的．是外界来的影响
+我也不太确定，亲爱的．是外界来的影响
 
 22
 00:01:30,943 --> 00:01:33,636
 Unless this old body of mine is wearing a bit thin.
-除非我这旧身体换上一身新皮
+除非是我这把老骨头有点撑不住了
 
 23
 00:01:33,720 --> 00:01:35,130
 What do you mean "wearing a bit thin"?
-什么意思？“换上一身新皮”？
+什么意思？“撑不住了”？
 
 24
 00:01:35,286 --> 00:01:39,721
 Oh, don't worry child, don't worry, don't worry... 
 Oh, let's have a look, dear boy, eh?...
-喔, 别担心孩子, 别担心, 别担心...喔, 让我们看看, 乖孩子, 嗯？...
+喔，别担心孩子，别担心，别担心...喔，让我们看看，乖孩子，嗯？...
 
 25
 00:01:40,944 --> 00:01:46,786
 Barclay... that rocket was sabotaged with your help. 
-Barclay... 火箭被破坏了, 都是你在暗中帮忙吧．
+Barclay... 火箭被破坏了，都是你在暗中帮忙吧
 
 26
 00:01:46,844 --> 00:01:49,986
@@ -133,12 +133,12 @@ Now you're gonna get it off the ground again.
 27
 00:01:50,144 --> 00:01:53,986
 I'm gonna give you one more chance or you're gonna get killed with them.
-我再给你一次机会, 否则你就跟他们一块儿死．
+我再给你一次机会，否则你就跟他们一块儿死
 
 28
 00:01:54,125 --> 00:01:56,684
 I can't fire this rocket, and neither can you.
-我不能发射这枚火箭, 你也不能．
+我不能发射这枚火箭，你也不能
 
 29
 00:01:56,900 --> 00:01:58,271
@@ -153,7 +153,7 @@ Long enough!
 31
 00:01:59,578 --> 00:02:03,993
 Alright, if that's the way you want to play it...Get up.
-好吧, 既然你想这么玩...起来
+好吧，既然你想这么玩...起来
 
 32
 00:02:04,578 --> 00:02:09,093
@@ -163,7 +163,7 @@ Get up! Get over there!
 33
 00:02:09,429 --> 00:02:11,783
 I'm getting a signal, sir. From Lieutenant Cutler, sir.
-收到一个信号, 先生． 来自Cutler中尉
+收到一个信号，先生． 来自Cutler中尉
 
 34
 00:02:12,165 --> 00:02:15,697
@@ -233,7 +233,7 @@ Come on, man! Come on, Dyson, get that signal!
 47
 00:02:48,852 --> 00:02:50,808
 Sir, Cyberman ship on descent now!
-先生, 赛博人的飞船在降落了！
+先生，赛博人的飞船在降落了！
 
 48
 00:02:51,489 --> 00:02:53,913
@@ -250,32 +250,32 @@ General!
 00:02:55,395 --> 00:03:06,453
 The enemy! The enemy!
 I'll tell you who the enemy is. You are the enemy!
-敌人！ 敌人！ 我告诉你谁是敌人, 你就是敌人！
+敌人！ 敌人！ 我告诉你谁是敌人，你就是敌人！
 
 51
 00:03:06,707 --> 00:03:08,564
 The Cybermen sir, they must have landed!
-赛博人, 他们一定已经着陆了！
+赛博人，他们一定已经着陆了！
 
 52
 00:03:08,798 --> 00:03:11,751
 You... you... you... you killed my son.
-你...你...你...你杀死了我儿子．
+你...你...你...你杀死了我儿子
 
 53
 00:03:11,957 --> 00:03:13,356
 But sir, they've landed!
-但是先生, 他们已经着陆了！
+但是先生，他们已经着陆了！
 
 54
 00:03:13,573 --> 00:03:18,859
 My son! The only person I gave a care about in this whole world, and you killed him.
-我的儿子！ 在这个世界上我唯一在乎的人, 你杀了他
+我的儿子！ 在这个世界上我唯一在乎的人，你杀了他
 
 55
 00:03:18,973 --> 00:03:23,959
 So now I'm going to kill you... and I'll start on you, Doctor!
-所以我要杀了你们...就从你开始, 博士！
+所以我要杀了你们...就从你开始，博士！
 
 56
 00:03:34,164 --> 00:03:41,957
@@ -286,7 +286,7 @@ Silence. Anyone who moves will be killed instantly.
 00:03:45,191 --> 00:03:48,872
 We owe you our lives. 
 That man was going to have us shot.
-我们的命都是你们救的啊, 这个人正要枪杀我们．
+我们的命都是你们救的啊，这个人正要枪杀我们
 
 58
 00:03:49,199 --> 00:03:51,719
@@ -297,23 +297,23 @@ Go with the others down there.
 00:03:56,735 --> 00:03:59,572
 There's gratitude for yer! 
 We save their grotty planet Mondas for what?
-你们得知道感恩啊！ 我们救了你们可怜的Mondas星球, 得到了什么？
+你们得知道感恩啊！ 我们救了你们可怜的Mondas星球，得到了什么？
 
 60
 00:03:59,937 --> 00:04:06,864
 Saved Mondas? We do not believe you. 
 We have seen a rocket missile aimed at Mondas.
-救了 Mondas? 我们不相信你, 只看见了一枚火箭导弹瞄准了 Mondas
+救了 Mondas? 我们不相信你，只看见了一枚火箭导弹瞄准了 Mondas
 
 61
 00:04:07,127 --> 00:04:11,370
 That is so. We prevented it being fired at you. We helped you.
-的确是, 不过我们阻止了发射, 我们帮助了你们
+的确是，不过我们阻止了发射，我们帮助了你们
 
 62
 00:04:11,427 --> 00:04:15,070
 Therefore, I suggest you help us.
-所以, 我建议你们也帮助我们
+所以，我建议你们也帮助我们
 
 63
 00:04:15,303 --> 00:04:16,783
@@ -334,13 +334,13 @@ We know why you came here.
 66
 00:04:26,224 --> 00:04:29,363
 So why not stay and live with us in peace, hmm?
-所以为什么不坐下来, 与我们和平相处呢, 嗯？
+所以为什么不坐下来，与我们和平相处呢，嗯？
 
 67
 00:04:30,669 --> 00:04:37,936
 We will confer. Keep your places. 
 Anyone who moves will be killed instantly.
-我们讨论一下, 你们呆着别动．谁动就格杀勿论．
+我们讨论一下，你们呆着别动．谁动就格杀勿论
 
 68
 00:04:40,116 --> 00:04:41,079
@@ -350,7 +350,7 @@ Can we trust them?
 69
 00:04:41,232 --> 00:04:42,728
 - No, of course we can't. - We have no chance.
-- 不, 当然不能  - 我们没有机会
+- 不，当然不能  - 我们没有机会
 
 70
 00:04:42,774 --> 00:04:45,117
@@ -360,7 +360,7 @@ We must play for time. Be quiet!
 71
 00:04:45,543 --> 00:04:47,845
 Well sir, what have you decided?
-好了先生, 你们的决定是什么？
+好了先生，你们的决定是什么？
 
 72
 00:04:48,291 --> 00:04:54,738
@@ -371,7 +371,7 @@ It must be disarmed first.
 73
 00:04:54,968 --> 00:04:56,156
 A moment, please.
-请等一下．
+请等一下
 
 74
 00:04:56,505 --> 00:04:58,952
@@ -382,19 +382,19 @@ Are you able to disarm this rocket?
 00:04:59,043 --> 00:05:01,106
 - Well, yes. But...
 - It will give us the time we need!
-- 哦, 可以。不过...  - 这可以帮我们争取我们所需要的时间
+- 哦，可以．不过...  - 这可以帮我们争取我们所需要的时间
 
 76
 00:05:01,159 --> 00:05:03,990
 - The time for Mondas to burn itself out, you mean?
 - Yes, now quiet!
-- 好让 Mondas 自己烧毁, 是这意思吗？  - 是的，安静
+- 好让 Mondas 自己烧毁，是这意思吗？  - 是的，安静
 
 77
 00:05:04,419 --> 00:05:08,917
 We accept your terms. 
 The warhead will be removed from the rocket.
-我们接受你们的条件, 弹头将会从火箭上拆卸下来
+我们接受你们的条件，弹头将会从火箭上拆卸下来
 
 78
 00:05:09,313 --> 00:05:12,976
@@ -405,22 +405,22 @@ It must be removed to below ground level.
 00:05:13,188 --> 00:05:15,371
 Well, there's the Radiation Room.
 It's the deepest in the base.
-这样, 有个辐射室, 是这个基地最深的地方．
+这样，有个辐射室，是这个基地最深的地方
 
 80
 00:05:15,460 --> 00:05:22,488
 That will do. And to make sure you do this, we will take two hostages.
-那倒可以．为了确保你们能做到, 我们将扣留两人做人质
+那倒可以．为了确保你们能做到，我们将扣留两人做人质
 
 81
 00:05:22,572 --> 00:05:25,303
 That girl will go to the spacecraft.
-那个女孩儿, 到我们的飞船去
+那个女孩儿，到我们的飞船去
 
 82
 00:05:25,747 --> 00:05:31,115
 You will stay here with us. You three must go to the rocket.
-你, 跟我们待在这里．你们三个去拆火箭
+你，跟我们待在这里．你们三个去拆火箭
 
 83
 00:05:32,592 --> 00:05:34,089
@@ -430,7 +430,7 @@ You must do as they say.
 84
 00:05:34,208 --> 00:05:35,938
 Look, if you want a hostage, what about me?
-这样, 如果你们想要一个人质, 我怎么样？
+这样，如果你们想要一个人质，我怎么样？
 
 85
 00:05:36,058 --> 00:05:38,772
@@ -441,12 +441,12 @@ You are needed to help with the warhead.
 00:05:38,803 --> 00:05:41,838
 - Now look here, you're not taking Polly!
 - Let me handle this, my boy!
-- 听我说, 你们不能带走 Polly！  - 这个事情我来处理, 孩子！
+- 听我说，你们不能带走 Polly！  - 这个事情我来处理，孩子！
 
 87
 00:05:42,013 --> 00:05:42,597
 But Doctor...
-但是博士．．．
+但是博士...
 
 88
 00:05:42,769 --> 00:05:44,273
@@ -456,17 +456,17 @@ All of you - go with Barclay.
 89
 00:05:44,451 --> 00:05:45,496
 But Doctor, I do think that...
-但是博士, 我的确认为...
+但是博士，我的确认为...
 
 90
 00:05:45,671 --> 00:05:48,102
 Go. I think it is wiser.
-走吧, 我觉得这样明智一点．
+走吧，我觉得这样明智一点
 
 91
 00:05:48,675 --> 00:05:50,271
 Very well. Come on Dyson.
-好吧, Dyson 过来
+好吧，Dyson 过来
 
 92
 00:05:53,092 --> 00:05:57,489
@@ -481,12 +481,12 @@ You give me your word that this young girl will be returned to me...
 94
 00:06:02,717 --> 00:06:07,396
 Very well, child, off you go. And don't forget your coat, I don't want you to get cold!
-很好, 孩子, 你去吧．别忘了带上你的外套, 我可不想你感冒了！
+很好，孩子，你去吧．别忘了带上你的外套，我可不想你感冒了！
 
 95
 00:06:16,934 --> 00:06:18,675
 Ow! What are you going to do with me now? 
-嗷, 现在你们要拿我怎么样？
+嗷，现在你们要拿我怎么样？
 
 96
 00:06:19,734 --> 00:06:22,775
@@ -496,12 +496,12 @@ What kind of chair is that? It's horrible!
 97
 00:06:22,980 --> 00:06:25,975
 Look, keep back! Keep away from me!
-听着，退后, 离我远点！
+听着，退后，离我远点！
 
 98
 00:06:48,870 --> 00:06:51,941
 Geneva calling South Polar base. Geneva to South Pole.
-日内瓦呼叫南极基地, 日内瓦呼叫南极基地,
+日内瓦呼叫南极基地，日内瓦呼叫南极基地
 
 99
 00:06:53,492 --> 00:06:54,282
@@ -512,17 +512,17 @@ Didn't you hear?
 00:06:54,552 --> 00:06:58,973
 Geneva calling South Polar base. Geneva to South Pole. 
 Geneva to South Pole. Geneva to South Pole.
-日内瓦呼叫南极基地, 日内瓦呼叫南极基地, 日内瓦呼叫南极基地, 
+日内瓦呼叫南极基地，日内瓦呼叫南极基地，日内瓦呼叫南极基地
 
 101
 00:06:59,248 --> 00:07:00,219
 Hello Geneva, Geneva...
-你好, 日内瓦, 日内瓦．．．
+你好，日内瓦，日内瓦...
 
 102
 00:07:00,422 --> 00:07:02,353
 Secretary Wigner to speak with General Cutler.
-秘书 Wigner 要跟 Cutler将军说话．
+秘书 Wigner 要跟 Cutler将军说话
 
 103
 00:07:02,586 --> 00:07:06,192
@@ -542,7 +542,7 @@ Who is that speaking?
 106
 00:07:12,017 --> 00:07:13,625
 I have no time to discuss it now, sir.
-我没有时间讨论这个, 先生
+我没有时间讨论这个，先生
 
 107
 00:07:14,215 --> 00:07:19,206
@@ -552,7 +552,7 @@ Tell General Cutler there have been mass landings of Cybermen in many parts of t
 108
 00:07:19,522 --> 00:07:25,005
 I am now Controller of the Earth. Resist us and you die.
-我现在是地球的控制者, 抵抗我们你们就会死
+我现在是地球的控制者，抵抗我们你们就会死
 
 109
 00:07:25,733 --> 00:07:30,347
@@ -567,17 +567,17 @@ We are proceeding according to plan.
 111
 00:07:34,403 --> 00:07:41,635
 Report to me as soon as you are ready. We must have time to evacuate.
-你们准备好了就来报告, 我们需要时间疏散
+你们准备好了就来报告，我们需要时间疏散
 
 112
 00:07:42,795 --> 00:07:50,523
 Unit Delta plus calling. Unit Delta plus calling. Unit Delta plus calling.
-Ｄ小组呼叫, Ｄ小组呼叫, Ｄ小组呼叫
+Ｄ小组呼叫，Ｄ小组呼叫，Ｄ小组呼叫
 
 113
 00:07:50,656 --> 00:07:53,112
 I do not understand your friend, sir.
-先生, 我搞不懂你的朋友了
+先生，我搞不懂你的朋友了
 
 114
 00:07:53,212 --> 00:07:57,412
@@ -592,7 +592,7 @@ We will not discuss our plans with you.
 116
 00:08:00,599 --> 00:08:04,761
 What is your second objective? It's quite obvious, isn't it? 
-你们的第二目标是什么？昭然若揭了, 对不对
+你们的第二目标是什么？昭然若揭了，对不对
 
 117
 00:08:04,823 --> 00:08:07,156
@@ -617,27 +617,27 @@ Did you all hear that?
 121
 00:08:16,627 --> 00:08:21,190
 Of course, it all makes sense now! We've allowed ourselves to be fooled by them!
-当然, 这样说来就对头了．我们被他们将计就计地骗了！
+当然，这样说来就对头了．我们被他们将计就计地骗了！
 
 122
 00:08:21,280 --> 00:08:25,931
 We've just set them up nicely. Cutler was right, wasn't he? We should have used the bomb on them.
-我们刚把这些装好。Cutler是对的, 是吧？我们之前应该对他们用这个炸弹的
+我们刚把这些装好．Cutler是对的，是吧？我们之前应该对他们用这个炸弹的
 
 123
 00:08:26,125 --> 00:08:28,325
 No, that might quite easily have led to something far worse.
-不, 那样更容易让事情变得更糟
+不，那样更容易让事情变得更糟
 
 124
 00:08:28,610 --> 00:08:34,037
 Worse? We're just about to be blown to bits along with the entire population of the Earth, and you talk about something worse?
-更糟？ 我们刚刚差点被炸成粉末, 全地球的人一起完蛋, 还能怎么更糟？
+更糟？ 我们刚刚差点被炸成粉末，全地球的人一起完蛋，还能怎么更糟？
 
 125
 00:08:34,122 --> 00:08:36,876
 Give over, mate! What he means is, while there's life there's still hope.
-停止吧, 伙计！他的意思是, 留得青山在, 不怕没柴烧
+停止吧，伙计！他的意思是，留得青山在，不怕没柴烧
 
 126
 00:08:37,101 --> 00:08:39,704
@@ -652,12 +652,12 @@ Check progress on the bomb.
 128
 00:08:41,432 --> 00:08:44,609
 Quick! All look busy! Bring in number two line!
-快, 都假装很忙！把二号线带过来
+快，都假装很忙！把二号线带过来
 
 129
 00:08:46,612 --> 00:08:52,019
 'Alf a mo'. The Doctor told us to play for time, right? And I've got an idea.
-'Alf a mo'(?) 博士说过让我们要拖延时间, 对吧？我刚有个主意
+'Alf a mo'(?) 博士说过让我们要拖延时间，对吧？我刚有个主意
 
 130
 00:08:52,238 --> 00:08:53,860
@@ -677,7 +677,7 @@ Go on.
 133
 00:08:57,752 --> 00:08:59,471
 Well, any idea how strong these Cybermen are?
-是这样, 你们知道这些赛博人很强壮吧？
+是这样，你们知道这些赛博人很强壮吧？
 
 134
 00:08:59,674 --> 00:09:00,545
@@ -687,17 +687,17 @@ A rough idea.
 135
 00:09:00,726 --> 00:09:03,170
 Yeah, well they could lift a man like he was... well, like he was a wrench, right?
-是, 他们可以像拿起一个...扳手一样举起一个人, 对不?
+是，他们可以像拿起一个...扳手一样举起一个人，对不?
 
 136
 00:09:03,357 --> 00:09:04,023
 Yes, well?
-是, 那又怎样？
+是，那又怎样？
 
 137
 00:09:04,207 --> 00:09:06,941
 Well they're also pretty advanced geezers, way ahead of us.
-而且他们比我们先进, 远超我们
+而且他们比我们先进，远超我们
 
 138
 00:09:08,342 --> 00:09:09,671
@@ -707,7 +707,7 @@ What has this got to do with it?
 139
 00:09:09,756 --> 00:09:12,027
 Well, that just it. With all this, why should they need us? 
-这就是了, 既然这样, 他们为什么需要我们？
+这就是了，既然这样，他们为什么需要我们？
 
 140
 00:09:12,120 --> 00:09:16,324
@@ -718,34 +718,34 @@ Well, they could shift that bomb in half the time! So why get us to do it?
 00:09:17,327 --> 00:09:23,327
 Also, you'll notice they remain outside this door,
 looking at us all the time through the door. Well why?
-还有, 注意到没有, 他们始终待在门外, 通过门盯着我们干活．为什么？
+还有，注意到没有，他们始终待在门外，通过门盯着我们干活．为什么？
 
 142
 00:09:23,763 --> 00:09:25,199
 This is just a waste of time.
-这简直就是浪费时间啊．
+这简直就是浪费时间啊
 
 143
 00:09:25,414 --> 00:09:29,926
 Now wait a minute, I think I see what he's driving at. 
 They use us because they daren't handle it themselves.
-等等, 我想我明白他想要说什么了, 他们要我们来干是因为他们自己干不了
+等等，我想我明白他想要说什么了，他们要我们来干是因为他们自己干不了
 
 144
 00:09:30,104 --> 00:09:31,987
 Yeah, but the point is, why? Well you're the scientists.
-对, 关键问题是, 为什么？你们是科学家啊
+对，关键问题是，为什么？你们是科学家啊
 
 145
 00:09:32,236 --> 00:09:36,933
 Don't you see, Dyson? It could that they're afraid of radioactivity.
-你没看出来吗, Dyson? 很可能是他们害怕放射线
+你没看出来吗，Dyson? 很可能是他们害怕放射线
 
 146
 00:09:37,528 --> 00:09:42,100
 Let's get this one inside and see what it does to him. 
 Now look... all lie down on the floor... play dead.
-我们把这家伙搞进来, 试一试就知道．来, 全躺地板上...装死
+我们把这家伙搞进来，试一试就知道．来，全躺地板上...装死
 
 147
 00:09:42,343 --> 00:09:43,726
@@ -755,12 +755,12 @@ This is ridiculous... games.
 148
 00:09:43,945 --> 00:09:46,269
 Well may be, but it's worth giving it a try. Come on, lie down.
-可能是, 但值得博一吧．来吧, 躺下
+可能是，但值得博一吧．来吧，躺下
 
 149
 00:09:48,569 --> 00:09:53,041
 Help! Help! Come in here, mate, there's something up! Help!
-救命！救命！进来一下, 朋友, 这里有事发生！救命
+救命！救命！进来一下，朋友，这里有事发生！救命
 
 150
 00:09:57,825 --> 00:09:58,874
@@ -780,13 +780,13 @@ To where? We're okay right where we are.
 153
 00:10:05,035 --> 00:10:07,528
 And they can't set off this bomb while we defend this room!
-而且他们也没法引爆这个炸弹, 只要我们在这个房间守住了！
+而且他们也没法引爆这个炸弹，只要我们在这个房间守住了！
 
 154
 00:10:07,706 --> 00:10:11,460
 Right! So all we've go to do is sit tight 
 until Mondas breaks up like the Doctor said!
-对！我们现在要做的就是好好坐着, 等着 Mondas 像博士说的那样解体掉！
+对！我们现在要做的就是好好坐着，等着 Mondas 像博士说的那样解体掉！
 
 155
 00:10:11,506 --> 00:10:15,960
@@ -796,12 +796,12 @@ Well, we've got them! But they've still got the Doctor and Polly.
 156
 00:10:16,579 --> 00:10:20,791
 Well gentlemen, stalemate I think, don't you agree? 
-好了, 绅士们, 我觉得陷入僵局了, 你们同意吗？
+好了，绅士们，我觉得陷入僵局了，你们同意吗？
 
 157
 00:10:20,823 --> 00:10:23,033
 Well now, what about a little talk, hmm?
-现在我们谈一谈吧, 嗯？
+现在我们谈一谈吧，嗯？
 
 158
 00:10:23,239 --> 00:10:29,048
@@ -811,29 +811,29 @@ You forget we can do what we like with all of you and the girl.
 159
 00:10:29,358 --> 00:10:33,344
 Oh, quite so, but I'm afraid that won't help save your planet.
-噢, 的确是, 但恐怕我不能帮忙拯救你们的星球了
+噢，的确是，但恐怕我不能帮忙拯救你们的星球了
 
 160
 00:10:38,888 --> 00:10:43,798
 Listen to me. This close proximity of our two planets...
-听我说, 我们两个星球靠得太近
+听我说，我们两个星球靠得太近
 
 161
 00:10:43,888 --> 00:10:47,298
 ...means that one has to be eliminated for the safety of the other.
-这意味着要保障其中一个的安全, 就得毁灭另外一个
+这意味着要保障其中一个的安全，就得毁灭另外一个
 
 162
 00:10:48,298 --> 00:10:56,298
 The one to be destroyed will be Earth. 
 We cannot allow Mondas to burn up.
-将被毁灭的是地球, 我们不可能让 Mondas 烧毁
+将被毁灭的是地球，我们不可能让 Mondas 烧毁
 
 163
 00:10:57,470 --> 00:11:03,503
 If you help, we will take you all back to Mondas with us. 
 There you will be safe.
-如果你帮忙, 我们可以把你们全带回 Mondas, 你们将是安全的
+如果你帮忙，我们可以把你们全带回 Mondas, 你们将是安全的
 
 164
 00:11:03,786 --> 00:11:05,125
@@ -848,13 +848,13 @@ It could be our only chance.
 166
 00:11:06,817 --> 00:11:10,740
 The answer is no! We'll just sit tight here until Mondas breaks up.
-答案是不！我们只坐在这里, 等着 Mondas 解体
+答案是不！我们只坐在这里，等着 Mondas 解体
 
 167
 00:11:10,817 --> 00:11:13,340
 Now then, you'd better release the Doctor and Polly
 and send them down here.
-现在, 你们最好还是释放博士和 Polly, 把他们送下来．
+现在，你们最好还是释放博士和 Polly, 把他们送下来
 
 168
 00:11:13,417 --> 00:11:15,240
@@ -879,12 +879,12 @@ You will regret this.
 172
 00:11:24,683 --> 00:11:29,644
 Now we give you three minutes to start fusing the warhead.
-现在我们给你们三分钟时间, 解除弹头
+现在我们给你们三分钟时间，解除弹头
 
 173
 00:11:29,783 --> 00:11:34,144
 If you fail, you will never see your friends again.
-如果你们失败了, 你们就再也见不到你们的朋友了
+如果你们失败了，你们就再也见不到你们的朋友了
 
 174
 00:11:35,143 --> 00:11:36,743
@@ -899,13 +899,13 @@ This is hopeless... we must do as they say!
 176
 00:11:38,820 --> 00:11:40,638
 - Well, it could be a bluff. - Yeah, how do we find out?
-- 但也可能是在咋呼  - 嗯, 我们怎么能知道呢？
+- 但也可能是在咋呼  - 嗯，我们怎么能知道呢？
 
 177
 00:11:40,741 --> 00:11:44,979
 We must stick to our plan and sit tight. 
 There are millions of lives at stake.
-我们必须沿着原计划来, 坚持不动．毕竟有数百万人命在旦夕啊．
+我们必须沿着原计划来，坚持不动．毕竟有数百万人命在旦夕啊
 
 178
 00:11:45,196 --> 00:11:47,329
@@ -922,7 +922,7 @@ Now we can't communicate with them.
 00:11:54,197 --> 00:11:57,467
 No, and they can't spy on us either. 
 Now this is what I think we should do.
-没法了, 不过他们也不能监视我们了． 这就是我觉得我们该干的
+没法了，不过他们也不能监视我们了． 这就是我觉得我们该干的
 
 181
 00:12:06,678 --> 00:12:08,304
@@ -932,18 +932,18 @@ Doctor... Doctor?
 182
 00:12:09,275 --> 00:12:10,679
 Hmm... What is it, child?
-唔...怎么了, 孩子？
+唔...怎么了，孩子？
 
 183
 00:12:11,019 --> 00:12:14,920
 Engines! They're not going to take off, are they?
-引擎！他们不打算起飞, 是吧？
+引擎！他们不打算起飞，是吧？
 
 184
 00:12:15,809 --> 00:12:23,594
 No, no. Wait! The vibrations. 
 Perhaps it's coming from Mondas!
-不, 不． 等等！ 这个振动, 也许是来自 Mondas!
+不，不． 等等！ 这个振动，也许是来自 Mondas!
 
 185
 00:12:24,033 --> 00:12:25,606
@@ -954,22 +954,22 @@ Mondas? 什么意思？
 00:12:25,845 --> 00:12:32,264
 This spacecraft receives its energy from Mondas. 
 Perhaps it's absorbing too much.
-这艘飞船是从 Mondas 接收能量的, 可能它吸收得太多了
+这艘飞船是从 Mondas 接收能量的，可能它吸收得太多了
 
 187
 00:12:33,043 --> 00:12:35,123
 Don't mean it's going to blow up, do you?
-是不是意味着它就要爆炸了, 是吗？
+是不是意味着它就要爆炸了，是吗？
 
 188
 00:12:35,396 --> 00:12:38,125
 No, I don't know, child. It is an unknown power...
-我也不知道, 孩子．这是一种未知的能量
+我也不知道，孩子．这是一种未知的能量
 
 189
 00:12:39,436 --> 00:12:41,651
 Doctor, I'm scared!
-博士, 我害怕！
+博士，我害怕！
 
 190
 00:12:41,978 --> 00:12:43,084
@@ -984,23 +984,23 @@ You're not thinking of carrying that thing around with you, are you?
 192
 00:12:46,771 --> 00:12:49,283
 I'm not asking you. Can it be shifted, Dr Barclay?
-我又没让你扛．能挪动它吗, Barclay博士？
+我又没让你扛．能挪动它吗，Barclay博士？
 
 193
 00:12:49,506 --> 00:12:51,867
 No, it would be an impossible task to use it as you intend using it.
-不, 没法按你的这种方法来使用它
+不，没法按你的这种方法来使用它
 
 194
 00:12:52,050 --> 00:12:55,342
 Well, just what is there in this room that is radioactive and that a bloke could carry?
-那, 这个房间里有没有什么东西, 既有放射性, 又能扛着走？
+那，这个房间里有没有什么东西，既有放射性，又能扛着走？
 
 195
 00:12:55,517 --> 00:13:00,315
 Nothing. You're wasting your time and ours. 
 And our three minutes is nearly up, anyway.
-没有． 你的浪费你的时间, 和我们的时间．三分钟就快到了
+没有． 你的浪费你的时间，和我们的时间．三分钟就快到了
 
 196
 00:13:00,498 --> 00:13:01,638
@@ -1016,30 +1016,30 @@ Is there anything behind here that is radioactive?
 00:13:05,294 --> 00:13:08,488
 Well yes, of course. That's the base nuclear reactor. 
 It supplies all the power.
-有, 当然有．这是基地的核反应器, 它供应所有能源
+有，当然有．这是基地的核反应器，它供应所有能源
 
 199
 00:13:08,748 --> 00:13:10,778
 Well what's it like? Is there anything that could be moved by hand?
-哦, 什么样的？能不能用手搬动？
+哦，什么样的？能不能用手搬动？
 
 200
 00:13:10,981 --> 00:13:14,970
 Well, if we extracted the reactor rods
 they could be carried for a short distance...
-嗯, 如果我们发反应棒抽出来, 应该可以短距离移动
+嗯，如果我们发反应棒抽出来，应该可以短距离移动
 
 201
 00:13:15,100 --> 00:13:18,010
 - ..but it would be a very tricky operation.
 - Well, it's our only hope. Come on!
--  ...不过这可要非常小心  - 这是我们唯一的希望, 来吧！
+-  ...不过这可要非常小心  - 这是我们唯一的希望，来吧！
 
 202
 00:13:18,221 --> 00:13:22,532
 - Are you both quite mad? 
 - Look, Dyson, we're the sane ones. 
-- 你们俩都疯了？  - 看, Dyson, 我们才是理智的人
+- 你们俩都疯了？  - 看，Dyson, 我们才是理智的人
 
 203
 00:13:22,644 --> 00:13:25,186
@@ -1060,17 +1060,17 @@ They just said anything they thought we'd listen to.
 00:13:29,251 --> 00:13:32,305
 They've got no feelings, remember? 
 They told us that. So what's to stop them?
-他们没有感情的, 记得吗？他们告诉过我们的。那怎么阻止他们呢？
+他们没有感情的，记得吗？他们告诉过我们的．那怎么阻止他们呢？
 
 207
 00:13:33,381 --> 00:13:36,405
 Anyway, you might as well face it, mate - your number's up either way.
-不管怎么说, 你得面对这个问题了, 朋友 - 不管怎样时间都要到了。
+不管怎么说，你得面对这个问题了，朋友 - 不管怎样时间都要到了
 
 208
 00:13:36,551 --> 00:13:40,405
 So why not try, eh? We need your help anyway, okay?
-为什么不试试？我们需要你的帮助, 好吗？
+为什么不试试？我们需要你的帮助，好吗？
 
 209
 00:13:49,548 --> 00:13:51,401
@@ -1085,12 +1085,12 @@ Our planet is nearing saturation point.
 211
 00:13:58,322 --> 00:14:01,523
 We must lose no time. Switch on the monitor.
-不能耽误时间。打开屏幕
+不能耽误时间．打开屏幕
 
 212
 00:14:02,040 --> 00:14:05,822
 Their three minutes is up, we must hear their decision.
-他们的三分钟时间到了, 我们听听他们的决定
+他们的三分钟时间到了，我们听听他们的决定
 
 213
 00:14:09,084 --> 00:14:11,428
@@ -1100,18 +1100,18 @@ What has happened?
 214
 00:14:11,721 --> 00:14:15,006
 Hold them away from yourselves. Gently does it, very gently.
-拿得离你自己远一点, 小心, 非常小心
+拿得离你自己远一点，小心，非常小心
 
 215
 00:14:15,141 --> 00:14:18,306
 Stand by the emergency power switch. 
 The lights will be fading any second now.
-站在紧急电源开关旁边, 灯很快就要熄灭了
+站在紧急电源开关旁边，灯很快就要熄灭了
 
 216
 00:14:21,893 --> 00:14:26,738
 I suppose you realize there's only about an hour's supply of lighting and heating in the emergency batteries.
-我想你明白备用电池只有一小时的电源吧, 照明和供热都靠它
+我想你明白备用电池只有一小时的电源吧，照明和供热都靠它
 
 217
 00:14:26,893 --> 00:14:27,938
@@ -1121,67 +1121,67 @@ Then we shall all freeze to death.
 218
 00:14:28,074 --> 00:14:30,453
 If this don't work, mate, you needn't worry about the cold anymore.
-朋友, 如果这个不起作用, 你就再也不用担心冷不冷了
+朋友，如果这个不起作用，你就再也不用担心冷不冷了
 
 219
 00:14:35,056 --> 00:14:36,997
 Okay, it's all clear. Quick! 
-好, 外面没人. 快! 
+好，外面没人. 快! 
 
 220
 00:14:44,000 --> 00:14:48,000
 Dyson, you go up this end of the corridor. 
 When you hear the Cybermen coming, come out behind them.
-Dyson, 你到走廊这头去, 如果你听到赛博人来了, 就到他们后面去
+Dyson, 你到走廊这头去，如果你听到赛博人来了，就到他们后面去
 
 221
 00:14:48,056 --> 00:14:50,490
 Haines, you go round that corridor and do the same.
-Haines, 你绕过走廊, 也这样
+Haines, 你绕过走廊，也这样
 
 222
 00:14:50,656 --> 00:14:55,490
 Now look, I'll draw their fire, 
 so when you hear the sound of this gun, start coming forward.
-然后, 我去引开火力．当你们听到枪声, 就出来
+然后，我去引开火力．当你们听到枪声，就出来
 
 223
 00:14:55,556 --> 00:14:57,690
 Do you really think there's enough radiation in these two rods to trap them?
-你真觉得这两个反应棒有足够的放射性, 可以搞定他们吗？
+你真觉得这两个反应棒有足够的放射性，可以搞定他们吗？
 
 224
 00:14:57,710 --> 00:14:59,481
 - Just  - Okay, come on.
-- 够吧  - 好, 来吧
+- 够吧  - 好，来吧
 
 225
 00:15:05,245 --> 00:15:11,942
 Do not use this gas unless you have to. 
 We need them alive and conscious.
-不到万不得已, 不要用瓦斯．最好抓活的
+不到万不得已，不要用瓦斯．最好抓活的
 
 226
 00:15:16,001 --> 00:15:17,419
 They're coming. Quick! Behind the door.
-他们来了, 快！到门后面去
+他们来了，快！到门后面去
 
 227
 00:15:21,029 --> 00:15:25,834
 Your three minutes is up. What is your decision?
-你们的三分钟已经到了, 做出决策了吗？
+你们的三分钟已经到了，做出决策了吗？
 
 228
 00:15:26,875 --> 00:15:31,591
 We shall be forced to kill you. 
 We will give you one more chance...
-看来我们不得不杀死你们, 再给你们一次机会...
+看来我们不得不杀死你们，再给你们一次机会...
 
 229
 00:15:31,759 --> 00:15:35,402
 - ...to come out and give us the bomb.
 - Come in and get it!
-- 出来, 把炸弹交给我们  - 进来拿吧！
+- 出来，把炸弹交给我们  - 进来拿吧！
 
 230
 00:15:56,475 --> 00:15:58,169
@@ -1207,34 +1207,34 @@ Dyson 和其他人都去哪里了？
 00:16:14,591 --> 00:16:19,829
 The humans are behind the door. 
 Let the gas do its work.
-人类都在门后面, 用瓦斯来解决问题
+人类都在门后面，用瓦斯来解决问题
 
 235
 00:16:28,062 --> 00:16:30,413
 Quick, Dyson! Help get Barclay out of here!
-快, Dyson! 帮忙把 Barclay 弄出去！
+快，Dyson! 帮忙把 Barclay 弄出去！
 
 236
 00:16:42,917 --> 00:16:46,114
 Back to your desks all of you. The emergency's not over yet.
-你们所有人, 回到你们自己的桌子去．紧急状况还没解除呢
+你们所有人，回到你们自己的桌子去．紧急状况还没解除呢
 
 237
 00:16:46,317 --> 00:16:50,214
 Philips, there are two reactor rods in the corridor. 
 See that they're put back at once.
-Philips, 走廊里有两个反应棒, 确保它们回归原位
+Philips, 走廊里有两个反应棒，确保它们回归原位
 
 238
 00:16:50,458 --> 00:16:52,460
 - Hey, they've still got the Doctor and Polly.  - No, wait!
-- 嘿, 博士和 Polly 还在他们手上  - 不，等等
+- 嘿，博士和 Polly 还在他们手上  - 不，等等
 
 239
 00:16:52,573 --> 00:16:55,761
 If you try and tackle the spacecrafts on your own, 
 you don't stand a chance.
-如果你们试图自己来对付飞船, 一点机会都没有
+如果你们试图自己来对付飞船，一点机会都没有
 
 240
 00:16:55,873 --> 00:16:57,861
@@ -1254,7 +1254,7 @@ I don't know how it works.
 243
 00:17:03,078 --> 00:17:05,284
 Well then do anything, make a signal! Draw them here.
-就这样随便做点什么, 制造个信号, 把他们吸引过来
+就这样随便做点什么，制造个信号，把他们吸引过来
 
 244
 00:17:05,552 --> 00:17:06,449
@@ -1264,7 +1264,7 @@ Is that wise?
 245
 00:17:06,540 --> 00:17:08,417
 Well, if that spaceship takes off we'll never gonna see them again.
-啊, 要是飞船起飞了我们就再也见不到他们了
+啊，要是飞船起飞了我们就再也见不到他们了
 
 246
 00:17:08,571 --> 00:17:10,089
@@ -1289,7 +1289,7 @@ You stand by with those guns.
 250
 00:17:21,643 --> 00:17:23,369
 Now look, we must all get down by the other side of the room.
-看, 我们必须在房间的另一边蹲下来
+看，我们必须在房间的另一边蹲下来
 
 251
 00:17:23,617 --> 00:17:24,199
@@ -1299,7 +1299,7 @@ Okay.
 252
 00:17:24,389 --> 00:17:27,555
 Opposite the door so we can face them. Use the guns.
-对着门, 这样我们可以面对他们．用这个枪
+对着门，这样我们可以面对他们．用这个枪
 
 253
 00:17:30,574 --> 00:17:31,525
@@ -1309,7 +1309,7 @@ What now?
 254
 00:17:31,961 --> 00:17:34,054
 The emergency battery's running out, I suppose.
-紧急备用电池耗光了, 我估计
+紧急备用电池耗光了，我估计
 
 255
 00:17:34,162 --> 00:17:35,505
@@ -1329,7 +1329,7 @@ They must get those reactor rods back!
 258
 00:17:38,294 --> 00:17:39,974
 Hang on, they're coming back.
-坚持, 他们回来了
+坚持，他们回来了
 
 259
 00:17:40,578 --> 00:17:41,307
@@ -1339,7 +1339,7 @@ Look!
 260
 00:17:43,533 --> 00:17:49,464
 Resistance is useless. Drop your weapons.
-抵抗是徒劳的, 放下你们的武器
+抵抗是徒劳的，放下你们的武器
 
 261
 00:17:51,476 --> 00:17:54,581
@@ -1349,7 +1349,7 @@ Just look at Mondas! I can't believe it!
 262
 00:18:02,739 --> 00:18:05,929
 Fantastic! It looks as if it's melting!
-太神了, 看起来它在融化！
+太神了，看起来它在融化！
 
 263
 00:18:08,240 --> 00:18:09,685
@@ -1364,7 +1364,7 @@ Mondas 的末日
 265
 00:18:12,714 --> 00:18:14,178
 Hey, look!
-嘿, 看！
+嘿，看！
 
 266
 00:18:21,950 --> 00:18:23,271
@@ -1385,12 +1385,12 @@ They must have been entirely dependent on power from Mondas!
 00:18:31,805 --> 00:18:34,438
 - Zeus 5 to Snowcap, are you receiving me, over?  
 - Quick Dyson, get that!
-- 宙斯５号呼叫雪冠, 听到吗？   快 Dyson, 接话！
+- 宙斯５号呼叫雪冠，听到吗？   快 Dyson, 接话！
 
 270
 00:18:34,626 --> 00:18:38,541
 Snowcap to Zeus 5, reading you loud and clear.
-雪冠回复宙斯５号, 能清晰地听到你们
+雪冠回复宙斯５号，能清晰地听到你们
 
 271
 00:18:39,530 --> 00:18:41,243
@@ -1400,19 +1400,19 @@ What happened? Where have you been?
 272
 00:18:41,826 --> 00:18:45,597
 Here, let me have that. Snowcap to Zeus 5, what is your fuel position?
-嘿, 让我来． 雪冠呼叫宙斯５号, 你的燃料在什么位置？
+嘿，让我来． 雪冠呼叫宙斯５号，你的燃料在什么位置？
 
 273
 00:18:45,845 --> 00:18:49,737
 It's okay, everything's suddenly working normally. 
 And what about getting me down?
-没有问题, 所有东西突然就工作正常了．能不能把我弄下去？
+没有问题，所有东西突然就工作正常了．能不能把我弄下去？
 
 274
 00:18:49,997 --> 00:18:54,590
 We've been on emergency power. 
 We'll handle your splashdown as soon as we get full power back.
-我们正在用备用电源．一旦电力全面恢复, 就着手让你降落
+我们正在用备用电源．一旦电力全面恢复，就着手让你降落
 
 275
 00:18:54,797 --> 00:18:56,290
@@ -1427,12 +1427,12 @@ Yes, right.
 277
 00:18:58,376 --> 00:19:00,763
 Hello Geneva? Geneva?
-你好, 日内瓦？ 日内瓦？
+你好，日内瓦？ 日内瓦？
 
 278
 00:19:00,973 --> 00:19:02,311
 Hey! The Doctor and Polly!
-嘿, 博士, Polly!
+嘿，博士，Polly!
 
 279
 00:19:02,542 --> 00:19:03,512
@@ -1442,13 +1442,13 @@ Snowcap here.
 280
 00:19:03,756 --> 00:19:05,885
 Hello Snowcap, who is that, Barclay?
-你好, 雪冠, 那边是谁, Barclay吗?
+你好，雪冠，那边是谁，Barclay吗?
 
 281
 00:19:06,118 --> 00:19:09,729
 Yes, we've just getting full power back. 
 The danger is apparently over.
-是的, 我们刚恢复到正常供电．看样子危险已经过去了
+是的，我们刚恢复到正常供电．看样子危险已经过去了
 
 282
 00:19:10,005 --> 00:19:13,930
@@ -1463,12 +1463,12 @@ Let me have a full report as soon as you can.
 284
 00:19:17,403 --> 00:19:22,652
 Sir, will do. Did you hear that? He wants a full report.
-好的, 先生．听到没有？ 他要一份完整的报告
+好的，先生．听到没有？ 他要一份完整的报告
 
 285
 00:19:22,803 --> 00:19:25,652
 Where exactly shall we begin, do you think?
-我们从哪儿开始呢, 你觉得？
+我们从哪儿开始呢，你觉得？
 
 286
 00:19:28,363 --> 00:19:29,141
@@ -1478,29 +1478,29 @@ Doctor!
 287
 00:19:29,396 --> 00:19:32,407
 Ben! Oh please, Ben, help me... get me out of this thing!
-Ben! 哦, 请, Ben, 帮我一下．．．把我带出这里！
+Ben! 哦，请，Ben, 帮我一下...把我带出这里！
 
 288
 00:19:32,650 --> 00:19:34,218
 All right, don't panic, I'll have you out soon!
-好的, 别慌, 我马上把你弄出去！
+好的，别慌，我马上把你弄出来！
 
 289
 00:19:34,544 --> 00:19:39,749
 Ow! My hands were stuck and I couldn't get out!... 
 Ben, I've been so scared!
-哦！ 我的手卡住了, 弄不出来！...Ben, 我好害怕
+哦！ 我的手卡住了，弄不出来！...Ben, 我好害怕
 
 290
 00:19:39,964 --> 00:19:41,316
 Take it easy love, take it easy.
-放松点, 放松点
+放松点，放松点
 
 291
 00:19:41,504 --> 00:19:44,294
 And that Cyberman thing, it just fizzled into nothing, 
 Ben, it was awful...
-还有那些赛博人, 突然全都散架了．Ben, 好可怕...
+还有那些赛博人，突然全都散架了．Ben, 好可怕...
 
 292
 00:19:44,466 --> 00:19:45,878
@@ -1510,17 +1510,17 @@ Now what's the matter with the Doctor?
 293
 00:19:46,058 --> 00:19:47,636
 I don't know. When the lights went out, he just seemed to faint.
-我不知道． 当灯熄灭的时候, 他似乎晕过去了
+我不知道． 当灯熄灭的时候，他似乎晕过去了
 
 294
 00:19:47,804 --> 00:19:50,563
 Hey, come on Doctor, wakey wakey! It's all over now.
-嘿, 来吧博士, 醒醒！ 都结束了
+嘿，来吧博士，醒醒！ 都结束了
 
 295
 00:19:58,502 --> 00:20:04,907
 What did you say, my boy? "It's all over."
-你说什么, 孩子？“都结束了”
+你说什么，孩子？“都结束了”
 
 296
 00:20:06,002 --> 00:20:10,907
@@ -1530,7 +1530,7 @@ What did you say, my boy? "It's all over."
 297
 00:20:11,502 --> 00:20:20,107
 No...but it isn't all over. It's far from being all over.
-不, 还没都结束, 还远没结束呢
+不，还没都结束，还远没结束呢
 
 298
 00:20:20,665 --> 00:20:21,942
@@ -1545,7 +1545,7 @@ I must get back to the TARDIS immediately!
 300
 00:20:25,715 --> 00:20:27,101
 Alright, Doctor.
-好吧, 博士
+好吧，博士
 
 301
 00:20:29,389 --> 00:20:32,866
@@ -1560,19 +1560,19 @@ Aren't we going to go back to say good-bye or anything?
 303
 00:20:35,292 --> 00:20:39,298
 No! No, I must go at once.
-不！不, 我必须马上走
+不！不，我必须马上走
 
 304
 00:20:39,550 --> 00:20:42,651
 Oh well, you better have this. 
 We don't want you catching your death of cold.
-噢, 好, 你最好戴上这个。我们可不想你换上致命感冒
+噢，好，你最好戴上这个．我们可不想你换上致命感冒
 
 305
 00:20:42,980 --> 00:20:53,867
 Ah, yes! Thank you. 
 It's good. Keep warm.
-啊, 是的, 谢谢你．很好, 暖和一点
+啊，是的，谢谢你．很好，暖和一点
 
 306
 00:21:07,918 --> 00:21:09,087
@@ -1587,12 +1587,12 @@ Dunno. He seems to lost his sense of humour.
 308
 00:21:11,799 --> 00:21:14,152
 Well I can't wait to get out of here!
-唉, 我等不及了, 赶紧离开这里！
+唉，我等不及了，赶紧离开这里！
 
 309
 00:21:18,158 --> 00:21:19,874
 Good looking guys, ain't they?
-他们长得挺好看, 是吧？？
+他们长得挺好看，是吧？？
 
 310
 00:21:22,379 --> 00:21:23,539
@@ -1607,12 +1607,12 @@ Open the door!
 312
 00:21:24,946 --> 00:21:26,068
 Hey, let us in!
-嘿, 让我们进去！
+嘿，让我们进去！
 
 313
 00:21:26,294 --> 00:21:28,918
 You can't leave us here, of all places! Open up!
-你不能把我们留着这里, 留在那里也不行！打开！
+你不能把我们留着这里，留在那里也不行！打开！
 
 314
 00:21:29,162 --> 00:21:29,995
@@ -1622,10 +1622,10 @@ Doctor!
 315
 00:21:58,304 --> 00:22:00,083
 Doctor! Quick, help him!
-博士！快, 帮忙他！
+博士！快，帮忙他！
 
 316
 00:22:00,284 --> 00:22:01,414
 No, leave him!
-不, 别动他！
+不，别动他！
 
