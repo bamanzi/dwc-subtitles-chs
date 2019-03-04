@@ -1,0 +1,1321 @@
+1
+00:00:39,927 --> 00:00:41,918
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}看 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Look!{\r}
+
+2
+00:00:42,607 --> 00:00:46,964
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 那是什么 - 是个Dalek 快躲起来!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What is it? - A Dalek. Take cover!{\r}
+
+3
+00:00:47,927 --> 00:00:49,997
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}消灭{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}ExterminateI{\r}
+
+4
+00:00:50,167 --> 00:00:53,557
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}消灭 消灭{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}ExterminateI ExterminateI{\r}
+
+5
+00:00:58,727 --> 00:01:01,116
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 他们从哪儿冒出来的 - 时间走廊{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Where did they come from? - The Time Corridor.{\r}
+
+6
+00:01:01,287 --> 00:01:03,278
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 从你的船上 - 肯定是{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Your ship? - Must be.{\r}
+
+7
+00:01:03,447 --> 00:01:05,438
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 他们想怎么样 - 我们这就把原因找出来吧{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What do they want? - Let's not find out.{\r}
+
+8
+00:01:05,647 --> 00:01:08,445
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}瞄准那圆顶上的目镜{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Aim for the eyepiece on the dome.{\r}
+
+9
+00:01:14,407 --> 00:01:17,160
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}视力受损 我看不到了
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}My vision is impaired I cannot see {\r}
+
+10
+00:01:17,327 --> 00:01:19,716
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}视力受损 我看不到了
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}My vision is impaired  I cannot see {\r}
+
+11
+00:01:19,887 --> 00:01:23,038
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 快点儿 - 我看不到了
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Quickly! - I cannot see {\r}
+
+12
+00:01:23,207 --> 00:01:26,802
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我看不到了 警告  我的视力受损了
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I cannot see  Warning  Warning  My vision is impaired {\r}
+
+13
+00:01:26,967 --> 00:01:30,721
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 把门打开 - 我看不到  我看不到
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Open the door! - I cannot see  I cannot see {\r}
+
+14
+00:01:30,887 --> 00:01:32,878
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}警告 紧急情况
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Warning  Emergency {\r}
+
+15
+00:01:41,487 --> 00:01:44,285
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}她没事 我们应该带她到楼下{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}She's all right. We should get her downstairs.{\r}
+
+16
+00:01:44,447 --> 00:01:48,520
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你去做那个 我需要人手帮我处理外面的Dalek碎片{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}While you're doing that, I'd like a hand with the debris outside.{\r}
+
+17
+00:01:50,767 --> 00:01:54,601
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}派去仓库的Dalek 被毁坏了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Dalek sent to the warehouse has been destroyed.{\r}
+
+18
+00:01:54,807 --> 00:01:57,002
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}怎么可能{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}How is that possible?{\r}
+
+19
+00:01:57,207 --> 00:02:00,563
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}博士有地球上的士兵帮助{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Doctor was aided by the Earth soldiers.{\r}
+
+20
+00:02:00,727 --> 00:02:04,402
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}封锁时光走廊的 仓库出入口{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Seal the warehouse terminal of the Time Corridor.{\r}
+
+21
+00:02:04,607 --> 00:02:08,441
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们还是用 适当的程序来对付博士{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We will deal with the Doctor in due course.{\r}
+
+22
+00:02:19,407 --> 00:02:22,399
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我们要去哪里 - 戴好面罩{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Where are we going? - Keep your mask down.{\r}
+
+23
+00:02:22,567 --> 00:02:26,719
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 周围可能还有毒气 - 那又怎样 我宁愿快点死掉{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- There could still be gas around. - So what? I'd rather die quickly.{\r}
+
+24
+00:02:26,927 --> 00:02:29,600
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们在这儿待了多久了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}How long are we going to wander around?{\r}
+
+25
+00:02:29,807 --> 00:02:33,516
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}据我所知 只有我们四个还活着{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}As far as we know, there are only four of us still alive.{\r}
+
+26
+00:02:33,687 --> 00:02:38,477
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我们不能孤身对抗Dalek - 你想战斗到底{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- We can't fight the Daleks alone. - You wanted to fight to the end.{\r}
+
+27
+00:02:38,647 --> 00:02:41,445
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}看看他们所到之处 一堆死人{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Look where it got me. A dead crew.{\r}
+
+28
+00:02:41,647 --> 00:02:44,241
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}既然这样 那就不要让他们白白牺牲{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Then don't let it be for nothing.{\r}
+
+29
+00:02:46,407 --> 00:02:48,637
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们能做些什么{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}What can we do?{\r}
+
+30
+00:02:50,487 --> 00:02:53,763
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你忘了这个地方有一套自毁系统吗{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Have you forgotten this station has a self-destruct system?{\r}
+
+31
+00:03:44,607 --> 00:03:46,598
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他很安静{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He's very still.{\r}
+
+32
+00:03:53,847 --> 00:03:55,838
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他死了吗{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Is he dead?{\r}
+
+33
+00:03:58,727 --> 00:04:00,524
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我想没有{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I think not.{\r}
+
+34
+00:04:16,887 --> 00:04:18,878
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}马上就准备好了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Soon be ready.{\r}
+
+35
+00:04:19,047 --> 00:04:21,197
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们可以用更强大的东西来做这个{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We could do with something stronger.{\r}
+
+36
+00:04:21,367 --> 00:04:25,280
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 楼上你朋友怎么样了 - 他死了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- How's your friend upstairs? - He's dead.{\r}
+
+37
+00:04:28,607 --> 00:04:31,167
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 她怎么样了 - 睡着了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- How is she? - She's sleeping naturally.{\r}
+
+38
+00:04:31,327 --> 00:04:35,002
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}-喝茶吗 长官 -谢谢{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}-Tea, sir? -Thank you.{\r}
+
+39
+00:04:35,167 --> 00:04:37,522
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}是谁找到这些圆柱的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Who discovered these cylinders?{\r}
+
+40
+00:04:37,687 --> 00:04:40,076
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}当施工人员把这个仓库改造成公寓的时候{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Builders converting the warehouse into flats.{\r}
+
+41
+00:04:40,247 --> 00:04:42,238
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我想这是尚未爆炸的炸弹{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Thought they were unexploded bombs.{\r}
+
+42
+00:04:42,407 --> 00:04:45,956
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 你有试过打开一个看看吗 - 都没试过抓一下它{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Have you tried to open one? - Haven't even scratched it.{\r}
+
+43
+00:04:46,127 --> 00:04:48,641
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Dalek跟这些有关系吗{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Have the Daleks anything to do with this?{\r}
+
+44
+00:04:50,127 --> 00:04:53,119
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}如果跟他们没关系那也太巧了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It would be an enormous coincidence if they didn't.{\r}
+
+45
+00:04:53,487 --> 00:04:55,478
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你是谁{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Who are you?{\r}
+
+46
+00:04:55,647 --> 00:04:58,366
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- Lytton司令 - 司令{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Commander Lytton. - Commander?{\r}
+
+47
+00:04:58,527 --> 00:05:03,840
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我的Dalek不需要部队 - 没有我的话 你还在监狱里{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- My Daleks do not need troopsI - You'd be in prison without my men.{\r}
+
+48
+00:05:04,767 --> 00:05:08,726
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你说的好像我的Dalek 再不能战斗了一样{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}You speak as though my Daleks are no longer capable of war.{\r}
+
+49
+00:05:08,927 --> 00:05:11,202
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}在你服刑期间发生了很多事情{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}A lot has happened during your imprisonment.{\r}
+
+50
+00:05:11,407 --> 00:05:14,319
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}跟Movellans的战争结束了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The war with the Movellans is over?{\r}
+
+51
+00:05:14,487 --> 00:05:17,365
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}是的 尽管伤亡惨重{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Yes, although casualties were very high.{\r}
+
+52
+00:05:17,527 --> 00:05:19,836
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}喜闻乐见{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It is to be expected.{\r}
+
+53
+00:05:20,007 --> 00:05:22,680
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我说的是Dalek伤亡惨重{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'm talking about Dalek casualties.{\r}
+
+54
+00:05:23,967 --> 00:05:26,242
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Dalek...伤亡惨重{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Dalek...casualties?{\r}
+
+55
+00:05:26,447 --> 00:05:29,200
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他们输了, Davros. 他们完全被打败了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}They lost, Davros. They were totally defeated.{\r}
+
+56
+00:05:51,567 --> 00:05:55,685
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}0-3呼叫总部 0-3呼叫总部 结束{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}0-3 to HQ? 0-3 to HQ? Over.{\r}
+
+57
+00:05:57,607 --> 00:06:00,917
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 一直试 别停 - 你必须要得到增援{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Keep trying. - You must get reinforcements.{\r}
+
+58
+00:06:01,087 --> 00:06:04,875
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我不能把他们从空气中变出来 我需要一部电话{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I can't conjure them out of the air. I need a telephone.{\r}
+
+59
+00:06:05,047 --> 00:06:09,643
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我去吧 你在这里还有用 - 这不仅仅是军事{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- I'll go. You're needed here. - It's more than a military matter.{\r}
+
+60
+00:06:09,807 --> 00:06:15,439
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我必须跟国防部通话  我们需要大部队增援{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I have to speak to the MOD. We'll need massive troop involvement.{\r}
+
+61
+00:06:17,167 --> 00:06:19,681
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我跟你一起去{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'll come with you.{\r}
+
+62
+00:06:19,847 --> 00:06:24,284
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你是唯一一个知道怎么对付Dalek的人{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}You're the only one who knows anything about fighting Daleks.{\r}
+
+63
+00:06:24,447 --> 00:06:26,438
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你守在这里{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Your duty's here.{\r}
+
+64
+00:06:53,927 --> 00:06:57,078
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他是博士的同伴之一{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He is a companion of the Doctor.{\r}
+
+65
+00:06:57,247 --> 00:06:59,363
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他应该被毁灭{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He should be destroyed.{\r}
+
+66
+00:06:59,567 --> 00:07:02,798
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}把他当作诱饵更好{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He would be better used as bait.{\r}
+
+67
+00:07:02,967 --> 00:07:06,846
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}博士敏感多情 而又易感情用事{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Doctor is sentimental and emotional.{\r}
+
+68
+00:07:07,007 --> 00:07:09,760
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他会来找这孩子的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He will come after the boy.{\r}
+
+69
+00:07:09,927 --> 00:07:12,395
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这有利于Dalek的计划{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}This will aid the Dalek plan.{\r}
+
+70
+00:07:13,567 --> 00:07:16,161
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}让那个男孩四处游荡{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Allow the boy to roam freely.{\r}
+
+71
+00:07:26,527 --> 00:07:28,722
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们休息一会儿{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We'll rest for a moment.{\r}
+
+72
+00:07:29,527 --> 00:07:34,123
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你们都不突发奇想吗 我想拿一切换一杯矿泉水{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Don't you get funny ideas? I'd give anything for a glass of spring water.{\r}
+
+73
+00:07:34,287 --> 00:07:36,198
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}安静!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Quiet!{\r}
+
+74
+00:07:36,367 --> 00:07:38,358
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}卧倒!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Down!{\r}
+
+75
+00:07:44,247 --> 00:07:46,238
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}开火!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Fire!{\r}
+
+76
+00:07:55,487 --> 00:07:57,478
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}小心点儿.{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Careful.{\r}
+
+77
+00:08:03,687 --> 00:08:05,678
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}穿上他们的制服!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Uniforms!{\r}
+
+78
+00:08:06,607 --> 00:08:08,598
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}穿上他们的制服{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Uniforms.{\r}
+
+79
+00:08:22,887 --> 00:08:26,163
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}快 喝下这个 对你的头有好处{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Here. Take these. It'll help your head.{\r}
+
+80
+00:08:26,327 --> 00:08:30,843
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我不能在这儿太久 必须要回到船上去{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I won't be long. I must get back to my ship.{\r}
+
+81
+00:08:31,007 --> 00:08:33,157
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 长官... - 我必须找到Turlough{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Sir... - I must find Turlough.{\r}
+
+82
+00:08:33,327 --> 00:08:37,843
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 可以, 但是请等着上校 - 不, Turlough在Dalek的飞船上{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Yes, but wait for the Colonel. - No, Turlough's on the Dalek ship.{\r}
+
+83
+00:08:38,007 --> 00:08:40,157
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 他不会太久的 - 让他走{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- He won't be long. - Let him go.{\r}
+
+84
+00:08:40,327 --> 00:08:42,682
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我不能{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I can't.{\r}
+
+85
+00:08:49,287 --> 00:08:52,006
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}救我!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Help!{\r}
+
+86
+00:09:02,407 --> 00:09:04,398
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我们运气不大好 - 小心点儿!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We're out of luck - be careful!{\r}
+
+87
+00:09:04,567 --> 00:09:09,595
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 吓死了 那是个Dalek - 是的 一个尸体而已{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- I was terrified it was a Dalek. - It was. The remains of one.{\r}
+
+88
+00:09:09,767 --> 00:09:11,758
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他还活着{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He's still alive.{\r}
+
+89
+00:09:12,647 --> 00:09:16,765
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们必须在他再次试图杀戮之前找到他{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We have to find it before it tries to kill again.{\r}
+
+90
+00:09:18,967 --> 00:09:20,559
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你还好吗{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}You all right?{\r}
+
+91
+00:09:20,727 --> 00:09:23,116
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我的生命维护系统 有些问题{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}There are malfunctions in my life-support system.{\r}
+
+92
+00:09:23,287 --> 00:09:26,518
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我需要个工程师 - 我们必须登上Dalek的飞船{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- I require an engineer. - We must board the Dalek ship.{\r}
+
+93
+00:09:26,687 --> 00:09:30,202
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我离不开我的冷冻室{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I must remain close to my cryogenic chamber.{\r}
+
+94
+00:09:30,367 --> 00:09:32,358
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我可能需要重新被冷冻{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I may need to be re-frozen.{\r}
+
+95
+00:09:32,527 --> 00:09:36,486
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这儿有时间因素 空间站发送了一个遇险信号{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}There is a time factor. The space station transmitted a distress call.{\r}
+
+96
+00:09:36,647 --> 00:09:39,207
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}军队要花好几天时间 到达这里{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It will take days for troops to arrive.{\r}
+
+97
+00:09:39,367 --> 00:09:42,359
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}如果信号被巡逻舰拦截就不会到达{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Not if the signal's been intercepted by a patrol ship.{\r}
+
+98
+00:09:42,527 --> 00:09:47,555
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}那你把它射中吧 我动不了
+Then you will shoot it down  I cannot be moved {\r}
+
+99
+00:09:48,527 --> 00:09:52,486
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}找个工程师来维修Davros{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Order an engineer to attend Davros.{\r}
+
+100
+00:09:52,687 --> 00:09:54,837
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们应该马上离开这儿{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We should leave here at once.{\r}
+
+101
+00:09:55,047 --> 00:09:58,437
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}没Davros,我们没有未来{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Without Davros, we have no future.{\r}
+
+102
+00:09:58,607 --> 00:10:02,520
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们一定要让他相信 我们服务于他{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He must be made to believe that we serve him.{\r}
+
+103
+00:10:05,447 --> 00:10:10,202
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这是在浪费时间  变异体利用了时间走廊{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}This is a waste of time. The mutant could have used the Time Corridor.{\r}
+
+104
+00:10:10,367 --> 00:10:13,439
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}没错 那你为什么在那里踌躇的寻找 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}True. So why be so tentative in your search?{\r}
+
+105
+00:10:13,607 --> 00:10:18,556
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我们还不能确切的知道 - 那就是我们寻找的原因{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- We don't know for certain. - That's why we're searching{\r}
+
+106
+00:10:18,727 --> 00:10:22,083
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 它看起来像什么 - 你不会弄错它的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What does it look like? - You won't mistake it.{\r}
+
+107
+00:10:22,247 --> 00:10:25,683
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}当你看到它 它会试图杀了你{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The moment you find it, it'll try and kill you.{\r}
+
+108
+00:10:49,727 --> 00:10:52,764
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}先生你 你们救了我{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Gentlemen, you've saved my life.{\r}
+
+109
+00:10:52,927 --> 00:10:56,681
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我是Archer上校, 服务于炸弹处理小队{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'm Colonel Archer, Bomb Disposal Squad.{\r}
+
+110
+00:10:56,847 --> 00:11:00,965
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我要进行紧急呼叫 可以用你的无线电吗 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I have to make an urgent call. May I use your radio?{\r}
+
+111
+00:11:01,967 --> 00:11:03,764
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}请给我{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Please.{\r}
+
+112
+00:11:05,327 --> 00:11:07,318
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}谢谢{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Thank you.{\r}
+
+113
+00:11:10,487 --> 00:11:12,478
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}它坏了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It's dead.{\r}
+
+114
+00:11:46,167 --> 00:11:49,762
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}跟我说说Dalek战败的事{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Tell me about the Dalek defeat.{\r}
+
+115
+00:11:49,927 --> 00:11:52,077
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}你知道的几乎是全部了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}You already know most of it.{\r}
+
+116
+00:11:52,287 --> 00:11:55,597
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Dalek和Movellan陷入了僵局{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Daleks and the Movellans were locked in an impasse.{\r}
+
+117
+00:11:55,767 --> 00:11:58,076
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}每次一方制定一个策略,{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Each time one attempted a stratagem,{\r}
+
+118
+00:11:58,247 --> 00:12:02,684
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}都会被对方的战争电脑识破和进行反击{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}it was anticipated and countered by their opponent's battle computer.{\r}
+
+119
+00:12:02,887 --> 00:12:07,403
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}两部完全的逻辑战争机器 彼此不能以智取胜{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Two totally logical war machines unable to out-think each other?{\r}
+
+120
+00:12:07,607 --> 00:12:12,237
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 太妙了 要是我在那儿就好了 - Movellan掌握了制胜先机{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- FascinatingI If only I'd been there. - The Movellans found the answer.{\r}
+
+121
+00:12:12,407 --> 00:12:14,398
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}对不起, 先生{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Sorry, sir.{\r}
+
+122
+00:12:15,247 --> 00:12:17,363
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}快点, 告诉我{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Quickly, tell me.{\r}
+
+123
+00:12:17,527 --> 00:12:21,361
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他们发明了一种专门对付Dalek的病毒{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}They developed a virus which exclusively attacks the Daleks.{\r}
+
+124
+00:12:21,527 --> 00:12:25,406
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}整个舰队都被摧毁了 为了防止被感染 这些幸存的都逃走了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The fleet was destroyed. Those who survived fled to escape infection{\r}
+
+125
+00:12:25,567 --> 00:12:28,286
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}现在在找治愈方法{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}and work on a cure.{\r}
+
+126
+00:12:28,487 --> 00:12:31,718
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 找到了吗 - 还没有{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Have they succeeded? - Not yet.{\r}
+
+127
+00:12:31,887 --> 00:12:37,917
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}所以...他们回到了 他们的创造者这里{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}So...they have returned to their creator.{\r}
+
+128
+00:12:38,087 --> 00:12:44,481
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}就像犯了错的孩子, 他们再一次回家了.{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Like an errant child, they have come home once more.{\r}
+
+129
+00:12:44,647 --> 00:12:49,801
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}不过这次, 他们不能再虐待我了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}But this time, they will not abuse me.{\r}
+
+130
+00:12:49,967 --> 00:12:55,439
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这次, 我将行使作为他们 君主的权利,{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}This time, I shall take my rightful place as their supreme being,{\r}
+
+131
+00:12:55,607 --> 00:13:01,842
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}在我的控制下Dalek 会再一次天下无敌{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}and under my control, the Daleks shall once more become triumphantI{\r}
+
+132
+00:13:23,287 --> 00:13:26,120
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 你能研究出解药吗 - 毫无疑问{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Can you find an antidote? - Of course.{\r}
+
+133
+00:13:26,287 --> 00:13:29,120
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 已经找遍了方法 - 我是Davros.{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Research has been done. - I am Davros.{\r}
+
+134
+00:13:29,287 --> 00:13:31,278
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我创造了Dalek{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Daleks are my creation.{\r}
+
+135
+00:13:31,447 --> 00:13:36,521
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}必要的话 我会对他们 进行基因重组 你弄好了吗{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}If necessary, I shall genetically re-engineer them. Have you finished?{\r}
+
+136
+00:13:36,687 --> 00:13:40,475
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 快了, 长官 - 我需要实验室{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Almost, sir. - I will need a laboratory.{\r}
+
+137
+00:13:40,687 --> 00:13:45,078
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 已经给你准备了一个 - 我就在这个空间站上工作{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- There's one prepared for you. - I shall work here on the station.{\r}
+
+138
+00:13:45,247 --> 00:13:47,317
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我已经解释过了 没时间了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I've explained. There isn't time.{\r}
+
+139
+00:13:47,487 --> 00:13:52,402
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我不能冒险 如果 病毒四散到Dalek的飞船上...{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I cannot risk an accident. If the virus escaped on the Dalek ship...{\r}
+
+140
+00:13:52,567 --> 00:13:56,765
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 已经采取了预防措施 - 要么让我在这儿做
+- Every precaution has been taken. - I work here {\r}
+
+141
+00:13:56,927 --> 00:13:58,918
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}要么我就不做{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Or not at all.{\r}
+
+142
+00:13:59,127 --> 00:14:03,200
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我看看怎么安排吧{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'll see what can be arranged.{\r}
+
+143
+00:14:12,407 --> 00:14:17,242
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}快点儿 还有很多事要做.{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Hurry. There is much work to be done.{\r}
+
+144
+00:14:18,127 --> 00:14:20,243
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我弄好了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I've finished.{\r}
+
+145
+00:14:20,407 --> 00:14:22,398
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}关闭仪表板{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Close the panel.{\r}
+
+146
+00:14:34,687 --> 00:14:37,565
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我命令你服从于Davros{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I order you to obey Davros.{\r}
+
+147
+00:14:37,727 --> 00:14:40,446
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}如果突击队从地球上来了会怎么样 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}What happens when the task force arrives from Earth?{\r}
+
+148
+00:14:40,607 --> 00:14:45,158
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们应该离开 我有个计划{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We shall be gone. I have a plan that will force Davros{\r}
+
+149
+00:14:45,327 --> 00:14:48,399
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}可以逼Davros离开{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}to leave of his own free will.{\r}
+
+150
+00:14:48,567 --> 00:14:53,960
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}到那时候, 你必须供给他 所要求的一切{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Until then, you must supply him with everything he demands.{\r}
+
+151
+00:14:54,127 --> 00:14:58,439
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}让他进入空间站 的实验室{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Allow him access to the space station's laboratory.{\r}
+
+152
+00:15:04,607 --> 00:15:06,359
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}一切都听你的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}As you command.{\r}
+
+153
+00:15:07,887 --> 00:15:10,959
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 怎么了 - 小意外{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What happened? - A small accident.{\r}
+
+154
+00:15:13,887 --> 00:15:18,085
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 你还好吗 - 我抓到了自己的手 没事{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Are you all right? - I caught my hand. It's nothing.{\r}
+
+155
+00:15:18,287 --> 00:15:23,805
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}不是这儿 我们还没找到时间走廊的入口{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It isn't here. We haven't found the entrance to the Time Corridor either.{\r}
+
+156
+00:15:23,967 --> 00:15:25,958
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我想暂时还连接不上{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Temporarily disconnected, I would think.{\r}
+
+157
+00:15:29,527 --> 00:15:31,324
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}博士...{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Doctor...{\r}
+
+158
+00:15:36,447 --> 00:15:38,756
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 那是什么 - 没有 什么都没有{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What is it? - Nothing. Nothing.{\r}
+
+159
+00:15:38,927 --> 00:15:41,282
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}继续找{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Go on with the search.{\r}
+
+160
+00:15:53,967 --> 00:15:57,004
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}对宇宙的征服者来说这太过了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}So much for the conqueror of the universe.{\r}
+
+161
+00:15:57,167 --> 00:15:59,158
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我告诉你它已经走了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I told you it had gone.{\r}
+
+162
+00:16:13,207 --> 00:16:17,803
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 它死了吗  - 你要不要自己去看一下 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Is it dead? - Would you care to take a look?{\r}
+
+163
+00:16:18,407 --> 00:16:20,398
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他怎么样{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}How is he?{\r}
+
+164
+00:16:20,567 --> 00:16:22,558
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}只是受惊了 身体应该没事{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It's more shock than physical.{\r}
+
+165
+00:16:22,727 --> 00:16:24,718
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}过来 孩子 我们带你去楼下{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Come on, lad. Let's get you downstairs.{\r}
+
+166
+00:16:27,207 --> 00:16:30,085
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 怎么了 - Dalek还没死透透{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What happened? - The Dalek wasn't quite dead.{\r}
+
+167
+00:16:30,247 --> 00:16:32,442
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 拿着 - 帮我一把{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Here. - Give us a hand.{\r}
+
+168
+00:16:32,607 --> 00:16:34,438
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}好的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Of course.{\r}
+
+169
+00:16:34,607 --> 00:16:37,565
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我必须要找到Dalek的飞船{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I have to find the Dalek ship.{\r}
+
+170
+00:16:37,727 --> 00:16:40,400
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我不去那里了 他们会杀了我的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'm not going back there. They'll kill me.{\r}
+
+171
+00:16:40,607 --> 00:16:44,680
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我需要你来帮我 - 你不知道我胆子多小{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- I need your help. - You don't know what a coward I am.{\r}
+
+172
+00:16:44,887 --> 00:16:49,278
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}刚好给你一个展示的机会 过来{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}You can take this opportunity to show me. Come along.{\r}
+
+173
+00:17:00,527 --> 00:17:04,486
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 杀了他! - 等等 先审审他{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Kill him! - Wait. Question him first.{\r}
+
+174
+00:17:04,647 --> 00:17:09,402
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}怎么了 那枪声是怎么回事{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}What happened? What was that shooting?{\r}
+
+175
+00:17:09,567 --> 00:17:11,956
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Dalek的一个小问题{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}A small problem with a Dalek.{\r}
+
+176
+00:17:14,567 --> 00:17:17,923
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 他在这儿会舒服点儿 - 待这儿别动{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- He'd be more comfortable here. - Stay there.{\r}
+
+177
+00:17:18,087 --> 00:17:20,078
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}看起来只是破了皮{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It looks superficial.{\r}
+
+178
+00:17:21,207 --> 00:17:25,644
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}但愿里面没毒 可能是外星人造成的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}As long as there's no poison in it. It was caused by an alien.{\r}
+
+179
+00:17:25,807 --> 00:17:29,641
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}不知道是什么进入了他的血液{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We don't know what may have entered his bloodstream.{\r}
+
+180
+00:17:29,807 --> 00:17:33,322
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}上校马上就回来了 我们要把他们俩都送进医院{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Colonel will be back soon. We get them both to hospital.{\r}
+
+181
+00:17:48,487 --> 00:17:51,604
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我在那里冻了九十年{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Ninety years I was frozen in that.{\r}
+
+182
+00:17:51,767 --> 00:17:55,555
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}九十年的 心烦意乱{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Ninety years of mind-numbing boredom.{\r}
+
+183
+00:17:55,727 --> 00:17:59,003
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 那时候你有意识吗 - 每一秒都有{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- You were conscious? - Every second.{\r}
+
+184
+00:17:59,167 --> 00:18:02,796
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}地球上的那些生物 没兴趣对人执行死刑{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The creatures of Earth have no stomach for judicial murder.{\r}
+
+185
+00:18:03,007 --> 00:18:06,841
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他们更喜欢让你 慢慢腐烂直到死去{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}They prefer to leave you to slowly rot and die.{\r}
+
+186
+00:18:08,047 --> 00:18:10,515
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这就是他们所谓的人道主义{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}They call it being humane.{\r}
+
+187
+00:18:10,727 --> 00:18:14,117
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}那你也以其人之道还治其人之身{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Then you must be equally humane in your revenge.{\r}
+
+188
+00:18:14,327 --> 00:18:18,798
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}那是一个我应该毁灭的星球 被我好整以暇的毁灭{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It is a planet I shall destroy at my leisure.{\r}
+
+189
+00:18:18,967 --> 00:18:22,801
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}但是首先我必须要对付 一个爱管闲事的时间领主{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}But first, I must deal with a meddling Time Lord.{\r}
+
+190
+00:18:22,967 --> 00:18:25,959
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 那是众望所归的 - 你抓到了博士{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- That's been anticipated. - You have the Doctor?{\r}
+
+191
+00:18:26,167 --> 00:18:28,362
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}分分钟的事儿{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}His capture is imminent.{\r}
+
+192
+00:18:28,567 --> 00:18:30,717
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}很好{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}ExcellentI{\r}
+
+193
+00:18:30,887 --> 00:18:34,766
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}一旦我榨干他的脑子 获得所有的知识,{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Once I have drained his mind of all knowledge,{\r}
+
+194
+00:18:34,927 --> 00:18:38,886
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他就慢慢等死吧 痛入骨髓的死吧{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}he shall then die slowly and painfullyI{\r}
+
+195
+00:18:39,327 --> 00:18:43,605
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这是他最后一次介入了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He has interfered for the last time.{\r}
+
+196
+00:18:44,167 --> 00:18:47,000
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 别这样! - 不要看 如果这让你不舒服的话{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Don't! - Don't look if it offends you.{\r}
+
+197
+00:18:47,207 --> 00:18:51,598
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 看, 他什么都不知道 - 他不是船上的人{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Look, he doesn't know anything. - He's not one of the crew.{\r}
+
+198
+00:18:51,767 --> 00:18:55,396
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 他一定是跟Dalek一起的 - 我来自地球{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- He must be with the Daleks. - I'm from Earth.{\r}
+
+199
+00:18:55,567 --> 00:18:59,640
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 那么 你是怎么到这儿的 - 从Dalek的时间走廊{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Then, how did you get here? - The Daleks' Time Corridor.{\r}
+
+200
+00:18:59,807 --> 00:19:04,085
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 你们相信吗 - 为什么不 我们知道Dalek无所不能{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Do you believe that? - We know the Daleks are capable.{\r}
+
+201
+00:19:04,247 --> 00:19:06,681
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 那我们让他进来吧 - 不{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- So we're letting him go. - No,{\r}
+
+202
+00:19:06,847 --> 00:19:11,363
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}但是我们不能在这儿等着Dalek找到我们{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}but we're not waiting here for the Daleks to find us, either.{\r}
+
+203
+00:19:12,007 --> 00:19:14,726
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 有人要喝茶吗  - 不用 谢谢{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Anyone want some tea? - No, thanks.{\r}
+
+204
+00:19:14,887 --> 00:19:19,324
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我好希望上校回来 他还要多久 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'd rather have the Colonel back. How much longer will he be?{\r}
+
+205
+00:19:21,927 --> 00:19:23,918
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}喂 你去哪儿 孩子{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Hey, where are you going, lad?{\r}
+
+206
+00:19:26,367 --> 00:19:28,927
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}过来 你这样子就不用执行任务...{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Come on. You're excused duties...{\r}
+
+207
+00:19:31,367 --> 00:19:35,645
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 你还好吗 - 是的 你待这儿别动{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Are you all right? - Yeah. You stay there.{\r}
+
+208
+00:19:37,127 --> 00:19:38,446
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他是怎么了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}What's that about?{\r}
+
+209
+00:19:41,567 --> 00:19:44,877
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}刺激通向 时光走廊的出口{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Activate the exit to the Time Corridor.{\r}
+
+210
+00:19:45,167 --> 00:19:47,158
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们服从{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}We obey.{\r}
+
+211
+00:19:57,767 --> 00:19:59,758
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}快点儿 孩子{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Come on, lad.{\r}
+
+212
+00:19:59,927 --> 00:20:01,997
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}不用担心{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}There's nothing to worry about.{\r}
+
+213
+00:20:02,167 --> 00:20:04,397
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}那是Calder警官{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It's only Sergeant Calder.{\r}
+
+214
+00:20:13,727 --> 00:20:17,640
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}上校去找救护车了 你一会儿就会好的{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Colonel's gone for an ambulance. You'll be all right.{\r}
+
+215
+00:20:21,847 --> 00:20:25,237
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}消灭 消灭 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}ExterminateI ExterminateI{\r}
+
+216
+00:20:25,407 --> 00:20:27,682
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}消灭 消灭
+Exterminate  Exterminate {\r}
+
+217
+00:20:27,847 --> 00:20:31,522
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}消灭 消灭
+Exterminate Exterminate {\r}
+
+218
+00:20:31,687 --> 00:20:35,441
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}消灭 消灭
+Exterminate  Exterminate {\r}
+
+219
+00:20:35,647 --> 00:20:39,322
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 有枪声 - 快点儿 我们应该出去{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- That was gunfire. - Quickly! We should get out.{\r}
+
+220
+00:20:39,487 --> 00:20:41,284
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}快点儿 {\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Quickly!{\r}
+
+221
+00:20:49,607 --> 00:20:52,883
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}没什么好担心的 回去吧{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}There's nothing to worry about.{\r}
+
+222
+00:21:00,887 --> 00:21:04,197
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我去通知他 实验室准备好了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'll inform him at once. Your laboratory is ready.{\r}
+
+223
+00:21:04,367 --> 00:21:07,962
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}好 我需要 药剂师的帮助{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Good. I will require the assistance of a chemist.{\r}
+
+224
+00:21:08,127 --> 00:21:11,642
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 好的 -  Kiston出来{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Of course. - And Kiston.{\r}
+
+225
+00:21:12,607 --> 00:21:15,758
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他是很有能力的 机械工程师{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He has proven to be a competent mechanical engineer.{\r}
+
+226
+00:21:15,927 --> 00:21:17,918
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}如你所愿{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}As you wish.{\r}
+
+227
+00:21:21,087 --> 00:21:23,078
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 卫兵 - 保卫好他们{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Guards? - An escort.{\r}
+
+228
+00:21:23,247 --> 00:21:25,238
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这儿还有大批的工作人员{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}There are still some crew at large.{\r}
+
+229
+00:21:26,327 --> 00:21:29,125
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这纯粹是一个预防措施{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}It's purely a precaution.{\r}
+
+230
+00:21:31,007 --> 00:21:35,523
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我很难被杀的 你早应该知道{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I am very difficult to kill. You should already know that.{\r}
+
+231
+00:21:41,407 --> 00:21:44,046
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}那不是Archer上校{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}That's not Colonel Archer.{\r}
+
+232
+00:21:44,207 --> 00:21:48,564
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}他把他的枪和腰带给了博士, 但是这个还戴着{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}He gave the Doctor his gun belt, yet he's wearing one.{\r}
+
+233
+00:21:50,487 --> 00:21:54,765
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 你们在小声的聊什么 - 救护车什么时候来{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- What are you whispering about? - When will the ambulance arrive?{\r}
+
+234
+00:21:54,967 --> 00:21:57,845
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 一会儿就到 - 增援人员呢{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- That is in hand. - The reinforcements?{\r}
+
+235
+00:21:58,047 --> 00:22:01,483
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}这是军事秘密{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}That is a military matter and therefore confidential.{\r}
+
+236
+00:22:01,647 --> 00:22:04,286
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我想我们不应该再等救护车了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I don't think we'll wait for the ambulance.{\r}
+
+237
+00:22:04,487 --> 00:22:07,126
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}仓库处于军事管制中{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}This warehouse is under martial law.{\r}
+
+238
+00:22:07,327 --> 00:22:09,921
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}试图离开会被枪决{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Attempt to leave and I'll have you shot.{\r}
+
+239
+00:22:13,127 --> 00:22:15,482
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}就是它了 我已经锁定了Dalek的飞船{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}That's it. I've located the Dalek ship.{\r}
+
+240
+00:22:15,647 --> 00:22:17,877
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}等我接到Tegan就放你下去{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I'll drop you off when I collect Tegan.{\r}
+
+241
+00:22:18,047 --> 00:22:20,277
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 我跟你一起去 - 你真好人{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- I'll come with you. - Good man.{\r}
+
+242
+00:22:24,127 --> 00:22:28,518
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我们看到博士的Tardis 已经在时光走廊里了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Doctor's Tardis has been caught in the Time Corridor.{\r}
+
+243
+00:22:28,687 --> 00:22:32,885
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}- 准备复制车间 - 遵命{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}- Prepare the duplication room. - I obey.{\r}
+
+244
+00:22:43,247 --> 00:22:45,238
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Turlough{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Turlough?{\r}
+
+245
+00:22:47,647 --> 00:22:49,638
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Turlough{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Turlough?{\r}
+
+246
+00:22:52,207 --> 00:22:55,005
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}傻孩子...嘘!{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Foolish boy...Shh!{\r}
+
+247
+00:22:57,167 --> 00:22:59,556
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}快点儿! 我们离开这里吧{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}Quickly! Let's get out of here.{\r}
+
+248
+00:22:59,727 --> 00:23:01,558
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}不, 博士{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}No, Doctor.{\r}
+
+249
+00:23:03,647 --> 00:23:05,638
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}真是疯了{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}This is madness.{\r}
+
+250
+00:23:05,807 --> 00:23:09,277
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}Dalek不会因为你抓到我就感谢你的  它们会杀了你{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}The Daleks won't thank you for capturing me. They'll kill you.{\r}
+
+251
+00:23:09,447 --> 00:23:11,438
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我没有完全说实话{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I didn't quite tell the truth.{\r}
+
+252
+00:23:11,607 --> 00:23:14,883
+{\fnMicrosoft YaHei\fs15\bord1\shad2}{\pos(185,280)}我服务于Dalek 我们它们的特工{\r}
+{\fnMicrosoft YaHei\fs11\bord1\shad2}{\pos(185,280)}I serve the Daleks. I'm a Dalek agent.{\r}
+
+253
+00:00:25,399 --> 00:00:26,899
+{\fnMicrosoft YaHei\fs20\bord1\shad2\pos(195,70)\an8\1c&H000000&\3c&HF4FFCE&}iCelery军团倾情奉献
+
+254
+00:00:25,399 --> 00:00:26,899
+{\fnMicrosoft YaHei\fs36\bord1\shad2\pos(195,190)\an8\1c&H000000&\3c&HF4FFCE&}神秘博士
+
+255
+00:00:25,399 --> 00:00:26,899
+{\fnMicrosoft YaHei\fs18\bord1\shad2\pos(194,230)\an8\1c&H000000&\3c&HF4FFCE&}第21季 第4集
+
+256
+00:00:26,899 --> 00:00:28,799
+{\fnMicrosoft YaHei\fs20\bord1\shad2\an8\1c&H000000&\3c&HFFFFFF&\fad(195,60)\move(195,60.8,195,00)}iCelery军团倾情奉献
+
+257
+00:00:26,899 --> 00:00:28,799
+{\fnMicrosoft YaHei\fs36\bord1\shad2\an8\1c&H000000&\3c&HFFFFFF&\fad(195,190)\move(195,190,195,280)}神秘博士
+
+258
+00:00:26,899 --> 00:00:28,799
+{\fnMicrosoft YaHei\fs18\bord1\shad2\an8\1c&H000000&\3c&HFFFFFF&\fad(195,230)\move(195,230,195,300)}第21季 第4集
+
+259
+00:00:28,199 --> 00:00:30,199
+{\fnMicrosoft YaHei\fs28\bord1\shad2\pos(192,199)\1c&H000000&\3c&HFFFFFF&}戴立克的复兴
+
+260
+00:00:32,199 --> 00:00:33,399
+{\fnMicrosoft YaHei\fs20\bord1\shad2\pos(190,210)\an8\1c&H000000&\3c&HFFFFFF&}校对：NO MORE
+
+261
+00:00:32,199 --> 00:00:33,399
+{\fnMicrosoft YaHei\fs20\bord1\shad2\pos(190,185)\an8\1c&H000000&\3c&HFFFFFF&}翻译：nancydodo
+
+262
+00:00:35,199 --> 00:00:38,499
+{\fnMicrosoft YaHei\fs24\bord1\shad2\pos(190,180)\an8\1c&H000000&\3c&HFFFFFF&}第二部分
+
+263
+00:00:35,199 --> 00:00:38,499
+{\fnMicrosoft YaHei\fs10\bord1\shad2\pos(190,20)\an8\1c&H000000&\3c&HFFFFFF&}本字幕根据知识共享-署名-相同方式共享-4.0国际（CC-BY-SA4.0)协议发布{\r}
+{\fnMicrosoft YaHei\fs12\bord1\shad2\pos(190,40)\an8\1c&H000000&\3c&HFFFFFF&}http://creativecommons.org/licenses/by-sa/4.0/deed.zh{\r}
+
+264
+00:01:34,600 --> 00:01:39,600
+{\fnMicrosoft YaHei\fs11\bord1\shad2\pos(120,240)\b1}{\fad(400,80)}{\t(130,500,\fry360)\3c&H5B3E00&}翻译：nancydodo 校对：NO MORE
+
+265
+00:01:39,600 --> 00:01:44,600
+{\fnMicrosoft YaHei\fs12\bord1\shad2\pos(100,240)\b1}{\fad(400,80)}{\t(130,500,\fry360)\3c&H5B3E00&}后期：小鱼干 监制：于昊源
+
+266
+00:01:44,600 --> 00:01:54,600
+{\fnKaiTi\fade(255,0,255,100,2000,8000,9000)\fs14\pos(40,20)\3c&H5B3E00&}iCelery
+
+267
+00:01:44,600 --> 00:01:54,600
+{\fnKaiTi\fade(255,0,255,100,2000,8000,9000)\fs12\pos(40,35)\3c&H5B3E00&}军团
+
