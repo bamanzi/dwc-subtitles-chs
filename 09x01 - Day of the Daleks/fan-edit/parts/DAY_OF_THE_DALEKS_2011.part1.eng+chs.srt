@@ -1,0 +1,1008 @@
+1
+00:00:32,905 --> 00:00:33,947
+What the...?
+怎么回...？
+
+2
+00:00:34,705 --> 00:00:37,612
+Ah... no... no! No!
+啊...不...不！不要！
+
+3
+00:01:03,200 --> 00:01:07,000
+<font color="yellow"><b>Day of the Daleks</b></font>
+(Whopix fan edit)
+<font color="yellow"><b>Dalek 之日</b></font>
+(粉丝剪辑版)
+
+4
+00:01:07,500 --> 00:01:09,900
+<i>(基于 opensubtitles.org 字幕)</i>
+(Sincro: wyxchari)
+
+4
+00:01:10,000 --> 00:01:12,500
+<i>(翻译/时间轴: 巴蛮子sz)</i>
+
+5
+00:01:14,421 --> 00:01:16,051
+Doctor, why don't you take a break?
+博士，你为什么不休息一下？
+
+6
+00:01:20,600 --> 00:01:22,615
+It's maddening, you know. So nearly there.
+很让人抓狂啊，知道吧。感觉很接近了
+
+7
+00:01:22,740 --> 00:01:27,615
+If I could only cut out their override
+on the dematerialisation circuit.
+只要我能切断他们的优先控制权就好了，他们锁住了反物质化电路
+
+8
+00:01:27,700 --> 00:01:28,915
+Let me see those figures.
+让我看看那些图纸
+
+9
+00:01:30,533 --> 00:01:31,313
+Doctor?
+博士？
+
+10
+00:01:31,455 --> 00:01:33,369
+I thought the TARDIS was working again.
+我以为 TARDIS 又可以用了
+
+11
+00:01:33,491 --> 00:01:34,612
+What gave you that idea?
+谁给了你这样的想法？
+
+12
+00:01:34,718 --> 00:01:39,175
+Oh, being dragged off to an alien planet
+five hundred years in the future, for example.
+哦，比如说，我被拖到了五百年后的一颗外星
+
+13
+00:01:39,318 --> 00:01:41,575
+Oh, you know - all that business
+with the miners and the colonists.
+你知道的，都是矿工啊殖民者啊那些事
+
+14
+00:01:41,737 --> 00:01:46,332
+My dear Jo, the TARDIS was being operated then 
+under remote control by the High Council of the Time Lords.
+亲爱的 Jo, TARDIS 那时候是被时间领主最高议会远程控制着呢
+
+15
+00:01:46,477 --> 00:01:47,442
+Well, if it worked for them...
+如果对他们来说这可以用...
+
+16
+00:01:47,557 --> 00:01:50,789
+I don't want it to work for them.
+I want it to work for me.
+我不想它对他们可以用，我想要它对我可以用
+
+17
+00:01:50,857 --> 00:01:53,889
+No-one's going to turn me into
+an interplanetary puppet.
+任何人别想把我变成一个星际傀儡
+
+18
+00:01:54,881 --> 00:01:56,857
+Yes, of course. Why didn't I think of that before?
+啊，是了，我之前怎么没有想到过？
+
+19
+00:02:11,575 --> 00:02:13,182
+Yes, of course. I remember now.
+是的，当然，我想起来了
+
+20
+00:02:13,765 --> 00:02:17,773
+Look, don't worry, my dear. 
+I know you're alarmed but you needn't be.
+看，别担心，亲爱的。我知道你受惊了，但没有必要
+
+21
+00:02:18,016 --> 00:02:21,441
+Yes, well I think that should do it. 
+Why on Earth I never realised that...
+是的，我想这应该可以了。为什么我从来没有意识到...
+
+22
+00:02:21,783 --> 00:02:23,420
+Oh no! What are you doing here?
+噢！你在这里做什么？
+
+23
+00:02:23,594 --> 00:02:24,590
+Well, I'm not here. Don't worry.
+其实，我没在这里。别担心
+
+24
+00:02:24,694 --> 00:02:31,190
+Well, that is, in a sense, er, I am here,
+but, erm, you are not there.
+不过，其实是，某种程度上，我在这里，但是，呃，你不在那里
+
+25
+00:02:31,294 --> 00:02:34,290
+Er... yes, well, it's a bit difficult
+to explain really.
+呃...这个，的确有点难解释
+
+26
+00:02:34,462 --> 00:02:37,279
+This won't do at all!
+We can't have two of us running about.
+完全说不通！不可能有两个我在这里乱转！
+
+27
+00:02:37,452 --> 00:02:39,341
+Yes, well don't worry. It will all sor...
+是的，不过不用担心。一切都会弄清...
+
+28
+00:02:43,168 --> 00:02:45,531
+Doctor! What happened?
+博士！发生了什么？
+
+29
+00:02:45,686 --> 00:02:47,536
+Well, it's a very complicated thing - time - Jo.
+这个, 它是一件很复杂的事情 - 时间 - Jo
+
+30
+00:02:47,686 --> 00:02:51,536
+Once you've begun tampering with it,
+the oddest things start happening.
+一旦你开始玩弄它，奇怪的事情就会出现
+
+31
+00:02:51,750 --> 00:02:54,917
+But there was another you and another... me.
+但刚才有另一个你和另一个...我
+
+32
+00:02:55,209 --> 00:02:56,531
+Well, where've they gone?
+他们都去哪儿了？
+
+33
+00:02:56,686 --> 00:02:59,620
+Back into their own time stream, of course.
+Or do I mean forward?
+当然是退回到他们自己的时间流去了，或者不是退回是前进？
+
+34
+00:02:59,631 --> 00:03:01,250
+But, Doctor, I don't understand...
+但是，博士，我搞不明白...
+
+35
+00:03:01,262 --> 00:03:05,233
+Look, Jo. Don't worry about it. It was a freak affect. 
+It's very unlikely to happen again.
+听着, Jo, 别担心。这是一个奇怪的现象，非常不可能再次发生
+
+36
+00:03:05,336 --> 00:03:06,967
+Hold that and give me those papers.
+拿着这个，把纸夹给我
+
+37
+00:03:10,968 --> 00:03:12,972
+Ah, Doctor. Glad you're still here.
+啊，博士，很高兴你还在这里
+
+38
+00:03:15,696 --> 00:03:16,965
+I need your help.
+我需要你的帮助
+
+39
+00:03:17,222 --> 00:03:18,280
+Sorry, Brigadier. I'm busy.
+对不起，准将，我正忙
+
+40
+00:03:18,403 --> 00:03:20,097
+Yeah, so am I, Doctor, so am I. /?
+是，我也是，博士，我也是
+
+41
+00:03:20,321 --> 00:03:22,097
+Now then, you've heard of Sir Reginald Styles?
+现在看看，你听说过 Reginald Styles 爵士吧？
+
+42
+00:03:22,250 --> 00:03:23,622
+No, can't say that I have.
+没，不能说我听过
+
+43
+00:03:23,749 --> 00:03:25,970
+Well isn't he the chief representative at the UN?
+但他不是驻联合国首席代表吗？
+
+44
+00:03:26,086 --> 00:03:28,322
+That's right - key figure at the latest
+summit conference.
+正是 - 是最近的峰会上的关键人物
+
+45
+00:03:28,448 --> 00:03:30,537
+My dear chap, I'm a scientist. Not a politician.
+我亲爱的小伙，我是个科学家，不是个政客
+
+46
+00:03:30,681 --> 00:03:33,359
+You know, Doctor, if you... didn't spend so much time.../?
+知道吗，博士，如果你...没有花那么多时间...
+
+47
+00:03:33,481 --> 00:03:35,297
+...tinkering around with this wretched contraption,
+...摆弄这个可怜的装置的话
+
+48
+00:03:35,381 --> 00:03:37,989
+you'd realise just how bad
+the international situation's become.
+你就会意识到国际形势变得多么糟糕
+
+49
+00:03:38,103 --> 00:03:40,166
+Humans are always squabbling over something, Brigadier.
+人类总是会为点什么事争论不休, 准将
+
+50
+00:03:40,251 --> 00:03:43,925
+Yes, well, this particular squabble looks like
+ending up in a third world war.
+是的, 好吧, 这一次的争吵看起来像是要导致第三次世界大战似的
+
+51
+00:03:44,281 --> 00:03:48,397
+The Chinese delegation have refused to attend.
+Without them, the conference can't even begin.
+中国代表团拒绝出席。没有他们, 会议甚至无法开始
+
+52
+00:03:48,481 --> 00:03:50,297
+Now Styles is flying to Peking in a few hours./?
+现在 Styles 几个小时后就要飞往北京
+
+53
+00:03:50,412 --> 00:03:52,997
+There's just a chance that he can
+persuade them to change their minds.
+他也许有机会说服他们改变主意
+
+54
+00:03:53,864 --> 00:03:56,126
+All right, Brigadier. So what's his problem?
+好吧, 准将。那他那里有什么问题？
+
+55
+00:03:56,340 --> 00:03:58,906
+Well, he was working late last night,
+down at Auderly...
+他昨晚在 Auderly 工作到很晚...
+
+56
+00:03:59,021 --> 00:03:59,900
+Where's that?
+Auderly 是什么地方？
+
+57
+00:04:00,007 --> 00:04:03,142
+Auderly, Miss Grant, is a Government owned
+country house about fifty miles north of London/?
+Auderly 是政府拥有的一栋乡村房子，在伦敦北面大约50英里
+
+58
+00:04:03,254 --> 00:04:05,622
+- where the conference is due to be held.
+- Oh.
+- 和平会议将在那里进行  - 哦
+
+59
+00:04:06,046 --> 00:04:08,613
+He suddenly started behaving... rather oddly./?
+他突然开始表现得...相当奇怪
+
+60
+00:04:08,700 --> 00:04:11,313
+Seemed to think that someone
+was trying to assassinate him.
+似乎是觉得有人试图暗杀他
+
+61
+00:04:11,484 --> 00:04:12,277
+Any idea who?
+知道是谁吗？
+
+62
+00:04:12,438 --> 00:04:14,129
+Some sort of "ghost" apparently.
+看起来像是是某种 "鬼"
+
+63
+00:04:24,910 --> 00:04:27,636
+He said somebody attacked him and vanished.
+他说有人袭击了他，然后就消失了
+
+64
+00:04:27,765 --> 00:04:30,493
+And you're absolutely certain that
+he used the word "ghost"?
+你完全确定他用了 "鬼" 这个词吗？
+
+65
+00:04:30,637 --> 00:04:33,483
+Oh yes. But afterwards he...
+嗯是的，但随后他...
+
+66
+00:04:33,508 --> 00:04:35,988
+Miss Paget! What's going on here?!
+Paget 小姐！这是在干什么？
+
+67
+00:04:36,428 --> 00:04:37,992
+These people are from UNIT, sir.
+这些人来自 UNIT，先生
+
+68
+00:04:38,106 --> 00:04:39,057
+Who asked them to come here?
+谁让他们来这里的？
+
+69
+00:04:39,174 --> 00:04:40,963
+I did - because of what happened yesterday.
+我让的 - 因为昨晚发生的事情
+
+70
+00:04:41,059 --> 00:04:42,913
+Nothing happened yesterday.
+昨晚没发生什么事
+
+71
+00:04:43,040 --> 00:04:45,227
+There seems to have been
+some sort of incident, Sir Reginald?
+似乎是发生了某种意外，Reginald 爵士？
+
+72
+00:04:45,302 --> 00:04:46,319
+Nothing of any importance.
+没有什么重要的事
+
+73
+00:04:46,418 --> 00:04:48,368
+Well, if you could tell us what happened?
+那，你可以告诉我们到底发生了什么吗？
+
+74
+00:04:48,466 --> 00:04:52,031
+I was working late. I must have dropped off.
+我工作到很晚，然后肯定是睡着了
+
+75
+00:04:52,166 --> 00:04:55,031
+Freak gust of wind, blew some papers off my desk,
+可怕的大风把我桌子上的一些文件吹掉了
+
+76
+00:04:55,166 --> 00:04:57,431
+I woke up rather confused, 
+I was picking up the papers /?
+我迷迷糊糊地醒过来，开始捡那些文件
+
+77
+00:04:57,571 --> 00:05:00,623
+- when Miss Paget came in.
+- But you did mention ghosts.
+- 这个时候 Paget 小姐进来的  - 但你的确之前提到过“鬼魂”
+
+78
+00:05:00,723 --> 00:05:03,228
+Did I? Must have been having a nightmare.
+有吗？我肯定是做了噩梦了
+
+79
+00:05:03,350 --> 00:05:06,224
+But the French windows weren't shut.
+I closed them before I went to bed.
+但落地窗没有关闭。我在上床之前是关了的
+
+80
+00:05:06,413 --> 00:05:07,394
+Then I must have opened them!
+那肯定是我打开了它们！
+
+81
+00:05:08,323 --> 00:05:13,092
+Did you, er, did you also make
+those marks on the floor over there?
+是你, 呃, 是你在那边地板上留下了那些痕迹吗？
+
+82
+00:05:13,223 --> 00:05:18,092
+Muddy feet, Sir Reginald. 
+Someone was in here, you know.
+泥脚印, Reginald 爵士。昨晚有人在这里, 你知道的
+
+83
+00:05:18,102 --> 00:05:19,516
+Are you accusing me of lying, sir?!
+你是在指控我撒谎啰, 先生?!
+
+84
+00:05:19,610 --> 00:05:22,742
+Sir Reginald, you've obviously been 
+under considerable strain recently. 
+Reginald 爵士, 最近这段时间你的压力显然很大
+
+85
+00:05:22,910 --> 00:05:24,742
+Were you feeling at all unwell last night?
+你昨晚没有不舒服的感觉吧？
+
+86
+00:05:24,843 --> 00:05:27,825
+I felt, and feel, perfectly well.
+我昨晚和现在都感觉非常好
+
+87
+00:05:27,943 --> 00:05:31,425
+Now, if you'll excuse me, I've a lot to do.
+I'm due at the airport in an hour.
+现在, 请原谅, 我还有好多事情要做。一小时内要到机场
+
+88
+00:05:31,438 --> 00:05:33,068
+You've no objection to my men
+searching the grounds?
+你不反对我的人把这里搜查一遍吧？
+
+89
+00:05:33,200 --> 00:05:36,850
+None at all. Though I really don't know
+what you hope to find.
+完全不。虽然我真的不知道你想要找到什么
+
+90
+00:05:41,760 --> 00:05:42,795
+Sergeant!
+中士！
+
+91
+00:05:46,695 --> 00:05:50,299
+Ah, he's in a bad way, poor chap.
+You'd better get him to the hospital.
+啊, 他情况不好, 可怜的家伙, 你最好把他送医院去
+
+92
+00:05:50,942 --> 00:05:52,340
+- Captain Yates...  - Right away, sir.
+- Yates 队长...  - 马上, 先生
+
+93
+00:05:56,466 --> 00:05:59,481
+This is a new one on me.
+What do you make of it, Doctor?
+这我都没见过。你对它有什么想法，博士？
+
+94
+00:06:02,027 --> 00:06:03,257
+I'm not sure...
+我不确定...
+
+95
+00:06:03,483 --> 00:06:04,333
+Sir?
+头儿？
+
+96
+00:06:05,432 --> 00:06:06,537
+What've you got there, Benton?
+你找到了什么，Benton？
+
+97
+00:06:06,743 --> 00:06:07,827
+No idea, sir.
+不知道，头儿
+
+98
+00:06:08,884 --> 00:06:10,539
+It was hidden about fifty feet inside the tunnel.
+它被藏在隧道里面50英尺的位置
+
+99
+00:06:17,637 --> 00:06:19,162
+Have you seen this before?
+你以前见过这个吗？
+
+100
+00:06:19,349 --> 00:06:22,586
+Really Brigadier!
+What sort of games are you playing?
+真的吗, 准将！你到底在玩什么游戏？
+
+101
+00:06:22,739 --> 00:06:24,967
+It's not a game, sir. 
+It's our duty to protect you!
+这不是游戏, 先生。我们有责任保护你！
+
+102
+00:06:25,076 --> 00:06:26,562
+I don't need your protection!
+我不需要你们的保护！
+
+103
+00:06:26,659 --> 00:06:31,295
+Sir Reginald, we've just found a very severely
+injured man down by the canal tunnel.
+Reginald 爵士, 我们在运河隧道边发现一个严重受伤的人
+
+104
+00:06:31,444 --> 00:06:33,555
+Oh really? And what did he look like?
+哦真的吗？他什么样子？
+
+105
+00:06:33,702 --> 00:06:38,723
+Thirty-fiveish, average build. He was wearing
+a sort of guerilla combat suit.
+大约25岁, 中等身材, 穿着一种迷彩作战服
+
+106
+00:06:38,850 --> 00:06:40,871
+- And carrying that gun.
+- I am very sorry, gentlemen,
+- 还带着枪  - 我很抱歉, 先生们
+
+107
+00:06:41,052 --> 00:06:44,396
+but I have rather more important things
+on my mind at the moment.
+但我这会儿想起还有更加重要的事情
+
+108
+00:06:44,528 --> 00:06:47,247
+- If you'll excuse me?
+- I've arranged an escort to take you to the airport, sir.
+- 抱歉呢  - 我安排几个人护送你到机场去, 爵士
+
+109
+00:06:47,359 --> 00:06:48,708
+Thank you, but it shouldn't be necessary.
+谢谢你, 但这并没有必要
+
+110
+00:06:48,797 --> 00:06:50,300
+I'm sorry, sir, but I think it will!
+抱歉, 爵士, 但我觉得有必要
+
+111
+00:06:50,391 --> 00:06:51,631
+Oh, if you insist.
+哦, 你非得坚持
+
+112
+00:06:55,170 --> 00:06:58,512
+I'd like to get that gun down to the laboratory
+and run a few tests on it.
+我得把那把枪拿到实验室去做几个测试
+
+113
+00:07:02,712 --> 00:07:05,162
+Well, basically it's a form of ultra-sonic disintegrator.
+好了, 基本上来说它是一种超声裂解枪
+
+114
+00:07:05,457 --> 00:07:06,361
+You mean a ray gun?
+你是说射线枪？
+
+115
+00:07:06,574 --> 00:07:08,514
+That's right, Jo, I mean a ray gun.
+说对了, Jo, 我的意思是射线枪
+
+116
+00:07:08,674 --> 00:07:13,214
+Only it's far more sophisticated than any weapon
+yet invented on Earth. Now take a look at this.
+只不过它比地球上说造的任何武器都复杂, 现在看着
+
+117
+00:07:18,059 --> 00:07:19,825
+Quite an effective little weapon, eh?
+非常厉害的小武器, 是哈？
+
+118
+00:07:21,236 --> 00:07:25,472
+Doctor, you say this wasn't made on Earth.
+Do you mean it comes from another planet?
+博士, 你说它不是在地球上造的, 那就是说它来自其它星球？
+
+119
+00:07:25,760 --> 00:07:27,479
+Well that was my theory at first, yes.
+这也是我一开始的想法, 是
+
+120
+00:07:27,560 --> 00:07:32,979
+But the metallurgical analysis shows that the,
+er, iron constituent is very much of this world.
+但是材料分析却表明, 它的钢铁成分是属于这个世界的
+
+121
+00:07:33,060 --> 00:07:35,779
+In fact, it was mined not very far from here
+- North Wales.
+事实上, 就来自离这里不远的地方 - 北威尔士
+
+122
+00:07:36,328 --> 00:07:37,761
+How do you explain that?
+那你怎么解释？
+
+123
+00:07:40,217 --> 00:07:42,080
+Do you believe in ghosts, Brigadier?
+你相信鬼魂吗, 准将？
+
+124
+00:07:42,330 --> 00:07:43,247
+Let's be serious, Doctor.
+我们说正经的了, 博士
+
+125
+00:07:43,389 --> 00:07:44,252
+I am.
+我很正经
+
+126
+00:07:44,382 --> 00:07:45,792
+Oh, come along, Doctor, come along.
+哦, 得了, 博士, 拉倒吧
+
+127
+00:07:45,924 --> 00:07:50,714
+Oh, my mistake. I was forgetting
+the unimaginative nature of the military mind.
+哦, 我错了, 我忘记了一个军人的大脑是没有想象力的
+
+128
+00:07:50,824 --> 00:07:54,214
+But we saw a couple of "Amicus Seperatus"
+a few moments ago, didn't we, Jo?
+当我们在不久之前见到 Amicus Seperatus 现象了, 对不, Jo?
+
+129
+00:07:54,434 --> 00:07:55,202
+Did we?
+有吗？
+
+130
+00:07:55,356 --> 00:07:56,725
+Yes, here in this laboratory.
+是的, 就在这实验室
+
+131
+00:07:56,841 --> 00:07:57,985
+Oh, you mean when we...
+哦, 你是说我们那时...
+
+132
+00:07:58,070 --> 00:08:00,697
+Mind you, they were manifestations
+of a much more benevolent kind.
+fixme
+
+133
+00:08:00,870 --> 00:08:06,197
+None of your clanking chains and chilly fingers!
+But ghosts, none the less.
+
+134
+00:08:06,228 --> 00:08:09,942
+That was because you were playing around
+with the time mechanism on the TARDIS, wasn't it?
+那是因为你当时在折腾 TARDIS 的时间机制, 是吧？
+
+135
+00:08:10,172 --> 00:08:11,934
+Still can't get it to work, eh?
+还是没法让它工作啊, 嗯？
+
+136
+00:08:12,306 --> 00:08:13,918
+Well, I can't get this thing to work, either.
+是啊, 我也不能让它工作
+
+137
+00:08:14,006 --> 00:08:18,588
+But this is a form of, er, of time machine
+of a very crude kind.
+但这是一个, 呃, 时间机器, 比较粗糙的那种
+
+138
+00:08:18,771 --> 00:08:19,935
+How do you know?
+你怎么知道？
+
+139
+00:08:20,075 --> 00:08:21,305
+Come over here. Look at this.
+到这里来, 看看这个
+
+140
+00:08:22,986 --> 00:08:24,158
+Now what do you think that is?
+你觉得这是什么？
+
+141
+00:08:24,350 --> 00:08:26,885
+Ooh, it's a... mini-dematerialisation circuit.
+哦, 这是个...迷你型的反物质化电路
+
+142
+00:08:27,016 --> 00:08:29,853
+Top of the class, Jo.
+Now then, pop this in here, like that.
+优等生, Jo。既然如此, 把这个塞到这里, 这样
+
+143
+00:08:30,540 --> 00:08:34,150
+Now, as far as I can gather,
+when you push this button, it should...
+现在, 据我的推断, 一旦你按下这个按钮, 它就可以...
+
+144
+00:08:34,898 --> 00:08:36,637
+Good grief! It's working!
+老天爷, 它可以工作了！
+
+145
+00:08:45,701 --> 00:08:46,898
+Sir?
+头儿？
+
+146
+00:08:47,382 --> 00:08:48,255
+What is it?
+什么事？
+
+147
+00:08:48,511 --> 00:08:51,292
+Time transmitter in operation, sir.
+Twentieth Century Zone.
+时间发射器在运转了, 头儿, 在20世纪区域
+
+148
+00:08:51,558 --> 00:08:53,565
+Can you fix the space-time coordinates?
+你能锁定时空坐标吗？
+
+149
+00:08:53,648 --> 00:08:55,053
+Do be careful, Doctor!
+小心点, 博士！
+
+150
+00:08:55,380 --> 00:08:56,882
+All right, Jo, all right.
+没事的, Jo, 没事
+
+151
+00:08:56,946 --> 00:08:58,305
+- Well?  - No good, sir.
+- 怎样  - 不行, 头儿
+
+152
+00:08:58,427 --> 00:09:02,208
+There was a transference, I think, 
+but the machine's cut out completely.
+刚才有干扰, 我觉得, 然后机器就完全切断了
+
+153
+00:09:02,537 --> 00:09:07,234
+Continue scanning - and next time
+you had better be more efficient!
+继续扫描 - 下次你最好效率高点
+
+154
+00:09:09,970 --> 00:09:11,417
+Report!
+报告！
+
+155
+00:09:11,446 --> 00:09:16,695
+Yes, I see. All right, sergeant.
+You'd better report back to Captain Yates. Goodbye.
+是的, 我明白, 没事, 中士。你最好报告给 Yates 队长, 再见
+
+156
+00:09:16,862 --> 00:09:19,807
+That was Benton. He was in the ambulance
+with the man we found.
+ Benton, 他刚才跟我们找到的那个人一起在救护车上
+
+157
+00:09:19,996 --> 00:09:20,920
+Well?
+怎么了？
+
+158
+00:09:21,191 --> 00:09:26,999
+Well according to him, that man just...
+vanished, faded away
+据他所说, 那个人刚刚...消失了, 慢慢淡出了
+
+159
+00:09:27,111 --> 00:09:29,246
+- like a ghost.  - Oh no!
+- 像鬼一样  - 噢, 不！
+
+160
+00:09:29,455 --> 00:09:30,904
+Well, Doctor, what now?
+那, 博士, 现在怎么办？
+
+161
+00:09:31,198 --> 00:09:34,166
+Well, everything that happens seems to
+centre round Styles' house.
+嗯, 发生的所有这些事似乎都是跟 Style 的房子有关的
+
+162
+00:09:34,483 --> 00:09:35,532
+Obviously.
+这显然
+
+163
+00:09:35,749 --> 00:09:37,604
+And whoever tried to harm him
+will probably try again.
+那些试图伤害他的人, 很可能还会再次下手
+
+164
+00:09:39,865 --> 00:09:43,940
+Jo, how would you like to spend the night
+in a haunted house?
+Jo, 你觉得到闹鬼的房子里过一晚怎么样？
+
+165
+00:10:07,901 --> 00:10:08,846
+Wake up, Jo.
+醒醒, Jo
+
+166
+00:10:09,029 --> 00:10:10,678
+It's all right. It's morning.
+没什么事, 天亮了
+
+167
+00:10:10,876 --> 00:10:12,052
+Nothing's happened?
+什么都没发生？
+
+168
+00:10:12,216 --> 00:10:13,175
+No, nothing at all.
+没有, 完全没有
+
+169
+00:10:46,623 --> 00:10:50,901
+Jo! Jo!
+Jo! Jo!
+
+170
+00:11:28,261 --> 00:11:34,224
+Please! Turn that machine off
+- or they'll kill all of us! Please!
+拜托, 把那个机器关掉 - 不然他们会把我们都杀死！求你了
+
+171
+00:11:39,294 --> 00:11:40,237
+Sir?
+头儿？
+
+172
+00:11:40,431 --> 00:11:41,219
+Yes?
+怎么？
+
+173
+00:11:41,376 --> 00:11:43,492
+We've picked up that time transmitter again.
+我们又识别到那个时间发射器了
+
+174
+00:11:43,642 --> 00:11:44,377
+You're sure?
+你确定吗？
+
+175
+00:11:44,517 --> 00:11:48,166
+Yes, sir. Same frequency, same time...
+time zone. Much stronger now.
+是的, 头儿。同样的频率同样的时间..时区。现在信号强多了
+
+176
+00:11:48,420 --> 00:11:53,427
+Right. I want the exact space-time co-ordinates,
+so whatever happens, don't lose it!
+好, 我要确切的时空坐标, 所有不管发生什么, 不要跟丢了
+
+177
+00:11:57,000 --> 00:11:59,300
+What is your report?
+你要报告什么？
+
+178
+00:11:59,583 --> 00:12:02,436
+We have a fix on the time transfer device.
+我们已经锁定了那个时间传送装置
+
+179
+00:12:02,583 --> 00:12:07,436
+It is operating again in the twentieth century
+time zone and it must be them.
+它在20世纪区域再次开启, 肯定是他们
+
+180
+00:12:07,823 --> 00:12:13,131
+You have obtained the space-time co-ordinates?
+你已经得到了时空坐标？
+
+181
+00:12:13,423 --> 00:12:16,819
+We're trying now. The trace is
+much stronger this time.
+我们正在尝试, 这次信号比较强
+
+182
+00:12:16,877 --> 00:12:19,626
+- There is every chance...
+- You must not fail!
+- 这次肯定有机会...  - 你必须成功！
+
+183
+00:12:19,850 --> 00:12:22,278
+Security forces are standing by.
+安全部队已经在待命了
+
+184
+00:12:22,350 --> 00:12:27,778
+If we do get the co-ordinates, 
+what are your instructions?
+如果我们拿到坐标, 你们有什么指示？
+
+185
+00:12:27,964 --> 00:12:36,737
+Whoever is operating the time machine
+is an enemy of the Daleks.
+不管是谁在操作那个时间机器, 他都是 Daleks 的敌人
+
+186
+00:12:36,964 --> 00:12:42,937
+All enemies of the Daleks must be destroyed!
+Exterminate them!
+而 Daleks 的所有敌人都必须消灭！终结他们！

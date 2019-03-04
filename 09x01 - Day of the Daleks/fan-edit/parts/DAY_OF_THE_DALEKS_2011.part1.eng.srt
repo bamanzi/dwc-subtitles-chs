@@ -1,0 +1,777 @@
+1
+00:00:05,002 --> 00:00:11,002
+Sincro: wyxchari
+
+2
+00:00:32,905 --> 00:00:33,947
+What the...?
+
+3
+00:01:03,000 --> 00:01:07,000
+Day of the Daleks
+
+4
+00:01:14,421 --> 00:01:16,051
+Doctor, why don't you take a break?
+
+5
+00:01:20,600 --> 00:01:22,615
+It's maddening, you know. So nearly there.
+
+5
+00:01:22,740 --> 00:01:27,615
+If I could only cut out their override
+on the dematerialisation circuit.
+
+5
+00:01:27,700 --> 00:01:28,915
+Let me see those figures.
+
+6
+00:01:30,533 --> 00:01:31,313
+Doctor?
+
+7
+00:01:31,455 --> 00:01:33,369
+I thought the TARDIS was working again.
+
+8
+00:01:33,491 --> 00:01:34,612
+What gave you that idea?
+
+9
+00:01:34,718 --> 00:01:39,175
+Oh, being dragged off to an alien planet
+five hundred years in the future, for example.
+
+9
+00:01:39,318 --> 00:01:41,575
+Oh, you know - all that business
+with the miners and the colonists.
+
+10
+00:01:41,737 --> 00:01:46,332
+My dear Jo, the TARDIS was being operated then under
+remote control by the High Council of the Time Lords.
+
+11
+00:01:46,477 --> 00:01:47,442
+Well, if it worked for them...
+
+12
+00:01:47,557 --> 00:01:50,789
+I don't want it to work for them.
+I want it to work for me.
+
+12
+00:01:50,857 --> 00:01:53,889
+No-one's going to turn me into
+an interplanetary puppet.
+
+13
+00:01:54,881 --> 00:01:56,857
+Yes, of course. Why didn't I think of that before?
+
+14
+00:02:11,575 --> 00:02:13,182
+Yes, of course. I remember now.
+
+15
+00:02:13,765 --> 00:02:17,773
+Look, don't worry, my dear. I know you're alarmed but you needn't be.
+
+16
+00:02:18,016 --> 00:02:21,441
+Yes, well I think that should do it. Why on Earth I never realised that...
+
+17
+00:02:21,783 --> 00:02:23,420
+Oh no! What are you doing here?
+
+18
+00:02:23,594 --> 00:02:24,590
+Well, I'm not here. Don't worry.
+
+18
+00:02:24,694 --> 00:02:31,190
+Well, that is, in a sense, er, I am here,
+but, erm, you are not there.
+
+18
+00:02:31,294 --> 00:02:34,290
+Er... yes, well, it's a bit difficult
+to explain really.
+
+19
+00:02:34,462 --> 00:02:37,279
+This won't do at all!
+We can't have two of us running about.
+
+20
+00:02:37,452 --> 00:02:39,341
+Yes, well don't worry. It will all sor...
+
+21
+00:02:43,168 --> 00:02:45,531
+Doctor! What happened?
+
+22
+00:02:45,686 --> 00:02:47,536
+Well, it's a very complicated thing - time - Jo.
+
+22
+00:02:47,686 --> 00:02:51,536
+Once you've begun tampering with it,
+the oddest things start happening.
+
+23
+00:02:51,750 --> 00:02:54,917
+But there was another you and another... me.
+
+24
+00:02:55,209 --> 00:02:56,531
+Well, where've they gone?
+
+25
+00:02:56,686 --> 00:02:59,620
+Back into their own time stream, of course.
+Or do I mean forward?
+
+26
+00:02:59,631 --> 00:03:01,250
+But, Doctor, I don't understand...
+
+27
+00:03:01,262 --> 00:03:05,233
+Look, Jo. Don't worry about it. It was a freak
+affect. It's very unlikely to happen again.
+
+28
+00:03:05,336 --> 00:03:06,967
+Hold that and give me those papers.
+
+29
+00:03:10,968 --> 00:03:12,972
+Ah, Doctor. Glad you're still here.
+
+30
+00:03:15,696 --> 00:03:16,965
+I need your help.
+
+31
+00:03:17,222 --> 00:03:18,280
+Sorry, Brigadier. I'm busy.
+
+32
+00:03:18,403 --> 00:03:22,097
+Yeah, so am I, Doctor, so am I. Now then,
+you've heard of Sir Reginald Styles?
+
+33
+00:03:22,250 --> 00:03:23,622
+No, can't say that I have.
+
+34
+00:03:23,749 --> 00:03:25,970
+Well isn't he the chief representative at the UN?
+
+35
+00:03:26,086 --> 00:03:28,322
+That's right - key figure at the latest
+summit conference.
+
+36
+00:03:28,448 --> 00:03:30,537
+My dear chap, I'm a scientist. Not a politician.
+
+37
+00:03:30,681 --> 00:03:35,229
+You know, Doctor, if you... didn't spend so much time
+tinkering around with this wretched contraption,
+
+37
+00:03:35,281 --> 00:03:37,629
+you'd realise just how bad
+the international situation's become.
+
+38
+00:03:37,763 --> 00:03:39,966
+Humans are always squabbling over something, Brigadier.
+
+39
+00:03:40,051 --> 00:03:43,725
+Yes, well, this particular squabble looks like
+ending up in a third world war.
+
+40
+00:03:44,081 --> 00:03:48,197
+The Chinese delegation have refused to attend.
+Without them, the conference can't even begin.
+
+40
+00:03:48,281 --> 00:03:52,797
+Now Styles is flying to Peking in a few hours.
+There's just a chance that he can persuade them to change their minds.
+
+41
+00:03:53,664 --> 00:03:55,926
+All right, Brigadier. So what's his problem?
+
+42
+00:03:56,140 --> 00:03:58,706
+Well, he was working late last night,
+down at Auderly...
+
+43
+00:03:58,821 --> 00:03:59,700
+Where's that?
+
+44
+00:03:59,807 --> 00:04:04,392
+Auderly, Miss Grant, is a Government owned country house
+about fifty miles north of London where the conference is due to be held.
+
+45
+00:04:04,694 --> 00:04:05,422
+Oh.
+
+46
+00:04:05,846 --> 00:04:11,113
+He suddenly started behaving... rather oddly.
+Seemed to think that someone was trying to assassinate him.
+
+47
+00:04:11,284 --> 00:04:12,077
+Any idea who?
+
+48
+00:04:12,238 --> 00:04:13,929
+Some sort of "ghost" apparently.
+
+49
+00:04:23,960 --> 00:04:26,686
+He said somebody attacked him and vanished.
+
+50
+00:04:26,915 --> 00:04:29,643
+And you're absolutely certain that he used the word "ghost"?
+
+51
+00:04:29,787 --> 00:04:32,633
+Oh yes. But afterwards he...
+
+52
+00:04:32,758 --> 00:04:35,238
+Miss Paget! What's going on here?!
+
+53
+00:04:35,678 --> 00:04:37,242
+These people are from UNIT, sir.
+
+54
+00:04:37,356 --> 00:04:38,307
+Who asked them to come here?
+
+55
+00:04:38,424 --> 00:04:40,213
+I did - because of what happened yesterday.
+
+56
+00:04:40,309 --> 00:04:42,163
+Nothing happened yesterday.
+
+57
+00:04:42,290 --> 00:04:44,677
+There seems to have been some sort of incident,
+Sir Reginald?
+
+58
+00:04:44,802 --> 00:04:45,819
+Nothing of any importance.
+
+59
+00:04:45,918 --> 00:04:47,868
+Well, if you could tell us what happened?
+
+60
+00:04:47,966 --> 00:04:51,531
+I was working late. I must have dropped off.
+
+60
+00:04:51,666 --> 00:04:56,531
+Freak gust of wind, blew some papers off my desk,
+I woke up rather confused,
+
+60
+00:04:56,666 --> 00:04:58,231
+I was picking up the papers when Miss Paget came in.
+
+61
+00:04:58,371 --> 00:05:00,123
+But you did mention ghosts.
+
+62
+00:05:00,223 --> 00:05:02,728
+Did I? Must have been having a nightmare.
+
+63
+00:05:02,850 --> 00:05:06,524
+But the French windows were shut. I closed them before I went to bed.
+
+64
+00:05:06,613 --> 00:05:07,594
+Then I must have opened them!
+
+65
+00:05:07,723 --> 00:05:12,492
+Did you, er, did you also make
+those marks on the floor over there?
+
+65
+00:05:12,623 --> 00:05:17,492
+Muddy feet, Sir Reginald. Someone was in here, you know.
+
+66
+00:05:17,502 --> 00:05:18,916
+Are you accusing me of lying, sir?!
+
+67
+00:05:19,010 --> 00:05:24,142
+Sir Reginald, you've obviously been under considerable
+strain recently. Were you feeling at all unwell last night?
+
+68
+00:05:24,243 --> 00:05:27,225
+I felt, and feel, perfectly well.
+
+68
+00:05:27,343 --> 00:05:30,825
+Now, if you'll excuse me, I've a lot to do.
+I'm due at the airport in an hour.
+
+69
+00:05:30,838 --> 00:05:32,468
+You've no objection to my men searching the grounds?
+
+70
+00:05:32,600 --> 00:05:36,250
+None at all. Though I really don't know
+what you hope to find.
+
+71
+00:05:41,160 --> 00:05:42,195
+Sergeant!
+
+72
+00:05:46,095 --> 00:05:49,699
+Ah, he's in a bad way, poor chap.
+You'd better get him to the hospital.
+
+73
+00:05:50,342 --> 00:05:51,140
+Captain Yates...
+
+74
+00:05:51,320 --> 00:05:52,242
+Right away, sir.
+
+75
+00:05:56,466 --> 00:05:58,981
+This is a new one on me.
+What do you make of it, Doctor?
+
+76
+00:06:02,227 --> 00:06:03,257
+I'm not sure...
+
+77
+00:06:03,483 --> 00:06:04,033
+Sir?
+
+78
+00:06:05,432 --> 00:06:06,537
+What've you got there, Benton?
+
+79
+00:06:06,743 --> 00:06:07,827
+No idea, sir.
+
+80
+00:06:08,884 --> 00:06:10,539
+It was hidden about fifty feet inside the tunnel. 
+
+81
+00:06:17,837 --> 00:06:19,362
+Have you seen this before?
+
+82
+00:06:19,549 --> 00:06:22,786
+Really Brigadier! What sort of games are you playing?
+
+83
+00:06:22,939 --> 00:06:25,167
+It's not a game, sir. It's our duty to protect you!
+
+84
+00:06:25,276 --> 00:06:26,762
+I don't need your protection!
+
+85
+00:06:26,859 --> 00:06:31,495
+Sir Reginald, we've just found a very severely
+injured man down by the canal tunnel.
+
+86
+00:06:31,644 --> 00:06:33,755
+Oh really? And what did he look like?
+
+87
+00:06:33,902 --> 00:06:38,923
+Thirty-fiveish, average build. He was wearing
+a sort of guerilla combat suit.
+
+88
+00:06:39,050 --> 00:06:40,371
+And carrying that gun.
+
+89
+00:06:40,452 --> 00:06:45,596
+I am very sorry, gentlemen, but I have rather more important
+things on my mind at the moment. If you'll excuse me?
+
+90
+00:06:45,728 --> 00:06:47,447
+I've arranged an escort to take you to the airport, sir.
+
+91
+00:06:47,559 --> 00:06:48,908
+Thank you, but it shouldn't be necessary.
+
+92
+00:06:48,997 --> 00:06:50,500
+I'm sorry, sir, but I think it will!
+
+93
+00:06:50,591 --> 00:06:51,831
+Oh, if you insist.
+
+94
+00:06:55,370 --> 00:06:58,712
+I'd like to get that gun down to the laboratory
+and run a few tests on it.
+
+95
+00:07:02,712 --> 00:07:05,162
+Well, basically it's a form of ultra-sonic disintegrator.
+
+96
+00:07:05,457 --> 00:07:06,361
+You mean a ray gun?
+
+97
+00:07:06,574 --> 00:07:08,514
+That's right, Jo, I mean a ray gun. 
+
+97
+00:07:08,674 --> 00:07:13,214
+Only it's far more sophisticated than any weapon
+yet invented on Earth. Now take a look at this.
+
+98
+00:07:18,059 --> 00:07:19,825
+Quite an effective little weapon, eh?
+
+99
+00:07:21,236 --> 00:07:25,472
+Doctor, you say this wasn't made on Earth.
+Do you mean it comes from another planet?
+
+100
+00:07:25,760 --> 00:07:27,479
+Well that was my theory at first, yes.
+
+100
+00:07:27,560 --> 00:07:32,779
+But the metallurgical analysis shows that the,
+er, iron constituent is very much of this world./32.8
+
+100
+00:07:32,860 --> 00:07:35,579
+In fact, it was mined not very far from here - North Wales.
+
+101
+00:07:36,128 --> 00:07:37,561
+How do you explain that?
+
+102
+00:07:40,017 --> 00:07:41,880
+Do you believe in ghosts, Brigadier?
+
+103
+00:07:42,130 --> 00:07:43,047
+Let's be serious, Doctor.
+
+104
+00:07:43,289 --> 00:07:43,952
+I am.
+
+105
+00:07:44,182 --> 00:07:45,592
+Oh, come along, Doctor, come along.
+
+106
+00:07:45,724 --> 00:07:50,514
+Oh, my mistake. I was forgetting
+the unimaginative nature of the military mind.
+
+106
+00:07:50,624 --> 00:07:54,014
+But we saw a couple of "Amicus Seperatus"
+a few moments ago, didn't we, Jo?
+
+107
+00:07:54,234 --> 00:07:55,002
+Did we?
+
+108
+00:07:55,156 --> 00:07:56,525
+Yes, here in this laboratory.
+
+109
+00:07:56,641 --> 00:07:57,785
+Oh, you mean when we...
+
+110
+00:07:57,870 --> 00:08:00,497
+Mind you, they were manifestations
+of a much more benevolent kind.
+
+110
+00:08:00,670 --> 00:08:05,997
+None of your clanking chains and chilly fingers!
+But ghosts, none the less.
+
+111
+00:08:06,028 --> 00:08:09,742
+That was because you were playing around
+with the time mechanism on the TARDIS, wasn't it?
+
+112
+00:08:09,972 --> 00:08:11,734
+Still can't get it to work, eh?
+
+113
+00:08:12,106 --> 00:08:18,388
+Well, I can't get this thing to work, either.
+But this is a form of, er, of time machine of a very crude kind.
+
+114
+00:08:18,571 --> 00:08:19,735
+How do you know?
+
+115
+00:08:19,875 --> 00:08:21,105
+Come over here. Look at this.
+
+116
+00:08:22,786 --> 00:08:23,958
+Now what do you think that is?
+
+117
+00:08:24,150 --> 00:08:26,685
+Ooh, it's a... mini-dematerialisation circuit.
+
+118
+00:08:26,816 --> 00:08:29,653
+Top of the class, Jo.
+Now then, pop this in here, like that.
+
+119
+00:08:30,340 --> 00:08:33,950
+Now, as far as I can gather,
+when you push this button, it should...
+
+120
+00:08:34,698 --> 00:08:36,437
+Good grief! It's working!
+
+121
+00:08:45,501 --> 00:08:46,698
+Sir?
+
+122
+00:08:47,182 --> 00:08:48,055
+What is it?
+
+123
+00:08:48,311 --> 00:08:51,092
+Time transmitter in operation, sir.
+Twentieth Century Zone.
+
+124
+00:08:51,358 --> 00:08:53,365
+Can you fix the space-time coordinates?
+
+125
+00:08:53,448 --> 00:08:54,853
+Do be careful, Doctor!
+
+126
+00:08:55,180 --> 00:08:56,682
+All right, Jo, all right.
+
+127
+00:08:56,946 --> 00:08:57,605
+Well?
+
+128
+00:08:58,127 --> 00:09:02,208
+No good, sir. There was a transference,
+I think, but the machine's cut out completely.
+
+129
+00:09:02,537 --> 00:09:07,234
+Continue scanning - and next time
+you had better be more efficient!
+
+130
+00:09:09,970 --> 00:09:11,417
+Report!
+
+131
+00:09:11,446 --> 00:09:16,695
+Yes, I see. All right, sergeant.  You'd better
+report back to Captain Yates. Goodbye.
+
+132
+00:09:16,862 --> 00:09:19,807
+That was Benton. He was in the ambulance
+with the man we found.
+
+133
+00:09:19,996 --> 00:09:20,920
+Well?
+
+134
+00:09:21,191 --> 00:09:27,999
+Well according to him, that man just...
+vanished, faded away - like a ghost.
+
+135
+00:09:28,211 --> 00:09:29,246
+Oh no!
+
+136
+00:09:29,455 --> 00:09:30,904
+Well, Doctor, what now?
+
+137
+00:09:31,198 --> 00:09:34,166
+Well, everything that happens seems to
+centre round Styles' house.
+
+138
+00:09:34,483 --> 00:09:35,532
+Obviously.
+
+139
+00:09:35,749 --> 00:09:37,604
+And whoever tried to harm him will probably try again.
+
+140
+00:09:39,865 --> 00:09:43,940
+Jo, how would you like to spend the night
+in a haunted house?
+
+141
+00:10:07,901 --> 00:10:08,846
+Wake up, Jo.
+
+142
+00:10:09,029 --> 00:10:10,678
+It's all right. It's morning.
+
+143
+00:10:10,876 --> 00:10:12,052
+Nothing's happened?
+
+144
+00:10:12,216 --> 00:10:13,175
+No, nothing at all.
+
+145
+00:10:46,623 --> 00:10:50,901
+Jo! Jo!
+
+146
+00:11:28,261 --> 00:11:34,224
+Please! Turn that machine off
+- or they'll kill all of us! Please!
+
+147
+00:11:39,294 --> 00:11:40,237
+Sir?
+
+148
+00:11:40,431 --> 00:11:41,219
+Yes?
+
+149
+00:11:41,376 --> 00:11:43,492
+We've picked up that time transmitter again.
+
+150
+00:11:43,642 --> 00:11:44,377
+You're sure?
+
+151
+00:11:44,517 --> 00:11:48,166
+Yes, sir. Same frequency, same time...
+time zone. Much stronger now.
+
+152
+00:11:48,420 --> 00:11:53,427
+Right. I want the exact space-time co-ordinates
+so whatever happens, don't lose it!
+
+153
+00:11:57,000 --> 00:11:59,300
+What is your report?
+
+154
+00:11:59,583 --> 00:12:02,436
+We have a fix on the time transfer device.
+
+154
+00:12:02,583 --> 00:12:07,436
+It is operating again in the twentieth century
+time zone and it must be them.
+
+155
+00:12:07,823 --> 00:12:13,131
+You have obtained the space-time co-ordinates?
+
+156
+00:12:13,423 --> 00:12:17,819
+We're trying now. The trace is much stronger
+this time. There is every chance...
+
+157
+00:12:17,877 --> 00:12:19,626
+You must not fail!
+
+158
+00:12:19,850 --> 00:12:27,778
+Security forces are standing by. If we do get
+the co-ordinates, what are your instructions?
+
+159
+00:12:27,964 --> 00:12:36,737
+Whoever is operating the time machine
+is an enemy of the Daleks.
+
+159
+00:12:36,964 --> 00:12:45,137
+All enemies of the Daleks must be destroyed!
+Exterminate them!
+
