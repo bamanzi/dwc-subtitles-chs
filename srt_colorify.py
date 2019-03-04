@@ -21,21 +21,22 @@ def print_entry(entry):
     else:
         for line in entry['dialog']:
             if not _is_ascii(line) and not line.startswith('<'):
-                non_ascii_line_count += 1            
+                non_ascii_line_count += 1
         if non_ascii_line_count>1:
             print("%s:%s:WARN: Too many non-ascii lines" % (filename, lineno0), file=sys.stderr)
         elif non_ascii_line_count==0:
             print("%s:%s:WARN: Translate missing" % (filename, lineno0), file=sys.stderr)
     
     print("%d" % entry_id)
-    print("%s" % entry['timeline'])        
+    print("%s" % entry['timeline'])
     for line in entry['dialog']:
         if line.startswith('<i') or _is_ascii(line):
             print('<font color="gray">%s</font>' % line)
         else:
             print(line)
     print('')
-    
+
+
 def main(filename):
     re_time = re.compile("([0-9:,]{10,12}) --> ([0-9:,]{10,12})")
     with open(filename) as fp:
@@ -50,7 +51,7 @@ def main(filename):
             if line.isdigit(): # new entry starting
                 # print last entry
                 if entry:
-                    print_entry(entry)                
+                    print_entry(entry)
             else:
                 match = re_time.search(line)
                 if match:
@@ -73,8 +74,8 @@ def main(filename):
 
                 elif len(line)>0 and not line[0:2].isdigit(): # dialog line
                     entry['dialog'].append(line)
-             
-        print(entry)
+        
+        print_entry(entry)
 
 
 def _is_ascii(s):
