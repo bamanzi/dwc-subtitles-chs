@@ -228,7 +228,6 @@ What's that?
 00:03:53,727 --> 00:03:56,978
 (JAMIE) Travel Mat? Sounds like a flying carpet!
 
-
 56
 00:03:57,147 --> 00:04:03,381
 <i>Travel Mat uses the principle of dematerialisation at the point of departure,</i>
@@ -624,4373 +623,4944 @@ Guard!
 Kill him!
 
 150
-00:09:33,207 --> 00:09:36,085
-(TRILLING BUZZ)
-
-151
-01:01:49,187 --> 01:01:51,940
-- Not again!
-- The second Moscow consignment?
-
-152
-01:01:52,107 --> 01:01:55,179
-They'll think it's deliberate if this goes on.
-
-153
-01:01:55,347 --> 01:01:59,101
-T-Mat Reception, Earth to moon. Controller Kelly calling.
-
-154
-01:01:57,547 --> 01:02:01,779
-<i>(COMPUTER) Bombay-Tokyo shipment activated.</i>
-
-155
-01:01:59,267 --> 01:02:02,020
-Switch your communication links to video.
-
-156
-01:02:01,947 --> 01:02:05,781
-<i>Bombay sending now. Tokyo receiving now. Dispatch completed.</i>
-
-157
-01:02:05,067 --> 01:02:08,901
-Osgood's gone too far this time! There'll be trouble!
-
-158
-01:02:05,947 --> 01:02:09,622
-<i>New York to Moscow delayed, Moonbase clearance awaited.</i>
-
-159
-01:02:09,787 --> 01:02:14,383
-<i>Stockholm-Washington personnel transportation, Stockholm sending now.</i>
-
-160
-01:02:14,547 --> 01:02:19,257
-<i>Dispatch completed. Non arrival, shipment of synthetic protein,</i>
-
-161
-01:02:19,427 --> 01:02:20,826
-<i>New York to Moscow,</i>
-
-162
-01:02:20,987 --> 01:02:22,898
-<i>Moonbase clearance awaited.</i>
-
-163
-01:02:23,067 --> 01:02:25,058
-- Brent.
-- Yes, Miss Kelly?
-
-164
-01:02:25,227 --> 01:02:28,776
-- Why the delay at Moon Control?
-- There's been a mix-up.
-
-165
-01:02:28,947 --> 01:02:32,860
-- The Moscow shipment's in Canberra.
-- Fewsham again, I suppose!
-
-166
-01:02:33,027 --> 01:02:36,622
-- Take Moscow out of phase.
-- Moscow pending. Moonbase clear.
-
-167
-01:02:36,787 --> 01:02:41,736
-<i>Toronto-Calcutta shipment activated.</i>
-<i>Calcutta receiving now.</i>
-
-168
-01:02:41,907 --> 01:02:44,262
-<i>- Dispatch completed.</i>
-- Moscow's ready.
-
-169
-01:02:44,427 --> 01:02:47,897
-- Report Canberra-Moscow.
-<i>- Canberra-Moscow clear.</i>
-
-170
-01:02:48,067 --> 01:02:50,342
-- Tell them to activate.
-- Go ahead.
-
-171
-01:02:50,507 --> 01:02:55,058
-<i>Canberra sending now. Moscow receiving now. Dispatch completed.</i>
-
-172
-01:02:55,227 --> 01:02:56,706
-(TRILLING TONE)
-
-173
-01:03:01,987 --> 01:03:05,457
-- Good morning!
-- Morning. Just as well you've arrived!
-
-174
-01:03:05,627 --> 01:03:09,506
-The sooner you take over from Fewsham on Moon Control the better!
-
-175
-01:03:09,667 --> 01:03:13,137
-All T-Mat consignments
-are five minutes behind schedule.
-
-176
-01:03:13,307 --> 01:03:17,095
-Fewsham routed a Moscow consignment
-through to Canberra.
-
-177
-01:03:17,267 --> 01:03:20,737
-- He's a lunatic!
-- You shouldn't have recommended him
-
-178
-01:03:20,907 --> 01:03:23,216
-for an assistant controller's job.
-
-179
-01:03:23,387 --> 01:03:26,459
-Yes, I know now,
-but I thought he deserved a break.
-
-180
-01:03:26,627 --> 01:03:31,018
-He'll do something disastrous one day
-and you'll have to answer for it!
-
-181
-01:03:31,187 --> 01:03:35,385
-- So, I'll work in a synthetics factory!
-- It's your career!
-
-182
-01:03:35,547 --> 01:03:38,619
-So it is! Have you
-a T-Mat cubicle ready for me?
-
-183
-01:03:38,787 --> 01:03:41,699
-- Yes, Number 6.
-- See you later.
-
-184
-01:03:46,667 --> 01:03:50,740
-Prepare lunar cubicle Number 6
-for transport to Moon Control.
-
-185
-01:03:50,907 --> 01:03:52,704
-Ready and waiting.
-
-186
-01:03:52,867 --> 01:03:54,266
-Activate.
-
-187
-01:03:56,907 --> 01:04:00,058
-(TRILLING TONE)
-
-188
-01:04:05,787 --> 01:04:08,620
-It's lucky he got here
-before your man arrived.
-
-189
-01:04:08,787 --> 01:04:10,186
-Yes. He's late.
-
-190
-01:04:10,347 --> 01:04:12,781
-- Keep a T-Mat cubicle open.
-- Right.
-
-191
-01:04:14,107 --> 01:04:16,541
-Local cubicle two holding open.
-
-192
-01:04:16,707 --> 01:04:20,495
-- Report Moonbase situation.
-<i>- Moonbase clear.</i>
-
-193
-01:04:20,667 --> 01:04:24,023
-<i>Routine shipments transferring</i>
-<i>on automatic control.</i>
-
-194
-01:04:24,187 --> 01:04:26,701
-<i>Local arrival. Cubicle two activating.</i>
-
-195
-01:04:26,867 --> 01:04:30,223
-(TRILLING TONE)
-
-196
-01:04:38,667 --> 01:04:42,865
-Good morning, Brent.
-Good morning, Gia. All functioning well?
-
-197
-01:04:43,027 --> 01:04:45,018
-Of course, Commander Radnor.
-
-198
-01:04:45,187 --> 01:04:48,418
-In your case, efficiency and charm
-go hand in hand!
-
-199
-01:04:48,587 --> 01:04:52,944
-- I try to run things smoothly.
-- Nothing goes wrong while you're on duty!
-
-200
-01:04:53,107 --> 01:04:54,665
-I don't allow it!
-
-201
-01:06:35,947 --> 01:06:38,222
-I thought the system was infallible.
-
-202
-01:06:38,387 --> 01:06:41,857
-- It won't be anything serious.
-- I'm glad you think so!
-
-203
-01:06:42,027 --> 01:06:46,578
-- Brent, is there any obvious damage?
-- None reported. All links stable.
-
-204
-01:06:46,747 --> 01:06:50,342
-- That's only local.
-- It's part of the checking process.
-
-205
-01:06:50,507 --> 01:06:54,182
-- Report on T-Mat breakdown.
-<i>- Complete power phase blank.</i>
-
-206
-01:06:54,347 --> 01:06:58,818
-- The materialisation pulse generator?
-<i>- Overloaded. No damage this end.</i>
-
-207
-01:06:58,987 --> 01:07:01,979
-- Check with Moonbase.
-<i>- Primary video link dead.</i>
-
-208
-01:07:02,147 --> 01:07:04,138
-- Cause?
-<i>- Being investigated.</i>
-
-209
-01:07:04,307 --> 01:07:08,858
-- Are you sure it isn't serious?
-- My staff are running a thorough check.
-
-210
-01:07:09,027 --> 01:07:13,066
-- Until I have the report, I can't answer.
-- I want that report soon!
-
-211
-01:07:18,227 --> 01:07:21,663
-(WHOOSHING)
-
-212
-01:07:23,307 --> 01:07:25,901
-Doctor, if we've landed, where are we?
-
-213
-01:07:26,067 --> 01:07:28,661
-That is what I'm trying to find out, Zoe.
-
-214
-01:07:30,427 --> 01:07:34,056
-(ZOE) A rocket?
-(JAMIE) We're just hanging in space!
-
-215
-01:07:34,227 --> 01:07:36,024
-Well, we can't be!
-
-216
-01:07:36,187 --> 01:07:38,576
-Let's try and find a star we know.
-
-217
-01:07:39,667 --> 01:07:43,137
-(DOCTOR GROANS WITH EFFORT)
-There we are.
-
-218
-01:07:44,587 --> 01:07:46,384
-What in heaven's name...?
-
-219
-01:07:46,547 --> 01:07:49,778
-- What's he up to?
-- He's trying to climb aboard.
-
-220
-01:07:49,947 --> 01:07:52,859
-Just a minute... Just a minute.
-
-221
-01:07:54,227 --> 01:07:56,297
-(DOCTOR) Oh, this control is...
-
-222
-01:07:56,467 --> 01:07:58,697
-There we are.
-
-223
-01:07:58,867 --> 01:08:04,100
-Now that's an ion-jet rocket
-of the 21st century, but...but...
-
-224
-01:08:04,267 --> 01:08:06,258
-..this helmet, if I can...
-
-225
-01:08:06,427 --> 01:08:07,940
-There we are!
-
-226
-01:08:08,107 --> 01:08:13,227
-That's not nearly so sophisticated.
-It's certainly not later than 1960.
-
-227
-01:08:13,387 --> 01:08:15,537
-(JAMIE) The letters on his helmet?
-
-228
-01:08:15,707 --> 01:08:18,505
-(ZOE) C-C-C-P.
-
-229
-01:08:18,667 --> 01:08:20,658
-(DOCTOR) Of course!
-
-230
-01:08:20,827 --> 01:08:22,704
-- What?
-- Just a minute.
-
-231
-01:08:24,707 --> 01:08:27,824
-(DOCTOR) Yes, I think that explains it!
-
-232
-01:08:27,987 --> 01:08:29,978
-(ZOE) Well, Doctor, what is it?
-
-233
-01:08:30,147 --> 01:08:32,217
-(DOCTOR) It's a flying machine,
-
-234
-01:08:32,387 --> 01:08:36,938
-designed by a gentleman by the name
-of Leonardo da Vinci in about 1500.
-
-235
-01:08:37,107 --> 01:08:40,656
-- Well, what's it doing up here?!
-- Doctor, where are we?
-
-236
-01:08:40,827 --> 01:08:42,818
-- We're in a museum!
-- A what?
-
-237
-01:08:42,987 --> 01:08:46,821
-A space museum! Look!
-There you are. A balloon...
-
-238
-01:08:48,307 --> 01:08:52,459
-That's a transport plane.
-Now, those initials stand for Russia.
-
-239
-01:08:52,627 --> 01:08:57,018
-That's Gagarin,
-the first earthman in space. Look.
-
-240
-01:08:58,587 --> 01:09:01,579
-Come on, let's have a look round, shall we?
-
-241
-01:09:06,307 --> 01:09:07,706
-Wait for me!
-
-242
-01:14:48,107 --> 01:14:50,462
-You will start work at once!
-
-243
-01:14:50,627 --> 01:14:52,697
-There will be a guard at the door.
-
-244
-01:14:52,867 --> 01:14:56,337
-When I return...
-
-245
-01:14:56,507 --> 01:15:02,104
-..you will have the T-Mat link
-ready for operation.
-
-246
-01:15:02,267 --> 01:15:05,703
-(HISSING, LABOURED BREATHING)
-
-247
-01:15:06,867 --> 01:15:10,542
-Don't be a fool, Fewsham!
-If we repair the emergency link,
-
-248
-01:15:10,707 --> 01:15:13,096
-these creatures can travel to Earth!
-
-249
-01:15:13,267 --> 01:15:16,339
-- What about us?
-- As soon as he gets what he wants,
-
-250
-01:15:16,507 --> 01:15:18,498
-we'll mean nothing to him!
-
-251
-01:15:18,667 --> 01:15:22,660
-- If we co-operate, we've got a chance!
-- Osgood didn't take it!
-
-252
-01:15:22,827 --> 01:15:26,422
-Do you think I want to die
-like that? I want to live!
-
-253
-01:15:35,787 --> 01:15:38,824
-(KELLY) Brent, is there
-any trace of a reason?
-
-254
-01:15:38,987 --> 01:15:42,662
-We've double checked.
-This end is functioning normally.
-
-255
-01:15:42,827 --> 01:15:44,545
-Then it must be Moonbase!
-
-256
-01:15:44,707 --> 01:15:48,256
-We've no way of checking
-their apparatus from this end.
-
-257
-01:15:48,427 --> 01:15:52,181
-- Commander Radnor's at a meeting.
-- He'll expect a full report.
-
-258
-01:15:52,347 --> 01:15:55,066
-There it is.
-We've even checked the computer.
-
-259
-01:15:55,227 --> 01:15:58,697
-(RADNOR) Have you located
-the cause of the breakdown?
-
-260
-01:15:58,867 --> 01:16:02,098
-- This end is clear.
-- That isn't what I want to know!
-
-261
-01:16:02,267 --> 01:16:04,861
-- We cannot trace the fault.
-- Miss Kelly!
-
-262
-01:16:08,507 --> 01:16:11,704
-I have senior government officials
-hounding me.
-
-263
-01:16:11,867 --> 01:16:16,657
-They expect a more informative
-answer, and so do I!
-
-264
-01:16:16,827 --> 01:16:19,660
-There isn't one. The trouble is at Moonbase.
-
-265
-01:16:19,827 --> 01:16:22,899
-- Why can't you deal with it?
-- We can't get there.
-
-266
-01:16:23,067 --> 01:16:25,058
-We can't even talk to them.
-
-267
-01:16:25,227 --> 01:16:28,378
-You mean there's no other way
-of contacting them?
-
-268
-01:16:28,547 --> 01:16:30,378
-Only by rocket (!)
-
-269
-01:16:32,187 --> 01:16:35,259
-That could be our only answer!
-
-270
-01:16:35,427 --> 01:16:38,942
-(BRENT) The only place you'll find
-a rocket is in a museum!
-
-271
-01:16:39,107 --> 01:16:42,338
-- Exactly!
-- Even if one could be made operational,
-
-272
-01:16:42,507 --> 01:16:47,706
-- no one could control such a project.
-- You're wrong. There is one man,
-
-273
-01:16:47,867 --> 01:16:49,983
-one man alone who can help us now.
-
-274
-01:16:50,147 --> 01:16:54,345
-For the last time, who are you
-and why are you in my private workshop?
-
-275
-01:16:54,507 --> 01:16:59,786
-Now there really is no need
-for all these...these histrionics.
-
-276
-01:16:59,947 --> 01:17:03,656
-- We are perfectly harmless!
-- How did you even get in here?
-
-277
-01:17:03,827 --> 01:17:06,387
-The usual way. We just materialised.
-
-278
-01:17:06,547 --> 01:17:10,540
-The T-Mat cubicle didn't give
-automatic warnings this time.
-
-279
-01:17:10,707 --> 01:17:12,823
-(ZOE) That's not our fault, is it?
-
-280
-01:17:12,987 --> 01:17:15,865
-- Why did you come?
-- Well, this is a museum!
-
-281
-01:17:16,027 --> 01:17:18,780
-The museum is... What on earth's that?
-
-282
-01:17:18,947 --> 01:17:22,178
-It's a 20th-century police box, isn't it?
-
-283
-01:17:22,347 --> 01:17:24,338
-Well, yes, in a way.
-
-284
-01:17:24,507 --> 01:17:26,577
-Well, how did it get in my museum?
-
-285
-01:17:26,747 --> 01:17:29,659
-(ZOE) You could say
-it was a form of spaceship.
-
-286
-01:17:29,827 --> 01:17:32,057
-We owe this gentleman an apology.
-
-287
-01:17:32,227 --> 01:17:35,776
-We really are most interested
-in the museum, Mr, um...?
-
-288
-01:17:35,947 --> 01:17:37,938
-Eldred. Professor Eldred.
-
-289
-01:17:38,107 --> 01:17:42,305
-The museum is closed
-to the general public. Please leave.
-
-290
-01:17:42,467 --> 01:17:46,142
-- Are you in charge of this place?
-- I own it! I have the right
-
-291
-01:17:46,307 --> 01:17:49,697
-- to ask you to leave!
-- There's no need to threaten us.
-
-292
-01:17:49,867 --> 01:17:53,542
-- Trespassers are not welcome!
-- We're not trespassers!
-
-293
-01:17:53,707 --> 01:17:58,303
-- We're very interested!
-- Interested in these antiquated machines?
-
-294
-01:17:58,467 --> 01:18:01,937
-Come for a good laugh, I suppose,
-like the rest of them!
-
-295
-01:18:02,107 --> 01:18:07,465
-Laugh?! You mean people laugh at this?
-It's a magnificent exhibition!
-
-296
-01:18:07,627 --> 01:18:11,097
-- We've had enough souvenir hunters!
-- We're not thieves!
-
-297
-01:18:11,267 --> 01:18:13,622
-We haven't come to take anything!
-
-298
-01:18:13,787 --> 01:18:16,745
-We genuinely are interested in space travel!
-
-299
-01:18:16,907 --> 01:18:19,057
-Why, especially a thing like this!
-
-300
-01:18:19,227 --> 01:18:22,025
-- This is superb!
-- (ELDRED) Yes, magnificent!
-
-301
-01:18:22,187 --> 01:18:25,862
-It was to have been the vehicle
-to take man beyond the moon.
-
-302
-01:18:26,027 --> 01:18:30,498
-- T-Mat put an end to all that!
-- You mean this model's been abandoned?
-
-303
-01:18:30,667 --> 01:18:35,343
-But its speed and stability are
-a tremendous advance in rocket design!
-
-304
-01:18:35,507 --> 01:18:37,975
-Exactly! Here, let me show it to you!
-
-305
-01:18:40,907 --> 01:18:43,580
-Oh, yes, this is superb. My word!
-
-306
-01:18:43,747 --> 01:18:48,104
-The real breakthrough was a compact
-generator of enormous power!
-
-307
-01:18:48,267 --> 01:18:51,896
-And these must be the secondary
-electrode accelerators.
-
-308
-01:18:52,067 --> 01:18:56,902
-Yes, you see, it beat the problem
-of the neutral caesium ions.
-
-309
-01:18:57,067 --> 01:19:00,662
-It magnified the G-thrust, too.
-Fantastic proportions!
-
-310
-01:19:00,827 --> 01:19:02,624
-That was awkward!
-
-311
-01:19:02,787 --> 01:19:05,540
-- What did you do about that?
-- I'll show you.
-
-312
-01:19:05,707 --> 01:19:07,698
-(DOCTOR) What have we got here?
-
-313
-01:19:07,867 --> 01:19:10,620
-Look at them! They're like a couple of kids!
-
-314
-01:19:10,787 --> 01:19:13,585
-Yeah, he's almost in love with that rocket!
-
-315
-01:19:13,747 --> 01:19:16,580
-Well, that's not surprising - I designed it!
-
-316
-01:19:16,747 --> 01:19:18,897
-I've been in rocketry all my life.
-
-317
-01:19:19,067 --> 01:19:22,662
-My father engineered
-the first lunar passenger module,
-
-318
-01:19:22,827 --> 01:19:26,979
-and I travelled on the last trip
-back to Earth before it finished.
-
-319
-01:19:27,147 --> 01:19:29,707
-- Before what finished?
-- Space travel.
-
-320
-01:19:29,867 --> 01:19:33,462
-But if the rocket was so good,
-why did you stop at the moon?
-
-321
-01:19:33,627 --> 01:19:36,061
-- Aye, why end there?
-- Because of T-Mat.
-
-322
-01:19:36,227 --> 01:19:38,297
-T-Mat, the ultimate in travel,
-
-323
-01:19:38,467 --> 01:19:42,904
-with as much sense of adventure
-as a synthetic carbohydrates factory!
-
-324
-01:19:43,067 --> 01:19:47,538
-Surely rockets would still be useful
-as an auxiliary means of transport?
-
-325
-01:19:47,707 --> 01:19:50,460
-Besides, how would man get beyond the moon?
-
-326
-01:19:50,627 --> 01:19:53,539
-Nobody cares any more about exploring space.
-
-327
-01:19:53,707 --> 01:19:57,859
-Life's made... Well, it was
-made too easy by T-Mat.
-
-328
-01:19:58,027 --> 01:20:00,461
-I see. So you lost government backing?
-
-329
-01:20:00,627 --> 01:20:03,778
-The project was abandoned...except by me.
-
-330
-01:20:08,387 --> 01:20:12,460
-You've got to help me! If we don't
-repair it, we'll all be killed!
-
-331
-01:20:12,627 --> 01:20:15,699
-Maybe we could repair it
-and T-Mat back to London?
-
-332
-01:20:15,867 --> 01:20:19,542
-With that thing guarding the door?
-I'll keep on trying.
-
-333
-01:20:19,707 --> 01:20:22,380
-Maybe there is something we can do.
-
-334
-01:20:22,547 --> 01:20:24,617
-- What?
-- I knew you'd see reason!
-
-335
-01:20:28,387 --> 01:20:32,266
-- What are you doing?!
-- The video link with Earth.
-
-336
-01:20:32,427 --> 01:20:34,816
-It's not so badly damaged as the T-Mat.
-
-337
-01:20:34,987 --> 01:20:37,501
-We're supposed to repair the T-Mat link!
-
-338
-01:20:37,667 --> 01:20:40,420
-Maybe we can get a message through by video.
-
-339
-01:20:40,587 --> 01:20:43,704
-A guard will see what we're doing!
-He'll kill us!
-
-340
-01:20:43,867 --> 01:20:47,064
-You play your game, we'll play ours.
-
-341
 00:09:32,344 --> 00:09:34,096
 Stop him!
 
-342
+151
+00:09:33,207 --> 00:09:36,085
+(TRILLING BUZZ)
+
+152
 00:09:37,424 --> 00:09:41,019
 (RASPING WHISPER)
 Hunt that man! He must not escape!
 
-343
+153
 00:09:41,304 --> 00:09:43,977
 Can we not help them? We can use the Tardis!
 
-344
+154
 00:09:44,044 --> 00:09:48,196
 To go to the moon? We'd probably
 overshoot by a few million years!
 
-345
+155
 00:09:48,364 --> 00:09:50,355
 Yes, or by a few million miles!
 
-346
+156
 00:09:50,524 --> 00:09:53,596
 The Tardis is not suited to short-range travel.
 
-347
+157
 00:09:53,764 --> 00:09:55,573
 Still, we should help them if we can.
 
-348
+158
 00:09:55,744 --> 00:09:58,133
 - Aye.
 - Yes.
 
-349
+159
 00:10:00,984 --> 00:10:05,243
 - I could get your rocket to the moon.
 - You?
 
-350
+160
 00:10:05,304 --> 00:10:09,399
 Yes, I have considerable experience
 in space travel.
 
-351
+161
 00:10:09,464 --> 00:10:10,855
 That's splendid! Thank you!
 
-352
+162
 00:10:11,024 --> 00:10:15,717
 - But the rocket is not ready!
 - Perhaps you overestimate the difficulty.
 
-353
+163
 00:10:15,984 --> 00:10:18,657
 How much more work is required?
 
-354
+164
 00:10:18,824 --> 00:10:21,896
 It needs fuel
 and a complete computerised check.
 
-355
+165
 00:10:22,064 --> 00:10:25,181
 - I can order that.
 - No! The risk is too great!
 
-356
+166
 00:10:25,344 --> 00:10:26,335
 If there was some other way,
 
-357
+167
 00:10:26,504 --> 00:10:29,302
 - I wouldn't even consider such a risk!
 - No!
 
-358
+168
 00:10:30,044 --> 00:10:32,281
 <i>(COMPUTER) Commander Radnor</i>
 
-359
+169
 00:10:35,004 --> 00:10:36,483
 Radnor. Go ahead.
 
-360
+170
 00:10:36,644 --> 00:10:39,363
 <i>T-Mat receptions -</i>
 <i>New York, Moscow, Tokyo -</i>
 
-361
+171
 00:10:39,524 --> 00:10:41,961
 <i>express great concern over continued hold-up.</i>
 
-362
+172
 00:10:42,224 --> 00:10:46,137
 <i>Medical shipments and food</i>
 <i>awaiting transit to Asiatic centres.</i>
 
-363
+173
 00:10:46,304 --> 00:10:49,774
 <i>Position desperate, Calcutta.</i>
 <i>Instructions awaited.</i>
 
-364
+174
 00:10:51,224 --> 00:10:54,660
 - That's your answer!
 - Well, we want to help!
 
-365
+175
 00:10:54,824 --> 00:10:57,213
 You don't understand! It's suicide!
 
-366
+176
 00:10:57,384 --> 00:11:00,660
 Listen, if this fault lasts much longer,
 
-367
+177
 00:11:00,824 --> 00:11:05,181
 there's going to be worldwide chaos,
 and world population is at stake.
 
-368
+178
 00:11:05,344 --> 00:11:08,939
 Infallible T-Mat,
 putting the world in jeopardy (?)
 
-369
+179
 00:11:09,104 --> 00:11:10,856
 All right, I admit it.
 
-370
+180
 00:11:11,024 --> 00:11:13,492
 Now this man has to risk his life for you!
 
-371
+181
 00:11:13,664 --> 00:11:17,259
 No, not for me, for thousands
 of people all over the world
 
-372
+182
 00:11:17,424 --> 00:11:20,177
 who will die if we don't take this risk!
 
-373
+183
 00:11:21,784 --> 00:11:25,299
 I'm sorry but I've got no alternative.
 
-374
+184
 00:11:25,464 --> 00:11:27,898
 - Miss Kelly.
 - Sir.
 
-375
+185
 00:11:28,064 --> 00:11:31,136
 I want all technical personnel working on this.
 
-376
+186
 00:11:31,304 --> 00:11:34,137
 I want that rocket prepared for launching!
 
-377
+187
 00:11:34,304 --> 00:11:36,295
 Yes, Commander.
 
-378
+188
 00:11:39,024 --> 00:11:42,016
 We'd be grateful for your help.
 
-379
+189
 00:11:42,184 --> 00:11:45,893
 If that rocket's to reach the moon safely,
 you'll need a miracle!
 
-380
+190
 00:11:55,784 --> 00:11:59,663
 (RASPING WHISPER)
 Continue the search!
 
-381
+191
 00:11:59,824 --> 00:12:01,815
 He must not escape!
 
-382
+192
 00:12:01,984 --> 00:12:07,581
 (HISSING, LABOURED BREATHING)
 
-383
+193
 00:12:12,924 --> 00:12:15,313
 - Commander.
 - Yes, Miss Kelly?
 
-384
+194
 00:12:15,484 --> 00:12:18,556
 Is it wise letting these people crew the rocket?
 
-385
+195
 00:12:18,724 --> 00:12:23,236
 What's the alternative?
 We gave up training astronauts years ago.
 
-386
+196
 00:12:23,304 --> 00:12:26,514
 - Who are they?
 - Eldred's crazy friends, I imagine,
 
-387
+197
 00:12:26,684 --> 00:12:30,518
 - but the Doctor knows his space travel.
 - How can you be sure?
 
-388
+198
 00:12:30,684 --> 00:12:34,154
 He and the girl know
 more about space flight than Eldred.
 
-389
+199
 00:12:34,324 --> 00:12:37,634
 - What about the boy?
 - I'm not sure about him.
 
-390
+200
 00:12:38,604 --> 00:12:41,597
 (RASPING WHISPER)
 The emergency link with Earth,
 
-391
+201
 00:12:41,664 --> 00:12:43,758
 - is it ready yet?
 - I've nearly finished.
 
-392
+202
 00:12:43,824 --> 00:12:46,636
 - Do not make any mistakes!
 - I'm not an expert!
 
-393
+203
 00:12:46,704 --> 00:12:48,695
 - But you will do it?
 - Yes!
 
-394
+204
 00:12:49,784 --> 00:12:53,743
 Commander, I think I should go
 as crew on the rocket.
 
-395
+205
 00:12:54,104 --> 00:12:57,219
 Don't be ridiculous, you're too valuable here!
 
-396
+206
 00:12:57,284 --> 00:12:59,752
 How can T-Mat be repaired if I'm not there?
 
-397
+207
 00:12:59,924 --> 00:13:03,519
 - What about (one of) the technicians (who was already over) there?
 - Osgood's dead.
 
-398
+208
 00:13:04,724 --> 00:13:09,195
 - Yes, well, what about Fewsham?
 - He's incapable of doing it! I think I) should go!
 
-399
+209
 00:13:09,364 --> 00:13:13,152
 No! You're the only one
 who really understands T-Mat.
 
-400
+210
 00:13:13,324 --> 00:13:15,554
 I can't have you risking your life!
 
-401
+211
 00:13:15,724 --> 00:13:18,192
 But (yet you are perfectly prepared to) allow them to risk theirs!
 
-402
+212
 00:13:18,364 --> 00:13:21,063
 Don't worry, (Miss Kelly) we'll be perfectly all right!
 
-403
+213
 00:13:22,884 --> 00:13:26,397
 But I don't see what good
 just this emergency link can be.
 
-404
+214
 00:13:26,764 --> 00:13:29,017
 Even if you had a gigantic army of warriors,
 
-405
+215
 00:13:29,184 --> 00:13:32,017
 you couldn't send them all to conquer Earth.
 
-406
+216
 00:13:32,184 --> 00:13:34,778
 (RASPING WHISPER)
 We do not need an army.
 
-407
+217
 00:13:34,944 --> 00:13:37,139
 Earth will be ours for the taking...
 
-408
+218
 00:13:37,304 --> 00:13:40,774
 (HISSING BREATHING)
 ..very soon!
 
-409
+219
 00:13:46,744 --> 00:13:48,735
 - Doctor...
 <i>- Yes?</i>
 
-410
+220
 00:13:48,904 --> 00:13:52,260
 Final check on procedure after you land.
 
-411
+221
 00:13:52,424 --> 00:13:55,814
 <i>Yes, (I know) we're to re-establish video link with the Earth.</i>
 
-412
+222
 00:13:55,984 --> 00:13:57,463
 That's right.
 
-413
+223
 00:13:57,624 --> 00:13:59,615
 When we can see what's wrong,
 
-414
+224
 00:13:59,784 --> 00:14:03,094
 you can do the rest
 under Miss Kelly's supervision.
 
-415
+225
 00:14:03,264 --> 00:14:05,619
 <i>Right. We're ready when you are.</i>
 
-416
+226
 00:14:07,284 --> 00:14:08,717
 <i>12...</i>
 
-417
+227
 00:14:08,884 --> 00:14:10,317
 <i>10...</i>
 
-418
+228
 00:14:10,484 --> 00:14:12,998
 nine...eight...seven...
 
-419
+229
 00:14:13,164 --> 00:14:16,713
 ..six...five...four...three...
 
-420
+230
 00:14:16,884 --> 00:14:19,000
 ..two...one.
 
-421
+231
 00:14:22,764 --> 00:14:26,040
 (HISSING, LABOURED BREATHING)
 
-422
+232
 00:14:27,124 --> 00:14:28,603
 It's done.
 
-423
+233
 00:14:28,764 --> 00:14:32,737
 - The emergency link will work now.
 - Excellent!
 
-424
+234
 00:14:32,754 --> 00:14:36,030
 - What are you going to do?
 - Do not ask questions!
 
-425
+235
 00:14:37,194 --> 00:14:39,124
 Activate the link.
 
-426
+236
 00:14:40,294 --> 00:14:43,092
 - On receive only.
 - Receive?
 
-427
+237
 00:14:43,654 --> 00:14:45,451
 But aren't you going to...?
 
-428
+238
 00:14:45,614 --> 00:14:47,923
 Activate the link on receive at once!
 
-429
+239
 00:14:48,094 --> 00:14:51,986
 - (KELLY) You've double-checked?
 <i>- Yes, the fault is on Moonbase.</i>
 
-430
+240
 00:14:52,014 --> 00:14:54,387
 Are you able to effect repairs over video?
 
-431
+241
 00:14:54,454 --> 00:14:56,445
 the fault is not too major.
 
-432
+242
 00:14:56,614 --> 00:15:00,163
 - And if they get there with the rocket!
 - They'll get there.
 
-433
+243
 00:15:00,334 --> 00:15:03,804
 You can't even be sure the rocket's still in one piece!
 
-434
+244
 00:15:03,974 --> 00:15:05,486
 Miss Kelly! 
 
-435
+245
 00:15:05,610 --> 00:15:08,686
 The emergency T-Mat link to Moon Control is activating!</i>
 
-436
+246
 00:15:08,804 --> 00:15:10,545
 Is someone coming through?
 
-437
+247
 00:15:10,914 --> 00:15:12,905
 <i>No, it's on send.</i>
 
-438
+248
 00:15:13,074 --> 00:15:16,225
 Moonbase has managed
 to make a temporary repair.
 
-439
+249
 00:15:16,394 --> 00:15:20,224
 Have a full emergency kit waiting.
 
-440
+250
 00:15:20,294 --> 00:15:24,492
 - I'll join you as soon as possible.
 <i>- Yes, Miss Kelly. Standing by.</i>
 
-441
+251
 00:15:24,774 --> 00:15:26,073
 Where are you are going?
 
-442
+252
 00:15:26,134 --> 00:15:28,607
 If we can send, it's the only thing I can do.
 
-443
+253
 00:15:28,674 --> 00:15:30,025
 You dont know) what conditions are like up there!
 
-444
+254
 00:15:30,094 --> 00:15:32,470
 I know all too well what are like down here
 
-445
+255
 00:15:32,634 --> 00:15:34,627
 Commander, you've stopped me once.
 
-446
+256
 00:15:34,994 --> 00:15:38,873
 Don't try it again, otherwise
 I shall have to go above your head.
 
-447
+257
 00:15:40,034 --> 00:15:43,106
 - She's after your job, Julian!
 - Miss Kelly!
 
-448
+258
 00:15:58,994 --> 00:16:02,191
 (TRILLING TONE)
 
-449
+259
 00:16:06,474 --> 00:16:09,086
 - Thank heavens you've come!
 - What happened?
 
-450
+260
 00:16:09,154 --> 00:16:13,447
 Osgood, it must have been space madness.
 He just went berserk!
 
-451
+261
 00:16:13,514 --> 00:16:16,750
 Osgood? But he'd be the last man,
 I'd have thought!
 
-452
+262
 00:16:16,914 --> 00:16:19,064
 - So did we.
 - Where are the others?
 
-453
+263
 00:16:19,234 --> 00:16:22,829
 When Osgood fused the controls,
 Locke tried to stop him.
 
-454
+264
 00:16:22,994 --> 00:16:25,588
 - Osgood killed him.
 - This is fantastic!
 
-455
+265
 00:16:25,754 --> 00:16:29,303
 - What about Phipps?
 - He's injured and under sedation.
 
-456
+266
 00:16:29,474 --> 00:16:32,068
 - And you?
 - There's nothing wrong with me.
 
-457
+267
 00:16:32,234 --> 00:16:33,713
 You look frightened.
 
-458
+268
 00:16:33,874 --> 00:16:36,547
 If you'd seen Osgood die, wouldn't you be?
 
-459
+269
 00:16:36,714 --> 00:16:39,148
 How did he die?
 
-460
+270
 00:16:39,314 --> 00:16:41,111
 His body's outside.
 
-461
+271
 00:16:41,274 --> 00:16:42,787
 He just went out.
 
-462
+272
 00:16:42,954 --> 00:16:46,390
 Without a pressure suit? I see.
 
-463
+273
 00:16:48,674 --> 00:16:51,871
 Open all control sections and computer links.
 
-464
+274
 00:16:54,954 --> 00:16:56,145
 Fewsham, what are you doing?
 
-465
+275
 00:16:56,314 --> 00:16:58,953
 I'd best switch off the emergency link.
 
-466
+276
 00:16:59,114 --> 00:17:02,265
 - It could easily burn itself out.
 - Sensible.
 
-467
+277
 00:17:02,634 --> 00:17:05,843
 It will prevent Commander Radnor sending a security guard
 
-468
+278
 00:17:05,914 --> 00:17:07,509
 to drag me back to Earth!
 
-469
+279
 00:17:11,454 --> 00:17:15,447
 (RASPING WHISPER)
 The other human is still free. Find him!
 
-470
+280
 00:17:16,314 --> 00:17:19,306
 He must not interfere with our plans!
 
-471
+281
 00:17:28,234 --> 00:17:30,671
 Hello, Earth Control, this is Moonbase.
 
-472
+282
 00:17:30,734 --> 00:17:33,873
 Emergency! How do you read me?
 
-473
+283
 00:17:37,914 --> 00:17:42,305
 Hello, Earth Control, this is Moonbase.
 Emergency! Can you hear me?
 
-474
-01:17:56,194 --> 01:18:00,392
-(ZOE) It's no use. No contact
-at all. Every circuit's dead.
-
-475
-01:18:00,554 --> 01:18:04,866
-- This is most unfortunate!
-- Don't try them again. You'll blow us up!
-
-476
-01:18:05,034 --> 01:18:06,433
-We don't need a radio.
-
-477
-01:18:06,594 --> 01:18:09,904
-- We're nearly there.
-- I wanted to contact Earth.
-
-478
-01:18:10,074 --> 01:18:13,464
-There's no need. We can activate
-the moon homing beam.
-
-479
-01:18:13,634 --> 01:18:16,990
-How? We've got no contact
-with anyone on the moon.
-
-480
-01:18:17,154 --> 01:18:20,066
-It's quite simple. It's an automatic device.
-
-481
-01:18:20,234 --> 01:18:24,147
-Our code radio signals
-trigger the homing beam into action.
-
-482
-01:18:24,314 --> 01:18:26,305
-We automatically lock onto it
-
-483
-01:18:26,474 --> 01:18:30,592
-until we reach the point in orbit
-where we fire retro-rockets to land.
-
-484
-01:18:30,754 --> 01:18:33,985
-If they've all been cut off,
-how can they activate?
-
-485
-01:18:34,154 --> 01:18:37,464
-It works off a different
-power source - solar power.
-
-486
-01:18:37,634 --> 01:18:40,023
-It's independent of the T-Mat system.
-
-487
-01:18:40,194 --> 01:18:41,673
-I just hope it works.
-
-488
-01:18:41,834 --> 01:18:45,907
-If it doesn't, we'll have trouble docking.
-It could be quite a crash.
-
-489
-01:18:46,074 --> 01:18:48,349
-Let's try. I think we're near enough.
-
-490
-01:18:49,514 --> 01:18:53,268
-- (THREE-TONE SIGNAL)
-- That's our activating signal.
-
-491
-01:18:54,274 --> 01:18:57,072
-- (STEADY BEEP)
-- As long as that note is steady,
-
-492
-01:18:57,234 --> 01:18:59,270
-we're home and dry, no trouble!
-
-493
-01:18:59,434 --> 01:19:02,028
-Hello, Earth Control, this is Moonbase.
-
-494
-01:19:02,194 --> 01:19:05,903
-Emergency! Emergency! Can you hear me?
-
-495
-01:19:06,074 --> 01:19:08,668
-Hello, Earth Control, this is Moonbase.
-
-496
-01:19:08,834 --> 01:19:11,109
-Emergency! Can you hear me?
-
-497
-01:19:11,274 --> 01:19:17,144
-Hello, Earth Control. This is Moonbase.
-Emergency! Can you hear me?
-
-498
-01:19:18,114 --> 01:19:21,345
-Hello, Earth Control. This is Moonbase.
-
-499
-01:19:21,514 --> 01:19:24,984
-Can you hear me? Hello, Earth Control...
-
-500
-01:19:30,274 --> 01:19:33,505
-(HIGH-PITCHED BUZZING)
-
-501
-01:19:59,874 --> 01:20:02,388
-Hello, Earth Control, this is Moonbase.
-
-502
-01:20:02,554 --> 01:20:06,103
-(BEEPING HAS STOPPED)
-
-503
-01:20:06,274 --> 01:20:10,233
-- The homing beam, it's cut out!
-- I'm trying to reactivate it!
-
-504
-01:20:10,394 --> 01:20:14,945
-- You said it was infallible!
-- The solar power source has been damaged.
-
-505
-01:20:15,114 --> 01:20:19,665
-- That means trouble!
-- Yes, it's impossible to land safely.
-
-506
-01:20:19,834 --> 01:20:24,385
-- You mean we'll crash?
-- Or drift endlessly through space.
-
-507
-01:47:41,154 --> 01:47:44,988
-(DOCTOR WHO THEME)
-
-508
-01:48:34,994 --> 01:48:39,545
-(HISSING, LABOURED BREATHING)
-
-509
-01:48:42,834 --> 01:48:44,631
-Guard!
-
-510
-01:48:48,954 --> 01:48:50,592
-Kill him!
-
-511
-01:48:52,154 --> 01:48:54,952
-(TRILLING BUZZ)
-
-512
-02:00:21,914 --> 02:00:25,224
-You allowed them to send a message
-back to Earth!
-
-513
-02:00:25,394 --> 02:00:27,783
-They tricked me! I tried to stop them!
-
-514
-02:00:27,954 --> 02:00:31,708
-No matter. He will be found and killed.
-
-515
-02:00:31,874 --> 02:00:35,423
-- What about me?
-- Have you repaired the T-Mat link?
-
-516
-02:00:35,594 --> 02:00:38,427
-- Not yet. It isn't easy!
-- But it is possible?
-
-517
-02:00:36,234 --> 02:00:40,227
-(HISSING, LABOURED BREATHING)
-
-518
-02:00:38,594 --> 02:00:40,903
-- Yes, only give me time!
-- Very well,
-
-519
-02:00:41,074 --> 02:00:45,306
-but now you know what will happen if you fail!
-
-520
-02:00:46,434 --> 02:00:49,631
-You will die!
-
-521
-02:00:50,634 --> 02:00:55,264
-Don't you see this goes far beyond
-a petty quarrel over rockets and T-Mat?
-
-522
-02:00:55,434 --> 02:00:58,346
-Those men are in trouble
-and we must help them!
-
-523
-02:00:58,514 --> 02:01:01,745
-- Find some other way!
-- Your rocket is our only hope
-
-524
-02:01:01,914 --> 02:01:03,393
-of reaching the moon.
-
-525
-02:01:03,554 --> 02:01:05,704
-- Listen to them.
-- I'm listening!
-
-526
-02:01:05,874 --> 02:01:08,468
-In a way, this is a triumph for your rocket!
-
-527
-02:01:08,634 --> 02:01:11,865
-- Is it?
-- Yes! The government recognises the fact.
-
-528
-02:01:12,034 --> 02:01:15,185
-Then the government is going to be disappointed!
-
-529
-02:01:18,394 --> 02:01:20,385
-I don't understand you!
-
-530
-02:01:20,554 --> 02:01:24,547
-I'll be frank. I played with the idea
-of making a space flight,
-
-531
-02:01:24,714 --> 02:01:29,424
-I even prepared a rocket,
-but it was just a dream -
-
-532
-02:01:29,594 --> 02:01:31,789
-an illusion for a disappointed man.
-
-533
-02:01:31,954 --> 02:01:35,629
-- So there's nothing?
-- The rocket's partially prepared.
-
-534
-02:01:35,794 --> 02:01:38,547
-- As for an actual lift-off...
-- We can do it!
-
-535
-02:01:38,714 --> 02:01:42,548
-It takes more than enthusiasm
-to get a rocket off the ground!
-
-536
-02:01:42,714 --> 02:01:47,663
-- We have funds, men, equipment...
-- What it needs, you haven't got - time!
-
-537
-02:01:47,834 --> 02:01:52,032
-- We have the best technicians.
-- It's nowhere near ready, woman!
-
-538
-02:01:52,194 --> 02:01:54,389
-The equipment is still unchecked!
-
-539
-02:01:54,554 --> 02:01:58,024
-- A computer can do that.
-- It would still be dangerous!
-
-540
-02:02:01,234 --> 02:02:03,225
-Daniel...
-
-541
-02:02:04,394 --> 02:02:06,624
-It was you who created this rocket.
-
-542
-02:02:07,794 --> 02:02:12,709
-It was your driving force and enthusiasm
-that got it off the drawing board.
-
-543
-02:02:12,874 --> 02:02:16,389
-With you in control, we can't fail to succeed!
-
-544
-02:02:16,554 --> 02:02:19,307
-That was a long time past.
-
-545
-02:02:19,474 --> 02:02:22,864
-Now my heart couldn't take
-the strain of the G-force.
-
-546
-02:02:23,034 --> 02:02:26,310
-But your experience and knowledge
-aren't useless.
-
-547
-02:02:26,474 --> 02:02:28,590
-- We need your guidance.
-- No!
-
-548
-02:02:35,474 --> 02:02:37,829
-I told you it's a dream!
-
-549
-02:02:38,474 --> 02:02:42,387
-I can never go to the moon
-and neither can rocket ZA 685!
-
-550
-02:05:06,994 --> 02:05:08,791
-- Doctor...
-- Yes?
-
-551
-02:05:08,954 --> 02:05:12,549
-- Are you all planning to crew the rocket?
-- Oh, aye!
-
-552
-02:05:12,714 --> 02:05:16,343
-- I hadn't thought about you.
-- You're not leaving me behind!
-
-553
-02:05:16,514 --> 02:05:20,302
-- There can be no excess weight.
-- How many does this thing hold?
-
-554
-02:05:20,474 --> 02:05:23,910
-- It was designed for three men.
-- Well, then, I'm going!
-
-555
-02:05:24,074 --> 02:05:28,306
-The fuel stocks are barely adequate
-for a moon journey and return.
-
-556
-02:05:28,474 --> 02:05:31,511
-- What about other sources?
-- New York and Moscow.
-
-557
-02:05:31,674 --> 02:05:35,110
-- Transit impossible.
-- We're only getting TO the moon.
-
-558
-02:05:35,274 --> 02:05:37,742
-We'll come back by T-Mat, won't we?
-
-559
-02:05:37,914 --> 02:05:39,905
-It depends what's wrong with it.
-
-560
-02:05:40,074 --> 02:05:44,545
-The moon has a fuel dump
-and a refuelling system on the landing bay.
-
-561
-02:05:44,714 --> 02:05:47,023
-But that hasn't been used for years!
-
-562
-02:05:47,194 --> 02:05:51,233
-Neither has the radio homing beam.
-Without it, you won't land at all!
-
-563
-02:05:51,394 --> 02:05:54,147
-In that case, why worry about getting back (?)
-
-564
-02:05:54,314 --> 02:05:57,704
-The equipment's fully automated
-and solar-powered.
-
-565
-02:05:57,874 --> 02:06:00,991
-- No reason why it shouldn't work.
-- I'm sure it will.
-
-566
-02:06:01,154 --> 02:06:05,545
-- Will you remember all I told you?
-- Even if I don't, Zoe has total recall.
-
-567
-02:06:05,714 --> 02:06:08,911
-- Well, I've written it all down.
-- There's no need.
-
-568
-02:06:09,074 --> 02:06:11,304
-And there's a map of Moonbase, too.
-
-569
-02:06:13,874 --> 02:06:16,468
-You know how to operate the homing beam?
-
-570
-02:06:16,634 --> 02:06:19,626
-Don't worry. Your rocket will be in good hands.
-
-571
-02:06:19,794 --> 02:06:21,273
-(JAMIE) A-hem!
-
-572
-02:06:21,434 --> 02:06:24,073
-You've only food and water for three days.
-
-573
-02:08:41,374 --> 02:08:44,650
-- Ignition reserve power.
-- (CLICK)
-
-574
-02:08:45,814 --> 02:08:47,691
-(KELLY) Fully charged.
-
-575
-02:08:49,894 --> 02:08:53,170
-- Internal atmosphere settings.
-- (CLICK)
-
-576
-02:08:54,334 --> 02:08:56,165
-(ELDRED) All normal.
-
-577
-02:08:56,334 --> 02:09:00,122
-- (CLICKING)
-- Trajectory bearings, orbital lock.
-
-578
-02:09:00,294 --> 02:09:02,125
-(CLICKING)
-
-579
-02:09:02,294 --> 02:09:07,049
-Preset registering normal functions.
-Lift-off activation check complete.
-
-580
-02:09:08,974 --> 02:09:11,124
-All readings alpha green.
-
-581
-02:09:11,294 --> 02:09:15,128
-- Well done! Record time and not a thing wrong!
-- So far!
-
-582
-02:09:33,834 --> 02:09:36,871
-Link programme to telemeter guidance.
-
-583
-02:09:37,674 --> 02:09:39,153
-Three minutes.
-
-584
-02:09:39,314 --> 02:09:42,465
-Countdown will begin at T minus 60 seconds.
-
-585
-02:09:42,634 --> 02:09:44,625
-(RADNOR) This is it.
-
-586
-02:09:44,794 --> 02:09:48,787
-(KELLY) All functions
-are now on computer control preset.
-
-587
-02:09:48,954 --> 02:09:51,343
-Clear launching site.
-
-588
-02:09:53,594 --> 02:09:55,983
-Three minutes seem a long time.
-
-589
-02:09:56,154 --> 02:09:59,544
-Yes. You remember
-your take-off briefing, Jamie?
-
-590
-02:09:59,714 --> 02:10:02,911
-Aye, he's told me
-about this G-force stuff. I know!
-
-591
-02:10:03,074 --> 02:10:06,464
-You don't know about it
-until you've experienced it!
-
-592
-02:10:06,634 --> 02:10:09,228
-<i>(KELLY) Tminus 60 seconds from now.</i>
-
-593
-02:10:09,394 --> 02:10:12,147
-One minute to go. Hold tight, everyone!
-
-594
-02:10:12,314 --> 02:10:14,987
-Well, I'm all right. How about you, Jamie?
-
-595
-02:10:15,154 --> 02:10:17,145
-I keep telling you - I'm fine!
-
-596
-02:10:17,314 --> 02:10:18,747
-<i>(KELLY) Tminus 50.</i>
-
-597
-02:10:18,914 --> 02:10:21,428
-Ensure telemeter guidance is operative!
-
-598
-02:10:21,594 --> 02:10:24,984
-Don't worry! Everything's
-been checked and rechecked!
-
-599
-02:10:26,154 --> 02:10:29,783
-- T minus 40. Technicians, report.
-- (BRENT) All areas clear.
-
-600
-02:10:29,954 --> 02:10:31,706
-Check all systems.
-
-601
-02:10:31,874 --> 02:10:33,865
-- We have.
-- We must make sure!
-
-602
-02:10:34,034 --> 02:10:37,504
-T minus...30.
-
-603
-02:10:40,794 --> 02:10:42,785
-<i>(KELLY) 26...</i>
-
-604
-02:10:44,674 --> 02:10:46,665
-<i>22...</i>
-
-605
-02:10:49,234 --> 02:10:51,225
-<i>18...</i>
-
-606
-02:10:53,674 --> 02:10:55,665
-<i>14...</i>
-
-607
-02:13:34,994 --> 02:13:36,791
-We have lift-off!
-
-608
-02:13:41,474 --> 02:13:45,990
-(RADNOR) I never thought I'd see
-that again - a rocket rising in flight!
-
-609
-02:13:46,154 --> 02:13:48,145
-Beautiful!
-
-610
-02:13:48,314 --> 02:13:50,384
-Let's see how they are.
-
-611
-02:13:51,874 --> 02:13:53,466
-The link is dead!
-
-612
-02:13:54,474 --> 02:13:58,433
-Something must have gone wrong
-on lift-off! Try the second channel.
-
-613
-02:13:59,394 --> 02:14:02,750
-- Nothing.
-- We're out of touch completely?!
-
-614
-02:14:09,314 --> 02:14:11,305
-What about radio link?
-
-615
-02:14:12,394 --> 02:14:16,467
-Earth Control to rocket.
-How do you read me? Over.
-
-616
-02:14:16,634 --> 02:14:19,228
-No, nothing but static!
-
-617
-02:14:19,394 --> 02:14:21,544
-It's only a minor fault, surely?
-
-618
-02:14:22,874 --> 02:14:26,184
-<i>(KELLY) Earth Control to rocket.</i>
-<i>How do you read me?</i>
-
-619
-02:14:26,354 --> 02:14:30,347
-Don't release the strap until
-we have automatic gravity control,
-
-620
-02:14:30,514 --> 02:14:32,584
-otherwise you'll float away.
-
-621
-02:14:32,754 --> 02:14:35,222
-<i>- (KELLY) Earth Control to rocket!</i>
-- Wait!
-
-622
-02:14:35,394 --> 02:14:38,227
-Switching to automatic gravity control now!
-
-623
-02:14:38,394 --> 02:14:39,952
-Try again.
-
-624
-02:14:40,114 --> 02:14:42,105
-Earth Control to rocket.
-
-625
-02:14:42,274 --> 02:14:45,983
-<i>(ZOE) Rocket to Earth Control.</i>
-<i>Wait a minute, can't you?</i>
-
-626
-02:14:46,154 --> 02:14:49,988
-Is everything all right?
-We've lost our video monitor link.
-
-627
-02:14:50,154 --> 02:14:54,784
-<i>(DOCTOR) Yes, I think there must be</i>
-<i>a fault in one of the circuits.</i>
-
-628
-02:14:56,154 --> 02:14:58,145
-Doctor? Doctor!
-
-629
-02:14:58,994 --> 02:15:01,588
-- (ZOE) What is it?
-- A circuit's burnt out.
-
-630
-02:15:01,754 --> 02:15:05,508
-- I'll switch to another one.
-- This is worse than the Tardis!
-
-631
-02:15:05,674 --> 02:15:08,268
-Do you read me, Doctor?!
-
-632
-02:15:08,434 --> 02:15:13,144
-It sounds as though the entire
-communications circuitry has blown out!
-
-633
-02:15:13,314 --> 02:15:16,306
-Yes. Let's hope that's all that's happened!
-
-634
-02:15:16,474 --> 02:15:18,385
-Keep trying, Miss Kelly.
-
-635
+284
 00:17:42,156 --> 00:17:45,432
 Hello, Moonbase! Can you hear me?
 
-636
+285
 00:17:47,396 --> 00:17:48,375
 Yes!
 
-637
+286
 00:17:48,436 --> 00:17:50,666
 Yes, I can hear you loud and clear!
 
-638
+287
 00:17:50,836 --> 00:17:52,460
 What part of Earth are you speaking from?
 
-639
+288
 00:17:52,596 --> 00:17:56,108
-<i>(DOCTOR) We're in a rocket orbiting the moon.</i>
+<i>(DOCTOR) We're not on the Earth.
+We're in a rocket orbiting the moon.</i>
 
-640
+289
 00:17:56,476 --> 00:17:58,167
 A rocket? But that's impossible!
 
-641
+290
 00:17:58,636 --> 00:18:02,948
 I can assure you it's not impossible!
 What is your emergency?
 
-642
+291
 00:18:03,116 --> 00:18:05,107
 What's happening on Moonbase?
 
-643
+292
 00:18:05,276 --> 00:18:08,268
 <i>We've been invaded! Aliens have taken over!</i>
 
-644
+293
 00:18:11,116 --> 00:18:13,505
 Put that cover back on.
 
-645
+294
 00:18:14,696 --> 00:18:17,529
-T-Mat to Earth and report to Commander Radnor.
+T-Mat back to Earth and report to Commander Radnor.
 
-646
+295
 00:18:17,696 --> 00:18:19,687
 (RASPING WHISPER)
 Stop!
 
-647
+296
 00:18:19,856 --> 00:18:22,416
 You will remain here!
 
-648
+297
 00:18:22,576 --> 00:18:24,886
 (HISSING, LABOURED BREATHING)
 
-649
+298
 00:18:25,096 --> 00:18:27,248
-These aliens he described...
+Doctor, these aliens he described...
 
-650
+299
 00:18:27,416 --> 00:18:29,486
 - Yes, Ice Warriors!
 - What?
 
-651
+300
 00:18:29,656 --> 00:18:32,473
 Jamie and I have met them before.
 They come from the planet Mars.
 
-652
+301
 00:18:32,536 --> 00:18:35,089
 - What do they want?
 - Mars is a dying planet.
 
-653
+302
 00:18:35,156 --> 00:18:38,065
-- They want a new home.
+- I imagine that they want a new home.
 - Why the moon?
 
-654
+303
 00:18:38,136 --> 00:18:41,692
-- It's a stepping stone.
-- They're Ice Warriors?
+- I think it's just a stepping stone.
+- What did you say? They're...Ice Warriors?
 
-655
+304
 00:18:41,656 --> 00:18:45,326
 Yes, you know, Mars is a cold planet
 and they've adapted to that.
 
-656
+305
 00:18:45,496 --> 00:18:47,487
 It's heat they can't stand.
 
-657
+306
 00:18:47,656 --> 00:18:51,126
 We should just about be coming into range now.
 
-658
+307
 00:18:51,296 --> 00:18:52,988
-Hello, Moonbase. 
+Hello, Moonbase.
 
-659
+308
 00:19:00,316 --> 00:19:03,270
-(RASPING WHISPER)
-You will remain here!
+(RASPING WHISPER) You will remain here!
 
-660
+309
 00:19:14,176 --> 00:19:17,668
 That's the lot. The whole system's
 completely operational again.
 
-661
-00:19:17,756 --> 00:19:22,290
-- We can now send to any city in the world?
+310
+00:19:17,756 --> 00:19:20,090
+We can now send to any city in the world?/?fixme
+
+311
+00:19:20,156 --> 00:19:22,290
 - Yes, anywhere with a T-Mat centre.
 
-662
+312
 00:19:22,656 --> 00:19:26,368
 - Fewsham, Do you realise what you're doing?!
 - I'm trying to save our lives!
 
-663
+313
 00:19:26,436 --> 00:19:29,288
-We're in no position to argue!
+- Then what about the lives of the people on Earth?
+- We're in no position to argue!
 
-664
+314
 00:19:31,976 --> 00:19:34,444
 Why do you want control of T-Mat?
 
-665
+315
 00:19:35,456 --> 00:19:37,154
-If you invade the Earth,
+If you're going to invade the Earth,
 
-666
+316
 00:19:37,276 --> 00:19:41,447
-you'll fight the armed forces
+you'll be fighting the armed forces
 of the entire world. You'll never succeed.
 
-667
+317
 00:19:41,516 --> 00:19:44,889
 - There'll be too much resistance.
 - There will be no resistance!
 
-668
+318
 00:19:44,956 --> 00:19:46,912
-What will happen to us?
+What about us? What will happen to us?
 
-669
+319
 00:19:46,976 --> 00:19:51,049
 You will remain alive as long as you are useful.
 
-670
+320
 00:19:53,756 --> 00:19:55,731
 You'll never get any help from me.
 
-671
+321
 00:19:55,896 --> 00:19:59,855
 When the time comes, you will do
 exactly what you are told...
 
-672
+322
 00:20:00,016 --> 00:20:03,452
 ..or die!
 
-673
+323
 00:20:36,176 --> 00:20:37,894
 Hello?
 
-674
+324
 00:20:38,056 --> 00:20:40,809
 - Who are you?
 - Oh!
 
-675
+325
 00:20:41,276 --> 00:20:44,571
 - Mr Phipps, I presume?
 - Yes, but where did you come from?
 
-676
+326
 00:20:44,736 --> 00:20:47,614
 From the rocket. We were talking on the radio.
 
-677
+327
 00:20:47,776 --> 00:20:50,988
-- Are the others here too?
+- Thank heavens you've made it. Are the others here too?
 - Yeah, They're still in the rocket.
 
-678
+328
 00:20:51,156 --> 00:20:54,949
 - How many Ice Warriors are there?
 - Those creatures you mean?
 
-679
+329
 00:20:55,016 --> 00:20:58,128
 - Not many, but they're deadly.
 - They have their weak points.
 
-680
+330
 00:20:58,196 --> 00:21:02,531
 Look, they've killed everybody here,
 except Fewsham, who's helping them.
 
-681
+331
 00:21:02,696 --> 00:21:05,869
 I see. Well, there's only one thing for it.
 
-682
+332
 00:21:05,936 --> 00:21:08,824
 - We shall have to destroy T-Mat.
 
-683
+333
 00:21:09,496 --> 00:21:14,251
 You will shortly dispatch a cargo
 to certain cities on Earth.
 
-684
+334
 00:21:14,856 --> 00:21:16,653
 Cargo? What sort of cargo?
 
-685
+335
 00:21:24,696 --> 00:21:28,291
 That's an Ice Warrior's. It's got Miss Kelly, but how...?
 
-686
+336
 00:21:30,736 --> 00:21:32,692
 Run!
 
-687
+337
 00:22:40,136 --> 00:22:41,535
 Oh!
 
-688
+338
 00:22:43,896 --> 00:22:45,375
 Stop!
 
-689
+339
 00:22:45,536 --> 00:22:48,767
-(RASPING WHISPER)
-You must be destroyed!
+(RASPING WHISPER) You must be destroyed!
 
-690
+340
 00:22:48,936 --> 00:22:50,927
 You've got no orders to kill me!
 
-691
+341
 00:22:51,096 --> 00:22:53,774
 Your leader will want to speak to me!
 
-692
+342
 00:22:53,836 --> 00:22:56,127
 Humans are our enemies!
 
-693
+343
 00:22:56,296 --> 00:22:59,049
 But I can be useful to you, like Fewsham!
 
-694
+344
 00:22:59,216 --> 00:23:03,687
 Your leader will be angry with you
 if you kill me! I'm a genius!
 
-695
+345
 00:23:03,856 --> 00:23:06,689
-(RASPING WHISPER)
-Genius!
+(RASPING WHISPER) Genius!
 
-696
+346
 00:23:08,096 --> 00:23:11,088
 You will come with me!
 
-697
+347
 00:23:15,396 --> 00:23:18,388
 The prisoner Kelly has escaped.
 
-698
+348
 00:23:19,516 --> 00:23:23,191
 This human was in the corridors.
 
-699
+349
 00:23:23,356 --> 00:23:26,314
 Who are you? Where are you from?
 
-700
+350
 00:23:26,476 --> 00:23:29,149
 I might ask you the same question!
 
-701
+351
 00:23:29,316 --> 00:23:32,706
 You will find the human Kelly
 and bring her back here!
 
-702
+352
 00:23:32,876 --> 00:23:36,789
 - Who is this man?
 - He's not one of the crew.
 
-69
-00:23:36,956 --> 00:23:390,39
+353
+00:23:36,956 --> 00:23:39,390
+I don't know this man.
 He must have just arrived here.
 
-703
+354
 00:23:39,556 --> 00:23:42,912
 Impossible - we control T-Mat.
 How did you get here?
 
-704
+355
 00:23:43,076 --> 00:23:46,148
 Our resources are not limited
 to T-Mat, you know!
 
-705
+356
 00:23:46,316 --> 00:23:51,007
-- You arrived by space craft?
+- You arrived by other means? By space craft?
 - Rockets haven't been used for years.
 
-706
+357
 00:23:51,076 --> 00:23:53,465
 Then you are lying!
 
-707
+358
 00:23:53,636 --> 00:23:57,788
 You have been concealed here all the time.
 
-708
+359
 00:23:57,956 --> 00:24:01,710
-(DOCTOR) But you can't be sure
-of that, can you, hmm?
+(DOCTOR) But you can't be sure of that, can you, hmm?
 
-709
+360
 00:24:01,876 --> 00:24:03,867
 The people of the Earth
 
-710
+361
 00:24:04,036 --> 00:24:07,627
 may be preparing a whole fleet
 of rockets to defend themselves with!
 
-711
+362
 00:24:07,796 --> 00:24:11,668
-(ICE WARRIOR)
-No, Earth relies entirely on T-Mat.
+(ICE WARRIOR) No, Earth relies entirely on T-Mat.
 
-712
+363
 00:24:11,836 --> 00:24:14,953
 There is no defence against our plans.
 
-713
+364
 00:24:15,116 --> 00:24:18,472
 And what are your plans? Invasion by T-Mat?
 
-714
+365
 00:24:19,676 --> 00:24:22,793
-There are too few of you to conquer all Earth.
+There are too few of you to conquer
+all the people of the Earth.
 
-715
+366
 00:24:28,436 --> 00:24:32,873
 (ICE WARRIOR) The Grand Marshall
 has ordered the seeds to be prepared!
 
-716
+367
 00:24:33,036 --> 00:24:37,632
 - You are to receive your instructions.
 - Then guard the humans.
 
-717
+368
 00:24:37,796 --> 00:24:41,311
 If they try to escape, kill them!
 
-718
+369
 00:24:41,476 --> 00:24:46,072
 (HISSING, LABOURED BREATHING)
 
-719
+370
 00:25:01,716 --> 00:25:04,105
 Why are you helping them?
 
-720
+371
 00:25:04,276 --> 00:25:06,267
 I've seen what they can do!
 
-721
+372
 00:25:06,436 --> 00:25:08,996
 Do you know what is in that container?
 
-722
+373
 00:25:09,156 --> 00:25:12,785
 All I know is they want me to send
 something to Earth by T-Mat.
 
-723
+374
 00:25:12,956 --> 00:25:16,744
 - I suppose that's what's in it.
 - I shall have to look inside,
 
-724
+375
 00:25:16,916 --> 00:25:19,225
 and you are going to help me!
 
-725
-00:25:19,396 --> 00:25:23,609
-- The Doctor's been captured?
-- There was nothing we could do.
+376
+00:25:19,396 --> 00:25:20,909
+The Doctor's been captured? But couldn't you help him?
 
-726
+377
+00:25:21,096 --> 00:25:23,609
+I'm sorry, but there was nothing we could do.
+
+378
 00:25:23,676 --> 00:25:26,713
 - We had a job to reach here ourselves.
 - Aye. So did we!
 
-727
+379
 00:25:26,876 --> 00:25:28,890
 Are you sure the Ice Warriors don't know about this place?
 
-728
+380
 00:25:29,556 --> 00:25:34,301
-One dit but I got him with a booby trap fixed to the solar energy power line.
+One of them did find it, but I fixed up some kind
+of a booby trap to the solar energy power line.
 
-729
+381
 00:25:34,356 --> 00:25:36,053
 It looks those things are invulnerable!
 
-730
+382
 00:25:36,116 --> 00:25:39,586
 - No, the Doctor said they can't stand heat.
 - That's right!
 
-731
+383
 00:25:39,756 --> 00:25:41,647
-The heating controlled from the Centre.
+The heating system of the entire base
+is controlled from the Centre.
 
-732
+384
 00:25:41,730 --> 00:25:44,350
-We can turn up the heating.
+Now if we can reach those control,
+we can turn up the heating.
 
-733
+385
 00:25:44,516 --> 00:25:47,147
-But how can we get there? Ice Warriors are patrolling those corridors.
+But how can we get there?
+Ice Warriors are patrolling those corridors.
 
-734
+386
 00:25:47,216 --> 00:25:50,305
 Aye, Yes I know. The maintenance tunnel's over here!
 
-735
+387
 00:26:04,116 --> 00:26:06,584
-(WHISPERS)
-All right, Fewsham, now!
+(WHISPERS) All right, Fewsham, now!
 
-736
+388
 00:26:06,756 --> 00:26:08,747
 I can't! They'll kill us both!
 
-737
+389
 00:26:08,916 --> 00:26:11,350
 - You've got to help me!
 - I can't, I daren't.
 
-738
+390
 00:26:12,496 --> 00:26:14,691
 Very well, I shall do it by myself.
 
-739
+391
 00:26:14,856 --> 00:26:18,849
 If I am caught, which is most likely,
 we will both get killed.
 
-740
+392
 00:26:26,296 --> 00:26:28,491
-(RASPING WHISPER)
-Do not move!
+(RASPING WHISPER) Do not move!
 
-741
+393
 00:26:28,656 --> 00:26:33,252
-I was ordered to prepare
-the controls for transmission. I’ve got to check that everything is in order.
+I was ordered to prepare the controls for transmission.
+I’ve got to check that everything is in order.
 
-742
+394
 00:26:33,816 --> 00:26:36,728
-(RASPING WHISPER)
-Return to where you were!
+(RASPING WHISPER) Return to where you were!
 
-743
+395
 00:26:36,896 --> 00:26:39,410
 (FEWSHAM) But this is most important!
 
-744
+396
 00:26:39,576 --> 00:26:44,525
 If you are trying to escape, I shall destroy you!
 
-745
+397
 00:26:44,696 --> 00:26:46,732
 I'm not trying to escape!
 
-746
+398
 00:26:46,896 --> 00:26:49,569
 Go back to where you were!
 
-747
+399
 00:26:49,736 --> 00:26:52,534
 All right! All right!
 
-748
+400
 00:26:54,376 --> 00:26:55,973
 <i>Wait!</i>
 
-749
+401
 00:26:56,336 --> 00:26:59,328
 (HISSING, LABOURED BREATHING)
 
-750
+402
 00:27:01,576 --> 00:27:03,168
 Open it!
 
-751
+403
 00:27:04,216 --> 00:27:07,208
 I said, ''Open it''!
 
-752
+404
 00:27:13,496 --> 00:27:15,487
 What are these things?
 
-753
+405
 00:27:17,216 --> 00:27:19,207
 They look like seed pods.
 
-754
+406
 00:27:23,736 --> 00:27:26,728
 (CHOKING COUGH)
 
-755
+407
 00:27:33,616 --> 00:27:35,686
 (FEWSHAM) What is it?
 
-756
+408
 00:27:35,856 --> 00:27:37,892
 What's happened to him?
 
-757
+409
 00:27:38,056 --> 00:27:39,426
 Is he dead?
 
-758
+410
 00:27:39,756 --> 00:27:42,486
-We can get through it here then. Turn the heating up, knock the Warriors out
+We can get through it here then.
+Turn the heating up, knock the Warriors out
 
-759
+411
 00:27:42,556 --> 00:27:45,906
 - We can rescue the Doctor.
 - And T-Mat ourselves back to Earth.
 
-760
+412
 00:27:46,076 --> 00:27:48,670
-- But T-Mat's broken down.
-- I repaired it.
+- But I thought that T-Mat's broken down.
+- Not any more, I repaired it.
 
-761
+413
 00:27:48,836 --> 00:27:50,827
 Can we get this cover off?
 
-762
+414
 00:27:50,996 --> 00:27:53,805
-- This part of the
-base has been disused for ages. It's rusted. It will take some time.
+This part of the base has been disused for ages.
+It's rusted. It will take some time.
 
-763
+415
 00:27:53,885 --> 00:27:54,900
 The Doctor may not have much time.
 
-764
+416
 00:28:13,636 --> 00:28:17,629
 (HISSING, LABOURED BREATHING)
 
-765
+417
 00:28:19,316 --> 00:28:23,172
-You will prepare to activate the cubicle and transmit to London.
+You will prepare to activate the cubicle
+and transmit to London.
 
-766
+418
 00:28:27,196 --> 00:28:28,950
-(HISSING, LABOURED BREATHING)
-Obey!
+(HISSING, LABOURED BREATHING) Obey!
 
-767
+419
 00:28:34,136 --> 00:28:36,047
 Activate!
 
-768
+420
 00:28:38,936 --> 00:28:42,929
 (TRILLING HUM)
 
-769
+421
 00:28:44,976 --> 00:28:46,967
 (TWO-TONE SIGNAL)
 
-770
+422
 00:28:54,636 --> 00:28:56,945
 Commander Radnor! T-Mat is working.
 
-771
+423
 00:28:57,116 --> 00:29:00,267
 - Working? Kelly must have got through!
 - Splendid!
 
-772
+424
 00:29:04,216 --> 00:29:06,207
 What is it?
 
-773
+425
 00:29:12,776 --> 00:29:14,255
 It's alive!
 
-774
+426
 00:29:12,887 --> 00:29:16,402
 It's alive! The thing's alive!
 
-775
+427
 00:29:17,367 --> 00:29:19,961
 (COUGHING)
 
-776
+428
 00:29:26,427 --> 00:29:28,224
 He's dead!
 
-777
+429
 00:29:28,387 --> 00:29:30,537
 Keep back! It must be that smoke!
 
-778
+430
 00:29:30,707 --> 00:29:32,538
 (COUGHS)
 Guards!
 
-779
+431
 00:29:32,707 --> 00:29:35,175
 (CHOKING COUGH)
 
-780
+432
 00:29:36,867 --> 00:29:38,858
 Keep away from here!
 
-781
+433
 00:29:40,987 --> 00:29:42,784
 Use the air conditioning!
 
-782
+434
 00:29:42,947 --> 00:29:46,178
 Switch the air conditioning to expel!
 
-783
+435
 00:29:47,107 --> 00:29:50,099
 (DRONING AND BUZZING)
 
-784
+436
 00:30:14,587 --> 00:30:17,226
 (RASPING WHISPER)
 Dispose of him!
 
-785
+437
 00:30:17,387 --> 00:30:21,175
 - What do you mean?
 - You will adjust the T-Mat controls
 
-786
+438
 00:30:21,347 --> 00:30:24,339
 and suspend him in space...
 
-787
+439
 00:30:25,587 --> 00:30:28,943
 ..between the moon and Earth!
 
-788
+440
 00:30:34,627 --> 00:30:36,618
 - Is this the right cubicle?
 - It had better be!
 
-789
+441
 00:30:36,787 --> 00:30:41,065
 (FEWSHAM) Please! Please don't make me!
 
-790
+442
 00:30:41,227 --> 00:30:43,218
 Complete it!
 
-791
+443
 00:30:43,427 --> 00:30:46,703
 (HISSING, LABOURED BREATHING)
 
-792
+444
 00:30:55,987 --> 00:30:57,579
 Oh, no!
 
-793
+445
 00:30:57,747 --> 00:30:59,738
 That's the interior casing. It comes off easily.
 
-794
+446
 00:31:03,547 --> 00:31:07,586
 - Is the circuit prepared yet?
 - Yes, almost.
 
-795
+447
 00:31:07,747 --> 00:31:10,625
 - Almost.
 - You are wasting time!
 
-796
+448
 00:31:10,787 --> 00:31:13,255
 - Operate!
 - No!
 
-797
+449
 00:31:13,427 --> 00:31:15,702
 At once!
 
-798
+450
 00:31:15,867 --> 00:31:17,983
 (TRILLING)
 
-799
+451
 00:31:18,147 --> 00:31:20,058
 You've killed him!
 
-800
+452
 00:31:22,587 --> 00:31:25,226
 You've killed him! You've killed him!
 
-801
+453
 00:31:29,987 --> 00:31:32,479
 (HISSING, LABOURED BREATHING)
 
-802
+454
 00:31:32,747 --> 00:31:35,978
 (RASPING WHISPER)
 Prepare to dispatch to London.
 
-803
+455
 00:31:36,147 --> 00:31:37,580
 Do as I say!
 
-804
+456
 00:31:43,307 --> 00:31:49,655
 The time has come for your mission.
 You understand what you must do?
 
-805
+457
 00:31:49,827 --> 00:31:53,536
 I understand.
 (HISSES)
 
-806
+458
 00:31:53,707 --> 00:31:57,222
 You must succeed at all costs.
 
-807
+459
 00:31:57,387 --> 00:32:02,381
 (HISSING, LABOURED BREATHING)
 
-808
+460
 00:32:03,707 --> 00:32:05,220
 Transmit to London!
 
-809
+461
 00:32:06,787 --> 00:32:08,743
 I need time.
 
-810
+462
 00:32:08,907 --> 00:32:11,421
 I must reprogramme.
 
-811
+463
 00:32:13,687 --> 00:32:18,078
 <i>(COMPUTER) Information coming in</i>
 <i>on appearance of vegetable blight</i>
 
-812
+464
 00:32:18,147 --> 00:32:21,264
 <i>attacking parks and gardens</i>
 <i>in the metropolises.</i>
 
-813
+465
 00:32:37,347 --> 00:32:39,338
 (RADNOR) Guards!
 
-814
+466
 00:32:39,507 --> 00:32:41,941
 <i>(COMPUTER) ..destroying cereals.</i>
 
-815
+467
 00:32:43,947 --> 00:32:47,144
 (TRILLING BUZZ)
 
-816
+468
 00:32:50,727 --> 00:32:53,002
 How much longer must I wait here?
 
-817
+469
 00:32:53,167 --> 00:32:56,398
 (RASPING WHISPER)
 Do not ask questions!
 
-818
+470
 00:32:56,567 --> 00:32:58,558
 I need food and rest!
 
-819
+471
 00:32:58,727 --> 00:33:00,922
 I haven't had any sleep for...
 
-820
+472
 00:33:01,087 --> 00:33:02,998
 ..hours.
 
-821
+473
 00:33:10,847 --> 00:33:13,645
 (RASPING WHISPER)
 What are you doing?
 
-822
+474
 00:33:15,107 --> 00:33:17,098
 I must fix the cubicle.
 
-823
+475
 00:33:17,267 --> 00:33:19,861
 But you said T-Mat was functioning properly!
 
-824
+476
 00:33:20,027 --> 00:33:22,222
 I know, but there's something I forgot.
 
-825
+477
 00:33:22,387 --> 00:33:25,459
 Quick! The heating controls are over there.
 
-826
+478
 00:33:25,627 --> 00:33:27,618
 Turn the main wheel to full.
 
-827
+479
 00:33:54,207 --> 00:33:55,995
 Report to Central Control.
 
-828
+480
 00:33:56,167 --> 00:34:00,080
 The creature is entering the east compound area.
 
-829
+481
 00:34:10,247 --> 00:34:12,966
 (TRILLING BUZZ)
 
-830
+482
 00:34:21,487 --> 00:34:23,762
 <i>(RADNOR) What's happened? Report!</i>
 
-831
+483
 00:34:44,427 --> 00:34:45,860
 Look out, Zoe!
 
-832
+484
 00:34:46,027 --> 00:34:49,337
 (TRILLING BUZZ)
 (part4 ends here)
 
-833
+485
 00:35:49,941 --> 00:35:51,932
 Doctor! Are you all right?
 
-834
+486
 00:35:52,101 --> 00:35:54,740
 - Yes, I am. I think so.
 - Where's Phipps?
 
-835
+487
 00:35:54,901 --> 00:35:57,290
 He's dead. An Ice Warrior killed him.
 
-836
+488
 00:35:57,361 --> 00:35:58,640
 How did you manage to escape?
 
-837
+489
 00:35:58,701 --> 00:36:02,037
 - The other man helped me.
 - Fewsham? I thought he was working for them?
 
-838
+490
 00:36:02,101 --> 00:36:04,874
 - He saved my life.
 - Doesn't sound much like Fewsham.
 
-839
+491
 00:36:04,941 --> 00:36:08,820
 - He attacked the Ice Warrior. He's also got T-Mat working again.
 - (DOCTOR) Do I gether we can get back to Earth?
 
-840
+492
 00:36:08,981 --> 00:36:11,541
 - I think so.
 - Let's not waste any more time!
 
-841
+493
 00:36:17,000 --> 00:36:19,000
 (Weather Control Center)
 
-842
+494
 00:36:21,000 --> 00:36:23,000
 Weather Control Unit
 DRY DRY
 
-843
+495
 00:36:42,421 --> 00:36:45,457
 I had to help them or they would have killed me!
 
-844
+496
 00:36:45,521 --> 00:36:48,030
 All right, Fewsham. There'll be a full inquiry when we get back to Earth. Tell them.
 
-845
+497
 00:36:48,201 --> 00:36:51,671
 No more time to waste.
 We must T-Mat back to Earth immediately.
 
-846
+498
 00:36:51,841 --> 00:36:55,516
 - But if we all are going, who is going to dispatch us?
 - There's a way of doing that.
 
-847
+499
 00:36:55,681 --> 00:36:58,712
 Here, this time switch delays
 transportation by ten seconds.
 
-848
+500
 00:36:58,781 --> 00:37:02,312
 Oh, I see, how genius. I'll dispatch you and follow you using the time switch.
 
-849
+501
 00:37:02,481 --> 00:37:05,598
 Right, so Zoe, Jamie, come along. I think this could be quite fun!
 
-850
+502
 00:37:05,761 --> 00:37:09,754
 Fewsham, that time switch was down on the maintenance report for being  inoperable.
 
-851
+503
 00:37:09,921 --> 00:37:11,559
 We repaired it!
 
-852
+504
 00:37:11,721 --> 00:37:14,519
 (TRILLING)
 
-853
+505
 00:37:16,041 --> 00:37:19,309
 In you get, Miss Kelly. I'll use the time switch.
 
-854
+506
 00:37:19,381 --> 00:37:22,196
 You better hurry. Those Ice Warriors will be back any minute.
 
-855
+507
 00:37:25,321 --> 00:37:29,360
 Do you know, I find T-Mat travel
 rather disappointing.
 
-856
+508
 00:37:29,521 --> 00:37:31,477
 There's no sensation at all!
 
-857
+509
 00:37:31,641 --> 00:37:34,031
 Where have you been? And what were you being up to all this time?
 
-858
+510
 00:37:34,201 --> 00:37:36,792
 Where's... Miss Kelly! What's happening up there?
 
-859
+511
 00:37:36,901 --> 00:37:39,337
 Will someone tell me
 what's happening down here?!
 
-860
+512
 00:37:39,501 --> 00:37:41,615
 Who are these people? Is T-Mat working?
 
-861
+513
 00:37:41,781 --> 00:37:45,572
 Now, please, don't... Let us just one question at a time!
 
-862
+514
 00:37:45,641 --> 00:37:48,075
 Doctor, do you know there's been an alien here?
 
-863
+515
 00:37:48,141 --> 00:37:51,213
 - An Ice Warrior HERE?!
 - Jamie, I am not surprised.
 
-864
+516
 00:37:51,381 --> 00:37:53,372
 They have taken over the whole Moonbase.
 
-865
+517
 00:37:53,541 --> 00:37:56,613
 - What about the crew?
 - All dead except Fewsham.
 
-866
+518
 00:37:56,781 --> 00:38:00,251
 - You left him there?
 - He said he'd follow using the time switch.
 
-867
+519
 00:38:00,421 --> 00:38:03,140
 He should be back.
 
-868
+520
 00:38:05,941 --> 00:38:07,532
 What's happening?
 
-869
+521
 00:38:07,601 --> 00:38:09,834
 I thought so!
 The time switch is still out of order.
 
-870
+522
 00:38:09,501 --> 00:38:13,590
 - What? But he said he had repaired it.
 - He was lying.
 
-871
+523
 00:38:13,961 --> 00:38:16,316
 - Why?
 - Obviously he's working for them!
 
-872
+524
 00:38:17,481 --> 00:38:19,472
 Then why did he let us escape?
 
-873
+525
 00:38:25,121 --> 00:38:28,511
 (HISSING, LABOURED BREATHING)
 
-874
+526
 00:38:33,561 --> 00:38:37,440
 (HISSING, LABOURED BREATHING)
 
-875
+527
 00:39:07,941 --> 00:39:12,173
 But don't you see, gentlmen? 
 The invasion of Moonbase,
 the taking over of T-Mat, 
 
-876
+528
 00:39:12,341 --> 00:39:16,050
 the seed pods, the arrival of the Ice Warrior,
 they're all part of the same plan.
 
-877
+529
 00:39:16,221 --> 00:39:17,700
 Plan? What plan?
 
-878
+530
 00:39:17,861 --> 00:39:21,631
 These incidents seem unrelated.
 This fungus everywhere,
 what's that got to do with it?
 
-879
+531
 00:39:21,701 --> 00:39:24,454
 I'm not quite sure yet. Have you people been able to make anything of it?
 
-880
+532
 00:39:24,821 --> 00:39:28,734
 It's indestructible.
 We've attacked it with every possible way, but without success.
 
-881
+533
 00:39:28,901 --> 00:39:31,495
 Yes, but have you tried to understand it?
 
-882
+534
 00:39:31,661 --> 00:39:34,334
 You suggest we should psychoanalyse it, Doctor?
 
-883
+535
 00:39:34,501 --> 00:39:38,779
 I'm merely suggesting that rather than destroy it, you should
 find out its composition and purpose.
 
-884
+536
 00:39:38,941 --> 00:39:41,751
 I have some laboratory equipment
 in my workshop. You could use that.
 
-885
+537
 00:39:41,821 --> 00:39:44,614
 - Good. Then we need a sample.
 - No problem about that.
 
-886
+538
 00:39:44,681 --> 00:39:47,275
 - The gardens are full of the stuff.
 - Fine. The let no time to be lost.
 
-887
+539
 00:39:47,365 --> 00:39:48,965
 I'll get some equipment for you.
 
-888
+540
 00:39:49,041 --> 00:39:52,850
 Doctor, do be careful. Those pod things are deadly.
 
-889
+541
 00:39:52,921 --> 00:39:56,038
 Don't worry. I've already had experience. I'll be careful.
 
-890
+542
 00:39:59,301 --> 00:40:02,657
 (DOCTOR) Yes... It's organic.
 
-891
+543
 00:40:02,821 --> 00:40:04,812
 It's alive.
 
-892
+544
 00:40:04,981 --> 00:40:07,814
 It's definitely a fungus composition.
 
-893
+545
 00:40:07,981 --> 00:40:11,615
 - Are you sure this is correct?
 - As far as I can make out, it is.
 
-894
+546
 00:40:11,681 --> 00:40:15,276
 A molecule of five atoms...absorbs oxygen.
 
-895
+547
 00:40:16,641 --> 00:40:18,438
 You know,  a complete blanket of this
 
-896
+548
 00:40:18,601 --> 00:40:23,199
 would reduce the oxygen content
 of the Earth's atmosphere drastically.
 
-897
+549
 00:40:23,261 --> 00:40:26,936
 According to my calculations,
 to one twentieth normal.
 
-898
+550
 00:40:27,101 --> 00:40:30,299
 It would make the Earth's atmosphere
 uninhabitable to the human race,
 
-899
+551
 00:40:30,361 --> 00:40:33,680
 but exactly like the atmosphere of Mars!
 
-900
+552
 00:40:34,041 --> 00:40:39,752
 Look at that. Even without vegetation
 to feed on, it's still active. Oh!
 
-901
+553
 00:40:39,921 --> 00:40:42,879
 (ELDRED) If that thing explodes here, the fumes will kill us! Come on, Doctor!
 
-902
+554
 00:40:43,041 --> 00:40:45,714
 Just a minute. There must be some way of...
 
-903
+555
 00:40:51,441 --> 00:40:54,831
 (ELDRED) Come on!
 (DOCTOR) Sulphuric acid!
 
-904
+556
 00:40:56,081 --> 00:40:58,356
 Hydrochloric acid!
 
-905
+557
 00:40:59,401 --> 00:41:01,312
 Acetic acid!
 
-906
+558
 00:41:11,201 --> 00:41:13,192
 (ELDRED) You've done it!
 
-907
+559
 00:41:13,361 --> 00:41:16,034
 Well, what was it? What did you throw on it?
 
-908
+560
 00:41:18,061 --> 00:41:21,451
 - You really think it would work?
 - Well It could be less effective than Moonbase, of course.
 
-909
+561
 00:41:21,621 --> 00:41:24,419
 which handles up to two million microwave channels simultaneously,
 
-910
+562
 00:41:24,581 --> 00:41:26,675
 the satellite would just take a few thousand.
 
-911
+563
 00:41:26,841 --> 00:41:28,791
 That would be enough for vital food supplies.
 
-912
+564
 00:41:28,861 --> 00:41:32,410
 But we can't use normal communications satellites.
 They are not programmed for T-Mat.
 
-913
+565
 00:41:32,581 --> 00:41:34,474
 No. We have to send up a specially       programmed one.
 
-914
+566
 00:41:34,540 --> 00:41:37,151
 That would mean using a rocket, wouldn't it? I thought no one use them nowadays.
 
-915
+567
 00:41:37,241 --> 00:41:40,814
 Not manned rockets, but we do send up satellites for communications.
 
-916
+568
 00:41:40,981 --> 00:41:44,796
 - How soon can you get one up?
 - Well, I don't know. If we're given top priority...
 
-917
+569
 00:41:44,821 --> 00:41:50,691
 (HISSING, LABOURED BREATHING)
 
-918
+570
 00:41:51,261 --> 00:41:52,933
 There!
 
-919
+571
 00:41:59,941 --> 00:42:02,091
 (FEWSHAM) What is it?
 
-920
+572
 00:42:02,261 --> 00:42:04,650
 A communications unit from our ship.
 
-921
+573
 00:42:06,541 --> 00:42:08,771
 Connect it to the solar batteries!
 
-922
+574
 00:42:10,121 --> 00:42:13,033
 <i>(DOCTOR) Is Commander Radnor there, please?</i>
 
-923
+575
 00:42:13,201 --> 00:42:17,972
 <i>- Oh, Zoe, is Radnor there?</i>
 - He's in conference with Miss Kelly and Sir James Gregson.
 
-924
+576
 00:42:18,141 --> 00:42:21,358
 <i>Oh, I see. Zoe,</i>
 <i>there's the most wonderful news!</i>
 
-925
+577
 00:42:21,521 --> 00:42:23,974
 <i>We've found a way of destroying the fungus!</i>
 
-926
+578
 00:42:24,141 --> 00:42:26,909
 - Oh! What is it?
 <i>- Water! Ordinary water!</i>
 
-927
+579
 00:42:27,081 --> 00:42:29,834
 - Oh, Doctor, surely...
 <i>- There's no time to explain now.</i>
 
-928
+580
 00:42:30,001 --> 00:42:33,398
 <i>Apparently, there is a Weather Control Bureau somewhere.</i>
 
-929
+581
 00:42:33,561 --> 00:42:35,392
 <i>I want you to get in touch with them.</i>
 
-930
+582
 00:42:35,561 --> 00:42:37,975
 Can't you reach them on the video phone?
 
-931
+583
 00:42:38,041 --> 00:42:40,917
 <i>- No, I've tried. They are not answering, or it's broken down or something.</i>
 
-932
+584
 00:42:41,081 --> 00:42:43,952
 - What do you want me to do?
 - <i>Get hold of the Weather Control Bureau people</i>
 
-933
+585
 00:42:44,021 --> 00:42:47,655
 <i>and to make rain, as much rain as possible</i>
 <i>over the entire country!</i>
 
-934
+586
 00:42:52,481 --> 00:42:55,393
 - Well, where is everybody?
 - I don't know.
 
-935
+587
 00:42:55,561 --> 00:42:57,791
 Let's find the main control room. Come on.
 
-936
+588
 00:43:04,121 --> 00:43:07,238
 So that's why no one answered
 the video phone.
 
-937
+589
 00:43:07,401 --> 00:43:09,392
 And look at that!
 
-938
+590
 00:43:12,541 --> 00:43:14,614
 No, it's no good. They're locked in position.
 
-939
+591
 00:43:15,281 --> 00:43:20,777
 <i>Our fleet is approaching</i>
 <i>the gravitational field of the moon.</i>
 
-940
+592
 00:43:20,791 --> 00:43:24,661
 - <i>Is all prepared?</i>
 - Everything is ready.
 
-941
+593
 00:43:24,791 --> 00:43:28,989
 I shall guide our ships in
 on the homing beam signal.
 
-942
+594
 00:43:29,501 --> 00:43:32,254
 - (BEEPING)
 - What the devil's happening?
 
-943
+595
 00:43:32,421 --> 00:43:35,060
 I don't know... Yes, Moon Control!
 
-944
+596
 00:43:36,941 --> 00:43:38,977
 The sound, can you turn it up?
 
-945
+597
 00:43:41,061 --> 00:43:44,576
 <i>Shouldn't we test the directional beam?</i>
 
-946
+598
 00:43:44,741 --> 00:43:49,132
 <i>- It is not necessary!</i>
 <i>- But it's operating on Moonbase power.</i>
 
-947
+599
 00:43:49,301 --> 00:43:51,511
 <i>I can't guarantee the pulsing rate</i>
 <i>will be the same.</i>
 
-948
+600
 00:43:51,681 --> 00:43:54,556
 <i>Very well. Test it!</i>
 
-949
+601
 00:43:57,041 --> 00:43:59,032
 Commander Radnor, can this be recorded?
 
-950
+602
 00:43:59,201 --> 00:44:01,192
 - Yes.
 - Quickly! Manage it. It's vital!
 
-951
+603
 00:44:01,361 --> 00:44:04,194
 The transmission coming in on the video machine would be recorded.
 
-952
+604
 00:44:04,361 --> 00:44:08,354
 <i>(COMPUTER) Instruction Understood.</i>
 <i>Transmission will be recorded.</i>
 
-953
+605
 00:44:08,521 --> 00:44:11,479
 <i>(TWO-TONE SIGNAL)</i>
 
-954
+606
 00:44:11,641 --> 00:44:14,109
 <i>(ICE WARRIOR) The device is operating.</i>
 
-955
+607
 00:44:14,281 --> 00:44:16,272
 <i>Wait a moment!</i>
 
-956
+608
 00:44:16,441 --> 00:44:18,875
 Um...I must check the connections.
 
-957
+609
 00:44:19,041 --> 00:44:21,236
 (SIGNAL CONTINUES)
 
-958
+610
 00:44:21,401 --> 00:44:25,713
 If the power fails, we won't be able
 to guide the fleet onto the moon.
 
-959
+611
 00:44:25,881 --> 00:44:27,872
 There must be no failures!
 
-960
+612
 00:44:28,041 --> 00:44:31,795
 I realise the importance of that.
 If we overshoot the moon,
 
-961
+613
 00:44:31,961 --> 00:44:36,591
 nothing will stop them from going
 straight into an orbit around the sun.
 
-962
+614
 00:44:36,761 --> 00:44:38,752
 They will not overshoot!
 
-963
+615
 00:44:38,921 --> 00:44:43,312
 Of course not, but since their fuel
 supplies are at a marginal level,
 
-964
+616
 00:44:43,481 --> 00:44:47,918
 if anything did go wrong,
 they'd never be able to regain moon orbit.
 
-965
+617
 00:44:57,241 --> 00:44:59,630
 This video device is operating!
 
-966
+618
 00:44:59,801 --> 00:45:02,554
 You have betrayed us!
 
-967
+619
 00:45:02,721 --> 00:45:06,191
 - Every word has been heard on Earth!
 - Kill him!
 
-968
+620
 00:45:07,361 --> 00:45:10,353
 (TRILLING BUZZ)
 
-969
+621
 00:45:16,641 --> 00:45:20,634
 (TRILLING BUZZ)
 
-970
+622
 00:45:22,721 --> 00:45:25,613
 <i>(COMPUTER) Countdown</i>
 <i>in minus three minutes.</i>
 
-971
+623
 00:45:25,681 --> 00:45:30,072
 Cancel the launch! We can use that
 satellite to mislead the Martian fleet!
 
-972
+624
 00:45:30,241 --> 00:45:34,972
 Don't you see? Poor Fewsham deliberately let us overhear their homing signal.
 
-973
+625
 00:45:35,141 --> 00:45:39,612
 We can imitate that signal
 with a homing device in the satellite!
 
-974
+626
 00:45:39,861 --> 00:45:44,412
 Commander Radnor, top priority
 message to satellite launching site!
 
-975
+627
 00:45:44,581 --> 00:45:48,574
 - Cancel launch! Repeat, Cancel launch!
 <i>- (COMPUTER) Message understood.</i>
 
-976
+628
 00:45:48,741 --> 00:45:50,951
 If we can deflect their armada,
 half our battle is won!
 
-977
+629
 00:45:51,081 --> 00:45:55,979
 - But still, that fungus stuff is everywhere.
 - We solved that one with H2O - water!
 
-978
+630
 00:45:56,141 --> 00:46:00,293
 Water? Well, all we need to do
 is to make it rain!
 
-979
+631
 00:46:02,218 --> 00:46:05,247
 It's hopeless, Doctor! 
 You'll never get that thing going again!
 
-980
+632
 00:46:05,318 --> 00:46:08,476
 I'm not so sure, Jamie. After all, it's only the controls that are damaged.
 
-981
+633
 00:46:08,638 --> 00:46:10,029
 The workings are all right.
 
-982
+634
 00:46:10,198 --> 00:46:12,468
 If we can bypass the controls...
 
-983
+635
 00:46:12,638 --> 00:46:16,790
 Have you got your knife on you?
 Lend it me, will you? Be careful.
 
-984
+636
 00:46:16,958 --> 00:46:21,748
 Thank you. There we are.
 Now, what have we got here?
 
-985
+637
 00:46:23,238 --> 00:46:26,275
 Ah, yes... Yes, yes.
 
-986
+638
 00:46:26,438 --> 00:46:31,193
 Yes, well, it's just a question
 of sorting this lot out. That's all.
 
-987
+639
 00:46:32,358 --> 00:46:36,146
 All is prepared, Grand Marshal.
 
-988
+640
 00:46:40,398 --> 00:46:46,792
 I shall return to our ship
 to finalise invasion plans.
 
-989
+641
 00:46:50,598 --> 00:46:56,393
 Right, now then, Zoe, let's see what happens when we try to connect these two together.
 
-990
+642
 00:46:57,598 --> 00:47:00,158
 No, I don't think so somehow!
 
-991
+643
 00:47:00,318 --> 00:47:02,309
 What about these two?
 
-992
+644
 00:47:05,398 --> 00:47:10,233
 Ah! That's better! I think
 I've succeeded in re-establishing
 
-993
+645
 00:47:10,398 --> 00:47:12,628
 one of these rain circuits, Jamie.
 
-994
+646
 00:47:12,798 --> 00:47:14,789
 Well, it's not raining yet!
 
-995
+647
 00:47:14,958 --> 00:47:18,492
 Oh, Jamie! Weather Control
 is a very difficult technology.
 
-996
+648
 00:47:18,558 --> 00:47:20,147
 You can't expect immediate results.
 
-997
+649
 00:47:20,218 --> 00:47:25,069
 - Are you sure you're getting it right?
 - Yeah, I hope so, Zoe. Just have to hope for the best. That's all.
 
-998
+650
 00:47:25,138 --> 00:47:27,688
 I must get on as there's another little job I want to do.
 
-999
+651
 00:47:33,478 --> 00:47:36,675
 We should have some nice heavy rain before long!
 
-1000
+652
 00:47:36,838 --> 00:47:39,272
 - Ah, there we are!
 - Yes, the satellite.
 
-1001
+653
 00:47:39,438 --> 00:47:41,394
 (ELDRED) Isn't that a beautiful sight!
 
-1002
+654
 00:47:42,798 --> 00:47:45,790
 - We've finished and installed the homing device. It's working perfectly.
 - Well done.
 
-1003
+655
 00:47:45,958 --> 00:47:49,011
 Doctor, I know we're sending up a false signal,
 
-1004
+656
 00:47:49,178 --> 00:47:52,250
 but aren't some of the Martian ships bound to follow the right one?
 
-1005
+657
 00:47:52,418 --> 00:47:55,476
 There isn't going to be a right one, there's going to be only ours, the wrong one,
 
-1006
+658
 00:47:55,538 --> 00:47:59,277
 and that's going to lead the entire Martian fleet
 into an orbit round the sun!
 
-1007
+659
 00:47:59,338 --> 00:48:02,228
 - What about Slaar's signal?
 - Obviously that has to be stopped.
 
-1008
+660
 00:48:02,348 --> 00:48:04,308
 - But how?
 - Well, as soon as that satellite is up
 
-1009
+661
 00:48:04,398 --> 00:48:07,747
 I shall T-Mat myself to the moon
 and destroy their homing device.
 
-1010
+662
 00:48:07,858 --> 00:48:09,870
 - They'll kill you on sight!
 - No, I don't think so.
 
-1011
+663
 00:48:09,998 --> 00:48:13,235
 I rigged up an interesting device here.
 
-1012
+664
 00:48:13,778 --> 00:48:16,246
 (TWO-TONE SIGNAL)
 
-1013
+665
 00:48:21,418 --> 00:48:24,535
 (KELLY) There it is. It's in orbit.
 
-1014
+666
 00:48:26,698 --> 00:48:29,273
 We're picking up the aliens'
 homing signal from the moon.
 
-1015
+667
 00:48:29,338 --> 00:48:31,752
 That means their invasion fleet is getting closer. There's no time to lose.
 
-1016
+668
 00:48:31,818 --> 00:48:36,512
 Are you quite clear? As soon as I have succeeded destroying their signal,
 
-1017
+669
 00:48:36,778 --> 00:48:38,688
 you must activate our signal in the satellite.
 
-1018
+670
 00:48:38,758 --> 00:48:40,713
 - We'll be ready.
 - Right, then I'll be off.
 
-1019
+671
 00:48:40,818 --> 00:48:44,967
 - Doctor, do be careful, won't you?
 - Don't worry, Zoe, I will.
 
-1020
+672
 00:48:45,138 --> 00:48:49,177
 - Are you ready, Miss Kelly?
 - Doctor, our control of T-Mat hasn't been tested!
 
-1021
+673
 00:48:49,338 --> 00:48:52,136
 Then now's the time to test it!
 
-1022
+674
 00:48:55,138 --> 00:48:58,687
 (TRILLING)
 
-1023
+675
 00:49:25,418 --> 00:49:28,490
 (HIGH-PITCHED BUZZING)
 
-1024
+676
 00:49:41,698 --> 00:49:44,690
 (TWO-TONE SIGNAL)
 
-1025
+677
 00:49:44,858 --> 00:49:47,418
 (SIGNAL GETS LOUDER)
 
-1026
+678
 00:49:47,578 --> 00:49:50,046
 (SIGNAL GETS QUIETER)
 
-1027
+679
 00:50:00,538 --> 00:50:04,577
 (HISSING, LABOURED BREATHING)
 
-1028
+680
 00:50:08,438 --> 00:50:10,429
 (SLAAR) No.
 
-1029
+681
 00:50:12,458 --> 00:50:14,449
 You...
 
-1030
+682
 00:50:14,618 --> 00:50:16,609
 ..over there.
 
-1031
+683
 00:50:18,138 --> 00:50:21,130
 (HISSING, LABOURED BREATHING)
 
-1032
+684
 00:50:22,258 --> 00:50:24,374
 I ordered you to be destroyed!
 
-1033
+685
 00:50:24,538 --> 00:50:27,530
 Well, you weren't very successful, were you?
 
-1034
+686
 00:50:28,978 --> 00:50:30,809
 Destroy that weapon!
 
-1035
+687
 00:50:32,738 --> 00:50:34,729
 (TRILLING BUZZ)
 
-1036
+688
 00:50:34,898 --> 00:50:37,287
 What is your purpose in coming here?
 
-1037
+689
 00:50:37,458 --> 00:50:40,177
 You don't expect me to tell you that, do you?
 
-1038
+690
 00:50:41,698 --> 00:50:44,735
 (TWO-TONE BEEP)
 
-1039
+691
 00:50:44,898 --> 00:50:47,571
 The directional beam is still operative.
 
-1040
+692
 00:50:47,738 --> 00:50:51,526
 Yes. I'm afraid you were
 a little too quick for me.
 
-1041
+693
 00:50:51,698 --> 00:50:55,213
 (HISSING, LABOURED BREATHING)
 
-1042
+694
 00:50:55,378 --> 00:51:00,168
 Are you capable of operating
 the T-Mat mechanism?
 
-1043
+695
 00:51:00,338 --> 00:51:02,329
 Oh, no. I don't think I...
 
-1044
+696
 00:51:07,938 --> 00:51:10,816
 Well, yes, perhaps I could get the hang of it.
 
-1045
+697
 00:51:10,978 --> 00:51:16,257
 As long as you can be useful to us, you can live,
 
-1046
+698
 00:51:16,418 --> 00:51:20,297
 but this time, there will be no escape.
 
-1047
+699
 00:51:22,258 --> 00:51:28,367
 You will familiarise yourself
 with the T-Mat controls.
 
-1048
+700
 00:51:28,538 --> 00:51:30,529
 Oh, thank you very much!
 
-1049
+701
 00:51:31,778 --> 00:51:36,806
 You will not touch the controls
 until I give the order.
 
-1050
+702
 00:51:36,978 --> 00:51:39,766
 (TWO-TONE BEEP)
 
-1051
+703
 00:51:39,938 --> 00:51:43,931
 - (KELLY) It's operating perfectly!
 - Shoulf we wait till the Doctor got back?
 
-1052
+704
 00:51:44,098 --> 00:51:45,937
 The moon signal has disappeared, hasn't it?
 
-1053
+705
 00:51:46,048 --> 00:51:50,599
 That may be too atmospheric. As all we know they're transmitting as strongly as ever.
 
-1054
+706
 00:51:50,768 --> 00:51:52,759
 The moon signal was strong enough before the Doctor left.
 
-1055
+707
 00:51:52,928 --> 00:51:56,208
 - He must have succeeded.
 - Then why hasn't he come back?
 
-1056
+708
 00:51:56,258 --> 00:51:57,002
 (TWO-TONE BEEP)
 
-1057
+709
 00:51:57,188 --> 00:51:59,203
 When our Warriors arrive,
 
-1058
+710
 00:51:59,318 --> 00:52:02,927
 you will transmit them to Earth
 under my direction.
 
-1059
+711
 00:52:03,048 --> 00:52:06,518
 Yes. They haven't arrived yet.
 Something still might go wrong.
 
-1060
+712
 00:52:06,688 --> 00:52:10,645
 - Nothing can go wrong now!
 - There's many a slip between the cup and the lip.
 
-1061
+713
 00:52:10,728 --> 00:52:15,404
 If anything does go wrong,
 you will be the first to die.
 
-1062
+714
 00:52:18,888 --> 00:52:21,561
 (TWO-TONE BEEP)
 
-1063
+715
 00:52:22,228 --> 00:52:24,981
 Scan closer!
 
-1064
+716
 00:52:26,108 --> 00:52:30,659
 If they are going to divert,
 it should happen any moment now!
 
-1065
+717
 00:52:31,508 --> 00:52:33,339
 They're changing course!
 
-1066
+718
 00:52:35,988 --> 00:52:37,580
 I think you're right!
 
-1067
+719
 00:52:40,588 --> 00:52:43,944
 They're all following the satellite signal!
 
-1068
+720
 00:52:44,108 --> 00:52:48,021
 The Doctor must succeeded!
 He must turned off the Martians' signal.
 
-1069
+721
 00:52:48,188 --> 00:52:51,385
 What's happening up there, then?
 Why hasn't he come back?
 
-1070
+722
 00:52:51,548 --> 00:52:55,382
 Don't worry, Jamie. A squad of Security guards armed with flame throwers are on their way here now.
 
-1071
+723
 00:52:55,548 --> 00:52:58,858
 - As soon as they get here, we'll T-Mat them to the moon.
 - They'll be too late!
 
-1072
+724
 00:52:59,028 --> 00:53:02,862
 - You'll just have to be patient!
 - I'm sick of being patient!
 
-1073
+725
 00:53:04,428 --> 00:53:05,919
 (WHISPERS) Zoe.
 
-1074
+726
 00:53:06,288 --> 00:53:10,086
 - That T-Mat thing, do you know how it works?
 - - I think so. Why?
 
-1075
+727
 00:53:10,248 --> 00:53:13,479
 - Could you T-Mat me back to the moon?
 - Oh, no, Jamie, shouldn't you...
 
-1076
+728
 00:53:13,648 --> 00:53:16,199
 Look, Either the Doctor's all right, in which case we've no reason to worry
 
-1077
+729
 00:53:16,268 --> 00:53:18,657
 or he's in danger and he needs my help!
 
-1078
+730
 00:53:19,888 --> 00:53:21,844
 <i>You have failed us, Slaar!</i>
 
-1079
+731
 00:53:22,008 --> 00:53:24,238
 <i>We shall all die!</i>
 
-1080
+732
 00:53:24,408 --> 00:53:29,084
 <i>We're being pulled into the orbit of the sun!</i>
 
-1081
+733
 00:53:32,448 --> 00:53:34,757
 This is impossible!
 
-1082
+734
 00:53:34,928 --> 00:53:38,398
 The signal! There is no power!
 
-1083
+735
 00:53:38,568 --> 00:53:41,036
 (HISSING, LABOURED BREATHING)
 
-1084
+736
 00:53:41,208 --> 00:53:42,766
 You did this!
 
-1085
+737
 00:53:42,928 --> 00:53:48,127
 Yes. That signal has been going
 no further than this control room.
 
-1086
+738
 00:53:48,288 --> 00:53:50,756
 But they were receiving my signal!
 
-1087
+739
 00:53:50,928 --> 00:53:53,761
 Not your signal - ours.
 
-1088
+740
 00:53:53,928 --> 00:53:56,567
 You sent a signal...
 
-1089
+741
 00:53:56,728 --> 00:53:58,719
 ..from Earth?
 
-1090
+742
 00:53:58,888 --> 00:54:00,401
 We sent up a satellite.
 
-1091
+743
 00:54:00,568 --> 00:54:03,958
 That signal has sent your fleet
 into a false orbit!
 
-1092
+744
 00:54:04,128 --> 00:54:08,041
 The heat of the sun will kill them!
 
-1093
+745
 00:54:08,208 --> 00:54:12,804
 You have destroyed our entire fleet!
 
-1094
+746
 00:54:12,968 --> 00:54:15,880
 You tried to destroy an entire world.
 
-1095
+747
 00:54:17,048 --> 00:54:20,199
 Earth will still die!
 
-1096
+748
 00:54:21,448 --> 00:54:26,602
 The fungus will take the oxygen
 from your atmosphere!
 
-1097
+749
 00:54:26,768 --> 00:54:29,157
 I'm afraid you've failed there, too.
 
-1098
+750
 00:54:29,328 --> 00:54:31,319
 We can destroy the fungus.
 
-1099
+751
 00:54:31,488 --> 00:54:35,561
 (HISSING, LABOURED BREATHING)
 
-1100
+752
 00:54:37,128 --> 00:54:39,517
 Kill him!
 
-1101
+753
 00:54:39,688 --> 00:54:41,485
 DOCTOR!
 
-1102
+754
 00:54:41,648 --> 00:54:43,639
 Jamie! Look out!
 
-1103
+755
 00:54:44,608 --> 00:54:47,281
 (TRILLING BUZZ)
 
-1104
+756
 00:54:56,088 --> 00:54:58,079
 Creag an tuire!
 
-1105
+757
 00:54:59,768 --> 00:55:01,804
 Jamie! The light terminal!
 
-1106
+758
 00:55:04,648 --> 00:55:06,639
 Well done, Jamie!
 
-1107
+759
 00:55:11,448 --> 00:55:14,724
 Oh, goodness me!
 Jamie, thank you very much!
 
-1108
+760
 00:55:14,888 --> 00:55:18,005
 Now then, we must T-Mat ourselves
 back to Earth.
 
-1109
+761
 00:55:18,168 --> 00:55:20,477
 (THUNDERCLAP)
 
-1110
+762
 00:55:23,688 --> 00:55:26,976
 <i>(COMPUTER) Widespread rainfall</i>
 <i>throughout the country.</i>
 
-1111
+763
 00:55:27,048 --> 00:55:31,166
 <i>Some flooding but none serious.</i>
 <i>Fungus rapidly disappearing.</i>
 
-1112
+764
 00:55:31,328 --> 00:55:35,116
 <i>Weather Control Bureau</i>
 <i>coming back into operation.</i>
 
-1113
+765
 00:55:35,288 --> 00:55:38,280
 <i>World food shortages partially relieved,</i>
 
-1114
+766
 00:55:38,448 --> 00:55:41,281
 <i>now T-Mats are becoming operational again.</i>
 
-1115
+767
 00:55:41,448 --> 00:55:46,739
 <i>Message to Commander Radnor from the Security Council</i>
 <i>of the United Nations -
 
-1116
+768
 00:55:46,808 --> 00:55:49,699
 - <i> Congratulations.</i>
 - All right. Just discontinue report.
 
-1117
+769
 00:55:49,868 --> 00:55:52,320
 So you DID know what you were doing
 at the Weather Control Bureau!
 
-1118
+770
 00:55:52,488 --> 00:55:53,967
 Zoe, of course I did.
 
-1119
+771
 00:55:54,128 --> 00:55:56,278
 Well, it took long enough to work!
 
-1120
+772
 00:55:56,448 --> 00:55:58,545
 Well, the rain seems dispose of the fungus well enough.
 
-1121
+773
 00:55:58,608 --> 00:56:01,684
 Now the next thing to do is to get T-Mat fully operational again.
 
-1122
+774
 00:56:01,748 --> 00:56:05,938
 Yes, when Moon Relay is repaired, 
 we must check over the equipment
 and build in safeguards.
 
-1123
+775
 00:56:06,008 --> 00:56:09,000
 From now on, T-Mat must be entirely controlled from Earth.
 
-1124
+776
 00:56:09,168 --> 00:56:12,080
 Oh, surely you've learned not to put all your eggs in one basket!
 
-1125
+777
 00:56:12,248 --> 00:56:14,204
 T-Mat itself is perfectly effective!
 
-1126
+778
 00:56:14,368 --> 00:56:18,202
 You need a secondary transportation system,
 a fleet of rockets on permanent stand by!
 
-1127
+779
 00:56:18,368 --> 00:56:22,156
 - There's no need to go to such lengths.
 - It's a question of common sense!
 
-1128
+780
 00:56:22,328 --> 00:56:25,125
 I'm sure the Doctor will agree with me! Doctor...
 
-1129
+781
 00:56:30,328 --> 00:56:33,282
 (JAMIE) You didn't have to make it
 rain as hard as all that!
 
-1130
+782
 00:56:33,348 --> 00:56:35,657
 Oh, Jamie, some of you is just never satisfied!
 
-1131
+783
 00:56:35,828 --> 00:56:40,280
 - What did you rush us back here for?
 - Oh, you know, questions and explanations are very difficult. Come on!
 
-1132
+784
 00:56:40,648 --> 00:56:42,611
 - Where are we going now?
 - It's no good asking him.
 
-1133
+785
 00:56:42,728 --> 00:56:44,922
 He's no more idea than the man in the moon!
 
-1134
+786
 00:56:45,188 --> 00:56:47,656
 I heard that, Jamie! Come on!
+
+787
+01:00:12,696 --> 01:00:16,530
+(DOCTOR WHO THEME)
+
+788
+01:01:19,776 --> 01:01:23,530
+- The homing beam's cut out!
+
+789
+01:01:23,696 --> 01:01:28,087
+- You said it was infallible!
+
+790
+01:01:28,256 --> 01:01:31,965
+- That means trouble!
+
+791
+01:01:32,136 --> 01:01:37,051
+- You mean we'll crash?
+
+792
+01:01:47,216 --> 01:01:49,810
+Hello, Earth Control, this is Moonbase.
+
+793
+01:01:49,187 --> 01:01:51,940
+- Not again!
+- The second Moscow consignment?
+
+794
+01:01:49,976 --> 01:01:53,013
+Emergency! Can you hear me?
+
+795
+01:01:52,107 --> 01:01:55,179
+They'll think it's deliberate if this goes on.
+
+796
+01:01:53,176 --> 01:01:58,011
+At our present rate of drift,
+
+797
+01:01:55,347 --> 01:01:59,101
+T-Mat Reception, Earth to moon. Controller Kelly calling.
+
+798
+01:01:57,547 --> 01:02:01,779
+<i>(COMPUTER) Bombay-Tokyo shipment activated.</i>
+
+799
+01:01:58,176 --> 01:02:01,213
+in approximately five months and ten days.
+
+800
+01:01:59,267 --> 01:02:02,020
+Switch your communication links to video.
+
+801
+01:02:01,376 --> 01:02:04,049
+- No need to worry, then.
+
+802
+01:02:01,947 --> 01:02:05,781
+<i>Bombay sending now. Tokyo receiving now. Dispatch completed.</i>
+
+803
+01:02:04,216 --> 01:02:08,209
+We've only got enough food
+
+804
+01:02:05,067 --> 01:02:08,901
+Osgood's gone too far this time! There'll be trouble!
+
+805
+01:02:05,947 --> 01:02:09,622
+<i>New York to Moscow delayed, Moonbase clearance awaited.</i>
+
+806
+01:02:09,787 --> 01:02:14,383
+<i>Stockholm-Washington personnel transportation, Stockholm sending now.</i>
+
+807
+01:02:13,816 --> 01:02:15,807
+Just a minute.
+
+808
+01:02:14,547 --> 01:02:19,257
+<i>Dispatch completed. Non arrival, shipment of synthetic protein,</i>
+
+809
+01:02:17,016 --> 01:02:19,007
+I think I'm getting something!
+
+810
+01:02:19,176 --> 01:02:23,886
+<i>Earth Control, this is Moonbase!</i>
+
+811
+01:02:19,427 --> 01:02:20,826
+<i>New York to Moscow,</i>
+
+812
+01:02:20,987 --> 01:02:22,898
+<i>Moonbase clearance awaited.</i>
+
+813
+01:02:23,067 --> 01:02:25,058
+- Brent.
+- Yes, Miss Kelly?
+
+814
+01:02:25,227 --> 01:02:28,776
+- Why the delay at Moon Control?
+- There's been a mix-up.
+
+815
+01:02:28,947 --> 01:02:32,860
+- The Moscow shipment's in Canberra.
+- Fewsham again, I suppose!
+
+816
+01:02:33,027 --> 01:02:36,622
+- Take Moscow out of phase.
+- Moscow pending. Moonbase clear.
+
+817
+01:02:36,787 --> 01:02:41,736
+<i>Toronto-Calcutta shipment activated.</i>
+<i>Calcutta receiving now.</i>
+
+818
+01:02:41,907 --> 01:02:44,262
+<i>- Dispatch completed.</i>
+- Moscow's ready.
+
+819
+01:02:44,427 --> 01:02:47,897
+- Report Canberra-Moscow.
+<i>- Canberra-Moscow clear.</i>
+
+820
+01:02:48,067 --> 01:02:50,342
+- Tell them to activate.
+- Go ahead.
+
+821
+01:02:50,507 --> 01:02:55,058
+<i>Canberra sending now. Moscow receiving now. Dispatch completed.</i>
+
+822
+01:02:55,227 --> 01:02:56,706
+(TRILLING TONE)
+
+823
+01:03:01,987 --> 01:03:05,457
+- Good morning!
+- Morning. Just as well you've arrived!
+
+824
+01:03:05,627 --> 01:03:09,506
+The sooner you take over from Fewsham on Moon Control the better!
+
+825
+01:03:09,667 --> 01:03:13,137
+All T-Mat consignments
+are five minutes behind schedule.
+
+826
+01:03:13,307 --> 01:03:17,095
+Fewsham routed a Moscow consignment
+through to Canberra.
+
+827
+01:03:17,267 --> 01:03:20,737
+- He's a lunatic!
+- You shouldn't have recommended him
+
+828
+01:03:20,907 --> 01:03:23,216
+for an assistant controller's job.
+
+829
+01:03:23,387 --> 01:03:26,459
+Yes, I know now,
+but I thought he deserved a break.
+
+830
+01:03:26,627 --> 01:03:31,018
+He'll do something disastrous one day
+and you'll have to answer for it!
+
+831
+01:03:31,187 --> 01:03:35,385
+- So, I'll work in a synthetics factory!
+- It's your career!
+
+832
+01:03:35,547 --> 01:03:38,619
+So it is! Have you
+a T-Mat cubicle ready for me?
+
+833
+01:03:38,787 --> 01:03:41,699
+- Yes, Number 6.
+- See you later.
+
+834
+01:03:46,667 --> 01:03:50,740
+Prepare lunar cubicle Number 6
+for transport to Moon Control.
+
+835
+01:03:50,907 --> 01:03:52,704
+Ready and waiting.
+
+836
+01:03:52,867 --> 01:03:54,266
+Activate.
+
+837
+01:03:56,907 --> 01:04:00,058
+(TRILLING TONE)
+
+838
+01:04:05,787 --> 01:04:08,620
+It's lucky he got here
+before your man arrived.
+
+839
+01:04:08,787 --> 01:04:10,186
+Yes. He's late.
+
+840
+01:04:10,347 --> 01:04:12,781
+- Keep a T-Mat cubicle open.
+- Right.
+
+841
+01:04:14,107 --> 01:04:16,541
+Local cubicle two holding open.
+
+842
+01:04:16,707 --> 01:04:20,495
+- Report Moonbase situation.
+<i>- Moonbase clear.</i>
+
+843
+01:04:20,667 --> 01:04:24,023
+<i>Routine shipments transferring</i>
+<i>on automatic control.</i>
+
+844
+01:04:24,187 --> 01:04:26,701
+<i>Local arrival. Cubicle two activating.</i>
+
+845
+01:04:26,867 --> 01:04:30,223
+(TRILLING TONE)
+
+846
+01:04:38,667 --> 01:04:42,865
+Good morning, Brent.
+Good morning, Gia. All functioning well?
+
+847
+01:04:43,027 --> 01:04:45,018
+Of course, Commander Radnor.
+
+848
+01:04:45,187 --> 01:04:48,418
+In your case, efficiency and charm
+go hand in hand!
+
+849
+01:04:48,587 --> 01:04:52,944
+- I try to run things smoothly.
+- Nothing goes wrong while you're on duty!
+
+850
+01:04:53,107 --> 01:04:54,665
+I don't allow it!
+
+851
+01:06:35,947 --> 01:06:38,222
+I thought the system was infallible.
+
+852
+01:06:38,387 --> 01:06:41,857
+- It won't be anything serious.
+- I'm glad you think so!
+
+853
+01:06:42,027 --> 01:06:46,578
+- Brent, is there any obvious damage?
+- None reported. All links stable.
+
+854
+01:06:46,747 --> 01:06:50,342
+- That's only local.
+- It's part of the checking process.
+
+855
+01:06:50,507 --> 01:06:54,182
+- Report on T-Mat breakdown.
+<i>- Complete power phase blank.</i>
+
+856
+01:06:54,347 --> 01:06:58,818
+- The materialisation pulse generator?
+<i>- Overloaded. No damage this end.</i>
+
+857
+01:06:58,987 --> 01:07:01,979
+- Check with Moonbase.
+<i>- Primary video link dead.</i>
+
+858
+01:07:02,147 --> 01:07:04,138
+- Cause?
+<i>- Being investigated.</i>
+
+859
+01:07:04,307 --> 01:07:08,858
+- Are you sure it isn't serious?
+- My staff are running a thorough check.
+
+860
+01:07:09,027 --> 01:07:13,066
+- Until I have the report, I can't answer.
+- I want that report soon!
+
+861
+01:07:18,227 --> 01:07:21,663
+(WHOOSHING)
+
+862
+01:07:23,307 --> 01:07:25,901
+Doctor, if we've landed, where are we?
+
+863
+01:07:26,067 --> 01:07:28,661
+That is what I'm trying to find out, Zoe.
+
+864
+01:07:30,427 --> 01:07:34,056
+(ZOE) A rocket?
+(JAMIE) We're just hanging in space!
+
+865
+01:07:34,227 --> 01:07:36,024
+Well, we can't be!
+
+866
+01:07:36,187 --> 01:07:38,576
+Let's try and find a star we know.
+
+867
+01:07:39,667 --> 01:07:43,137
+(DOCTOR GROANS WITH EFFORT)
+There we are.
+
+868
+01:07:44,587 --> 01:07:46,384
+What in heaven's name...?
+
+869
+01:07:46,547 --> 01:07:49,778
+- What's he up to?
+- He's trying to climb aboard.
+
+870
+01:07:49,947 --> 01:07:52,859
+Just a minute... Just a minute.
+
+871
+01:07:54,227 --> 01:07:56,297
+(DOCTOR) Oh, this control is...
+
+872
+01:07:56,467 --> 01:07:58,697
+There we are.
+
+873
+01:07:58,867 --> 01:08:04,100
+Now that's an ion-jet rocket
+of the 21st century, but...but...
+
+874
+01:08:04,267 --> 01:08:06,258
+..this helmet, if I can...
+
+875
+01:08:06,427 --> 01:08:07,940
+There we are!
+
+876
+01:08:08,107 --> 01:08:13,227
+That's not nearly so sophisticated.
+It's certainly not later than 1960.
+
+877
+01:08:13,387 --> 01:08:15,537
+(JAMIE) The letters on his helmet?
+
+878
+01:08:15,707 --> 01:08:18,505
+(ZOE) C-C-C-P.
+
+879
+01:08:18,667 --> 01:08:20,658
+(DOCTOR) Of course!
+
+880
+01:08:20,827 --> 01:08:22,704
+- What?
+- Just a minute.
+
+881
+01:08:24,707 --> 01:08:27,824
+(DOCTOR) Yes, I think that explains it!
+
+882
+01:08:27,987 --> 01:08:29,978
+(ZOE) Well, Doctor, what is it?
+
+883
+01:08:30,147 --> 01:08:32,217
+(DOCTOR) It's a flying machine,
+
+884
+01:08:32,387 --> 01:08:36,938
+designed by a gentleman by the name
+of Leonardo da Vinci in about 1500.
+
+885
+01:08:37,107 --> 01:08:40,656
+- Well, what's it doing up here?!
+- Doctor, where are we?
+
+886
+01:08:40,827 --> 01:08:42,818
+- We're in a museum!
+- A what?
+
+887
+01:08:42,987 --> 01:08:46,821
+A space museum! Look!
+There you are. A balloon...
+
+888
+01:08:48,307 --> 01:08:52,459
+That's a transport plane.
+Now, those initials stand for Russia.
+
+889
+01:08:52,627 --> 01:08:57,018
+That's Gagarin,
+the first earthman in space. Look.
+
+890
+01:08:58,587 --> 01:09:01,579
+Come on, let's have a look round, shall we?
+
+891
+01:09:06,307 --> 01:09:07,706
+Wait for me!
+
+892
+01:14:48,107 --> 01:14:50,462
+You will start work at once!
+
+893
+01:14:50,627 --> 01:14:52,697
+There will be a guard at the door.
+
+894
+01:14:52,867 --> 01:14:56,337
+When I return...
+
+895
+01:14:56,507 --> 01:15:02,104
+..you will have the T-Mat link
+ready for operation.
+
+896
+01:15:02,267 --> 01:15:05,703
+(HISSING, LABOURED BREATHING)
+
+897
+01:15:06,867 --> 01:15:10,542
+Don't be a fool, Fewsham!
+If we repair the emergency link,
+
+898
+01:15:10,707 --> 01:15:13,096
+these creatures can travel to Earth!
+
+899
+01:15:13,267 --> 01:15:16,339
+- What about us?
+- As soon as he gets what he wants,
+
+900
+01:15:16,507 --> 01:15:18,498
+we'll mean nothing to him!
+
+901
+01:15:18,667 --> 01:15:22,660
+- If we co-operate, we've got a chance!
+- Osgood didn't take it!
+
+902
+01:15:22,827 --> 01:15:26,422
+Do you think I want to die
+like that? I want to live!
+
+903
+01:15:35,787 --> 01:15:38,824
+(KELLY) Brent, is there
+any trace of a reason?
+
+904
+01:15:38,987 --> 01:15:42,662
+We've double checked.
+This end is functioning normally.
+
+905
+01:15:42,827 --> 01:15:44,545
+Then it must be Moonbase!
+
+906
+01:15:44,707 --> 01:15:48,256
+We've no way of checking
+their apparatus from this end.
+
+907
+01:15:48,427 --> 01:15:52,181
+- Commander Radnor's at a meeting.
+- He'll expect a full report.
+
+908
+01:15:52,347 --> 01:15:55,066
+There it is.
+We've even checked the computer.
+
+909
+01:15:55,227 --> 01:15:58,697
+(RADNOR) Have you located
+the cause of the breakdown?
+
+910
+01:15:58,867 --> 01:16:02,098
+- This end is clear.
+- That isn't what I want to know!
+
+911
+01:16:02,267 --> 01:16:04,861
+- We cannot trace the fault.
+- Miss Kelly!
+
+912
+01:16:08,507 --> 01:16:11,704
+I have senior government officials
+hounding me.
+
+913
+01:16:11,867 --> 01:16:16,657
+They expect a more informative
+answer, and so do I!
+
+914
+01:16:16,827 --> 01:16:19,660
+There isn't one. The trouble is at Moonbase.
+
+915
+01:16:19,827 --> 01:16:22,899
+- Why can't you deal with it?
+- We can't get there.
+
+916
+01:16:23,067 --> 01:16:25,058
+We can't even talk to them.
+
+917
+01:16:25,227 --> 01:16:28,378
+You mean there's no other way
+of contacting them?
+
+918
+01:16:28,547 --> 01:16:30,378
+Only by rocket (!)
+
+919
+01:16:32,187 --> 01:16:35,259
+That could be our only answer!
+
+920
+01:16:35,427 --> 01:16:38,942
+(BRENT) The only place you'll find
+a rocket is in a museum!
+
+921
+01:16:39,107 --> 01:16:42,338
+- Exactly!
+- Even if one could be made operational,
+
+922
+01:16:42,507 --> 01:16:47,706
+- no one could control such a project.
+- You're wrong. There is one man,
+
+923
+01:16:47,867 --> 01:16:49,983
+one man alone who can help us now.
+
+924
+01:16:50,147 --> 01:16:54,345
+For the last time, who are you
+and why are you in my private workshop?
+
+925
+01:16:54,507 --> 01:16:59,786
+Now there really is no need
+for all these...these histrionics.
+
+926
+01:16:59,947 --> 01:17:03,656
+- We are perfectly harmless!
+- How did you even get in here?
+
+927
+01:17:03,827 --> 01:17:06,387
+The usual way. We just materialised.
+
+928
+01:17:06,547 --> 01:17:10,540
+The T-Mat cubicle didn't give
+automatic warnings this time.
+
+929
+01:17:10,707 --> 01:17:12,823
+(ZOE) That's not our fault, is it?
+
+930
+01:17:12,987 --> 01:17:15,865
+- Why did you come?
+- Well, this is a museum!
+
+931
+01:17:16,027 --> 01:17:18,780
+The museum is... What on earth's that?
+
+932
+01:17:18,947 --> 01:17:22,178
+It's a 20th-century police box, isn't it?
+
+933
+01:17:22,347 --> 01:17:24,338
+Well, yes, in a way.
+
+934
+01:17:24,507 --> 01:17:26,577
+Well, how did it get in my museum?
+
+935
+01:17:26,747 --> 01:17:29,659
+(ZOE) You could say
+it was a form of spaceship.
+
+936
+01:17:29,827 --> 01:17:32,057
+We owe this gentleman an apology.
+
+937
+01:17:32,227 --> 01:17:35,776
+We really are most interested
+in the museum, Mr, um...?
+
+938
+01:17:35,947 --> 01:17:37,938
+Eldred. Professor Eldred.
+
+939
+01:17:38,107 --> 01:17:42,305
+The museum is closed
+to the general public. Please leave.
+
+940
+01:17:42,467 --> 01:17:46,142
+- Are you in charge of this place?
+- I own it! I have the right
+
+941
+01:17:46,307 --> 01:17:49,697
+- to ask you to leave!
+- There's no need to threaten us.
+
+942
+01:17:49,867 --> 01:17:53,542
+- Trespassers are not welcome!
+- We're not trespassers!
+
+943
+01:17:53,707 --> 01:17:58,303
+- We're very interested!
+- Interested in these antiquated machines?
+
+944
+01:17:56,194 --> 01:18:00,392
+(ZOE) It's no use. No contact
+at all. Every circuit's dead.
+
+945
+01:17:58,467 --> 01:18:01,937
+Come for a good laugh, I suppose,
+like the rest of them!
+
+946
+01:18:00,554 --> 01:18:04,866
+- This is most unfortunate!
+- Don't try them again. You'll blow us up!
+
+947
+01:18:02,107 --> 01:18:07,465
+Laugh?! You mean people laugh at this?
+It's a magnificent exhibition!
+
+948
+01:18:05,034 --> 01:18:06,433
+We don't need a radio.
+
+949
+01:18:06,594 --> 01:18:09,904
+- We're nearly there.
+- I wanted to contact Earth.
+
+950
+01:18:07,627 --> 01:18:11,097
+- We've had enough souvenir hunters!
+- We're not thieves!
+
+951
+01:18:10,074 --> 01:18:13,464
+There's no need. We can activate
+the moon homing beam.
+
+952
+01:18:11,267 --> 01:18:13,622
+We haven't come to take anything!
+
+953
+01:18:13,634 --> 01:18:16,990
+How? We've got no contact
+with anyone on the moon.
+
+954
+01:18:13,787 --> 01:18:16,745
+We genuinely are interested in space travel!
+
+955
+01:18:16,907 --> 01:18:19,057
+Why, especially a thing like this!
+
+956
+01:18:17,154 --> 01:18:20,066
+It's quite simple. It's an automatic device.
+
+957
+01:18:19,227 --> 01:18:22,025
+- This is superb!
+- (ELDRED) Yes, magnificent!
+
+958
+01:18:20,234 --> 01:18:24,147
+Our code radio signals
+trigger the homing beam into action.
+
+959
+01:18:22,187 --> 01:18:25,862
+It was to have been the vehicle
+to take man beyond the moon.
+
+960
+01:18:24,314 --> 01:18:26,305
+We automatically lock onto it
+
+961
+01:18:26,027 --> 01:18:30,498
+- T-Mat put an end to all that!
+- You mean this model's been abandoned?
+
+962
+01:18:26,474 --> 01:18:30,592
+until we reach the point in orbit
+where we fire retro-rockets to land.
+
+963
+01:18:30,667 --> 01:18:35,343
+But its speed and stability are
+a tremendous advance in rocket design!
+
+964
+01:18:30,754 --> 01:18:33,985
+If they've all been cut off,
+how can they activate?
+
+965
+01:18:34,154 --> 01:18:37,464
+It works off a different
+power source - solar power.
+
+966
+01:18:35,507 --> 01:18:37,975
+Exactly! Here, let me show it to you!
+
+967
+01:18:37,634 --> 01:18:40,023
+It's independent of the T-Mat system.
+
+968
+01:18:40,194 --> 01:18:41,673
+I just hope it works.
+
+969
+01:18:40,907 --> 01:18:43,580
+Oh, yes, this is superb. My word!
+
+970
+01:18:41,834 --> 01:18:45,907
+If it doesn't, we'll have trouble docking.
+It could be quite a crash.
+
+971
+01:18:43,747 --> 01:18:48,104
+The real breakthrough was a compact
+generator of enormous power!
+
+972
+01:18:46,074 --> 01:18:48,349
+Let's try. I think we're near enough.
+
+973
+01:18:48,267 --> 01:18:51,896
+And these must be the secondary
+electrode accelerators.
+
+974
+01:18:49,514 --> 01:18:53,268
+- (THREE-TONE SIGNAL)
+- That's our activating signal.
+
+975
+01:18:52,067 --> 01:18:56,902
+Yes, you see, it beat the problem
+of the neutral caesium ions.
+
+976
+01:18:54,274 --> 01:18:57,072
+- (STEADY BEEP)
+- As long as that note is steady,
+
+977
+01:18:57,067 --> 01:19:00,662
+It magnified the G-thrust, too.
+Fantastic proportions!
+
+978
+01:18:57,234 --> 01:18:59,270
+we're home and dry, no trouble!
+
+979
+01:18:59,434 --> 01:19:02,028
+Hello, Earth Control, this is Moonbase.
+
+980
+01:19:00,827 --> 01:19:02,624
+That was awkward!
+
+981
+01:19:02,194 --> 01:19:05,903
+Emergency! Emergency! Can you hear me?
+
+982
+01:19:02,787 --> 01:19:05,540
+- What did you do about that?
+- I'll show you.
+
+983
+01:19:05,707 --> 01:19:07,698
+(DOCTOR) What have we got here?
+
+984
+01:19:06,074 --> 01:19:08,668
+Hello, Earth Control, this is Moonbase.
+
+985
+01:19:07,867 --> 01:19:10,620
+Look at them! They're like a couple of kids!
+
+986
+01:19:08,834 --> 01:19:11,109
+Emergency! Can you hear me?
+
+987
+01:19:10,787 --> 01:19:13,585
+Yeah, he's almost in love with that rocket!
+
+988
+01:19:11,274 --> 01:19:17,144
+Hello, Earth Control. This is Moonbase.
+Emergency! Can you hear me?
+
+989
+01:19:13,747 --> 01:19:16,580
+Well, that's not surprising - I designed it!
+
+990
+01:19:16,747 --> 01:19:18,897
+I've been in rocketry all my life.
+
+991
+01:19:18,114 --> 01:19:21,345
+Hello, Earth Control. This is Moonbase.
+
+992
+01:19:19,067 --> 01:19:22,662
+My father engineered
+the first lunar passenger module,
+
+993
+01:19:21,514 --> 01:19:24,984
+Can you hear me? Hello, Earth Control...
+
+994
+01:19:22,827 --> 01:19:26,979
+and I travelled on the last trip
+back to Earth before it finished.
+
+995
+01:19:27,147 --> 01:19:29,707
+- Before what finished?
+- Space travel.
+
+996
+01:19:29,867 --> 01:19:33,462
+But if the rocket was so good,
+why did you stop at the moon?
+
+997
+01:19:30,274 --> 01:19:33,505
+(HIGH-PITCHED BUZZING)
+
+998
+01:19:33,627 --> 01:19:36,061
+- Aye, why end there?
+- Because of T-Mat.
+
+999
+01:19:36,227 --> 01:19:38,297
+T-Mat, the ultimate in travel,
+
+1000
+01:19:38,467 --> 01:19:42,904
+with as much sense of adventure
+as a synthetic carbohydrates factory!
+
+1001
+01:19:43,067 --> 01:19:47,538
+Surely rockets would still be useful
+as an auxiliary means of transport?
+
+1002
+01:19:47,707 --> 01:19:50,460
+Besides, how would man get beyond the moon?
+
+1003
+01:19:50,627 --> 01:19:53,539
+Nobody cares any more about exploring space.
+
+1004
+01:19:53,707 --> 01:19:57,859
+Life's made... Well, it was
+made too easy by T-Mat.
+
+1005
+01:19:58,027 --> 01:20:00,461
+I see. So you lost government backing?
+
+1006
+01:19:59,874 --> 01:20:02,388
+Hello, Earth Control, this is Moonbase.
+
+1007
+01:20:00,627 --> 01:20:03,778
+The project was abandoned...except by me.
+
+1008
+01:20:02,554 --> 01:20:06,103
+(BEEPING HAS STOPPED)
+
+1009
+01:20:06,274 --> 01:20:10,233
+- The homing beam, it's cut out!
+- I'm trying to reactivate it!
+
+1010
+01:20:08,387 --> 01:20:12,460
+You've got to help me! If we don't
+repair it, we'll all be killed!
+
+1011
+01:20:10,394 --> 01:20:14,945
+- You said it was infallible!
+- The solar power source has been damaged.
+
+1012
+01:20:12,627 --> 01:20:15,699
+Maybe we could repair it
+and T-Mat back to London?
+
+1013
+01:20:15,114 --> 01:20:19,665
+- That means trouble!
+- Yes, it's impossible to land safely.
+
+1014
+01:20:15,867 --> 01:20:19,542
+With that thing guarding the door?
+I'll keep on trying.
+
+1015
+01:20:19,707 --> 01:20:22,380
+Maybe there is something we can do.
+
+1016
+01:20:19,834 --> 01:20:24,385
+- You mean we'll crash?
+- Or drift endlessly through space.
+
+1017
+01:20:22,547 --> 01:20:24,617
+- What?
+- I knew you'd see reason!
+
+1018
+01:20:28,387 --> 01:20:32,266
+- What are you doing?!
+- The video link with Earth.
+
+1019
+01:20:32,427 --> 01:20:34,816
+It's not so badly damaged as the T-Mat.
+
+1020
+01:20:34,987 --> 01:20:37,501
+We're supposed to repair the T-Mat link!
+
+1021
+01:20:37,667 --> 01:20:40,420
+Maybe we can get a message through by video.
+
+1022
+01:20:40,587 --> 01:20:43,704
+A guard will see what we're doing!
+He'll kill us!
+
+1023
+01:20:43,867 --> 01:20:47,064
+You play your game, we'll play ours.
+
+1024
+01:22:55,976 --> 01:22:59,491
+- Right, let's test it now.
+
+1025
+01:22:59,656 --> 01:23:01,612
+We've replaced the circuit.
+
+1026
+01:23:01,776 --> 01:23:04,370
+It should be all right. Turn on the power.
+
+1027
+01:23:06,016 --> 01:23:08,007
+Hold it.
+
+1028
+01:23:14,256 --> 01:23:15,769
+Try again.
+
+1029
+01:23:15,936 --> 01:23:17,927
+(PULSATING HUM)
+
+1030
+01:24:31,936 --> 01:24:34,131
+Don't move! Do exactly as they say!
+
+1031
+01:24:35,336 --> 01:24:37,406
+(TRILLING BUZZ)
+
+1032
+01:24:47,216 --> 01:24:53,655
+(HISSING, LABOURED BREATHING)
+
+1033
+01:25:01,416 --> 01:25:04,806
+Has contact been re-established
+
+1034
+01:25:04,976 --> 01:25:08,491
+No. Once Miss Kelly was transmitted,
+
+1035
+01:25:08,656 --> 01:25:12,535
+- Miss Kelly will fix it.
+
+1036
+01:25:22,216 --> 01:25:24,127
+How much longer, Zoe?
+
+1037
+01:25:24,296 --> 01:25:27,925
+Our orbit will bring us
+
+1038
+01:25:28,096 --> 01:25:30,371
+Let's hope he can still transmit.
+
+1039
+01:25:30,536 --> 01:25:33,926
+Well, his signal was quite strong.
+
+1040
+01:28:12,256 --> 01:28:14,053
+Can you read me?
+
+1041
+01:28:14,216 --> 01:28:16,207
+<i>Yes, I read you loud and clear.</i>
+
+1042
+01:28:16,376 --> 01:28:18,367
+Oh, thank heavens for that!
+
+1043
+01:28:18,536 --> 01:28:21,334
+Listen. We need your help to make a landing.
+
+1044
+01:28:21,496 --> 01:28:24,966
+<i>Don't land! You must warn Earth</i>
+
+1045
+01:28:25,136 --> 01:28:29,049
+- We've lost radio contact with Earth.
+
+1046
+01:28:29,216 --> 01:28:33,368
+We haven't enough fuel. We need
+
+1047
+01:28:33,536 --> 01:28:37,051
+<i>- They'll kill you!</i>
+
+1048
+01:28:37,216 --> 01:28:40,606
+Now, where are you, Mr, um...?
+
+1049
+01:28:40,776 --> 01:28:43,574
+<i>Phipps. I'm in the solar energy store.</i>
+
+1050
+01:28:43,736 --> 01:28:45,727
+<i>Now, what do you want me to do?</i>
+
+1051
+01:28:45,896 --> 01:28:50,731
+If we adapt our homing equipment
+
+1052
+01:28:50,896 --> 01:28:54,809
+Did you hear that? We want you
+
+1053
+01:28:54,976 --> 01:28:59,208
+<i>I'll try, but I've no idea</i>
+
+1054
+01:29:03,536 --> 01:29:07,688
+Now, I think that's done it.
+
+1055
+01:29:07,856 --> 01:29:10,370
+(STEADY BEEP)
+
+1056
+01:29:10,536 --> 01:29:15,849
+Yes! There we are! Zoe, what about
+
+1057
+01:29:17,616 --> 01:29:21,245
+Oh, yes... I don't think
+
+1058
+01:29:21,416 --> 01:29:24,567
+We need to fire the retro-rockets in 17.5 seconds.
+
+1059
+01:29:24,736 --> 01:29:27,694
+What?! Landing positions, everyone!
+
+1060
+01:29:30,856 --> 01:29:34,212
+Two seconds. One...now!
+
+1061
+01:29:58,096 --> 01:30:01,645
+Let's hope there's enough fuel left
+
+1062
+01:30:01,816 --> 01:30:05,889
+Let's hope that beam thing
+
+1063
+01:30:06,056 --> 01:30:09,890
+- I'm sure we'll be all right.
+
+1064
+01:30:10,056 --> 01:30:12,729
+Hello, moon rocket. Can you hear me?
+
+1065
+01:30:12,896 --> 01:30:15,410
+<i>(DOCTOR) Hello, Moonbase. Yes, we can.</i>
+
+1066
+01:30:15,576 --> 01:30:18,329
+<i>We are coming in on your signal now.</i>
+
+1067
+01:30:18,496 --> 01:30:20,885
+<i>Whatever you do, keep transmitting.</i>
+
+1068
+01:30:25,216 --> 01:30:29,175
+- The signal! It's stopped!
+
+1069
+01:30:29,336 --> 01:30:31,566
+No! I shall have to get us down.
+
+1070
+01:30:31,736 --> 01:30:34,728
+If we hit the mountains,
+
+1071
+01:30:44,496 --> 01:30:46,487
+- (STEADY BEEP)
+
+1072
+01:30:46,656 --> 01:30:49,966
+- Doctor, can you lock back onto it?
+
+1073
+01:30:52,016 --> 01:30:56,965
+Yes, there it is! Oh, my word!
+
+1074
+01:30:55,496 --> 01:30:57,726
+(JAMIE) That's it.
+
+1075
+01:30:57,896 --> 01:31:01,206
+- I think I heard something!
+
+1076
+01:31:08,656 --> 01:31:10,726
+There's one coming!
+
+1077
+01:31:11,776 --> 01:31:14,688
+(DOCTOR YELLS)
+
+1078
+01:31:12,456 --> 01:31:14,447
+I don't think he saw me.
+
+1079
+01:31:14,616 --> 01:31:16,607
+We won't take any chances.
+
+1080
+01:31:15,856 --> 01:31:19,690
+Yes, well, I'm... I'm sorry about the landing!
+
+1081
+01:31:19,856 --> 01:31:22,654
+Well, we're down! That's the main thing.
+
+1082
+01:31:20,216 --> 01:31:23,208
+- That should hold it.
+
+1083
+01:31:22,816 --> 01:31:25,614
+- Now what do we do?
+
+1084
+01:31:25,536 --> 01:31:26,935
+Don't move!
+
+1085
+01:31:25,776 --> 01:31:28,973
+- You can see to that, Zoe.
+
+1086
+01:31:27,096 --> 01:31:30,008
+The booby trap - does it still work?
+
+1087
+01:31:29,136 --> 01:31:33,129
+- I must go in search of Mr Phipps.
+
+1088
+01:31:30,176 --> 01:31:33,293
+- It will have to be reconnected.
+
+1089
+01:31:33,296 --> 01:31:36,208
+- Oh, I've met them before.
+
+1090
+01:31:33,456 --> 01:31:34,935
+Miss Kelly.
+
+1091
+01:31:36,376 --> 01:31:40,289
+I've got to rescue Mr Phipps,
+
+1092
+01:31:40,456 --> 01:31:42,765
+Now then, the solar power room is...
+
+1093
+01:31:42,936 --> 01:31:47,691
+There we are... That seems
+
+1094
+01:31:47,856 --> 01:31:51,485
+- I'll come with you.
+
+1095
+01:31:48,176 --> 01:31:49,734
+Hurry up!
+
+1096
+01:31:49,896 --> 01:31:51,375
+(PHIPPS) Right!
+
+1097
+01:31:51,656 --> 01:31:54,011
+I'll be quite all right.
+
+1098
+01:31:54,176 --> 01:31:57,088
+- Good luck!
+
+1099
+01:31:55,896 --> 01:31:57,568
+(KELLY) Now!
+
+1100
+01:31:57,736 --> 01:32:01,854
+(HIGH-PITCHED BUZZING)
+
+1101
+01:31:58,456 --> 01:32:00,447
+Well, how do we refuel?
+
+1102
+01:32:00,616 --> 01:32:04,894
+That's simple. It will connect
+
+1103
+01:32:05,056 --> 01:32:08,890
+Now, watch this dial,
+
+1104
+01:32:09,056 --> 01:32:11,934
+Now, do you think you can remember that?
+
+1105
+01:32:12,096 --> 01:32:13,575
+Of course I can!
+
+1106
+01:32:13,736 --> 01:32:16,330
+Good. I want to look at the rocket motors.
+
+1107
+01:32:16,496 --> 01:32:19,568
+- Why?
+
+1108
+01:32:19,736 --> 01:32:23,729
+I know it was a bit rough,
+
+1109
+01:32:23,896 --> 01:32:27,855
+Well, it's not the landing
+
+1110
+01:32:30,496 --> 01:32:31,929
+Tokyo...
+
+1111
+01:32:32,096 --> 01:32:34,371
+London...
+
+1112
+01:32:34,536 --> 01:32:36,811
+Canberra.
+
+1113
+01:33:48,016 --> 01:33:50,655
+- Now which way?
+
+1114
+01:33:50,816 --> 01:33:53,376
+- I thought you knew the way!
+
+1115
+01:33:54,216 --> 01:33:56,810
+- Let's try this way.
+
+1116
+01:33:58,496 --> 01:34:01,169
+Oh, no, we could wander round here all day!
+
+1117
+01:34:01,336 --> 01:34:03,725
+- (GURGLING ROAR)
+
+1118
+01:34:04,976 --> 01:34:06,967
+Quick, here!
+
+1119
+01:34:18,216 --> 01:34:20,207
+What was that thing?
+
+1120
+01:34:20,376 --> 01:34:23,686
+An Ice Warrior. You see, they were right!
+
+1121
+01:34:33,216 --> 01:34:35,571
+Get back! Don't move!
+
+1122
+01:34:48,416 --> 01:34:50,407
+Now what do we do?
+
+1123
+01:34:50,576 --> 01:34:55,775
+Keep looking for the Doctor and keep
+
+1124
+01:34:56,656 --> 01:34:59,329
+I wish you'd tell me what you want me to do!
+
+1125
+01:35:33,296 --> 01:35:37,448
+- Are you all right, Doctor?
+
+1126
+01:35:37,616 --> 01:35:40,369
+Yes, now Zoe's checking the rocket motors.
+
+1127
+01:35:40,536 --> 01:35:43,334
+<i>Good. I have found Mr Phipps.</i>
+
+1128
+01:35:43,496 --> 01:35:45,487
+- How is he?
+
+1129
+01:35:45,656 --> 01:35:48,568
+- And you're bringing him back?
+
+1130
+01:35:48,736 --> 01:35:51,330
+<i>but I have to put T-Mat out of action first.</i>
+
+1131
+01:35:51,496 --> 01:35:53,566
+But what about the Ice Warriors?
+
+1132
+01:35:53,736 --> 01:35:58,366
+<i>Don't worry. You and Zoe prepare</i>
+
+1133
+01:35:58,536 --> 01:36:01,608
+<i>- Goodbye.</i>
+
+1134
+01:36:03,816 --> 01:36:05,807
+The Doctor's found Phipps,
+
+1135
+01:36:04,616 --> 01:36:08,325
+They will include Ottawa, Oslo,
+
+1136
+01:36:05,976 --> 01:36:09,127
+and he wants us
+
+1137
+01:36:08,496 --> 01:36:11,886
+Stockholm, Hamburg...
+
+1138
+01:36:09,296 --> 01:36:11,446
+while they put T-Mat out of action.
+
+1139
+01:36:11,616 --> 01:36:13,095
+- But he can't!
+
+1140
+01:36:13,256 --> 01:36:16,054
+The rocket motors are completely useless.
+
+1141
+01:36:16,216 --> 01:36:19,049
+- What?!
+
+1142
+01:36:20,376 --> 01:36:23,368
+Doctor, Doctor! Can you hear me? This is Zoe.
+
+1143
+01:36:23,536 --> 01:36:25,527
+Doctor!
+
+1144
+01:36:25,696 --> 01:36:28,608
+- He must have switched off!
+
+1145
+01:36:28,776 --> 01:36:30,767
+We'll go and find him. Come on!
+
+1146
+01:36:35,216 --> 01:36:39,209
+- Where is this leading to?
+
+1147
+01:43:03,256 --> 01:43:07,249
+<i>(COMPUTER) Emergency transport</i>
+
+1148
+01:43:07,416 --> 01:43:11,614
+<i>However, situation extremely</i>
+
+1149
+01:43:11,776 --> 01:43:13,926
+<i>Primitive areas surviving best.</i>
+
+1150
+01:43:14,096 --> 01:43:18,009
+<i>All major cities now suffering</i>
+
+1151
+01:47:41,154 --> 01:47:44,988
+(DOCTOR WHO THEME)
+
+1152
+01:48:34,994 --> 01:48:39,545
+(HISSING, LABOURED BREATHING)
+
+1153
+01:48:42,834 --> 01:48:44,631
+Guard!
+
+1154
+01:48:48,954 --> 01:48:50,592
+Kill him!
+
+1155
+01:48:52,154 --> 01:48:54,952
+(TRILLING BUZZ)
+
+1156
+02:00:21,914 --> 02:00:25,224
+You allowed them to send a message
+back to Earth!
+
+1157
+02:00:25,394 --> 02:00:27,783
+They tricked me! I tried to stop them!
+
+1158
+02:00:27,954 --> 02:00:31,708
+No matter. He will be found and killed.
+
+1159
+02:00:31,874 --> 02:00:35,423
+- What about me?
+- Have you repaired the T-Mat link?
+
+1160
+02:00:35,594 --> 02:00:38,427
+- Not yet. It isn't easy!
+- But it is possible?
+
+1161
+02:00:36,234 --> 02:00:40,227
+(HISSING, LABOURED BREATHING)
+
+1162
+02:00:38,594 --> 02:00:40,903
+- Yes, only give me time!
+- Very well,
+
+1163
+02:00:41,074 --> 02:00:45,306
+but now you know what will happen if you fail!
+
+1164
+02:00:46,434 --> 02:00:49,631
+You will die!
+
+1165
+02:00:50,634 --> 02:00:55,264
+Don't you see this goes far beyond
+a petty quarrel over rockets and T-Mat?
+
+1166
+02:00:55,434 --> 02:00:58,346
+Those men are in trouble
+and we must help them!
+
+1167
+02:00:58,514 --> 02:01:01,745
+- Find some other way!
+- Your rocket is our only hope
+
+1168
+02:01:01,914 --> 02:01:03,393
+of reaching the moon.
+
+1169
+02:01:03,554 --> 02:01:05,704
+- Listen to them.
+- I'm listening!
+
+1170
+02:01:05,874 --> 02:01:08,468
+In a way, this is a triumph for your rocket!
+
+1171
+02:01:08,634 --> 02:01:11,865
+- Is it?
+- Yes! The government recognises the fact.
+
+1172
+02:01:12,034 --> 02:01:15,185
+Then the government is going to be disappointed!
+
+1173
+02:01:18,394 --> 02:01:20,385
+I don't understand you!
+
+1174
+02:01:20,554 --> 02:01:24,547
+I'll be frank. I played with the idea
+of making a space flight,
+
+1175
+02:01:24,714 --> 02:01:29,424
+I even prepared a rocket,
+but it was just a dream -
+
+1176
+02:01:29,594 --> 02:01:31,789
+an illusion for a disappointed man.
+
+1177
+02:01:31,954 --> 02:01:35,629
+- So there's nothing?
+- The rocket's partially prepared.
+
+1178
+02:01:35,794 --> 02:01:38,547
+- As for an actual lift-off...
+- We can do it!
+
+1179
+02:01:38,714 --> 02:01:42,548
+It takes more than enthusiasm
+to get a rocket off the ground!
+
+1180
+02:01:42,714 --> 02:01:47,663
+- We have funds, men, equipment...
+- What it needs, you haven't got - time!
+
+1181
+02:01:47,834 --> 02:01:52,032
+- We have the best technicians.
+- It's nowhere near ready, woman!
+
+1182
+02:01:52,194 --> 02:01:54,389
+The equipment is still unchecked!
+
+1183
+02:01:54,554 --> 02:01:58,024
+- A computer can do that.
+- It would still be dangerous!
+
+1184
+02:02:01,234 --> 02:02:03,225
+Daniel...
+
+1185
+02:02:04,394 --> 02:02:06,624
+It was you who created this rocket.
+
+1186
+02:02:07,794 --> 02:02:12,709
+It was your driving force and enthusiasm
+that got it off the drawing board.
+
+1187
+02:02:12,874 --> 02:02:16,389
+With you in control, we can't fail to succeed!
+
+1188
+02:02:16,554 --> 02:02:19,307
+That was a long time past.
+
+1189
+02:02:19,474 --> 02:02:22,864
+Now my heart couldn't take
+the strain of the G-force.
+
+1190
+02:02:23,034 --> 02:02:26,310
+But your experience and knowledge
+aren't useless.
+
+1191
+02:02:26,474 --> 02:02:28,590
+- We need your guidance.
+- No!
+
+1192
+02:02:35,474 --> 02:02:37,829
+I told you it's a dream!
+
+1193
+02:02:38,474 --> 02:02:42,387
+I can never go to the moon
+and neither can rocket ZA 685!
+
+1194
+02:05:06,994 --> 02:05:08,791
+- Doctor...
+- Yes?
+
+1195
+02:05:08,954 --> 02:05:12,549
+- Are you all planning to crew the rocket?
+- Oh, aye!
+
+1196
+02:05:12,714 --> 02:05:16,343
+- I hadn't thought about you.
+- You're not leaving me behind!
+
+1197
+02:05:16,514 --> 02:05:20,302
+- There can be no excess weight.
+- How many does this thing hold?
+
+1198
+02:05:20,474 --> 02:05:23,910
+- It was designed for three men.
+- Well, then, I'm going!
+
+1199
+02:05:24,074 --> 02:05:28,306
+The fuel stocks are barely adequate
+for a moon journey and return.
+
+1200
+02:05:28,474 --> 02:05:31,511
+- What about other sources?
+- New York and Moscow.
+
+1201
+02:05:31,674 --> 02:05:35,110
+- Transit impossible.
+- We're only getting TO the moon.
+
+1202
+02:05:35,274 --> 02:05:37,742
+We'll come back by T-Mat, won't we?
+
+1203
+02:05:37,914 --> 02:05:39,905
+It depends what's wrong with it.
+
+1204
+02:05:40,074 --> 02:05:44,545
+The moon has a fuel dump
+and a refuelling system on the landing bay.
+
+1205
+02:05:44,714 --> 02:05:47,023
+But that hasn't been used for years!
+
+1206
+02:05:47,194 --> 02:05:51,233
+Neither has the radio homing beam.
+Without it, you won't land at all!
+
+1207
+02:05:51,394 --> 02:05:54,147
+In that case, why worry about getting back (?)
+
+1208
+02:05:54,314 --> 02:05:57,704
+The equipment's fully automated
+and solar-powered.
+
+1209
+02:05:57,874 --> 02:06:00,991
+- No reason why it shouldn't work.
+- I'm sure it will.
+
+1210
+02:06:01,154 --> 02:06:05,545
+- Will you remember all I told you?
+- Even if I don't, Zoe has total recall.
+
+1211
+02:06:05,714 --> 02:06:08,911
+- Well, I've written it all down.
+- There's no need.
+
+1212
+02:06:09,074 --> 02:06:11,304
+And there's a map of Moonbase, too.
+
+1213
+02:06:13,874 --> 02:06:16,468
+You know how to operate the homing beam?
+
+1214
+02:06:16,634 --> 02:06:19,626
+Don't worry. Your rocket will be in good hands.
+
+1215
+02:06:19,794 --> 02:06:21,273
+(JAMIE) A-hem!
+
+1216
+02:06:21,434 --> 02:06:24,073
+You've only food and water for three days.
+
+1217
+02:08:41,374 --> 02:08:44,650
+- Ignition reserve power.
+- (CLICK)
+
+1218
+02:08:45,814 --> 02:08:47,691
+(KELLY) Fully charged.
+
+1219
+02:08:49,894 --> 02:08:53,170
+- Internal atmosphere settings.
+- (CLICK)
+
+1220
+02:08:54,334 --> 02:08:56,165
+(ELDRED) All normal.
+
+1221
+02:08:56,334 --> 02:09:00,122
+- (CLICKING)
+- Trajectory bearings, orbital lock.
+
+1222
+02:09:00,294 --> 02:09:02,125
+(CLICKING)
+
+1223
+02:09:02,294 --> 02:09:07,049
+Preset registering normal functions.
+Lift-off activation check complete.
+
+1224
+02:09:08,974 --> 02:09:11,124
+All readings alpha green.
+
+1225
+02:09:11,294 --> 02:09:15,128
+- Well done! Record time and not a thing wrong!
+- So far!
+
+1226
+02:09:33,834 --> 02:09:36,871
+Link programme to telemeter guidance.
+
+1227
+02:09:37,674 --> 02:09:39,153
+Three minutes.
+
+1228
+02:09:39,314 --> 02:09:42,465
+Countdown will begin at T minus 60 seconds.
+
+1229
+02:09:42,634 --> 02:09:44,625
+(RADNOR) This is it.
+
+1230
+02:09:44,794 --> 02:09:48,787
+(KELLY) All functions
+are now on computer control preset.
+
+1231
+02:09:48,954 --> 02:09:51,343
+Clear launching site.
+
+1232
+02:09:53,594 --> 02:09:55,983
+Three minutes seem a long time.
+
+1233
+02:09:56,154 --> 02:09:59,544
+Yes. You remember
+your take-off briefing, Jamie?
+
+1234
+02:09:59,714 --> 02:10:02,911
+Aye, he's told me
+about this G-force stuff. I know!
+
+1235
+02:10:03,074 --> 02:10:06,464
+You don't know about it
+until you've experienced it!
+
+1236
+02:10:06,634 --> 02:10:09,228
+<i>(KELLY) Tminus 60 seconds from now.</i>
+
+1237
+02:10:09,394 --> 02:10:12,147
+One minute to go. Hold tight, everyone!
+
+1238
+02:10:12,314 --> 02:10:14,987
+Well, I'm all right. How about you, Jamie?
+
+1239
+02:10:15,154 --> 02:10:17,145
+I keep telling you - I'm fine!
+
+1240
+02:10:17,314 --> 02:10:18,747
+<i>(KELLY) Tminus 50.</i>
+
+1241
+02:10:18,914 --> 02:10:21,428
+Ensure telemeter guidance is operative!
+
+1242
+02:10:21,594 --> 02:10:24,984
+Don't worry! Everything's
+been checked and rechecked!
+
+1243
+02:10:26,154 --> 02:10:29,783
+- T minus 40. Technicians, report.
+- (BRENT) All areas clear.
+
+1244
+02:10:29,954 --> 02:10:31,706
+Check all systems.
+
+1245
+02:10:31,874 --> 02:10:33,865
+- We have.
+- We must make sure!
+
+1246
+02:10:34,034 --> 02:10:37,504
+T minus...30.
+
+1247
+02:10:40,794 --> 02:10:42,785
+<i>(KELLY) 26...</i>
+
+1248
+02:10:44,674 --> 02:10:46,665
+<i>22...</i>
+
+1249
+02:10:49,234 --> 02:10:51,225
+<i>18...</i>
+
+1250
+02:10:53,674 --> 02:10:55,665
+<i>14...</i>
+
+1251
+02:13:34,994 --> 02:13:36,791
+We have lift-off!
+
+1252
+02:13:41,474 --> 02:13:45,990
+(RADNOR) I never thought I'd see
+that again - a rocket rising in flight!
+
+1253
+02:13:46,154 --> 02:13:48,145
+Beautiful!
+
+1254
+02:13:48,314 --> 02:13:50,384
+Let's see how they are.
+
+1255
+02:13:51,874 --> 02:13:53,466
+The link is dead!
+
+1256
+02:13:54,474 --> 02:13:58,433
+Something must have gone wrong
+on lift-off! Try the second channel.
+
+1257
+02:13:59,394 --> 02:14:02,750
+- Nothing.
+- We're out of touch completely?!
+
+1258
+02:14:09,314 --> 02:14:11,305
+What about radio link?
+
+1259
+02:14:12,394 --> 02:14:16,467
+Earth Control to rocket.
+How do you read me? Over.
+
+1260
+02:14:16,634 --> 02:14:19,228
+No, nothing but static!
+
+1261
+02:14:19,394 --> 02:14:21,544
+It's only a minor fault, surely?
+
+1262
+02:14:22,874 --> 02:14:26,184
+<i>(KELLY) Earth Control to rocket.</i>
+<i>How do you read me?</i>
+
+1263
+02:14:26,354 --> 02:14:30,347
+Don't release the strap until
+we have automatic gravity control,
+
+1264
+02:14:30,514 --> 02:14:32,584
+otherwise you'll float away.
+
+1265
+02:14:32,754 --> 02:14:35,222
+<i>- (KELLY) Earth Control to rocket!</i>
+- Wait!
+
+1266
+02:14:35,394 --> 02:14:38,227
+Switching to automatic gravity control now!
+
+1267
+02:14:38,394 --> 02:14:39,952
+Try again.
+
+1268
+02:14:40,114 --> 02:14:42,105
+Earth Control to rocket.
+
+1269
+02:14:42,274 --> 02:14:45,983
+<i>(ZOE) Rocket to Earth Control.</i>
+<i>Wait a minute, can't you?</i>
+
+1270
+02:14:46,154 --> 02:14:49,988
+Is everything all right?
+We've lost our video monitor link.
+
+1271
+02:14:50,154 --> 02:14:54,784
+<i>(DOCTOR) Yes, I think there must be</i>
+<i>a fault in one of the circuits.</i>
+
+1272
+02:14:56,154 --> 02:14:58,145
+Doctor? Doctor!
+
+1273
+02:14:58,994 --> 02:15:01,588
+- (ZOE) What is it?
+- A circuit's burnt out.
+
+1274
+02:15:01,754 --> 02:15:05,508
+- I'll switch to another one.
+- This is worse than the Tardis!
+
+1275
+02:15:05,674 --> 02:15:08,268
+Do you read me, Doctor?!
+
+1276
+02:15:08,434 --> 02:15:13,144
+It sounds as though the entire
+communications circuitry has blown out!
+
+1277
+02:15:13,314 --> 02:15:16,306
+Yes. Let's hope that's all that's happened!
+
+1278
+02:15:16,474 --> 02:15:18,385
+Keep trying, Miss Kelly.
 
