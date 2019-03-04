@@ -1,0 +1,2924 @@
+1
+00:00:05,000 --> 00:00:07,000
+<i>(Syncro: F.B Cavalcante)</i>
+
+2
+00:00:20,000 --> 00:00:22,500
+Just keep the door covered.
+把门保持关闭
+
+3
+00:00:54,499 --> 00:00:56,140
+Janice, have you got a screwdriver?
+Janice, 你有螺丝刀吗?
+
+4
+00:01:37,340 --> 00:01:39,040
+Hello, Doctor Arnold?
+你好, Arnold 博士? 
+
+5
+00:01:39,240 --> 00:01:40,879
+No, Winslet, it's Janice.
+不, Winslet, 是Janice
+
+6
+00:01:41,580 --> 00:01:43,978
+Doctor Sal's a little tied up at the moment.
+Sal 医生目前有点忙
+
+7
+00:01:44,139 --> 00:01:48,920
+- Tell him not now, Winslet.
+- Not now, Winslet.
+- 跟他说现在不行, Winslet  - 现在不行, Winslet
+
+8
+00:01:48,920 --> 00:01:49,900
+Wait a minute.
+等一下
+
+9
+00:01:50,300 --> 00:01:53,524
+Doctor Arnold specifically asked me
+to find any other containers...
+Arnold博士特意让我找找有没有一样的箱子
+
+10
+00:01:53,600 --> 00:01:58,134
+with the same serial number as the one
+that contained that sphere thing.
+要序列号跟以前那个一样, 里面有那种球体的箱子
+
+11
+00:01:58,710 --> 00:01:59,729
+Said it was very important.
+她说这事很重要
+
+12
+00:02:00,430 --> 00:02:02,528
+Now I've been doing that
+over and above everything else
+我一直把这事放在其它事情前面
+
+13
+00:02:02,529 --> 00:02:04,354
+that I'm supposed to be doing down here.
+本来我的其它事情也不少
+
+14
+00:02:05,004 --> 00:02:06,310
+I've given it my full attention.
+我全部注意力都放在这上面了
+
+15
+00:02:06,334 --> 00:02:07,809
+Taken me the best part of two weeks.
+把我这两周最好的时间段都占据了
+
+16
+00:02:07,980 --> 00:02:11,947
+And, as a matter of fact, I have found 
+a large number of crates with the same code.
+事实上, 我发现了大量同样编码代码的板条箱
+
+17
+00:02:12,620 --> 00:02:16,910
+- <i>Triple A stroke RH stroke 2961</i>.
+- Thank you, Winslet. No time.
+- AAA/RH/2961  - 谢谢你, Winslet, 没时间
+
+18
+00:02:17,210 --> 00:02:18,870
+Some of them have the letters...
+其中一些上面还有字母
+
+19
+00:02:19,698 --> 00:02:23,098
+A, U, T, O, N.
+A, U, T, O, N.​
+
+20
+00:02:23,270 --> 00:02:25,271
+Winslet, not now.
+Winslet, 现在不行
+
+21
+00:02:25,295 --> 00:02:28,995
+I have a satellite downlink,
+an expensive satellite downlink,
+我这里有个卫星下行连接, 非常昂贵的卫星下行连接
+
+22
+00:02:29,000 --> 00:02:30,041
+due any...
+随时都...
+
+23
+00:02:30,132 --> 00:02:31,232
+<i>（下行连接  已生效）</i>
+
+24
+00:02:43,120 --> 00:02:47,529
+- Oh God, I'm tired.  - We could always
+use some of next week's satellite window.
+- 天啊, 好累   - 我们可以等下周的卫星档期
+
+25
+00:02:47,629 --> 00:02:48,569
+You must be joking.
+开什么玩笑
+
+26
+00:02:48,869 --> 00:02:50,789
+I'm going to beat this thing if kills me.
+如果它杀了我, 我会砸了这玩意儿(?)
+
+27
+00:02:56,511 --> 00:02:59,861
+- I can't believe you used Meccano.
+- Nothing wrong with that.
+- 不能相信你居然用了麦卡诺  - 没什么问题啊
+<i>(麦卡诺: 商标名, 主要是钢铁组合的模型玩具)</i>
+
+28
+00:03:00,539 --> 00:03:01,729
+Ah, here we go.
+啊, 好戏来了
+
+29
+00:03:16,129 --> 00:03:18,899
+- Anything?
+- Still just background radiation.
+- 有动静吗?  - 还是只有背景辐射
+
+30
+00:03:19,349 --> 00:03:21,749
+Let's see if I can filter out some
+to the extraneous stuff.
+我们来看看能不能过滤掉一些无关的
+
+31
+00:03:27,278 --> 00:03:29,478
+Ah, nobody loves you.
+啊, 没人爱你
+
+32
+00:03:45,929 --> 00:03:49,029
+Janice, get your notepad.
+Janice, 去拿你的笔记本
+
+33
+00:03:50,279 --> 00:03:51,279
+Note the time.
+记录一下时间
+
+34
+00:04:06,809 --> 00:04:08,509
+My God, what have I done?
+上帝啊, 我做了什么? 
+
+35
+00:04:22,509 --> 00:04:25,509
+<i>(苏醒 10:05 AM)</i>
+<i>(发光 规律性脉动 10:07...)</i>
+
+36
+00:04:52,109 --> 00:04:53,809
+Perhaps we should shut it off now.
+也许我们应该现在就关掉它
+
+37
+00:04:54,359 --> 00:04:57,659
+It's picked up on something.
+Or something's picked up on it.
+它收到了什么信号, 或者是什么东西收到了它的
+
+38
+00:04:59,708 --> 00:05:02,708
+It's having...a conversation.
+它在进行...对话
+
+39
+00:05:03,132 --> 00:05:04,332
+It's transmitting.
+在传输什么
+
+40
+00:05:07,919 --> 00:05:09,248
+Terminating the satellite link.
+正在断开卫星连接
+
+41
+00:05:11,423 --> 00:05:12,423
+That's it.
+好了
+
+42
+00:05:31,300 --> 00:05:32,481
+Janice, keep away!
+Janice, 躲开!
+
+43
+00:05:50,500 --> 00:05:54,000
+<font color="yellow"><b>Auton 三部曲 第一集</b></font>
+
+44
+00:05:54,105 --> 00:05:56,605
+<i>(Sincro: F.B Cavalcante)</i>
+<i>(翻译: 巴蛮子sz)</i>
+
+45
+00:06:12,380 --> 00:06:13,411
+Doctor Arnold.
+Arnold 博士
+
+46
+00:06:14,019 --> 00:06:19,469
+- Code Seven now on site.
+- Protocol one nine zero.
+- 出现7号情况  - 按规程190处理
+
+47
+00:06:19,509 --> 00:06:21,334
+All non-essential personnel are evacuated
+所有无关紧要的人员已经撤离
+
+48
+00:06:21,359 --> 00:06:23,183
+to safe house with full decontamination.
+并进入安全屋进行了全面消毒
+
+49
+00:06:23,759 --> 00:06:27,309
+Listen, do you have any idea what...
+听着, 你是否知道·...
+
+50
+00:06:40,009 --> 00:06:43,309
+Heard those nasty rumours
+about containment teams?
+听说过关于遏制组的吓人传言不? 
+
+51
+00:06:45,200 --> 00:06:46,400
+You don't think.
+都不敢想
+
+52
+00:07:10,588 --> 00:07:11,948
+They'll be here any minute now.
+他们现在随时都会到达这里
+
+53
+00:07:22,172 --> 00:07:24,172
+- Winslet?  - What?
+- Winslet?   - 什么? 
+
+54
+00:07:25,448 --> 00:07:29,569
+- I'm sorry I said you had bad breath.
+- When?
+- 很抱歉我说你有口臭  - 什么时候? 
+
+55
+00:07:30,699 --> 00:07:33,008
+When did you have bad breath,
+or when did I say it?
+什么时候你有口臭, 还是什么时候我说了这个? 
+
+56
+00:07:33,508 --> 00:07:36,689
+- Doesn't matter.  - Don't move!
+- 没关系了  - 不许动！
+
+57
+00:07:59,538 --> 00:08:02,439
+The laboratory's been secured, sir.
+If you'd like to come this way.
+这件实验室已经被保护起来了, 头儿, 你们跟我走这边吧
+
+58
+00:08:19,538 --> 00:08:20,778
+This is where it was.
+这是它之前的位置
+
+59
+00:08:34,400 --> 00:08:38,430
+Dead? Dead.
+死了吗? 死了
+
+60
+00:08:39,854 --> 00:08:41,854
+Make a preliminary examination.
+做一个初步检查
+
+61
+00:08:42,308 --> 00:08:46,408
+The usual tests. Open your box of tricks.
+常规检测, 打开你的宝贝箱子
+
+62
+00:08:51,318 --> 00:08:52,438
+Did you know her?
+你认识她吗? 
+
+63
+00:08:57,719 --> 00:08:59,678
+Do you think we could put our hands down now?
+你觉得我们可以把手放下来了不? 
+
+64
+00:09:13,300 --> 00:09:16,760
+Doctor Sally Arnold,
+Facility director and head of research?
+Sally Arnold 博士, 基地主管兼研究负责人是吗? 
+
+65
+00:09:17,080 --> 00:09:18,340
+Pleased to meet you. May I ask...
+很高兴见到你. 我能不能问一下...
+
+66
+00:09:18,400 --> 00:09:22,680
+- And who is that?
+- Winslet. Graham Winslet, archivist.
+- 那位是谁?   - Winslet, Graam Winslet, 保管员
+
+67
+00:09:24,780 --> 00:09:27,601
+Non-essential. What are you doing here,
+Mister Winslet?
+小角色. 你在这里做什么, Winslet 先生? 
+
+68
+00:09:27,701 --> 00:09:32,201
+- You should have been evacuated.
+- I'm afraid I wasn't ready in time.
+- 你应该疏散走了才对  - 当时我没及时准备好
+
+69
+00:09:32,701 --> 00:09:35,310
+- Oh. - Sorry.
+- 哦  - 抱歉
+
+70
+00:09:35,710 --> 00:09:36,910
+Sorry.
+抱歉? 
+
+71
+00:09:41,400 --> 00:09:43,000
+All right, lads.
+好了, 小伙子们
+
+72
+00:09:49,220 --> 00:09:52,440
+You'd better let them
+have a general sniff around, Ramsay.
+你最好让他们四处探查一下, Ramsay
+
+73
+00:09:52,530 --> 00:09:56,371
+- Is there a guard on the main entrance?
+- Already taken care of.
+- 主入口有人守卫吗?   - 已经有人盯着
+
+74
+00:09:56,421 --> 00:09:58,480
+Diligent as always, Ramsay.
+一如既往地勤奋啊, Ramsay
+
+75
+00:10:05,740 --> 00:10:08,000
+I hope you didn't burn your clothes.
+我期望你们没有烧掉你们的衣服
+
+76
+00:10:08,024 --> 00:10:10,024
+It would be such a waste.
+那样很浪费的
+
+77
+00:10:34,880 --> 00:10:36,710
+Is this yours, Doctor.
+这是你的吗, 博士? 
+
+78
+00:10:36,810 --> 00:10:39,330
+Yes. Useful when I'm working late.
+是的, 我加夜班的时候用得着
+
+79
+00:10:39,630 --> 00:10:40,730
+Which is most nights.
+大部分晚上她都加夜班
+
+80
+00:10:50,124 --> 00:10:52,124
+Particle traces on here?
+这里有粒子痕迹吗? 
+
+81
+00:10:54,700 --> 00:10:55,782
+What about the woman?
+这个女人呢? 
+
+82
+00:10:57,307 --> 00:10:59,244
+Massive localised energy release.
+有大规模的局部能量释放
+
+83
+00:10:59,520 --> 00:11:01,391
+Knocked out her entire nervous system.
+击倒了她整个神经系统
+
+84
+00:11:02,200 --> 00:11:06,570
+- Did the thing just explode?
+- No. If it just exploded,
+- 那个东西只是爆掉了而已?  - 不, 如果只是爆掉...
+
+85
+00:11:06,590 --> 00:11:09,881
+- there'd be more debris left.
+- What are you saying?
+- 应该有更多碎片留下来  - 你在说什么? 
+
+86
+00:11:11,561 --> 00:11:14,341
+That it did something a bit
+cleverer than just exploding.
+那它不仅仅是爆掉, 而是很聪明地干了点什么
+
+87
+00:11:23,401 --> 00:11:24,651
+My name is Lockwood.
+我的名字是 Lockwood
+
+88
+00:11:24,775 --> 00:11:26,875
+I am the head of this containment team.
+我是遏制小组的头儿
+
+89
+00:11:26,899 --> 00:11:28,899
+This is a code seven situation,
+现在出现的是7号情况
+
+90
+00:11:29,021 --> 00:11:31,930
+so your death certificates have
+already been prepared by UNIT.
+所以你的死亡证明已经被 UNIT 准备好了
+
+91
+00:11:32,330 --> 00:11:34,701
+With luck, we won't find it
+necessary to issue them.
+幸运的话, 我们可能发现没必要发出来
+
+92
+00:11:36,145 --> 00:11:38,645
+This is Doctor Daniel Matthews, my assistant.
+这位是Daniel Matthews 博士, 我的助手
+
+93
+00:11:39,261 --> 00:11:42,531
+Let me remind you that under the terms
+of your contract with UNIT,
+让我提醒你们一下, 根据你们跟 UNIT 签订的协议
+
+94
+00:11:42,791 --> 00:11:46,411
+you're obliged to give me the fullest
+cooperation during this investigation.
+在这次调查期间, 你们必须给与我全面合作
+
+95
+00:11:47,911 --> 00:11:51,710
+Mister Winslet, perhaps you'd like
+to go and put your clothes back on...
+Winslet 先生, 也许你可以去把你自己的衣服穿上...
+
+96
+00:11:52,460 --> 00:11:53,835
+...and wait in your office.
+...在你的办公室等着
+
+97
+00:11:55,050 --> 00:11:56,231
+Right.
+好
+
+98
+00:12:01,011 --> 00:12:03,161
+Did you think my men were going to shoot you?
+你们是不是认为我的人刚才要射杀你们? 
+
+99
+00:12:04,311 --> 00:12:06,641
+At one point, yes, it did cross my mind.
+有那么一会儿, 是的, 这个念头真的从我脑子里闪现过
+
+100
+00:12:07,261 --> 00:12:09,680
+You thought you'd glimpsed the forbidden fruit,
+你觉得你瞥见了禁果
+
+101
+00:12:09,705 --> 00:12:12,174
+that we were here to stop the truth getting out.
+或者觉得我们是来防止真相泄漏出去
+
+102
+00:12:12,210 --> 00:12:13,950
+Something like that.
+差不多吧
+
+103
+00:12:16,130 --> 00:12:18,860
+Perhaps we are here to stop something getting out.
+也许我们来这里是为了阻止某种东西跑出去的
+
+104
+00:12:22,004 --> 00:12:24,004
+Was she a friend?
+她是你的朋友? 
+
+105
+00:12:30,300 --> 00:12:32,830
+I knew her too. It was years ago.
+我也认识她, 好多年前了
+
+106
+00:12:35,300 --> 00:12:36,300
+She's in shock.
+她吓坏了
+
+107
+00:12:36,700 --> 00:12:38,400
+She's no use to me at the moment.
+这会儿她对我没用了
+
+108
+00:12:38,724 --> 00:12:40,724
+Take care of her, Doctor Matthews.
+照看一下她, Matthews 博士
+
+109
+00:12:58,120 --> 00:13:00,131
+I feel stupid.
+我觉得好蠢
+
+110
+00:13:02,005 --> 00:13:03,280
+It's just shock.
+只是吓着了
+
+111
+00:13:04,031 --> 00:13:05,031
+Yes.
+是的
+
+112
+00:13:11,268 --> 00:13:11,950
+Carry on.
+继续吧
+
+113
+00:13:19,481 --> 00:13:23,048
+You've worked here for six years,
+according to your records.
+你在这里工作了六年, 根据你的档案
+
+114
+00:13:23,714 --> 00:13:27,190
+Very fastidious, not a great socialiser.
+非常苛刻, 不善交际
+
+115
+00:13:28,333 --> 00:13:29,333
+Seven years.
+七年
+
+116
+00:13:29,706 --> 00:13:31,182
+Seven. Yes.
+七年, 是的
+
+117
+00:13:32,206 --> 00:13:34,400
+How come you didn't make it to the safe house?
+怎么可能你没来得及去安全屋呢? 
+
+118
+00:13:35,001 --> 00:13:38,575
+- I told you, I wasn't ready in...
+- In time. Yes, I know.
+- 我告诉过你, 我没有来..  - 没来得及, 是的, 我知道
+
+119
+00:13:39,323 --> 00:13:41,984
+- But why weren't you ready in time?
+- I don't know.
+- 但你为什么没有来得及?   - 我不知道
+
+120
+00:13:43,151 --> 00:13:45,663
+- Not like you.  - How would you know?
+- 这不像你  - 你怎么知道? 
+
+121
+00:13:45,994 --> 00:13:48,334
+Not like your personality profile.
+跟你的个性档案描述不符
+
+122
+00:13:49,366 --> 00:13:51,466
+On the computer at UNIT HQ.
+UNIT 总部的电脑上都有
+
+123
+00:13:52,330 --> 00:13:53,420
+Geneva.
+日内瓦
+
+124
+00:13:54,658 --> 00:13:55,570
+Been there?
+去过吗? 
+
+125
+00:13:57,320 --> 00:13:58,646
+Geneva?
+日内瓦? 
+
+126
+00:14:00,058 --> 00:14:00,638
+No.
+没有
+
+127
+00:14:35,551 --> 00:14:37,471
+I can't believe you used Meccano.
+不敢相信你还用了麦卡诺
+
+128
+00:14:39,871 --> 00:14:41,443
+Perhaps we should shut it off now.
+也许我们现在应该关掉它
+
+129
+00:14:50,660 --> 00:14:52,991
+- All right?  - Fine. Thanks.
+- 没事吧?    - 还好, 谢谢
+
+130
+00:14:57,891 --> 00:14:59,760
+You should finish your tea.
+你应该把茶喝完
+
+131
+00:15:00,601 --> 00:15:03,441
+It's hot and sweet. It's good for shock.
+很热很甜, 适合稳定情绪
+
+132
+00:15:05,860 --> 00:15:07,310
+How did you know Janice?
+你怎么认识 Janice 的?
+
+133
+00:15:08,010 --> 00:15:09,460
+Oh, at university.
+噢, 在大学
+
+134
+00:15:10,356 --> 00:15:11,360
+Did you like her?
+你喜欢她吗? 
+
+135
+00:15:13,796 --> 00:15:15,184
+It was a long time ago.
+那是好久以前了
+
+136
+00:15:16,660 --> 00:15:19,180
+Is your Mister Lockwood always so cold?
+你们的Lockwood 先生总是这么冷冰冰的吗? 
+
+137
+00:15:20,545 --> 00:15:21,545
+Lockwood?
+Lockwood?​
+
+138
+00:15:21,799 --> 00:15:23,108
+He's a breed apart.
+他另外一种人
+
+139
+00:15:24,124 --> 00:15:26,155
+But I've worked with him long enough
+to know he's the best there is.
+但我跟他共事很久了, 知道他是最强的
+
+140
+00:15:26,569 --> 00:15:27,390
+I see.
+我明白了
+
+141
+00:15:32,634 --> 00:15:34,151
+Do you have any idea what's happened here?
+你对这里发生了什么有了解吗? 
+
+142
+00:15:35,446 --> 00:15:37,874
+- Yes, we have plenty of ideas.
+- Like what?
+- 是的, 我们了解很多情况  - 比如说? 
+
+143
+00:15:38,818 --> 00:15:40,691
+Oh, no need to know, is it?
+噢, 没必要知道, 是吧? 
+
+144
+00:15:41,651 --> 00:15:44,251
+Why is Lockwood so convinced
+there's no contamination risk?
+为什么 Lockwood 如此确信没有污染风险? 
+
+145
+00:15:44,791 --> 00:15:47,801
+I mean, that thing exploded.
+I don't know what was inside it.
+我是说, 那个东西爆炸了, 我不知道里面有什么
+
+146
+00:15:47,802 --> 00:15:50,532
+If you didn't know what was inside it, 
+why did you subject it to transmissions
+如果你不知道里面有什么, 为什么要让它传输信息
+
+147
+00:15:50,557 --> 00:15:53,302
+from UNIT's most powerful
+deep-space scanning satellites?
+连的还都是 UNIT 最强大的深空扫描卫星
+
+148
+00:15:53,327 --> 00:15:54,199
+Because...
+因为...
+
+149
+00:15:55,073 --> 00:15:58,416
+Because it was the only course
+of relevant experimentation left.
+因为这是唯一剩下的相关实验过程
+
+150
+00:15:59,317 --> 00:16:02,685
+I'd drawn a blank with the damn thing,
+thought it was dead.
+那个破玩意儿我一直什么结果也没得到, 以为它是个死的
+
+151
+00:16:03,737 --> 00:16:06,296
+I tried every test I could think of.
+我试过了我能想到的每项测试
+
+152
+00:16:07,714 --> 00:16:10,443
+That is my job, Doctor Matthews.
+Assess and catalogue.
+这是我的工作, Matthews 博士, 评估、分类
+
+153
+00:16:11,538 --> 00:16:13,538
+I knew it was of extra-terrestrial origin.
+我知道它是来自外星的
+
+154
+00:16:13,879 --> 00:16:16,077
+Wasn't just a meteor.
+It appeared to be manufactured,
+但又不是颗流星. 看起来是制造出来的
+
+155
+00:16:16,102 --> 00:16:18,169
+so I speculated...
+于是我推断...
+
+156
+00:16:18,194 --> 00:16:21,056
+- Oh, you speculated.  - Yes.
+- 噢, 你推断...  - 是的
+
+157
+00:16:21,715 --> 00:16:24,892
+We don't exactly have information
+here at our fingertips, I'm afraid.
+恐怕我们手头并没有信息
+
+158
+00:16:26,020 --> 00:16:29,597
+This place was a sort of forgotten
+Aladdin's Cave until about five years ago.
+这个地方被遗忘了, 跟阿拉丁的山洞似的, 直到五年前
+
+159
+00:16:30,565 --> 00:16:33,665
+It was a mess. Mountains of old paperwork.
+一团乱麻, 数不清的文书工作
+
+160
+00:16:33,690 --> 00:16:36,178
+Winslet hasn't even got a
+tenth of the way through it.
+这一路上, Winslet 做的连一成都不到
+
+161
+00:16:36,202 --> 00:16:38,202
+We're working blind-folded most of.
+我们一直都在蒙着眼瞎摸
+
+162
+00:16:41,665 --> 00:16:43,665
+Are you saying you know more about it?
+你是说你知道它更多情况? 
+
+163
+00:16:44,941 --> 00:16:46,994
+Where do you get your information?
+你是从哪儿获取信息的? 
+
+164
+00:16:47,019 --> 00:16:49,776
+I think you're ready to speak to Lockwood.
+我觉得你已经准备好跟 Lookwood 谈话了
+
+165
+00:16:53,668 --> 00:16:54,972
+Are we in danger?
+我们有危险吗? 
+
+166
+00:16:57,011 --> 00:16:58,011
+It's possible.
+有可能
+
+167
+00:17:02,111 --> 00:17:04,284
+So where were you when it all happened?
+那事情发生的时候你们在哪儿? 
+
+168
+00:17:04,309 --> 00:17:06,403
+Storage bay one, you said just now.
+一号储物岛, 你刚才说的
+
+169
+00:17:06,485 --> 00:17:08,538
+- Yes.  - And you heard the alarm,
+- 是的  - 然后你听到了警报
+
+170
+00:17:08,563 --> 00:17:12,078
+and you thought I think I'll just stay
+here and pick my nose, is that it?
+然后你想, 我还是待在这里挖我的鼻子, 是这样吗? 
+
+171
+00:17:12,196 --> 00:17:14,237
+- No, no.  - Well then, what?
+- 不, 不是  - 那, 是怎样的
+
+172
+00:17:14,985 --> 00:17:17,915
+Doctor Arnold was conducting
+her experiment in her laboratory
+Arnold 博士在她的实验室进行她的实验
+
+173
+00:17:18,025 --> 00:17:24,978
+on this alien artefact, serial code
+triple A stroke RH stroke 2961,
+实验对象是这个外星物品, 编号 AAA/RH/2961
+
+174
+00:17:25,002 --> 00:17:27,902
+and she asked me to find
+any other containers with that code.
+而且她让我找同样编号的其它箱子
+
+175
+00:17:28,303 --> 00:17:29,683
+Because she thought there might be more of them?
+因为她觉得还有更多同样的? 
+
+176
+00:17:29,808 --> 00:17:33,333
+Or anything that would help her identify 
+what she was dealing with.
+或者任何其它东西, 只要能有助于她识别出她正在对付的是什么
+
+177
+00:17:33,558 --> 00:17:36,423
+She wasn't dealing with anything, Mister Winslet
+她没在对付任何东西, Winslet 先生！
+
+178
+00:17:36,548 --> 00:17:41,125
+She was tampering with the unknown, 
+which is always pretty dangerous.
+她在玩耍她不懂的东西, 这总是相当危险的
+
+179
+00:17:41,616 --> 00:17:44,198
+Did you find any other crates with 
+the same code on them, by the way?
+对了, 你找到了其它有同样编号的板条箱了吗? 
+
+180
+00:17:44,327 --> 00:17:47,333
+- No.  - Greyhound One to Greyhound Leader.
+- 没有  - 灰狗一号呼叫灰狗队长
+
+181
+00:17:50,231 --> 00:17:53,682
+- Greyhound Leader.
+- We have a problem.
+- 我是灰狗队长  - 我们有问题了
+
+182
+00:18:02,063 --> 00:18:05,038
+- Same as the woman?
+- I should say so.
+- 跟那个女人一样的?   - 可以这么说
+
+183
+00:18:05,168 --> 00:18:06,155
+Mister Lockwood, what is going on?
+Lockwood 先生, 什么情况
+
+184
+00:18:06,264 --> 00:18:10,121
+- Just Lockwood. No Mister.  - What is going on?
+- 就叫 Lockwood, 不用叫先生  - 什么情况? 
+
+185
+00:18:11,374 --> 00:18:13,374
+Exits are already secured.
+出口已经把守住了
+
+186
+00:18:13,399 --> 00:18:16,152
+- What are we looking for?
+- I don't know, exactly.
+- 我们在找什么?   - 我不知道, 确切地说
+
+187
+00:18:16,176 --> 00:18:18,707
+Whatever it is, it can't be very big.
+不管是什么, 应该不会很大
+
+188
+00:18:18,796 --> 00:18:21,644
+- Well, he didn't see it coming.
+- Where is it going?
+- 嗯, 他没看到它过来  - 那它又去哪儿了? 
+
+189
+00:18:22,591 --> 00:18:24,884
+Well, presuming it started here
+好, 假设它从这里开始
+
+190
+00:18:24,908 --> 00:18:26,011
+Oh, let's presume.
+噢, 我们假设
+
+191
+00:18:26,036 --> 00:18:29,265
+- Too many variables give me a headache.
+- It's going through the storage bays,
+- 变数太多让我头疼  - 它穿过了这些储物岛
+
+192
+00:18:29,752 --> 00:18:32,362
+whatever it is you're talking about. Look.
+不管你们在说的是什么. 你看
+
+193
+00:18:33,616 --> 00:18:35,616
+Well, what are you talking about?
+好了, 你们在说的是什么? 
+
+194
+00:18:36,456 --> 00:18:40,061
+Carry on, Ramsay, and see that 
+Doctor Arnold is kept out of harm's way.
+继续吧 Ramsay, 同时确保Arnold 博士处于危险地带之外
+
+195
+00:18:53,631 --> 00:18:54,734
+What have we got?
+我们有什么? 
+
+196
+00:18:54,759 --> 00:18:57,154
+We haven't got any of the right
+equipment, for a start.
+比如说, 我们一件合适的装备都没有
+
+197
+00:18:57,179 --> 00:18:59,525
+This was a code seven, contamination risk.
+这可是7号情况, 有污染风险
+
+198
+00:18:59,550 --> 00:19:01,623
+Yes. Bit of a balls-up, isn't it.
+是啊, 事有点大, 对吧
+
+199
+00:19:02,471 --> 00:19:06,220
+I should have twigged there was no danger
+of contamination the moment I saw the code.
+在我看见代号那会儿, 我应该就直接说没有危险
+
+200
+00:19:06,307 --> 00:19:09,353
+- Triple A   - RH 2961.
+- 3个A  - RH 2961
+
+201
+00:19:09,377 --> 00:19:11,377
+Seems no one here knew what it meant.
+看来这里没人知道这是什么意思
+
+202
+00:19:12,003 --> 00:19:15,067
+But I didn't expect it to
+turn into a bug hunt either.
+但我估计它也不是抓抓虫子这种事
+
+203
+00:19:15,092 --> 00:19:17,686
+- This is something new.
+- Should we call for back-up?
+- 这是个新情况  - 我们应该呼叫支援吗? 
+
+204
+00:19:17,711 --> 00:19:19,580
+To pick over our remains.
+来抬我们的遗体吗
+
+205
+00:19:22,066 --> 00:19:23,457
+Great sense of humour, Lockwood.
+幽默感不错, Lockwood
+
+206
+00:19:24,015 --> 00:19:25,015
+Great.
+好
+
+207
+00:19:28,698 --> 00:19:29,920
+Sorry.
+抱歉
+
+208
+00:19:35,771 --> 00:19:38,293
+- What did he say?  - Who?
+- 他说什么?   - 谁? 
+
+209
+00:19:38,724 --> 00:19:41,606
+- This Lockwood.  - Not much.
+- 这个 Lockwood  - 没什么
+
+210
+00:19:43,701 --> 00:19:46,785
+What do you think of him?
+I think he's a bit high-handed.
+你觉得他怎么样? 我觉得他有点专横
+
+211
+00:19:56,271 --> 00:19:57,698
+Sorry about Janice.
+Janice 的事很抱歉
+
+212
+00:20:07,524 --> 00:20:09,577
+We've got to find a way to track the damn thing.
+我们得想个办法追踪这该死的东西
+
+213
+00:20:09,602 --> 00:20:12,292
+There's nothing feasible with the
+level of equipment we've got here.
+就我们手头这些设备的级别, 没有什么可行性
+
+214
+00:20:12,317 --> 00:20:14,792
+What is it they say about a bad workman?
+对于一个拙劣的工人他们怎么说的? 
+<i>(英语俗语 A bad workman quarrels with his tools
+技术拙劣的工人抱怨自己的工具)</i>
+
+215
+00:20:14,817 --> 00:20:16,872
+Oh, you're calling me a bad workman.
+噢, 你把我称作拙劣的工人
+
+216
+00:20:19,424 --> 00:20:20,880
+What do you want to do, Dan?
+你想怎么做, Dan? 
+
+217
+00:20:21,473 --> 00:20:26,077
+Join the search. See what else has got
+hidden away here, what it might be after.
+加入搜索工作. 看看还有什么藏在这里, 它的企图又是什么
+
+218
+00:20:26,212 --> 00:20:31,200
+Our esteemed Doctor Sally Arnold apparently
+instructed Mister Personality Winslet...
+我们可敬的 Sally Arnold 博士显然已经让 Winslet 先生...
+
+219
+00:20:31,325 --> 00:20:35,675
+...to conduct a thorough search for 
+anything else with the same code.
+...全面搜索了有同样编码的其它箱子
+
+220
+00:20:36,822 --> 00:20:39,894
+But would he draw back?
+I still think it's worth double-checking.
+但他会怠工吗? 我还是觉得值得核查一遍
+
+221
+00:20:41,104 --> 00:20:44,259
+I never trusted the brain cell count 
+in research establishments.
+对研究机构的事我从不相信人脑细胞
+
+222
+00:20:44,705 --> 00:20:48,386
+All right, Have Ramsay bring
+Sally Arnold to her laboratory.
+好吧, 让 Ramsay 把 Sally Arnold 带到她的实验室
+
+223
+00:20:48,410 --> 00:20:51,085
+I shall be waiting to give her my charm offensive.
+我将等着给她展开我的魅力攻势
+
+224
+00:20:56,569 --> 00:20:58,664
+Doctor Arnold? Come with me, please.
+Arnold 博士吗? 请跟我来
+
+225
+00:21:00,648 --> 00:21:06,106
+- You just sit tight, Mister Winters.
+- Winslet. Graham Winslet. Archivist.
+- 你坐着就行, Winters 先生  - 是 Winslet. Graham Winslet. 保管员
+
+226
+00:21:06,602 --> 00:21:07,971
+Whatever.
+随便吧
+
+227
+00:21:11,745 --> 00:21:14,162
+So he's finally deigned to speak with me, has he?
+所以他终于屈尊要和我谈话了, 是吗? 
+
+228
+00:21:14,255 --> 00:21:16,424
+- Who would that be, Doctor?
+- Your boss, Lockwood.
+- 你说谁, 博士?   - 你的老大, Lockwood
+
+229
+00:21:16,488 --> 00:21:18,226
+I believe he does want a word with you, yes, Doctor.
+我相信他确实想和你聊一聊, 是的, 博士
+
+230
+00:21:18,251 --> 00:21:20,607
+I suppose all this is pretty routine
+for you, Sergeant.
+我想这一切对你来说都是很常规的, 中士
+
+231
+00:21:20,632 --> 00:21:23,543
+- That's right, Doctor.
+- Where exactly are you taking me?
+- 没错, 博士  - 你到底要带我去哪里? 
+
+232
+00:21:23,568 --> 00:21:26,123
+- Your laboratory, Doctor.
+- This is the long way.
+- 你的实验室, 博士  - 这路好远
+
+233
+00:21:26,148 --> 00:21:27,630
+Come on, I'll show you a short cut.
+来吧, 我给你展示一条捷径
+
+234
+00:21:48,276 --> 00:21:50,029
+Do sit down.
+请坐下
+
+235
+00:21:58,108 --> 00:22:00,108
+What did you make of these symbols?
+你用这些符号在做什么
+
+236
+00:22:00,133 --> 00:22:02,370
+What did I make of them?
+I've never seen anything like them.
+我用它们做什么? 我都从来没见过这样的
+
+237
+00:22:02,395 --> 00:22:03,958
+All right, all right.
+好吧, 好吧
+
+238
+00:22:03,982 --> 00:22:07,490
+Did you think, oops, dear me, what have I done?
+你有没有想过：糟糕, 我啊, 我做了什么啊? 
+
+239
+00:22:08,441 --> 00:22:11,449
+Because I'd like to put to you that is 
+what you should have been thinking,
+因为我要把你带入你应该要考虑的问题
+
+240
+00:22:11,474 --> 00:22:13,990
+given that something is now
+crawling around the building
+因为某个东西已经在这个建筑里四处爬了
+
+241
+00:22:14,015 --> 00:22:16,353
+apparently with the intention
+of wiping out my team.
+它显然有企图要消灭我的小组
+
+242
+00:22:16,378 --> 00:22:18,671
+- Something? What is this something?  - That.
+- 某个东西? 某个东西是什么?   - 那个
+
+243
+00:22:27,451 --> 00:22:30,695
+You mean it didn't just vaporise when it exploded.
+你是说它爆炸的时候不只是蒸发了
+
+244
+00:22:31,103 --> 00:22:33,693
+Doctor Sal is thinking.
+Sal 博士开始用脑子了
+
+245
+00:22:34,074 --> 00:22:37,004
+Doctor Sal, that's what all
+your chums call you, isn't it?
+Sal 博士, 你那些密友都这么称呼你, 是吧? 
+
+246
+00:22:37,187 --> 00:22:40,417
+The insightful UNIT research scientist?
+富有洞察力的 UNIT 科学家? 
+
+247
+00:22:40,441 --> 00:22:42,441
+Gifted, highly qualified?
+有天赋, 高素质? 
+
+248
+00:22:42,787 --> 00:22:46,091
+A working class comprehensive
+school girl who ended up...
+出身于工人阶级综合学校, 却最终...
+
+249
+00:22:46,116 --> 00:22:49,576
+with degrees in medicine,
+physics, chemistry and biology.
+获得了医学、物理、化学和生物学学位
+
+250
+00:22:49,601 --> 00:22:50,942
+I see you've read my file.
+看来你读了我的档案
+
+251
+00:22:50,967 --> 00:22:53,283
+You're a bit of a maverick
+in the scientific community.
+你在科学界算是个独行侠
+
+252
+00:22:53,308 --> 00:22:56,871
+Not afraid to put forward new and untested ideas.
+从不畏惧实施新颖而未经检验的想法
+
+253
+00:22:56,896 --> 00:23:00,323
+I suppose that accounts for
+the stupidity of your actions here.
+我觉得那就是你在这里做出愚蠢行为的原因
+
+254
+00:23:00,348 --> 00:23:04,450
+- It's easy to be wise with hindsight.
+- Wisdom does not come into it.
+- 事后扮明智总是很容易  - 这里没有明智什么事
+
+255
+00:23:04,910 --> 00:23:07,435
+Some excrement has hit the fan,
+大粪扔到了风扇上
+
+256
+00:23:07,460 --> 00:23:11,617
+and you, Doctor Sal,
+were the idiot who turned the fan on.
+而你, Sal 博士, 就是那个打开风扇的白痴
+
+257
+00:23:11,642 --> 00:23:13,642
+I was doing my job.
+我只是在做我的工作
+
+258
+00:23:13,666 --> 00:23:15,999
+It's a job which I happen to consider important.
+只是这份工作我恰好觉得挺重要
+
+259
+00:23:16,525 --> 00:23:18,776
+I can't help it if UNIT doesn't fund us properly.
+UNIT 不能给我们提供足够资金的话, 我就帮不上忙了
+
+260
+00:23:19,116 --> 00:23:21,991
+I work with the best information
+that I have available to me.
+我充分利用我所能得到的信息
+
+261
+00:23:22,668 --> 00:23:27,507
+In my opinion, underfunding of this
+facility makes it a dangerous liability.
+以我所见, 资金不足加大了这个设施的危险倾向
+
+262
+00:23:28,054 --> 00:23:30,153
+However, these are not matters
+然而, 这些并不重要
+
+263
+00:23:30,278 --> 00:23:33,880
+for mere slaves of the UNIT bureaucracy like ourselves.
+我们只是 UNIT 官僚体系的奴隶
+
+264
+00:23:34,372 --> 00:23:36,713
+I'm here to pick up the pieces.
+我来拼一下情况
+
+265
+00:23:39,414 --> 00:23:45,755
+I'm your alien artefact
+serial code triple A RH 2961.
+我是你的外星物品, 编号 AAA/RH/2961
+
+266
+00:23:46,135 --> 00:23:51,583
+You connect me up to the widest range of 
+deep-space signals available to mankind
+你把我连上了人类所能获得的范围最广的深空信号
+
+267
+00:23:51,750 --> 00:23:52,478
+Why?
+为什么? 
+
+268
+00:23:52,503 --> 00:23:55,216
+Because it hadn't responded
+to any other kind of test.
+因为它对其它种类的测试都没有响应
+
+269
+00:23:55,241 --> 00:23:57,795
+God save us from mavericks.
+上帝把我们从独行侠手中救出来吧
+
+270
+00:23:58,584 --> 00:24:03,668
+You can test a gun all you like, 
+but it doesn't work until you pull the trigger.
+一把枪你想怎么测试都行, 但在你扣动扳机之前, 它是不会工作的
+
+271
+00:24:03,693 --> 00:24:06,128
+You're saying I pulled the trigger?
+你是说是我扣动了扳机? 
+
+272
+00:24:07,421 --> 00:24:11,506
+It recognised one of the signals
+from out there in deep space.
+它识别出了一个来自深空的讯号
+
+273
+00:24:11,531 --> 00:24:14,517
+It came alive and received instructions.
+它苏醒过来, 接收了指令
+
+274
+00:24:15,643 --> 00:24:19,239
+Now, what kind of an instruction
+is please vaporise?
+现在看看, “请你爆炸”是一个什么样的指令? 
+
+275
+00:24:19,739 --> 00:24:21,620
+Not a very friendly one.
+肯定是个不友好的指令
+
+276
+00:24:21,804 --> 00:24:25,311
+And this artefact was undoubtedly
+talking to a friend,
+但这个物件毫无疑问跟它一个朋友交流了
+
+277
+00:24:25,335 --> 00:24:29,596
+so perhaps it was instructed to do something else.
+所以它有可能被指派去干点什么事情
+
+278
+00:24:43,681 --> 00:24:46,721
+So you're saying it atomised
+in order to reform itself...
+所以你是说它蒸发掉只是为了重组...
+
+279
+00:24:46,846 --> 00:24:48,753
+...into something that could move?
+变成一个能移动的东西? 
+
+280
+00:24:48,946 --> 00:24:52,245
+And kill. You saw nothing?
+还能杀人. 你什么也没看见吗? 
+
+281
+00:24:52,784 --> 00:24:54,308
+I saw a flash.
+我看见一道闪光
+
+282
+00:24:54,332 --> 00:24:57,602
+I heard Janice and I blacked out.
+我听到 Janice 叫喊, 然后我晕过去了
+
+283
+00:24:58,388 --> 00:25:00,697
+It's the mobility that's important.
+重要的是它能移动了
+
+284
+00:25:01,218 --> 00:25:03,038
+It's going somewhere.
+它要去别的地方
+
+285
+00:25:03,697 --> 00:25:05,856
+It wants something.
+它想要某种东西
+
+286
+00:25:43,389 --> 00:25:45,095
+That'll be us in the shit, then.
+没好运的话, 它要的是我们
+
+287
+00:25:50,573 --> 00:25:53,748
+Are there any other artefacts in
+the warehouse like this one?
+仓库里还有其它类似的物件吗? 
+
+288
+00:25:53,773 --> 00:25:57,809
+I don't know. Maybe. I asked Winslet
+to look for anything with the same coding.
+我不知道, 也许有. 我跟 Winslet 说过让他找有相同编号的
+
+289
+00:25:57,834 --> 00:26:01,063
+- Yes, I know. - You obviously know what it was.
+- 是的, 我知道  - 你显然知道它是什么
+
+290
+00:26:01,462 --> 00:26:04,555
+- Is. Yes, I'm afraid I do.  - Well?
+- 是的, 恐怕我知道  - 那是? 
+
+291
+00:26:06,190 --> 00:26:07,928
+It's an energy unit.
+它是个能量体
+
+292
+00:26:08,547 --> 00:26:10,547
+It's part of the Nestene Consciousness.
+它是 Nestene 意识体的一部分
+
+293
+00:26:11,126 --> 00:26:13,126
+It has an affinity for plastic.
+它对塑料很有亲和力
+
+294
+00:26:13,151 --> 00:26:17,447
+It's hostile, and God help us
+if you have any more artefacts...
+它是有敌意的, 如果你还有这样的物件, 老天保佑吧
+
+295
+00:26:17,472 --> 00:26:19,925
+coded triple A RH 2961.
+这种编号为 AAA/RH/2961的
+
+296
+00:26:37,891 --> 00:26:41,486
+- Greyhound Five to Greyhound One.  - Receiving.
+- 灰狗五号呼叫灰狗一号  - 听着呢
+
+297
+00:26:41,511 --> 00:26:44,343
+There's no radio contact with Greyhound Four.
+无线电联系不上灰狗四号了
+
+298
+00:26:44,589 --> 00:26:45,931
+Winslet's office.
+Winslet 的办公室
+
+299
+00:26:46,550 --> 00:26:48,312
+Check it out and report back.
+去检查一下, 然后回报结果
+
+300
+00:27:05,006 --> 00:27:06,006
+Greyhound Leader.
+灰狗队长
+
+301
+00:27:06,346 --> 00:27:08,168
+Greyhound Leader, come in. Please. Over
+灰狗队长, 请回话, 拜托. 挂了
+
+302
+00:27:08,233 --> 00:27:09,613
+Go ahead, Dan.
+继续, Dan
+
+303
+00:27:09,637 --> 00:27:12,883
+We've found a crate coded triple A RH 2961.
+我们找到一个有编号 AAA/RH/2961 的板条箱
+
+304
+00:27:13,740 --> 00:27:16,851
+- And it's marked Auton.  - Auton.
+- 上面标有AUTON  - Auton? 
+
+305
+00:27:18,837 --> 00:27:21,057
+- Is that the only one?  - So far.
+- 只有那一个吗?   - 目前是
+
+306
+00:27:21,628 --> 00:27:23,002
+Has the crate been opened?
+板条箱被打开过吗? 
+
+307
+00:27:23,027 --> 00:27:25,065
+- No.  - Any sign of activity?
+- 没有  - 有什么活动迹象不? 
+
+308
+00:27:25,090 --> 00:27:26,090
+- No.  - Where are you?
+- 没有  - 你们在哪里? 
+
+309
+00:27:26,422 --> 00:27:28,239
+- Storage bay one.  - Keep an eye out for more.
+- 储物岛一号  - 盯着点, 看是不是还有
+
+310
+00:27:28,264 --> 00:27:30,064
+I'm on my way down. Out.
+我这就下来, 挂了
+
+311
+00:27:30,881 --> 00:27:33,135
+You recognised that word. How?
+你知道那个词, 怎么回事? 
+
+312
+00:27:34,630 --> 00:27:35,674
+Auton.
+Auton.​
+
+313
+00:27:38,123 --> 00:27:41,487
+I remember Winslet saying it
+over the phone just before.
+我记得 Winslet 之前在电话里说过
+
+314
+00:27:42,016 --> 00:27:44,185
+He'd found some crates marked Auton.
+他找到了一些标有 Auton 的板条箱
+
+315
+00:27:44,210 --> 00:27:47,897
+- He told me he didn't find anything.
+- I didn't pay much attention at the time,
+- 但他跟我说他什么也没找到  - 当时我没怎么留意
+
+316
+00:27:47,922 --> 00:27:49,501
+but I distinctly remember him saying it.
+但我确实记得他说过
+
+317
+00:27:49,526 --> 00:27:50,988
+- Stay here.  - Wait a minute!
+- 待在这里  - 等一下！
+
+318
+00:27:53,074 --> 00:27:54,837
+What is going on?
+到底是什么事? 
+
+319
+00:27:54,862 --> 00:27:57,496
+- What is Auton?
+- It's none of your concern.
+- Auton 是什么?   - 这不关你的事
+
+320
+00:27:57,521 --> 00:28:02,274
+Isn't it? I am right in thinking
+you blame me for all this, aren't I?
+无关吗? 但我理解正确的话, 你责怪我造成这一切, 是吧? 
+
+321
+00:28:02,299 --> 00:28:04,281
+Well, if it's my fault, then I at least think...
+好, 如果是我的错, 那我至少觉得...
+
+322
+00:28:04,306 --> 00:28:05,919
+...I have the right to know what Auton is.
+...我有权知道 Auton 是什么
+
+323
+00:28:06,371 --> 00:28:08,990
+Autons are plastic automata
+Auton 是塑料机器人
+
+324
+00:28:09,093 --> 00:28:12,384
+which can be controlled by the
+Nestene Consciousness.
+它们会被 Nestene 意识体所控制
+
+325
+00:28:13,104 --> 00:28:15,965
+They're deadly and virtually indestructible.
+它们很致命, 而且基本上坚不可摧
+
+326
+00:28:15,989 --> 00:28:20,171
+and it seems you've got one 
+in your storage bay, Doctor Sal.
+而且看来你的储物岛里有了一个, Sal 博士
+
+327
+00:28:20,196 --> 00:28:22,274
+Storage bay one? Let's go.
+一号储物岛? 我们走
+
+328
+00:28:33,334 --> 00:28:34,334
+Doctor Matthews?
+Matthews 博士? 
+
+329
+00:28:42,922 --> 00:28:44,072
+Security door.
+安全门
+
+330
+00:29:20,962 --> 00:29:22,774
+- Dan?  - Here.
+- Dan?  - 这儿
+
+331
+00:29:37,219 --> 00:29:39,123
+I suppose you didn't know about this, either.
+我估计你对这个也不知情
+
+332
+00:29:42,021 --> 00:29:45,121
+We're probably looking at
+top-grade signal shielding here.
+我们在这里看见的可能是最高级的信号屏蔽装置
+
+333
+00:29:45,993 --> 00:29:47,003
+How do we get it open?
+我们怎么打开它? 
+
+334
+00:29:50,812 --> 00:29:54,333
+The question is, do we want to get it open?
+问题其实是：我们想要打开它吗? 
+
+335
+00:30:00,376 --> 00:30:01,635
+Retina scan lock.
+视网膜扫描锁
+
+336
+00:30:03,064 --> 00:30:04,889
+It's bound to have your retinaprint on its memory.
+它的存储器中一定会有你的视网膜网纹
+
+337
+00:30:06,131 --> 00:30:07,547
+But what about the entry codes?
+密码又怎么弄? 
+
+338
+00:30:08,722 --> 00:30:10,920
+I don't suppose you have the code book for this?
+我估计你没有密码本吧? 
+
+339
+00:30:10,945 --> 00:30:12,666
+I didn't even know it was here.
+我都不知道有这个
+
+340
+00:30:28,665 --> 00:30:29,797
+Can you do it?
+你能搞定吗
+
+341
+00:30:35,670 --> 00:30:37,892
+We have to know what we're dealing with.
+我们必须知道我们在对付什么
+
+342
+00:30:39,304 --> 00:30:43,105
+Ramsay, I'd like some of your men here,
+just to be on the safe side.
+Ramsau, 我希望你的一些人到这里来, 为了安全起见
+
+343
+00:30:43,353 --> 00:30:45,169
+Sir.
+是
+
+344
+00:30:45,431 --> 00:30:48,105
+This is Greyhound One to Greyhound Six and Seven.
+灰狗一号呼叫灰狗六号和七号
+
+345
+00:30:48,328 --> 00:30:49,930
+Report to Storage bay one immediately.
+立即到储物岛一号报到
+
+346
+00:31:39,292 --> 00:31:40,517
+- Sergeant.  - Defensive positions.
+- 长官  - 防御阵型
+
+347
+00:31:45,520 --> 00:31:46,742
+What are you expecting?
+你在期待什么? 
+
+348
+00:31:48,512 --> 00:31:50,512
+You know that danger you were
+asking me about earlier?
+你记得你之前找我问过的那个危险吧? 
+
+349
+00:32:49,723 --> 00:32:51,572
+Keep them peeled, lads. Keep them peeled.
+剥了它们的皮, 小伙子们
+
+350
+00:33:12,135 --> 00:33:13,135
+Another one.
+又有一个
+
+351
+00:33:18,753 --> 00:33:20,615
+Was the first one just like this?
+第一个跟这个一样吗? 
+
+352
+00:33:20,640 --> 00:33:22,322
+Identical. Why?
+一模一样. 为什么? 
+
+353
+00:33:24,210 --> 00:33:25,218
+What's the matter?
+什么问题? 
+
+354
+00:33:26,279 --> 00:33:27,279
+I'm not sure.
+我不确定
+
+355
+00:33:28,969 --> 00:33:30,853
+There's something different.
+有点什么不一样
+
+356
+00:33:31,826 --> 00:33:33,826
+Not quite what I expected.
+跟我原来料想的不太一样
+
+357
+00:33:36,191 --> 00:33:37,780
+A metamorphosis?
+一个变形怪? 
+
+358
+00:34:03,477 --> 00:34:04,645
+The same as before.
+跟之前一样
+
+359
+00:34:05,239 --> 00:34:06,207
+Something's communicating with it.
+什么东西正在跟它交流
+
+360
+00:34:07,002 --> 00:34:08,002
+The other energy unit.
+另外一个能量体
+
+361
+00:34:19,971 --> 00:34:22,190
+We've got to get out of here. Now!
+我们得离开这里, 快！
+
+362
+00:34:30,945 --> 00:34:31,945
+Take this.
+拿着这个
+
+363
+00:35:10,500 --> 00:35:12,900
+All right, Ramsay.
+They're not after a conversation.
+好啦, Ramsay, 他们不是来找我们聊天的
+
+364
+00:35:13,282 --> 00:35:14,282
+Open fire!
+开火！
+
+365
+00:35:58,239 --> 00:36:00,157
+We're not going to get out of this alive, are we?
+我们不会活着离开这里, 是吗? 
+
+366
+00:36:00,182 --> 00:36:01,308
+I'm open to suggestions.
+我愿意接受建议
+
+367
+00:36:04,322 --> 00:36:06,218
+Why not? Let's try it.
+为什么不? 试试吧
+
+368
+00:36:06,243 --> 00:36:08,243
+- Ramsay?  - Go! Go! Go! Go!
+- Ramsay?  - 走！走！走！
+
+369
+00:36:15,828 --> 00:36:16,828
+No, this way.
+不, 这边
+
+370
+00:36:19,311 --> 00:36:20,422
+No, no, this way.
+不对, 不对, 这边
+
+371
+00:36:39,794 --> 00:36:40,794
+This way, Doctor Dan!
+这边, Dan 博士！
+
+372
+00:36:46,396 --> 00:36:47,396
+Here.
+这里
+
+373
+00:36:52,101 --> 00:36:53,324
+They're jamming us.
+他们阻塞了我们的通讯
+
+374
+00:36:53,348 --> 00:36:55,308
+- Which way is the exit?  - Over this way.
+- 哪边是出口?   - 在这边
+
+375
+00:37:14,566 --> 00:37:15,566
+Poor bastard.
+可怜的杂种
+
+376
+00:37:16,955 --> 00:37:17,955
+He's still alive.
+他还活着
+
+377
+00:37:19,089 --> 00:37:21,264
+They must have copied him. That's what they do.
+它们肯定复制了他, 它们会这个
+
+378
+00:37:21,963 --> 00:37:25,027
+They're using the real Winslet
+as a source of information,
+它们把真正的 Winslet 用作了信息来源
+
+379
+00:37:26,010 --> 00:37:27,097
+like a template.
+像个模板
+
+380
+00:37:27,341 --> 00:37:28,341
+Lockwood tell you this?
+这个是 Lockwood 告诉你的? 
+
+381
+00:37:30,151 --> 00:37:31,501
+So they could copy anyone.
+所以它们能复制任何人
+
+382
+00:37:31,860 --> 00:37:33,160
+We'd never know the difference.
+我们永远不知道区别
+
+383
+00:37:36,376 --> 00:37:37,573
+Move it.
+快走
+
+384
+00:37:54,803 --> 00:37:56,203
+This is the only way to the exit.
+这是出去的唯一途径
+
+385
+00:37:56,227 --> 00:37:57,376
+They've got us trapped.
+它们把我们困住了
+
+386
+00:37:59,899 --> 00:38:01,304
+And what is this thing?
+这个东西又是什么
+
+387
+00:38:01,637 --> 00:38:03,566
+I don't know, but I've got a good feeling about it.
+我不知道, 但我对它有种很好的感觉
+
+388
+00:38:04,661 --> 00:38:06,304
+Can you get us to your laboratory?
+你能带我们到你的实验室吗? 
+
+389
+00:38:06,645 --> 00:38:08,407
+Er, yes. We can cut through here.
+呃, 可以, 我们可以从这里切过去
+
+390
+00:38:15,290 --> 00:38:17,089
+Quick. Barricade the door.
+快, 把门堵住
+
+391
+00:38:21,080 --> 00:38:22,168
+Help me with this.
+帮我弄下这个
+
+392
+00:38:23,503 --> 00:38:25,318
+Hold it, hold it. Couldn't you stop them?
+稳住, 稳住. 你能挡住它们吗? 
+
+393
+00:38:25,343 --> 00:38:26,947
+- Not a chance.  - Have they taken the exits?
+- 一点机会都没有  - 它们已经拿下出口了么? 
+
+394
+00:38:26,972 --> 00:38:27,972
+- Yes.  - Shit.
+- 是的  - 妈的
+
+395
+00:39:29,229 --> 00:39:30,229
+Lockwood...
+Lockwood...​
+
+396
+00:39:32,208 --> 00:39:33,641
+Lockwood!
+Lockwood!​
+
+397
+00:39:35,490 --> 00:39:37,590
+Just resting my eyes.
+休息一下我的眼睛
+
+398
+00:39:37,811 --> 00:39:39,355
+As your grandmother used to say.
+正如你祖母经常说的
+
+399
+00:39:42,407 --> 00:39:43,407
+How did you know that?
+你怎么知道这个? 
+
+400
+00:39:44,636 --> 00:39:46,617
+Your psychoanalysis tests.
+从你的心理分析测试
+
+401
+00:39:47,433 --> 00:39:49,752
+We're all on the great UNIT database.
+我们都在 UNIT 的大数据库里
+
+402
+00:39:50,319 --> 00:39:53,284
+Not even our personalities is safe from trespass.
+甚至我们的人格都没法防止被侵入
+
+403
+00:39:53,943 --> 00:39:55,943
+Has anyone ever told you you're a very...
+有没有人告诉过你, 你是一个...
+
+404
+00:39:55,968 --> 00:39:58,244
+bitter, cynical person, Lockwood?
+非常悲天悯人、愤世嫉俗的人, Lockwood? 
+
+405
+00:39:58,268 --> 00:40:01,101
+Don't presume to psychoanalyse me.
+别试着对我进行精神分析
+
+406
+00:40:01,181 --> 00:40:04,441
+That's one degree you don't have, Doctor Sal.
+这个学位你可没有, Sal 博士
+
+407
+00:40:04,465 --> 00:40:05,801
+Only my friends call me that.
+只有我的朋友这么叫我
+
+408
+00:40:05,826 --> 00:40:06,826
+Then I'll refrain.
+那我克制一下
+
+409
+00:40:40,430 --> 00:40:41,430
+What do they want?
+它们想要什么? 
+
+410
+00:40:41,644 --> 00:40:45,244
+I suspect they want what's in that tank
+in that sealed chamber.
+我怀疑它们想要那个密室里面的那个箱子
+
+411
+00:40:46,042 --> 00:40:47,071
+Which is?
+那是...? 
+
+412
+00:40:47,611 --> 00:40:49,333
+Would you take a look at this?
+你要看一眼这个吗? 
+
+413
+00:40:50,019 --> 00:40:52,309
+There must be some simple reason
+why it isn't working.
+它为什么不工作, 肯定有个很简单的原因
+
+414
+00:40:54,153 --> 00:40:55,603
+And in answer to your question,
+作为对你问题的回答
+
+415
+00:40:55,627 --> 00:40:57,944
+the thing in the tank is a mystery to me;
+那个箱子里面的东西对我也是一个谜
+
+416
+00:40:59,531 --> 00:41:00,762
+As yet.
+目前是
+
+417
+00:41:01,820 --> 00:41:04,254
+Well, it looks like some sort of transmitter but...
+嗯, 这个看起来像是某种发射器, 但是...
+
+418
+00:41:24,739 --> 00:41:26,676
+Okay, it's not as bad as it looks.
+好吧, 并不像看起来那么糟糕
+
+419
+00:41:27,367 --> 00:41:28,367
+How does it look?
+看起来怎么样? 
+
+420
+00:41:28,629 --> 00:41:30,629
+I feel like I've had a shave with a cheese grater.
+我感觉像是错用了乳酪磨碎器刮了胡子似的
+
+421
+00:41:30,882 --> 00:41:33,898
+Off the wall humour in the face of excruciating pain?
+面对极度的痛苦, 你的幽默感脑洞大开了吗? 
+
+422
+00:41:33,923 --> 00:41:35,803
+We'll make a soldier of you yet, Doctor Dan.
+我们会让你成为一个战士的, Dan 博士
+
+423
+00:41:48,677 --> 00:41:49,677
+Lockwood.
+Lockwood.​
+
+424
+00:41:54,447 --> 00:41:56,192
+Bloody place is crawling with them.
+见鬼这个地方到处都是它们
+
+425
+00:41:58,795 --> 00:42:00,120
+Do you think Lockwood made it?
+你觉得 Lockwood 逃脱了吗? 
+
+426
+00:42:00,526 --> 00:42:01,526
+Yeah.
+当然
+
+427
+00:42:01,788 --> 00:42:03,255
+He's indestructible, isn't he?
+他是坚不可摧的, 是吧? 
+
+428
+00:42:05,184 --> 00:42:06,311
+What about the others?
+其他人呢? 
+
+429
+00:42:07,836 --> 00:42:09,406
+Didn't stand a chance.
+一点机会也没有
+
+430
+00:42:11,810 --> 00:42:14,168
+Oh Christ, I think I'm going into shock.
+噢 Christ, 我觉得我要休克了
+
+431
+00:42:22,499 --> 00:42:24,684
+Oh shit... Ramsay.
+噢, 糟了... Ramsay
+
+432
+00:42:25,422 --> 00:42:27,422
+How the hell are we going to get out of this one?
+我们到底要怎么搞定这个问题? 
+
+433
+00:42:30,924 --> 00:42:31,924
+Hello?
+哈罗?
+
+434
+00:42:32,820 --> 00:42:34,676
+Whatever this is, it's got a flat battery,
+不管这是什么东西, 它有一个蓄电池
+
+435
+00:42:34,700 --> 00:42:36,105
+so I'm recharging it, all right?
+所以我要给它充电, 行吧? 
+
+436
+00:42:38,193 --> 00:42:39,676
+Oh for God's sake, Lockwood.
+噢看在上帝的份上, Lockwood
+
+437
+00:42:44,669 --> 00:42:45,669
+Doctor!
+博士
+
+438
+00:42:47,201 --> 00:42:49,201
+Doctor Arnold!
+Arnold 博士！
+
+439
+00:42:49,979 --> 00:42:51,379
+Doctor, are you in there?
+博士, 你在里面吗? 
+
+440
+00:42:55,727 --> 00:42:56,858
+Doctor Arnold!
+Arnold 博士！
+
+441
+00:42:56,883 --> 00:42:59,041
+Winslet, where the hell have you been?
+Winslet, 见鬼你都去哪儿了? 
+
+442
+00:42:59,066 --> 00:43:00,708
+Hiding, Doctor.
+躲起来了, 博士
+
+443
+00:43:01,128 --> 00:43:02,828
+Those dummies. What is going on?
+到处是那些人体模型, 发生了什么事? 
+
+444
+00:43:02,852 --> 00:43:04,453
+Everyone out here is dead.
+外面的每个人都死了
+
+445
+00:43:23,511 --> 00:43:24,511
+It's me you want.
+你们想要的是我
+
+446
+00:43:25,169 --> 00:43:27,169
+Kill her and you'll have to kill me.
+杀了她你就得杀了我
+
+447
+00:43:27,327 --> 00:43:29,216
+You're very perceptive, Lockwood.
+你的感知力很强, Lockwood
+
+448
+00:43:29,788 --> 00:43:31,296
+Something different about you.
+你有点什么地方不一样
+
+449
+00:43:31,875 --> 00:43:34,828
+In some ways you're quite like us.
+某种程度上你跟我们很像
+
+450
+00:43:51,780 --> 00:43:53,565
+They've captured Lockwood and that Doctor.
+它们抓住了 Lockwood 和那个女博士
+
+451
+00:43:56,487 --> 00:43:58,248
+Best you don't move.
+最好你不要动
+
+452
+00:44:00,184 --> 00:44:02,184
+Do you know how many times he's saved my life?
+你知道他救过我多少次? 
+
+453
+00:44:09,641 --> 00:44:11,941
+We both know how much
+pain he goes through for us.
+我们都知道他为我们经历多少痛苦
+
+454
+00:44:13,010 --> 00:44:14,403
+He wouldn't let us down, would he?
+他不会让我们倒下的, 对不? 
+
+455
+00:44:21,836 --> 00:44:23,729
+What are you going to do with it
+when you've got it?
+你拿到它之后打算用它做什么? 
+
+456
+00:44:24,860 --> 00:44:26,745
+That sad remnant in there.
+里面那个遗留物
+
+457
+00:44:27,522 --> 00:44:29,245
+Just a bit of slurry, isn't it?
+只是一些浆糊, 是吧? 
+
+458
+00:44:29,867 --> 00:44:31,987
+Left-over scrapings from a body
+是一具躯体上的残余部分
+
+459
+00:44:32,012 --> 00:44:34,189
+you tried to create yourself decades ago.
+那是几十年前你试图给自己创造的躯体
+
+460
+00:44:34,479 --> 00:44:36,030
+I expect it's got a bit of mildew...
+我觉得它有点发霉了...
+
+461
+00:44:36,530 --> 00:44:38,530
+You will open the retina scan door.
+你要打开那个视网膜扫描的门
+
+462
+00:44:39,664 --> 00:44:40,708
+Wel...
+这个...
+
+463
+00:44:41,406 --> 00:44:43,783
+Don't you wish you'd been
+a little more pleasant to me?
+你没有期望过, 你对我来说变得愉悦一点? 
+
+464
+00:44:43,808 --> 00:44:44,808
+What?
+什么?
+
+465
+00:44:45,050 --> 00:44:48,069
+If I don't help him,
+he's probably going to kill you.
+如果我不帮他, 他很可能会杀了你
+
+466
+00:44:49,481 --> 00:44:53,108
+Right? I can't say I really care.
+对吧? 我不能说我真的在乎
+
+467
+00:44:54,343 --> 00:44:56,005
+Of course, then he'll kill me.
+当然, 这样他会杀了我
+
+468
+00:44:57,854 --> 00:44:59,299
+Then what will you do?
+那你要怎么办? 
+
+469
+00:45:00,275 --> 00:45:02,751
+Cut my head off and use my retina print?
+砍下我的头, 就可以用我的视网膜了? 
+
+470
+00:45:03,624 --> 00:45:05,198
+You still won't have the code.
+但你还是没有密码
+
+471
+00:45:23,217 --> 00:45:24,674
+You are like us.
+你跟我们很像
+
+472
+00:45:25,372 --> 00:45:29,079
+You're linked to something.
+你跟什么东西连起来了
+
+473
+00:45:32,073 --> 00:45:33,073
+What does he mean?
+他什么意思? 
+
+474
+00:45:35,138 --> 00:45:38,560
+You should be attending to your battery charger...
+你应该去照看你的电池充电器...
+
+475
+00:45:39,971 --> 00:45:41,694
+Doctor Sal.
+Sal 博士
+
+476
+00:45:56,582 --> 00:45:58,639
+- Come with me.  - We're not leaving him.
+- 等我来  - 我们不会撇下他
+
+477
+00:45:58,664 --> 00:46:00,107
+Yes, you are, if you want to save him.
+是的, 你会的, 如果你们想救他的话
+
+478
+00:46:04,872 --> 00:46:06,572
+Leave them. They're unimportant.
+别管他们了, 他们不重要
+
+479
+00:46:38,479 --> 00:46:39,641
+My God, it works.
+上帝啊, 这东西有效
+
+480
+00:46:40,934 --> 00:46:42,103
+What the hell is that?
+这是什么鬼东西? 
+
+481
+00:46:42,463 --> 00:46:43,928
+I've got no idea.
+我也没概念
+
+482
+00:47:54,479 --> 00:47:55,579
+Lockwood...
+Lockwood...​
+
+483
+00:47:56,752 --> 00:47:58,299
+UNIT's creature.
+UNIT 的怪物
+
+484
+00:48:17,796 --> 00:48:19,133
+You cannot resist us.
+你们没法抵抗我们
+
+485
+00:48:20,188 --> 00:48:23,216
+You can fight, but you can't win.
+你们可以战斗, 但你们赢不了
+
+486
+00:48:23,823 --> 00:48:24,823
+Soon.
+快了
+
+487
+00:48:25,601 --> 00:48:28,049
+Soon all the chaos will be over...
+很快混沌就会过去...
+
+488
+00:48:28,430 --> 00:48:32,730
+and you'll be at one...with us
+而你会成为我们的一员
+
+489
+00:48:41,153 --> 00:48:42,153
+Marvellous.
+神奇啊
+
+490
+00:48:42,177 --> 00:48:44,177
+The return of the maverick.
+独行侠的回归
+
+491
+00:48:44,574 --> 00:48:45,574
+Who the...
+谁...
+
+492
+00:48:45,716 --> 00:48:47,716
+what the hell are you?
+你是什么鬼? 
+
+493
+00:48:48,414 --> 00:48:50,314
+Think how many people you've killed.
+想想你杀了多少人
+
+494
+00:48:50,338 --> 00:48:51,438
+Why'd you do it?
+你为什么这么干? 
+
+495
+00:48:51,923 --> 00:48:53,335
+Because that's what we do.
+因为我们就是干这个的
+
+496
+00:49:31,074 --> 00:49:32,074
+Don't do it.
+别做这个
+
+497
+00:49:32,216 --> 00:49:33,507
+Don't go in there.
+别进去
+
+498
+00:49:33,531 --> 00:49:34,935
+It's too dangerous.
+这太危险了
+
+499
+00:49:34,959 --> 00:49:36,562
+Just keep the door covered.
+就让门关上
+
+500
+00:49:36,638 --> 00:49:37,638
+We'll lock it...
+我们会把它锁起来
+
+501
+00:49:37,979 --> 00:49:40,015
+Get the experts to deal with this thing.
+找专家来对付这个东西
+
+502
+00:49:40,951 --> 00:49:43,665
+Maybe find out some of
+its weaknesses for next time.
+也许下次能发现它的一些弱点
+
+503
+00:49:43,788 --> 00:49:44,788
+Next time?
+下次? 
+
+504
+00:49:45,180 --> 00:49:46,642
+They've tried before.
+他们以前就尝试过
+
+505
+00:49:46,667 --> 00:49:48,348
+They'll try...
+他们还会再次尝试...
+
+506
+00:50:07,669 --> 00:50:09,060
+My God.
+上帝啊
+
+507
+00:50:24,462 --> 00:50:25,462
+Bloody hell.
+见鬼
+
+508
+00:50:26,759 --> 00:50:28,048
+Where does that lead?
+那通到哪里? 
+
+509
+00:50:28,547 --> 00:50:30,015
+Straight to the surface.
+直接到地面上
+
+510
+00:50:35,114 --> 00:50:36,364
+Call for back-up.
+呼叫增援吧
+
+511
+00:50:40,292 --> 00:50:41,216
+Greyhound One.
+灰狗一号
+
+512
+00:50:52,074 --> 00:50:53,665
+Emm, not a bad bit of workmanship,
+嗯, 不错的设计
+
+513
+00:50:54,293 --> 00:50:55,769
+Doctor John Smith.
+John Smith 博士
+
+514
+00:50:59,602 --> 00:51:01,602
+Just returned from the outlying area, sir.
+我刚从外面回来, 头儿
+
+515
+00:51:02,487 --> 00:51:03,487
+How far did you go?
+你们走了多远
+
+516
+00:51:03,646 --> 00:51:05,723
+We estimated a fifty mile radius.
+我们评估了大约50英里半径范围
+
+517
+00:51:05,747 --> 00:51:06,915
+Moorland, mainly.
+大都是沼泽地
+
+518
+00:51:07,137 --> 00:51:09,137
+A few farmhouses, cottages, and suchlike.
+一些农舍、茅屋, 诸如此类
+
+519
+00:51:09,888 --> 00:51:10,888
+Nothing?
+没有? 
+
+520
+00:51:11,008 --> 00:51:12,008
+Not a trace.
+一点痕迹没有
+
+521
+00:51:13,579 --> 00:51:15,179
+You've done a good job, Ramsay.
+你做得很好, Ramsay
+
+522
+00:51:15,421 --> 00:51:16,721
+- I can ask for no more.
+我不能要求更多了
+
+523
+00:51:17,459 --> 00:51:18,898
+- Pack up and go.  - Sir.
+- 收拾东西走吧  - 是
+
+524
+00:51:22,851 --> 00:51:24,136
+See you back at base, sir.
+在基地见, 头儿
+
+525
+00:51:26,023 --> 00:51:27,023
+You're a good chap, Ramsay.
+你是个好伙计, Ramsay
+
+526
+00:51:28,096 --> 00:51:31,636
+I used to think your sort
+only existed in black and white war films.
+我以前认为你这类人只在黑白战争片里面存在
+
+527
+00:51:39,888 --> 00:51:42,710
+Always salutes when he can't
+think of anything to say...
+他想不到说什么的时候总是敬礼...
+
+528
+00:51:42,992 --> 00:51:43,992
+Have you noticed?
+你注意到了吗? 
+
+529
+00:51:46,476 --> 00:51:47,666
+How's your face?
+你的脸怎么样了? 
+
+530
+00:51:48,833 --> 00:51:50,920
+It's a life-enriching experience.
+这次的经历很增长见识
+
+531
+00:51:54,198 --> 00:51:58,341
+We found particle traces of the Nestene
+creature in the external air vents.
+我们在外部空气排放口发现了Nestene意识体的粒子痕迹
+
+532
+00:51:59,953 --> 00:52:01,353
+It's out there somewhere.
+它还在外面某个地方
+
+533
+00:52:10,721 --> 00:52:12,421
+Put it in the bin, Sal.
+把它放进包里吧, Sal
+
+534
+00:52:19,905 --> 00:52:22,239
+Memories can eat away at you, if you let them.
+记忆可以吞噬你的, 如果你不防着
+
+535
+00:52:23,563 --> 00:52:25,096
+Come to escort me to my debriefing?
+过来带我去盘问? 
+
+536
+00:52:25,675 --> 00:52:26,675
+- Yes.
+- 是的
+
+537
+00:52:26,857 --> 00:52:28,857
+I also came to thank you.
+同时我也是来感谢你? 
+
+538
+00:52:29,237 --> 00:52:31,976
+Thank me for being the idiot
+who threw excrement at the fan
+感谢我这个傻子, 朝风扇扔分辨? 
+
+539
+00:52:32,001 --> 00:52:33,374
+or whatever it was you said?
+或者你是怎么说的来着? 
+
+540
+00:52:33,508 --> 00:52:35,008
+For being insightful..
+感谢你富有洞察力
+
+541
+00:52:35,190 --> 00:52:37,190
+gifted, a bit of a maverick.
+有天赋, 有点标新立异
+
+542
+00:52:38,397 --> 00:52:40,850
+You saved my life, Doctor Sal.
+你救了我的命, Sal 博士
+
+543
+00:52:45,795 --> 00:52:48,985
+I think I'm going to enjoy working with you.
+我觉得我会很乐意与你共事
+
+544
+00:52:49,457 --> 00:52:51,405
+- Working?  - Yes.
+- 共事?   - 是得
+
+545
+00:52:52,183 --> 00:52:54,308
+High-handed of me, I know,/
+我是比较专横, 我知道
+
+546
+00:52:54,405 --> 00:52:57,451
+but I've had you reassigned... to my team.
+但我已经安排把你调到了...我的小组
+
+547
+00:52:58,800 --> 00:53:00,626
+I'm not sure I know what to think about that.
+我不知道该怎么看待这事
+
+548
+00:53:01,515 --> 00:53:02,848
+You're saying I have no choice.
+你是说我没有选择
+
+549
+00:53:04,419 --> 00:53:05,666
+Wretched, isn't it?
+很不幸, 是吧? 
+
+550
+00:53:06,762 --> 00:53:08,324
+I don't think I'm ready for your kind of work.
+我不觉得我适合你那种工作
+
+551
+00:53:08,833 --> 00:53:09,833
+Why not?
+为什么不? 
+
+552
+00:53:12,038 --> 00:53:14,515
+I caused everything that happened here.
+这里发生的事情, 全都是我造成的
+
+553
+00:53:14,952 --> 00:53:16,690
+- I killed all those people...
+- It was out there...
+- 是我杀死了那些人...  - 它一直就在那里
+
+554
+00:53:16,990 --> 00:53:18,118
+waiting to happen.
+就等着事情发生
+
+555
+00:53:18,690 --> 00:53:19,690
+You made a mistake.
+你只是犯了一个错误
+
+556
+00:53:21,486 --> 00:53:22,692
+We all do that.
+我们都会犯的
+
+557
+00:53:23,350 --> 00:53:24,468
+A mistake?
+一个错误? 
+
+558
+00:53:24,661 --> 00:53:25,661
+Yes.
+是的
+
+559
+00:53:26,716 --> 00:53:28,317
+We can never know the future...
+我们永远不知道未来...
+
+560
+00:53:29,134 --> 00:53:31,372
+but we mustn't let the past haunt us.
+但我们不能让历史跑出来作祟
+
