@@ -115,2800 +115,2816 @@ Winslet, 现在不行
 随时都...
 
 23
+00:02:30,132 --> 00:02:31,232
+<font color="gray"><i>（下行连接  已生效）</i></font>
+
+24
 00:02:43,120 --> 00:02:47,529
 <font color="gray">- Oh God, I'm tired.  - We could always</font>
 <font color="gray">use some of next week's satellite window.</font>
 - 天啊, 好累   - 我们可以等下周的卫星档期
 
-24
+25
 00:02:47,629 --> 00:02:48,569
 <font color="gray">You must be joking.</font>
 开什么玩笑
 
-25
+26
 00:02:48,869 --> 00:02:50,789
 <font color="gray">I'm going to beat this thing if kills me.</font>
 如果它杀了我, 我会砸了这玩意儿(?)
 
-26
+27
 00:02:56,511 --> 00:02:59,861
 <font color="gray">- I can't believe you used Meccano.</font>
 <font color="gray">- Nothing wrong with that.</font>
 - 不能相信你居然用了麦卡诺  - 没什么问题啊
 <font color="gray"><i>(麦卡诺: 商标名, 主要是钢铁组合的模型玩具)</i></font>
 
-27
+28
 00:03:00,539 --> 00:03:01,729
 <font color="gray">Ah, here we go.</font>
 啊, 好戏来了
 
-28
+29
 00:03:16,129 --> 00:03:18,899
 <font color="gray">- Anything?</font>
 <font color="gray">- Still just background radiation.</font>
 - 有动静吗?  - 还是只有背景辐射
 
-29
+30
 00:03:19,349 --> 00:03:21,749
 <font color="gray">Let's see if I can filter out some</font>
 <font color="gray">to the extraneous stuff.</font>
 我们来看看能不能过滤掉一些无关的
 
-30
+31
 00:03:27,278 --> 00:03:29,478
 <font color="gray">Ah, nobody loves you.</font>
 啊, 没人爱你
 
-31
+32
 00:03:45,929 --> 00:03:49,029
 <font color="gray">Janice, get your notepad.</font>
 Janice, 去拿你的笔记本
 
-32
+33
 00:03:50,279 --> 00:03:51,279
 <font color="gray">Note the time.</font>
 记录一下时间
 
-33
+34
 00:04:06,809 --> 00:04:08,509
 <font color="gray">My God, what have I done?</font>
 上帝啊, 我做了什么?
 
-34
+35
 00:04:22,509 --> 00:04:25,509
 <font color="gray"><i>(苏醒 10:05 AM)</i></font>
 <font color="gray"><i>(发光 规律性脉动 10:07...)</i></font>
 
-35
+36
 00:04:52,109 --> 00:04:53,809
 <font color="gray">Perhaps we should shut it off now.</font>
 也许我们应该现在就关掉它
 
-36
+37
 00:04:54,359 --> 00:04:57,659
 <font color="gray">It's picked up on something.</font>
 <font color="gray">Or something's picked up on it.</font>
 它收到了什么信号, 或者是什么东西收到了它的
 
-37
+38
 00:04:59,708 --> 00:05:02,708
 <font color="gray">It's having...a conversation.</font>
 它在进行...对话
 
-38
+39
 00:05:03,132 --> 00:05:04,332
 <font color="gray">It's transmitting.</font>
 在传输什么
 
-39
+40
 00:05:07,919 --> 00:05:09,248
 <font color="gray">Terminating the satellite link.</font>
 正在断开卫星连接
 
-40
+41
 00:05:11,423 --> 00:05:12,423
 <font color="gray">That's it.</font>
 好了
 
-41
+42
 00:05:31,300 --> 00:05:32,481
 <font color="gray">Janice, keep away!</font>
 Janice, 躲开!
 
-42
+43
 00:05:50,500 --> 00:05:54,000
 <font color="yellow"><b>Auton 三部曲 第一集</b></font>
 
-43
+44
 00:05:54,105 --> 00:05:56,605
 <font color="gray"><i>(Sincro: F.B Cavalcante)</i></font>
 <font color="gray"><i>(翻译: 巴蛮子sz)</i></font>
 
-44
+45
 00:06:12,380 --> 00:06:13,411
 <font color="gray">Doctor Arnold.</font>
 Arnold 博士
 
-45
+46
 00:06:14,019 --> 00:06:19,469
 <font color="gray">- Code Seven now on site.</font>
 <font color="gray">- Protocol one nine zero.</font>
 - 出现7号情况  - 按规程190处理
 
-46
+47
 00:06:19,509 --> 00:06:21,334
 <font color="gray">All non-essential personnel are evacuated</font>
 所有无关紧要的人员已经撤离
 
-47
+48
 00:06:21,359 --> 00:06:23,183
 <font color="gray">to safe house with full decontamination.</font>
 并进入安全屋进行了全面消毒
 
-48
+49
 00:06:23,759 --> 00:06:27,309
 <font color="gray">Listen, do you have any idea what...</font>
 听着, 你是否知道·...
 
-49
+50
 00:06:40,009 --> 00:06:43,309
 <font color="gray">Heard those nasty rumours</font>
 <font color="gray">about containment teams?</font>
 听说过关于遏制组的吓人传言不?
 
-50
+51
 00:06:45,200 --> 00:06:46,400
 <font color="gray">You don't think.</font>
 都不敢想
 
-51
+52
 00:07:10,588 --> 00:07:11,948
 <font color="gray">They'll be here any minute now.</font>
 他们现在随时都会到达这里
 
-52
+53
 00:07:22,172 --> 00:07:24,172
 <font color="gray">- Winslet?  - What?</font>
 - Winslet?   - 什么?
 
-53
+54
 00:07:25,448 --> 00:07:29,569
 <font color="gray">- I'm sorry I said you had bad breath.</font>
 <font color="gray">- When?</font>
 - 很抱歉我说你有口臭  - 什么时候?
 
-54
+55
 00:07:30,699 --> 00:07:33,008
 <font color="gray">When did you have bad breath,</font>
 <font color="gray">or when did I say it?</font>
 什么时候你有口臭, 还是什么时候我说了这个?
 
-55
+56
 00:07:33,508 --> 00:07:36,689
 <font color="gray">- Doesn't matter.  - Don't move!</font>
 - 没关系了  - 不许动！
 
-56
+57
 00:07:59,538 --> 00:08:02,439
 <font color="gray">The laboratory's been secured, sir.</font>
 <font color="gray">If you'd like to come this way.</font>
 这件实验室已经被保护起来了, 头儿, 你们跟我走这边吧
 
-57
+58
 00:08:19,538 --> 00:08:20,778
 <font color="gray">This is where it was.</font>
 这是它之前的位置
 
-58
+59
 00:08:34,400 --> 00:08:38,430
 <font color="gray">Dead? Dead.</font>
 死了吗? 死了
 
-59
+60
 00:08:39,854 --> 00:08:41,854
 <font color="gray">Make a preliminary examination.</font>
 做一个初步检查
 
-60
+61
 00:08:42,308 --> 00:08:46,408
 <font color="gray">The usual tests. Open your box of tricks.</font>
 常规检测, 打开你的宝贝箱子
 
-61
+62
 00:08:51,318 --> 00:08:52,438
 <font color="gray">Did you know her?</font>
 你认识她吗?
 
-62
+63
 00:08:57,719 --> 00:08:59,678
 <font color="gray">Do you think we could put our hands down now?</font>
 你觉得我们可以把手放下来了不?
 
-63
+64
 00:09:13,300 --> 00:09:16,760
 <font color="gray">Doctor Sally Arnold,</font>
 <font color="gray">Facility director and head of research?</font>
 Sally Arnold 博士, 基地主管兼研究负责人是吗?
 
-64
+65
 00:09:17,080 --> 00:09:18,340
 <font color="gray">Pleased to meet you. May I ask...</font>
 很高兴见到你. 我能不能问一下...
 
-65
+66
 00:09:18,400 --> 00:09:22,680
 <font color="gray">- And who is that?</font>
 <font color="gray">- Winslet. Graham Winslet, archivist.</font>
 - 那位是谁?   - Winslet, Graam Winslet, 保管员
 
-66
+67
 00:09:24,780 --> 00:09:27,601
 <font color="gray">Non-essential. What are you doing here,</font>
 <font color="gray">Mister Winslet?</font>
 小角色. 你在这里做什么, Winslet 先生?
 
-67
+68
 00:09:27,701 --> 00:09:32,201
 <font color="gray">- You should have been evacuated.</font>
 <font color="gray">- I'm afraid I wasn't ready in time.</font>
 - 你应该疏散走了才对  - 当时我没及时准备好
 
-68
+69
 00:09:32,701 --> 00:09:35,310
 <font color="gray">- Oh. - Sorry.</font>
 - 哦  - 抱歉
 
-69
+70
 00:09:35,710 --> 00:09:36,910
 <font color="gray">Sorry.</font>
 抱歉?
 
-70
+71
 00:09:41,400 --> 00:09:43,000
 <font color="gray">All right, lads.</font>
 好了, 小伙子们
 
-71
+72
 00:09:49,220 --> 00:09:52,440
 <font color="gray">You'd better let them</font>
 <font color="gray">have a general sniff around, Ramsay.</font>
 你最好让他们四处探查一下, Ramsay
 
-72
+73
 00:09:52,530 --> 00:09:56,371
 <font color="gray">- Is there a guard on the main entrance?</font>
 <font color="gray">- Already taken care of.</font>
 - 主入口有人守卫吗?   - 已经有人盯着
 
-73
+74
 00:09:56,421 --> 00:09:58,480
 <font color="gray">Diligent as always, Ramsay.</font>
 一如既往地勤奋啊, Ramsay
 
-74
+75
 00:10:05,740 --> 00:10:08,000
 <font color="gray">I hope you didn't burn your clothes.</font>
 我期望你们没有烧掉你们的衣服
 
-75
+76
 00:10:08,024 --> 00:10:10,024
 <font color="gray">It would be such a waste.</font>
 那样很浪费的
 
-76
+77
 00:10:34,880 --> 00:10:36,710
 <font color="gray">Is this yours, Doctor.</font>
 这是你的吗, 博士?
 
-77
+78
 00:10:36,810 --> 00:10:39,330
 <font color="gray">Yes. Useful when I'm working late.</font>
 是的, 我加夜班的时候用得着
 
-78
+79
 00:10:39,630 --> 00:10:40,730
 <font color="gray">Which is most nights.</font>
 大部分晚上她都加夜班
 
-79
+80
 00:10:50,124 --> 00:10:52,124
 <font color="gray">Particle traces on here?</font>
 这里有粒子痕迹吗?
 
-80
+81
 00:10:54,700 --> 00:10:55,782
 <font color="gray">What about the woman?</font>
 这个女人呢?
 
-81
+82
 00:10:57,307 --> 00:10:59,244
 <font color="gray">Massive localised energy release.</font>
 有大规模的局部能量释放
 
-82
+83
 00:10:59,520 --> 00:11:01,391
 <font color="gray">Knocked out her entire nervous system.</font>
 击倒了她整个神经系统
 
-83
+84
 00:11:02,200 --> 00:11:06,570
 <font color="gray">- Did the thing just explode?</font>
 <font color="gray">- No. If it just exploded,</font>
 - 那个东西只是爆掉了而已?  - 不, 如果只是爆掉...
 
-84
+85
 00:11:06,590 --> 00:11:09,881
 <font color="gray">- there'd be more debris left.</font>
 <font color="gray">- What are you saying?</font>
 - 应该有更多碎片留下来  - 你在说什么?
 
-85
+86
 00:11:11,561 --> 00:11:14,341
 <font color="gray">That it did something a bit</font>
 <font color="gray">cleverer than just exploding.</font>
 那它不仅仅是爆掉, 而是很聪明地干了点什么
 
-86
+87
 00:11:23,401 --> 00:11:24,651
 <font color="gray">My name is Lockwood.</font>
 我的名字是 Lockwood
 
-87
+88
 00:11:24,775 --> 00:11:26,875
 <font color="gray">I am the head of this containment team.</font>
 我是遏制小组的头儿
 
-88
+89
 00:11:26,899 --> 00:11:28,899
 <font color="gray">This is a code seven situation,</font>
 现在出现的是7号情况
 
-89
+90
 00:11:29,021 --> 00:11:31,930
 <font color="gray">so your death certificates have</font>
 <font color="gray">already been prepared by UNIT.</font>
 所以你的死亡证明已经被 UNIT 准备好了
 
-90
+91
 00:11:32,330 --> 00:11:34,701
 <font color="gray">With luck, we won't find it</font>
 <font color="gray">necessary to issue them.</font>
 幸运的话, 我们可能发现没必要发出来
 
-91
+92
 00:11:36,145 --> 00:11:38,645
 <font color="gray">This is Doctor Daniel Matthews, my assistant.</font>
 这位是Daniel Matthews 博士, 我的助手
 
-92
+93
 00:11:39,261 --> 00:11:42,531
 <font color="gray">Let me remind you that under the terms</font>
 <font color="gray">of your contract with UNIT,</font>
 让我提醒你们一下, 根据你们跟 UNIT 签订的协议
 
-93
+94
 00:11:42,791 --> 00:11:46,411
 <font color="gray">you're obliged to give me the fullest</font>
 <font color="gray">cooperation during this investigation.</font>
 在这次调查期间, 你们必须给与我全面合作
 
-94
+95
 00:11:47,911 --> 00:11:51,710
 <font color="gray">Mister Winslet, perhaps you'd like</font>
 <font color="gray">to go and put your clothes back on...</font>
 Winslet 先生, 也许你可以去把你自己的衣服穿上...
 
-95
+96
 00:11:52,460 --> 00:11:53,835
 <font color="gray">...and wait in your office.</font>
 ...在你的办公室等着
 
-96
+97
 00:11:55,050 --> 00:11:56,231
 <font color="gray">Right.</font>
 好
 
-97
+98
 00:12:01,011 --> 00:12:03,161
 <font color="gray">Did you think my men were going to shoot you?</font>
 你们是不是认为我的人刚才要射杀你们?
 
-98
+99
 00:12:04,311 --> 00:12:06,641
 <font color="gray">At one point, yes, it did cross my mind.</font>
 有那么一会儿, 是的, 这个念头真的从我脑子里闪现过
 
-99
+100
 00:12:07,261 --> 00:12:09,680
 <font color="gray">You thought you'd glimpsed the forbidden fruit,</font>
 你觉得你瞥见了禁果
 
-100
+101
 00:12:09,705 --> 00:12:12,174
 <font color="gray">that we were here to stop the truth getting out.</font>
 或者觉得我们是来防止真相泄漏出去
 
-101
+102
 00:12:12,210 --> 00:12:13,950
 <font color="gray">Something like that.</font>
 差不多吧
 
-102
+103
 00:12:16,130 --> 00:12:18,860
 <font color="gray">Perhaps we are here to stop something getting out.</font>
 也许我们来这里是为了阻止某种东西跑出去的
 
-103
+104
 00:12:22,004 --> 00:12:24,004
 <font color="gray">Was she a friend?</font>
 她是你的朋友?
 
-104
+105
 00:12:30,300 --> 00:12:32,830
 <font color="gray">I knew her too. It was years ago.</font>
 我也认识她, 好多年前了
 
-105
+106
 00:12:35,300 --> 00:12:36,300
 <font color="gray">She's in shock.</font>
 她吓坏了
 
-106
+107
 00:12:36,700 --> 00:12:38,400
 <font color="gray">She's no use to me at the moment.</font>
 这会儿她对我没用了
 
-107
+108
 00:12:38,724 --> 00:12:40,724
 <font color="gray">Take care of her, Doctor Matthews.</font>
 照看一下她, Matthews 博士
 
-108
+109
 00:12:58,120 --> 00:13:00,131
 <font color="gray">I feel stupid.</font>
 我觉得好蠢
 
-109
+110
 00:13:02,005 --> 00:13:03,280
 <font color="gray">It's just shock.</font>
 只是吓着了
 
-110
+111
 00:13:04,031 --> 00:13:05,031
 <font color="gray">Yes.</font>
 是的
 
-111
+112
 00:13:11,268 --> 00:13:11,950
 <font color="gray">Carry on.</font>
 继续吧
 
-112
+113
 00:13:19,481 --> 00:13:23,048
 <font color="gray">You've worked here for six years,</font>
 <font color="gray">according to your records.</font>
 你在这里工作了六年, 根据你的档案
 
-113
+114
 00:13:23,714 --> 00:13:27,190
 <font color="gray">Very fastidious, not a great socialiser.</font>
 非常苛刻, 不善交际
 
-114
+115
 00:13:28,333 --> 00:13:29,333
 <font color="gray">Seven years.</font>
 七年
 
-115
+116
 00:13:29,706 --> 00:13:31,182
 <font color="gray">Seven. Yes.</font>
 七年, 是的
 
-116
+117
 00:13:32,206 --> 00:13:34,400
 <font color="gray">How come you didn't make it to the safe house?</font>
 怎么可能你没来得及去安全屋呢?
 
-117
+118
 00:13:35,001 --> 00:13:38,575
 <font color="gray">- I told you, I wasn't ready in...</font>
 <font color="gray">- In time. Yes, I know.</font>
 - 我告诉过你, 我没有来..  - 没来得及, 是的, 我知道
 
-118
+119
 00:13:39,323 --> 00:13:41,984
 <font color="gray">- But why weren't you ready in time?</font>
 <font color="gray">- I don't know.</font>
 - 但你为什么没有来得及?   - 我不知道
 
-119
+120
 00:13:43,151 --> 00:13:45,663
 <font color="gray">- Not like you.  - How would you know?</font>
 - 这不像你  - 你怎么知道?
 
-120
+121
 00:13:45,994 --> 00:13:48,334
 <font color="gray">Not like your personality profile.</font>
 跟你的个性档案描述不符
 
-121
+122
 00:13:49,366 --> 00:13:51,466
 <font color="gray">On the computer at UNIT HQ.</font>
 UNIT 总部的电脑上都有
 
-122
+123
 00:13:52,330 --> 00:13:53,420
 <font color="gray">Geneva.</font>
 日内瓦
 
-123
+124
 00:13:54,658 --> 00:13:55,570
 <font color="gray">Been there?</font>
 去过吗?
 
-124
+125
 00:13:57,320 --> 00:13:58,646
 <font color="gray">Geneva?</font>
 日内瓦?
 
-125
+126
 00:14:00,058 --> 00:14:00,638
 <font color="gray">No.</font>
 没有
 
-126
+127
 00:14:35,551 --> 00:14:37,471
 <font color="gray">I can't believe you used Meccano.</font>
 不敢相信你还用了麦卡诺
 
-127
+128
 00:14:39,871 --> 00:14:41,443
 <font color="gray">Perhaps we should shut it off now.</font>
 也许我们现在应该关掉它
 
-128
+129
 00:14:50,660 --> 00:14:52,991
 <font color="gray">- All right?  - Fine. Thanks.</font>
 - 没事吧?    - 还好, 谢谢
 
-129
+130
 00:14:57,891 --> 00:14:59,760
 <font color="gray">You should finish your tea.</font>
 你应该把茶喝完
 
-130
+131
 00:15:00,601 --> 00:15:03,441
 <font color="gray">It's hot and sweet. It's good for shock.</font>
 很热很甜, 适合稳定情绪
 
-131
+132
 00:15:05,860 --> 00:15:07,310
 <font color="gray">How did you know Janice?</font>
 你怎么认识 Janice 的?
 
-132
+133
 00:15:08,010 --> 00:15:09,460
 <font color="gray">Oh, at university.</font>
 噢, 在大学
 
-133
+134
 00:15:10,356 --> 00:15:11,360
 <font color="gray">Did you like her?</font>
 你喜欢她吗?
 
-134
+135
 00:15:13,796 --> 00:15:15,184
 <font color="gray">It was a long time ago.</font>
 那是好久以前了
 
-135
+136
 00:15:16,660 --> 00:15:19,180
 <font color="gray">Is your Mister Lockwood always so cold?</font>
 你们的Lockwood 先生总是这么冷冰冰的吗?
 
-136
+137
 00:15:20,545 --> 00:15:21,545
 <font color="gray">Lockwood?</font>
 Lockwood?​
 
-137
+138
 00:15:21,799 --> 00:15:23,108
 <font color="gray">He's a breed apart.</font>
 他另外一种人
 
-138
+139
 00:15:24,124 --> 00:15:26,155
 <font color="gray">But I've worked with him long enough</font>
 <font color="gray">to know he's the best there is.</font>
 但我跟他共事很久了, 知道他是最强的
 
-139
+140
 00:15:26,569 --> 00:15:27,390
 <font color="gray">I see.</font>
 我明白了
 
-140
+141
 00:15:32,634 --> 00:15:34,151
 <font color="gray">Do you have any idea what's happened here?</font>
 你对这里发生了什么有了解吗?
 
-141
+142
 00:15:35,446 --> 00:15:37,874
 <font color="gray">- Yes, we have plenty of ideas.</font>
 <font color="gray">- Like what?</font>
 - 是的, 我们了解很多情况  - 比如说?
 
-142
+143
 00:15:38,818 --> 00:15:40,691
 <font color="gray">Oh, no need to know, is it?</font>
 噢, 没必要知道, 是吧?
 
-143
+144
 00:15:41,651 --> 00:15:44,251
 <font color="gray">Why is Lockwood so convinced</font>
 <font color="gray">there's no contamination risk?</font>
 为什么 Lockwood 如此确信没有污染风险?
 
-144
+145
 00:15:44,791 --> 00:15:47,801
 <font color="gray">I mean, that thing exploded.</font>
 <font color="gray">I don't know what was inside it.</font>
 我是说, 那个东西爆炸了, 我不知道里面有什么
 
-145
+146
 00:15:47,802 --> 00:15:50,532
 <font color="gray">If you didn't know what was inside it,</font>
 <font color="gray">why did you subject it to transmissions</font>
 如果你不知道里面有什么, 为什么要让它传输信息
 
-146
+147
 00:15:50,557 --> 00:15:53,302
 <font color="gray">from UNIT's most powerful</font>
 <font color="gray">deep-space scanning satellites?</font>
 连的还都是 UNIT 最强大的深空扫描卫星
 
-147
+148
 00:15:53,327 --> 00:15:54,199
 <font color="gray">Because...</font>
 因为...
 
-148
+149
 00:15:55,073 --> 00:15:58,416
 <font color="gray">Because it was the only course</font>
 <font color="gray">of relevant experimentation left.</font>
 因为这是唯一剩下的相关实验过程
 
-149
+150
 00:15:59,317 --> 00:16:02,685
 <font color="gray">I'd drawn a blank with the damn thing,</font>
 <font color="gray">thought it was dead.</font>
 那个破玩意儿我一直什么结果也没得到, 以为它是个死的
 
-150
+151
 00:16:03,737 --> 00:16:06,296
 <font color="gray">I tried every test I could think of.</font>
 我试过了我能想到的每项测试
 
-151
+152
 00:16:07,714 --> 00:16:10,443
 <font color="gray">That is my job, Doctor Matthews.</font>
 <font color="gray">Assess and catalogue.</font>
 这是我的工作, Matthews 博士, 评估、分类
 
-152
+153
 00:16:11,538 --> 00:16:13,538
 <font color="gray">I knew it was of extra-terrestrial origin.</font>
 我知道它是来自外星的
 
-153
+154
 00:16:13,879 --> 00:16:16,077
 <font color="gray">Wasn't just a meteor.</font>
 <font color="gray">It appeared to be manufactured,</font>
 但又不是颗流星. 看起来是制造出来的
 
-154
+155
 00:16:16,102 --> 00:16:18,169
 <font color="gray">so I speculated...</font>
 于是我推断...
 
-155
+156
 00:16:18,194 --> 00:16:21,056
 <font color="gray">- Oh, you speculated.  - Yes.</font>
 - 噢, 你推断...  - 是的
 
-156
+157
 00:16:21,715 --> 00:16:24,892
 <font color="gray">We don't exactly have information</font>
 <font color="gray">here at our fingertips, I'm afraid.</font>
 恐怕我们手头并没有信息
 
-157
+158
 00:16:26,020 --> 00:16:29,597
 <font color="gray">This place was a sort of forgotten</font>
 <font color="gray">Aladdin's Cave until about five years ago.</font>
 这个地方被遗忘了, 跟阿拉丁的山洞似的, 直到五年前
 
-158
+159
 00:16:30,565 --> 00:16:33,665
 <font color="gray">It was a mess. Mountains of old paperwork.</font>
 一团乱麻, 数不清的文书工作
 
-159
+160
 00:16:33,690 --> 00:16:36,178
 <font color="gray">Winslet hasn't even got a</font>
 <font color="gray">tenth of the way through it.</font>
 这一路上, Winslet 做的连一成都不到
 
-160
+161
 00:16:36,202 --> 00:16:38,202
 <font color="gray">We're working blind-folded most of.</font>
 我们一直都在蒙着眼瞎摸
 
-161
+162
 00:16:41,665 --> 00:16:43,665
 <font color="gray">Are you saying you know more about it?</font>
 你是说你知道它更多情况?
 
-162
+163
 00:16:44,941 --> 00:16:46,994
 <font color="gray">Where do you get your information?</font>
 你是从哪儿获取信息的?
 
-163
+164
 00:16:47,019 --> 00:16:49,776
 <font color="gray">I think you're ready to speak to Lockwood.</font>
-我觉得你已经可以同 Lookwood 谈话了
+我觉得你已经准备好跟 Lookwood 谈话了
 
-164
+165
 00:16:53,668 --> 00:16:54,972
 <font color="gray">Are we in danger?</font>
 我们有危险吗?
 
-165
+166
 00:16:57,011 --> 00:16:58,011
 <font color="gray">It's possible.</font>
 有可能
 
-166
+167
 00:17:02,111 --> 00:17:04,284
 <font color="gray">So where were you when it all happened?</font>
 那事情发生的时候你们在哪儿?
 
-167
+168
 00:17:04,309 --> 00:17:06,403
 <font color="gray">Storage bay one, you said just now.</font>
 一号储物岛, 你刚才说的
 
-168
+169
 00:17:06,485 --> 00:17:08,538
 <font color="gray">- Yes.  - And you heard the alarm,</font>
 - 是的  - 然后你听到了警报
 
-169
+170
 00:17:08,563 --> 00:17:12,078
 <font color="gray">and you thought I think I'll just stay</font>
 <font color="gray">here and pick my nose, is that it?</font>
 然后你想, 我还是待在这里挖我的鼻子, 是这样吗?
 
-170
+171
 00:17:12,196 --> 00:17:14,237
 <font color="gray">- No, no.  - Well then, what?</font>
 - 不, 不是  - 那, 是怎样的
 
-171
+172
 00:17:14,985 --> 00:17:17,915
 <font color="gray">Doctor Arnold was conducting</font>
 <font color="gray">her experiment in her laboratory</font>
 Arnold 博士在她的实验室进行她的实验
 
-172
+173
 00:17:18,025 --> 00:17:24,978
 <font color="gray">on this alien artefact, serial code</font>
 <font color="gray">triple A stroke RH stroke 2961,</font>
 实验对象是这个外星物品, 编号 AAA/RH/2961
 
-173
+174
 00:17:25,002 --> 00:17:27,902
 <font color="gray">and she asked me to find</font>
 <font color="gray">any other containers with that code.</font>
 而且她让我找同样编号的其它箱子
 
-174
+175
 00:17:28,303 --> 00:17:29,683
 <font color="gray">Because she thought there might be more of them?</font>
 因为她觉得还有更多同样的?
 
-175
+176
 00:17:29,808 --> 00:17:33,333
 <font color="gray">Or anything that would help her identify</font>
 <font color="gray">what she was dealing with.</font>
 或者任何其它东西, 只要能有助于她识别出她正在对付的是什么
 
-176
+177
 00:17:33,558 --> 00:17:36,423
 <font color="gray">She wasn't dealing with anything, Mister Winslet</font>
 她没在对付任何东西, Winslet 先生！
 
-177
+178
 00:17:36,548 --> 00:17:41,125
 <font color="gray">She was tampering with the unknown,</font>
 <font color="gray">which is always pretty dangerous.</font>
 她在玩耍她不懂的东西, 这总是相当危险的
 
-178
+179
 00:17:41,616 --> 00:17:44,198
 <font color="gray">Did you find any other crates with</font>
 <font color="gray">the same code on them, by the way?</font>
 对了, 你找到了其它有同样编号的板条箱了吗?
 
-179
+180
 00:17:44,327 --> 00:17:47,333
 <font color="gray">- No.  - Greyhound One to Greyhound Leader.</font>
 - 没有  - 灰狗一号呼叫灰狗队长
 
-180
+181
 00:17:50,231 --> 00:17:53,682
 <font color="gray">- Greyhound Leader.</font>
 <font color="gray">- We have a problem.</font>
 - 我是灰狗队长  - 我们有问题了
 
-181
+182
 00:18:02,063 --> 00:18:05,038
 <font color="gray">- Same as the woman?</font>
 <font color="gray">- I should say so.</font>
 - 跟那个女人一样的?   - 可以这么说
 
-182
+183
 00:18:05,168 --> 00:18:06,155
 <font color="gray">Mister Lockwood, what is going on?</font>
 Lockwood 先生, 什么情况
 
-183
+184
 00:18:06,264 --> 00:18:10,121
 <font color="gray">- Just Lockwood. No Mister.  - What is going on?</font>
 - 就叫 Lockwood, 不用叫先生  - 什么情况?
 
-184
+185
 00:18:11,374 --> 00:18:13,374
 <font color="gray">Exits are already secured.</font>
 出口已经把守住了
 
-185
+186
 00:18:13,399 --> 00:18:16,152
 <font color="gray">- What are we looking for?</font>
 <font color="gray">- I don't know, exactly.</font>
 - 我们在找什么?   - 我不知道, 确切地说
 
-186
+187
 00:18:16,176 --> 00:18:18,707
 <font color="gray">Whatever it is, it can't be very big.</font>
 不管是什么, 应该不会很大
 
-187
+188
 00:18:18,796 --> 00:18:21,644
 <font color="gray">- Well, he didn't see it coming.</font>
 <font color="gray">- Where is it going?</font>
 - 嗯, 他没看到它过来  - 那它又去哪儿了?
 
-188
+189
 00:18:22,591 --> 00:18:24,884
 <font color="gray">Well, presuming it started here</font>
 好, 假设它从这里开始
 
-189
+190
 00:18:24,908 --> 00:18:26,011
 <font color="gray">Oh, let's presume.</font>
 噢, 我们假设
 
-190
+191
 00:18:26,036 --> 00:18:29,265
 <font color="gray">- Too many variables give me a headache.</font>
 <font color="gray">- It's going through the storage bays,</font>
 - 变数太多让我头疼  - 它穿过了这些储物岛
 
-191
+192
 00:18:29,752 --> 00:18:32,362
 <font color="gray">whatever it is you're talking about. Look.</font>
 不管你们在说的是什么. 你看
 
-192
+193
 00:18:33,616 --> 00:18:35,616
 <font color="gray">Well, what are you talking about?</font>
 好了, 你们在说的是什么?
 
-193
+194
 00:18:36,456 --> 00:18:40,061
 <font color="gray">Carry on, Ramsay, and see that</font>
 <font color="gray">Doctor Arnold is kept out of harm's way.</font>
 继续吧 Ramsay, 同时确保Arnold 博士处于危险地带之外
 
-194
+195
 00:18:53,631 --> 00:18:54,734
 <font color="gray">What have we got?</font>
 我们有什么?
 
-195
+196
 00:18:54,759 --> 00:18:57,154
 <font color="gray">We haven't got any of the right</font>
 <font color="gray">equipment, for a start.</font>
 比如说, 我们一件合适的装备都没有
 
-196
+197
 00:18:57,179 --> 00:18:59,525
 <font color="gray">This was a code seven, contamination risk.</font>
 这可是7号情况, 有污染风险
 
-197
+198
 00:18:59,550 --> 00:19:01,623
 <font color="gray">Yes. Bit of a balls-up, isn't it.</font>
 是啊, 事有点大, 对吧
 
-198
+199
 00:19:02,471 --> 00:19:06,220
 <font color="gray">I should have twigged there was no danger</font>
 <font color="gray">of contamination the moment I saw the code.</font>
-在我看见代号那会儿, 我就应该说是没有任何危险的
+在我看见代号那会儿, 我应该就直接说没有危险
 
-199
+200
 00:19:06,307 --> 00:19:09,353
 <font color="gray">- Triple A   - RH 2961.</font>
 - 3个A  - RH 2961
 
-200
+201
 00:19:09,377 --> 00:19:11,377
 <font color="gray">Seems no one here knew what it meant.</font>
 看来这里没人知道这是什么意思
 
-201
+202
 00:19:12,003 --> 00:19:15,067
-<font color="gray">But I didn't expect it to turn</font>
-<font color="gray">into a bug hunt either.</font>
+<font color="gray">But I didn't expect it to</font>
+<font color="gray">turn into a bug hunt either.</font>
 但我估计它也不是抓抓虫子这种事
 
-202
+203
 00:19:15,092 --> 00:19:17,686
 <font color="gray">- This is something new.</font>
 <font color="gray">- Should we call for back-up?</font>
 - 这是个新情况  - 我们应该呼叫支援吗?
 
-203
+204
 00:19:17,711 --> 00:19:19,580
 <font color="gray">To pick over our remains.</font>
 来抬我们的遗体吗
 
-204
+205
 00:19:22,066 --> 00:19:23,457
 <font color="gray">Great sense of humour, Lockwood.</font>
 幽默感不错, Lockwood
 
-205
+206
 00:19:24,015 --> 00:19:25,015
 <font color="gray">Great.</font>
 好
 
-206
+207
 00:19:28,698 --> 00:19:29,920
 <font color="gray">Sorry.</font>
 抱歉
 
-207
+208
 00:19:35,771 --> 00:19:38,293
 <font color="gray">- What did he say?  - Who?</font>
 - 他说什么?   - 谁?
 
-208
+209
 00:19:38,724 --> 00:19:41,606
 <font color="gray">- This Lockwood.  - Not much.</font>
 - 这个 Lockwood  - 没什么
 
-209
+210
 00:19:43,701 --> 00:19:46,785
 <font color="gray">What do you think of him?</font>
 <font color="gray">I think he's a bit high-handed.</font>
 你觉得他怎么样? 我觉得他有点专横
 
-210
+211
 00:19:56,271 --> 00:19:57,698
 <font color="gray">Sorry about Janice.</font>
 Janice 的事很抱歉
 
-211
+212
 00:20:07,524 --> 00:20:09,577
 <font color="gray">We've got to find a way to track the damn thing.</font>
-我们得想办法追踪这该死的东西
+我们得想个办法追踪这该死的东西
 
-212
+213
 00:20:09,602 --> 00:20:12,292
 <font color="gray">There's nothing feasible with the</font>
 <font color="gray">level of equipment we've got here.</font>
-就我们手头这个水平的设备, 没有什么可行性
-
-213
-00:20:12,317 --> 00:20:14,792
-<font color="gray">What is it they say about a bad workman?</font>
-对于一个糟糕的工人他们怎么说的?
+就我们手头这些设备的级别, 没有什么可行性
 
 214
-00:20:14,817 --> 00:20:16,872
-<font color="gray">Oh, you're calling me a bad workman.</font>
-噢, 你把我称作糟糕的工人
+00:20:12,317 --> 00:20:14,792
+<font color="gray">What is it they say about a bad workman?</font>
+对于一个拙劣的工人他们怎么说的?
+<font color="gray"><i>(英语俗语 A bad workman quarrels with his tools</i></font>
+<font color="gray"><i>技术拙劣的工人抱怨自己的工具)</i></font>
 
 215
+00:20:14,817 --> 00:20:16,872
+<font color="gray">Oh, you're calling me a bad workman.</font>
+噢, 你把我称作拙劣的工人
+
+216
 00:20:19,424 --> 00:20:20,880
 <font color="gray">What do you want to do, Dan?</font>
 你想怎么做, Dan?
 
-216
+217
 00:20:21,473 --> 00:20:26,077
 <font color="gray">Join the search. See what else has got</font>
 <font color="gray">hidden away here, what it might be after.</font>
 加入搜索工作. 看看还有什么藏在这里, 它的企图又是什么
 
-217
+218
 00:20:26,212 --> 00:20:31,200
 <font color="gray">Our esteemed Doctor Sally Arnold apparently</font>
 <font color="gray">instructed Mister Personality Winslet...</font>
 我们可敬的 Sally Arnold 博士显然已经让 Winslet 先生...
 
-218
+219
 00:20:31,325 --> 00:20:35,675
 <font color="gray">...to conduct a thorough search for</font>
 <font color="gray">anything else with the same code.</font>
 ...全面搜索了有同样编码的其它箱子
 
-219
+220
 00:20:36,822 --> 00:20:39,894
 <font color="gray">But would he draw back?</font>
 <font color="gray">I still think it's worth double-checking.</font>
 但他会怠工吗? 我还是觉得值得核查一遍
 
-220
+221
 00:20:41,104 --> 00:20:44,259
 <font color="gray">I never trusted the brain cell count</font>
 <font color="gray">in research establishments.</font>
 对研究机构的事我从不相信人脑细胞
 
-221
+222
 00:20:44,705 --> 00:20:48,386
 <font color="gray">All right, Have Ramsay bring</font>
 <font color="gray">Sally Arnold to her laboratory.</font>
 好吧, 让 Ramsay 把 Sally Arnold 带到她的实验室
 
-222
+223
 00:20:48,410 --> 00:20:51,085
 <font color="gray">I shall be waiting to give her my charm offensive.</font>
 我将等着给她展开我的魅力攻势
 
-223
+224
 00:20:56,569 --> 00:20:58,664
 <font color="gray">Doctor Arnold? Come with me, please.</font>
 Arnold 博士吗? 请跟我来
 
-224
+225
 00:21:00,648 --> 00:21:06,106
 <font color="gray">- You just sit tight, Mister Winters.</font>
 <font color="gray">- Winslet. Graham Winslet. Archivist.</font>
 - 你坐着就行, Winters 先生  - 是 Winslet. Graham Winslet. 保管员
 
-225
+226
 00:21:06,602 --> 00:21:07,971
 <font color="gray">Whatever.</font>
 随便吧
 
-226
+227
 00:21:11,745 --> 00:21:14,162
 <font color="gray">So he's finally deigned to speak with me, has he?</font>
 所以他终于屈尊要和我谈话了, 是吗?
 
-227
+228
 00:21:14,255 --> 00:21:16,424
 <font color="gray">- Who would that be, Doctor?</font>
 <font color="gray">- Your boss, Lockwood.</font>
 - 你说谁, 博士?   - 你的老大, Lockwood
 
-228
+229
 00:21:16,488 --> 00:21:18,226
 <font color="gray">I believe he does want a word with you, yes, Doctor.</font>
-我相信他确实想和你聊两句句话, 是的, 博士
+我相信他确实想和你聊一聊, 是的, 博士
 
-229
+230
 00:21:18,251 --> 00:21:20,607
 <font color="gray">I suppose all this is pretty routine</font>
 <font color="gray">for you, Sergeant.</font>
 我想这一切对你来说都是很常规的, 中士
 
-230
+231
 00:21:20,632 --> 00:21:23,543
 <font color="gray">- That's right, Doctor.</font>
 <font color="gray">- Where exactly are you taking me?</font>
 - 没错, 博士  - 你到底要带我去哪里?
 
-231
+232
 00:21:23,568 --> 00:21:26,123
 <font color="gray">- Your laboratory, Doctor.</font>
 <font color="gray">- This is the long way.</font>
 - 你的实验室, 博士  - 这路好远
 
-232
+233
 00:21:26,148 --> 00:21:27,630
 <font color="gray">Come on, I'll show you a short cut.</font>
 来吧, 我给你展示一条捷径
 
-233
+234
 00:21:48,276 --> 00:21:50,029
 <font color="gray">Do sit down.</font>
 请坐下
 
-234
+235
 00:21:58,108 --> 00:22:00,108
 <font color="gray">What did you make of these symbols?</font>
-你用这些符号在造什么
+你用这些符号在做什么
 
-235
+236
 00:22:00,133 --> 00:22:02,370
 <font color="gray">What did I make of them?</font>
 <font color="gray">I've never seen anything like them.</font>
-我用它们造什么? 我都从来没见过这样的
+我用它们做什么? 我都从来没见过这样的
 
-236
+237
 00:22:02,395 --> 00:22:03,958
 <font color="gray">All right, all right.</font>
 好吧, 好吧
 
-237
+238
 00:22:03,982 --> 00:22:07,490
 <font color="gray">Did you think, oops, dear me, what have I done?</font>
 你有没有想过：糟糕, 我啊, 我做了什么啊?
 
-238
+239
 00:22:08,441 --> 00:22:11,449
 <font color="gray">Because I'd like to put to you that is</font>
 <font color="gray">what you should have been thinking,</font>
 因为我要把你带入你应该要考虑的问题
 
-239
+240
 00:22:11,474 --> 00:22:13,990
 <font color="gray">given that something is now</font>
 <font color="gray">crawling around the building</font>
 因为某个东西已经在这个建筑里四处爬了
 
-240
+241
 00:22:14,015 --> 00:22:16,353
 <font color="gray">apparently with the intention</font>
 <font color="gray">of wiping out my team.</font>
 它显然有企图要消灭我的小组
 
-241
+242
 00:22:16,378 --> 00:22:18,671
 <font color="gray">- Something? What is this something?  - That.</font>
 - 某个东西? 某个东西是什么?   - 那个
 
-242
+243
 00:22:27,451 --> 00:22:30,695
 <font color="gray">You mean it didn't just vaporise when it exploded.</font>
 你是说它爆炸的时候不只是蒸发了
 
-243
+244
 00:22:31,103 --> 00:22:33,693
 <font color="gray">Doctor Sal is thinking.</font>
 Sal 博士开始用脑子了
 
-244
+245
 00:22:34,074 --> 00:22:37,004
 <font color="gray">Doctor Sal, that's what all</font>
 <font color="gray">your chums call you, isn't it?</font>
 Sal 博士, 你那些密友都这么称呼你, 是吧?
 
-245
+246
 00:22:37,187 --> 00:22:40,417
 <font color="gray">The insightful UNIT research scientist?</font>
 富有洞察力的 UNIT 科学家?
 
-246
+247
 00:22:40,441 --> 00:22:42,441
 <font color="gray">Gifted, highly qualified?</font>
 有天赋, 高素质?
 
-247
+248
 00:22:42,787 --> 00:22:46,091
 <font color="gray">A working class comprehensive</font>
 <font color="gray">school girl who ended up...</font>
-出身于工人阶级综合学校, 却...
+出身于工人阶级综合学校, 结果却...
 
-248
+249
 00:22:46,116 --> 00:22:49,576
 <font color="gray">with degrees in medicine,</font>
 <font color="gray">physics, chemistry and biology.</font>
 获得了医学、物理、化学和生物学学位
 
-249
+250
 00:22:49,601 --> 00:22:50,942
 <font color="gray">I see you've read my file.</font>
 看来你读了我的档案
 
-250
+251
 00:22:50,967 --> 00:22:53,283
 <font color="gray">You're a bit of a maverick</font>
 <font color="gray">in the scientific community.</font>
 你在科学界算是个独行侠
 
-251
+252
 00:22:53,308 --> 00:22:56,871
 <font color="gray">Not afraid to put forward new and untested ideas.</font>
 从不畏惧实施新颖而未经检验的想法
 
-252
+253
 00:22:56,896 --> 00:23:00,323
 <font color="gray">I suppose that accounts for</font>
 <font color="gray">the stupidity of your actions here.</font>
 我觉得那就是你在这里做出愚蠢行为的原因
 
-253
+254
 00:23:00,348 --> 00:23:04,450
 <font color="gray">- It's easy to be wise with hindsight.</font>
 <font color="gray">- Wisdom does not come into it.</font>
 - 事后扮明智总是很容易  - 这里没有明智什么事
 
-254
+255
 00:23:04,910 --> 00:23:07,435
 <font color="gray">Some excrement has hit the fan,</font>
 大粪扔到了风扇上
 
-255
+256
 00:23:07,460 --> 00:23:11,617
 <font color="gray">and you, Doctor Sal,</font>
 <font color="gray">were the idiot who turned the fan on.</font>
 而你, Sal 博士, 就是那个打开风扇的白痴
 
-256
+257
 00:23:11,642 --> 00:23:13,642
 <font color="gray">I was doing my job.</font>
 我只是在做我的工作
 
-257
+258
 00:23:13,666 --> 00:23:15,999
 <font color="gray">It's a job which I happen to consider important.</font>
 只是这份工作我恰好觉得挺重要
 
-258
+259
 00:23:16,525 --> 00:23:18,776
 <font color="gray">I can't help it if UNIT doesn't fund us properly.</font>
 UNIT 不能给我们提供足够资金的话, 我就帮不上忙了
 
-259
+260
 00:23:19,116 --> 00:23:21,991
 <font color="gray">I work with the best information</font>
 <font color="gray">that I have available to me.</font>
-我充分使用我所能拿到的最好的信息
+我充分利用我所能得到的信息
 
-260
+261
 00:23:22,668 --> 00:23:27,507
 <font color="gray">In my opinion, underfunding of this</font>
 <font color="gray">facility makes it a dangerous liability.</font>
 以我所见, 资金不足加大了这个设施的危险倾向
 
-261
+262
 00:23:28,054 --> 00:23:30,153
 <font color="gray">However, these are not matters</font>
 然而, 这些并不重要
 
-262
+263
 00:23:30,278 --> 00:23:33,880
 <font color="gray">for mere slaves of the UNIT bureaucracy like ourselves.</font>
 我们只是 UNIT 官僚体系的奴隶
 
-263
+264
 00:23:34,372 --> 00:23:36,713
 <font color="gray">I'm here to pick up the pieces.</font>
 我来拼一下情况
 
-264
+265
 00:23:39,414 --> 00:23:45,755
 <font color="gray">I'm your alien artefact</font>
 <font color="gray">serial code triple A RH 2961.</font>
 我是你的外星物品, 编号 AAA/RH/2961
 
-265
+266
 00:23:46,135 --> 00:23:51,583
 <font color="gray">You connect me up to the widest range of</font>
 <font color="gray">deep-space signals available to mankind</font>
 你把我连上了人类所能获得的范围最广的深空信号
 
-266
+267
 00:23:51,750 --> 00:23:52,478
 <font color="gray">Why?</font>
 为什么?
 
-267
+268
 00:23:52,503 --> 00:23:55,216
 <font color="gray">Because it hadn't responded</font>
 <font color="gray">to any other kind of test.</font>
 因为它对其它种类的测试都没有响应
 
-268
+269
 00:23:55,241 --> 00:23:57,795
 <font color="gray">God save us from mavericks.</font>
 上帝把我们从独行侠手中救出来吧
 
-269
+270
 00:23:58,584 --> 00:24:03,668
 <font color="gray">You can test a gun all you like,</font>
 <font color="gray">but it doesn't work until you pull the trigger.</font>
 一把枪你想怎么测试都行, 但在你扣动扳机之前, 它是不会工作的
 
-270
+271
 00:24:03,693 --> 00:24:06,128
 <font color="gray">You're saying I pulled the trigger?</font>
 你是说是我扣动了扳机?
 
-271
+272
 00:24:07,421 --> 00:24:11,506
 <font color="gray">It recognised one of the signals</font>
 <font color="gray">from out there in deep space.</font>
 它识别出了一个来自深空的讯号
 
-272
+273
 00:24:11,531 --> 00:24:14,517
 <font color="gray">It came alive and received instructions.</font>
 它苏醒过来, 接收了指令
 
-273
+274
 00:24:15,643 --> 00:24:19,239
 <font color="gray">Now, what kind of an instruction</font>
 <font color="gray">is please vaporise?</font>
 现在看看, “请你爆炸”是一个什么样的指令?
 
-274
+275
 00:24:19,739 --> 00:24:21,620
 <font color="gray">Not a very friendly one.</font>
 肯定是个不友好的指令
 
-275
+276
 00:24:21,804 --> 00:24:25,311
 <font color="gray">And this artefact was undoubtedly</font>
 <font color="gray">talking to a friend,</font>
 但这个物件毫无疑问跟它一个朋友交流了
 
-276
+277
 00:24:25,335 --> 00:24:29,596
 <font color="gray">so perhaps it was instructed to do something else.</font>
 所以它有可能被指派去干点什么事情
 
-277
+278
 00:24:43,681 --> 00:24:46,721
 <font color="gray">So you're saying it atomised</font>
 <font color="gray">in order to reform itself...</font>
 所以你是说它蒸发掉只是为了重组...
 
-278
+279
 00:24:46,846 --> 00:24:48,753
 <font color="gray">...into something that could move?</font>
 变成一个能移动的东西?
 
-279
+280
 00:24:48,946 --> 00:24:52,245
 <font color="gray">And kill. You saw nothing?</font>
 还能杀人. 你什么也没看见吗?
 
-280
+281
 00:24:52,784 --> 00:24:54,308
 <font color="gray">I saw a flash.</font>
 我看见一道闪光
 
-281
+282
 00:24:54,332 --> 00:24:57,602
 <font color="gray">I heard Janice and I blacked out.</font>
 我听到 Janice 叫喊, 然后我晕过去了
 
-282
+283
 00:24:58,388 --> 00:25:00,697
 <font color="gray">It's the mobility that's important.</font>
 重要的是它能移动了
 
-283
+284
 00:25:01,218 --> 00:25:03,038
 <font color="gray">It's going somewhere.</font>
 它要去别的地方
 
-284
+285
 00:25:03,697 --> 00:25:05,856
 <font color="gray">It wants something.</font>
 它想要某种东西
 
-285
+286
 00:25:43,389 --> 00:25:45,095
 <font color="gray">That'll be us in the shit, then.</font>
 没好运的话, 它要的是我们
 
-286
+287
 00:25:50,573 --> 00:25:53,748
 <font color="gray">Are there any other artefacts in</font>
 <font color="gray">the warehouse like this one?</font>
 仓库里还有其它类似的物件吗?
 
-287
+288
 00:25:53,773 --> 00:25:57,809
 <font color="gray">I don't know. Maybe. I asked Winslet</font>
 <font color="gray">to look for anything with the same coding.</font>
 我不知道, 也许有. 我跟 Winslet 说过让他找有相同编号的
 
-288
+289
 00:25:57,834 --> 00:26:01,063
 <font color="gray">- Yes, I know. - You obviously know what it was.</font>
 - 是的, 我知道  - 你显然知道它是什么
 
-289
+290
 00:26:01,462 --> 00:26:04,555
 <font color="gray">- Is. Yes, I'm afraid I do.  - Well?</font>
 - 是的, 恐怕我知道  - 那是?
 
-290
+291
 00:26:06,190 --> 00:26:07,928
 <font color="gray">It's an energy unit.</font>
 它是个能量体
 
-291
+292
 00:26:08,547 --> 00:26:10,547
 <font color="gray">It's part of the Nestene Consciousness.</font>
 它是 Nestene 意识体的一部分
 
-292
+293
 00:26:11,126 --> 00:26:13,126
 <font color="gray">It has an affinity for plastic.</font>
 它对塑料很有亲和力
 
-293
+294
 00:26:13,151 --> 00:26:17,447
 <font color="gray">It's hostile, and God help us</font>
 <font color="gray">if you have any more artefacts...</font>
 它是有敌意的, 如果你还有这样的物件, 老天保佑吧
 
-294
+295
 00:26:17,472 --> 00:26:19,925
 <font color="gray">coded triple A RH 2961.</font>
-编号 AAA/RH/2961
+这种编号为 AAA/RH/2961的
 
-295
+296
 00:26:37,891 --> 00:26:41,486
 <font color="gray">- Greyhound Five to Greyhound One.  - Receiving.</font>
 - 灰狗五号呼叫灰狗一号  - 听着呢
 
-296
+297
 00:26:41,511 --> 00:26:44,343
 <font color="gray">There's no radio contact with Greyhound Four.</font>
 无线电联系不上灰狗四号了
 
-297
+298
 00:26:44,589 --> 00:26:45,931
 <font color="gray">Winslet's office.</font>
 Winslet 的办公室
 
-298
+299
 00:26:46,550 --> 00:26:48,312
 <font color="gray">Check it out and report back.</font>
 去检查一下, 然后回报结果
 
-299
+300
 00:27:05,006 --> 00:27:06,006
 <font color="gray">Greyhound Leader.</font>
 灰狗队长
 
-300
+301
 00:27:06,346 --> 00:27:08,168
 <font color="gray">Greyhound Leader, come in. Please. Over</font>
 灰狗队长, 请回话, 拜托. 挂了
 
-301
+302
 00:27:08,233 --> 00:27:09,613
 <font color="gray">Go ahead, Dan.</font>
 继续, Dan
 
-302
+303
 00:27:09,637 --> 00:27:12,883
 <font color="gray">We've found a crate coded triple A RH 2961.</font>
 我们找到一个有编号 AAA/RH/2961 的板条箱
 
-303
+304
 00:27:13,740 --> 00:27:16,851
 <font color="gray">- And it's marked Auton.  - Auton.</font>
 - 上面标有AUTON  - Auton?
 
-304
+305
 00:27:18,837 --> 00:27:21,057
 <font color="gray">- Is that the only one?  - So far.</font>
 - 只有那一个吗?   - 目前是
 
-305
+306
 00:27:21,628 --> 00:27:23,002
 <font color="gray">Has the crate been opened?</font>
 板条箱被打开过吗?
 
-306
+307
 00:27:23,027 --> 00:27:25,065
 <font color="gray">- No.  - Any sign of activity?</font>
 - 没有  - 有什么活动迹象不?
 
-307
+308
 00:27:25,090 --> 00:27:26,090
 <font color="gray">- No.  - Where are you?</font>
 - 没有  - 你们在哪里?
 
-308
+309
 00:27:26,422 --> 00:27:28,239
 <font color="gray">- Storage bay one.  - Keep an eye out for more.</font>
 - 储物岛一号  - 盯着点, 看是不是还有
 
-309
+310
 00:27:28,264 --> 00:27:30,064
 <font color="gray">I'm on my way down. Out.</font>
 我这就下来, 挂了
 
-310
+311
 00:27:30,881 --> 00:27:33,135
 <font color="gray">You recognised that word. How?</font>
 你知道那个词, 怎么回事?
 
-311
+312
 00:27:34,630 --> 00:27:35,674
 <font color="gray">Auton.</font>
 Auton.​
 
-312
+313
 00:27:38,123 --> 00:27:41,487
 <font color="gray">I remember Winslet saying it</font>
 <font color="gray">over the phone just before.</font>
 我记得 Winslet 之前在电话里说过
 
-313
+314
 00:27:42,016 --> 00:27:44,185
 <font color="gray">He'd found some crates marked Auton.</font>
 他找到了一些标有 Auton 的板条箱
 
-314
+315
 00:27:44,210 --> 00:27:47,897
 <font color="gray">- He told me he didn't find anything.</font>
 <font color="gray">- I didn't pay much attention at the time,</font>
 - 但他跟我说他什么也没找到  - 当时我没怎么留意
 
-315
+316
 00:27:47,922 --> 00:27:49,501
 <font color="gray">but I distinctly remember him saying it.</font>
 但我确实记得他说过
 
-316
+317
 00:27:49,526 --> 00:27:50,988
 <font color="gray">- Stay here.  - Wait a minute!</font>
 - 待在这里  - 等一下！
 
-317
+318
 00:27:53,074 --> 00:27:54,837
 <font color="gray">What is going on?</font>
 到底是什么事?
 
-318
+319
 00:27:54,862 --> 00:27:57,496
 <font color="gray">- What is Auton?</font>
 <font color="gray">- It's none of your concern.</font>
 - Auton 是什么?   - 这不关你的事
 
-319
+320
 00:27:57,521 --> 00:28:02,274
 <font color="gray">Isn't it? I am right in thinking</font>
 <font color="gray">you blame me for all this, aren't I?</font>
-无关吗? 但我理解正确的话, 你责怪我造成这一切, 是吧?
-
-320
-00:28:02,299 --> 00:28:04,281
-<font color="gray">Well, if it's my fault, then I at least think...</font>
-好, 如果是我的错, 那我至少...
+不关吗? 但我理解正确的话, 你责怪是我造成这一切, 是吧?
 
 321
-00:28:04,306 --> 00:28:05,919
-<font color="gray">...I have the right to know what Auton is.</font>
-...有权知道 Auton 是什么
+00:28:02,299 --> 00:28:04,281
+<font color="gray">Well, if it's my fault, then I at least think...</font>
+好, 如果是我的错, 那我至少觉得...
 
 322
+00:28:04,306 --> 00:28:05,919
+<font color="gray">...I have the right to know what Auton is.</font>
+...我有权知道 Auton 是什么
+
+323
 00:28:06,371 --> 00:28:08,990
 <font color="gray">Autons are plastic automata</font>
 Auton 是塑料机器人
 
-323
+324
 00:28:09,093 --> 00:28:12,384
 <font color="gray">which can be controlled by the</font>
 <font color="gray">Nestene Consciousness.</font>
 它们会被 Nestene 意识体所控制
 
-324
+325
 00:28:13,104 --> 00:28:15,965
 <font color="gray">They're deadly and virtually indestructible.</font>
 它们很致命, 而且基本上坚不可摧
 
-325
+326
 00:28:15,989 --> 00:28:20,171
 <font color="gray">and it seems you've got one</font>
 <font color="gray">in your storage bay, Doctor Sal.</font>
 而且看来你的储物岛里有了一个, Sal 博士
 
-326
+327
 00:28:20,196 --> 00:28:22,274
 <font color="gray">Storage bay one? Let's go.</font>
 一号储物岛? 我们走
 
-327
+328
 00:28:33,334 --> 00:28:34,334
 <font color="gray">Doctor Matthews?</font>
 Matthews 博士?
 
-328
+329
 00:28:42,922 --> 00:28:44,072
 <font color="gray">Security door.</font>
 安全门
 
-329
+330
 00:29:20,962 --> 00:29:22,774
 <font color="gray">- Dan?  - Here.</font>
 - Dan?  - 这儿
 
-330
+331
 00:29:37,219 --> 00:29:39,123
 <font color="gray">I suppose you didn't know about this, either.</font>
 我估计你对这个也不知情
 
-331
+332
 00:29:42,021 --> 00:29:45,121
 <font color="gray">We're probably looking at</font>
 <font color="gray">top-grade signal shielding here.</font>
-我们在这里看见的可能是最高级的信号屏蔽装置
+我们在这里看见的, 可能是最高级的信号屏蔽装置
 
-332
+333
 00:29:45,993 --> 00:29:47,003
 <font color="gray">How do we get it open?</font>
 我们怎么打开它?
 
-333
+334
 00:29:50,812 --> 00:29:54,333
 <font color="gray">The question is, do we want to get it open?</font>
-问题其实是：我们想要打开它吗?
+问题其实是: 我们想要打开它吗?
 
-334
+335
 00:30:00,376 --> 00:30:01,635
 <font color="gray">Retina scan lock.</font>
 视网膜扫描锁
 
-335
+336
 00:30:03,064 --> 00:30:04,889
 <font color="gray">It's bound to have your retinaprint on its memory.</font>
 它的存储器中一定会有你的视网膜网纹
 
-336
+337
 00:30:06,131 --> 00:30:07,547
 <font color="gray">But what about the entry codes?</font>
 密码又怎么弄?
 
-337
+338
 00:30:08,722 --> 00:30:10,920
 <font color="gray">I don't suppose you have the code book for this?</font>
 我估计你没有密码本吧?
 
-338
+339
 00:30:10,945 --> 00:30:12,666
 <font color="gray">I didn't even know it was here.</font>
 我都不知道有这个
 
-339
+340
 00:30:28,665 --> 00:30:29,797
 <font color="gray">Can you do it?</font>
 你能搞定吗
 
-340
+341
 00:30:35,670 --> 00:30:37,892
 <font color="gray">We have to know what we're dealing with.</font>
 我们必须知道我们在对付什么
 
-341
+342
 00:30:39,304 --> 00:30:43,105
 <font color="gray">Ramsay, I'd like some of your men here,</font>
 <font color="gray">just to be on the safe side.</font>
-Ramsau, 我希望你的一些人到这里来, 为了安全起见
+Ramsay, 我希望你的一些人到这里来, 为了安全起见
 
-342
+343
 00:30:43,353 --> 00:30:45,169
 <font color="gray">Sir.</font>
 是
 
-343
+344
 00:30:45,431 --> 00:30:48,105
 <font color="gray">This is Greyhound One to Greyhound Six and Seven.</font>
 灰狗一号呼叫灰狗六号和七号
 
-344
+345
 00:30:48,328 --> 00:30:49,930
 <font color="gray">Report to Storage bay one immediately.</font>
 立即到储物岛一号报到
 
-345
+346
 00:31:39,292 --> 00:31:40,517
 <font color="gray">- Sergeant.  - Defensive positions.</font>
 - 长官  - 防御阵型
 
-346
+347
 00:31:45,520 --> 00:31:46,742
 <font color="gray">What are you expecting?</font>
-你在期待什么?
+会有什么东西出现?
 
-347
+348
 00:31:48,512 --> 00:31:50,512
 <font color="gray">You know that danger you were</font>
 <font color="gray">asking me about earlier?</font>
 你记得你之前找我问过的那个危险吧?
 
-348
+349
 00:32:49,723 --> 00:32:51,572
 <font color="gray">Keep them peeled, lads. Keep them peeled.</font>
 剥了它们的皮, 小伙子们
 
-349
+350
 00:33:12,135 --> 00:33:13,135
 <font color="gray">Another one.</font>
 又有一个
 
-350
+351
 00:33:18,753 --> 00:33:20,615
 <font color="gray">Was the first one just like this?</font>
 第一个跟这个一样吗?
 
-351
+352
 00:33:20,640 --> 00:33:22,322
 <font color="gray">Identical. Why?</font>
 一模一样. 为什么?
 
-352
+353
 00:33:24,210 --> 00:33:25,218
 <font color="gray">What's the matter?</font>
 什么问题?
 
-353
+354
 00:33:26,279 --> 00:33:27,279
 <font color="gray">I'm not sure.</font>
 我不确定
 
-354
+355
 00:33:28,969 --> 00:33:30,853
 <font color="gray">There's something different.</font>
 有点什么不一样
 
-355
+356
 00:33:31,826 --> 00:33:33,826
 <font color="gray">Not quite what I expected.</font>
 跟我原来料想的不太一样
 
-356
+357
 00:33:36,191 --> 00:33:37,780
 <font color="gray">A metamorphosis?</font>
 一个变形怪?
 
-357
+358
 00:34:03,477 --> 00:34:04,645
 <font color="gray">The same as before.</font>
 跟之前一样
 
-358
+359
 00:34:05,239 --> 00:34:06,207
 <font color="gray">Something's communicating with it.</font>
 什么东西正在跟它交流
 
-359
+360
 00:34:07,002 --> 00:34:08,002
 <font color="gray">The other energy unit.</font>
 另外一个能量体
 
-360
+361
 00:34:19,971 --> 00:34:22,190
 <font color="gray">We've got to get out of here. Now!</font>
 我们得离开这里, 快！
 
-361
+362
 00:34:30,945 --> 00:34:31,945
 <font color="gray">Take this.</font>
 拿着这个
 
-362
+363
 00:35:10,500 --> 00:35:12,900
 <font color="gray">All right, Ramsay.</font>
 <font color="gray">They're not after a conversation.</font>
 好啦, Ramsay, 他们不是来找我们聊天的
 
-363
+364
 00:35:13,282 --> 00:35:14,282
 <font color="gray">Open fire!</font>
 开火！
 
-364
+365
 00:35:58,239 --> 00:36:00,157
-<font color="gray">We're not going to get out of this alive, are we?</font>
+<font color="gray">We're not going to</font>
+<font color="gray">get out of this alive, are we?</font>
 我们不会活着离开这里, 是吗?
 
-365
+366
 00:36:00,182 --> 00:36:01,308
 <font color="gray">I'm open to suggestions.</font>
 我愿意接受建议
 
-366
+367
 00:36:04,322 --> 00:36:06,218
 <font color="gray">Why not? Let's try it.</font>
 为什么不? 试试吧
 
-367
+368
 00:36:06,243 --> 00:36:08,243
 <font color="gray">- Ramsay?  - Go! Go! Go! Go!</font>
 - Ramsay?  - 走！走！走！
 
-368
+369
 00:36:15,828 --> 00:36:16,828
 <font color="gray">No, this way.</font>
 不, 这边
 
-369
+370
 00:36:19,311 --> 00:36:20,422
 <font color="gray">No, no, this way.</font>
 不对, 不对, 这边
 
-370
+371
 00:36:39,794 --> 00:36:40,794
 <font color="gray">This way, Doctor Dan!</font>
 这边, Dan 博士！
 
-371
+372
 00:36:46,396 --> 00:36:47,396
 <font color="gray">Here.</font>
 这里
 
-372
+373
 00:36:52,101 --> 00:36:53,324
 <font color="gray">They're jamming us.</font>
 他们阻塞了我们的通讯
 
-373
+374
 00:36:53,348 --> 00:36:55,308
 <font color="gray">- Which way is the exit?  - Over this way.</font>
 - 哪边是出口?   - 在这边
 
-374
+375
 00:37:14,566 --> 00:37:15,566
 <font color="gray">Poor bastard.</font>
 可怜的杂种
 
-375
+376
 00:37:16,955 --> 00:37:17,955
 <font color="gray">He's still alive.</font>
 他还活着
 
-376
+377
 00:37:19,089 --> 00:37:21,264
-<font color="gray">They must have copied him. That's what they do.</font>
+<font color="gray">They must have copied him.</font>
+<font color="gray">That's what they do.</font>
 它们肯定复制了他, 它们会这个
 
-377
+378
 00:37:21,963 --> 00:37:25,027
 <font color="gray">They're using the real Winslet</font>
 <font color="gray">as a source of information,</font>
-它们把真正的 Winslet 用作了信息来源
+它们把真正的 Winslet 用作了信息源
 
-378
+379
 00:37:26,010 --> 00:37:27,097
 <font color="gray">like a template.</font>
 像个模板
 
-379
+380
 00:37:27,341 --> 00:37:28,341
 <font color="gray">Lockwood tell you this?</font>
-这个是 Lockwood 告诉你的?
+这是 Lockwood 告诉你的?
 
-380
+381
 00:37:30,151 --> 00:37:31,501
 <font color="gray">So they could copy anyone.</font>
 所以它们能复制任何人
 
-381
+382
 00:37:31,860 --> 00:37:33,160
 <font color="gray">We'd never know the difference.</font>
 我们永远不知道区别
 
-382
+383
 00:37:36,376 --> 00:37:37,573
 <font color="gray">Move it.</font>
 快走
 
-383
+384
 00:37:54,803 --> 00:37:56,203
 <font color="gray">This is the only way to the exit.</font>
-这是出去的唯一途径
+这是到出口的唯一途径
 
-384
+385
 00:37:56,227 --> 00:37:57,376
 <font color="gray">They've got us trapped.</font>
 它们把我们困住了
 
-385
+386
 00:37:59,899 --> 00:38:01,304
 <font color="gray">And what is this thing?</font>
 这个东西又是什么
 
-386
+387
 00:38:01,637 --> 00:38:03,566
-<font color="gray">I don't know, but I've got a good feeling about it.</font>
+<font color="gray">I don't know, but I've got</font>
+<font color="gray">a good feeling about it.</font>
 我不知道, 但我对它有种很好的感觉
 
-387
+388
 00:38:04,661 --> 00:38:06,304
 <font color="gray">Can you get us to your laboratory?</font>
 你能带我们到你的实验室吗?
 
-388
+389
 00:38:06,645 --> 00:38:08,407
 <font color="gray">Er, yes. We can cut through here.</font>
 呃, 可以, 我们可以从这里切过去
 
-389
+390
 00:38:15,290 --> 00:38:17,089
 <font color="gray">Quick. Barricade the door.</font>
 快, 把门堵住
 
-390
+391
 00:38:21,080 --> 00:38:22,168
 <font color="gray">Help me with this.</font>
 帮我弄下这个
 
-391
+392
 00:38:23,503 --> 00:38:25,318
 <font color="gray">Hold it, hold it. Couldn't you stop them?</font>
 稳住, 稳住. 你能挡住它们吗?
 
-392
+393
 00:38:25,343 --> 00:38:26,947
 <font color="gray">- Not a chance.  - Have they taken the exits?</font>
-- 一点机会都没有  - 它们已经拿下出口了么?
+- 一点机会都没有  - 它们已经占据出口了么?
 
-393
+394
 00:38:26,972 --> 00:38:27,972
 <font color="gray">- Yes.  - Shit.</font>
 - 是的  - 妈的
 
-394
+395
 00:39:29,229 --> 00:39:30,229
 <font color="gray">Lockwood...</font>
 Lockwood...​
 
-395
+396
 00:39:32,208 --> 00:39:33,641
 <font color="gray">Lockwood!</font>
 Lockwood!​
 
-396
+397
 00:39:35,490 --> 00:39:37,590
 <font color="gray">Just resting my eyes.</font>
 休息一下我的眼睛
 
-397
+398
 00:39:37,811 --> 00:39:39,355
 <font color="gray">As your grandmother used to say.</font>
 正如你祖母经常说的
 
-398
+399
 00:39:42,407 --> 00:39:43,407
 <font color="gray">How did you know that?</font>
 你怎么知道这个?
 
-399
+400
 00:39:44,636 --> 00:39:46,617
 <font color="gray">Your psychoanalysis tests.</font>
 从你的心理分析测试
 
-400
+401
 00:39:47,433 --> 00:39:49,752
 <font color="gray">We're all on the great UNIT database.</font>
 我们都在 UNIT 的大数据库里
 
-401
+402
 00:39:50,319 --> 00:39:53,284
 <font color="gray">Not even our personalities is safe from trespass.</font>
 甚至我们的人格都没法防止被侵入
 
-402
+403
 00:39:53,943 --> 00:39:55,943
 <font color="gray">Has anyone ever told you you're a very...</font>
 有没有人告诉过你, 你是一个...
 
-403
+404
 00:39:55,968 --> 00:39:58,244
 <font color="gray">bitter, cynical person, Lockwood?</font>
 非常悲天悯人、愤世嫉俗的人, Lockwood?
 
-404
+405
 00:39:58,268 --> 00:40:01,101
 <font color="gray">Don't presume to psychoanalyse me.</font>
 别试着对我进行精神分析
 
-405
+406
 00:40:01,181 --> 00:40:04,441
 <font color="gray">That's one degree you don't have, Doctor Sal.</font>
 这个学位你可没有, Sal 博士
 
-406
+407
 00:40:04,465 --> 00:40:05,801
 <font color="gray">Only my friends call me that.</font>
 只有我的朋友这么叫我
 
-407
+408
 00:40:05,826 --> 00:40:06,826
 <font color="gray">Then I'll refrain.</font>
 那我克制一下
 
-408
+409
 00:40:40,430 --> 00:40:41,430
 <font color="gray">What do they want?</font>
 它们想要什么?
 
-409
+410
 00:40:41,644 --> 00:40:45,244
 <font color="gray">I suspect they want what's in that tank</font>
 <font color="gray">in that sealed chamber.</font>
 我怀疑它们想要那个密室里面的那个箱子
 
-410
+411
 00:40:46,042 --> 00:40:47,071
 <font color="gray">Which is?</font>
 那是...?
 
-411
+412
 00:40:47,611 --> 00:40:49,333
 <font color="gray">Would you take a look at this?</font>
 你要看一眼这个吗?
 
-412
+413
 00:40:50,019 --> 00:40:52,309
 <font color="gray">There must be some simple reason</font>
 <font color="gray">why it isn't working.</font>
 它为什么不工作, 肯定有个很简单的原因
 
-413
+414
 00:40:54,153 --> 00:40:55,603
 <font color="gray">And in answer to your question,</font>
 作为对你问题的回答
 
-414
+415
 00:40:55,627 --> 00:40:57,944
 <font color="gray">the thing in the tank is a mystery to me;</font>
 那个箱子里面的东西对我也是一个谜
 
-415
+416
 00:40:59,531 --> 00:41:00,762
 <font color="gray">As yet.</font>
 目前是
 
-416
+417
 00:41:01,820 --> 00:41:04,254
 <font color="gray">Well, it looks like some sort of transmitter but...</font>
 嗯, 这个看起来像是某种发射器, 但是...
 
-417
+418
 00:41:24,739 --> 00:41:26,676
 <font color="gray">Okay, it's not as bad as it looks.</font>
 好吧, 并不像看起来那么糟糕
 
-418
+419
 00:41:27,367 --> 00:41:28,367
 <font color="gray">How does it look?</font>
 看起来怎么样?
 
-419
+420
 00:41:28,629 --> 00:41:30,629
 <font color="gray">I feel like I've had a shave with a cheese grater.</font>
 我感觉像是错用了乳酪磨碎器刮了胡子似的
 
-420
+421
 00:41:30,882 --> 00:41:33,898
 <font color="gray">Off the wall humour in the face of excruciating pain?</font>
 面对极度的痛苦, 你的幽默感脑洞大开了吗?
 
-421
+422
 00:41:33,923 --> 00:41:35,803
 <font color="gray">We'll make a soldier of you yet, Doctor Dan.</font>
 我们会让你成为一个战士的, Dan 博士
 
-422
+423
 00:41:48,677 --> 00:41:49,677
 <font color="gray">Lockwood.</font>
 Lockwood.​
 
-423
+424
 00:41:54,447 --> 00:41:56,192
 <font color="gray">Bloody place is crawling with them.</font>
 见鬼这个地方到处都是它们
 
-424
+425
 00:41:58,795 --> 00:42:00,120
 <font color="gray">Do you think Lockwood made it?</font>
 你觉得 Lockwood 逃脱了吗?
 
-425
+426
 00:42:00,526 --> 00:42:01,526
 <font color="gray">Yeah.</font>
 当然
 
-426
+427
 00:42:01,788 --> 00:42:03,255
 <font color="gray">He's indestructible, isn't he?</font>
 他是坚不可摧的, 是吧?
 
-427
+428
 00:42:05,184 --> 00:42:06,311
 <font color="gray">What about the others?</font>
 其他人呢?
 
-428
+429
 00:42:07,836 --> 00:42:09,406
 <font color="gray">Didn't stand a chance.</font>
 一点机会也没有
 
-429
+430
 00:42:11,810 --> 00:42:14,168
 <font color="gray">Oh Christ, I think I'm going into shock.</font>
 噢 Christ, 我觉得我要休克了
 
-430
+431
 00:42:22,499 --> 00:42:24,684
 <font color="gray">Oh shit... Ramsay.</font>
 噢, 糟了... Ramsay
 
-431
+432
 00:42:25,422 --> 00:42:27,422
 <font color="gray">How the hell are we going to get out of this one?</font>
 我们到底要怎么搞定这个问题?
 
-432
+433
 00:42:30,924 --> 00:42:31,924
 <font color="gray">Hello?</font>
 哈罗?
 
-433
+434
 00:42:32,820 --> 00:42:34,676
 <font color="gray">Whatever this is, it's got a flat battery,</font>
 不管这是什么东西, 它有一个蓄电池
 
-434
+435
 00:42:34,700 --> 00:42:36,105
 <font color="gray">so I'm recharging it, all right?</font>
 所以我要给它充电, 行吧?
 
-435
+436
 00:42:38,193 --> 00:42:39,676
 <font color="gray">Oh for God's sake, Lockwood.</font>
 噢看在上帝的份上, Lockwood
 
-436
+437
 00:42:44,669 --> 00:42:45,669
 <font color="gray">Doctor!</font>
 博士
 
-437
+438
 00:42:47,201 --> 00:42:49,201
 <font color="gray">Doctor Arnold!</font>
 Arnold 博士！
 
-438
+439
 00:42:49,979 --> 00:42:51,379
 <font color="gray">Doctor, are you in there?</font>
 博士, 你在里面吗?
 
-439
+440
 00:42:55,727 --> 00:42:56,858
 <font color="gray">Doctor Arnold!</font>
 Arnold 博士！
 
-440
+441
 00:42:56,883 --> 00:42:59,041
 <font color="gray">Winslet, where the hell have you been?</font>
 Winslet, 见鬼你都去哪儿了?
 
-441
+442
 00:42:59,066 --> 00:43:00,708
 <font color="gray">Hiding, Doctor.</font>
 躲起来了, 博士
 
-442
+443
 00:43:01,128 --> 00:43:02,828
 <font color="gray">Those dummies. What is going on?</font>
 到处是那些人体模型, 发生了什么事?
 
-443
+444
 00:43:02,852 --> 00:43:04,453
 <font color="gray">Everyone out here is dead.</font>
 外面的每个人都死了
 
-444
+445
 00:43:23,511 --> 00:43:24,511
 <font color="gray">It's me you want.</font>
 你们想要的是我
 
-445
+446
 00:43:25,169 --> 00:43:27,169
 <font color="gray">Kill her and you'll have to kill me.</font>
 杀了她你就得杀了我
 
-446
+447
 00:43:27,327 --> 00:43:29,216
 <font color="gray">You're very perceptive, Lockwood.</font>
 你的感知力很强, Lockwood
 
-447
+448
 00:43:29,788 --> 00:43:31,296
 <font color="gray">Something different about you.</font>
 你有点什么地方不一样
 
-448
+449
 00:43:31,875 --> 00:43:34,828
 <font color="gray">In some ways you're quite like us.</font>
 某种程度上你跟我们很像
 
-449
+450
 00:43:51,780 --> 00:43:53,565
 <font color="gray">They've captured Lockwood and that Doctor.</font>
 它们抓住了 Lockwood 和那个女博士
 
-450
+451
 00:43:56,487 --> 00:43:58,248
 <font color="gray">Best you don't move.</font>
 最好你不要动
 
-451
+452
 00:44:00,184 --> 00:44:02,184
 <font color="gray">Do you know how many times he's saved my life?</font>
 你知道他救过我多少次?
 
-452
+453
 00:44:09,641 --> 00:44:11,941
 <font color="gray">We both know how much</font>
 <font color="gray">pain he goes through for us.</font>
 我们都知道他为我们经历多少痛苦
 
-453
+454
 00:44:13,010 --> 00:44:14,403
 <font color="gray">He wouldn't let us down, would he?</font>
 他不会让我们倒下的, 对不?
 
-454
+455
 00:44:21,836 --> 00:44:23,729
 <font color="gray">What are you going to do with it</font>
 <font color="gray">when you've got it?</font>
 你拿到它之后打算用它做什么?
 
-455
+456
 00:44:24,860 --> 00:44:26,745
 <font color="gray">That sad remnant in there.</font>
 里面那个遗留物
 
-456
+457
 00:44:27,522 --> 00:44:29,245
 <font color="gray">Just a bit of slurry, isn't it?</font>
 只是一些浆糊, 是吧?
 
-457
+458
 00:44:29,867 --> 00:44:31,987
 <font color="gray">Left-over scrapings from a body</font>
 是一具躯体上的残余部分
 
-458
+459
 00:44:32,012 --> 00:44:34,189
 <font color="gray">you tried to create yourself decades ago.</font>
 那是几十年前你试图给自己创造的躯体
 
-459
+460
 00:44:34,479 --> 00:44:36,030
 <font color="gray">I expect it's got a bit of mildew...</font>
 我觉得它有点发霉了...
 
-460
+461
 00:44:36,530 --> 00:44:38,530
 <font color="gray">You will open the retina scan door.</font>
 你要打开那个视网膜扫描的门
 
-461
+462
 00:44:39,664 --> 00:44:40,708
 <font color="gray">Wel...</font>
 这个...
 
-462
+463
 00:44:41,406 --> 00:44:43,783
 <font color="gray">Don't you wish you'd been</font>
 <font color="gray">a little more pleasant to me?</font>
 你没有期望过, 你对我来说变得愉悦一点?
 
-463
+464
 00:44:43,808 --> 00:44:44,808
 <font color="gray">What?</font>
 什么?
 
-464
+465
 00:44:45,050 --> 00:44:48,069
 <font color="gray">If I don't help him,</font>
 <font color="gray">he's probably going to kill you.</font>
 如果我不帮他, 他很可能会杀了你
 
-465
+466
 00:44:49,481 --> 00:44:53,108
 <font color="gray">Right? I can't say I really care.</font>
 对吧? 我不能说我真的在乎
 
-466
+467
 00:44:54,343 --> 00:44:56,005
 <font color="gray">Of course, then he'll kill me.</font>
 当然, 这样他会杀了我
 
-467
+468
 00:44:57,854 --> 00:44:59,299
 <font color="gray">Then what will you do?</font>
-那你要怎么办?
+然后你要做什么?
 
-468
+469
 00:45:00,275 --> 00:45:02,751
 <font color="gray">Cut my head off and use my retina print?</font>
 砍下我的头, 就可以用我的视网膜了?
 
-469
+470
 00:45:03,624 --> 00:45:05,198
 <font color="gray">You still won't have the code.</font>
 但你还是没有密码
 
-470
+471
 00:45:23,217 --> 00:45:24,674
 <font color="gray">You are like us.</font>
 你跟我们很像
 
-471
+472
 00:45:25,372 --> 00:45:29,079
 <font color="gray">You're linked to something.</font>
 你跟什么东西连起来了
 
-472
+473
 00:45:32,073 --> 00:45:33,073
 <font color="gray">What does he mean?</font>
 他什么意思?
 
-473
+474
 00:45:35,138 --> 00:45:38,560
 <font color="gray">You should be attending to your battery charger...</font>
 你应该去照看你的电池充电器...
 
-474
+475
 00:45:39,971 --> 00:45:41,694
 <font color="gray">Doctor Sal.</font>
 Sal 博士
 
-475
+476
 00:45:56,582 --> 00:45:58,639
 <font color="gray">- Come with me.  - We're not leaving him.</font>
-- 等我来  - 我们不会撇下他
+- 跟我来  - 我们不能撇下他
 
-476
-00:45:58,664 --> 00:46:00,107
+477
+00:45:58,664 --> 00:46:00,407
 <font color="gray">Yes, you are, if you want to save him.</font>
 是的, 你会的, 如果你们想救他的话
 
-477
+478
 00:46:04,872 --> 00:46:06,572
 <font color="gray">Leave them. They're unimportant.</font>
 别管他们了, 他们不重要
 
-478
+479
 00:46:38,479 --> 00:46:39,641
 <font color="gray">My God, it works.</font>
 上帝啊, 这东西有效
 
-479
+480
 00:46:40,934 --> 00:46:42,103
 <font color="gray">What the hell is that?</font>
 这是什么鬼东西?
 
-480
+481
 00:46:42,463 --> 00:46:43,928
 <font color="gray">I've got no idea.</font>
 我也没概念
 
-481
+482
 00:47:54,479 --> 00:47:55,579
 <font color="gray">Lockwood...</font>
 Lockwood...​
 
-482
+483
 00:47:56,752 --> 00:47:58,299
 <font color="gray">UNIT's creature.</font>
 UNIT 的怪物
 
-483
+484
 00:48:17,796 --> 00:48:19,133
 <font color="gray">You cannot resist us.</font>
-你们没法抵抗我们
-
-484
-00:48:20,188 --> 00:48:23,216
-<font color="gray">You can fight, but you can't win.</font>
-你们可以战斗, 但你们赢不了
+你没法抗拒我们
 
 485
+00:48:20,188 --> 00:48:23,216
+<font color="gray">You can fight, but you can't win.</font>
+你可以抵抗, 但你赢不了
+
+486
 00:48:23,823 --> 00:48:24,823
 <font color="gray">Soon.</font>
 快了
 
-486
+487
 00:48:25,601 --> 00:48:28,049
 <font color="gray">Soon all the chaos will be over...</font>
 很快混沌就会过去...
 
-487
+488
 00:48:28,430 --> 00:48:32,730
 <font color="gray">and you'll be at one...with us</font>
 而你会成为我们的一员
 
-488
+489
 00:48:41,153 --> 00:48:42,153
 <font color="gray">Marvellous.</font>
 神奇啊
 
-489
+490
 00:48:42,177 --> 00:48:44,177
 <font color="gray">The return of the maverick.</font>
 独行侠的回归
 
-490
+491
 00:48:44,574 --> 00:48:45,574
 <font color="gray">Who the...</font>
 谁...
 
-491
+492
 00:48:45,716 --> 00:48:47,716
 <font color="gray">what the hell are you?</font>
 你是什么鬼?
 
-492
+493
 00:48:48,414 --> 00:48:50,314
 <font color="gray">Think how many people you've killed.</font>
 想想你杀了多少人
 
-493
+494
 00:48:50,338 --> 00:48:51,438
 <font color="gray">Why'd you do it?</font>
 你为什么这么干?
 
-494
+495
 00:48:51,923 --> 00:48:53,335
 <font color="gray">Because that's what we do.</font>
 因为我们就是干这个的
 
-495
+496
 00:49:31,074 --> 00:49:32,074
 <font color="gray">Don't do it.</font>
 别做这个
 
-496
+497
 00:49:32,216 --> 00:49:33,507
 <font color="gray">Don't go in there.</font>
 别进去
 
-497
+498
 00:49:33,531 --> 00:49:34,935
 <font color="gray">It's too dangerous.</font>
 这太危险了
 
-498
+499
 00:49:34,959 --> 00:49:36,562
 <font color="gray">Just keep the door covered.</font>
 就让门关上
 
-499
+500
 00:49:36,638 --> 00:49:37,638
 <font color="gray">We'll lock it...</font>
 我们会把它锁起来
 
-500
+501
 00:49:37,979 --> 00:49:40,015
 <font color="gray">Get the experts to deal with this thing.</font>
 找专家来对付这个东西
 
-501
+502
 00:49:40,951 --> 00:49:43,665
 <font color="gray">Maybe find out some of</font>
 <font color="gray">its weaknesses for next time.</font>
 也许下次能发现它的一些弱点
 
-502
+503
 00:49:43,788 --> 00:49:44,788
 <font color="gray">Next time?</font>
 下次?
 
-503
+504
 00:49:45,180 --> 00:49:46,642
 <font color="gray">They've tried before.</font>
 他们以前就尝试过
 
-504
+505
 00:49:46,667 --> 00:49:48,348
 <font color="gray">They'll try...</font>
 他们还会再次尝试...
 
-505
+506
 00:50:07,669 --> 00:50:09,060
 <font color="gray">My God.</font>
 上帝啊
 
-506
+507
 00:50:24,462 --> 00:50:25,462
 <font color="gray">Bloody hell.</font>
 见鬼
 
-507
+508
 00:50:26,759 --> 00:50:28,048
 <font color="gray">Where does that lead?</font>
 那通到哪里?
 
-508
+509
 00:50:28,547 --> 00:50:30,015
 <font color="gray">Straight to the surface.</font>
 直接到地面上
 
-509
+510
 00:50:35,114 --> 00:50:36,364
 <font color="gray">Call for back-up.</font>
 呼叫增援吧
 
-510
+511
 00:50:40,292 --> 00:50:41,216
 <font color="gray">Greyhound One.</font>
 灰狗一号
 
-511
+512
 00:50:52,074 --> 00:50:53,665
 <font color="gray">Emm, not a bad bit of workmanship,</font>
 嗯, 不错的设计
 
-512
+513
 00:50:54,293 --> 00:50:55,769
 <font color="gray">Doctor John Smith.</font>
 John Smith 博士
 
-513
+514
 00:50:59,602 --> 00:51:01,602
 <font color="gray">Just returned from the outlying area, sir.</font>
 我刚从外面回来, 头儿
 
-514
+515
 00:51:02,487 --> 00:51:03,487
 <font color="gray">How far did you go?</font>
 你们走了多远
 
-515
+516
 00:51:03,646 --> 00:51:05,723
 <font color="gray">We estimated a fifty mile radius.</font>
 我们评估了大约50英里半径范围
 
-516
+517
 00:51:05,747 --> 00:51:06,915
 <font color="gray">Moorland, mainly.</font>
 大都是沼泽地
 
-517
+518
 00:51:07,137 --> 00:51:09,137
 <font color="gray">A few farmhouses, cottages, and suchlike.</font>
 一些农舍、茅屋, 诸如此类
 
-518
+519
 00:51:09,888 --> 00:51:10,888
 <font color="gray">Nothing?</font>
 没有?
 
-519
+520
 00:51:11,008 --> 00:51:12,008
 <font color="gray">Not a trace.</font>
 一点痕迹没有
 
-520
+521
 00:51:13,579 --> 00:51:15,179
 <font color="gray">You've done a good job, Ramsay.</font>
 你做得很好, Ramsay
 
-521
+522
 00:51:15,421 --> 00:51:16,721
 <font color="gray">- I can ask for no more.</font>
 我不能要求更多了
 
-522
+523
 00:51:17,459 --> 00:51:18,898
 <font color="gray">- Pack up and go.  - Sir.</font>
 - 收拾东西走吧  - 是
 
-523
+524
 00:51:22,851 --> 00:51:24,136
 <font color="gray">See you back at base, sir.</font>
 在基地见, 头儿
 
-524
+525
 00:51:26,023 --> 00:51:27,023
 <font color="gray">You're a good chap, Ramsay.</font>
 你是个好伙计, Ramsay
 
-525
-00:51:28,096 --> 00:51:31,636
-<font color="gray">I used to think your sort</font>
-<font color="gray">only existed in black and white war films.</font>
-我以前认为你这类人只在黑白战争片里面存在
-
 526
+00:51:28,096 --> 00:51:31,636
+<font color="gray">I used to think your sort only existed</font>
+<font color="gray">in black and white war films.</font>
+我以前认为, 你这类人只在黑白战争片里面存在
+
+527
 00:51:39,888 --> 00:51:42,710
 <font color="gray">Always salutes when he can't</font>
 <font color="gray">think of anything to say...</font>
 他想不到说什么的时候总是敬礼...
 
-527
+528
 00:51:42,992 --> 00:51:43,992
 <font color="gray">Have you noticed?</font>
 你注意到了吗?
 
-528
+529
 00:51:46,476 --> 00:51:47,666
 <font color="gray">How's your face?</font>
 你的脸怎么样了?
 
-529
+530
 00:51:48,833 --> 00:51:50,920
 <font color="gray">It's a life-enriching experience.</font>
 这次的经历很增长见识
 
-530
+531
 00:51:54,198 --> 00:51:58,341
-<font color="gray">We found particle traces of the Nestene</font>
-<font color="gray">creature in the external air vents.</font>
+<font color="gray">We found particle traces of the</font>
+<font color="gray">Nestene creature in the external air vents.</font>
 我们在外部空气排放口发现了Nestene意识体的粒子痕迹
 
-531
+532
 00:51:59,953 --> 00:52:01,353
 <font color="gray">It's out there somewhere.</font>
 它还在外面某个地方
 
-532
+533
 00:52:10,721 --> 00:52:12,421
 <font color="gray">Put it in the bin, Sal.</font>
 把它放进包里吧, Sal
 
-533
+534
 00:52:19,905 --> 00:52:22,239
 <font color="gray">Memories can eat away at you, if you let them.</font>
 记忆可以吞噬你的, 如果你不防着
 
-534
+535
 00:52:23,563 --> 00:52:25,096
 <font color="gray">Come to escort me to my debriefing?</font>
-过来带我去盘问?
+是来押我去做听证?
 
-535
+536
 00:52:25,675 --> 00:52:26,675
 <font color="gray">- Yes.</font>
 - 是的
 
-536
+537
 00:52:26,857 --> 00:52:28,857
 <font color="gray">I also came to thank you.</font>
-同时我也是来感谢你?
+同时我也是来感谢你的
 
-537
+538
 00:52:29,237 --> 00:52:31,976
 <font color="gray">Thank me for being the idiot</font>
 <font color="gray">who threw excrement at the fan</font>
-感谢我这个傻子, 朝风扇扔分辨?
-
-538
-00:52:32,001 --> 00:52:33,374
-<font color="gray">or whatever it was you said?</font>
-或者你是怎么说的来着?
+感谢我这个傻子, 朝风扇扔粪便?
 
 539
+00:52:32,001 --> 00:52:33,374
+<font color="gray">or whatever it was you said?</font>
+你好像是这么说的吧?
+
+540
 00:52:33,508 --> 00:52:35,008
 <font color="gray">For being insightful..</font>
 感谢你富有洞察力
 
-540
+541
 00:52:35,190 --> 00:52:37,190
 <font color="gray">gifted, a bit of a maverick.</font>
 有天赋, 有点标新立异
 
-541
+542
 00:52:38,397 --> 00:52:40,850
 <font color="gray">You saved my life, Doctor Sal.</font>
 你救了我的命, Sal 博士
 
-542
+543
 00:52:45,795 --> 00:52:48,985
 <font color="gray">I think I'm going to enjoy working with you.</font>
 我觉得我会很乐意与你共事
 
-543
+544
 00:52:49,457 --> 00:52:51,405
 <font color="gray">- Working?  - Yes.</font>
 - 共事?   - 是得
 
-544
+545
 00:52:52,183 --> 00:52:54,308
-<font color="gray">High-handed of me, I know,/</font>
+<font color="gray">High-handed of me, I know,</font>
 我是比较专横, 我知道
 
-545
+546
 00:52:54,405 --> 00:52:57,451
-<font color="gray">but I've had you reassigned... to my team.</font>
+<font color="gray">but I've had you reassigned...</font>
+<font color="gray">to my team.</font>
 但我已经安排把你调到了...我的小组
 
-546
+547
 00:52:58,800 --> 00:53:00,626
-<font color="gray">I'm not sure I know what to think about that.</font>
+<font color="gray">I'm not sure I know</font>
+<font color="gray">what to think about that.</font>
 我不知道该怎么看待这事
 
-547
+548
 00:53:01,515 --> 00:53:02,848
 <font color="gray">You're saying I have no choice.</font>
 你是说我没有选择
 
-548
+549
 00:53:04,419 --> 00:53:05,666
 <font color="gray">Wretched, isn't it?</font>
 很不幸, 是吧?
 
-549
+550
 00:53:06,762 --> 00:53:08,324
-<font color="gray">I don't think I'm ready for your kind of work.</font>
+<font color="gray">I don't think I'm ready</font>
+<font color="gray">for your kind of work.</font>
 我不觉得我适合你那种工作
 
-550
+551
 00:53:08,833 --> 00:53:09,833
 <font color="gray">Why not?</font>
 为什么不?
 
-551
+552
 00:53:12,038 --> 00:53:14,515
 <font color="gray">I caused everything that happened here.</font>
 这里发生的事情, 全都是我造成的
 
-552
+553
 00:53:14,952 --> 00:53:16,690
 <font color="gray">- I killed all those people...</font>
 <font color="gray">- It was out there...</font>
-- 是我杀死了那些人...  - 它一直就在那里
+- 是我杀死了那些人...  - 那东西一直就在那里
 
-553
+554
 00:53:16,990 --> 00:53:18,118
 <font color="gray">waiting to happen.</font>
 就等着事情发生
 
-554
+555
 00:53:18,690 --> 00:53:19,690
 <font color="gray">You made a mistake.</font>
 你只是犯了一个错误
 
-555
+556
 00:53:21,486 --> 00:53:22,692
 <font color="gray">We all do that.</font>
 我们都会犯的
 
-556
+557
 00:53:23,350 --> 00:53:24,468
 <font color="gray">A mistake?</font>
 一个错误?
 
-557
+558
 00:53:24,661 --> 00:53:25,661
 <font color="gray">Yes.</font>
 是的
 
-558
+559
 00:53:26,716 --> 00:53:28,317
 <font color="gray">We can never know the future...</font>
 我们永远不知道未来...
 
-{'endtime': datetime.datetime(1900, 1, 1, 0, 53, 31, 372000), 'timeline': '00:53:29,134 --> 00:53:31,372', 'filename': 'Auton Trilogy - 01x01.eng+chs.srt', 'starttime': datetime.datetime(1900, 1, 1, 0, 53, 29, 134000), 'dialog': ["but we mustn't let the past haunt us.", '但我们不能让历史跑出来作祟'], 'lineno': 2914}
+560
+00:53:29,134 --> 00:53:31,372
+<font color="gray">but we mustn't let the past haunt us.</font>
+但我们不能让历史跑出来作祟
+
