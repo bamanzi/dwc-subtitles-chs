@@ -65,18 +65,21 @@ def check_non_ascii_lines(entry, last_entry):
     if 'chs' not in filename:
         return
 
-    non_ascii_line_count = 0
+    line_count_needs_trans = 0
+    line_count_non_ascii = 0
     lineno = lineno0
     
     for line in entry['dialog']:
         lineno += 1
-        if not _is_ascii(line) and not line.startswith('<'):
-            non_ascii_line_count += 1
+        if not line.startswith('<') and not line.startswith('('):
+            if _is_ascii(line):
+                line_count_needs_trans += 1
+            else:
+                line_count_non_ascii += 1
     
-    if non_ascii_line_count>1:
+    if line_count_non_ascii>1:
         print("%s:%s:WARN: Too many non-ascii lines" % (filename, lineno0))
-    elif non_ascii_line_count==0:
-        import pdb; pdb.set_trace()
+    elif (line_count_needs_trans >0) and (line_count_non_ascii==0):
         print("%s:%s:WARN: Translate missing" % (filename, lineno0))
 
     
