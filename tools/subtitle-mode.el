@@ -71,10 +71,10 @@
 ;; faces
 ;;
 (defface subtitle-num
-  '((t (:foreground "cyan" :background "dark" :bold t))) nil)
+  '((t (:inherit font-lock-keyword-face :bold t))) nil)
 
 (defface subtitle-time
-  '((t (:foreground "dark violet" :background "dark" :italic t))) nil)
+  '((t (:inherit font-lock-function-name-face :italic t))) nil)
 
 
 (define-derived-mode subtitle-mode text-mode "SRT subtitle"
@@ -83,7 +83,7 @@
 	   '((("\t" . 'underline)
 		  ("^[0-9]+$" . 'subtitle-num)
 		  ("[0-9]+:[0-9]+:[0-9]+,[0-9]+ --> [0-9]+:[0-9]+:[0-9]+,[0-9]+" . 'subtitle-time)
-		  t t nil nil)))
+          )))
 
   (set (make-local-variable 'movie-path-list) `(,(file-name-directory (buffer-file-name)))) ; movie file search path
   (set (make-local-variable 'movie-extention-list) '("mp4" "avi")) ; movie file extentions list
