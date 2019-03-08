@@ -1,286 +1,343 @@
 1
 00:29:11,407 --> 00:29:13,637
-Can we not make a run for it,
-Doctor?
+Can we not make a run for it, Doctor?
+我们就不能逃跑吗，博士？
 
 2
 00:29:13,727 --> 00:29:16,719
-No. We wouldn't reach the ladder.
+No. We wouldn't even reach the ladder.
 It's too risky.
+不，我们甚至都到不了梯子那里。这太冒险了
 
 3
 00:29:16,807 --> 00:29:18,286
 What can we do?
+我们能做什么？
 
 4
 00:29:18,367 --> 00:29:21,564
-Play for time.
-Wait for our chance. Leave it to me.
+Play for time. Wait for our chance. 
+Leave it to me.
+拖延时间，等待机会。这交给我吧
 
 5
 00:29:23,487 --> 00:29:26,559
 Excuse me? May I ask a question?
+对不起，我可以问一个问题吗？
 
 6
 00:29:27,447 --> 00:29:30,484
-Why did you submit yourself
-to freezing?
+Why did you submit yourself to freezing?
+你们为什么把自己冷冻起来？
 
 7
 00:29:31,167 --> 00:29:33,203
-You don't have to answer that.
+You don't have to answer that,
+if you don't want to
+你们不一定要回答，如果你们不想的话
 
 8
 00:29:33,367 --> 00:29:35,437
 <i>To survive.</i>
+为了生存
 
 9
 00:29:36,647 --> 00:29:41,084
 <i>Our history computer</i>
 <i>has full details of you.</i>
+我们的电脑里有对你的详细描述
 
 10
 00:29:41,247 --> 00:29:43,636
 Oh? How?
+噢？怎样的？
 
 11
 00:29:43,727 --> 00:29:46,241
 <i>We know of your intelligence.</i>
+我们知道你的智慧
 
 12
 00:29:46,327 --> 00:29:48,124
 Oh. Thank you very much.
+哦，非常感谢
 
 13
 00:29:48,887 --> 00:29:50,764
 Ah, yes. The lunar surface.
+啊，是的，月球表面
 
 14
 00:29:50,927 --> 00:29:53,964
 <i>Our machinery had stopped</i>
+我们的机器停了
 
 15
 00:29:54,047 --> 00:29:57,960
 <i>and our supply of replacements</i>
 <i>been depleted.</i>
+我们的替代品供应也耗尽了
 
 16
 00:29:58,127 --> 00:30:00,516
-So that's why
-you attacked the moonbase.
+So that's why you attacked the moonbase.
+所以你们就去攻击月球基地
 
 17
 00:30:00,687 --> 00:30:04,077
 <i>You had destroyed our first planet</i>
+你摧毁了我们的第一颗行星
 
 18
 00:30:04,167 --> 00:30:06,727
 <i>and we were becoming extinct.</i>
+我们就逐渐灭绝了
 
 19
 00:30:06,887 --> 00:30:10,163
-What does capturing us do?
+What difference does capturing us make?
 You'll still become extinct.
+把我们抓起来有什么用？你们还是会灭绝
 
 20
 00:30:10,327 --> 00:30:13,319
 <i>We will survive.</i>
+我们会活下去
 
 21
 00:30:14,127 --> 00:30:19,440
 <i>You will become the first</i>
 <i>of a new race of Cybermen.</i>
+你们会变成第一批新一代赛博人
 
 22
 00:30:19,527 --> 00:30:23,520
 <i>You will return to Earth</i>
 <i>and control it.</i>
+你们将回到地球，掌控它
 
 23
 00:30:23,727 --> 00:30:25,561
 But we're humans. We're not like you.
+但我们是人类，跟你们不一样
 
 24
 00:30:25,727 --> 00:30:28,321
 <i>You will be.</i>
+你们会一样的
 
 25
 00:30:29,167 --> 00:30:31,283
 Oh. No. Keep away!
+噢，不要，离我远点！
 
 26
 00:30:31,367 --> 00:30:32,800
 Keep away!
+离远点！
 
 27
 00:30:32,887 --> 00:30:34,286
-Keep away...!/
+Keep away...!
+离远点...
 
 28
 00:30:44,707 --> 00:30:46,698
 It's very quiet down there.
+下面非常安静
 
 29
 00:30:46,787 --> 00:30:48,584
 Yeah. Too quiet.
+是啊，太安静了
 
 30
 00:30:48,667 --> 00:30:51,818
 - Something must have happened.
 - How long they been down?
+- 肯定发生什么事情了  - 他们下去多久了？
 
 31
 00:30:51,907 --> 00:30:53,260
 About an hour.
+大概一个小时
 
 32
 00:30:53,347 --> 00:30:55,577
-That's too long. I'm going down./
+That's too long. I'm going down.
+那太长了。我下去看看
 
 33
 00:30:55,667 --> 00:30:57,976
 <i>You are a logician.</i>
+你是个逻辑学家
 
 34
 00:30:58,067 --> 00:31:01,184
 <i>Our race is also logical.</i>
+我们种族也是讲求逻辑的
 
 35
 00:31:01,347 --> 00:31:05,101
-<i>You will be the leader</i>
-<i>of the new race.</i>
+<i>You will be the leader of the new race.</i>
+你将是新种族的领袖
 
 36
 00:31:05,187 --> 00:31:07,621
-You will listen
-to my proposals, then?
+You will listen to my proposals, then?
+那，你们将会听我的提议啰？
 
 37
 00:31:07,787 --> 00:31:10,665
 <i>Yes. We will listen.</i>
+是的，我们会听
 
 38
 00:31:10,747 --> 00:31:14,183
 <i>But first you will be altered.</i>
+但首先你得被改造
 
 39
 00:31:14,587 --> 00:31:15,906
 Altered?
+改造？
 
 40
 00:31:16,067 --> 00:31:18,183
 <i>You have fear.</i>
+你有恐惧
 
 41
 00:31:18,267 --> 00:31:21,862
-<i>We will eliminate fear</i>
-<i>from your brain.</i>
+<i>We will eliminate fear from your brain.</i>
+我们将从你的大脑里移除恐惧
 
 42
 00:31:21,947 --> 00:31:25,781
 <i>Yes. You will be the first.</i>
+是的，你将是第一个
 
 43
 00:31:26,307 --> 00:31:29,663
 <i>And you will be the next.</i>
+而你将是下一个
 
 44
 00:31:29,747 --> 00:31:32,215
 No! No! Aagh!
+不，不！啊！
 
 45
 00:31:32,307 --> 00:31:35,697
 <i>You will be like us.</i>
+你将会跟我们一样
 
 46
 00:31:42,987 --> 00:31:45,820
 <i>To die is unnecessary.</i>
+死亡是不必要的
 
 47
 00:31:45,907 --> 00:31:47,738
 <i>You will be frozen</i>
+你们将会被冻结
 
 48
 00:31:47,827 --> 00:31:49,863
 <i>and placed in our tombs</i>
+置入我们的坟墓中
 
 49
 00:31:49,947 --> 00:31:53,019
 <i>until we are ready to use you.</i>
+直到我们准备好使用你们
 
 50
 00:31:53,107 --> 00:31:56,338
 <i>Your lives will be suspended.</i>
+你们的生命将会暂停
 
 51
 00:31:56,987 --> 00:31:59,626
 <i>Prepare the tombs.</i>
+准备好墓室
 
 52
 00:32:02,267 --> 00:32:05,179
 They really mean it.
 They're going to freeze us.
+他们来真的, 这是要冰冻我们
 
 53
 00:32:05,267 --> 00:32:07,098
-- Not me.
-- No, they're coming back.
+- Not me.  - No, they're coming back.
+- 对我休想  - 糟, 他们要回来了
 
 54
 00:32:14,847 --> 00:32:17,725
-Come on, you guys. Run for it!/
+Come on, you guys. Run for it!
+快点, 伙计们, 跑啊！
 
 55
 00:32:27,207 --> 00:32:28,560
 Jamie!
+Jamie!﻿
 
 56
 00:32:28,647 --> 00:32:30,399
 Look at that smoke.
+看那个烟
 
 57
 00:32:30,487 --> 00:32:31,966
 (JAMIE) Victoria!
+Victoria!﻿
 
 58
 00:32:32,047 --> 00:32:34,003
 Come on, Mr Parry. Come on, quick!
+快啊, Parry 先生, 加油, 快！
 
 59
 00:32:38,127 --> 00:32:40,402
-The Cybermen!
-They're right behind us.
+The Cybermen! They're right behind us.
+赛博人！他们就在我们后面
 
 60
 00:32:51,647 --> 00:32:53,444
-When the Doctor's up,
-close the hatch!
+As soon as the Doctor's up,
+close down the hatch!
+等博士一上来, 就关闭舱门！
 
 61
 00:32:53,607 --> 00:32:55,837
-- OK!
-- Stand by!
+- OK!  - Stand by!
+- 好！  - 准备！
 
 62
 00:32:56,847 --> 00:32:58,678
 Oh! Aagh! He's got my leg!
+噢, 啊！他抓住了我的腿！
 
 63
 00:33:00,447 --> 00:33:02,199
 Doctor, come on!
+博士, 加油！
 
 64
 00:33:02,287 --> 00:33:04,801
-- Come on!
-- It's no use.
+- Come on!  - It's no use.
+- 加油！  - 没有用
 
 65
 00:33:12,047 --> 00:33:13,719
 Jim, close the hatch!
+Jim, 关掉舱门！
 
 66
 00:33:28,487 --> 00:33:30,079
 (CALLUM) Got him!
+搞定他了！
 
 67
 00:33:30,167 --> 00:33:31,566
@@ -289,479 +346,570 @@ Jim, close the hatch!
 68
 00:33:41,807 --> 00:33:45,038
 It was horrible. It was so strong!
+太可怕了, 它这么强！
 
 69
 00:33:45,127 --> 00:33:47,118
-It's all right.
+It's all right, Victoria.
 You're all right now.
+没事了, Victoria. 你现在安全了
 
 70
 00:33:48,967 --> 00:33:51,640
-That was a near thing.
-Is anyone missing?
+That was a near thing. Is anyone missing?
+刚才太险了, 有谁失踪吗？
 
 71
 00:33:52,487 --> 00:33:55,877
-Yes. Klieg and Toberman -
-they're still down there!/
+Yes. Klieg and Toberman.
+They're still down there!
+有, Klieg 和 Toberman。他们还在下面!
 
 72
 00:34:08,247 --> 00:34:10,442
-Don't open it.
-It may be the Cybermen.
+Don't open it. It may be the Cybermen.
+别打开, 可能是赛博人
 
 73
 00:34:11,367 --> 00:34:13,676
 No. No, it's too soft.
+不, 不像, 太轻了
 
 74
 00:34:14,447 --> 00:34:17,120
 - It must be Toberman and Klieg.
-- You're crazy.
+- Are you crazy?
+- 肯定是 Toberman 和 Klieg  - 你疯了?
 
 75
 00:34:17,207 --> 00:34:20,483
-We can't leave them down there
-even if they are killers.
+You're right. We can't leave them 
+down there even if they are killers.
+你是对的。我们不能把他们扔在下面, 就算他们是杀人犯
 
 76
 00:34:20,567 --> 00:34:22,364
-They're probably frozen by now.
+They're both probably frozen solid by now.
+他们俩这会儿肯定被完全冻住了
 
 77
 00:34:23,647 --> 00:34:26,445
-You must let them up.
-They must be saved.
+You must let them up. They must be saved.
+你必须让他们上来, 必须要救他们
 
 78
 00:34:26,527 --> 00:34:29,325
 Yes, they're more dangerous
 down there than up here.
+是的, 下面比上面这里危险得多
 
 79
-00:34:29,407 --> 00:34:31,079
+00:34:29,407 --> 00:34:31,579
 What? OK. Jim?
+什么？好．Jim？
 
 80
-00:34:31,247 --> 00:34:32,566
+00:34:31,647 --> 00:34:32,566
 Right.
+马上
 
 81
 00:34:32,647 --> 00:34:34,080
 (KNOCKING)
 
 82
-00:34:34,167 --> 00:34:35,486
-Let her go.
+00:34:34,367 --> 00:34:35,686
+Okey. Let her go.
+好， 打开它
 
 83
-00:34:35,647 --> 00:34:37,365
+00:34:35,847 --> 00:34:37,565
 Excuse me, please.
+对不起，让让
 
 84
 00:34:40,167 --> 00:34:42,044
 Shut it! Shut it quick!
+关上！快关上！
 
 85
 00:34:42,127 --> 00:34:44,595
-- Where's Toberman?
-- They've got him.
+- Where's Toberman?  - They've got him.
+- Toberman 在哪里？  - 他们抓住他了
 
 86
 00:34:44,687 --> 00:34:48,202
-Still think you can form an alliance
-with the Cybermen?
+You still think you can form an alliance
+with the Cybermen, Mr Klieg?
+你还觉得你能跟赛博人结成联盟吗，Klieg先生？
 
 87
 00:34:48,287 --> 00:34:51,040
-If only I'd been
-in a stronger position to bargain.
+If only I'd been in a stronger position
+to bargain with them.
+我要是在一个更有利的位置, 就可以和他们谈条件了
 
 88
-00:34:51,207 --> 00:34:55,166
-- You must be out of your mind.
-- You're in no position to bargain.
+00:34:51,157 --> 00:34:51,966
+You must be out of your mind, Klieg
+你肯定是脑子进水了， Klieg
 
 89
-00:34:55,247 --> 00:34:57,078
-What are we going to do with them?
+00:34:52,107 --> 00:34:55,166
+You're not in any position
+to bargain with anybody right now.
+你现在没有同任何人谈条件的资本
 
 90
-00:34:57,167 --> 00:34:59,317
-I'd feel happier
-if they weren't in here.
+00:34:55,247 --> 00:34:57,078
+What are we going to do with them?
+我们打算拿他们怎么样？
 
 91
-00:34:59,407 --> 00:35:01,637
-What about the testing room?
+00:34:57,167 --> 00:34:59,317
+I'd feel much happier
+if they weren't in here.
+如果他们不在这里, 我会高兴得多
 
 92
-00:35:01,727 --> 00:35:03,160
-Good idea.
+00:34:59,407 --> 00:35:01,637
+What about the testing room?
+There's only one door. They can't get out.
+测试室怎么样？它只有一个门，他们出不去
 
 93
-00:35:03,327 --> 00:35:04,680
-- Callum!
-- Right.
+00:35:01,727 --> 00:35:03,160
+Good idea. They'll be quite safe in there.
+好主意。他们在那里面比较安全
 
 94
-00:35:04,767 --> 00:35:06,086
-Mr Klieg?
+00:35:03,327 --> 00:35:04,680
+- Callum!  - Right.
+- Callum!  - 好
 
 95
-00:35:06,167 --> 00:35:07,486
-Miss Kaftan./
+00:35:04,767 --> 00:35:06,086
+Mr Klieg?
+Klieg 先生？
 
 96
-00:35:13,527 --> 00:35:16,519
-<i>These humanoids are not like us.</i>
+00:35:06,167 --> 00:35:07,486
+Miss Kaftan.
+Kaftan 小姐
 
 97
-00:35:16,807 --> 00:35:19,560
-<i>They still have fear.</i>
+00:35:13,527 --> 00:35:16,519
+<i>These humanoids are not like us.</i>
+这些人类跟我们不一样
 
 98
-00:35:22,847 --> 00:35:26,886
-<i>Place the Cybermats on the runway.</i>
+00:35:16,807 --> 00:35:19,560
+<i>They still have fear.</i>
+他们还是有恐惧感
 
 99
-00:35:32,247 --> 00:35:35,239
-<i>Cybermats will attack.</i>
+00:35:22,847 --> 00:35:26,886
+<i>Place the Cybermats on the runway.</i>
+把赛博鼠放到轨道上
 
 100
-00:36:11,247 --> 00:36:12,600
-Oh!
+00:35:32,247 --> 00:35:35,239
+<i>Cybermats will attack.</i>
+赛博鼠将发起攻击
 
 101
-00:36:15,207 --> 00:36:16,959
-I'm on your side, remember?
+00:36:11,247 --> 00:36:12,600
+Oh!
+呵！
 
 102
-00:36:19,047 --> 00:36:21,641
-Hey, why didn't you wake me?
+00:36:15,207 --> 00:36:16,959
+I'm on your side, remember?
+我是你这边的, 记得吗？
 
 103
+00:36:19,047 --> 00:36:21,641
+Hey, why didn't you wake me?
+嘿, 你为什么不叫醒我？
+
+104
 00:36:22,127 --> 00:36:24,482
 I should have been on watch
 half an hour ago.
-
-104
-00:36:24,567 --> 00:36:27,320
-- I thought you should rest.
-- Why me?
+在半小时前就应该轮到我放哨了
 
 105
-00:36:28,087 --> 00:36:29,679
-No reason really.
+00:36:24,567 --> 00:36:27,320
+- I thought you should rest.  - Why me?
+- 我觉得你应该多休息  - 为什么是我?
 
 106
+00:36:28,087 --> 00:36:29,679
+No reason really.
+没什么原因
+
+107
 00:36:30,287 --> 00:36:32,801
 Oh, I think I know.
 Was it because I'm...?
-
-107
-00:36:32,967 --> 00:36:37,563
-Well, if you are 450 years old,
-you need a great deal of sleep.
+噢, 我想我知道了．是不是因为我...？
 
 108
-00:36:37,727 --> 00:36:40,605
-Well, that's very considerate
-of you, Victoria,
+00:36:32,967 --> 00:36:37,693
+Well, if you are 450 years old,
+you need a great deal of sleep.
+嗯, 如果你已经450岁了, 你需要睡很多觉
 
 109
+00:36:37,807 --> 00:36:40,605
+Well, that's very considerate of you, Victoria,
+啊, 你真能体谅人, Victoria
+
+110
 00:36:40,687 --> 00:36:44,680
 but, between you and me,
 I'm really quite lively actually -
-
-110
-00:36:44,767 --> 00:36:46,723
-all things being considered.
+但, 别告诉别人啊, 我其实很有生命力的 - 
 
 111
-00:36:48,527 --> 00:36:50,518
-Are you happy with us, Victoria?
+00:36:44,767 --> 00:36:46,723
+all things being considered.
+不管从哪方面来说
 
 112
-00:36:50,607 --> 00:36:52,165
-Yes, I am.
+00:36:48,527 --> 00:36:50,518
+Are you happy with us, Victoria?
+你跟我们在一起快乐吗, Victoria？
 
 113
-00:36:53,047 --> 00:36:56,403
-At least, I would be
-if my father were here.
+00:36:50,607 --> 00:36:52,165
+Yes, I am.
+嗯, 是的
 
 114
-00:36:56,487 --> 00:36:58,045
-Yes, I know.
+00:36:53,047 --> 00:36:56,403
+At least, I would be if my father were here.
+至少, 如果我父亲也在这里我会更快乐
 
 115
-00:36:59,287 --> 00:37:01,926
-I wonder what he'd think
-if he could see me now.
+00:36:56,487 --> 00:36:58,045
+Yes, I know. I know.
+是的, 我知道，我知道
 
 116
-00:37:02,087 --> 00:37:04,237
-You miss him very much, don't you?
+00:36:59,287 --> 00:37:01,926
+I wonder what he'd thought
+if he could see me now.
+我想知道, 如果他现在能见到我, 他会怎么想
 
 117
-00:37:05,207 --> 00:37:07,562
-It's only when I close my eyes.
+00:37:02,087 --> 00:37:04,237
+You miss him very much, don't you?
+你非常想念他, 是不是？
 
 118
-00:37:07,647 --> 00:37:10,161
-I can still see him standing there.
+00:37:05,207 --> 00:37:07,562
+It's only when I close my eyes...
+嗯, 每当我闭上眼睛
 
 119
+00:37:07,647 --> 00:37:10,161
+I can still see him standing there.
+我都能看到他站在那里
+
+120
 00:37:10,247 --> 00:37:13,557
 Before those horrible
 Dalek creatures came to the house.
-
-120
-00:37:14,247 --> 00:37:16,238
-He was a very kind man.
+在那些 Dalek 怪物来到我们屋之前
 
 121
-00:37:16,687 --> 00:37:18,882
-I shall never forget him. Never.
+00:37:14,247 --> 00:37:16,238
+He was a very kind man.
+他是一个很善良的人
 
 122
-00:37:19,047 --> 00:37:20,480
-No, of course you won't.
+00:37:16,687 --> 00:37:18,882
+I shall never forget him. Never.
+我永远也不会忘记他, 永远
 
 123
+00:37:19,047 --> 00:37:20,480
+No, of course you won't.
+不会, 你当然不会的
+
+124
 00:37:20,567 --> 00:37:24,196
 But, you know, the memory of him
 won't always be a sad one.
-
-124
-00:37:24,287 --> 00:37:26,084
-I think it will.
+但是, 你知道吗, 对他的记忆并不会总是悲伤的
 
 125
-00:37:26,247 --> 00:37:28,556
-You can't understand,
-being so ancient.
+00:37:24,287 --> 00:37:26,084
+I think it will.
+我觉得会的
 
 126
-00:37:28,647 --> 00:37:30,763
-- Eh?
-- I mean old.
+00:37:26,247 --> 00:37:28,556
+You can't understand, being so ancient.
+你不会明白了, 你这么古老
 
 127
-00:37:30,847 --> 00:37:33,407
-You probably
-can't remember your family.
+00:37:28,647 --> 00:37:30,763
+- Eh?  - I mean old.
+- 嗯？  - 我是说年长
 
 128
-00:37:33,487 --> 00:37:35,717
-Oh, yes, I can when I want to.
+00:37:30,847 --> 00:37:33,407
+You probably can't remember your family.
+你可能都不记得你的家庭了
 
 129
-00:37:35,887 --> 00:37:37,445
-That's the point.
+00:37:33,487 --> 00:37:35,717
+Oh, yes, I can when I want to.
+哦, 记得, 当我想要想起，就能
 
 130
+00:37:35,887 --> 00:37:37,445
+That's the point.
+就是这个意思
+
+131
 00:37:37,527 --> 00:37:40,678
 I have to really want to
 bring them back in front of my eyes.
+我只是必须得在脑海里把他们带到我的眼前
 
-131
+132
 00:37:40,767 --> 00:37:43,804
 The rest of the time
 they sleep in my mind and I forget.
-
-132
-00:37:43,967 --> 00:37:47,084
-And so will you. Oh, yes, you will.
+其它时候他们沉睡在我的意识里, 我就忘记了
 
 133
+00:37:43,967 --> 00:37:47,084
+And so will you. Oh, yes, you will.
+你也会这样的．噢, 是的, 你也会的
+
+134
 00:37:47,167 --> 00:37:50,557
 You'll find there's so much else
 to think about, to remember.
-
-134
-00:37:51,527 --> 00:37:54,963
-Our lives are different
-to anybody else's.
+你会发现有太多其它的事情要去考虑, 去记忆
 
 135
-00:37:55,047 --> 00:37:56,924
-That's the exciting thing.
+00:37:51,527 --> 00:37:54,963
+Our lives are different to anybody else's.
+我们每个人的生命跟其他任何一个人都不同的
 
 136
+00:37:55,047 --> 00:37:56,924
+That's the exciting thing.
+这是最让人激动的地方
+
+137
 00:37:57,007 --> 00:38:00,716
 There's nobody in the universe
 can do what we're doing.
-
-137
-00:38:03,447 --> 00:38:05,039
-You must get some sleep,
+宇宙中没有谁能做我们在做的事情
 
 138
-00:38:05,127 --> 00:38:08,403
-and let this poor old man
-stay awake.
+00:38:03,447 --> 00:38:05,039
+You must get some sleep,
+你必须去睡一会儿了
 
 139
-00:38:42,447 --> 00:38:45,245
-Jamie, Victoria, Callum, wake up!
+00:38:05,127 --> 00:38:08,403
+and let this poor old man stay awake.
+让这个可怜的老人醒着吧
 
 140
-00:38:45,327 --> 00:38:47,158
-- Wake up!
-- What is it?
+00:38:42,447 --> 00:38:45,245
+Jamie, Victoria, Callum, wake up!
+Jamie, Victoria, Callum, 醒醒！
 
 141
-00:38:58,527 --> 00:39:00,279
-Callum. Callum.
+00:38:45,327 --> 00:38:47,158
+- Wake up!  - What is it?
+- 醒醒！  - 怎么了？
 
 142
-00:39:00,367 --> 00:39:02,437
-(VICTORIA) Those terrible things.
+00:38:58,527 --> 00:39:00,279
+Callum. Callum.
+Callum. Callum.﻿
 
 143
-00:39:02,527 --> 00:39:04,836
-Don't move, Callum. Don't move.
+00:39:00,367 --> 00:39:02,437
+(VICTORIA) Those terrible things.
+这些可怕的东西
 
 144
-00:39:11,867 --> 00:39:13,903
-Get back to the controls,
-all of you.
+00:39:02,527 --> 00:39:04,836
+Don't move, Callum. Don't move.
+别动, Callum, 别动
 
 145
-00:39:13,987 --> 00:39:17,218
-Don't make any sudden movements.
-Parry, wake up.
+00:39:11,867 --> 00:39:13,903
+Get back to the controls, all of you.
+回到开关那边去, 你们全部
 
 146
-00:39:19,347 --> 00:39:21,815
-Don't panic.
-Come back with us. Steady.
+00:39:13,987 --> 00:39:17,218
+Steady. Don't make any sudden movements.
+Parry, wake up.
+慢点，别陡然乱动。Parry, 醒醒
 
 147
+00:39:19,347 --> 00:39:21,815
+Don't panic. Come back with us. Steady.
+别惊慌, 到我们这边来, 慢点
+
+148
 00:39:21,987 --> 00:39:24,706
 We'll all go in the other room
 and lock them out.
-
-148
-00:39:25,787 --> 00:39:27,106
-Aagh!
+我们全部去另外那个房间, 把它们关在外面
 
 149
-00:39:29,907 --> 00:39:31,625
-Let's get out of here.
+00:39:25,787 --> 00:39:27,106
+Aagh!
+啊！
 
 150
-00:39:31,707 --> 00:39:33,299
-The main doors.
+00:39:29,907 --> 00:39:31,625
+Let's get out of here.
+我们离开这里
 
 151
-00:39:34,267 --> 00:39:35,586
-No!
+00:39:31,707 --> 00:39:33,299
+The main doors.
+大门
 
 152
-00:39:35,747 --> 00:39:38,261
-Oh! Oh, Doctor, we're trapped!
+00:39:34,267 --> 00:39:35,586
+No!
+不要！
 
 153
-00:39:38,347 --> 00:39:40,417
-Back against the controls,
-everybody.
+00:39:35,747 --> 00:39:38,261
+Oh! Oh, Doctor, we're trapped!
+噢！噢, 博士, 我们被困住了！
 
 154
-00:39:43,347 --> 00:39:44,700
-Here.
+00:39:38,347 --> 00:39:40,417
+Back against the controls, everybody.
+背靠控制台, 所有人
 
 155
-00:39:44,867 --> 00:39:46,539
-Give me a hand, quick.
+00:39:43,347 --> 00:39:44,700
+Here.
+这里
 
 156
-00:39:46,627 --> 00:39:48,902
-Lay this down on the ground.
-Come on!
+00:39:44,867 --> 00:39:46,539
+Give me a hand, quick.
+帮我一把, 快
 
 157
-00:39:48,987 --> 00:39:50,466
-- Doctor?
-- Come on!
+00:39:46,627 --> 00:39:48,902
+Lay this down on the ground. Come on!
+把这个铺设在地板上, 快点
 
 158
-00:39:51,667 --> 00:39:53,498
-Let's blast the filthy things!
+00:39:48,987 --> 00:39:50,466
+- Doctor?  - Come on!
+- 博士？  - 快点！
 
 159
-00:39:54,767 --> 00:39:58,282
-You're wasting your time. There are
-too many of them! Come back!
+00:39:51,667 --> 00:39:53,498
+Let's blast the filthy things!
+我们轰掉这些丑恶的东西！
 
 160
-00:40:10,367 --> 00:40:13,518
-- There you are.
-- What are those creatures?
+00:39:54,767 --> 00:39:58,282
+You're wasting your time.
+There are too many of them! Come back!
+你是在浪费自己的时间．它们太多了, 回来！
 
 161
-00:40:13,687 --> 00:40:15,040
-Well, they're...
+00:40:10,367 --> 00:40:13,518
+- There you are. You see?
+- What are those creatures?
+- 这下好了，看到了吧？ - 那些怪物是什么？
 
 162
-00:40:15,447 --> 00:40:18,484
-They're a form of metallic life.
+00:40:13,687 --> 00:40:15,040
+Well, they're...
+嗯, 它们是...
 
 163
-00:40:18,567 --> 00:40:21,639
-They home
-on human brainwaves and attack.
+00:40:15,447 --> 00:40:18,484
+They're a form of metallic life.
+它们是一种金属生命形式
 
 164
-00:40:22,927 --> 00:40:24,246
-Urgh!
+00:40:18,567 --> 00:40:21,639
+They home on human brainwaves, and attack.
+它们朝人类脑电波前进, 实施攻击
 
 165
-00:40:27,167 --> 00:40:28,885
-Are they safe now?
+00:40:22,927 --> 00:40:24,246
+Urgh!
+呃！
 
 166
+00:40:27,167 --> 00:40:28,885
+Are they safe now?
+现在它们没危险了吗？
+
+167
 00:40:29,047 --> 00:40:32,642
 Quite safe now. The power cable
 generated an electrical field
-
-167
-00:40:32,727 --> 00:40:34,877
-that confused
-their tiny metal minds.
+现在相当安全了．这根电缆产生了一个电场
 
 168
-00:40:35,047 --> 00:40:37,163
-They've had a complete
-<i>metal</i> breakdown.
+00:40:32,727 --> 00:40:34,877
+that confused their tiny metal minds.
+搅乱了它们那金属的小脑袋
 
 169
-00:40:37,247 --> 00:40:39,238
-- Ooh.
-- I'm so sorry, Jamie.
+00:40:35,047 --> 00:40:37,163
+You might say that they've had
+a complete <i>metal</i> breakdown.
+你可以说它们完全是“金属崩溃”了
+<i>(博士在这里借用了 metal breakdown </i>
+<i>与 mental breakdown (精神崩溃)发音相近的特点)</i>
 
 170
-00:40:39,407 --> 00:40:42,922
-What about Klieg and Kaftan?
-They've probably been attacked.
+00:40:37,247 --> 00:40:39,238
+- Ooh.  - I'm so sorry, Jamie.
+- 哦   - 真的很抱歉, Jamie
 
 171
+00:40:39,407 --> 00:40:42,922
+What about Klieg and Kaftan?
+They've probably been attacked as well.
+Klieg 和 Kaften 怎么样了？他们很可能也一样被攻击了
+
+172
 00:40:43,087 --> 00:40:46,045
 - The testing room.
 - Come on. Mind your feet.
-
-172
-00:40:49,327 --> 00:40:51,158
-Most ingenious, Doctor.
+- 测试室  - 快点, 小心脚下
 
 173
-00:40:51,247 --> 00:40:53,761
-Now let's see
-what you can do against this.
+00:40:49,327 --> 00:40:51,158
+Most ingenious, Doctor.
+真是聪明啊, 博士
 
 174
+00:40:51,247 --> 00:40:53,761
+Now let's see what you can do against this.
+现在我们来看看你怎么对付这个
+
+175
 00:40:55,967 --> 00:40:57,685
 Watch out, Doctor!
+小心, 博士！
 
