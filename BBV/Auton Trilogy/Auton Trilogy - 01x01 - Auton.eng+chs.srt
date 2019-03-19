@@ -1131,7 +1131,7 @@ level of equipment we've got here.
 00:20:12,317 --> 00:20:14,792
 What is it they say about a bad workman?
 对于一个拙劣的工人他们怎么说的? 
-<i>(英语俗语 A bad workman quarrels with his tools
+<i>(英语俗语 A bad workman quarrels with his tools
 技术拙劣的工人抱怨自己的工具)</i>
 
 215
@@ -1319,7 +1319,7 @@ Gifted, highly qualified?
 00:22:42,787 --> 00:22:46,091
 A working class comprehensive
 school girl who ended up...
-出身于工人阶级综合学校, 却最终...
+出身于工人阶级综合学校, 结果却...
 
 249
 00:22:46,116 --> 00:22:49,576
@@ -1701,7 +1701,7 @@ What is going on?
 00:27:57,521 --> 00:28:02,274
 Isn't it? I am right in thinking
 you blame me for all this, aren't I?
-无关吗? 但我理解正确的话, 你责怪我造成这一切, 是吧? 
+不关吗? 但我理解正确的话, 你责怪是我造成这一切, 是吧? 
 
 321
 00:28:02,299 --> 00:28:04,281
@@ -1764,7 +1764,7 @@ I suppose you didn't know about this, either.
 00:29:42,021 --> 00:29:45,121
 We're probably looking at
 top-grade signal shielding here.
-我们在这里看见的可能是最高级的信号屏蔽装置
+我们在这里看见的, 可能是最高级的信号屏蔽装置
 
 333
 00:29:45,993 --> 00:29:47,003
@@ -1774,7 +1774,7 @@ How do we get it open?
 334
 00:29:50,812 --> 00:29:54,333
 The question is, do we want to get it open?
-问题其实是：我们想要打开它吗? 
+问题其实是: 我们想要打开它吗? 
 
 335
 00:30:00,376 --> 00:30:01,635
@@ -1815,7 +1815,7 @@ We have to know what we're dealing with.
 00:30:39,304 --> 00:30:43,105
 Ramsay, I'd like some of your men here,
 just to be on the safe side.
-Ramsau, 我希望你的一些人到这里来, 为了安全起见
+Ramsay, 我希望你的一些人到这里来, 为了安全起见
 
 343
 00:30:43,353 --> 00:30:45,169
@@ -1840,7 +1840,7 @@ Report to Storage bay one immediately.
 347
 00:31:45,520 --> 00:31:46,742
 What are you expecting?
-你在期待什么? 
+会有什么东西出现? 
 
 348
 00:31:48,512 --> 00:31:50,512
@@ -1931,7 +1931,8 @@ Open fire!
 
 365
 00:35:58,239 --> 00:36:00,157
-We're not going to get out of this alive, are we?
+We're not going to
+get out of this alive, are we?
 我们不会活着离开这里, 是吗? 
 
 366
@@ -1991,14 +1992,15 @@ He's still alive.
 
 377
 00:37:19,089 --> 00:37:21,264
-They must have copied him. That's what they do.
+They must have copied him.
+That's what they do.
 它们肯定复制了他, 它们会这个
 
 378
 00:37:21,963 --> 00:37:25,027
 They're using the real Winslet
 as a source of information,
-它们把真正的 Winslet 用作了信息来源
+它们把真正的 Winslet 用作了信息源
 
 379
 00:37:26,010 --> 00:37:27,097
@@ -2008,7 +2010,7 @@ like a template.
 380
 00:37:27,341 --> 00:37:28,341
 Lockwood tell you this?
-这个是 Lockwood 告诉你的? 
+这是 Lockwood 告诉你的? 
 
 381
 00:37:30,151 --> 00:37:31,501
@@ -2028,7 +2030,7 @@ Move it.
 384
 00:37:54,803 --> 00:37:56,203
 This is the only way to the exit.
-这是出去的唯一途径
+这是到出口的唯一途径
 
 385
 00:37:56,227 --> 00:37:57,376
@@ -2042,7 +2044,8 @@ And what is this thing?
 
 387
 00:38:01,637 --> 00:38:03,566
-I don't know, but I've got a good feeling about it.
+I don't know, but I've got
+a good feeling about it.
 我不知道, 但我对它有种很好的感觉
 
 388
@@ -2073,7 +2076,7 @@ Hold it, hold it. Couldn't you stop them?
 393
 00:38:25,343 --> 00:38:26,947
 - Not a chance.  - Have they taken the exits?
-- 一点机会都没有  - 它们已经拿下出口了么? 
+- 一点机会都没有  - 它们已经占据出口了么? 
 
 394
 00:38:26,972 --> 00:38:27,972
@@ -2454,7 +2457,7 @@ Of course, then he'll kill me.
 468
 00:44:57,854 --> 00:44:59,299
 Then what will you do?
-那你要怎么办? 
+然后你要做什么? 
 
 469
 00:45:00,275 --> 00:45:02,751
@@ -2494,10 +2497,10 @@ Sal 博士
 476
 00:45:56,582 --> 00:45:58,639
 - Come with me.  - We're not leaving him.
-- 等我来  - 我们不会撇下他
+- 跟我来  - 我们不能撇下他
 
 477
-00:45:58,664 --> 00:46:00,107
+00:45:58,664 --> 00:46:00,407
 Yes, you are, if you want to save him.
 是的, 你会的, 如果你们想救他的话
 
@@ -2534,12 +2537,12 @@ UNIT 的怪物
 484
 00:48:17,796 --> 00:48:19,133
 You cannot resist us.
-你们没法抵抗我们
+你没法抗拒我们
 
 485
 00:48:20,188 --> 00:48:23,216
 You can fight, but you can't win.
-你们可以战斗, 但你们赢不了
+你可以抵抗, 但你赢不了
 
 486
 00:48:23,823 --> 00:48:24,823
@@ -2744,9 +2747,9 @@ You're a good chap, Ramsay.
 
 526
 00:51:28,096 --> 00:51:31,636
-I used to think your sort
-only existed in black and white war films.
-我以前认为你这类人只在黑白战争片里面存在
+I used to think your sort only existed
+in black and white war films.
+我以前认为, 你这类人只在黑白战争片里面存在
 
 527
 00:51:39,888 --> 00:51:42,710
@@ -2771,8 +2774,8 @@ It's a life-enriching experience.
 
 531
 00:51:54,198 --> 00:51:58,341
-We found particle traces of the Nestene
-creature in the external air vents.
+We found particle traces of the 
+Nestene creature in the external air vents.
 我们在外部空气排放口发现了Nestene意识体的粒子痕迹
 
 532
@@ -2793,7 +2796,7 @@ Memories can eat away at you, if you let them.
 535
 00:52:23,563 --> 00:52:25,096
 Come to escort me to my debriefing?
-过来带我去盘问? 
+是来押我去做听证? 
 
 536
 00:52:25,675 --> 00:52:26,675
@@ -2803,18 +2806,18 @@ Come to escort me to my debriefing?
 537
 00:52:26,857 --> 00:52:28,857
 I also came to thank you.
-同时我也是来感谢你? 
+同时我也是来感谢你的
 
 538
 00:52:29,237 --> 00:52:31,976
 Thank me for being the idiot
 who threw excrement at the fan
-感谢我这个傻子, 朝风扇扔分辨? 
+感谢我这个傻子, 朝风扇扔粪便? 
 
 539
 00:52:32,001 --> 00:52:33,374
 or whatever it was you said?
-或者你是怎么说的来着? 
+你好像是这么说的吧? 
 
 540
 00:52:33,508 --> 00:52:35,008
@@ -2843,17 +2846,19 @@ I think I'm going to enjoy working with you.
 
 545
 00:52:52,183 --> 00:52:54,308
-High-handed of me, I know,/
+High-handed of me, I know,
 我是比较专横, 我知道
 
 546
 00:52:54,405 --> 00:52:57,451
-but I've had you reassigned... to my team.
+but I've had you reassigned...
+to my team.
 但我已经安排把你调到了...我的小组
 
 547
 00:52:58,800 --> 00:53:00,626
-I'm not sure I know what to think about that.
+I'm not sure I know
+what to think about that.
 我不知道该怎么看待这事
 
 548
@@ -2868,7 +2873,8 @@ Wretched, isn't it?
 
 550
 00:53:06,762 --> 00:53:08,324
-I don't think I'm ready for your kind of work.
+I don't think I'm ready
+for your kind of work.
 我不觉得我适合你那种工作
 
 551
@@ -2885,7 +2891,7 @@ I caused everything that happened here.
 00:53:14,952 --> 00:53:16,690
 - I killed all those people...
 - It was out there...
-- 是我杀死了那些人...  - 它一直就在那里
+- 是我杀死了那些人...  - 那东西一直就在那里
 
 554
 00:53:16,990 --> 00:53:18,118
