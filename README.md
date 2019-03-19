@@ -1,36 +1,49 @@
 
+# 《神秘博士》老版(1963-1989)中文字幕
+
+主要针对第二位博士(04x03 - 06x06), 因为第一位博士的剧集已经全部由 [@CW_ClassicWho字幕组](http://weibo.com/u/5173795657 ) 完成了, 
+而第五／六／七任博士的剧集也已经被 [@iCelery军团](http://weibo.com/u/5230144369 ) 完成, iCelery 目前还在做三任的剧集
+
+由于精力和能力有限, 这里大部分字幕针对的不是原视频, 而是Whopix粉丝剪辑版(https://whoflix.wordpress.com/doctor-who/ )．
+个人觉得这些剪辑版本剧情紧凑一些, 同时字幕工作量小了不少, 另外又可以把原视频的完整字幕留给 @CW_ClassicWho字幕组 或者 @iCelery军团 这些正规军以后来做
+
+另外这里也有少量除了第二任博士之外剧集的字幕, 比如BBV的 Auton Trilogy, Reeltime的 Downtime 等
+
 ## 1st Doctor
 
-- [X] 02x01 Planet of the Giants (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623895.xml
-- [X] 03x02 Mission to the Unknown 
-- [X] 04x02 The Tenth Planet (whopix fan-edit)  https://secure.assrt.net/xml/sub/623/623775.xml
+- [x] 02x01 Planet of the Giants (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623895.xml
+- [x] 03x02 Mission to the Unknown 
+- [x] 04x02 The Tenth Planet (whopix fan-edit)  https://secure.assrt.net/xml/sub/623/623775.xml
 
 
 ## 2nd Doctor
 
-- [X] 04x03 The Power of the Daleks https://secure.assrt.net/xml/sub/622/622123.xml
+- [x] 04x03 The Power of the Daleks https://secure.assrt.net/xml/sub/622/622123.xml
 
-    - [X] whopix fan-edit https://secure.assrt.net/xml/sub/623/623454.xml
+    - [x] whopix fan-edit https://secure.assrt.net/xml/sub/623/623454.xml
 
-- [X] 04x06 The Moonbase (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623564.xml
-- [X] 04x09 The Evil of the Daleks https://secure.assrt.net/xml/sub/623/623426.xml (updated)
-- [ ] 05x01 The Tomb of the Cybermen
-- [X] 05x03 The Ice Warriros https://secure.assrt.net/xml/sub/623/623231.xml
-- [X] 05x05 The Web of Fear (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623663.xml
-- [ ] 06x03 The Invasion 
-- [ ] 06x06 The Seeds of Death (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623945.xml
+- [x] 04x06 The Moonbase (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623564.xml
+- [x] 04x09 The Evil of the Daleks https://secure.assrt.net/xml/sub/623/623426.xml (updated)
+- [x] 05x01 The Tomb of the Cybermen  https://secure.assrt.net/xml/sub/624/624128.xml
+- [x] 05x03 The Ice Warriros https://secure.assrt.net/xml/sub/623/623231.xml
+- [ ] 05x04 The Enemy of the World
+- [x] 05x05 The Web of Fear (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623663.xml
+- [-] 06x02 The Mind Robber (whopix fan-edit)
+- [ ] 06x03 The Invasion (of the Cybermen)
+- [x] 06x06 The Seeds of Death (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623945.xml
 
 
 ## 3rd Doctor
 
+- [-] 09x01 Day of the Daleks (whopix fan-edit)
 - [-] 10x03 Frontier in Space (whopix fan-edit) 
 
-    - [X] ep1 - ep3: https://secure.assrt.net/xml/sub/623/623486.xml
+    - [x] ep1 - ep3: https://secure.assrt.net/xml/sub/623/623486.xml
     - [ ] ep4 - ep6
-    - [X] whopix fan-edit: https://secure.assrt.net/xml/sub/623/623602.xml
+    - [x] whopix fan-edit: https://secure.assrt.net/xml/sub/623/623602.xml
 
 - [ ] 10x04 Planet of the Daleks
-- [X] 11x01 The Time Warrior: https://secure.assrt.net/xml/sub/623/623538.xml (updated)
+- [x] 11x01 The Time Warrior: https://secure.assrt.net/xml/sub/623/623538.xml (updated)
 
 
 ## 4th Doctor
@@ -55,11 +68,11 @@
 
 ### Reeltime
 
-- [X] Downtime  https://secure.assrt.net/xml/sub/623/623825.xml
+- [x] Downtime  https://secure.assrt.net/xml/sub/623/623825.xml
 
 ### BBV
 
 - [-] Auton Trilogy (BBV)
 
-    - [X] Episode 1: https://secure.assrt.net/xml/sub/624/624016.xml
-    - [ ] Episode 2: Sentinel
+    - [x] Episode 1: https://secure.assrt.net/xml/sub/624/624016.xml
+    - [x] Episode 2: Sentinel  https://secure.assrt.net/xml/sub/624/624218.xml
