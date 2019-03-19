@@ -1,0 +1,880 @@
+1
+00:03:52,736 --> 00:03:54,613
+Doctor?
+博士?
+
+2
+00:03:55,416 --> 00:03:57,407
+Zoe!
+Zoe!﻿
+
+3
+00:03:58,216 --> 00:03:59,649
+What's happened?
+发生了什么？
+
+4
+00:03:59,816 --> 00:04:03,525
+<i>(ZOE'S VOICE ECHOES) Jamie! Over here!</i>
+Jamie! 这边!
+
+5
+00:04:03,696 --> 00:04:06,051
+Zoe? Is that you?
+Zoe? 是你吗?
+
+6
+00:04:06,416 --> 00:04:09,625
+Redcoats! Am I back in my own time?
+红衣兵？我又回到我自己的时代了吗?
+<i>(红衣兵： 英国军人的俗称, 因其军服为红色）
+
+7
+00:04:09,796 --> 00:04:11,673
+If I am, they'll shoot me down.
+如果是, 他们会射杀我的
+
+8
+00:04:11,756 --> 00:04:15,032
+Jamie, Doctor, help!
+Somebody help me. I'm trapped!
+Jamie, 博士, 救我！谁来帮帮我, 我被困住了!
+
+9
+00:04:17,476 --> 00:04:20,707
+(CREAKING)
+
+10
+00:04:34,856 --> 00:04:37,609
+(SCREAMS)
+
+11
+00:04:41,636 --> 00:04:45,106
+(MAN) Good. Excellent.
+好, 非常好
+
+12
+00:04:45,276 --> 00:04:49,508
+(SPEAKS SOFTLY)
+And now the good Doctor, where is he?
+现在该我们的好博士了, 他在哪儿？
+
+13
+00:04:50,796 --> 00:04:53,151
+Jamie, Zoe... Jamie...
+Jamie, Zoe... Jamie...﻿
+
+14
+00:04:53,316 --> 00:04:55,955
+Fight... I must fight.
+抗争...我必须抗争
+
+15
+00:04:56,116 --> 00:04:58,107
+Fight!
+抗争!
+
+16
+00:05:09,036 --> 00:05:12,028
+Where in time and space am I?
+我这是在什么时间什么地方？
+
+17
+00:05:13,636 --> 00:05:15,627
+Where are the others?
+其他人在哪儿？
+
+18
+00:05:15,796 --> 00:05:18,594
+Jamie? Zoe?
+Jamie? Zoe?﻿
+
+19
+00:05:18,756 --> 00:05:22,192
+- <i>(JAMIE SHOUTS) Doctor! Hello!</i>
+- Jamie, is that you?
+- 博士！哈罗！  - Jamie, 是你吗？
+
+20
+00:05:22,356 --> 00:05:24,870
+<i>(ZOE SHOUTS) Jamie! Doctor!</i>
+Jamie! 博士!
+
+21
+00:05:25,036 --> 00:05:26,469
+Zoe?
+Zoe?﻿
+
+22
+00:05:26,636 --> 00:05:30,345
+<i>(ZOE) Doctor, I'm trapped. Help me, please!</i>
+博士, 我被困住了．帮帮我, 拜托！
+
+23
+00:05:30,516 --> 00:05:35,670
+All right, Zoe. Stay where you are
+and I'll see if I can find you.
+没事, Zoe．待在原地别动, 我看看能否找到你
+
+24
+00:06:05,636 --> 00:06:08,025
+(LOUD WHISPER) Jamie! Zoe!
+Jamie! Zoe!﻿
+
+25
+00:06:08,196 --> 00:06:10,585
+(MAN SPEAKS LILLIPUTIAN)
+
+26
+00:06:10,756 --> 00:06:13,190
+(LILLIPUTIAN)
+
+27
+00:06:14,836 --> 00:06:17,430
+(SPEAKS BROBDINGNAGIAN)
+
+28
+00:06:17,596 --> 00:06:20,474
+(BROBDINGNAGIAN)
+
+29
+00:06:20,636 --> 00:06:24,311
+- (DOCTOR) Parlez-vous fran�ais?
+- (SPEAKS LATIN)
+
+30
+00:06:24,476 --> 00:06:26,944
+(SPEAKS BROBDINGNAGIAN)
+
+31
+00:06:27,116 --> 00:06:29,676
+Do you speak English, by any chance?
+你会说英文吗, 也许有可能？
+
+32
+00:06:29,836 --> 00:06:35,547
+Sir, my birth was of honest parents
+in an island called England.
+先生, 我就出生在一个叫做英格兰的岛上
+
+33
+00:06:35,716 --> 00:06:38,549
+Good gracious me!
+Why didn't you say so at once?
+真是的！你为什么一开始不就说呢？
+
+34
+00:06:38,716 --> 00:06:43,073
+I've spoken as many languages
+as I have the least smattering of.
+我会说很多语言, 虽然都是一知半解的
+
+35
+00:06:43,236 --> 00:06:46,672
+Well, let's start
+at the beginning again, shall we?
+好, 那我们从头开始, 行吗？
+
+36
+00:06:46,836 --> 00:06:48,269
+What did you say to me?
+你刚才跟我说什么？
+
+37
+00:06:48,436 --> 00:06:53,385
+I said, ''Beware, false traitor,
+highwayman, robber, pickpocket, murderer!''
+我说：＂小心了, 叛国贼, 劫匪, 强盗, 扒手, 杀人犯！＂
+
+38
+00:06:53,556 --> 00:06:57,026
+You must be making some mistake.
+Highwayman, indeed!
+你肯定是搞错了．＂劫匪＂,真的啊fixme
+
+39
+00:06:57,196 --> 00:06:59,152
+When were you last in England?
+你最后在英格兰是什么时候？
+
+40
+00:06:59,316 --> 00:07:04,993
+- We set sail from Bristol on May 4th 1699.
+- We?
+- 我们1699年5月4日从布里斯托尔出航的  - 我们？
+
+41
+00:07:05,156 --> 00:07:09,115
+What became of my companions,
+I cannot tell. They were all lost.
+我的伙伴后来怎么样了, 我不知道．他们都不见了
+
+42
+00:07:09,276 --> 00:07:12,393
+My dear sir, you and I are in the same boat.
+亲爱的的先生, 你跟我在同一条船上
+<i>(意指处境相同)</i>
+
+43
+00:07:12,556 --> 00:07:15,866
+- You have a stout ship?
+- No, no. Unfortunately, no.
+- 你有一条船？  - 没没，很不幸, 没有
+
+44
+00:07:16,036 --> 00:07:19,506
+Would you take that pop gun away?
+It does unsettle me so.
+你能把那把枪拿开吗？它让我心里很惴惴不安
+
+45
+00:07:19,676 --> 00:07:23,032
+Well, sir, if you can assure me
+you are no traitor.
+行, 先生, 不过你得证明你不是叛国贼
+
+46
+00:07:23,196 --> 00:07:27,428
+How can I be a traitor
+when I don't even know where I am?
+我怎么会是叛国贼, 我连我在什么地方都不知道？
+
+47
+00:07:27,596 --> 00:07:28,995
+Where am I?
+我在什么地方？
+
+48
+00:07:29,156 --> 00:07:31,147
+I cannot tell.
+我不清楚
+
+49
+00:07:31,316 --> 00:07:34,353
+That makes two of us, doesn't it?
+咱俩难兄难弟了, 是吗？
+
+50
+00:07:34,516 --> 00:07:37,952
+Thank you.
+谢谢你
+
+51
+00:07:38,116 --> 00:07:41,392
+Listen, I've lost my companions, too.
+听着, 我也失去了我的伙伴
+
+52
+00:07:41,556 --> 00:07:44,150
+Two of them, a boy and a girl.
+Jamie and Zoe.
+有两个, 一个小伙一个姑娘, Jamie 和 Zoe
+
+53
+00:07:44,316 --> 00:07:46,955
+- Have you seen them?   - Alas, no.
+- 你看过他们吗？  - 可惜, 没有
+
+54
+00:07:47,116 --> 00:07:51,951
+I've got to find them. Perhaps you could help me
+if you know your way around.
+我必须找到他们．也许你可以帮帮我, 你对这里应该比较熟悉
+
+55
+00:07:52,116 --> 00:07:54,755
+- It is not permitted.   - Who says so?
+- 这是不允许的  - 谁说的？
+
+56
+00:07:54,916 --> 00:07:57,146
+- The Master.   - The Master?
+- 主人  - 主人?
+
+57
+00:07:57,316 --> 00:08:02,549
+He has articles of impeachment against you 
+for treason and other capital crimes.
+他有指控你犯有叛国罪和其它重罪的檄文
+
+58
+00:08:02,716 --> 00:08:04,593
+Treason again? Really?
+又是叛国罪？真的吗？
+
+59
+00:08:04,756 --> 00:08:08,146
+I leave to your prudence
+what measures you will take,
+你将采取什么措施，我就让你自己谨慎决定了
+
+60
+00:08:08,316 --> 00:08:10,671
+and now, sir, to avoid suspicion...
+而现在, 先生, 为了避免嫌疑...
+
+61
+00:08:11,556 --> 00:08:14,992
+..I must retire 
+in as private a manner as I came.
+..我必须悄悄地走了，正如我悄悄地来
+
+62
+00:08:16,196 --> 00:08:18,756
+But, sir, don't go. I wanted to ask you...
+但是, 先生, 不要走．我想要让你...
+
+63
+00:08:23,876 --> 00:08:26,549
+A hallucination?
+一个幻觉？
+
+64
+00:08:27,716 --> 00:08:29,707
+Ah, well.
+啊, 好了
+
+65
+00:08:30,796 --> 00:08:32,468
+Jamie!
+Jamie!﻿
+
+66
+00:08:33,196 --> 00:08:34,515
+Zoe!
+Zoe!﻿
+
+67
+00:08:34,676 --> 00:08:36,667
+- Cooee!  - Is that you, Zoe?
+- 喂!   - 是你吗, Zoe?
+
+68
+00:08:36,836 --> 00:08:39,794
+- Cooee!  - Who's that? Who are you?
+- 喂!  - 是谁？你是谁？ 
+
+69
+00:08:41,636 --> 00:08:43,672
+Well, well, well!
+好, 好, 好！
+
+70
+00:08:43,836 --> 00:08:45,349
+How do you do?
+你好吗？
+
+71
+00:08:45,836 --> 00:08:50,034
+- Why did the chicken cross the road?
+- This isn't the time for riddles.
+- 小鸡为什么要过马路？  - 现在不是猜谜语的时间
+
+72
+00:08:50,196 --> 00:08:53,506
+You must answer.
+Why did the chicken cross the road?
+你必须回答, 小鸡为什么要过马路？
+
+73
+00:08:53,676 --> 00:08:57,085
+To get to the other side,
+or so I've always been led to believe.
+要去另一边呗, 我总是这么觉得的
+
+74
+00:08:57,150 --> 00:08:58,120
+Now would you mind to tell me...
+现在你是否介意告诉我...
+
+75
+00:08:58,156 --> 00:09:01,674
+Which is it correct, the yolk of an egg is white
+or the yolk of an egg are white?
+哪句是对的：＂蛋黄是白的＂和＂蛋黄都是白的＂
+
+76
+00:09:01,836 --> 00:09:03,670
+- Neither. It's yellow.
+- How many beans make five?
+- 都不对, 它是黄的  - 多少个豆子是五?
+
+77
+00:09:03,750 --> 00:09:05,836
+Where was Moses when the light went out?
+灯光都灭了之后摩西在哪儿？
+<i>(这里light有光和灯的双关意思, 同时借用了先知摩西带希伯来人走出黑暗的典故)</i>
+
+78
+00:09:05,896 --> 00:09:10,032
+Adam and Eve and Pinch Me went to the river
+to bathe. Adam and Eve got drowned.
+亚当, 夏娃和掐我去河边洗澡, 亚当和夏娃淹死了
+
+79
+00:09:10,096 --> 00:09:12,507
+- Who do you think was saved? 
+- Well, Pinch Me, obviously.
+- 你觉得谁还活着  - 掐我
+
+80
+00:09:12,676 --> 00:09:16,032
+Agh! Stop it. Don't do that.
+啊！停下, 别这样
+
+81
+00:09:17,116 --> 00:09:20,074
+Now it's my turn to ask you questions.
+现在轮到我来问你们问题了
+
+82
+00:09:20,236 --> 00:09:22,704
+- What can you make of a sword?  - Huh?
+- 你们能用一把剑(sword)制造什么?   - 哈?
+
+83
+00:09:22,876 --> 00:09:24,707
+What can you make of it?
+你们能用它制作什么？
+
+84
+00:09:24,876 --> 00:09:28,027
+- Rearrange it. Think!
+- This is your last chance.
+- 重新排列, 快想！  - 这是你们最后的机会了
+
+85
+00:09:28,196 --> 00:09:30,426
+S-W-O-R-D. Rearrange!
+S-W-O-R-D. 重新排列
+
+86
+00:09:31,436 --> 00:09:33,427
+S-W-O-R-D...
+S-W-O-R-D...﻿
+
+87
+00:09:33,596 --> 00:09:36,668
+Rearranged it makes...W-O-R-D-S.  Words!
+重新排列得到...W-O-R-D-S. Words (词语)!
+
+88
+00:09:36,836 --> 00:09:38,269
+(THEY CHEER)
+
+89
+00:09:42,676 --> 00:09:44,792
+It's a dictionary. Words.
+这是个词典．单词
+
+90
+00:09:44,956 --> 00:09:46,833
+You have answered correctly.
+你们答对了
+
+91
+00:09:46,996 --> 00:09:49,112
+- You may be suitable.  - Suitable?
+- 看来你比较合适  - 合适？
+
+92
+00:09:49,276 --> 00:09:51,744
+- I do hope so.
+- Come on. It's teatime.
+- 我希望如此  - 快点, 吃点心时间到了
+
+93
+00:09:51,916 --> 00:09:54,384
+- I'm hungry!  - Race you home!
+- 我饿了!  - 冲回家里去！
+
+94
+00:10:02,356 --> 00:10:04,267
+Words...
+Words (词语)...
+
+95
+00:10:04,436 --> 00:10:07,746
+- <i>(JAMIE SHOUTS) Doctor! Over here!</i>
+- Jamie?
+- 博士！这里！  - Jamie?
+
+96
+00:10:07,916 --> 00:10:09,554
+Jamie? Is that you?
+Jamie? 是你吗？
+
+97
+00:10:09,716 --> 00:10:12,230
+Jamie...
+Jamie...﻿
+
+98
+00:10:14,756 --> 00:10:17,668
+It's just another trick!
+又是一个陷阱！
+
+99
+00:10:17,836 --> 00:10:19,269
+Hello...
+你好...
+
+100
+00:10:19,436 --> 00:10:21,427
+What's this?
+这是什么？
+
+101
+00:10:23,116 --> 00:10:25,107
+A safe?
+一个保险箱？
+
+102
+00:10:26,676 --> 00:10:28,667
+Locked, of course.
+锁着的, 当然了
+
+103
+00:10:28,836 --> 00:10:31,555
+And a wishing well. Hmm...
+还有个许愿井．唔...
+
+104
+00:10:31,716 --> 00:10:33,707
+I wish...
+我希望...
+
+105
+00:10:33,876 --> 00:10:36,265
+I wish I believed in wishing wells (!)
+我希望我相信许愿井!
+<i>(翻译不出这个梗,见谅!)</i>
+
+106
+00:10:36,436 --> 00:10:38,711
+(FAINT, ECHOING VOICES)
+
+107
+00:10:38,876 --> 00:10:41,436
+<i>(SMUG LAUGHTER)</i>
+
+108
+00:10:41,596 --> 00:10:44,906
+(ECHOING VOICES)
+
+109
+00:10:50,356 --> 00:10:52,347
+(DOCTOR) Hello...
+哈罗...
+
+110
+00:10:53,476 --> 00:10:57,754
+This is a puzzle. That's what it is.
+这是一个谜题, fixme
+
+111
+00:11:01,476 --> 00:11:03,467
+Oh, yes...
+噢, 是的...
+
+112
+00:11:03,636 --> 00:11:07,709
+I'm beginning to recognise this.
+It's sort of picture writing.
+我开始有点明白了, 这是一种图片文字
+
+113
+00:11:07,876 --> 00:11:10,265
+Let me see now...
+我们现在来看看...
+
+114
+00:11:10,436 --> 00:11:11,949
+Jamie...
+Jamie...﻿
+
+115
+00:11:12,116 --> 00:11:13,515
+mist...
+mist...﻿
+
+116
+00:11:13,676 --> 00:11:17,066
+Mist without the M or the T.
+I-S. Is.
+Mist 去掉 M 和 T, 剩下 I-S, 就是 is
+
+117
+00:11:17,236 --> 00:11:19,830
+Hand without the H. And.
+Hand 去掉 H, 就是 and
+
+118
+00:11:19,996 --> 00:11:22,635
+So we have ''Jamie...is...
+于是我们得到 ＂Jamie...is...
+
+119
+00:11:22,796 --> 00:11:26,630
+''safe...and...well.''
+"safe...and...well." (Jamie 安然无恙)
+
+120
+00:11:28,756 --> 00:11:31,953
+Oh! Now I've lost his face.
+哦, 现在他没了面孔
+
+121
+00:11:33,116 --> 00:11:35,107
+Hello...
+哈罗...
+
+122
+00:11:35,276 --> 00:11:37,153
+Oh, I see...
+哦, 我明白了...
+
+123
+00:11:38,356 --> 00:11:42,269
+I'm supposed to provide the face, am I?
+看来得由我来提供面孔, 是吧?
+
+124
+00:11:42,436 --> 00:11:45,348
+Very well. Now, then...
+很好, 既然这样...
+
+125
+00:11:45,516 --> 00:11:48,588
+Yes. There we are.
+是的, 这样子看看
+
+126
+00:11:52,076 --> 00:11:55,227
+Yes, that's his nose all right.
+对, 这是他的鼻子
+
+127
+00:11:56,956 --> 00:11:58,833
+And...
+和...
+
+128
+00:11:59,956 --> 00:12:02,595
+Yes...
+对...
+
+129
+00:12:03,836 --> 00:12:06,066
+Oh, no! I've done it wrong!
+噢, 不！我搞错了!
+
+130
+00:12:07,236 --> 00:12:09,227
+Doctor! (LAUGHS)
+博士!
+
+131
+00:12:09,396 --> 00:12:11,193
+I'm glad to see you again!
+很高兴又见到你了！
+
+132
+00:12:11,356 --> 00:12:14,712
+- But... But you're not Jamie.   - Eh?
+- 但是...但是你不是 Jamie  - 嗯?
+
+133
+00:12:14,876 --> 00:12:16,468
+<i>(ECHOING LAUGHTER)</i>
+
+134
+00:12:16,636 --> 00:12:18,354
+What are you on about?
+你在说什么？
+
+135
+00:12:18,516 --> 00:12:22,031
+Well, your face, it's different.
+啊, 是你的脸, 变了
+
+136
+00:12:22,196 --> 00:12:25,393
+- What do you mean, different?
+- Look in the mirror.
+- 你什么意思, 变了？  - 镜子里看看
+
+137
+00:12:26,836 --> 00:12:30,749
+- That's not my face!
+- It's the one you're stuck with for now.
+- 那不是我的脸！  - 你目前就只能凑合这个样子了
+
+138
+00:12:30,916 --> 00:12:33,829
+- Why should I suddenly be different?
+- 我怎么会突然变成这样了
+
+139
+00:12:33,996 --> 00:12:36,770
+It's a nasty trick played by the person 
+who brought us here.
+这是个恶作剧, 肯定是那个带我们到这里的人干的
+
+140
+00:12:36,836 --> 00:12:38,227
+<i>(ZOE SHOUTS) Jamie, help!</i>
+Jamie, 救我!
+
+141
+00:12:38,396 --> 00:12:41,547
+- Zoe, where are you?
+- <i>I'm trapped. You must help me!</i>
+- Zoe, 你在哪儿？  - 我被困住了, 你得帮我!
+
+142
+00:12:41,716 --> 00:12:43,752
+It sounds as if she's over there.
+听起来她好像在那边
+
+143
+00:12:43,876 --> 00:12:47,630
+- Zoe!
+- <i>I can't get out. Help me, please!</i>
+- Zoe!  - 我出不来．帮我一下, 拜托
+
+144
+00:12:48,716 --> 00:12:53,744
+- There's no handle. There's no lock either.
+- Don't you see? It's not a door at all.
+- 没有把手, 也没有锁  - 你没看出来吗, 这完全不是一道门
+
+145
+00:12:53,916 --> 00:12:58,944
+- It's a brick wall with a door painted on it.
+- How do you open a door that isn't a door?
+- 这是一堵墙, 上面画了一个门  - 那你怎么能打开一道不是门的门？
+
+146
+00:12:59,116 --> 00:13:03,155
+- Let me think.
+- What we want is a battering ram.
+- 让我想想  - 我们需要一个破城槌
+
+147
+00:13:03,316 --> 00:13:08,948
+- When is a door not a door?
+- This is no time for riddles.
+- 什么时候门不是门？  - 没时间猜谜语了
+
+148
+00:13:09,116 --> 00:13:11,869
+When is a door not a door, hmm?
+什么时候门不是门, 嗯?
+
+149
+00:13:12,036 --> 00:13:14,470
+- When it's ajar!  - Eh?
+- 它是半开着的!  - 嗯?
+
+150
+00:13:14,636 --> 00:13:16,592
+<i>(ZOE) Get me out!</i>
+拉我出去！
+
+151
+00:13:16,756 --> 00:13:19,111
+<i>Get me out!</i>
+拉我出去！
+
+152
+00:13:19,276 --> 00:13:21,506
+(JAMIE LAUGHS) Oh, Zoe!
+噢, Zoe!
+
+153
+00:13:21,676 --> 00:13:23,906
+- (LAUGHING)  - (ZOE) Get me out!
+拉我出去!
+
+154
+00:13:24,076 --> 00:13:26,590
+Not unless you promise to be a good girl!
+除非你答应做个好姑娘！
+
+155
+00:13:26,756 --> 00:13:28,348
+(ZOE) Oh, you...!
+噢, 你...!
+
+156
+00:13:28,516 --> 00:13:30,552
+Go on. Get her out.
+继续, 拉她出来
+
+157
+00:13:31,716 --> 00:13:33,786
+Come on, then. Up you come.
+加油, 来啊, 起来吧你
+
+158
+00:13:33,956 --> 00:13:36,675
+One, two, three...
+一, 二, 三....
+
+159
+00:13:37,796 --> 00:13:41,584
+I thought I was never going to get out of...
+Who are you?
+我还以为我再也出不去了...你是谁？
+
+160
+00:13:41,756 --> 00:13:46,876
+Eh? Och, don't you start, Zoe.
+I've had enough from the Doctor. I'm me.
+嗯? 噢, 别说这个, Zoe．我受够博士了．是我
+
+161
+00:13:47,036 --> 00:13:48,628
+Jamie!
+Jamie!﻿
+
+162
+00:13:49,476 --> 00:13:54,072
+- Why does he look so different?
+- Well, I'll... I'll tell you later.
+- 他怎么看起来完全不一样了  - 这个, 我...我一会儿再告诉你
+
+163
+00:13:54,236 --> 00:13:58,787
+- It's time we got out of this wood.
+- Aye. This place gives me the creeps.
+- 我们该出去了fixme  - 是, 这个地方让我起鸡皮疙瘩
+
+164
+00:13:58,956 --> 00:14:01,595
+You go on ahead, Jamie.
+你先走, Jamie
+
+165
+00:14:02,836 --> 00:14:06,351
+- Is that really Jamie?
+- Well... Well, yes.
+- 那真是 Jamie 吗？  - 呃...嗯, 是的
+
+166
+00:14:06,516 --> 00:14:10,111
+He couldn't just have changed like that.
+It's impossible.
+他不可能变成那样, 这是不可能的
+
+167
+00:14:10,276 --> 00:14:15,270
+I think we may be in a place
+where nothing is impossible. Come on.
+我想我们到了一个一切皆有可能的地方, 来吧
+
+168
+00:14:17,316 --> 00:14:19,989
+(PANTING)
+
