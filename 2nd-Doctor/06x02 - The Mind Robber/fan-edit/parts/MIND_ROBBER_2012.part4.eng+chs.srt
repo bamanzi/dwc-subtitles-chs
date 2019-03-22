@@ -169,7 +169,7 @@ If you give me away this time, I'm finished.
 00:28:16,587 --> 00:28:20,705
 I was ready with the hazard of my life
 to defend his person.
-我准备以我的生命的危险来保护他的人fixme
+我准备冒着我生命的危险来保护他的人
 
 32
 00:28:20,867 --> 00:28:23,859
@@ -456,7 +456,7 @@ given by some person in authority.
 85
 00:32:37,327 --> 00:32:39,602
 - The Master?  - It is possible.
-- 主人？  - 有可能
+- 大师？  - 有可能
 
 86
 00:32:39,767 --> 00:32:41,758
@@ -554,7 +554,7 @@ Lucky I climbed up the cliff up here.
 00:33:38,847 --> 00:33:41,884
 The Doctor's made up his mind
 He is going to see the Master.
-博士已经下定决心了，他打算去见主人
+博士已经下定决心了，他打算去见大师
 
 103
 00:33:42,047 --> 00:33:45,244
@@ -577,24 +577,24 @@ I think you should not be here.
 00:33:50,487 --> 00:33:54,719
 The Master makes rules for his kingdom.
 It is unwise for you to disobey.
-主人为他的王国制定规则．你不服从是不明智的
+大师为他的王国制定规则．你不服从是不明智的
 
 107
 00:33:54,887 --> 00:33:56,798
 So you think we shouldn't see the Master?
-所以你觉得我们不应该去见主人？
+所以你觉得我们不应该去见大师？
 
 108
 00:33:56,967 --> 00:34:01,085
 If you'll follow my advice,
 swear a peace with the Master and his kingdom.
-如果你们听我的建议，与主人和这个王国和平共处
+如果你们听我的建议，与大师和这个王国和平共处
 
 109
 00:34:01,247 --> 00:34:05,957
-Find a place to lodge, stay
+Find yourself a place to lodge, stay quietly
 with the expectation that things would mend.
-找一个地方安顿下来, fixme
+自己找一个地方安顿下来, 安静地等着事情好转
 
 110
 00:34:06,127 --> 00:34:11,076
@@ -613,34 +613,33 @@ Your servant.
 为你服务
 
 113
-00:34:22,047 --> 00:34:24,800
+00:34:22,047 --> 00:34:25,800
 - You're not going to do as he says?
-- No.
-- 你不打算按他说的做吧？  - 不
+- No. Of course not. I said I'd think it over.
+- 你不打算按他说的做吧？  - 不，当然不。我说过我会考虑
 
 114
-00:34:24,967 --> 00:34:28,846
-I said I'd think it over.
-I've thought it over. We're staying.
-我说过我会考虑．我现在已经考虑过了．我们留下来
+00:34:25,967 --> 00:34:28,846
+I've thought it over. We're staying on and fighting on.
+我现在已经考虑过了．我们会留下来继续斗争
 
 115
-00:34:29,007 --> 00:34:34,320
-But we won't know where the next attack
-will come from. Medusa was bad enough.
-但我们不知道下一次攻击会从哪里来．美杜莎就够糟的了
+00:34:29,007 --> 00:34:32,320
+But we'll be fighting in the dark. We won't know 
+where the next attack will come from.
+但我们是在两眼一抹黑地斗争，都不知道下一次攻击会从哪里来
 
 116
-00:34:34,487 --> 00:34:37,763
-Ah, Medusa.
-I read about that on this machine.
-啊, 美杜莎．我在这个机器上读到过这个
+00:34:32,487 --> 00:34:37,763
+- Medusa was bad enough.
+- Ah, Medusa. Yes, I read about that on this machine here.
+- 美杜莎就够糟的了  - 啊, 美杜莎．是的，我在这个机器上读到过这个
 
 117
 00:34:37,927 --> 00:34:41,636
-- Wee words keep coming out of it.
+- Wee words keep coming out of it all the time
 - Let's have a look.
-- 词一个个地从那里面吐出来  - 我们看看
+- 一直有单词挨个地从那里面出来  - 我们看看
 
 118
 00:34:41,807 --> 00:34:43,479
@@ -654,9 +653,9 @@ There. Look.
 
 120
 00:34:49,247 --> 00:34:52,398
-- I'm beginning to understand.
+- I think I'm beginning to understand.
 - I wish I was.
-- 我开始明白了  - 真期望我也能
+- 我想我开始明白了  - 真期望我也能
 
 121
 00:34:52,567 --> 00:34:58,005
@@ -679,18 +678,17 @@ that's fiction.
 00:35:04,807 --> 00:35:09,642
 If we'd have fallen into the Master's trap,
 we would have become fiction.
-如果我们落入了主人的圈套, 我们就会变成虚构故事
+如果我们落入了大师的圈套, 我们就会变成虚构故事
 
 125
-00:35:09,807 --> 00:35:13,766
-- That's horrible. Let's get out of here.
-- Zoe, don't go...
-- 这太可怕了, 我们离开这里吧  - Zoe, 不要走
+00:35:09,807 --> 00:35:13,066
+That's horrible. Come on. Let's get out of here before too late.
+这太可怕了, 快点，我们离开这里，不然来不及了
 
 126
-00:35:13,927 --> 00:35:15,280
-No!
-不！
+00:35:13,127 --> 00:35:15,280
+Zoe, don't go... No! Don't go through there.
+Zoe，不要走...不！不要走那里
 
 127
 00:35:15,447 --> 00:35:17,438
@@ -711,30 +709,32 @@ No!
 130
 00:35:24,087 --> 00:35:27,318
 - What are we going to do?
-- Gulliver walked through.
-- 我们要做什么？  - 格列弗走了过去fixme
+- I mean that's funny. Gulliver walked through there.
+- 我们要做什么？  - 这很奇怪，格列弗就从那里过去的
 
 131
 00:35:27,487 --> 00:35:31,878
-- Gulliver is not real.
+- Gulliver is not real. We are.
 - They're coming! Where can we hide?
-- 格列弗不是真的  - 他们来了！我们能躲在哪儿？
+- 格列弗不是真实的，我们是  - 他们来了！我们能躲在哪儿？
 
 132
-00:35:32,047 --> 00:35:34,880
-- No need to hide.  - If they find us...
-- 没必要躲起来  - 如果他们找到我们
+00:35:32,047 --> 00:35:34,750
+- No need to hide.
+- Why not? If they find us...
+- 没必要躲起来  - 为什么不？如果他们找到我们...
 
 133
-00:35:35,047 --> 00:35:37,038
-- Let them find us.  - Just wait?
-- 让他们来找  - 就这么等着？
+00:35:34,847 --> 00:35:37,038
+- Let them find us.
+- You mean just stand here and wait?
+- 让他们来找  - 你是说就站在这里等着？
 
 134
 00:35:37,207 --> 00:35:40,563
-Yes. We'll ask for an interview
-with the Master.
-是的．我们会要求跟主人会面
+Yes. Why not? We'll ask for 
+an interview with the Master.
+是的, 为什么不？我们会要求跟大师会面
 
 135
 00:35:40,727 --> 00:35:43,560
@@ -745,14 +745,14 @@ with the Master.
 136
 00:35:43,727 --> 00:35:47,686
 - (BUZZING AND BEEPING)
-- Are you looking for us?
-你是在找我们吗？
+- Are you looking for us, by any chance?
+你们是在找我们吗，有可能吗？
 
 137
 00:35:55,247 --> 00:35:59,001
 We... We demand an interview
 with the Master!
-我们要求跟主人见面
+我们...我们要求跟大师见面！
 
 138
 00:36:05,247 --> 00:36:11,243
@@ -774,7 +774,7 @@ Won't you walk into my parlour?
 141
 00:36:19,767 --> 00:36:23,282
 Said the spider to the fly.
-说得蜘蛛都会飞了fixme
+说得蜘蛛都会飞了
 
 142
 00:36:25,927 --> 00:36:28,043
@@ -802,21 +802,22 @@ Oh! Oh, Doctor. This is a great pleasure.
 噢！噢, 博士, 真是不胜之喜啊
 
 147
-00:36:57,967 --> 00:37:01,880
+00:36:57,967 --> 00:37:00,780
 And your two young companions.
-Let me see... Oh, yes.
-还有你的两位年轻同伴．让我看看...噢, 是的
+Now let me see... 
+还有你的两位年轻同伴．现在让我看看...
 
 148
-00:37:02,047 --> 00:37:04,880
-Zoe and Jamie. I have your dossiers here.
-Zoe 和 Jamie, 我这里有你们的档案
+00:37:00,847 --> 00:37:04,880
+Oh, yes, yes. Zoe and Jamie. 
+I have your dossiers here in front of me.
+噢, 是的是的，Zoe 和 Jamie, 我面前这里有你们的档案
 
 149
 00:37:05,047 --> 00:37:07,845
-- You're well organised.
-- Yes. We have to be.
-- 你还组织得挺好  - 是的, 必须的
+- You appear to be well organised.
+- Yes. Indeed. We have to be.
+- 看起来你还组织得挺好  - 是的, 的确。我们必须的
 
 150
 00:37:08,007 --> 00:37:11,966
@@ -826,20 +827,20 @@ requires enormous attention to detail.
 
 151
 00:37:12,127 --> 00:37:17,440
-- It's a responsible position, but rewarding.
+- It's a responsible position, but very rewarding.
 - Responsible, eh?
-- 这是一个责任重大的位置, 但回报不错  - 责任重大, 嗯？
+- 这是一个责任重大的位置, 但回报很不错  - 责任重大, 嗯？
 
 152
 00:37:17,607 --> 00:37:21,680
 - To someone else?
 - Not to someone. Another power.
-- 对其他人的责任吗？  - 不是对其他人．是对其它力量
+- 对其他人的责任吗？  - 不是对其他人．是对另一种力量
 
 153
 00:37:21,847 --> 00:37:24,884
 Higher than any you could begin to imagine.
-高过你们所能想象的力量
+高过你们任何人所能想象
 
 154
 00:37:25,047 --> 00:37:28,323
@@ -849,8 +850,9 @@ on the great skill
 
 155
 00:37:28,487 --> 00:37:31,365
-in which you tackled your examination.
-这都通过对你的测试展现出来了
+in which you tackled
+in various stages of your examination.
+在不同阶段的测试中展现出来的那些技巧
 
 156
 00:37:31,527 --> 00:37:34,439
@@ -859,9 +861,9 @@ What is the purpose of all these tests?
 
 157
 00:37:34,607 --> 00:37:39,761
-When I was first brought here myself,
+You know, when I was first brought here myself,
 I was as bewildered as you are.
-我当初被带到这里来的时候, 我跟你一样不知所措
+你要知道，我当初被带到这里来的时候, 我跟你一样不知所措
 
 158
 00:37:39,927 --> 00:37:44,762
@@ -931,9 +933,9 @@ That's why I was selected to work here.
 
 170
 00:38:28,167 --> 00:38:32,046
-- You're in charge of all this?
+- You're the one that is in charge of all this?
 - In one sense, yes.
-- 你掌控所有这些？  - 某种程度上, 是的
+- 你就是那个掌控所有这些的人？  - 某种程度上, 是的
 
 171
 00:38:32,207 --> 00:38:35,597
@@ -969,24 +971,25 @@ You... You must excuse me for one moment.
 177
 00:39:08,007 --> 00:39:10,999
 - Let's get out of here.
-- It gives me the creeps.
-- 我们离开这里吧  - 都让我起鸡皮疙瘩了
+- Yes. It gives me the creeps.
+- 我们离开这里吧  - 是的，都让我起鸡皮疙瘩了
 
 178
 00:39:11,167 --> 00:39:16,082
 - No. I need to find out more.
-- Zoe and me will find a way out.
-- 不, 我需要查明更多情况  - Zoe 和我去找一条路出去
+- You keep him talking. Zoe and me will find another way out.
+- 不, 我需要查明更多情况  -你跟他一直说话，Zoe 和我另外找一条路出去
 
 179
 00:39:16,247 --> 00:39:18,477
-I think we should all stick together.
-我觉得我们应该团结在一起
+No, Jamie. I think we'd be safer
+if we all stick together.
+不，Jamie. 我觉得我们团结在一起的话更安全点
 
 180
 00:39:18,647 --> 00:39:24,040
 - (HUMMING STOPS)
-- Sorry to have kept you. Where were we?
+- Sorry to have kept you waiting. Where were we?
 - 抱歉让你们久等了．刚才说到哪儿了？
 
 181
@@ -1010,12 +1013,13 @@ I have everything I could possibly want.
 00:39:36,567 --> 00:39:40,685
 This vast library
 with all the known works of fiction.
-一个巨大的宝库, 收藏了所有已知的虚构故事
+这个巨大的宝库, 收藏了所有已知的虚构故事
 
 185
 00:39:40,847 --> 00:39:44,556
-All the masterpieces written by Earthmen.
-所有被地球人撰写的杰作
+All the masterpieces written by Earthmen
+since the beginning of time.
+自从有史以来，所有地球人撰写的杰作
 
 186
 00:39:49,287 --> 00:39:54,600
@@ -1039,7 +1043,7 @@ has the power to create fiction.
 00:40:04,767 --> 00:40:09,238
 This is one field in which
 the intelligence I serve cannot compete.
-这正是我说服务的智慧生命所不能匹敌的一个领域
+这个领域正是我所服务的智慧生命所不能匹敌的
 
 190
 00:40:09,407 --> 00:40:15,039
@@ -1083,12 +1087,12 @@ And you want me...
 00:40:37,567 --> 00:40:42,561
 To take over this unique situation.
 To take my place.
-接管这个独特的位置, 取代我
+接管这个独特的地方, 接替我的位置
 
 198
 00:40:43,767 --> 00:40:46,486
 - I refuse!  - (HUMMING)
-- 我拒绝！
+我拒绝！
 
 199
 00:40:50,527 --> 00:40:53,280
@@ -1102,147 +1106,143 @@ There is no alternative.
 你到这里服侍我们, 没有别的选择
 
 201
-00:40:59,887 --> 00:41:04,722
-- We've got to find a way out.
+00:40:59,887 --> 00:41:03,022
+- We've got to find a way out here.
 - There must be a door somewhere.
 - 我们必须找到一条出路  - 肯定某个地方有道门
 
 202
-00:41:04,887 --> 00:41:07,082
-Jamie!
-Jamie!﻿
+00:41:03,087 --> 00:41:05,682
+- Look, if we can get the Doctor away...
+- Jamie!
+- 如果我们能把博士弄走...  - Jamie!
 
 203
-00:41:07,247 --> 00:41:08,919
-Oh!
-噢！
-
-204
 00:41:09,087 --> 00:41:11,396
 No. Back this way!
 不, 回这边来！
 
-205
+204
 00:41:11,567 --> 00:41:14,035
 Resistance is useless.
 抵抗是无用的！
 
-206
+205
 00:41:14,207 --> 00:41:18,439
 Submit your will for the sake
 of the greater good. It has been decided.
 为了更大的利益, 投降吧．这已经决定了
 
-207
+206
 00:41:18,607 --> 00:41:21,883
 I refuse.
 I shall make that decision for myself.
-我拒绝．我将自己决定
+我拒绝．我将自己为自己做出决定
 
-208
+207
 00:41:22,047 --> 00:41:29,681
 - (HUMMING STOPS)
-- There is only one decision open to you.
-只有一个决定对你是开放的
+- You will find there is only one decision open to you.
+你会发现，只有一个决定对你是开放的
 
-209
+208
 00:41:29,847 --> 00:41:31,599
 (HUMMING)
 
-210
+209
 00:41:31,767 --> 00:41:36,079
 Mission accomplished.
 Procedure as arranged.
 任务完成．按计划过程处理
 
-211
+210
 00:41:36,247 --> 00:41:41,765
 - What does that mean?
 - The latest chapter of the serial story.
 - 那是什么意思？  - 连载故事的最后一章
 
-212
+211
 00:41:41,927 --> 00:41:44,395
 I'll read you the last sentence.
-我将宣读你最后的语句
+我给你读读最后的一句
 
-213
+212
 00:41:44,567 --> 00:41:47,479
 ''Zoe and Jamie attempted to escape,
 "Zoe 和 Jamie 试图逃走
 
-214
+213
 00:41:47,647 --> 00:41:51,037
 ''but in making through the library,
 "但在试图通过图书馆的途中
 
-215
+214
 00:41:51,207 --> 00:41:55,758
 ''they were ambushed by a party of guards
 and overpowered.''
 "他们被一队警卫伏击, 被打败了＂
 
-216
+215
 00:41:55,927 --> 00:41:57,838
 Oh, no! Jamie! Zoe!
 噢, 不！Jamie! Zoe!
 
-217
+216
 00:41:58,007 --> 00:42:01,238
 Are you prepared to co-operate now?
 你现在准备好合作了吗？
 
-218
+217
 00:42:01,407 --> 00:42:06,083
 Your life in return for theirs?
 Is that a bargain?
 用你的命换他们的命？这样不值吗？
 
-219
+218
 00:42:06,247 --> 00:42:08,158
 (CHUCKLES)
 
-220
+219
 00:42:08,327 --> 00:42:09,726
 Look.
 看！
 
-221
+220
 00:42:11,807 --> 00:42:13,604
 (BUZZING)
 
-222
+221
 00:42:13,767 --> 00:42:15,758
 (THEY GROAN)
 
-223
+222
 00:42:17,647 --> 00:42:21,720
 - Oh, Jamie, my eyes!
 - I can't see. Where are you?
 - 哦, Jamie, 我的眼睛!  - 我看不见了, 你在哪儿？
 
-224
+223
 00:42:23,407 --> 00:42:26,240
 Quick, back. Get away.
 快, 回去, 赶紧走
 
-225
+224
 00:42:26,407 --> 00:42:28,477
 Zoe, here, quick.
 Zoe, 这边, 快
 
-226
+225
 00:42:30,007 --> 00:42:32,521
 No. It's a book! Back out again.
 不, 这是本书！再退出去
 
-227
+226
 00:42:32,687 --> 00:42:37,078
 - Oh! Oh, push!
 - Open up! It's closing!
 - 噢！噢, 推！  - 打开！它要关上了
 
-228
+227
 00:42:37,247 --> 00:42:39,841
 - No!  - Aagh!
 - 不!  - 啊！

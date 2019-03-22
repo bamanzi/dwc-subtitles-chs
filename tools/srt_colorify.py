@@ -17,7 +17,8 @@ def print_entry(entry):
     lineno0 = entry['lineno']
     non_ascii_line_count = 0
     if len(entry['dialog'])==1:
-        print("%s:%d:WARN: one line dialog (no translation?)" % (filename, lineno0+2), file=sys.stderr)
+        if not entry['dialog'][0].startswith('('):
+            print("%s:%d:WARN: one line dialog (no translation?)" % (filename, lineno0+2), file=sys.stderr)
     else:
         for line in entry['dialog']:
             if not _is_ascii(line) and not line.startswith('<'):

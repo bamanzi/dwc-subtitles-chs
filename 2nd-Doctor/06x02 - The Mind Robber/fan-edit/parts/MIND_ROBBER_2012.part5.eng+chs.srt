@@ -1,14 +1,14 @@
 1
 00:42:41,804 --> 00:42:47,322
-- What have you done?!
-- They're no longer human, just fictional.
-- 你做了什么？  - 他们不再是人了，都是虚构的
+- What have you done to them?!
+- They're no longer human beings, just fictional characters
+- 你把对他们做了什么？  - 他们不再是人了，成虚构人物了
 
 2
-00:42:47,484 --> 00:42:51,159
-If you consent to take my place here,
+00:42:47,484 --> 00:42:51,259
+Now, if you consent to take my place here,
 they can be released.
-如果你同意接替我的位置，他们就可以被释放
+现在，如果你同意接替我这里的位置，就可以释放他们
 
 3
 00:42:51,324 --> 00:42:55,203
@@ -81,7 +81,7 @@ but we will play your game a little longer.
 00:44:08,304 --> 00:44:11,740
 - Am I glad to see you.
 - The Master said you'd been...
-- 见到你真高兴  - 主人说你已经被...
+- 见到你真高兴  - 大师说你已经被...
 
 17
 00:44:11,904 --> 00:44:13,576

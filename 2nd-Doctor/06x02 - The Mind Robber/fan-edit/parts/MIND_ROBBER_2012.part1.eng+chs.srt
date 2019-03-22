@@ -41,7 +41,7 @@ There we are.
 00:00:42,767 --> 00:00:47,238
 - Have you done it?
 - It's stopped the fluid links from vaporising.
-- 你搞定了？  - fixme
+- 你搞定了？  - 流体连接器不能再蒸发了
 
 9
 00:00:47,407 --> 00:00:51,639

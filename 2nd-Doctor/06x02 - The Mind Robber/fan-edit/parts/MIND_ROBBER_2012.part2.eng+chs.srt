@@ -190,7 +190,7 @@ highwayman, robber, pickpocket, murderer!''
 00:06:53,556 --> 00:06:57,026
 You must be making some mistake.
 Highwayman, indeed!
-你肯定是搞错了．＂劫匪＂,真的啊fixme
+你肯定是搞错了．＂劫匪＂,真的啊
 
 39
 00:06:57,196 --> 00:06:59,152
@@ -289,7 +289,7 @@ if you know your way around.
 56
 00:07:54,916 --> 00:07:57,146
 - The Master.   - The Master?
-- 主人  - 主人?
+- 大师  - 大师?
 
 57
 00:07:57,316 --> 00:08:02,549

@@ -4,10 +4,11 @@
 主要针对第二位博士(04x03 - 06x06), 因为第一位博士的剧集已经全部由 [@CW_ClassicWho字幕组](http://weibo.com/u/5173795657 ) 完成了, 
 而第五／六／七任博士的剧集也已经被 [@iCelery军团](http://weibo.com/u/5230144369 ) 完成, iCelery 目前还在做三任的剧集
 
+另外这里也有少量除了其它几任博士剧集的字幕, 以及一些衍生剧集的字幕, 比如BBV的 Auton Trilogy, Reeltime的 Downtime 等
+
 由于精力和能力有限, 这里大部分字幕针对的不是原视频, 而是Whopix粉丝剪辑版(https://whoflix.wordpress.com/doctor-who/ )．
 个人觉得这些剪辑版本剧情紧凑一些, 同时字幕工作量小了不少, 另外又可以把原视频的完整字幕留给 @CW_ClassicWho字幕组 或者 @iCelery军团 这些正规军以后来做
 
-另外这里也有少量除了第二任博士之外剧集的字幕, 比如BBV的 Auton Trilogy, Reeltime的 Downtime 等
 
 ## 1st Doctor
 
@@ -18,14 +19,14 @@
 
 ## 2nd Doctor
 
-- [x] 04x03 The Power of the Daleks https://secure.assrt.net/xml/sub/622/622123.xml
+- [x] 04x03 The Power of the Daleks (full) https://secure.assrt.net/xml/sub/622/622123.xml
 
     - [x] whopix fan-edit https://secure.assrt.net/xml/sub/623/623454.xml
 
 - [x] 04x06 The Moonbase (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623564.xml
-- [x] 04x09 The Evil of the Daleks https://secure.assrt.net/xml/sub/623/623426.xml (updated)
-- [x] 05x01 The Tomb of the Cybermen  https://secure.assrt.net/xml/sub/624/624128.xml
-- [x] 05x03 The Ice Warriros https://secure.assrt.net/xml/sub/623/623231.xml
+- [x] 04x09 The Evil of the Daleks (full) https://secure.assrt.net/xml/sub/623/623426.xml (updated)
+- [x] 05x01 The Tomb of the Cybermen (whopix fan-edit)  https://secure.assrt.net/xml/sub/624/624128.xml
+- [x] 05x03 The Ice Warriros (full) https://secure.assrt.net/xml/sub/623/623231.xml
 - [ ] 05x04 The Enemy of the World
 - [x] 05x05 The Web of Fear (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623663.xml
 - [-] 06x02 The Mind Robber (whopix fan-edit)
@@ -48,7 +49,8 @@
 
 ## 4th Doctor
 
-- [-] 12x04 Genesis of the Daleks (whopix fan edit version)
+- [-] 12x04 Genesis of the Daleks (whopix fan-edit)
+- [ ] 14x06 The Talons of Weng-Chiang (whopix fan-edit)
 - [ ] 15x06 The Invasion of Time
 - [-] Shada (1992) 
 - [ ] Shada (2017)

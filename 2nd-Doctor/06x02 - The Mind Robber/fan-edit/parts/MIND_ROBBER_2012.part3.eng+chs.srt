@@ -528,7 +528,7 @@ This person who controls this place...
 00:21:21,548 --> 00:21:24,381
 - The Master?
 - The Master? Yes?
-- 主人？  - 主人？怎么？
+- 大师？  - 大师？怎么？
 
 102
 00:21:24,548 --> 00:21:26,027
@@ -550,7 +550,7 @@ Where might I find him?
 00:21:33,108 --> 00:21:35,919
 The Master's palace is no ordinary edifice, 
 but a citadel, 
-主人的宫殿不是普通的地方，而是一座城堡
+大师的宫殿不是普通的地方，而是一座城堡
 
 106
 00:21:36,388 --> 00:21:40,660
