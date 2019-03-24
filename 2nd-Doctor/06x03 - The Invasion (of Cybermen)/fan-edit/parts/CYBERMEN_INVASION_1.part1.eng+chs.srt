@@ -1,0 +1,911 @@
+1
+00:02:28,887 --> 00:02:31,606
+Oh, yes, it could be 20th century.
+哦, 对了, 可能是20世纪
+
+2
+00:02:33,527 --> 00:02:36,963
+What's the matter with the Tardis, Doctor?
+It keeps going wrong all the time.
+TARDIS 出什么问题了, 博士？它总是出问题
+
+3
+00:02:37,047 --> 00:02:40,267
+It merely needs an overhaul, Jamie,
+just like any piece of machinery.
+它只是需要一次大检修, Jamie, 就跟所有的机器一样
+
+4
+00:02:40,347 --> 00:02:44,818
+We might try and look up our old
+friend Professor Travers in London.
+我们试试联系我们在伦敦的老朋友 Travers 教授
+
+5
+00:02:44,907 --> 00:02:47,375
+- He might be able to help us, hmm?
+- Yeah. Aye.
+- 他也许能帮助我们吧, 嗯？  - 嗯, 是的
+
+6
+00:02:47,467 --> 00:02:52,143
+Always supposing he's not a baby or a schoolboy!
+Now come along!
+总是假设他不是一个婴儿或者学童．快过来吧 fixme
+
+7
+00:02:53,267 --> 00:02:55,216
+Let's just collect this circuit
+我们采集一下电路
+
+8
+0:02:055,412 --> 0:02:056,513
+There.
+那里
+
+9
+00:02:58,287 --> 00:03:02,485
+Yes. It's all right.
+It's just a fault in the visual stabiliser circuit.
+是的, 这没问题．只是视觉稳定器电路有点故障
+
+10
+00:03:02,567 --> 00:03:05,035
+It's, uh... We'd better take that, too.
+这是...我们最好把那个也带上
+
+11
+00:03:17,067 --> 00:03:20,616
+- Er... Can you give us a lift to London?
+- Yes, I suppose so.
+- 呃, 你能捎带我们去伦敦吗？  - 行, 我觉得可以
+
+12
+00:03:20,707 --> 00:03:22,026
+DOCTOR: In you get.
+你们进去
+
+13
+00:03:23,387 --> 00:03:25,662
+Thank you. Thank you very much.
+谢谢你, 非常感谢
+
+14
+00:03:37,667 --> 00:03:39,339
+DOCTOR: Here we are.
+我们到啦
+
+15
+00:03:39,427 --> 00:03:40,576
+Right.
+对了
+
+16
+00:03:42,307 --> 00:03:45,822
+- Well, that's odd! It says ''Watkins''.
+- (JAMIE) Must have the wrong house.
+- 诶, 很奇怪, 上面写的 "Watkins"  - 肯定搞错房子了
+
+17
+00:03:45,907 --> 00:03:49,377
+Well, the telephone directory
+definitely said number 1 8.
+然而, 电话号码簿上绝对写的是 18 号啊
+
+18
+00:03:49,467 --> 00:03:50,786
+We'll ask.
+我们问问
+
+19
+00:04:11,027 --> 00:04:12,745
+(DOORBELL RINGING INCESSANTLY)
+
+20
+00:04:20,227 --> 00:04:22,900
+If you don't mind, I'm trying to work!
+不介意的话, 我还要工作呢！
+
+21
+00:04:23,667 --> 00:04:28,263
+Oh. I'm sorry, miss, but we wondered
+whether you could help us.
+噢, 抱歉, 小姐．但我们想问问你能否帮助我们
+
+22
+00:04:28,587 --> 00:04:29,736
+We wondered if...
+我们想知道...
+
+23
+00:04:29,827 --> 00:04:32,546
+Oh, look, now the stupid thing's
+gone and jammed!
+噢, 看, 这个蠢东西又卡住了  fixme
+
+24
+00:04:32,627 --> 00:04:34,697
+Oh, dear, perhaps I could help you.
+噢, 天啊, 也许我可以帮你
+
+25
+00:04:34,787 --> 00:04:36,220
+Well, do you know anything about cameras?
+哦, 你还懂一点相机？
+
+26
+00:04:36,307 --> 00:04:38,343
+Yes, a little. I see...
+是的, 一点点．我知道了...
+
+27
+00:04:38,427 --> 00:04:39,985
+Now I had it on automatic shutter.
+现在我调到了自动快门模式
+
+28
+00:04:40,067 --> 00:04:41,625
+Taking photos of yourself?
+在自拍呢？
+
+29
+00:04:41,707 --> 00:04:44,460
+Yes, then you interrupted me
+and the stupid thing jammed!
+是的, 然后你们打断了我, 这个破玩意儿就卡住了
+
+30
+00:04:44,547 --> 00:04:47,857
+Have you come to see my uncle?
+He's not here. But who are you?
+你们是来找我叔叔的吧？他现在不在这里．你们是谁？
+
+31
+00:04:47,947 --> 00:04:49,505
+Friends of his? Fellow nuts?
+他的朋友？也是极客？fixme
+
+32
+00:04:49,587 --> 00:04:51,737
+Please let me answer one question at a time.
+且让我一个个地回答
+
+33
+00:04:51,827 --> 00:04:53,738
+Hey, you be careful with that thing.
+It cost me a fortune.
+嘿, 你小心弄这个东西, 它花了我不少钱
+
+34
+00:04:53,827 --> 00:04:56,387
+It's all right. It's a very simple mechanism.
+没事的, 非常简单的原理
+
+35
+00:04:56,467 --> 00:04:58,776
+- Who is your uncle?
+- Professor Watkins.
+- 你叔叔是谁？  - Watkins 教授
+
+36
+00:04:58,867 --> 00:04:59,902
+Oh.
+哦
+
+37
+00:04:59,987 --> 00:05:02,023
+Then Professor Travers doesn't live here?
+那 Travers 教授不住在这里？
+
+38
+00:05:02,107 --> 00:05:04,223
+Well, he did. He left about a month ago.
+哦, 以前是．他大概一个月前搬走了
+
+39
+00:05:04,307 --> 00:05:05,581
+Gone to America for a year with his daughter.
+跟他女儿一起去非洲待一年
+
+40
+00:05:05,667 --> 00:05:07,066
+Oh, that's just great!
+噢, 那太棒了！
+
+41
+00:05:07,147 --> 00:05:08,819
+My uncle worked at the Cavendish lab.
+我叔叔在 Cavendish 实验室工作
+
+42
+00:05:08,907 --> 00:05:10,545
+He wanted to do some work so Professor Travers
+他想帮 Travers 教授干点活
+
+43
+00:05:10,627 --> 00:05:12,538
+said he could use his daughter's lab here.
+说这样就可以用他女儿在这里的实验室了
+
+44
+00:05:12,627 --> 00:05:15,061
+And I moved in because I got kicked
+out of my studio last week.
+而我搬进来是因为我上周被踢出我的工作室了
+
+45
+00:05:15,147 --> 00:05:17,422
+What field of science is your uncle in?
+你叔叔是研究哪个领域的科学的？
+
+46
+00:05:17,507 --> 00:05:20,863
+Oh, I don't know,
+he's in applied physics or something.
+哦, 我不知道．他是搞应用物理什么的
+
+47
+00:05:20,947 --> 00:05:23,222
+Always messing around with computers
+and things. Complete nut.
+总是在摆弄电脑这些．完全的疯子
+
+48
+00:05:23,307 --> 00:05:25,741
+Well, that is fortunate.
+Perhaps he might be able to help us.
+哦, 那很幸运啊, 也许他可以帮助我们
+
+49
+00:05:25,827 --> 00:05:27,226
+- Is he at home?
+- No.
+- 他在家吗？  - 不在
+
+50
+00:05:27,307 --> 00:05:30,140
+- Well, where is he?
+- Well, how do I know? I'm not his keeper.
+- 那, 他在哪儿？  - 哦, 我怎么知道？我不是他的管家
+
+51
+00:05:30,227 --> 00:05:33,219
+- Hey, have you fixed it?
+- Oh, yes, that's all right.
+- 嘿, 你修好了吗？  - 哦, 是的, 没事了
+
+52
+00:05:33,307 --> 00:05:35,616
+- That's really great, thanks!
+- Miss...
+- 真是太好了, 谢谢！  - 小姐...
+
+53
+00:05:35,707 --> 00:05:36,776
+Hey!
+嘿！
+
+54
+00:05:37,147 --> 00:05:40,901
+That's a jolly outfit.
+Would you mind posing for me?
+这真是见漂亮的衣服．你介意摆个姿势给我吗？
+
+55
+00:05:40,987 --> 00:05:42,136
+- What?  - Look. Just stand there.
+- 什么？  - 看, 就站那里
+
+56
+00:05:42,227 --> 00:05:43,899
+- Miss!  - Isobel.
+- 小姐！  - 我叫 Isobel
+
+57
+00:05:43,987 --> 00:05:47,138
+Yeah, okay. Now just stand here.
+Now get... Head over the shoulder.
+对, 好了．就站那里．现在...把肩膀fixme
+
+58
+00:05:47,587 --> 00:05:50,021
+Have you any idea
+when your uncle is going to be back?
+知道你叔叔什么时候回来吗？
+
+59
+00:05:50,107 --> 00:05:52,496
+No, he left about a week ago.
+I haven't seen him since.
+不, 他大概一周前走的, 从那之后我就没见过他
+
+60
+00:05:52,587 --> 00:05:53,622
+A week?
+一周？
+
+61
+00:05:53,707 --> 00:05:56,380
+Yeah, he was prattling on about some
+new invention, or something or other,
+是, 他一直在叨叨什么新发明, 好像是什么新东西
+
+62
+00:05:56,467 --> 00:05:59,027
+and having the chance to develop it.
+Now... Not you.
+说有机会来研究它了．现在...不是你
+
+63
+00:05:59,107 --> 00:06:00,699
+- Oh.
+- ISOBEL: Okay. Now.
+- 噢  - 好, 现在
+
+64
+00:06:00,787 --> 00:06:03,096
+Can't you get in touch with him?
+你能联系上他吗？
+
+65
+00:06:03,227 --> 00:06:04,546
+No, I tried.
+不能, 我试过
+
+66
+00:06:04,627 --> 00:06:06,697
+I wanted to borrow a couple of quid off
+him in a hurry,
+我想找他借几镑救救急
+
+67
+00:06:06,787 --> 00:06:08,743
+but, well, they said
+he wasn't available for phone calls.
+但是, 他们说他没法接电话
+
+68
+00:06:08,827 --> 00:06:10,579
+They! Now... Now who is ''they''?
+他们！说说..."他们"是谁？
+
+69
+00:06:10,667 --> 00:06:12,305
+Just get that, will you? I don't know.
+拿着这个, 好吗？我不知道
+
+70
+00:06:12,387 --> 00:06:15,060
+International Electric, something or other.
+好像是叫＂国际电子＂, 好像是吧
+
+71
+00:06:15,147 --> 00:06:16,865
+International Electromatics?
+国际电气自动公司
+
+72
+00:06:16,947 --> 00:06:18,460
+Yes, probably.
+是, 像是
+
+73
+00:06:19,387 --> 00:06:22,106
+You mean your uncle has gone to
+work for these people?
+你是说你叔叔去为这些人工作了？
+
+74
+00:06:22,187 --> 00:06:24,417
+- Mmm-hmm.
+- Well, surely we can get in touch with him.
+- 嗯哼  - 那, 我们当然就可以联系上他了
+
+75
+00:06:24,507 --> 00:06:27,260
+Well, you can try telephoning,
+but I doubt if you'll get any joy.
+是, 你可以试试电话, 但我怀疑你不会得到好结果
+
+76
+00:06:27,347 --> 00:06:29,622
+Oh, phone's in the hall and
+the number's scribbled on the wall.
+哦, 电话就在大厅里, 号码写在墙上呢
+
+77
+00:06:29,707 --> 00:06:31,026
+Thank you.
+谢谢你
+
+78
+00:06:31,387 --> 00:06:32,706
+Hey. Don't go.
+嘿, 不要走
+
+79
+00:06:32,787 --> 00:06:34,982
+I don't often get the chance of
+photographing a real model.
+我并不是总是有机会能给一个真正的模特拍照片
+
+80
+00:06:35,067 --> 00:06:36,056
+Oh, all right.
+噢, 好吧
+
+81
+00:06:36,147 --> 00:06:37,546
+Come on. Let's get you fixed up with some gear!
+快来, fixme
+
+82
+00:06:37,707 --> 00:06:41,256
+WOMAN: <i>International Electromatic Company.</i>
+<i>State your business.</i>
+国际电气自动公司．请陈述你的目的
+
+83
+00:06:41,347 --> 00:06:45,101
+I would like, please,
+to speak with Professor Watkins.
+我想要, 请帮忙, 接通 Watkins 教授
+
+84
+00:06:46,027 --> 00:06:47,380
+<i>One moment.</i>
+等一下
+
+85
+00:06:48,907 --> 00:06:51,785
+<i>- Party not available.</i>
+- Oh, yes. You see, but this is very important.
+- 当事人不在  - 噢, 这样．你看, 这事非常重要
+
+86
+00:06:51,867 --> 00:06:52,982
+<i>Party not available.</i>
+当事人不在
+
+87
+00:06:53,067 --> 00:06:56,139
+- Yes, but I must speak with him.
+<i>- Party not available.</i>
+- 是的, 但我必须同他通话  - 当事人不在
+
+88
+00:06:56,227 --> 00:06:58,980
+<i>- Party not available.</i>
+- But this is an automatic answering device!
+- 当事人不在  - 这是一台自动应答设备！
+
+89
+00:06:59,067 --> 00:07:01,262
+Ah, shut up, you stupid machine!
+啊, 闭嘴, 你个愚蠢的机器！
+
+90
+00:07:01,347 --> 00:07:04,020
+- So, now what?
+- There's only one thing for it!
+- 那, 现在怎办？  - 就只有一件事可做了！
+
+91
+00:07:04,107 --> 00:07:06,496
+We'll have to go there ourselves.
+我们只能自己去那里
+
+92
+00:07:07,587 --> 00:07:10,624
+Okay, that's fabulous, just keep it like that.
+好, 那样很漂亮, 就这样保持住
+
+93
+00:07:11,347 --> 00:07:13,178
+Great. Any luck?
+很好．运气如何？
+
+94
+00:07:13,267 --> 00:07:16,464
+No, it was a stupid simple-minded
+computer answering service.
+不怎样, 只有一个愚蠢而死脑筋的电脑应答服务
+
+95
+00:07:16,547 --> 00:07:17,662
+Well, what do we do now?
+那, 我们现在怎么做？
+
+96
+00:07:17,747 --> 00:07:19,419
+Well, Jamie and I are going to this place.
+Come on, Zoe.
+Jamie 和我打算去那个地方．来吧, Zoe
+
+97
+00:07:19,507 --> 00:07:21,782
+Oh, no, thanks. I think I'll stay here.
+It's great fun.
+哦, 不, 谢谢．我想我还是待在这里, 这很有意思
+
+98
+00:07:21,867 --> 00:07:23,744
+You look like a chicken with all those feathers on!
+你穿上那些衣服就像一直小鸡！
+
+99
+00:07:23,827 --> 00:07:25,783
+Well, come on, Jamie. Oh, the address?
+好, 来吧, Jamie．哦, 地址呢？
+
+100
+00:07:25,867 --> 00:07:27,983
+- Oh, that's scribbled on the wall, too.
+- DOCTOR: Oh, thank you.
+- 哦, 也在墙上写着呢  - 哦, 谢谢你
+
+101
+00:07:28,067 --> 00:07:30,137
+Do you not write anything down on paper at all?
+你是什么都不写在纸上吗？
+
+102
+00:07:30,227 --> 00:07:31,819
+Well, I'd only lose it if I did.
+要是我写在纸上的话, 只会把它弄丢
+
+103
+00:07:31,907 --> 00:07:35,024
+Writing on a wall is much safer.
+You can't lose a wall, can you?
+写在墙上安全多了．你不可能弄丢一堵墙, 是吧？
+
+104
+00:07:35,107 --> 00:07:36,096
+No.
+不能
+
+105
+00:08:22,147 --> 00:08:24,183
+HQ are checking now. Where are they?
+总部在检查了, 他们在哪儿？
+
+106
+00:08:24,267 --> 00:08:26,303
+Gone round the back, down the side alley.
+绕到后面去了, 沿着旁边那个小巷
+
+107
+00:08:26,387 --> 00:08:28,901
+It's a dead end, isn't it?
+So they've got to come out this way!
+那是条死路, 对吧．所以他们还是会从这条路出来！
+
+108
+00:08:28,987 --> 00:08:30,500
+If they come out.
+如果他们会出来的话
+
+109
+00:09:06,367 --> 00:09:08,597
+Come and sit down, gentlemen.
+过来坐下, 先生们
+
+110
+00:09:09,767 --> 00:09:11,359
+DOCTOR: Thank you.
+谢谢你
+
+111
+00:09:11,447 --> 00:09:14,942
+- You can go, Packer.
+- Yes, sir.
+- 你可以走了, Packer  - 好的, 先生
+
+112
+00:09:19,967 --> 00:09:23,277
+I must apologise for Packer's
+crude devotion to duty.
+Packer 只知道忠于职守, 我必须为他的粗鲁道歉
+
+113
+00:09:23,567 --> 00:09:28,880
+But your method of entry into my building
+was rather...unconventional, wasn't it?
+但你们进入我这大楼的方式也是相当地...打破传统了, 是不？
+
+114
+00:09:28,967 --> 00:09:30,400
+- Aye, well, there was no need for all that...
+- Jamie!
+- 是, 嗯, 没有必要费那个劲...  - Jamie
+
+115
+00:09:30,487 --> 00:09:31,476
+...gas and stuff.
+fixme
+
+116
+00:09:31,567 --> 00:09:35,003
+I think perhaps it is we who should be
+apologising to you, Mr...
+我觉得应该是我们向你道歉, 先生...
+
+117
+00:09:35,087 --> 00:09:37,123
+Vaughn. Tobias Vaughn.
+Vaughn. 我叫 Tobias Vaughn.
+
+118
+00:09:37,207 --> 00:09:40,802
+I'm the Managing Director
+of International Electromatics.
+我是国际电气自动公司的执行董事
+
+119
+00:09:41,087 --> 00:09:43,965
+Your business must be very pressing
+to force you to such extremes.
+你们的目的肯定非常紧迫, 才迫使你们采取了如此极端的手段
+
+120
+00:09:44,047 --> 00:09:45,116
+Yes, it is.
+是的, 的确
+
+121
+00:09:45,207 --> 00:09:47,767
+- Concerning Professor Watkins?
+- How did you know?
+- 与 Watkins 教授有关吗？  - 你怎么知道？
+
+122
+00:09:47,847 --> 00:09:50,281
+My computer. It reported directly to me.
+我的电脑．它直接向我报告
+
+123
+00:09:50,367 --> 00:09:51,686
+Oh, I see.
+噢, 我明白了
+
+124
+00:09:52,207 --> 00:09:54,721
+You've gone to a lot of trouble
+for nothing, you know.
+你费尽周折却是徒劳, 知道吧
+
+125
+00:09:54,807 --> 00:09:57,719
+The Professor's working on an experiment
+and refuses to see anyone.
+教授正忙于一项实验, 拒绝见任何人
+
+126
+00:09:57,807 --> 00:10:00,799
+Ah, well. We only want to talk to him, you see.
+啊, 其实, 我们只是想同他交谈一下, 你看
+
+127
+00:10:00,887 --> 00:10:02,036
+Perhaps I can help.
+也许我能帮上忙
+
+128
+00:10:02,127 --> 00:10:04,516
+No, I don't think so, thank you very much.
+不, 我不觉得, 非常感谢
+
+129
+00:10:04,607 --> 00:10:06,996
+Oh, come on, Doctor,
+it's only a couple of electronic circuits.
+噢, 快点, 博士．只是一些电子线路
+
+130
+00:10:07,087 --> 00:10:08,315
+(GRUNTING)
+
+131
+00:10:08,647 --> 00:10:10,683
+Circuits? Electronic circuits?
+电路？电子线路？
+
+132
+00:10:10,767 --> 00:10:12,678
+My technicians are the best in the world.
+我的技术人员是这个世界最好的
+
+133
+00:10:12,767 --> 00:10:14,485
+I'm sure they'd be able to assist you.
+我确定他们可以帮到你
+
+134
+00:10:14,567 --> 00:10:16,683
+- Show me the circuits.
+- Well, I...
+- 把电路给我看看  - 这个, 我...
+
+135
+00:10:16,767 --> 00:10:18,962
+Please, I'd like to help.
+拜托, 我想帮忙
+
+136
+00:10:26,367 --> 00:10:28,437
+As you say, rather complex.
+如你所说, 相当复杂
+
+137
+00:10:29,167 --> 00:10:31,727
+- However, I'm sure we'll be able to help you.
+- Yes. You see...
+- 然而, 我确定我们能帮助你  - 是的, 你看...
+
+138
+00:10:31,807 --> 00:10:33,479
+I'll have them sent to my workshops immediately.
+我会安排人马上送到我的工作间
+
+139
+00:10:33,567 --> 00:10:35,603
+- Oh, how very kind.
+- Not at all.
+- 噢, 太给力了  - 不用
+
+140
+00:10:35,687 --> 00:10:40,317
+Professor Watkins is a valued colleague.
+Any friend of his is... Oh.
+Watkins 教授是一位重要的同事．他的任何朋友都是...噢
+
+141
+00:10:40,407 --> 00:10:42,841
+- Have you got one of these, young man?
+- No, what is it?
+- 这个东西你有吗, 年轻人  - 没有, 是什么？
+
+142
+00:10:42,927 --> 00:10:46,442
+Surely you've seen them about.
+They're disposable transistor radios.
+你肯定见过他们．他们是一次性晶体管收音机
+
+143
+00:10:46,527 --> 00:10:49,166
+One of our latest products. Most popular.
+我们最新的一项产品, 非常畅销
+
+144
+00:10:49,247 --> 00:10:52,717
+We've sold 10 million in this country alone. Here.
+我们仅仅在这个国家就买了一千万个．给你
+
+145
+00:10:52,807 --> 00:10:55,879
+Compensation for the treatment
+you received from the worthy Packer.
+作为对你的补偿, 考虑到 Packer 对你的招待步骤
+
+146
+00:10:55,967 --> 00:10:58,197
+Thank you. How does it work?
+谢谢你, 它是怎么工作的？
+
+147
+00:10:58,287 --> 00:11:00,596
+(UPBEAT INSTRUMENTAL MUSIC PLAYING)
+
+148
+00:11:01,087 --> 00:11:03,317
+Yes, that's how you turn it off, Jamie.
+是的, 你可以那样关掉它, Jamie
+
+149
+00:11:03,407 --> 00:11:06,285
+Now, if you'll excuse me,
+I'm afraid I have an urgent appointment.
+现在, 如果你们没意见, 恐怕我还有一个紧急会议
+
+150
+00:11:06,367 --> 00:11:07,720
+Yes, of course. Come along, Jamie.
+好, 当然了．来吧, Jamie
+
+151
+00:11:07,807 --> 00:11:10,480
+Packer will meet you
+and show you the way out, Mr...
+Packer 会过来, 指引你们出去, 这位...
+
+152
+00:11:10,567 --> 00:11:13,240
+- Doctor. Goodbye.
+- Goodbye, Doctor.
+- 博士．再见  - 再见, 博士
+
+153
+00:11:14,127 --> 00:11:17,403
+Goodbye, Mr Vaughn, and thank you for the radio.
+再见, Vaughn 先生．谢谢你的收音机
+
+154
+00:11:17,487 --> 00:11:18,966
+Not at all.
+不用谢
+
+155
+00:11:28,127 --> 00:11:29,958
+- Packer?  <i>- Yes, Mr Vaughn?</i>
+- Packer?  - 什么事, Vaughn 先生？
+
+
+156
+00:11:30,047 --> 00:11:31,958
+Show our visitors off the premises, will you?
+带我们的客人离开, 好吗？
+
+157
+00:11:32,047 --> 00:11:33,446
+<i>Very good, sir.</i>
+很好, 先生
+
+158
+00:11:40,087 --> 00:11:41,839
+PACKER: The next time,
+read the notice on the door.
+下一次,读一下门上的警告
+
+159
+00:11:41,927 --> 00:11:44,760
+JAMIE: Oh, don't tell me you can read as well.
+What else do you do?
+哦, 别告诉我你也识字．你还会干什么？
+
+160
+00:11:44,847 --> 00:11:46,280
+Jamie!
+Jamie!﻿
+
+161
+00:11:51,457 --> 00:11:53,674
+That fellow's not what he seems.
+那个家伙并不是他看起来那样
+
+162
+00:11:53,757 --> 00:11:55,748
+That big idiot? Oh, don't worry.
+I'll soon sort...
+那个傻大个？不用担心．我很快就能...
+
+163
+00:11:55,837 --> 00:11:57,828
+No, no, no. I mean Vaughn.
+不, 不, 不．我是说 Vaughn
+
+164
+00:11:57,877 --> 00:12:01,352
+Oh, and he's got a forked tail and wee horns.
+噢, 他有一条分叉的尾巴, 头上还有角
+
+165
+00:12:01,437 --> 00:12:03,155
+Oh, I'm not joking, Jamie.
+哦, 我不是在开玩笑, Jamie
+
+166
+00:12:03,557 --> 00:12:06,954
+Underneath all that charm,
+there was something odd.
+外表上很有魅力, 但底下总觉得有点古怪
+
+167
+00:12:07,237 --> 00:12:09,797
+Sinister. Almost inhuman.
+很邪恶．感觉不像人类
+
+168
+00:12:32,797 --> 00:12:34,947
+(ELECTRONIC SIGNAL PULSATING)
+
