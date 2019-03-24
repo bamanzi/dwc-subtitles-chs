@@ -37,7 +37,7 @@ Jamie!﻿
 00:14:49,188 --> 00:14:53,022
 Well, come on. If you want to play games,
 let's get on with it.
-好了, 来吧．如果你们想要玩有些, 我们就来玩玩
+好了, 来吧．如果你想要玩游戏, 我们就开始吧
 
 9
 00:14:53,188 --> 00:14:54,906
@@ -51,12 +51,12 @@ What's that?
 11
 00:14:56,628 --> 00:15:00,098
 I have to make up his face again.
-我必须重新拼他的脸
+我必须拼好他的脸 - 再一次
 
 12
 00:15:00,268 --> 00:15:02,498
 - You did this before!  - Yes.
-- 之前是你干的！  - 是的
+- 你之前干过这事！  - 是的
 
 13
 00:15:02,668 --> 00:15:04,943
@@ -82,18 +82,18 @@ Now, then... There we are.
 17
 00:15:13,948 --> 00:15:16,303
 All right, I know!
-都对了, 我就知道！
+没事的, 我知道！
 
 18
 00:15:16,468 --> 00:15:17,947
 There we are.
-好啦
+这样
 
 19
 00:15:19,188 --> 00:15:24,706
 One... Now, then... Yes, that's his nose.
 You can't mistake his nose, can you?
-一个...现在是...对了, 这是他的鼻子．你不会搞错吧？
+一个...现在是...对了, 这是他的鼻子．你不会搞错他的鼻子的，对吧？
 
 20
 00:15:26,468 --> 00:15:28,459
@@ -107,7 +107,7 @@ And...
 22
 00:15:34,068 --> 00:15:36,104
 There you are, you see!
-给你贴上, 你看！
+都好了, 你看！
 
 23
 00:15:36,268 --> 00:15:38,498
@@ -148,7 +148,7 @@ You're right, I have! That's much better.
 00:16:10,908 --> 00:16:15,698
 Well, there must be somebody here.
 This... These candles are alight. Ugh!
-喏, 这里肯定有个人．这个...这些蜡烛都亮着呢．哈！
+喏, 这里肯定有个人．这个...这些蜡烛都亮着呢．呃！
 
 31
 00:16:15,868 --> 00:16:18,507
@@ -196,8 +196,8 @@ Tie that to the door, will you?
 
 39
 00:16:42,028 --> 00:16:44,781
-It's locked.
-锁住了
+Hey! It's locked.
+嘿，它锁住了
 
 40
 00:16:45,628 --> 00:16:49,257
@@ -219,7 +219,7 @@ They're expecting us.
 43
 00:16:54,988 --> 00:16:58,617
 Yes... Don't break the thread. Come along.
-是的...别把线弄断了．都来吧
+是的...别把线弄断了. 都吧
 
 44
 00:17:03,628 --> 00:17:05,983
@@ -235,13 +235,13 @@ unattractive to me.
 46
 00:17:10,028 --> 00:17:13,020
 It must be to the right.
-I've been working it out.
-肯定是右边．我已经基本搞明白了
+I've been working it out as we went along.
+肯定是右边. 这一路走来我已经基本搞明白了
 
 47
 00:17:13,188 --> 00:17:14,985
 - Doctor...  - Shh! How?
-- 博士  - 嘘！怎么?
+- 博士  - 嘘！怎么说?
 
 48
 00:17:15,148 --> 00:17:18,246
@@ -342,7 +342,7 @@ There's some tracks of an animal too.
 噢，博士，我们走吧
 
 66
-00:18:34,108 --> 00:18:36,827
+00:18:34,308 --> 00:18:36,927
 - It couldn't be!
 - What?
 - 这不可能！  - 什么？
@@ -406,13 +406,13 @@ Zoe, It's a legend.
 78
 00:19:09,848 --> 00:19:12,920
 The Minotaur is a mythical beast. Say it!
-＂牛头怪只是神话里的＂, 快念！
+＂牛头怪只是神话里的怪兽＂, 快念！
 
 79
 00:19:13,088 --> 00:19:16,364
 The Minotaur is a mythical beast.
 It doesn't exist!
-牛头怪只是神话里的, 它并不存在!
+牛头怪只是神话里的怪兽, 它并不存在!
 
 80
 00:19:16,528 --> 00:19:18,405
@@ -457,7 +457,7 @@ With that wee lighthouse of yours.
 88
 00:20:05,668 --> 00:20:08,718
 Get yourself free. Don't let the boy escape!
-把那东西弄开，别让那小伙子跑了！
+把那东西弄开，别让那小子跑了！
 
 89
 00:20:44,008 --> 00:20:45,217
@@ -499,7 +499,7 @@ Who's that?
 00:21:02,568 --> 00:21:06,038
 - You have a knack of turning up unexpectedly.
 - Have you seen Jamie?
-- 你突然就冒出来了  - 你看到 Jamie 了吗？
+- 你总是突然就冒出来了  - 你有没有见到 Jamie？
 
 97
 00:21:06,108 --> 00:21:09,623
@@ -533,7 +533,7 @@ This person who controls this place...
 102
 00:21:24,548 --> 00:21:26,027
 Have you seen him?
-你见过他？
+你见过他吗？
 
 103
 00:21:26,188 --> 00:21:29,878
@@ -798,18 +798,19 @@ in such an extraordinary way?
 He can only speak the words
 that Dean Swift gave him to say.
 他只能使用 Dean Swift 写过的那些语句
-<i>(Dean Swift: 格列弗游记 的作者)</i>
+<i>(Dean Swift: 《格列弗游记》的作者)</i>
 
 151
 00:24:34,748 --> 00:24:37,820
-That's ridiculous. There never was a Gulliver.
-这太荒谬了, 从来没有一个格列弗
+That's ridiculous. I mean there never 
+was such a person as Gulliver.
+这太荒谬了。我是说，从来没有这样一个叫做格列弗的人
 
 152
 00:24:37,988 --> 00:24:40,980
 - He's a fictional character.
-- Of course he is.
-- 他是一个虚构的人物  - 他当然是
+- Of course he is. Don't you understand.
+- 他是一个虚构的人物  - 他当然是。你还没有搞明白吗？
 
 153
 00:24:41,148 --> 00:24:45,505
@@ -840,7 +841,7 @@ is a world of fiction -
 158
 00:25:09,348 --> 00:25:11,782
 That wasn't there before, was it?
-刚才并没有这个, 是吧?
+那东西刚才并没在那里, 是吧?
 
 159
 00:25:11,948 --> 00:25:13,418
@@ -857,48 +858,53 @@ A statue.
 美杜莎!
 
 162
+00:25:21,500 --> 00:25:22,500
+(Legends of Ancient Greece)
+(古希腊神话)
+
+163
 00:25:24,648 --> 00:25:31,247
 ''The Doctor and Zoe...
 were face to face with Medusa.
 "博士和Zoe...与美杜莎面对面了
 
-163
+164
 00:25:31,408 --> 00:25:33,638
 ''One glance from her eyes would...
 "只要被她看一眼, 就会...
 
-164
+165
 00:25:33,808 --> 00:25:36,163
 ''would turn them to stone.''
 "就会把他们变成石头＂
 
-165
+166
 00:25:38,008 --> 00:25:41,796
 - Now we know what we have to do, Zoe.
 - Yes.
 - 现在我们知道要做什么了, Zoe  - 是的
 
-166
+167
 00:25:41,968 --> 00:25:43,765
 (HISSING)
 
-167
+168
 00:25:43,928 --> 00:25:46,442
 She's moving. She's going to look at us!
 她在动了, 她要看我们了
 
-168
+169
 00:25:48,008 --> 00:25:51,796
 - We have to say Medusa does not exist.
 - But she does!
 - 我们必须念＂美杜莎并不存在＂  - 但她存在啊
 
-169
+170
 00:25:51,968 --> 00:25:55,324
 Zoe, Medusa is a myth.
 Zoe, 美杜莎是个神话
 
-170
+171
 00:25:55,488 --> 00:25:59,006
 If you believe in her, 
 she can turn us both to stone.

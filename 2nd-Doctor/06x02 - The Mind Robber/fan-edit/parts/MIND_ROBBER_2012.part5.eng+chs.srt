@@ -2,7 +2,7 @@
 00:42:41,804 --> 00:42:47,322
 - What have you done to them?!
 - They're no longer human beings, just fictional characters
-- 你把对他们做了什么？  - 他们不再是人了，成虚构人物了
+- 你对他们做了什么？  - 他们不再是人类，而成虚构角色了
 
 2
 00:42:47,484 --> 00:42:51,259
@@ -17,945 +17,967 @@ they can be released.
 - 你真的会这么干？  - 不，亲爱的先生。你会
 
 4
-00:42:55,364 --> 00:43:01,121
-Once you take up your post, it can be
+00:42:55,464 --> 00:43:01,221
+Once you take up your post here, it can be
 your first official task as the new controller.
-一旦你就位，你就可以把它作为你的第一项正式的任务
+一旦你在这里就位，它就可以成为你担任管理员的第一项正式任务
 
 5
-00:43:01,284 --> 00:43:05,880
+00:43:01,384 --> 00:43:05,980
 - I see. How very ingenious.
 - I take it, then, that you agree?
-- 我知道, 真是天才啊  - 这么说你是同意了？
+- 我明白了, 真是天才啊  - 这么说你是同意了？
 
 6
-00:43:06,044 --> 00:43:09,719
+00:43:06,144 --> 00:43:09,819
 No! My answer is still no!
 不！我的答案仍然是不！
 
 7
-00:43:09,884 --> 00:43:13,001
+00:43:09,984 --> 00:43:13,101
 How very unfortunate.
-真是不幸
+真是非常不幸
 
 8
-00:43:21,284 --> 00:43:26,199
+00:43:21,384 --> 00:43:26,399
 I'm sorry to have to use violent methods,
 but you must submit.
 我很抱歉不得不使用暴力手段了, 你必须投降
 
 9
-00:43:26,364 --> 00:43:28,719
+00:43:26,564 --> 00:43:28,819
 You have no alternative.
 你没有其它选择
 
 10
-00:43:28,884 --> 00:43:33,002
+00:43:28,984 --> 00:43:33,102
 I have yet to see a robot...that can climb!
-我还要看一个机器人...会往上爬的!fixme
+我还要看看机器人...怎么往上爬！
 
 11
-00:43:35,964 --> 00:43:37,955
+00:43:36,064 --> 00:43:38,055
 You cannot escape...
-你不能逃走
+你逃不了的
 
 12
-00:43:39,284 --> 00:43:43,516
+00:43:39,384 --> 00:43:43,616
 but we will play your game a little longer.
 不过我们可以多玩一会儿你的游戏
 
 13
-00:43:43,684 --> 00:43:45,754
+00:43:43,784 --> 00:43:45,854
 (CHUCKLES)
 
 14
-00:44:02,404 --> 00:44:04,862
+00:44:02,504 --> 00:44:04,962
 (CREAKING)
 
 15
-00:44:05,424 --> 00:44:08,143
+00:44:05,524 --> 00:44:08,243
 - Doctor!  - Zoe! Jamie!
 - 博士！  - Zoe! Jamie!
 
 16
-00:44:08,304 --> 00:44:11,740
+00:44:08,404 --> 00:44:11,540
 - Am I glad to see you.
 - The Master said you'd been...
 - 见到你真高兴  - 大师说你已经被...
 
 17
-00:44:11,904 --> 00:44:13,576
-- Where do we go?
-- To the Tardis.
-- 我们往哪儿走？  - 往 TARDIS
+00:44:11,744 --> 00:44:13,676
+- Where do we go from here?
+- Back to the Tardis.
+- 我们接下来往哪儿走？  -  回到 TARDIS 去
 
 18
-00:44:13,744 --> 00:44:15,541
-We can't. It fell apart.
-没法去, 它已经裂开了
+00:44:13,844 --> 00:44:15,641
+We can't do that. It fell apart.
+You don't remember?
+我们不能去了。它已经散架了，你们不记得了？
 
 19
-00:44:15,704 --> 00:44:18,855
-- It's all over now.
+00:44:15,804 --> 00:44:18,955
+- It's all over now. Thank goodness.
 - The Tardis broke up.
-- 这下完了  - TARDIS 坏掉了
+- 这下完了，感谢老天  - TARDIS 坏掉了
 
 20
-00:44:19,024 --> 00:44:23,336
+00:44:19,124 --> 00:44:23,436
 - Yes, you said that.
-- I'm tired. I think I'll sit down.
-- 是的, 你已经说过了  - 我累了, 我觉得还是坐下来
+- I'm tired. I think I'll sit down and have a rest.
+- 是的, 你已经说过了  - 我累了, 我觉得还是坐下来，歇一会儿
 
 21
-00:44:23,504 --> 00:44:26,462
+00:44:23,604 --> 00:44:26,562
 - Is something wrong, Zoe?
-- Where do we go?
-- 出什么问题了, Zoe?  - 我们往哪儿走？
+- Where do we go from here?
+- 出什么问题了, Zoe?  - 我们接下来往哪儿走？
 
 22
-00:44:26,624 --> 00:44:30,458
-- To the Tardis.
-- We can't. It broke up.
-- 往 TARDIS  - 没法去, 它坏掉了
+00:44:26,724 --> 00:44:30,558
+- Back to the Tardis.
+- We can't do that. It broke up. You don't remember?
+- 回到 TARDIS 去  - 我们不能去了, 它散架了，你们不记得了？
 
 23
-00:44:31,464 --> 00:44:34,934
+00:44:31,564 --> 00:44:35,034
 But you keep saying the same things.
 但你们一直在说同样的事情
 
 24
-00:44:37,464 --> 00:44:39,580
+00:44:37,564 --> 00:44:39,680
 The Tardis broke up.
-TARDIS 坏掉了
+TARDIS 散架了
 
 25
-00:44:41,144 --> 00:44:46,616
+00:44:41,244 --> 00:44:46,716
 Then it's true. They're not real.
 They've been turned into fiction.
-这是真的, 他们不是真人, 他们以后变成虚构故事了
+那么这是真的了, 他们不是真人, 他们已经变成虚构的了了
 
 26
-00:44:49,544 --> 00:44:51,535
+00:44:49,644 --> 00:44:51,635
 What's this?
 这是什么？
 
 27
-00:44:55,384 --> 00:44:59,138
+00:44:55,484 --> 00:44:59,238
 The master tape! I wonder...
-主磁带！我在想...fixme
+主磁带！我在想...
 
 28
-00:44:59,304 --> 00:45:04,094
-Perhaps if I were to create a few immortal
-words of fiction of my own...
-也许如果我建立我自己的一些永恒的世界...
+00:44:59,404 --> 00:45:04,194
+Perhaps if I were to create a few 
+immortal words of fiction of my own...
+也许如果我自己建立一些永恒的虚构作品...
 
 29
-00:45:04,264 --> 00:45:06,255
+00:45:04,364 --> 00:45:06,355
 Yes. It's worth trying.
 是的, 这值得一试
 
 30
-00:45:07,344 --> 00:45:11,257
+00:45:07,444 --> 00:45:11,357
 Oh... What I need is the strength of Karkus!
 噢...我需要的是 Karkus 的力量
 
 31
-00:45:13,384 --> 00:45:17,172
+00:45:13,484 --> 00:45:17,272
 - I am at your command.
 - Oh, thank you, my dear sir.
 - 我听候你的命令  - 哦, 谢谢你, 亲爱的先生
 
 32
-00:45:17,344 --> 00:45:19,904
+00:45:17,444 --> 00:45:20,004
 Perhaps you could release this for me.
-也许你可以帮我释放这个fixme
+也许你可以帮我打开这个
 
 33
-00:45:24,424 --> 00:45:29,054
+00:45:24,524 --> 00:45:27,854
 - Zis is what you want?
-- No. I want to get down here somehow.
-- 这就是你说要的？  - 不, 我想要fixme
+- No. I don’t actually want it.
+- 这就是你想要的？  - 不, 我并不是想要它
 
 34
-00:45:29,224 --> 00:45:31,579
-- Ah. Wait.  - Thank you.
-- 啊, 等着   - 谢谢你
+00:45:27,954 --> 00:45:30,324
+- You see. I want to get down here somehow.
+- Ah. Wait.
+- 你看，不知怎地我想要下去这里  - 啊，等一下
 
 35
-00:45:32,584 --> 00:45:34,779
+00:45:30,424 --> 00:45:31,679
+Thank you.
+谢谢你
+
+36
+00:45:32,684 --> 00:45:34,879
 Jamie...
 Jamie...﻿
 
-36
-00:45:34,944 --> 00:45:39,654
+37
+00:45:35,044 --> 00:45:39,754
 Jamie, Zoe...you are being controlled.
 Jamie, Zoe...你们被控制了
 
-37
-00:45:39,824 --> 00:45:42,292
-Jamie, listen! Listen!
-Jamie, 听！听！
-
 38
-00:45:42,464 --> 00:45:45,740
+00:45:39,924 --> 00:45:42,392
+Jamie, listen! Listen!
+Jamie, 听着！听着！
+
+39
+00:45:42,564 --> 00:45:45,840
 - Oh, it's no use.  - A rope.
 - 噢, 没有用  - 一根绳子
 
-39
-00:45:45,904 --> 00:45:49,977
+40
+00:45:46,004 --> 00:45:50,077
 - Oh, thank you.  - Ouch! Careful.
 - 噢, 谢谢你   - 嗷！小心点
 
-40
-00:45:50,144 --> 00:45:54,615
+41
+00:45:50,244 --> 00:45:54,715
 Oh. Yes, of course.
 You are the Princess Rapunzel.
 哦, 是的, 当然了, 你是 Rapunzel 公主
 
-41
-00:45:54,784 --> 00:45:58,174
+42
+00:45:54,884 --> 00:45:58,274
 - Are you a prince?  - No, I'm afraid not.
 - 你是一位王子吗？  - 不, 恐怕不是
 
-42
-00:45:58,344 --> 00:46:01,177
+43
+00:45:58,444 --> 00:46:01,277
 Would you mind if I used your hair?
 你介意我借用一下你的头发吗？
 
-43
-00:46:01,344 --> 00:46:04,336
-No, of course not. Everybody else uses it.
-不, 当然不介意．每个人都用它
-
 44
-00:46:04,504 --> 00:46:09,055
-Thank you. Where can we attach the...?
-Oh, yes, of course.
-谢谢你．我们可以把它绑到...? 哦, 是的, 当然
+00:46:01,444 --> 00:46:04,436
+No, of course not. Everybody else uses it.
+I don’t see why you shouldn’t...
+不, 当然不介意．每个人都用它。我看不出为什么不让你...
 
 45
-00:46:14,944 --> 00:46:17,412
-(MACHINES WHIRR)
+00:46:04,604 --> 00:46:09,155
+Thank you. Where can we attach the...?
+Oh, yes, of course.
+谢谢你．我们可以把它绑到...? 哦, 是的, 当然了
 
 46
-00:46:22,344 --> 00:46:24,733
-(KEYS CLICK)
+00:46:15,044 --> 00:46:17,512
+(MACHINES WHIRR)
 
 47
-00:46:26,624 --> 00:46:29,297
-Yes, yes. Go on.
-是的, 继续
+00:46:22,444 --> 00:46:24,833
+(KEYS CLICK)
 
 48
-00:46:29,464 --> 00:46:33,252
+00:46:26,724 --> 00:46:29,397
+Yes, yes. Go on.
+好啊好啊, 继续
+
+49
+00:46:29,564 --> 00:46:33,352
 ''The enemy had been
 finally defeated by the Doctor...''
 "敌人最终被博士击退了...
 
-49
-00:46:34,984 --> 00:46:38,579
+50
+00:46:35,084 --> 00:46:38,679
 No, no. I can't say that. If I say that...
 不, 不, 我不能那么说．如果我那么说...
 
-50
-00:46:40,784 --> 00:46:46,461
-I nearly fell for it. Another second
-and I should have turned myself into fiction.
-我就掉进去了．晚一秒我就把自己变成了虚构人物了
-
 51
-00:46:55,264 --> 00:46:57,220
-Halt!
-停下！
+00:46:40,884 --> 00:46:46,561
+I nearly fell for it. Another two seconds
+and I should have turned myself into fiction.
+我就掉进去了．晚两秒我就把自己变成了虚构人物了
 
 52
-00:46:57,384 --> 00:47:01,502
-Now we shall play games no longer.
-现在我们不再玩游戏了
+00:46:56,484 --> 00:47:01,602
+Now, we shall play games no longer.
+现在，我们不再玩游戏了
 
 53
-00:47:01,664 --> 00:47:06,499
+00:47:01,764 --> 00:47:06,599
 - I'm very obliged to you both.
 - Always happy to be of assistance.
 - 我非常感激你们  - 能帮上忙总是很高兴
 
 54
-00:47:07,504 --> 00:47:11,975
+00:47:07,004 --> 00:47:12,075
 Jamie and Zoe. I left them here.
 Where are they? Jamie! Zoe!
 Jamie 和 Zoe, 我把他们留在这里的, 现在哪里去了？Jamie! Zoe!
 
 55
-00:47:12,124 --> 00:47:14,479
+00:47:12,224 --> 00:47:14,579
 (CHUCKLING)
 
 56
-00:47:14,644 --> 00:47:17,078
+00:47:14,744 --> 00:47:17,178
 ''Jamie and Zoe realised at last
 "Jamie 和 Zoe 最终发现...
 
 57
-00:47:17,244 --> 00:47:22,443
+00:47:17,344 --> 00:47:22,543
 ''that the Doctor was, in fact,
 the most monstrous and cunning villain.
 "博士实际上是最可怕最狡猾的恶棍
 
 58
-00:47:22,604 --> 00:47:28,236
+00:47:22,704 --> 00:47:28,336
 ''There was no punishment too severe
 for the crimes that he had committed.''
 "对他所犯下的罪行而言, 什么样的惩罚都不算严厉＂
 
 59
-00:47:28,404 --> 00:47:30,872
+00:47:28,504 --> 00:47:30,972
 (ROBOTS BEEPING)
 
 60
-00:47:32,844 --> 00:47:36,632
+00:47:32,944 --> 00:47:36,732
 Splendid. Splendid.
 Come closer, my children.
 很棒, 很棒！靠近点, 孩子们
 
 61
-00:47:39,404 --> 00:47:41,076
+00:47:39,504 --> 00:47:41,176
 You sent for us, Master?
-你派人叫我们来, 主人？
+你派人叫我们来, 大师？
 
 62
-00:47:41,244 --> 00:47:45,078
-Now you know what the Doctor
-is really like, don't you?
+00:47:41,344 --> 00:47:45,178
+Now you know what your friend,
+the Doctor, is really like, don't you?
 现在你们知道博士的真实面目了, 对吧？
 
 63
-00:47:45,244 --> 00:47:47,519
+00:47:45,344 --> 00:47:47,619
 He's a monstrous and cunning villain.
 他是最可怕最狡猾的恶棍
 
 64
-00:47:47,684 --> 00:47:50,357
-No punishment is too severe for his crimes.
-就他的罪行, 什么样的惩罚都不算严厉
+00:47:47,784 --> 00:47:50,457
+No punishment is too severe for
+his crimes he had committed.
+就他所犯下的罪行, 什么样的惩罚都不算严厉
 
 65
-00:47:50,524 --> 00:47:55,473
-Word perfect. That is why I sent
-for you both at this moment of crisis.
-完美的词语．这就是为什么在此危机时刻我派人叫你俩来
+00:47:50,624 --> 00:47:55,573
+Word perfect. That is why I sent for
+you both at this moment of crisis.
+完美的描述．这就是为什么在此危机时刻我派人叫你俩来
 
 66
-00:47:55,644 --> 00:47:58,442
+00:47:55,744 --> 00:47:58,542
 - We need your help.
-- What must we do?
-- 我们需要你的帮助  - 我们必须做什么？
+- Tell us what we must do?
+- 我们需要你的帮助  - 告诉我们必须做什么？
 
 67
-00:48:00,004 --> 00:48:01,483
+00:48:00,104 --> 00:48:01,583
 Well...
 这样...
 
 68
-00:48:01,624 --> 00:48:03,535
+00:48:01,724 --> 00:48:03,635
 ♪ A-tishoo! A-tishoo!
 
 69
-00:48:03,704 --> 00:48:06,013
+00:48:03,804 --> 00:48:06,113
 ♪ We all fall down! ♪
 
 70
-00:48:07,344 --> 00:48:11,701
-- You are in an unhappy situation.
-- Is there anything we can do to help?
-- 你处于一个很不乐观的局面  - 有什么我们可以帮忙的吗？
+00:48:07,444 --> 00:48:09,951
+I understand, sir, that you are
+in an unhappy situation.
+我明白，你处于一个并不乐观的局面
 
 71
-00:48:11,864 --> 00:48:14,014
-- I wish there was.  - Look!
-- 我期望有  - 看！
+00:48:10,064 --> 00:48:13,114
+- Is there anything we can do to help?
+- I wish there was.
+- 有什么我们可以帮忙的吗？  - 我期望有
 
 72
-00:48:14,184 --> 00:48:17,142
-- What's that?
-- I never saw it before.
-- 那是什么？  - 之前我从没见过
+00:48:13,284 --> 00:48:15,242
+- Look!  - What's that?
+- 那是什么？  
 
 73
-00:48:17,304 --> 00:48:19,181
+00:48:15,404 --> 00:48:17,281
+I never saw it before.
+之前我从没见过
+
+74
+00:48:17,308 --> 00:48:19,281
 The Tardis!
 是 TARDIS!
 
-74
-00:48:19,344 --> 00:48:22,814
+75
+00:48:19,444 --> 00:48:22,914
 Safe and sound! By all that's wonderful!
 完好无损！这是最棒的了！
 
-75
-00:48:24,464 --> 00:48:27,422
-- Are you ready?
-- The time has come to leave.
-- 你准备好了吗？  - 到了离开的时候了
-
 76
-00:48:27,584 --> 00:48:31,133
-- How did you find the Tardis?
-- We'll explain later.
-- 你怎么找到 TARDIS 的？  - 我们稍后再解释
+00:48:24,564 --> 00:48:27,522
+- Doctor, are you ready?
+- The time has come to leave.
+- 博士，你准备好了吗？  - 到了离开的时候了
 
 77
-00:48:31,304 --> 00:48:34,137
-Just as I was thinking that all was over.
-正如我所料想的, 这都结束了
+00:48:27,684 --> 00:48:29,833
+- How did you find the Tardis?
+- We'll explain that later.
+- 你怎么找到 TARDIS 的？  - 我们稍后再解释那个
 
 78
-00:48:34,304 --> 00:48:37,182
+00:48:30,104 --> 00:48:34,237
+- Come on. We must get away.
+- Just as I was thinking that all was over.
+- 快来，我们必须得走了  - 正如我所料想的, 这一切都结束了
+
+79
+00:48:34,404 --> 00:48:37,282
 - Oh, no.
 - It's not over yet, Doctor.
 - 噢, 不  - 还没有结束, 博士
 
-79
-00:48:37,344 --> 00:48:39,619
+80
+00:48:37,444 --> 00:48:39,719
 Not yet.
 还没有
 
-80
-00:48:40,864 --> 00:48:43,253
+81
+00:48:40,964 --> 00:48:43,353
 Jamie! Zoe!
 Jamie! Zoe!﻿
 
-81
-00:48:45,904 --> 00:48:49,863
+82
+00:48:46,004 --> 00:48:49,963
 (LAUGHTER)
 
-82
-00:48:51,104 --> 00:48:53,095
+83
+00:48:51,204 --> 00:48:53,195
 What's happening?
 发生了什么？
 
-83
-00:48:53,804 --> 00:48:57,114
+84
+00:48:53,904 --> 00:48:57,214
 The children obeyed perfectly.
 孩子们完美地遵循了指令
 
-84
-00:48:57,284 --> 00:49:00,435
+85
+00:48:57,384 --> 00:49:00,535
 Their mission is completed.
 他们的任务完成了
 
-85
-00:49:02,484 --> 00:49:05,476
+86
+00:49:02,584 --> 00:49:05,576
 Now perhaps we can get down to business.
 现在也许我们该来谈点正经的了
 
-86
-00:49:05,644 --> 00:49:08,477
+87
+00:49:05,744 --> 00:49:08,577
 As you refused to take over at the controls,
 由于你拒绝接管控制权
 
-87
-00:49:08,644 --> 00:49:11,954
+88
+00:49:08,744 --> 00:49:12,054
 we were forced to incorporate you
-into the computer.
+into the computer itself.
 我们被迫把你集成到电脑中
 
-88
-00:49:12,124 --> 00:49:16,037
+89
+00:49:12,224 --> 00:49:16,137
 - To what purpose?
 - To bring planet Earth under our control.
 - 为了什么？  - 为了把地球带入我们的掌控之中
 
-89
-00:49:16,204 --> 00:49:19,401
+90
+00:49:16,304 --> 00:49:19,501
 - And its people?
 - We have no wish to destroy them.
-- 还有它上面的人？  - 我们无疑毁灭他们
+- 还有它上面的人？  - 我们无意毁灭他们
 
-90
-00:49:19,564 --> 00:49:24,638
+91
+00:49:19,664 --> 00:49:24,738
 Merely adjust their minds
 to suit our purpose.
 只是要调节他们的意识, 以满足我们的目的
 
-91
-00:49:24,804 --> 00:49:28,433
+92
+00:49:24,904 --> 00:49:28,533
 Sausages! Man would become
 like a string of sausages.
 香肠！人类会变成一串香肠
 
-92
-00:49:28,604 --> 00:49:32,483
+93
+00:49:28,704 --> 00:49:32,583
 Man will simply vanish from the Earth
 and reappear here.
 人们只是会从地球上消失, 重新出现在这里
 
-93
-00:49:32,644 --> 00:49:38,037
+94
+00:49:32,744 --> 00:49:38,137
 Leaving Earth undamaged and uninhabited
 for you to take over.
 留下地球完好无损也无人居住, 好让你们接管
 
-94
-00:49:38,204 --> 00:49:41,480
+95
+00:49:38,304 --> 00:49:41,580
 - Precisely.
 - If I co-operate.
-- 正是  - 如果我合作
+- 正是  - 这是假设我合作的情况下
 
-95
-00:49:41,644 --> 00:49:46,399
+96
+00:49:41,744 --> 00:49:46,499
 You have no alternative.
 You are part of the master brain.
 你没有选择．你是我们主大脑的一部分了
 
-96
-00:49:47,804 --> 00:49:51,353
+97
+00:49:47,904 --> 00:49:51,453
 So the computer
 feeds off my thoughts, does it?
-所以电脑会以我的思想为饲料了, 是吗？
+所以电脑能导入我的思想了, 是吗？
 
-97
-00:49:51,524 --> 00:49:53,162
+98
+00:49:51,624 --> 00:49:53,262
 Correct.
 正确
 
-98
-00:49:53,324 --> 00:49:55,633
+99
+00:49:53,424 --> 00:49:55,733
 Then it will create what I think.
 那它就会创造出我所想的东西
 
-99
-00:49:55,804 --> 00:50:00,958
+100
+00:49:55,904 --> 00:50:01,058
 Oh, no. No... You're now under control
 of the master brain.
 噢, 不, 不...你处于主大脑的控制之下
 
-100
-00:50:01,124 --> 00:50:06,994
-Are you so sure? You couldn't control my
-mind before and you can't control it now!
-你确定吗？你之前无法控制我的意识, 现在也不能！
-
 101
-00:50:07,164 --> 00:50:09,155
+00:50:01,224 --> 00:50:04,954
+Are you so sure?
+You couldn't control my mind before...
+你如此确信吗？你之前无法控制我的意识...
+
+102
+00:50:05,053 --> 00:50:07,094
+and you certainly can't control it now!
+现在当然也不能！
+
+103
+00:50:07,264 --> 00:50:09,255
 - Submit!  - No!
 - 投降！  - 不！
 
-102
-00:50:09,324 --> 00:50:13,715
+104
+00:50:09,424 --> 00:50:13,815
 You've given me equal power.
 It's a battle of wits between you and me.
-你已经给了我同样的能力, 现在就是你与我之间斗智斗勇了
+你已经给了我同等的能力, 现在就是你与我之间斗智斗勇了
 
-103
-00:50:15,364 --> 00:50:19,198
+105
+00:50:15,464 --> 00:50:19,298
 Oh, no. No! No! Stop! Stop!
 噢, 不, 不！不！停下！停下！
 
-104
-00:50:19,364 --> 00:50:26,156
+106
+00:50:19,464 --> 00:50:26,256
 Jamie, Zoe... Can you hear me?
 Think for yourselves. Don't be afraid.
-Jamie, Zoe...你能听到吗？想着你们自己, 不要害怕
+Jamie, Zoe...你们能听到吗？想着你们自己, 不要害怕
 
-105
-00:50:26,324 --> 00:50:29,521
+107
+00:50:26,424 --> 00:50:29,621
 You can open the book.
 Go on, you can do it.
 你们可以把书打开的，继续，你们可以的
 
-106
-00:50:29,684 --> 00:50:32,039
+108
+00:50:29,784 --> 00:50:32,139
 Oh. Oh, dear.
 噢，噢，天啊
 
-107
-00:50:32,204 --> 00:50:35,958
+109
+00:50:32,304 --> 00:50:36,058
 This is against everything we ever worked for.
-这与我们一直努力的方向相悖啊
+这有悖于我们一直努力争取的一切啊
 
-108
-00:50:36,124 --> 00:50:38,684
+110
+00:50:36,224 --> 00:50:38,784
 - (HUMMING)
 - Warning, warning.
 警告，警告
 
-109
-00:50:38,844 --> 00:50:41,722
+111
+00:50:38,944 --> 00:50:41,822
 Emergency action.
 Emergency. Emergency.
 紧急行动。紧急。紧急
 
-110
-00:50:42,004 --> 00:50:43,995
+112
+00:50:42,104 --> 00:50:44,095
 Calling white robots.
 呼叫白色机器人
 
-111
-00:50:44,164 --> 00:50:47,076
+113
+00:50:44,264 --> 00:50:47,176
 Guards will enter the control centre.
 警卫要进入控制中心
 
-112
-00:50:47,244 --> 00:50:51,123
+114
+00:50:47,344 --> 00:50:51,223
 The master brain must be protected.
 主大脑必须得到保护
 
-113
-00:50:52,404 --> 00:50:55,043
+115
+00:50:52,504 --> 00:50:55,143
 Push, Zoe. Push hard.
 推，Zoe。使劲推
 
-114
-00:50:55,204 --> 00:50:57,479
+116
+00:50:55,304 --> 00:50:57,579
 We will get out.
 我们快出去了
 
-115
-00:50:59,684 --> 00:51:05,873
+117
+00:50:59,784 --> 00:51:05,973
 - Soldiers! To the roof! Immediately!
 - Harder. Harder!
-- 有士兵！到房顶去！立刻！  - 用力，用力！
+- 士兵们！到房顶去！立刻！  - 用力，用力！
 
-116
-00:51:06,744 --> 00:51:08,336
+118
+00:51:06,844 --> 00:51:08,436
 Splendid!
 太棒了！
 
-117
-00:51:08,504 --> 00:51:11,655
+119
+00:51:08,604 --> 00:51:11,755
 Soldiers, forward!
 Seize them! Destroy them!
 士兵们，前进！抓住他们！消灭他们！
 
-118
-00:51:13,364 --> 00:51:15,878
+120
+00:51:13,464 --> 00:51:15,978
 - (CREAKING)  - Get back, Zoe.
 回来，Zoe
 
-119
-00:51:16,044 --> 00:51:18,239
+121
+00:51:16,144 --> 00:51:18,339
 (CREAKING)
 
-120
-00:51:19,244 --> 00:51:21,235
+122
+00:51:19,344 --> 00:51:21,335
 Can't you help us?
 你能帮我们吗？
 
-121
-00:51:21,404 --> 00:51:27,274
+123
+00:51:21,504 --> 00:51:27,374
 We obey our creator. That is all
 that can be expected of any character.
-我们听命于我们的创造者, 这是所有角色可以预期的行为
+我们听命于我们的创造者, 所有角色预期都是这个行为模式
 
-122
-00:51:31,404 --> 00:51:34,362
+124
+00:51:31,504 --> 00:51:34,462
 And now, Doctor, obey me!
 现在，博士，服从我！
 
-123
-00:51:35,284 --> 00:51:36,797
+125
+00:51:35,184 --> 00:51:36,697
 No!
 不！
 
-124
-00:51:36,964 --> 00:51:40,752
+126
+00:51:36,864 --> 00:51:40,652
 Suddenly the Karkus came to their rescue.
 突然 Karkus 来救他们了
 
-125
-00:51:43,124 --> 00:51:46,196
+127
+00:51:43,024 --> 00:51:46,096
 I am at your command.
 我任你差遣
 
-126
-00:51:46,364 --> 00:51:51,916
-(DOCTOR) He raised his anti-molecular
-disintegrator gun and destroyed them.
-他举起他的反分子分解枪，消灭了他们
-
-127
-00:51:55,044 --> 00:51:58,876
-No! But the Karkus realised his mistake
-不！Karkus 意识到了自己的错误
-
 128
-00:51:59,044 --> 00:52:03,720
+00:51:46,264 --> 00:51:51,816
+(DOCTOR) He raised his anti-molecular
+disintegrator gun and destroyed the soldiers.
+他举起他的反分子分解枪，消灭了这些士兵
+
+129
+00:51:54,244 --> 00:51:58,776
+No! But the Karkus realised his mistake
+不！但 Karkus 意识到了自己的错误
+
+130
+00:51:58,944 --> 00:52:03,620
 and turned back to face his real enemies,
 Jamie and Zoe!
 转而面对他真正的敌人：Jamie 和 Zoe！
 
-129
-00:52:06,644 --> 00:52:12,162
-With Jamie and Zoe firmly in his sights,
+131
+00:52:06,544 --> 00:52:12,562
+With Jamie and Zoe fixed firmly in his sights,
 the Karkus pressed the trigger of his gun.
-Karkus 紧紧地盯牢 Jamie 和 Zoe，扣下了扳机
+Karkus 紧紧地瞄准 Jamie 和 Zoe，扣下了扳机
 
-130
-00:52:13,164 --> 00:52:16,963
+132
+00:52:13,064 --> 00:52:16,863
 But... But all the power had been used up
 on the soldiers and it was useless.
 但是...但是能量已经在士兵身上用光了，枪失去作用了
 
-131
-00:52:17,124 --> 00:52:21,879
+133
+00:52:17,024 --> 00:52:21,779
 - You'll have to do better than that.
-- A swashbuckling figure appeared.
-- 你必须做得更好  - 一个恃强凌弱的人物出现了
+- Suddenly, a swashbuckling figure appeared.
+- 你必须比我编得更好了  - 突然，一个强大的人物出现了
 
-132
-00:52:22,044 --> 00:52:27,994
+134
+00:52:21,800 --> 00:52:34,370
+<i>(Cyrano de Bergerac 本是十七世纪剑客/诗人/作家</i>
+<i>(但更为人知的是同名戏剧中的主人公，该戏剧里添加了一些虚构情节)</i>
+
+135
+00:52:21,944 --> 00:52:27,894
 Poet and swordsman,
 the famous Cyrano de Bergerac.
-诗与剑客, 著名的Cyrano de Bergerac
-<i>(Cyrano de Bergerac 十七世纪作家</i>
-<i>fixme的同名戏剧中添加了一些虚构故事)</i>
+诗人兼剑客, 著名的Cyrano de Bergerac
 
-133
-00:52:28,164 --> 00:52:34,000
+136
+00:52:28,064 --> 00:52:33,900
 Remorselessly, Cyrano advanced on those
 who had dared to poke fun at his nose.
 Cyrano 冷酷无情地向那些想戳他鼻子的人发起了攻击
 
-134
-00:52:34,164 --> 00:52:35,473
+137
+00:52:34,064 --> 00:52:35,373
 But wait.
 但是等等
 
-135
-00:52:35,644 --> 00:52:39,956
+138
+00:52:35,544 --> 00:52:39,856
 He found himself face to face
 with the fearless musketeer
 他发现与他面对面的是无畏的火枪手
 
-136
-00:52:40,124 --> 00:52:42,718
+139
+00:52:40,024 --> 00:52:42,618
 and fearless swordsman D'Artagnan!
 无畏的剑客达达里昂！
 <i>(大仲马《三个火枪手》主人公之一)</i>
 
-137
-00:52:50,964 --> 00:52:52,955
+140
+00:52:50,864 --> 00:52:52,855
 Come on, Zoe.
 快点, Zoe
 
-138
-00:52:54,604 --> 00:52:57,437
-- Princess, can we use your hair?
+141
+00:52:54,504 --> 00:52:57,337
+- Princess Rapunzel, can we borrow your hair again?
 - Of course.
-- 公主, 能用一下你的头发吗？  - 当然
+- Rapunzel 公主, 能再借用一下你的头发吗？  - 当然
 
-139
-00:52:57,604 --> 00:53:01,153
-- Why are we going there?
-- We've got to find the Doctor.
-- 我们为什么要去那儿？  - 我们得找到博士
+142
+00:52:57,504 --> 00:53:01,053
+- Why we going down there?
+- We've got to find the Doctor. Come on.
+- 我们为什么要下去？  - 我们得找到博士, 快点
 
-140
-00:53:01,324 --> 00:53:06,398
+143
+00:53:01,224 --> 00:53:06,298
 Stop them! Substitute cutlass for rapier.
 Cancel Cyrano.
-阻止他们！把弯刀换成长剑, 取消 Cyrano
+阻止他们！把长剑换成弯刀, 取消 Cyrano
 
-141
-00:53:06,564 --> 00:53:08,555
+144
+00:53:06,464 --> 00:53:08,455
 Blackbeard the Pirate!
 黑胡子海盗！
 
-142
-00:53:08,724 --> 00:53:14,003
+145
+00:53:08,624 --> 00:53:13,903
 (DOCTOR) Cancel D'Artagnan.
 Substitute Sir Lancelot in full armour!
 取消达达里昂．换上全副武装的兰斯洛特爵士
+
+146
+00:53:14,000 --> 00:53:19,000
 <i>(兰斯洛特爵士: 亚瑟王圆桌骑士团成员之一, 也是其中最伟大最勇敢的骑士)</i>
 
-143
-00:53:21,484 --> 00:53:22,803
+147
+00:53:21,384 --> 00:53:22,703
 This way.
 这边
 
-144
-00:53:25,964 --> 00:53:29,434
+148
+00:53:25,864 --> 00:53:29,334
 (MASTER IN FLAT VOICE)
-The Doctor is expendable.
-博士是可以牺牲的
+The Doctor is expendable, expendable.
+博士是可以牺牲的，可以牺牲
 
-145
-00:53:29,604 --> 00:53:31,720
+149
+00:53:29,504 --> 00:53:31,620
 He will be destroyed.
 他将会被消灭
 
-146
-00:53:32,724 --> 00:53:37,240
+150
+00:53:32,624 --> 00:53:37,140
 (NORMAL VOICE) Oh, no, no.
 He's the only person. There's nobody else.
 噢, 不, 不．他是唯一的人选, 没有其他人了
 
-147
-00:53:37,404 --> 00:53:39,838
+151
+00:53:37,304 --> 00:53:39,738
 I can't go on for ever.
 我不能永远持续下去
 
-148
-00:53:40,004 --> 00:53:43,394
+152
+00:53:39,904 --> 00:53:43,294
 Please give me another chance.
 请再给我一次机会
 
-149
-00:53:44,404 --> 00:53:50,274
-(FLAT VOICE) The master brain
+153
+00:53:44,304 --> 00:53:50,174
+(FLAT VOICE) You have failed. The master brain
 must be protected against overloading.
-主大脑必须得到保护, 防止超载
+你已经失败了。主大脑必须得到保护, 防止超载
 
-150
-00:53:51,644 --> 00:53:55,080
+154
+00:53:51,544 --> 00:53:54,980
 Robot force will deal with him.
 将由机器人队伍来对付他
 
-151
-00:53:58,484 --> 00:54:02,397
+155
+00:53:58,384 --> 00:54:02,297
 Change robot weapon to destructor beam.
 将机器人的武器换为毁灭激光
 
-152
-00:54:04,484 --> 00:54:06,952
+156
+00:54:04,384 --> 00:54:06,852
 (LOW BUZZ)
 
-153
-00:54:13,444 --> 00:54:19,633
+157
+00:54:13,344 --> 00:54:19,533
 It is a pity that we have to destroy
 such an intelligent mind as yours, Doctor,
-很可惜我们不得不摧毁你这么聪明的大脑,博士
+很可惜，我们不得不摧毁你这么聪明的大脑,博士
 
-154
-00:54:19,804 --> 00:54:23,114
+158
+00:54:19,704 --> 00:54:23,014
 but you leave us no alternative.
 但你让我们没有退路了
 
-155
-00:54:24,124 --> 00:54:25,921
+159
+00:54:24,024 --> 00:54:25,821
 Disintegrate!
 分解！
 
-156
-00:54:26,084 --> 00:54:27,642
+160
+00:54:25,984 --> 00:54:27,542
 (HUMMING)
 
-157
-00:54:36,804 --> 00:54:38,795
+161
+00:54:36,704 --> 00:54:38,695
 Stop them!
 阻止他们！
 
-158
-00:54:41,244 --> 00:54:44,554
+162
+00:54:41,144 --> 00:54:44,454
 They will overload the master brain!
-他们要让主大脑超载！
+他们会主大脑超载的！
 
-159
-00:54:46,444 --> 00:54:49,117
+163
+00:54:46,344 --> 00:54:49,017
 Destroy them. Destroy.
 消灭他们, 消灭
 
-160
-00:54:50,644 --> 00:54:52,441
+164
+00:54:50,544 --> 00:54:52,341
 Oh!
 噢！
 
-161
-00:54:57,004 --> 00:54:58,562
+165
+00:54:56,904 --> 00:54:58,462
 Zoe, duck!
 Zoe, 蹲下！
 
-162
-00:54:58,724 --> 00:55:02,558
+166
+00:54:58,624 --> 00:55:02,458
 (GUNFIRE AND EXPLOSIONS)
 
-163
-00:55:09,624 --> 00:55:12,775
-- Shouldn't we go?
-- Yes. Jamie, give me a hand.
-- 我们走吗？  - 是的, Jamie, 搭我一把
+167
+00:55:09,524 --> 00:55:12,675
+- Shouldn't we get out of here?
+- Yes. Come on, Jamie, give me a hand.
+- 我们该逃出这里吧？  - 是的。快来，Jamie, 帮我一下
 
-164
-00:55:12,944 --> 00:55:16,732
+168
+00:55:12,844 --> 00:55:16,632
 - What do you want to bring him for?
-- Don't argue, Jamie.
-- 你想带他去做什么？  - 别吵, Jamie
+- Don't argue, Jamie. Give a hand.
+- 你想带他去做什么？  - 别吵了, Jamie，帮我一把
 
-165
-00:55:16,904 --> 00:55:19,372
+169
+00:55:16,804 --> 00:55:19,272
 (EXPLOSIONS)
 
-166
-00:55:19,544 --> 00:55:23,332
-I don't see why we had to bring him.
-He caused the trouble.
-我不明白我们为什么必须带上他, 是他造成了这些麻烦
+170
+00:55:19,444 --> 00:55:22,932
+Why we had to bring him.
+He is one of those caused the trouble.
+我们为什么必须带上他, 他是造成这些问题的根源之一
 
-167
-00:55:23,504 --> 00:55:26,735
+171
+00:55:23,004 --> 00:55:26,535
 - Are you all right, sir?
 - I'm not sure where I am.
 - 你还好吗, 先生？  - 我不清楚我在那里
 
-168
-00:55:26,904 --> 00:55:30,419
+172
+00:55:26,704 --> 00:55:30,219
 Is this the office of the ''Ensign'' magazine?
 这里是《上尉》杂志的编辑部吗？
 
-169
-00:55:30,584 --> 00:55:34,418
-You were kidnapped.
-They've been using your mind.
-你被绑架了, 他们一直在利用你的大脑
-
-170
-00:55:34,584 --> 00:55:38,463
-- What happens to us now?
-- That depends on the white robots.
-- 我们现在会怎样？  - 这取决于那些白色机器人
-
-171
-00:55:38,624 --> 00:55:42,537
-The order was to destroy.
-Let's hope they're destroying one another.
-之前的指令是要消灭．我们就指望它们会互相消灭吧
-
-172
-00:55:42,704 --> 00:55:46,379
-What about the Karkus and Gulliver
-and our friends?
-Karkus, 格列弗和我们的朋友们呢？
-
 173
-00:55:46,544 --> 00:55:50,696
+00:55:30,284 --> 00:55:34,118
+You were kidnapped, just like we were.
+They've been using your mind.
+你被绑架了, 跟我们一样。他们一直在利用你的大脑
+
+174
+00:55:34,284 --> 00:55:38,163
+- What happens to us now?
+- That depends on how efficient the white robots are.
+- 我们现在会怎样？  - 这取决于那些白色机器人效率怎样
+
+175
+00:55:38,224 --> 00:55:42,237
+The last order was to destroy.
+Let's hope they're destroying one another.
+最后的指令是要消灭．我们就指望它们会互相消灭吧
+
+176
+00:55:42,404 --> 00:55:46,079
+What about the Karkus and Gulliver
+and our other friends out there?
+Karkus, 格列弗会怎样，还有我们的其他朋友们呢？
+
+177
+00:55:46,244 --> 00:55:50,396
 - You can't blow up a fictional character.
 - But what about us?
 - 你没法炸死一个虚构人物  - 但我们怎么办？
 
-174
-00:55:50,864 --> 00:55:55,779
+178
+00:55:50,564 --> 00:55:53,579
 We'll have to hope the destruction
 of the computer returns us all to reality.
 我们只能期望电脑的毁灭会把我们崩回现实
 
-175
-00:55:55,944 --> 00:55:59,016
+179
+00:55:53,694 --> 00:55:57,216
+- And you, my dear sir.
 - Oh. Do you mean I'm going home?
+- 你也是，亲爱的先生  - 噢, 你是说我可以回家了？
+
+180
+00:55:57,284 --> 00:56:01,956
 - I hope so.
-- 噢, 你是说我可以回家了？  - 期望如此
+- But it could just as well send us into oblivion.
+- 我期望如此  - 但它也可能把我们送入湮灭
 
-176
-00:55:59,184 --> 00:56:02,256
-But it could just as well send us into oblivion.
-但它也可能把我们送入湮灭
-
-177
-00:56:02,424 --> 00:56:05,097
-- Vanish for ever?
+181
+00:56:02,124 --> 00:56:04,797
+- You mean we could vanish for ever?
 - We shall soon know.
-- 永远消失了？  - 很快我们就知道了
+- 你是说我们有可能永远消失？  - 很快我们就知道了
 
-178
-00:56:05,264 --> 00:56:08,256
+182
+00:56:04,964 --> 00:56:07,956
 - (EXPLOSIONS)
 - Hang on. Here it comes.
 - 稳住, 它来了

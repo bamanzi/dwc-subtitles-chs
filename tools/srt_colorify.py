@@ -11,10 +11,13 @@ def print_entry(entry):
     global entry_id
     entry_id += 1
 
-    assert(len(entry['dialog']) > 0)
-
     filename = entry['filename']
     lineno0 = entry['lineno']
+    
+    if len(entry['dialog'])==0:
+        print("%s:%d:ERROR: entry['dialog'] is empty" % (filename, lineno0), file=sys.stderr)
+        return
+
     non_ascii_line_count = 0
     if len(entry['dialog'])==1:
         if not entry['dialog'][0].startswith('('):
@@ -73,7 +76,7 @@ def main(filename):
                     entry['filename']  = filename
                     entry['lineno']    = lineno - 1
 
-                elif len(line)>0 and not line[0:2].isdigit(): # dialog line
+                elif len(line)>0 and not line.isdigit(): # dialog line
                     entry['dialog'].append(line)
         
         print_entry(entry)

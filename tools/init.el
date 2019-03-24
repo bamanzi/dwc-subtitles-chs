@@ -27,6 +27,7 @@
       (query-replace-regexp "\\([^0-9a-zA-z]\\), " "\\1，")
       (goto-char (point-min))
       (query-replace "。" "．")
+      (query-replace "，" ", ")
       (query-replace "？" "? ")
       (query-replace "！" "! ")
       ))

@@ -80,7 +80,7 @@ def main(files):
                     entry['filename']  = filename
                     entry['lineno']    = lineno - 1
 
-                elif len(line)>0 and not line[0:2].isdigit(): # dialog line
+                elif len(line)>0 and not line.isdigit(): # dialog line
                     entry['dialog'].append(line)
              
         print_entry(entry)

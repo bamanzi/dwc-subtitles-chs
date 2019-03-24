@@ -121,8 +121,8 @@ Where are they?
 
 23
 00:27:46,227 --> 00:27:48,457
-- Safe.  - You've actually spoken to them?
-- 安全着呢  - 你真同他们说过话？
+- Safe and well. - You've actually spoken to them?
+- 安然无恙  - 你真同他们说过话？
 
 24
 00:27:48,627 --> 00:27:52,905
@@ -140,7 +140,7 @@ where I came from and whither I was bound.
 00:27:55,627 --> 00:27:58,903
 - I heard nothing.
 - Probably that search party.
-- 我没听见什么  - 可能是搜索队
+- 我没听见什么  - 可能是那个搜索队
 
 27
 00:27:59,067 --> 00:28:02,139
@@ -169,7 +169,7 @@ If you give me away this time, I'm finished.
 00:28:16,587 --> 00:28:20,705
 I was ready with the hazard of my life
 to defend his person.
-我准备冒着我生命的危险来保护他的人
+我准备冒着生命危险来护卫他的人
 
 32
 00:28:20,867 --> 00:28:23,859
@@ -226,7 +226,7 @@ The question is, how do we get up there?
 
 42
 00:29:26,547 --> 00:29:29,778
-- It's a long way to climb.  - Zoe, duck!
+- It's an awful long way to climb.  - Zoe, duck!
 - 要爬上去太远了  - Zoe, 蹲下!
 
 43
@@ -260,8 +260,8 @@ and put ze hands above ze head.
 48
 00:29:56,547 --> 00:30:01,780
 Rubbish! Such a weapon
-is scientifically impossible. It doesn't exist.
-胡说！这样的武器在科学上是不可能的, 它并不存在
+is scientifically impossible. It doesn't exist!
+胡说！这样的武器在科学上是不可能的, 它并不存在！
 
 49
 00:30:01,947 --> 00:30:03,699
@@ -278,7 +278,7 @@ Hargh!
 00:30:08,307 --> 00:30:12,619
 Doctor, be careful. He could do it, you know.
 The Karkus has superhuman strength.
-博士, 小心, 他能做到的。Karkus 有这超人的力量
+博士, 小心, 他能做到的。Karkus 有着超人的力量
 
 52
 00:30:12,787 --> 00:30:14,778
@@ -288,7 +288,7 @@ You will be mincemeat!
 53
 00:30:14,947 --> 00:30:18,064
 Quickly, Doctor, say it!
-You know he's a fictional character.
+You know he's a fictional character,.
 快点，博士, 说啊！你知道他是个虚构人物
 
 54
@@ -362,7 +362,7 @@ I am your slave. Command me.
 67
 00:31:24,667 --> 00:31:27,227
 Take us up there, there's a good chap.
-带我们去吧, 那里有一个好小伙
+带我们上去吧, 那里有一个好小伙
 
 68
 00:31:27,387 --> 00:31:29,696
@@ -383,7 +383,8 @@ What did you say his name was?
 
 71
 00:31:41,007 --> 00:31:44,238
-We won't be needing you any longer. Run along.
+We won't be needing you any longer. 
+Run along.
 我们不再需要你了, 你走吧
 
 72
@@ -393,8 +394,8 @@ I obey.
 
 73
 00:31:48,727 --> 00:31:52,003
-- Come along.  - You can't just ring the bell.
-- 快过来  - 你可不能按门铃
+- Come along.  - You can't just ring the bell and go in.
+- 快过来  - 你可不能按了门铃就进
 
 74
 00:31:52,167 --> 00:31:54,158
@@ -499,15 +500,15 @@ you haven't seen any robots!
 
 93
 00:33:04,407 --> 00:33:08,446
-There's an electrical gadget
-around here somewhere that sets off an alarm gong.
+There's an electrical gadget around here 
+somewhere that sets off an alarm gong.
 这里某处有一个电子设备会触发警报
 
 94
 00:33:08,607 --> 00:33:11,963
 I walked through it, the gong went off
 and they sent robots after me.
-我从下面走过，警铃就响了，他们就派机器人来追我
+我从这里走过，警铃就响了，他们就派机器人来追我
 
 95
 00:33:12,127 --> 00:33:15,437
@@ -518,14 +519,14 @@ and they sent robots after me.
 96
 00:33:15,607 --> 00:33:19,600
 - Doctor, did you hear that?
-- Yes. I thought they'd turn up.
-- 博士, 你听到了吗？  - 是的, 我想他们会出现的
+- Yes. I thought they'd turn up sooner or later.
+- 博士, 你听到了吗？  - 是的, 我想它们迟早会出现的
 
 97
 00:33:19,767 --> 00:33:23,999
 It's a simple photo-electric cell.
 I'd better lift you over it.
-只是一个简单的光电元件。我可以抬你过去
+只是一个简单的光电元件。我最好抬你过去
 
 98
 00:33:24,167 --> 00:33:28,160
@@ -560,7 +561,7 @@ He is going to see the Master.
 00:33:42,047 --> 00:33:45,244
 This resolution perhaps may appear 
 bold and dangerous.
-这个决定似乎是比较大胆而且危险
+这个决定似乎比较大胆而且危险
 
 104
 00:33:45,407 --> 00:33:47,921
@@ -614,9 +615,9 @@ Your servant.
 
 113
 00:34:22,047 --> 00:34:25,800
-- You're not going to do as he says?
+- You're not really going to do as he says?
 - No. Of course not. I said I'd think it over.
-- 你不打算按他说的做吧？  - 不，当然不。我说过我会考虑
+- 你不打算真按他说的做吧？  - 不，当然不。我说过我会考虑
 
 114
 00:34:25,967 --> 00:34:28,846
@@ -682,7 +683,8 @@ we would have become fiction.
 
 125
 00:35:09,807 --> 00:35:13,066
-That's horrible. Come on. Let's get out of here before too late.
+That's horrible. Come on. 
+Let's get out of here before too late.
 这太可怕了, 快点，我们离开这里，不然来不及了
 
 126
@@ -696,9 +698,9 @@ Zoe，不要走...不！不要走那里
 
 128
 00:35:17,607 --> 00:35:20,804
-<i>Attention.</i>
+<i>Attention. Attention.</i>
 <i>There are still strangers at large.</i>
-注意, 仍然有陌生人在逃
+注意，注意, 仍然有陌生人在逃
 
 129
 00:35:20,967 --> 00:35:23,925
@@ -746,7 +748,7 @@ an interview with the Master.
 00:35:43,727 --> 00:35:47,686
 - (BUZZING AND BEEPING)
 - Are you looking for us, by any chance?
-你们是在找我们吗，有可能吗？
+你们是在找我们吗，碰巧？
 
 137
 00:35:55,247 --> 00:35:59,001
@@ -852,7 +854,7 @@ on the great skill
 00:37:28,487 --> 00:37:31,365
 in which you tackled
 in various stages of your examination.
-在不同阶段的测试中展现出来的那些技巧
+在不同阶段的测试中都展现出来了
 
 156
 00:37:31,527 --> 00:37:34,439
@@ -966,283 +968,288 @@ No, no.
 176
 00:38:59,567 --> 00:39:03,162
 You... You must excuse me for one moment.
-你...你必须原谅我失配一会儿
+你...你必须原谅我失陪一会儿
 
 177
-00:39:08,007 --> 00:39:10,999
+00:39:08,007 --> 00:39:10,959
 - Let's get out of here.
 - Yes. It gives me the creeps.
 - 我们离开这里吧  - 是的，都让我起鸡皮疙瘩了
 
 178
-00:39:11,167 --> 00:39:16,082
-- No. I need to find out more.
-- You keep him talking. Zoe and me will find another way out.
-- 不, 我需要查明更多情况  -你跟他一直说话，Zoe 和我另外找一条路出去
+00:39:11,067 --> 00:39:12,482
+No. I need to find out more.
+不, 我需要查明更多情况
 
 179
+00:39:12,657 --> 00:39:16,082
+You keep him talking. 
+Zoe and me will find another way out.
+你跟他一直说话，Zoe 和我另外找一条路出去
+
+180
 00:39:16,247 --> 00:39:18,477
 No, Jamie. I think we'd be safer
 if we all stick together.
 不，Jamie. 我觉得我们团结在一起的话更安全点
 
-180
+181
 00:39:18,647 --> 00:39:24,040
 - (HUMMING STOPS)
 - Sorry to have kept you waiting. Where were we?
 - 抱歉让你们久等了．刚才说到哪儿了？
 
-181
+182
 00:39:24,207 --> 00:39:28,325
 You were about to answer my question.
 Are you a prisoner here?
-你这要回答我的问题, 你是这里的囚徒吗？
+你正要回答我的问题, 你是这里的囚徒吗？
 
-182
+183
 00:39:28,487 --> 00:39:31,081
 No. No, I wouldn't say that.
 不, 不, 我不会这么说
 
-183
+184
 00:39:31,247 --> 00:39:36,401
 In fact, I rather like being here.
 I have everything I could possibly want.
 事实上, 我挺喜欢待在这里．我想要的基本都有了
 
-184
+185
 00:39:36,567 --> 00:39:40,685
 This vast library
 with all the known works of fiction.
 这个巨大的宝库, 收藏了所有已知的虚构故事
 
-185
+186
 00:39:40,847 --> 00:39:44,556
 All the masterpieces written by Earthmen
 since the beginning of time.
 自从有史以来，所有地球人撰写的杰作
 
-186
+187
 00:39:49,287 --> 00:39:54,600
 - I don't think he noticed.
 - No. Let's try down there.
 - 我觉得他没注意到  - 不, 我们试试那边
 
-187
+188
 00:39:54,767 --> 00:40:01,684
 I see, yes. And only an Earthman-type creature
 has the power to create fiction.
 我明白了, 是的．而且只有地球人才有创造虚构故事的能力
 
-188
+189
 00:40:01,847 --> 00:40:04,600
 - The power to imagine.
 - Exactly.
 - 想象力  - 正是
 
-189
+190
 00:40:04,767 --> 00:40:09,238
 This is one field in which
 the intelligence I serve cannot compete.
 这个领域正是我所服务的智慧生命所不能匹敌的
 
-190
+191
 00:40:09,407 --> 00:40:15,039
 They need a man of boundless imagination
 as a...um...
 他们需要一个具有无边想象力的人, 作为....
 
-191
+192
 00:40:15,207 --> 00:40:18,165
 a powerhouse, a lifeline.
 作为他们的发电厂, 生命线
 
-192
+193
 00:40:18,327 --> 00:40:22,559
 What is this intelligence you serve
 and why was I brought here?
 你服务的这种智慧生命是什么？为什么我被带到这里来？
 
-193
+194
 00:40:22,727 --> 00:40:26,845
 Well, as you see, I'm no longer young,
 哦, 如你所见, 我已经不再年轻了
 
-194
+195
 00:40:27,007 --> 00:40:29,999
 whereas you, Doctor, are ageless.
 而你, 博士, 是不老的
 
-195
+196
 00:40:30,167 --> 00:40:34,843
 You exist outside
 the barriers of time and space.
 你存在于时间与空间的屏障之外
 
-196
+197
 00:40:35,007 --> 00:40:37,396
 And you want me...
 所以你想要我...
 
-197
+198
 00:40:37,567 --> 00:40:42,561
 To take over this unique situation.
 To take my place.
 接管这个独特的地方, 接替我的位置
 
-198
+199
 00:40:43,767 --> 00:40:46,486
 - I refuse!  - (HUMMING)
 我拒绝！
 
-199
+200
 00:40:50,527 --> 00:40:53,280
 (FLAT VOICE) Refusal is impossible.
 拒绝是不可能的
 
-200
+201
 00:40:53,447 --> 00:40:57,122
 You are here to serve us.
 There is no alternative.
 你到这里服侍我们, 没有别的选择
 
-201
+202
 00:40:59,887 --> 00:41:03,022
 - We've got to find a way out here.
 - There must be a door somewhere.
 - 我们必须找到一条出路  - 肯定某个地方有道门
 
-202
+203
 00:41:03,087 --> 00:41:05,682
 - Look, if we can get the Doctor away...
 - Jamie!
 - 如果我们能把博士弄走...  - Jamie!
 
-203
+204
 00:41:09,087 --> 00:41:11,396
 No. Back this way!
 不, 回这边来！
 
-204
+205
 00:41:11,567 --> 00:41:14,035
 Resistance is useless.
 抵抗是无用的！
 
-205
+206
 00:41:14,207 --> 00:41:18,439
 Submit your will for the sake
 of the greater good. It has been decided.
 为了更大的利益, 投降吧．这已经决定了
 
-206
+207
 00:41:18,607 --> 00:41:21,883
 I refuse.
 I shall make that decision for myself.
 我拒绝．我将自己为自己做出决定
 
-207
+208
 00:41:22,047 --> 00:41:29,681
 - (HUMMING STOPS)
 - You will find there is only one decision open to you.
 你会发现，只有一个决定对你是开放的
 
-208
+209
 00:41:29,847 --> 00:41:31,599
 (HUMMING)
 
-209
+210
 00:41:31,767 --> 00:41:36,079
 Mission accomplished.
 Procedure as arranged.
 任务完成．按计划过程处理
 
-210
+211
 00:41:36,247 --> 00:41:41,765
 - What does that mean?
 - The latest chapter of the serial story.
 - 那是什么意思？  - 连载故事的最后一章
 
-211
+212
 00:41:41,927 --> 00:41:44,395
 I'll read you the last sentence.
 我给你读读最后的一句
 
-212
+213
 00:41:44,567 --> 00:41:47,479
 ''Zoe and Jamie attempted to escape,
 "Zoe 和 Jamie 试图逃走
 
-213
+214
 00:41:47,647 --> 00:41:51,037
 ''but in making through the library,
 "但在试图通过图书馆的途中
 
-214
+215
 00:41:51,207 --> 00:41:55,758
 ''they were ambushed by a party of guards
 and overpowered.''
 "他们被一队警卫伏击, 被打败了＂
 
-215
+216
 00:41:55,927 --> 00:41:57,838
 Oh, no! Jamie! Zoe!
 噢, 不！Jamie! Zoe!
 
-216
+217
 00:41:58,007 --> 00:42:01,238
 Are you prepared to co-operate now?
 你现在准备好合作了吗？
 
-217
+218
 00:42:01,407 --> 00:42:06,083
 Your life in return for theirs?
 Is that a bargain?
 用你的命换他们的命？这样不值吗？
 
-218
+219
 00:42:06,247 --> 00:42:08,158
 (CHUCKLES)
 
-219
+220
 00:42:08,327 --> 00:42:09,726
 Look.
 看！
 
-220
+221
 00:42:11,807 --> 00:42:13,604
 (BUZZING)
 
-221
+222
 00:42:13,767 --> 00:42:15,758
 (THEY GROAN)
 
-222
+223
 00:42:17,647 --> 00:42:21,720
 - Oh, Jamie, my eyes!
 - I can't see. Where are you?
 - 哦, Jamie, 我的眼睛!  - 我看不见了, 你在哪儿？
 
-223
+224
 00:42:23,407 --> 00:42:26,240
 Quick, back. Get away.
 快, 回去, 赶紧走
 
-224
+225
 00:42:26,407 --> 00:42:28,477
 Zoe, here, quick.
 Zoe, 这边, 快
 
-225
+226
 00:42:30,007 --> 00:42:32,521
 No. It's a book! Back out again.
 不, 这是本书！再退出去
 
-226
+227
 00:42:32,687 --> 00:42:37,078
 - Oh! Oh, push!
 - Open up! It's closing!
 - 噢！噢, 推！  - 打开！它要关上了
 
-227
+228
 00:42:37,247 --> 00:42:39,841
 - No!  - Aagh!
 - 不!  - 啊！
