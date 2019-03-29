@@ -1,0 +1,1276 @@
+1
+00:00:06,006 --> 00:00:07,006
+Sincro: wyxchari
+
+2
+00:01:31,107 --> 00:01:32,537
+Retain full pressure.
+
+3
+00:01:35,729 --> 00:01:39,073
+Full pressures being maintained on master control. Reserves are standing by.
+
+4
+00:01:41,378 --> 00:01:42,803
+Let me see. Let me see.
+
+5
+00:01:43,112 --> 00:01:45,027
+Doctor, what could be happening to Jamie now?
+
+6
+00:01:45,275 --> 00:01:51,336
+I hate to think. It won't be anything very pleasant. Polly, go and see what the first dial on the control desk registers.
+
+7
+00:01:51,541 --> 00:01:52,209
+Right.
+
+8
+00:01:52,718 --> 00:01:53,621
+Hurry up.
+
+9
+00:01:57,548 --> 00:01:58,447
+Full pressure.
+
+10
+00:01:58,694 --> 00:02:03,175
+Full pressure. And the other one? Come on.
+
+11
+00:02:05,579 --> 00:02:06,445
+Zero.
+
+12
+00:02:06,959 --> 00:02:13,281
+Zero. Now I think there's only one thing for it. Plus must be made minus and minus must be made plus.
+
+13
+00:02:14,485 --> 00:02:16,000
+What's the matter?
+
+14
+00:02:16,219 --> 00:02:17,849
+The question is which is plus and which is minus?
+
+15
+00:02:18,280 --> 00:02:19,159
+Ooh.
+
+16
+00:02:45,413 --> 00:02:46,856
+What are you doing?
+
+17
+00:02:47,234 --> 00:02:48,227
+Oh, just checking.
+
+18
+00:02:48,446 --> 00:02:49,639
+Well, I don't need your help, thank you.
+
+19
+00:02:49,824 --> 00:02:52,180
+As you please. But, uh, I think you're going to run into trouble.
+
+20
+00:02:52,628 --> 00:02:53,710
+Why? What's the matter?
+
+21
+00:02:53,913 --> 00:02:56,589
+Well, according to my calculations, the pressure gauges are wrong.
+
+22
+00:02:56,769 --> 00:02:57,891
+Don't be ridiculous.
+
+23
+00:02:58,065 --> 00:03:08,329
+Ridiculous? Well, that's as may be. But, after all, three times three is nine, and if you divide by half of its own cubic capacity to the formula, Pi over four squared, I think you'll have to agree with me.
+
+24
+00:03:08,590 --> 00:03:09,626
+Don't touch that.
+
+25
+00:03:09,859 --> 00:03:10,503
+Why not?
+
+26
+00:03:10,727 --> 00:03:14,163
+That's the... That controls the inflow system.
+
+27
+00:03:14,348 --> 00:03:17,986
+Oh. So these are the inflow pipes, are they? That's all I wanted to know.
+
+28
+00:03:18,178 --> 00:03:19,142
+But what are you doing?
+
+29
+00:03:19,318 --> 00:03:24,924
+Inflow. Inflow. Outflow. Inflow. High pressure. Low pressure and O-U-T spells out.
+
+30
+00:03:25,091 --> 00:03:26,233
+Doctor, what are you doing?
+
+31
+00:03:26,401 --> 00:03:28,131
+It's alright, Polly. Confusion is best left to the experts.
+
+32
+00:03:28,277 --> 00:03:29,810
+But... Stop it! You've no idea what you're doing.
+
+33
+00:03:29,974 --> 00:03:38,431
+Oh, yes I have. I can stand an operation on its head quicker than anyone. There! I think you'll find I've revolutionised the entire gas flow of the Colony.
+
+34
+00:03:38,604 --> 00:03:40,929
+You must be mad. You'll be locked up.
+
+35
+00:03:41,088 --> 00:03:42,747
+Polly, see what those dials register now.
+
+36
+00:03:42,928 --> 00:03:45,614
+Right. Doctor? Something's happened to this one.
+
+37
+00:03:45,841 --> 00:03:46,787
+What does it read?
+
+38
+00:03:46,932 --> 00:03:47,830
+It's reads zero.
+
+39
+00:03:47,992 --> 00:03:49,083
+And the other one?
+
+40
+00:03:49,241 --> 00:03:50,177
+Full pressure.
+
+41
+00:03:50,341 --> 00:03:55,376
+Good. Splendid. That means there'll be a fine old gale of fresh air blowing along the old shaft any time now.
+
+42
+00:03:58,400 --> 00:04:12,483
+Ah! Ah! Let go! No! Let... Not yet, you're not.
+
+43
+00:04:19,587 --> 00:04:24,381
+You can do nothing. You'll only delay matters. It's a simple matter for me to reconnect the gas.
+
+44
+00:04:24,575 --> 00:04:26,439
+Yes, I'm sure it is. But I'm sure you'd like a little help.
+
+45
+00:04:26,638 --> 00:04:28,862
+Now stop that. You've enough to answer for already.
+
+46
+00:04:29,118 --> 00:04:32,627
+Guard! Guard!
+
+47
+00:04:33,690 --> 00:04:35,712
+It's all right, Polly. I've got his keys. Lock the door.
+
+48
+00:04:35,930 --> 00:04:37,449
+Send the guard, immediately!
+
+49
+00:04:43,083 --> 00:04:44,673
+They're bound to get in sooner or later.
+
+50
+00:04:44,846 --> 00:04:48,648
+Yes. Well, the later the better. The only thing we can do for Jamie now is to give him time. Lock the door.
+
+51
+00:05:14,821 --> 00:05:23,197
+This is Control. Why has the outflow of gas stopped? Gas must be pumped into the old shaft without interruption. Begin pumping immediately.
+
+52
+00:05:25,585 --> 00:05:29,583
+I need help immediately. The strangers obey nothing. They are turning taps in the wrong direction.
+
+53
+00:05:29,818 --> 00:05:31,653
+Guards have been detailed to assist you.
+
+54
+00:05:31,812 --> 00:05:32,740
+Open up in there!
+
+55
+00:05:35,598 --> 00:05:37,755
+Keys! My keys! Where are my keys?
+
+56
+00:05:37,923 --> 00:05:41,207
+Oh, dear. Your keys. Try, uh, in your pocket. Or on the gantry. Or over there.
+
+57
+00:05:41,368 --> 00:05:42,314
+Look, I know you've got them.
+
+58
+00:05:42,500 --> 00:05:43,902
+Doctor, the door.
+
+59
+00:05:44,119 --> 00:05:46,069
+Open up in there or we'll smash it in.
+
+60
+00:05:46,292 --> 00:05:47,183
+It's going to give way.
+
+61
+00:05:47,372 --> 00:05:48,436
+Come on, Polly. Let's get out of here.
+
+62
+00:05:49,253 --> 00:05:52,328
+No, not that way - it goes to the pits. Quick. Try that one.
+
+63
+00:05:52,647 --> 00:05:53,375
+It's locked.
+
+64
+00:05:53,597 --> 00:05:56,109
+Then use the keys. Quick, Doctor. Quick!
+
+65
+00:05:58,164 --> 00:06:01,629
+Over there. Quick! Stop them before they do any damage.
+
+66
+00:06:01,844 --> 00:06:02,457
+Get them!
+
+67
+00:06:08,151 --> 00:06:09,728
+Push, Polly! Push!
+
+68
+00:06:12,971 --> 00:06:13,954
+I can't!
+
+69
+00:06:14,203 --> 00:06:19,549
+You've got to. Come on. Together. I've nearly got it locked.
+
+70
+00:06:27,160 --> 00:06:28,195
+There we are.
+
+71
+00:06:31,840 --> 00:06:33,229
+Where are we?
+
+72
+00:06:35,912 --> 00:06:38,567
+Well, it looks rather like a cupboard with a lot of pipes.
+
+73
+00:06:39,126 --> 00:06:41,050
+Where do you suppose they lead?
+
+74
+00:06:41,245 --> 00:06:44,274
+They must lead somewhere. Let's have a look.
+
+75
+00:06:47,063 --> 00:06:51,906
+Doctor, I think these are the pipes that carry the poisonous gas.
+
+76
+00:06:52,175 --> 00:06:53,446
+Yes, very likely.
+
+77
+00:06:53,920 --> 00:06:56,370
+Well, don't you think we'd better stay here?
+
+78
+00:06:56,725 --> 00:07:00,839
+Stay here? I'm not spending the rest of my life with a lot of old pipes.
+
+79
+00:07:01,268 --> 00:07:02,190
+But Doctor...
+
+80
+00:07:02,437 --> 00:07:11,529
+Now, come along Polly. I'm sure there's no need to be afraid. Well... well, I think there's no need to be afraid. Oh, come on. Let's find out.
+
+81
+00:07:26,838 --> 00:07:30,642
+There, that ought to do it. Let's hope we're not too late.
+
+82
+00:08:10,572 --> 00:08:11,605
+What do you know?
+
+83
+00:08:11,904 --> 00:08:14,646
+We all know Control is right, and we must obey!
+
+84
+00:08:14,917 --> 00:08:16,415
+Let them know. Let them know.
+
+85
+00:08:16,640 --> 00:08:18,069
+Let them know they're happy!
+
+86
+00:08:18,253 --> 00:08:19,490
+Greet the morning with a shout.
+
+87
+00:08:19,661 --> 00:08:21,115
+Everyone up. The sun is out.
+
+88
+00:08:21,268 --> 00:08:22,156
+Rah, rah, rah!
+
+89
+00:08:22,305 --> 00:08:29,140
+Rah, rah, rah! Cheer for the Colony. We're the gang that works the hardest, and we must obey. Obey Control. Ring the bell.
+
+90
+00:08:29,330 --> 00:08:30,234
+Rah, rah, rah!
+
+91
+00:08:30,415 --> 00:08:31,134
+Rah, rah, rah!
+
+92
+00:08:31,374 --> 00:08:32,067
+Work well.
+
+93
+00:08:32,255 --> 00:08:33,426
+Ring the bell!
+
+94
+00:08:33,654 --> 00:08:43,395
+Oh, that's much better. But, we'll do it again, and this time with more feeling. Ah! And don't forget our job is to inspire the others - our brave workers who are doing such a dangerous job. All right?
+
+95
+00:08:43,670 --> 00:08:44,508
+All right!
+
+96
+00:08:44,785 --> 00:08:45,894
+What do you know?
+
+97
+00:08:46,098 --> 00:08:48,801
+We all know Control is right, and we must obey!
+
+98
+00:08:49,008 --> 00:08:50,738
+Let them know. Let them know.
+
+99
+00:08:50,907 --> 00:08:52,424
+Let them know they're happy!
+
+100
+00:08:52,661 --> 00:08:54,169
+Greet the morning with a shout.
+
+101
+00:08:54,360 --> 00:08:55,788
+Everyone up. The sun is out.
+
+102
+00:08:55,957 --> 00:08:56,692
+Rah, rah, rah!
+
+103
+00:08:56,837 --> 00:08:57,546
+Rah, rah, rah!
+
+104
+00:08:57,755 --> 00:09:04,510
+Oh, that's very good! That's beginning to sound like something. It still needs a bit more clarity, and I think that the girls could...
+
+105
+00:09:07,187 --> 00:09:09,194
+Say! how did you get there?
+
+106
+00:09:09,431 --> 00:09:11,994
+Oh, w... well, uh... I just, um... as a matter of fact...
+
+107
+00:09:12,251 --> 00:09:14,368
+Oh, I see. You're one of the dancers.
+
+108
+00:09:14,573 --> 00:09:20,373
+One of the dancers? Oh, I'm afraid, uh... Aye. Aye, y... y... yes. I'm one of the dancers.
+
+109
+00:09:20,575 --> 00:09:21,719
+And you got your dance ready?
+
+110
+00:09:21,908 --> 00:09:25,585
+My dance? Ah... Well, uh... Yes. Yes, it's ready.
+
+111
+00:09:25,857 --> 00:09:28,020
+Well, go ahead. I'll see it now.
+
+112
+00:09:28,312 --> 00:09:29,428
+You'll see it now?
+
+113
+00:09:29,655 --> 00:09:34,876
+And don't forget you have to be very good to get into the Happy Colony finals. We want something gay and cheerful.
+
+114
+00:09:35,194 --> 00:09:36,337
+Gay and cheerful?
+
+115
+00:09:36,565 --> 00:09:37,810
+Have you any music?
+
+116
+00:09:38,286 --> 00:09:39,789
+Ah, no. I don't need it.
+
+117
+00:09:40,010 --> 00:09:42,410
+Go ahead. We'll pick up the rhythm and clap to it. All right?
+
+118
+00:09:42,561 --> 00:09:43,552
+All right!
+
+119
+00:09:44,932 --> 00:09:47,670
+Well, come on. Get on with it. We haven't got all day.
+
+120
+00:09:48,080 --> 00:09:49,200
+Oh, aye.
+
+121
+00:09:56,445 --> 00:09:59,000
+That's very good. What do you call it?
+
+122
+00:09:59,205 --> 00:10:00,051
+The Highland Fling.
+
+123
+00:10:00,258 --> 00:10:01,567
+Why do you call it the Highland Fling?
+
+124
+00:10:01,765 --> 00:10:04,534
+Because we finish the dance by flinging ourselves out the door.
+
+125
+00:10:04,808 --> 00:10:07,038
+Oh, that's very good! Come on now. Rah, rah, rah!
+
+126
+00:10:07,241 --> 00:10:07,838
+Rah, rah, rah!
+
+127
+00:10:08,012 --> 00:10:09,367
+Cheers for the Colony. Rah, rah, rah!
+
+128
+00:10:09,704 --> 00:10:11,150
+Where did this boy come from?
+
+129
+00:10:11,404 --> 00:10:12,573
+Oh, he's one of the dancers.
+
+130
+00:10:12,899 --> 00:10:18,537
+Nonsense. He's the escaped stranger. You there - identify him. Is this the boy you reported?
+
+131
+00:10:19,921 --> 00:10:21,859
+Well... Well... Yes.
+
+132
+00:10:22,103 --> 00:10:23,386
+Ben, you gave me away.
+
+133
+00:10:23,635 --> 00:10:32,820
+Tie him up. Go to the Pilot. Tell him the stranger's found. Tell him it won't be long before we get our hands on his friends as well.
+
+134
+00:10:33,751 --> 00:10:35,156
+Jamie, I'm...
+
+135
+00:10:40,694 --> 00:10:46,643
+No permission for the guards to go on forbidden ground. Repeat, no permission. They are not to cover the exit to the old shaft. This is in use at this moment by Control. No one is to go near the old shaft.
+
+136
+00:10:46,884 --> 00:10:47,674
+Shh. I hear voices. Very faint.
+
+137
+00:10:48,153 --> 00:10:49,341
+I don't hear anything.
+
+138
+00:10:49,956 --> 00:10:51,387
+Stay here a minute, Polly.
+
+139
+00:10:51,625 --> 00:10:53,068
+No. Don't leave me.
+
+140
+00:10:54,420 --> 00:10:55,993
+The search for the other strangers must be carried on.
+
+141
+00:10:56,287 --> 00:10:59,259
+The Controller. The voice behind the screen.
+
+142
+00:11:00,471 --> 00:11:05,528
+All guards are detailed to hunt for the Doctor and the girl. They must be taken dead or alive.
+
+143
+00:11:07,176 --> 00:11:09,816
+Look! He must be there.
+
+144
+00:11:22,418 --> 00:11:32,502
+This is Control. The day shift is to begin work in the emergency gas shaft. All pressures are to be maintained. The Colony cannot live without gas!
+
+145
+00:11:33,735 --> 00:11:35,630
+So that's where all the gas goes.
+
+146
+00:11:35,923 --> 00:11:40,576
+Yes. Just as I thought. These creatures would die without it.
+
+147
+00:11:41,478 --> 00:11:45,381
+But how long have they been there? I mean, they weren't always in control, were they?
+
+148
+00:11:47,341 --> 00:11:56,834
+I couldn't tell you when they were here in the first place, Polly. They're like germs in the human body. They've got into the body of this colony. They're living as parasites.
+
+149
+00:11:57,164 --> 00:11:58,787
+You make it sound like a disease.
+
+150
+00:11:59,012 --> 00:12:00,433
+Polly, that's what I think they are.
+
+151
+00:12:01,112 --> 00:12:05,830
+They're in the control room. It must be like getting into the brain, mustn't it?
+
+152
+00:12:06,028 --> 00:12:08,347
+Yes. Very likely.
+
+153
+00:12:12,782 --> 00:12:14,659
+Shh. They might hear you.
+
+154
+00:12:14,869 --> 00:12:20,541
+Now then. One system must provide them with the gas they need, and the other one must be an outflow.
+
+155
+00:12:21,042 --> 00:12:25,486
+Doctor, we've got to bring the Pilot here. Then we can show him these creatures really do exist.
+
+156
+00:12:27,173 --> 00:12:29,134
+Yes, Polly, I think it might work.
+
+157
+00:12:30,014 --> 00:12:31,519
+Look at me when I talk to you.
+
+158
+00:12:32,043 --> 00:12:36,515
+Ola, a word with you. Where exactly did you catch him?
+
+159
+00:12:36,887 --> 00:12:38,803
+In here. In the hall, Pilot.
+
+160
+00:12:39,228 --> 00:12:41,136
+I see. So, in fact, he gave himself up?
+
+161
+00:12:41,418 --> 00:12:43,157
+He should never have been allowed to escape.
+
+162
+00:12:43,417 --> 00:12:45,109
+Are you criticising Control?
+
+163
+00:12:45,327 --> 00:12:46,815
+I'm criticising the running of the pits.
+
+164
+00:12:47,022 --> 00:12:48,421
+But that is my job, Ola.
+
+165
+00:12:48,608 --> 00:12:56,653
+I know that. But were it not for my guards, this stranger would still be a danger to all of us. I am going to report to Control that there is no discipline in the pits.
+
+166
+00:12:56,827 --> 00:12:57,875
+That's not the only report that Control will get!
+
+167
+00:12:58,035 --> 00:13:04,742
+Ever since these strangers arrived your authority in this colony has gone to pieces. They come and go as they please, and even now two of them are still missing.
+
+168
+00:13:04,979 --> 00:13:20,383
+Good morning. Good morning. Good morning. Well, everyone is up bright and early. And the last two strangers are not missing after all. Oh, come now. You can't have bad temper and differences of opinion in this happy type colony. Say you're sorry, Ola. Say you're sorry, Pilot.
+
+169
+00:13:20,580 --> 00:13:22,704
+Doctor, what did ye come here for? You've walked into a trap.
+
+170
+00:13:22,880 --> 00:13:25,635
+Good morning, Jamie. Nice to see you so well cared for.
+
+171
+00:13:25,798 --> 00:13:26,594
+Yes, but Doctor...
+
+172
+00:13:26,776 --> 00:13:33,271
+Oh, it's all right. I've just come in to have a word with my old friend, the Pilot. Good morning, Ben. I hope you're feeling more your old self?
+
+173
+00:13:33,521 --> 00:13:34,653
+Yes, Doctor. I am.
+
+174
+00:13:35,164 --> 00:13:37,527
+Why did not your guards arrest these strangers?
+
+175
+00:13:37,712 --> 00:13:39,849
+I don't know. Guards, arrest them!
+
+176
+00:13:40,028 --> 00:13:41,455
+That is no longer necessary.
+
+177
+00:13:41,827 --> 00:13:46,063
+Of course not. You can't arrest us now we've given ourselves up. That's against the rules.
+
+178
+00:13:47,808 --> 00:13:49,553
+Now. You wish to see me?
+
+179
+00:13:49,784 --> 00:13:51,492
+Yes. I do. Urgently. Come with me.
+
+180
+00:13:53,516 --> 00:14:05,534
+This is Control. Everyone is to return to work immediately. This order includes all executives. It includes the Pilot. Everyone back to work immediately.
+
+181
+00:14:05,765 --> 00:14:06,685
+Well, I shall have to go.
+
+182
+00:14:06,904 --> 00:14:11,612
+No, wait. You must listen to what the Doctor's got to tell you. They're only saying that because they know what we've seen.
+
+183
+00:14:11,804 --> 00:14:12,444
+At once!
+
+184
+00:14:12,662 --> 00:14:13,442
+Pilot.
+
+185
+00:14:13,640 --> 00:14:15,843
+At once! That is an order!
+
+186
+00:14:16,082 --> 00:14:19,321
+Don't take any notice of them. That's not your Controller. Those are your enemies.
+
+187
+00:14:19,612 --> 00:14:21,688
+There must be no discussion with the strangers!
+
+188
+00:14:21,860 --> 00:14:22,822
+Why not?
+
+189
+00:14:23,011 --> 00:14:24,088
+Aye. What are you afraid of?
+
+190
+00:14:24,318 --> 00:14:27,474
+Arrest the strangers! That is an order! All the strangers!
+
+191
+00:14:27,777 --> 00:14:29,650
+That doesn't sound like a man in control.
+
+192
+00:14:32,588 --> 00:14:33,747
+What did you wish to tell me?
+
+193
+00:14:34,040 --> 00:14:37,236
+Pilot. You heard Control. Guards, take them all away.
+
+194
+00:14:37,448 --> 00:14:41,514
+I am still the Pilot here. You will take your orders from me. Get back to your quarters.
+
+195
+00:14:41,850 --> 00:14:44,208
+Contact Control immediately. Report the Pilot!
+
+196
+00:14:45,326 --> 00:14:47,491
+That was a very brave thing to do.
+
+197
+00:14:47,745 --> 00:14:49,996
+Or very foolish. What is it you wanted to tell me?
+
+198
+00:14:50,230 --> 00:14:51,137
+Come with me.
+
+199
+00:14:51,443 --> 00:14:52,014
+Pilot!
+
+200
+00:14:52,198 --> 00:14:53,343
+You will all remain here.
+
+201
+00:14:53,637 --> 00:14:55,870
+He disobeyed Control. The Pilot will be arrested.
+
+202
+00:14:56,175 --> 00:14:56,860
+No.
+
+203
+00:14:57,162 --> 00:15:00,145
+Anything may happen now, Jamie. We've got to be ready to run for it.
+
+204
+00:15:00,421 --> 00:15:01,738
+We can't leave the Doctor.
+
+205
+00:15:01,961 --> 00:15:05,522
+He'll be back in a minute, and Ben seems to be all right now.
+
+206
+00:15:05,765 --> 00:15:08,441
+More like the old Ben, I must admit. But you still canna...
+
+207
+00:15:09,399 --> 00:15:10,789
+Where is he?
+
+208
+00:15:28,470 --> 00:15:29,842
+But, Doctor. This is forbidden territory.
+
+209
+00:15:30,106 --> 00:15:31,344
+Yes, and you'll soon see why.
+
+210
+00:15:31,544 --> 00:15:33,350
+Stop! Stop! You're breaking the law!
+
+211
+00:15:33,579 --> 00:15:35,643
+Bad laws were made to be broken. Follow me.
+
+212
+00:15:35,874 --> 00:15:36,524
+But...
+
+213
+00:15:40,949 --> 00:15:43,326
+What's happened to the Pilot, Ola? The strangers have changed him!
+
+214
+00:15:43,485 --> 00:15:44,918
+The Pilot is a traitor.
+
+215
+00:15:46,958 --> 00:15:50,747
+The Pilot has no more authority. Ola is in command!
+
+216
+00:15:53,920 --> 00:15:56,028
+I really don't know why I trust you, Doctor.
+
+217
+00:15:56,207 --> 00:15:57,773
+Oh, perhaps I've got an honest face.
+
+218
+00:15:58,096 --> 00:16:03,418
+The Pilot is to be arrested! This is a happy colony! All must obey!
+
+219
+00:16:03,596 --> 00:16:04,481
+Did you hear that?
+
+220
+00:16:04,690 --> 00:16:07,024
+Don't give up now. It's just up here.
+
+221
+00:16:16,983 --> 00:16:23,050
+All guards to report to the pit head. They are to take orders from Ola. It is understood.
+
+222
+00:16:27,668 --> 00:16:39,960
+There you are. That's what's taken over this colony. You haven't been in touch with Control, but with these. They've used this colony for their own ends, destroying you to live themselves.
+
+223
+00:16:40,161 --> 00:16:45,919
+Why they're horrible. No, Doctor. It is they who must be destroyed. We must kill them.
+
+224
+00:16:48,460 --> 00:16:49,878
+They're here!
+
+225
+00:16:50,072 --> 00:16:50,706
+Let's go.
+
+226
+00:16:50,949 --> 00:16:54,827
+The Pilot and the stranger! In forbidden territory! They must be destroyed!
+
+227
+00:16:55,997 --> 00:17:00,659
+So, what are they, Doctor? I mean, some monstrous form of bacteria? Insects? Or what?
+
+228
+00:17:00,873 --> 00:17:02,824
+I don't know. But you must fight them.
+
+229
+00:17:03,127 --> 00:17:03,957
+How?
+
+230
+00:17:04,232 --> 00:17:05,803
+Take full command!
+
+231
+00:17:06,041 --> 00:17:07,297
+You mean defy Control?
+
+232
+00:17:07,500 --> 00:17:09,018
+Well, you see what Control really is.
+
+233
+00:17:09,231 --> 00:17:12,887
+Yes. You're right, Doctor, they must be destroyed.
+
+234
+00:17:32,011 --> 00:17:33,576
+We've been waiting for you.
+
+235
+00:17:33,905 --> 00:17:37,028
+Ola, the Colony is in the hands of grotesque insects!
+
+236
+00:17:37,254 --> 00:17:38,733
+So you've been seeing things?
+
+237
+00:17:38,913 --> 00:17:40,356
+They're in there. The Macra!
+
+238
+00:17:40,596 --> 00:17:44,169
+Ha, ha, ha. You know what happens to people that say that?
+
+239
+00:17:44,411 --> 00:17:45,097
+But I...
+
+240
+00:17:45,322 --> 00:17:47,060
+Now we can deal with you all together.
+
+241
+00:17:47,339 --> 00:17:48,474
+Did the Pilot has see them?
+
+242
+00:17:48,650 --> 00:17:49,856
+Yes. I saw the Macra.
+
+243
+00:17:50,026 --> 00:17:53,290
+It is forbidden to say that. Don't let him say that he has seen Macra!
+
+244
+00:17:53,541 --> 00:17:56,066
+I saw you! You are the Macra!
+
+245
+00:17:56,312 --> 00:18:01,060
+Silence! Silence the three strangers! That is an order!
+
+246
+00:18:01,252 --> 00:18:02,561
+What shall we do with them, Control?
+
+247
+00:18:02,811 --> 00:18:09,160
+Return them to the pipe room. The three strangers and the Pilot. They are to be locked in, and you will not let them out.
+
+248
+00:18:09,402 --> 00:18:10,110
+Come on, get in.
+
+249
+00:18:10,348 --> 00:18:10,838
+Ola.
+
+250
+00:18:11,181 --> 00:18:11,948
+Doctor!
+
+251
+00:18:12,159 --> 00:18:13,472
+Come on. You heard Control.
+
+252
+00:18:13,645 --> 00:18:16,372
+Don't worry Polly, I'll look after ye.
+
+253
+00:18:16,557 --> 00:18:17,095
+No!
+
+254
+00:18:17,273 --> 00:18:18,400
+Take your hands off her.
+
+255
+00:18:20,675 --> 00:18:21,413
+Get in!
+
+256
+00:18:24,846 --> 00:18:26,746
+You have done well, Ola.
+
+257
+00:18:27,111 --> 00:18:28,566
+What instructions, Control?
+
+258
+00:18:29,123 --> 00:18:34,329
+Clear the building. Guards and workers are to return to the hall for music.
+
+259
+00:18:34,605 --> 00:18:35,667
+I obey, Control.
+
+260
+00:18:36,877 --> 00:18:46,288
+It will take precisely four minutes, and then it will be safe for everyone to return to work. Four minutes.
+
+261
+00:18:47,052 --> 00:18:48,969
+Why four minutes?
+
+262
+00:18:48,990 --> 00:18:50,781
+Aye, what can they do in four minutes, Doctor?
+
+263
+00:18:51,020 --> 00:18:54,388
+I don't know. We must be ready for anything.
+
+264
+00:18:56,313 --> 00:18:58,278
+It's a gas! It's coming in here.
+
+265
+00:18:59,690 --> 00:19:01,616
+Pilot, do you know where it's coming from?
+
+266
+00:19:01,782 --> 00:19:02,967
+Why, no. I've never been here before.
+
+267
+00:19:04,931 --> 00:19:06,364
+There must be a hidden inlet.
+
+268
+00:19:06,783 --> 00:19:10,345
+You will not be able to fight it. You cannot stop it.
+
+269
+00:19:11,882 --> 00:19:12,871
+Doctor, I'm getting dizzy.
+
+270
+00:19:13,207 --> 00:19:14,651
+Polly, hold that in front of your mouth.
+
+271
+00:19:14,860 --> 00:19:16,390
+It's coming from over here, Doctor!
+
+272
+00:19:16,656 --> 00:19:18,426
+You're right, Jamie!
+
+273
+00:19:18,661 --> 00:19:19,870
+It's coming from here as well!
+
+274
+00:19:22,394 --> 00:19:25,789
+You are unable to stop it.
+
+275
+00:19:26,050 --> 00:19:26,945
+Polly?
+
+276
+00:19:27,371 --> 00:19:32,340
+It will not last long. Only for four minutes. By that time, you...
+
+277
+00:19:34,417 --> 00:19:35,500
+Come on! Let us out!
+
+278
+00:19:35,994 --> 00:19:38,115
+...will be completely helpless, not quite dead, helpless.
+
+279
+00:19:39,364 --> 00:19:40,546
+Hello in there.
+
+280
+00:19:41,027 --> 00:19:41,871
+Who is it?
+
+281
+00:19:42,231 --> 00:19:42,803
+Ben.
+
+282
+00:19:43,094 --> 00:19:46,802
+Ben? Is that you? Are you all right?
+
+283
+00:19:47,073 --> 00:19:48,716
+Can you open the door from your side?
+
+284
+00:19:49,015 --> 00:19:49,726
+No.
+
+285
+00:19:49,964 --> 00:19:51,317
+But it's locked. There isn't a key.
+
+286
+00:19:51,583 --> 00:19:56,033
+Ben, listen. We've got very little time. It's all up to you.
+
+287
+00:19:56,327 --> 00:19:57,887
+Go ahead Doctor. Tell me what to do.
+
+288
+00:19:58,230 --> 00:20:04,794
+Go to the control desk, and you'll see two switches, one marked outflow and one marked inflow.
+
+289
+00:20:05,067 --> 00:20:05,862
+Hang on.
+
+290
+00:20:08,476 --> 00:20:19,373
+The other stranger has recovered. He is now dangerous! He will no longer obey Control. The fourth stranger is trying to help his friends. He is no longer one of us. He must be stopped at once!
+
+291
+00:20:19,727 --> 00:20:21,781
+I've got them, Doc. Two switches. What next?
+
+292
+00:20:22,203 --> 00:20:25,593
+Good. You see a lever in front of them?
+
+293
+00:20:25,833 --> 00:20:26,424
+Yeah.
+
+294
+00:20:26,650 --> 00:20:34,013
+It is forbidden to touch that instrument! You must not obey the Doctor! You will kill us all! He intends to create an explosion!
+
+295
+00:20:34,338 --> 00:20:38,010
+Come away from those instruments! You will destroy the Colony!
+
+296
+00:20:38,234 --> 00:20:40,414
+Oh, shut up. Okay, Doctor. Fire away.
+
+297
+00:20:40,662 --> 00:20:43,280
+Guards! Stop the stranger!
+
+298
+00:20:43,798 --> 00:20:46,479
+Switch on both inflow and outflow.
+
+299
+00:20:47,116 --> 00:20:52,988
+No! Stop! The pressure will be unbearable! Oh, the human beings as well...
+
+300
+00:20:53,390 --> 00:20:56,022
+Switch them on, Ben. Then stand by to throw the lever.
+
+301
+00:20:56,557 --> 00:20:58,743
+You are to give no such order!
+
+302
+00:20:59,472 --> 00:21:03,690
+Inflow on. Outflow on. Okay, Doc. Ready with the lever.
+
+303
+00:21:05,281 --> 00:21:06,427
+Quickly, Doctor!
+
+304
+00:21:08,837 --> 00:21:10,448
+Throw the lever away from you.
+
+305
+00:21:10,869 --> 00:21:14,492
+No! No! Don't let him.
+
+306
+00:21:19,175 --> 00:21:20,778
+No!
+
+307
+00:21:53,496 --> 00:21:58,512
+My first duty is to thank the strangers, for they have saved our Colony.
+
+308
+00:22:01,011 --> 00:22:06,767
+A dance festival will be held every year in their memory, and the winners will be awarded the Strangers' Trophy.
+
+309
+00:22:07,200 --> 00:22:08,834
+Where's the Doctor?
+
+310
+00:22:09,427 --> 00:22:10,367
+Why, he's right over there.
+
+311
+00:22:10,657 --> 00:22:11,758
+Well, I've got a tip-off he'll wanna hear.
+
+312
+00:22:12,090 --> 00:22:13,255
+Hey, Doctor? Doctor?
+
+313
+00:22:13,519 --> 00:22:17,974
+Relax. Relax. More haste, more waste. Pleasure is beautiful.
+
+314
+00:22:18,198 --> 00:22:20,061
+Relax? You wait till you hear what they're going to do with you.
+
+315
+00:22:20,358 --> 00:22:21,323
+Oh, well. Ha, ha, ha.
+
+316
+00:22:21,508 --> 00:22:25,669
+Yeah, I just heard it on the grapevine. They're going to draft us as members of the Colony, and make you the next Pilot.
+
+317
+00:22:26,509 --> 00:22:29,633
+They can't do that to me. Let's get out of here.
+
+318
+00:22:29,810 --> 00:22:30,597
+Yes, but how?
+
+319
+00:22:30,913 --> 00:22:34,116
+Take a leaf out of Jamie's book. Give them the old dance routine.
+

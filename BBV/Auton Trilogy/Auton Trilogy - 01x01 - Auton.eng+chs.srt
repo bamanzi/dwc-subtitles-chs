@@ -80,7 +80,7 @@ Taken me the best part of two weeks.
 00:02:07,980 --> 00:02:11,947
 And, as a matter of fact, I have found 
 a large number of crates with the same code.
-事实上, 我发现了大量同样编码代码的板条箱
+事实上, 我发现了大量同样编码的板条箱
 
 17
 00:02:12,620 --> 00:02:16,910

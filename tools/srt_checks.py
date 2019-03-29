@@ -17,7 +17,7 @@ def check_duration(entry, last_entry):
         print("%s:%s:ERROR: Negative span: %.2f seconds" % (filename, lineno, delta))
     if delta > 7.0:
         print("%s:%s:HINT: Time span too long:  %.2f seconds" % (filename, lineno, delta))
-    if delta < 1.0:
+    if delta < 0.8:
         print("%s:%s:HINT: Time span too short: %.2f seconds" % (filename, lineno, delta))
 
 

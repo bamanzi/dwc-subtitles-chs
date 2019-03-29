@@ -33,5 +33,7 @@
       ))
 
   (global-set-key (kbd "C-x ＜") "《")
-  (global-set-key (kbd "C-x ＞") "》")  
+  (global-set-key (kbd "C-x ＞") "》")
+;;  (global-set-key (kbd "C-x  ")  "﻿")
+  (global-set-key (kbd "<apps> i SPC")  "﻿")
   )
