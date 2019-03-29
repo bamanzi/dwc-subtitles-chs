@@ -1,0 +1,1870 @@
+1
+00:00:06,006 --> 00:00:07,006
+(Sincro: wyxchari)
+
+2
+00:01:31,107 --> 00:01:32,537
+Retain full pressure.
+保持最大压力
+
+3
+00:01:35,729 --> 00:01:39,073
+Full pressures being maintained on master control.
+Reserves are standing by.
+主控已经保持在最大压力上．备用系统待命中
+
+4
+00:01:41,378 --> 00:01:42,803
+Let me see. Let me see.
+让我看看, 让我看看
+
+5
+00:01:43,112 --> 00:01:45,027
+Doctor, what could be happening to Jamie now?
+博士, Jamie 现在会怎样？
+
+6
+00:01:45,275 --> 00:01:47,336
+I hate to think. It won't be anything very pleasant.
+我不敢去想．不会有什么愉快的事情
+
+7
+00:01:47,575 --> 00:01:51,336
+Polly, go and see what the first dial
+on the control desk registers.
+Polly, 过去看看控制台上第一个读数
+
+8
+00:01:51,541 --> 00:01:52,209
+Right.
+好
+
+9
+00:01:52,718 --> 00:01:53,621
+Hurry up.
+快点
+
+10
+00:01:57,548 --> 00:01:58,447
+Full pressure.
+满压
+
+11
+00:01:58,694 --> 00:02:03,175
+Full pressure. And the other one? Come on.
+满压．另外一个呢？快
+
+12
+00:02:05,579 --> 00:02:06,445
+Zero.
+零
+
+13
+00:02:06,959 --> 00:02:13,281
+Zero. Now I think there's only one thing for it.
+Plus must be made minus and minus must be made plus.
+零．现在我觉得只有一种可能．加得变成减, 减得变成加
+
+14
+00:02:14,485 --> 00:02:16,000
+What's the matter?
+什么情况？
+
+15
+00:02:16,219 --> 00:02:17,849
+The question is which is plus and which is minus?
+问题是哪个是加, 哪个是减？
+
+16
+00:02:18,280 --> 00:02:19,159
+Ooh.
+噢
+
+17
+00:02:45,413 --> 00:02:46,856
+What are you doing?
+你在做什么？
+
+18
+00:02:47,234 --> 00:02:48,227
+Oh, just checking.
+哦, 只是检查一下
+
+19
+00:02:48,446 --> 00:02:49,639
+Well, I don't need your help, thank you.
+好吧, 我不需要你的帮助, 谢谢你
+
+20
+00:02:49,824 --> 00:02:52,180
+As you please. But, uh, I think you're going to
+run into trouble.
+你高兴就好．不过, 啊, 我觉得你要陷入麻烦了
+
+21
+00:02:52,628 --> 00:02:53,710
+Why? What's the matter?
+为什么？什么情况？
+
+22
+00:02:53,913 --> 00:02:56,589
+Well, according to my calculations,
+the pressure gauges are wrong.
+哦, 根据我的计算, 压力表读数是错的
+
+23
+00:02:56,769 --> 00:02:57,891
+Don't be ridiculous.
+别瞎说了
+
+24
+00:02:58,065 --> 00:03:02,329
+Ridiculous? Well, that's as may be.
+But, after all, three times three is nine,
+瞎说？好, 也有这个可能．但, 毕竟, 3 乘 3 得 9
+
+25
+00:03:02,465 --> 00:03:06,729
+and if you divide by half of its own cubic capacity
+to the formula, Pi over four squared,
+然后如果你按这个公式用它容积的一半去除, ４π的平方
+
+26
+00:03:06,865 --> 00:03:08,329
+I think you'll have to agree with me.
+我想你就会认同我了
+
+27
+00:03:08,590 --> 00:03:09,626
+Don't touch that.
+别碰那个
+
+28
+00:03:09,859 --> 00:03:10,503
+Why not?
+为什么不能？
+
+29
+00:03:10,727 --> 00:03:14,163
+That's the... That controls the inflow system.
+那是...那控制着流入系统
+
+30
+00:03:14,348 --> 00:03:17,986
+Oh. So these are the inflow pipes, are they?
+That's all I wanted to know.
+哦．那就是这里有流入的管道, 是吧？我就想知道这个
+
+31
+00:03:18,178 --> 00:03:19,142
+But what are you doing?
+不过你要做什么？
+
+32
+00:03:19,318 --> 00:03:24,924
+Inflow. Inflow. Outflow. Inflow. High pressure.
+Low pressure and O-U-T spells out.
+流入, 流入, 流出, 流入, 高压, 低压, 然后是 O-U-T
+
+33
+00:03:25,091 --> 00:03:26,233
+Doctor, what are you doing?
+博士, 你在做什么？
+
+34
+00:03:26,401 --> 00:03:28,131
+It's alright, Polly.
+Confusion is best left to the experts.
+没事的, Polly．混乱最好留给专家来处理
+
+35
+00:03:28,277 --> 00:03:29,810
+But... Stop it! You've no idea what you're doing.
+但是...停下！你不知道你在做什么
+
+36
+00:03:29,974 --> 00:03:34,431
+Oh, yes I have. I can stand an operation on its head
+quicker than anyone. There!
+哦, 我知道．我可以从头进行操作比谁都快．那里！
+
+37
+00:03:34,574 --> 00:03:38,431
+I think you'll find I've revolutionised
+the entire gas flow of the Colony.
+我想你会发现我已经革新了这个殖民地的整个瓦斯流向
+
+38
+00:03:38,604 --> 00:03:40,929
+You must be mad. You'll be locked up.
+你肯定疯了, 你会被关起来的
+
+39
+00:03:41,088 --> 00:03:42,747
+Polly, see what those dials register now.
+Polly, 现在去看看那些仪表读数
+
+40
+00:03:42,928 --> 00:03:45,614
+Right. Doctor? Something's happened to this one.
+好的．博士？这一个出了点问题
+
+41
+00:03:45,841 --> 00:03:46,787
+What does it read?
+它什么读数？
+
+42
+00:03:46,932 --> 00:03:47,830
+It's reads zero.
+读数为零
+
+43
+00:03:47,992 --> 00:03:49,083
+And the other one?
+另外一个呢？
+
+44
+00:03:49,241 --> 00:03:50,177
+Full pressure.
+满压
+
+45
+00:03:50,341 --> 00:03:55,376
+Good. Splendid. That means there'll be a fine old gale
+of fresh air blowing along the old shaft any time now.
+好, 非常好．这意味着很快将有一大股新鲜空气刮过旧竖井
+
+46
+00:03:58,400 --> 00:04:12,483
+Ah! Ah! Let go! No! Let... Not yet, you're not.
+啊！啊！放开！不！放...还不要, 你不是
+
+47
+00:04:19,587 --> 00:04:24,381
+You can do nothing. You'll only delay matters.
+It's a simple matter for me to reconnect the gas.
+你什么也做不了, 只会延误事情fixme．我要重新连接这些瓦斯是件很简单的事情
+
+48
+00:04:24,575 --> 00:04:26,439
+Yes, I'm sure it is. But I'm sure you'd like a little help.
+是的, 我确信是这样．但我也确信你需要一点点帮助
+
+49
+00:04:26,638 --> 00:04:28,862
+Now stop that. You've enough to answer for already.
+现在停下那个．你已经有足够多的问题要回答了
+
+50
+00:04:29,118 --> 00:04:32,627
+Guard! Guard!
+警卫！警卫！
+
+51
+00:04:33,690 --> 00:04:35,712
+It's all right, Polly. I've got his keys. Lock the door.
+没事的, Polly．我拿了他的钥匙．锁上门
+
+52
+00:04:35,930 --> 00:04:37,449
+Send the guard, immediately!
+派警卫过来, 立刻！
+
+53
+00:04:43,083 --> 00:04:44,673
+They're bound to get in sooner or later.
+他们迟早肯定会来的
+
+54
+00:04:44,846 --> 00:04:45,948
+Yes. Well, the later the better.
+是, 不过, 越迟越好
+
+55
+00:04:46,846 --> 00:04:48,648
+The only thing we can do for Jamie now
+is to give him time. Lock the door.
+现在我们唯一能为 Jamie 做的, 就是给他时间．锁上门
+
+56
+00:05:14,821 --> 00:05:18,197
+This is Control. Why has the outflow of gas stopped?
+这里是管理员．为什么流出的瓦斯停下来了？
+
+57
+00:05:18,321 --> 00:05:23,197
+Gas must be pumped into the old shaft without interruption.
+Begin pumping immediately.
+瓦斯必须不间断地泵入到旧竖井里面．立即开始抽取
+
+58
+00:05:25,585 --> 00:05:29,583
+I need help immediately. The strangers obey nothing.
+They are turning taps in the wrong direction.
+我急需帮助．异乡人什么都不服从．他们把阀门都转了向
+
+59
+00:05:29,818 --> 00:05:31,653
+Guards have been detailed to assist you.
+已经向警卫详述了情况, 他们过来帮你
+
+60
+00:05:31,812 --> 00:05:32,740
+Open up in there!
+里面把门打开！
+
+61
+00:05:35,598 --> 00:05:37,755
+Keys! My keys! Where are my keys?
+钥匙！我的钥匙！我的钥匙在哪儿？
+
+62
+00:05:37,923 --> 00:05:39,607
+Oh, dear. Your keys. Try, uh, in your pocket.
+噢, 亲爱的, 你的钥匙．啊, 试试你的口袋
+
+63
+00:05:39,723 --> 00:05:41,207
+Or on the gantry. Or over there.
+或者在台子上, 或者在那边
+
+64
+00:05:41,368 --> 00:05:42,314
+Look, I know you've got them.
+听着, 我知道你拿走了
+
+65
+00:05:42,500 --> 00:05:43,902
+Doctor, the door.
+博士, 门
+
+66
+00:05:44,119 --> 00:05:46,069
+Open up in there or we'll smash it in.
+里面把门打开, 否则我们就砸了
+
+67
+00:05:46,292 --> 00:05:47,183
+It's going to give way.
+快要扛不住了
+
+68
+00:05:47,372 --> 00:05:48,436
+Come on, Polly. Let's get out of here.
+快点, Polly, 我们离开这里
+
+69
+00:05:49,253 --> 00:05:52,328
+No, not that way - it goes to the pits. Quick. Try that one.
+不, 不能走那边 - 那通向矿坑．快点, 试试那边
+
+70
+00:05:52,647 --> 00:05:53,375
+It's locked.
+被锁住了
+
+71
+00:05:53,597 --> 00:05:56,109
+Then use the keys. Quick, Doctor. Quick!
+那用钥匙．快, 博士, 快！
+
+72
+00:05:58,164 --> 00:06:01,629
+Over there. Quick! Stop them before they do any damage.
+在那边, 快！阻止他们, 以免他们搞破坏
+
+73
+00:06:01,844 --> 00:06:02,457
+Get them!
+抓住他们！
+
+74
+00:06:08,151 --> 00:06:09,728
+Push, Polly! Push!
+推, Polly! 推！
+
+75
+00:06:12,971 --> 00:06:13,954
+I can't!
+推不动！
+
+76
+00:06:14,203 --> 00:06:19,549
+You've got to. Come on. Together. I've nearly got it locked.
+你必须得．快点, 一起．我快把它锁上了
+
+77
+00:06:27,160 --> 00:06:28,195
+There we are.
+这下好了
+
+78
+00:06:31,840 --> 00:06:33,229
+Where are we?
+我们在哪儿？
+
+79
+00:06:35,912 --> 00:06:38,567
+Well, it looks rather like a cupboard with a lot of pipes.
+哦, 看起来是一个碗柜, 上面多了好多管道
+
+80
+00:06:39,126 --> 00:06:41,050
+Where do you suppose they lead?
+你觉得它们通向哪里？
+
+81
+00:06:41,245 --> 00:06:44,274
+They must lead somewhere. Let's have a look.
+它们肯定通向某个地方．我们去看看
+
+82
+00:06:47,063 --> 00:06:51,906
+Doctor, I think these are the pipes
+that carry the poisonous gas.
+博士, 我觉得这些管道里面跑的是那些有毒瓦斯
+
+83
+00:06:52,175 --> 00:06:53,446
+Yes, very likely.
+是的, 很有可能
+
+84
+00:06:53,920 --> 00:06:56,370
+Well, don't you think we'd better stay here?
+那, 你不觉得我们最好待在这里吗？
+
+85
+00:06:56,725 --> 00:07:00,839
+Stay here? I'm not spending the rest of my life
+with a lot of old pipes.
+待在这里？我可以不打算跟一大堆管子共度余生
+
+86
+00:07:01,268 --> 00:07:02,190
+But Doctor...
+但是博士...
+
+87
+00:07:02,437 --> 00:07:05,529
+Now, come along Polly. I'm sure there's no need to be afraid.
+现在, 过来 Polly．我确定这里没什么可害怕的．
+
+88
+00:07:05,637 --> 00:07:11,529
+Well... well, I think there's no need to be afraid.
+Oh, come on. Let's find out.
+这个...我想没有必要害怕．噢, 快点, 我们去搞明白
+
+89
+00:07:26,838 --> 00:07:30,642
+There, that ought to do it. Let's hope we're not too late.
+那里, 那应该可以了．让我们祈祷我们没有来得太晚
+
+90
+00:08:10,572 --> 00:08:11,605
+What do you know?
+你知道什么？
+
+91
+00:08:11,904 --> 00:08:14,646
+We all know Control is right, and we must obey!
+我们都知道管理员是对的, 而且我们必须服从
+
+92
+00:08:14,917 --> 00:08:16,415
+Let them know. Let them know.
+让他们知道, 让他们知道
+
+93
+00:08:16,640 --> 00:08:18,069
+Let them know they're happy!
+让他们知道他们很幸福！
+
+94
+00:08:18,253 --> 00:08:19,490
+Greet the morning with a shout.
+向着清晨喊一声你好
+
+95
+00:08:19,661 --> 00:08:21,115
+Everyone up. The sun is out.
+所有人都起来, 太阳出来了
+
+96
+00:08:21,268 --> 00:08:22,156
+Rah, rah, rah!
+
+97
+00:08:22,305 --> 00:08:29,140
+Rah, rah, rah! Cheer for the Colony.
+We're the gang that works the hardest,
+and we must obey. Obey Control. Ring the bell.
+
+98
+00:08:29,330 --> 00:08:30,234
+Rah, rah, rah!
+
+99
+00:08:30,415 --> 00:08:31,134
+Rah, rah, rah!
+
+100
+00:08:31,374 --> 00:08:32,067
+Work well.
+好好工作
+
+101
+00:08:32,255 --> 00:08:33,426
+Ring the bell!
+
+102
+00:08:33,654 --> 00:08:37,695
+Oh, that's much better.
+But, we'll do it again, and this time with more feeling.
+噢, 这次好多了．但, 我们要再来一次, 这次多带点感情
+
+103
+00:08:37,754 --> 00:08:39,995
+Ah! And don't forget our job is to inspire the others
+啊！而且不要忘了我们的任务是要鼓舞其他人 - 
+
+104
+00:08:40,054 --> 00:08:43,395
+- our brave workers who are doing such a dangerous job.
+All right?
+那些干着如此危险工作的勇敢工人．好吗？
+
+105
+00:08:43,670 --> 00:08:44,508
+All right!
+好！
+
+106
+00:08:44,785 --> 00:08:45,894
+What do you know?
+你们知道什么
+
+107
+00:08:46,098 --> 00:08:48,801
+We all know Control is right, and we must obey!
+我们都知道管理员还是对的, 而且我们必须服从
+
+108
+00:08:49,008 --> 00:08:50,738
+Let them know. Let them know.
+让他们知道, 让他们知道
+
+109
+00:08:50,907 --> 00:08:52,424
+Let them know they're happy!
+让他们知道他们很幸福！
+
+110
+00:08:52,661 --> 00:08:54,169
+Greet the morning with a shout.
+向着清晨喊一声你好
+
+111
+00:08:54,360 --> 00:08:55,788
+Everyone up. The sun is out.
+所有人都起来, 太阳出来了
+
+112
+00:08:55,957 --> 00:08:56,692
+Rah, rah, rah!
+
+113
+00:08:56,837 --> 00:08:57,546
+Rah, rah, rah!
+
+114
+00:08:57,755 --> 00:09:00,910
+Oh, that's very good!
+That's beginning to sound like something.
+噢, 这次非常好, 听着开始像点样子了
+
+115
+00:09:01,055 --> 00:09:04,510
+It still needs a bit more clarity,
+and I think that the girls could...
+还需要更清晰一点点, 而且我觉得姑娘们可以...
+
+116
+00:09:07,187 --> 00:09:09,194
+Say! how did you get there?
+说！你怎么到这里来的
+
+117
+00:09:09,431 --> 00:09:11,994
+Oh, w... well, uh... I just, um... as a matter of fact...
+噢, 我...这个, 啊...我只是, 唔...事实上
+
+118
+00:09:12,251 --> 00:09:14,368
+Oh, I see. You're one of the dancers.
+哦, 我明白了．你是跳舞队中的一员
+
+119
+00:09:14,573 --> 00:09:20,373
+One of the dancers? Oh, I'm afraid, uh... Aye. Aye,
+y... y... yes. I'm one of the dancers.
+跳舞队的一员？哦, 恐怕, 啊...是, 是, 是的, 我是其中一员
+
+120
+00:09:20,575 --> 00:09:21,719
+And you got your dance ready?
+那你准备好你的舞蹈了吗？
+
+121
+00:09:21,908 --> 00:09:25,585
+My dance? Ah... Well, uh... Yes. Yes, it's ready.
+我的舞蹈？啊...这, 啊...是的, 是的, 准备好了
+
+122
+00:09:25,857 --> 00:09:28,020
+Well, go ahead. I'll see it now.
+那, 开始吧．我现在要看看
+
+123
+00:09:28,312 --> 00:09:29,428
+You'll see it now?
+你现在就要看？
+
+124
+00:09:29,655 --> 00:09:33,276
+And don't forget you have to be very good
+to get into the Happy Colony finals.
+而且不要忘了, 你必须表现非常好才能进入快乐殖民地的决赛
+
+125
+00:09:33,355 --> 00:09:34,876
+We want something gay and cheerful.
+我们想要欢乐明快的
+
+126
+00:09:35,194 --> 00:09:36,337
+Gay and cheerful?
+欢乐明快的？
+
+127
+00:09:36,565 --> 00:09:37,810
+Have you any music?
+你有音乐吗？
+
+128
+00:09:38,286 --> 00:09:39,789
+Ah, no. I don't need it.
+啊, 不, 我不需要
+
+129
+00:09:40,010 --> 00:09:42,410
+Go ahead. We'll pick up the rhythm and clap to it.
+All right?
+开始吧．我们会跟着节奏打拍子．好吗？
+
+130
+00:09:42,561 --> 00:09:43,552
+All right!
+好！
+
+131
+00:09:44,932 --> 00:09:47,670
+Well, come on. Get on with it. We haven't got all day.
+好, 快点．开始跳啊, 我们没有一整天
+
+132
+00:09:48,080 --> 00:09:49,200
+Oh, aye.
+噢, 是
+
+133
+00:09:56,445 --> 00:09:59,000
+That's very good. What do you call it?
+这非常好, 你管它叫什么舞？
+
+134
+00:09:59,205 --> 00:10:00,051
+The Highland Fling.
+高地猛冲
+
+135
+00:10:00,258 --> 00:10:01,567
+Why do you call it the Highland Fling?
+你为什么管它叫高地猛冲？
+
+136
+00:10:01,765 --> 00:10:04,534
+Because we finish the dance
+by flinging ourselves out the door.
+因为我们结束舞蹈时都是冲出门去？
+
+137
+00:10:04,808 --> 00:10:07,038
+Oh, that's very good! Come on now. Rah, rah, rah!
+哦, 这太棒了！现在都来, 剌, 剌, 剌！
+
+138
+00:10:07,241 --> 00:10:07,838
+Rah, rah, rah!
+
+139
+00:10:08,012 --> 00:10:09,367
+Cheers for the Colony. Rah, rah, rah!
+为殖民地欢呼, Rah, rah, rah!
+
+140
+00:10:09,704 --> 00:10:11,150
+Where did this boy come from?
+这个男孩儿哪里来的？
+
+141
+00:10:11,404 --> 00:10:12,573
+Oh, he's one of the dancers.
+哦, 他是跳舞队的一员
+
+142
+00:10:12,899 --> 00:10:18,537
+Nonsense. He's the escaped stranger. You there
+- identify him. Is this the boy you reported?
+胡说．他是个逃跑的异乡人．你 - 指认一下, 这是你报告的那个男孩吗？
+
+143
+00:10:19,921 --> 00:10:21,859
+Well... Well... Yes.
+这个...这个...是的
+
+144
+00:10:22,103 --> 00:10:23,386
+Ben, you gave me away.
+Ben, 你出卖我
+
+145
+00:10:23,635 --> 00:10:27,820
+Tie him up. Go to the Pilot. Tell him the stranger's found.
+把他绑起来．到领航员那里去, 告诉他异乡人已经找到了
+
+146
+00:10:27,935 --> 00:10:32,820
+Tell him it won't be long before we get our hands on
+his friends as well.
+告诉他不用太久我们也会抓到他的朋友们了
+
+147
+00:10:33,751 --> 00:10:35,156
+Jamie, I'm...
+Jamie, 我...
+
+148
+00:10:40,694 --> 00:10:42,943
+No permission for the guards to go on forbidden ground.
+Repeat, no permission.
+警卫没有进入禁地的权限．重复, 没有权限
+
+149
+00:10:43,694 --> 00:10:45,643
+They are not to cover the exit to the old shaft.
+他们不得去把守旧竖井的出口
+
+150
+00:10:45,794 --> 00:10:46,643
+This is in use at this moment by Control.
+No one is to go near the old shaft.
+当前它正在被管理员使用, 任何人不可进入或者靠近旧竖井
+
+151
+00:10:46,884 --> 00:10:47,674
+Shh. I hear voices. Very faint.
+嘘, 我听见有声音．很轻
+
+152
+00:10:48,153 --> 00:10:49,341
+I don't hear anything.
+我什么也没听见
+
+153
+00:10:49,956 --> 00:10:51,387
+Stay here a minute, Polly.
+在这里待一分钟, Polly
+
+154
+00:10:51,625 --> 00:10:53,068
+No. Don't leave me.
+不, 别扔下我
+
+155
+00:10:54,420 --> 00:10:55,993
+The search for the other strangers must be carried on.
+对其他异乡人的搜索工作必须开展
+
+156
+00:10:56,287 --> 00:10:59,259
+The Controller. The voice behind the screen.
+管理员．声音在屏幕后面
+
+157
+00:11:00,471 --> 00:11:05,528
+All guards are detailed to hunt for the Doctor
+and the girl. They must be taken dead or alive.
+所有警卫都派去搜寻博士和那个女孩儿．无论死活, 必须找到
+
+158
+00:11:07,176 --> 00:11:09,816
+Look! He must be there.
+看！他肯定在那里
+
+159
+00:11:22,418 --> 00:11:27,502
+This is Control. The day shift is to begin work
+in the emergency gas shaft.
+这里是管理员．白班即将开始在紧急瓦斯竖井中工作
+
+160
+00:11:27,618 --> 00:11:32,502
+All pressures are to be maintained.
+The Colony cannot live without gas!
+必须保持瓦斯压力．没有瓦斯殖民地无法存活！
+
+161
+00:11:33,735 --> 00:11:35,630
+So that's where all the gas goes.
+看来所有瓦斯都去了那里
+
+162
+00:11:35,923 --> 00:11:40,576
+Yes. Just as I thought. These creatures would die without it.
+是的, 如我说料．没有它们这些生物就会死
+
+163
+00:11:41,478 --> 00:11:45,381
+But how long have they been there? I mean,
+they weren't always in control, were they?
+但它们在那里多久了？我是说, 它们不是一直都在fixme
+
+164
+00:11:47,341 --> 00:11:51,334
+I couldn't tell you when they were here
+in the first place, Polly.
+我无法告诉你它们一开始是什么时候在这里的, Polly
+
+165
+00:11:51,441 --> 00:11:52,934
+They're like germs in the human body.
+它们就像人类身体内的细菌一样
+
+166
+00:11:53,041 --> 00:11:56,834
+They've got into the body of this colony.
+They're living as parasites.
+它们进入了这个殖民地的身体, 像寄生虫一样生活
+
+167
+00:11:57,164 --> 00:11:58,787
+You make it sound like a disease.
+你说得好像一种疾病似的
+
+168
+00:11:59,012 --> 00:12:00,433
+Polly, that's what I think they are.
+Polly, 我觉得它们就是那样
+
+169
+00:12:01,112 --> 00:12:05,830
+They're in the control room.
+It must be like getting into the brain, mustn't it?
+它们在控制室里面, 这肯定就像是钻进大脑一样, 是不是
+
+170
+00:12:06,028 --> 00:12:08,347
+Yes. Very likely.
+是, 非常可能
+
+171
+00:12:12,782 --> 00:12:14,659
+Shh. They might hear you.
+嘘, 它们可能会听到你
+
+172
+00:12:14,869 --> 00:12:20,541
+Now then. One system must provide them with the gas they need, 
+and the other one must be an outflow.
+现在，一个系统肯定是给它们提供所需的瓦斯的，另一个肯定是排出口
+
+173
+00:12:21,042 --> 00:12:25,486
+Doctor, we've got to bring the Pilot here. 
+Then we can show him these creatures really do exist.
+博士，我们得带领航员到这里来。然后展示给他看这些生物真的存在
+
+174
+00:12:27,173 --> 00:12:29,134
+Yes, Polly, I think it might work.
+是的，Polly。我觉得这样可行
+
+175
+00:12:30,014 --> 00:12:31,519
+Look at me when I talk to you.
+我跟你说话的时候，要看着我
+
+176
+00:12:32,043 --> 00:12:36,515
+Ola, a word with you.
+Where exactly did you catch him?
+Ola, 问你一句，你具体是在哪里抓住他的？
+
+177
+00:12:36,887 --> 00:12:38,803
+In here. In the hall, Pilot.
+在这里，大厅里，领航员
+
+178
+00:12:39,228 --> 00:12:41,136
+I see. So, in fact, he gave himself up?
+我明白了，这么说，事实上，他是自首的？
+
+179
+00:12:41,418 --> 00:12:43,157
+He should never have been allowed to escape.
+本来就不应该允许他逃跑
+
+180
+00:12:43,417 --> 00:12:45,109
+Are you criticising Control?
+你是在批评管理员吗？
+
+181
+00:12:45,327 --> 00:12:46,815
+I'm criticising the running of the pits.
+我是在批评矿坑的运作
+
+182
+00:12:47,022 --> 00:12:48,421
+But that is my job, Ola.
+但那是我的工作，Ola
+
+183
+00:12:48,608 --> 00:12:52,953
+I know that. But were it not for my guards, 
+this stranger would still be a danger to all of us. 
+我知道。但如果不是我的警卫，这个异乡人仍然是我们所有人的危险
+
+
+183
+00:12:53,058 --> 00:12:56,653
+I am going to report to Control that
+there is no discipline in the pits.
+我要向管理员报告，矿坑毫无纪律
+
+184
+00:12:56,827 --> 00:12:57,875
+That's not the only report that Control will get!
+那可不是管理员会收到的唯一一份报告！
+
+185
+00:12:58,035 --> 00:13:00,942
+Ever since these strangers arrived 
+your authority in this colony has gone to pieces. 
+自从这些异乡人的到来，你在这个殖民地的权威已经崩溃了
+
+
+185
+00:13:01,035 --> 00:13:04,742
+They come and go as they please, 
+and even now two of them are still missing.
+他们想来就来，想走就走，就是到现在他们还有两个人不知去向
+
+186
+00:13:04,979 --> 00:13:09,383
+Good morning. Good morning. Good morning. 
+Well, everyone is up bright and early. 
+早上好，早上好，早上好。好，每个人都早早起床了
+
+186
+00:13:09,479 --> 00:13:12,883
+And the last two strangers are not missing after all.
+Oh, come now. 
+最后两个异乡人也没有失踪。哦，现在来吧
+
+186
+00:13:12,979 --> 00:13:16,383
+You can't have bad temper and differences of opinion
+in this happy type colony. 
+在这个幸福的殖民地，你不可能会有坏脾气和不同意见
+
+186
+00:13:16,579 --> 00:13:20,383
+Say you're sorry, Ola. Say you're sorry, Pilot.
+说你很抱歉，Ola。说你很抱歉，领航员
+
+187
+00:13:20,580 --> 00:13:22,704
+Doctor, what did ye come here for? 
+You've walked into a trap.
+博士，你来这里做什么？你走进了陷阱里了
+
+188
+00:13:22,880 --> 00:13:25,635
+Good morning, Jamie. 
+Nice to see you so well cared for.
+早上好，Jamie. 很高兴看到你受到如此多的照顾
+
+189
+00:13:25,798 --> 00:13:26,594
+Yes, but Doctor...
+是，但是博士...
+
+190
+00:13:26,776 --> 00:13:30,271
+Oh, it's all right. I've just come in
+to have a word with my old friend, the Pilot. 
+哦，没事的。我只是进来跟我们的老朋友，领航员，说两句话
+
+190
+00:13:30,376 --> 00:13:33,271
+Good morning, Ben. I hope you're feeling more your old self?
+早上好，Ben，我期望你觉得更像是以前的你了
+
+191
+00:13:33,521 --> 00:13:34,653
+Yes, Doctor. I am.
+是的，博士，我是
+
+192
+00:13:35,164 --> 00:13:37,527
+Why did not your guards arrest these strangers?
+为什么你的警卫不把这些异乡人逮捕起来？
+
+193
+00:13:37,712 --> 00:13:39,849
+I don't know. Guards, arrest them!
+我不知道。警卫们，逮捕他们！
+
+194
+00:13:40,028 --> 00:13:41,455
+That is no longer necessary.
+不在有这个必要了
+
+195
+00:13:41,827 --> 00:13:44,563
+Of course not. You can't arrest us
+now we've given ourselves up.
+当然没有。现在我们都投降了，你不能逮捕我们
+
+195
+00:13:44,727 --> 00:13:46,063
+That's against the rules.
+这违反规则
+
+196
+00:13:47,808 --> 00:13:49,553
+Now. You wish to see me?
+现在，你们想要见我？
+
+197
+00:13:49,784 --> 00:13:51,492
+Yes. I do. Urgently. Come with me.
+是的，我想。很紧急，跟我来
+
+198
+00:13:53,516 --> 00:13:57,934
+This is Control. Everyone is to return to work immediately. 
+这里是管理员。所有人立即返回工作岗位
+
+198
+00:13:58,516 --> 00:14:03,534
+This order includes all executives. It includes the Pilot. 
+这项命令也包含管理层，包含领航员
+
+198
+00:14:03,616 --> 00:14:05,534
+Everyone back to work immediately.
+所有人返回工作岗位，立即
+
+199
+00:14:05,765 --> 00:14:06,685
+Well, I shall have to go.
+但，我得走
+
+200
+00:14:06,904 --> 00:14:09,912
+No, wait. You must listen to
+what the Doctor's got to tell you.
+不，等等。你必须听听博士要告诉你的事情
+
+200
+00:14:10,004 --> 00:14:11,612
+They're only saying that because they know what we've seen.
+他们那么说仅仅因为他们知道我们看见了什么
+
+201
+00:14:11,804 --> 00:14:12,444
+At once!
+马上
+
+202
+00:14:12,662 --> 00:14:13,442
+Pilot.
+领航员
+
+203
+00:14:13,640 --> 00:14:15,843
+At once! That is an order!
+马上！这是命令！
+
+204
+00:14:16,082 --> 00:14:19,321
+Don't take any notice of them. That's not your Controller.
+Those are your enemies.
+别管他们。那不是你们的管理员，那是你们的敌人
+
+205
+00:14:19,612 --> 00:14:21,688
+There must be no discussion with the strangers!
+不允许同异乡人进行讨论
+
+206
+00:14:21,860 --> 00:14:22,822
+Why not?
+为什么不？
+
+207
+00:14:23,011 --> 00:14:24,088
+Aye. What are you afraid of?
+是，你在害怕什么？
+
+208
+00:14:24,318 --> 00:14:27,474
+Arrest the strangers! That is an order! 
+All the strangers!
+逮捕异乡人！这是命令！所有异乡人！
+
+209
+00:14:27,777 --> 00:14:29,650
+That doesn't sound like a man in control.
+那听起来不像是一个大局在握的人
+
+210
+00:14:32,588 --> 00:14:33,747
+What did you wish to tell me?
+你想要告诉我什么？
+
+211
+00:14:34,040 --> 00:14:37,236
+Pilot. You heard Control. 
+Guards, take them all away.
+领航员，你听到管理员的话了。警卫，把他们带走
+
+212
+00:14:37,448 --> 00:14:39,914
+I am still the Pilot here. 
+You will take your orders from me. 
+我仍然是这里的领航员。你得听从我的命令
+
+212
+00:14:40,048 --> 00:14:41,514
+Get back to your quarters.
+回到你们的房间去
+
+213
+00:14:41,850 --> 00:14:44,208
+Contact Control immediately. Report the Pilot!
+立即联系管理员，举报领航员！
+
+214
+00:14:45,326 --> 00:14:47,491
+That was a very brave thing to do.
+那可真是非常勇敢的行为
+
+215
+00:14:47,745 --> 00:14:49,996
+Or very foolish. What is it you wanted to tell me?
+或许是非常愚蠢。你想要告诉我的是什么？
+
+216
+00:14:50,230 --> 00:14:51,137
+Come with me.
+跟我来
+
+217
+00:14:51,443 --> 00:14:52,014
+Pilot!
+领航员！
+
+218
+00:14:52,198 --> 00:14:53,343
+You will all remain here.
+你们全部都得留在这里
+
+219
+00:14:53,637 --> 00:14:55,870
+He disobeyed Control.
+The Pilot will be arrested.
+他不服从管理员。领航员得被逮捕
+
+220
+00:14:56,175 --> 00:14:56,860
+No.
+不
+
+221
+00:14:57,162 --> 00:15:00,145
+Anything may happen now, Jamie. 
+We've got to be ready to run for it.
+现在什么都可能发生，Jamie。我们得准备好逃跑
+
+222
+00:15:00,421 --> 00:15:01,738
+We can't leave the Doctor.
+我们不能撇下博士
+
+223
+00:15:01,961 --> 00:15:05,522
+He'll be back in a minute, 
+and Ben seems to be all right now.
+他一会儿就会回来，而且 Ben 现在似乎也没事了
+
+224
+00:15:05,765 --> 00:15:08,441
+More like the old Ben, I must admit.
+But you still canna...
+更像以前的 Ben 了，我必须承认。但是你还是不能...
+
+225
+00:15:09,399 --> 00:15:10,789
+Where is he?
+他在哪儿？
+
+226
+00:15:28,470 --> 00:15:29,842
+But, Doctor. This is forbidden territory.
+但是，博士，这里是禁地
+
+227
+00:15:30,106 --> 00:15:31,344
+Yes, and you'll soon see why.
+是的，而且你很快就能看到为什么
+
+228
+00:15:31,544 --> 00:15:33,350
+Stop! Stop! You're breaking the law!
+停下！停下！你是在违反法律！
+
+229
+00:15:33,579 --> 00:15:35,643
+Bad laws were made to be broken. Follow me.
+坏的法律制定出来就是要违反的。跟我来
+
+230
+00:15:35,874 --> 00:15:36,524
+But...
+但是...
+
+231
+00:15:40,949 --> 00:15:43,326
+What's happened to the Pilot, Ola? 
+The strangers have changed him!
+领航员发生什么事了，Ola？那些异乡人已经改变了他！
+
+232
+00:15:43,485 --> 00:15:44,918
+The Pilot is a traitor.
+领航员是个叛徒
+
+233
+00:15:46,958 --> 00:15:50,747
+The Pilot has no more authority.
+Ola is in command!
+领航员不再具有权力了。Ola 掌权指挥！
+
+234
+00:15:53,920 --> 00:15:56,028
+I really don't know why I trust you, Doctor.
+我真的不知道为什么我相信你，博士
+
+235
+00:15:56,207 --> 00:15:57,773
+Oh, perhaps I've got an honest face.
+哦，也许是我有一张诚实的脸
+
+236
+00:15:58,096 --> 00:16:03,418
+The Pilot is to be arrested!
+This is a happy colony! All must obey!
+领航员将被逮捕！这是一个幸福的殖民地！所有人都要服从！
+
+237
+00:16:03,596 --> 00:16:04,481
+Did you hear that?
+你听到那个了吗？
+
+238
+00:16:04,690 --> 00:16:07,024
+Don't give up now. It's just up here.
+不要现在放弃。就在上面这里
+
+239
+00:16:16,983 --> 00:16:23,050
+All guards to report to the pit head.
+They are to take orders from Ola. It is understood.
+所有警卫带矿坑 fix 报到，从 Ola 那里接收命令。fix
+
+240
+00:16:27,668 --> 00:16:31,260
+There you are. That's what's taken over this colony. 
+这就是啦，那就是接管了这个殖民地的东西
+
+240
+00:16:31,368 --> 00:16:34,960
+You haven't been in touch with Control, but with these.
+跟你们接触的不是什么管理员，而是这些
+
+240
+00:16:35,068 --> 00:16:39,960
+They've used this colony for their own ends, 
+destroying you to live themselves.
+他们利用这个殖民地达到他们自己的目的，毁灭你们来让他们生存
+
+241
+00:16:40,161 --> 00:16:44,319
+Why...they're horrible. No, Doctor.
+It is they who must be destroyed. 
+为什么...它们太吓人了。不，博士。它们才是必须被消灭的东西
+
+241
+00:16:44,461 --> 00:16:45,919
+We must kill them.
+我们必须杀死它们
+
+242
+00:16:48,460 --> 00:16:49,878
+They're here!
+他们在这里
+
+243
+00:16:50,072 --> 00:16:50,706
+Let's go.
+我们走
+
+244
+00:16:50,949 --> 00:16:54,827
+The Pilot and the stranger!
+In forbidden territory! They must be destroyed!
+领航员和异乡人！在禁地里！必须消灭他们！
+
+245
+00:16:55,997 --> 00:17:00,659
+So, what are they, Doctor? 
+I mean, some monstrous form of bacteria?
+那，它们是什么，博士？我说，某种可怕的细菌吗？
+Insects? Or what?
+昆虫？或者别的？
+
+246
+00:17:00,873 --> 00:17:02,824
+I don't know. But you must fight them.
+我不知道，但你必须同他们斗争
+
+247
+00:17:03,127 --> 00:17:03,957
+How?
+怎样才能？
+
+248
+00:17:04,232 --> 00:17:05,803
+Take full command!
+全面夺权！
+
+249
+00:17:06,041 --> 00:17:07,297
+You mean defy Control?
+你的意思是反抗管理员？
+
+250
+00:17:07,500 --> 00:17:09,018
+Well, you see what Control really is.
+是，你都看见了管理员真正是什么
+
+251
+00:17:09,231 --> 00:17:12,887
+Yes. You're right, Doctor, they must be destroyed.
+是，你是对的，博士。必须消灭它们
+
+252
+00:17:32,011 --> 00:17:33,576
+We've been waiting for you.
+我们在等你呢
+
+253
+00:17:33,905 --> 00:17:37,028
+Ola, the Colony is in the hands of 
+grotesque insects!
+Ola, 殖民地在这些怪诞的虫子手中！
+
+254
+00:17:37,254 --> 00:17:38,733
+So you've been seeing things?
+所以你也能看见东西啰？
+
+255
+00:17:38,913 --> 00:17:40,356
+They're in there. The Macra!
+它们在这里，那些 Macra!
+
+256
+00:17:40,596 --> 00:17:44,169
+Ha, ha, ha. You know
+what happens to people that say that?
+哈哈哈，你知道说这个的人都怎么样了吗？
+
+257
+00:17:44,411 --> 00:17:45,097
+But I...
+但是我...
+
+258
+00:17:45,322 --> 00:17:47,060
+Now we can deal with you all together.
+现在我们可以一并处理你们了
+
+259
+00:17:47,339 --> 00:17:48,474
+Did the Pilot has see them?
+领航员看见它们了吗？
+
+260
+00:17:48,650 --> 00:17:49,856
+Yes. I saw the Macra.
+是的，我看见 Macra 了
+
+261
+00:17:50,026 --> 00:17:53,290
+It is forbidden to say that. 
+Don't let him say that he has seen Macra!
+怎么说是被禁止的。别让他说他见过 Macra!
+
+262
+00:17:53,541 --> 00:17:56,066
+I saw you! You are the Macra!
+我见过你！你就是 Macra!
+
+263
+00:17:56,312 --> 00:18:01,060
+Silence! Silence the three strangers! 
+That is an order!
+安静！三个异乡人都闭嘴！这是命令！
+
+264
+00:18:01,252 --> 00:18:02,561
+What shall we do with them, Control?
+我们要拿他们怎么办？
+
+265
+00:18:02,811 --> 00:18:06,160
+Return them to the pipe room. 
+The three strangers and the Pilot.
+把他们送到管道室，三个异乡人和领航员
+
+265
+00:18:06,311 --> 00:18:09,160
+They are to be locked in, 
+and you will not let them out.
+他们要被锁起来，你不能让他们出来
+
+266
+00:18:09,402 --> 00:18:10,110
+Come on, get in.
+快点，进去
+
+267
+00:18:10,348 --> 00:18:10,838
+Ola.
+
+268
+00:18:11,181 --> 00:18:11,948
+Doctor!
+博士！
+
+269
+00:18:12,159 --> 00:18:13,472
+Come on. You heard Control.
+快点，你听到管理员的话了
+
+270
+00:18:13,645 --> 00:18:16,372
+Don't worry Polly, I'll look after ye.
+别担心 Polly，我会照顾你的
+
+271
+00:18:16,557 --> 00:18:17,095
+No!
+不！
+
+272
+00:18:17,273 --> 00:18:18,400
+Take your hands off her.
+把你的手从她那里拿开
+
+273
+00:18:20,675 --> 00:18:21,413
+Get in!
+进去！
+
+274
+00:18:24,846 --> 00:18:26,746
+You have done well, Ola.
+你做得很好，Ola
+
+275
+00:18:27,111 --> 00:18:28,566
+What instructions, Control?
+什么指示，管理员？
+
+276
+00:18:29,123 --> 00:18:34,329
+Clear the building. Guards and workers 
+are to return to the hall for music.
+清空大楼。警卫和工人们都返回大厅听音乐
+
+277
+00:18:34,605 --> 00:18:35,667
+I obey, Control.
+我服从，管理员
+
+278
+00:18:36,877 --> 00:18:45,088
+It will take precisely four minutes, and then
+it will be safe for everyone to return to work.
+这将需要整整4分钟，然后每个人就可以安全地回去工作了
+
+279
+00:18:45,252 --> 00:18:48,969
+- Four minutes.
+- Why four minutes?
+- 四分钟  - 为什么是四分钟？
+
+280
+00:18:48,990 --> 00:18:50,781
+Aye, what can they do in four minutes, Doctor?
+是，四分钟里面它们能做什么，博士？
+
+281
+00:18:51,020 --> 00:18:54,388
+I don't know. We must be ready for anything.
+我不知道，我们必须准备应对一切
+
+282
+00:18:56,313 --> 00:18:58,278
+It's a gas! It's coming in here.
+是瓦斯！进这里来了
+
+283
+00:18:59,690 --> 00:19:01,616
+Pilot, do you know where it's coming from?
+领航员，你知道它是从哪里来的吗？
+
+284
+00:19:01,782 --> 00:19:02,967
+Why, no. I've never been here before.
+为什么，不。我以前从没来过这里
+
+285
+00:19:04,931 --> 00:19:06,364
+There must be a hidden inlet.
+肯定有一个隐秘的入口
+
+286
+00:19:06,783 --> 00:19:10,345
+You will not be able to fight it.
+You cannot stop it.
+你们没法对抗它，你们阻止不了它
+
+287
+00:19:11,882 --> 00:19:12,871
+Doctor, I'm getting dizzy.
+博士，我头晕了
+
+288
+00:19:13,207 --> 00:19:14,651
+Polly, hold that in front of your mouth.
+Polly，把这个捂在你口鼻上
+
+289
+00:19:14,860 --> 00:19:16,390
+It's coming from over here, Doctor!
+它是从这里来的，博士！
+
+290
+00:19:16,656 --> 00:19:18,426
+You're right, Jamie!
+你是对的，Jamie!
+
+291
+00:19:18,661 --> 00:19:19,870
+It's coming from here as well!
+这里也可以出来！
+
+292
+00:19:22,394 --> 00:19:25,789
+You are unable to stop it.
+你们没法阻止它的
+
+293
+00:19:26,050 --> 00:19:26,945
+Polly?
+
+294
+00:19:27,371 --> 00:19:32,340
+It will not last long. Only for four minutes.
+By that time, you...
+不会太长时间，只有四分钟。到那个时候，你们...
+
+295
+00:19:34,417 --> 00:19:35,500
+Come on! Let us out!
+快点！让我们出去！
+
+296
+00:19:35,994 --> 00:19:38,115
+...will be completely helpless,
+not quite dead, helpless.
+...将会完全无力，还没有完全死，而是无力
+
+297
+00:19:39,364 --> 00:19:40,546
+Hello in there.
+里面的人呐
+
+298
+00:19:41,027 --> 00:19:41,871
+Who is it?
+是谁？
+
+299
+00:19:42,231 --> 00:19:42,803
+Ben.
+
+300
+00:19:43,094 --> 00:19:46,802
+Ben? Is that you? Are you all right?
+Ben? 是你吗？你没事吧？
+
+301
+00:19:47,073 --> 00:19:48,716
+Can you open the door from your side?
+你能从你那边打开门吗？
+
+302
+00:19:49,015 --> 00:19:49,726
+No.
+不能
+
+303
+00:19:49,964 --> 00:19:51,317
+But it's locked. There isn't a key.
+它是锁上的，没有钥匙
+
+304
+00:19:51,583 --> 00:19:56,033
+Ben, listen. We've got very little time.
+It's all up to you.
+Ben, 听着，我们只有很少的时间了。全靠你了
+
+305
+00:19:56,327 --> 00:19:57,887
+Go ahead Doctor. Tell me what to do.
+继续博士，告诉我该怎么做
+
+306
+00:19:58,230 --> 00:20:04,794
+Go to the control desk, and you'll see two switches,
+到控制桌去，你可以看到两个开关
+one marked outflow and one marked inflow.
+一个标记着流出，一个标记着流入
+
+307
+00:20:05,067 --> 00:20:05,862
+Hang on.
+坚持住
+
+308
+00:20:08,476 --> 00:20:11,373
+The other stranger has recovered. 
+He is dangerous now!
+另外那个异乡人已经恢复了。他现在很危险！
+
+308
+00:20:11,476 --> 00:20:15,873
+He will no longer obey Control. 
+The fourth stranger is trying to help his friends. 
+他不再服从管理员了．第四个异乡人试图帮助他的朋友。
+
+308
+00:20:15,976 --> 00:20:19,373
+He is no longer one of us. He must be stopped at once!
+他不再是我们的一员了。必须马上阻止他！
+
+309
+00:20:19,727 --> 00:20:21,781
+I've got them, Doc. Two switches. What next?
+我找到他们了，博士，两个开关。然后怎样？
+
+310
+00:20:22,203 --> 00:20:25,593
+Good. You see a lever in front of them?
+好，你看见它们前面有个拉杆吧？
+
+311
+00:20:25,833 --> 00:20:26,424
+Yeah.
+嘢
+
+312
+00:20:26,650 --> 00:20:29,913
+It is forbidden to touch that instrument! 
+You must not obey the Doctor!
+触碰那个设备是禁止的！你不能听从博士的！
+
+312
+00:20:30,050 --> 00:20:34,013
+You will kill us all! 
+He intends to create an explosion!
+你会杀死我们全部的！他打算引发一场爆炸！
+
+313
+00:20:34,338 --> 00:20:38,010
+Come away from those instruments! 
+You will destroy the Colony!
+离开那些仪器！你会毁了殖民地的
+
+314
+00:20:38,234 --> 00:20:40,414
+Oh, shut up. Okay, Doctor. Fire away.
+噢, 闭嘴！好了, 博士, 点火吧
+
+315
+00:20:40,662 --> 00:20:43,280
+Guards! Stop the stranger!
+警卫！阻止那个异乡人！
+
+316
+00:20:43,798 --> 00:20:46,479
+Switch on both inflow and outflow.
+同时打开流入和流出
+
+317
+00:20:47,116 --> 00:20:52,988
+No! Stop! The pressure will be unbearable!
+Oh, the human beings as well...
+不！停下！压力将会变得无法忍受！噢, 这些人类也会...
+
+318
+00:20:53,390 --> 00:20:56,022
+Switch them on, Ben. Then stand by to throw the lever.
+把它们打开, Ben．然后准备推拉杆
+
+319
+00:20:56,557 --> 00:20:58,743
+You are to give no such order!
+你无权给这样的命令！
+
+320
+00:20:59,472 --> 00:21:03,690
+Inflow on. Outflow on. Okay, Doc. Ready with the lever.
+流入打开, 流出打开．好了, 博士．准备拉杆
+
+321
+00:21:05,281 --> 00:21:06,427
+Quickly, Doctor!
+快点, 博士！
+
+322
+00:21:08,837 --> 00:21:10,448
+Throw the lever away from you.
+将拉杆推离你
+
+323
+00:21:10,869 --> 00:21:14,492
+No! No! Don't let him.
+不！不！不能允许他
+
+324
+00:21:19,175 --> 00:21:20,778
+No!
+不！
+
+325
+00:21:53,496 --> 00:21:58,512
+My first duty is to thank the strangers,
+for they have saved our Colony.
+我的第一个职责是要感谢这些异乡人, 感谢他们救了我们的殖民地
+
+326
+00:22:01,011 --> 00:22:06,767
+A dance festival will be held every year in their memory,
+and the winners will be awarded the Strangers' Trophy.
+舞蹈节会每年举行, 以纪念他们．比赛获胜比赛的人会赢得异乡人战利品
+
+327
+00:22:07,200 --> 00:22:08,834
+Where's the Doctor?
+博士哪里去了？
+
+328
+00:22:09,427 --> 00:22:10,367
+Why, he's right over there.
+咦, 他刚才还在这里
+
+329
+00:22:10,657 --> 00:22:11,758
+Well, I've got a tip-off he'll wanna hear.
+哦, 我有一个秘报他肯定想听
+
+330
+00:22:12,090 --> 00:22:13,255
+Hey, Doctor? Doctor?
+嘿, 博士？博士？
+
+331
+00:22:13,519 --> 00:22:17,974
+Relax. Relax. More haste, more waste. Pleasure is beautiful.
+放松, 放松．越着急就越浪费．快乐是美丽的
+
+332
+00:22:18,198 --> 00:22:20,061
+Relax? You wait till you hear
+what they're going to do with you.
+放松？你等着听听他们要把你怎么样
+
+333
+00:22:20,358 --> 00:22:21,323
+Oh, well. Ha, ha, ha.
+噢, 噢？哈哈哈
+
+334
+00:22:21,508 --> 00:22:22,669
+Yeah, I just heard it on the grapevine.
+是的, 我刚才在葡萄架fixme上面已经听到了
+
+334
+00:22:22,708 --> 00:22:25,669
+They're going to draft us as members of the Colony,
+and make you the next Pilot.
+他们要把我们列为殖民地的成员, 让你担任下一任领航员
+
+335
+00:22:26,509 --> 00:22:29,633
+They can't do that to me. Let's get out of here.
+他们不能这么对我．我们离开这里吧
+
+336
+00:22:29,810 --> 00:22:30,597
+Yes, but how?
+是, 但怎么弄？
+
+337
+00:22:30,913 --> 00:22:34,116
+Take a leaf out of Jamie's book.
+Give them the old dance routine.
+从 Jamie 的书里扯一页, fixme
+
