@@ -29,8 +29,10 @@
 - [x] 05x03 The Ice Warriros (full) https://secure.assrt.net/xml/sub/623/623231.xml
 - [ ] 05x04 The Enemy of the World
 - [x] 05x05 The Web of Fear (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623663.xml
-- [-] 06x02 The Mind Robber (whopix fan-edit)
+- [ ] 06x01 The Dominators
+- [x] 06x02 The Mind Robber (whopix fan-edit) https://secure.assrt.net/xml/sub/624/624278.xml
 - [ ] 06x03 The Invasion (of the Cybermen)
+- [ ] 06x04 The Krotons
 - [x] 06x06 The Seeds of Death (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623945.xml
 
 
@@ -78,3 +80,4 @@
 
     - [x] Episode 1: https://secure.assrt.net/xml/sub/624/624016.xml
     - [x] Episode 2: Sentinel  https://secure.assrt.net/xml/sub/624/624218.xml
+    - [x] Episode 3: Awakening https://secure.assrt.net/xml/sub/624/624356.xml
