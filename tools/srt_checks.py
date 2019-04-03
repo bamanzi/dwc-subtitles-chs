@@ -7,18 +7,24 @@ from datetime import datetime
 
 def check_duration(entry, last_entry):
 
-    t1 = entry['starttime']
-    t2 = entry['endtime']
     lineno = entry['lineno']
     filename = entry['filename']
     
-    delta = (t2 - t1).total_seconds()
+    delta = entry['duration']
     if delta < 0.0:
         print("%s:%s:ERROR: Negative span: %.2f seconds" % (filename, lineno, delta))
     if delta > 7.0:
         print("%s:%s:HINT: Time span too long:  %.2f seconds" % (filename, lineno, delta))
-    if delta < 0.8:
+    if delta < 0.6:
         print("%s:%s:HINT: Time span too short: %.2f seconds" % (filename, lineno, delta))
+
+    if not last_entry: return
+    
+    delta_prev = last_entry['duration']
+    sep = (entry['starttime'] - entry['endtime']).total_seconds()
+    if (sep < 0.4) and (  ((delta < 0.8) and (delta_prev < 1.2))
+                       or ((delta < 1.2) and (delta_prev < 0.8)) ):
+        print("%s:%s:HINT: Condider merge with previous entry (two short enrites)" % (filename, lineno))
 
 
 def check_span_overlay(entry, last_entry):
@@ -133,6 +139,7 @@ def main(filename):
                     entry = {}
                     entry['starttime'] = t1
                     entry['endtime']   = t2
+                    entry['duration']  = (t2 - t1).total_seconds()
                     entry['filename']  = filename
                     entry['dialog']    = []
                     entry['lineno']    = lineno
