@@ -34,7 +34,9 @@ def print_entry(entry):
     print("%d" % entry_id)
     print("%s" % entry['timeline'])
     for line in entry['dialog']:
-        if line.startswith('<i') or _is_ascii(line):
+        if "<b>" in line:
+            print('<font color="orange">%s</font>' % line)
+        elif line.startswith('<i>(') or _is_ascii(line):
             print('<font color="gray">%s</font>' % line)
         else:
             print(line)

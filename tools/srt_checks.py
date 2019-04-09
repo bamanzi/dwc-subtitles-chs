@@ -46,6 +46,7 @@ def check_line_length(entry, last_entry):
     filename = entry['filename']
 
     lineno = lineno0
+    last_line = None
     for line in entry['dialog']:
         lineno += 1
 
@@ -58,11 +59,12 @@ def check_line_length(entry, last_entry):
             if len_this>60:
                 print("%s:%s:HINT: Line too long: %d chars " % (filename, lineno, len_this))
 
-                #len_last = len(last_line)
-                #len_this = len(line)
-                #len_total = len_last + len_this
-                #if len_total<60 and (len_last<40 or len_this<40) and not line.startswith('-'):
-                #    print("%s:%s:HINT: Line too short: %d chars" % (filename, lineno, len_this))
+            if last_line:
+                len_last = len(last_line)
+                len_total = len_last + len_this
+                if len_total<40 and not line.startswith('-'):  # and (len_last<40 or len_this<40)
+                    print("%s:%s:HINT: Line too short: merge with last line? %d" % (filename, lineno, len_this))
+        last_line = line
 
 
 def check_non_ascii_lines(entry, last_entry):
