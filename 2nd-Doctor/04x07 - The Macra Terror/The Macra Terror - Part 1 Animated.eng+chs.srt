@@ -525,7 +525,7 @@ It's just through the door there.
 00:08:45,446 --> 00:08:48,168
 Pilot! Pilot! Control wish you
 to call them immediately.
-领航员! 领航员! 管理员期望你立即跟他联系
+领航员! 领航员! 控制员期望你立即跟他联系
 
 99
 00:08:48,246 --> 00:08:49,368
@@ -550,7 +550,7 @@ Hey, who's that? He looks smashing.
 103
 00:08:58,396 --> 00:08:59,715
 That's our Controller.
-这是我们的管理员
+这是我们的控制员
 
 104
 00:09:02,178 --> 00:09:06,093
@@ -1105,7 +1105,7 @@ Oh, well thank you.
 00:15:03,135 --> 00:15:06,432
 This is your Controller speaking.
 There is no need for alarm.
-这里是你们的管理员在讲话．没有必要惊慌
+这里是你们的控制员在讲话．没有必要惊慌
 
 207
 00:15:07,135 --> 00:15:08,232
@@ -1155,7 +1155,7 @@ like a blinking politician.
 00:15:29,524 --> 00:15:31,806
 He is our controller.
 We are always pleased to see him.
-他是我们的管理员．我们很乐意见到他
+他是我们的控制员．我们很乐意见到他
 
 216
 00:15:31,913 --> 00:15:34,657
@@ -1343,7 +1343,7 @@ And look horrible. Creatures... like giant insects.
 251
 00:17:21,067 --> 00:17:22,640
 With big claws?
-带有大螯?
+带有大钳子?
 
 252
 00:17:22,969 --> 00:17:24,034
@@ -1375,7 +1375,7 @@ in the correction hospital.
 00:17:34,060 --> 00:17:37,207
 - Why do they do that?
 - Control tells them to.
-- 他们为什么那么做?   - 管理员让他们干的
+- 他们为什么那么做?   - 控制员让他们干的
 
 258
 00:17:37,305 --> 00:17:38,749
@@ -1440,7 +1440,7 @@ Oh, I'm used to the dark. I like it.
 00:18:10,547 --> 00:18:14,155
 We're confined to rest cubicles at night
 by order of Control.
-夜间我们得待在休息间里面, 这是管理员的命令
+夜间我们得待在休息间里面, 这是控制员的命令
 
 270
 00:18:14,547 --> 00:18:18,155

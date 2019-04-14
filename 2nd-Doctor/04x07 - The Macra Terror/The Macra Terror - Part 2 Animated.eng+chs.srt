@@ -20,16 +20,16 @@ I told you I'd seen them!
 在那片月光下. 我说过我见过它们的!
 
 5
-00:00:37,792 --> 00:00:39,202
+00:00:37,600 --> 00:00:40,600
 <b>The Macra Terror: Episode 2</b>
 <b>Macra 惊魂: 第二集</b>
 
 6
-00:00:39,660 --> 00:00:42,560
+00:00:40,800 --> 00:00:43,600
 (中文翻译/时间轴：巴蛮子sz)
 
 7
-00:00:42,700 --> 00:00:45,000
+00:00:43,800 --> 00:00:46,900
 (注意：本字幕针对2019年动画版视频, 
 与旧版本在对话内容和时间轴上略有差异)
 
@@ -667,7 +667,7 @@ It must begin immediately.
 124
 00:06:27,677 --> 00:06:30,323
 Emergency order from Control, top priority.
-来自管理员的紧急指令, 最高优先级
+来自控制员的紧急指令, 最高优先级
 
 125
 00:06:30,437 --> 00:06:31,823
@@ -704,7 +704,7 @@ That is good. This is an emergency.
 131
 00:06:48,183 --> 00:06:50,881
 Control must be believed and obeyed!
-管理员是必须信任并服从的!
+控制员是必须信任并服从的!
 
 132
 00:06:51,683 --> 00:06:54,381
@@ -1111,7 +1111,7 @@ trying to make us believe ...
 205
 00:12:31,063 --> 00:12:32,739
 Control knows what's best for us.
-管理员知道怎样对我们最好
+控制员知道怎样对我们最好
 
 206
 00:12:33,138 --> 00:12:35,539
@@ -1385,7 +1385,7 @@ You'll be in trouble.
 00:15:21,529 --> 00:15:24,790
 Don't fool about, Polly.
 You must obey Control.
-别犯傻了, Polly. 你必须服从于管理员
+别犯傻了, Polly. 你必须服从于控制员
 
 257
 00:15:30,649 --> 00:15:31,977
@@ -1789,17 +1789,17 @@ at the heart of this colony.
 00:20:02,081 --> 00:20:04,744
 That is quite untrue.
 Control always acts for the best.
-这是相当不实的. 管理员总是按最佳结果行动
+这是相当不实的. 控制员总是按最佳结果行动
 
 333
 00:20:05,198 --> 00:20:06,322
 Who is Control?
-管理员是谁?
+控制员是谁?
 
 334
 00:20:06,615 --> 00:20:08,959
 You've seen our Controller.
-你已经见过我们的管理员了
+你已经见过我们的控制员了
 
 335
 00:20:09,227 --> 00:20:10,697
@@ -1816,7 +1816,7 @@ We've nothing to hide.
 00:20:17,693 --> 00:20:21,258
 Controller speaking.
 We know everything that's happened.
-这里是管理员. 我们知道所发生的一切
+这里是控制员. 我们知道所发生的一切
 
 338
 00:20:21,343 --> 00:20:23,708
@@ -1827,12 +1827,12 @@ The poor girl has had hallucinations.
 00:20:23,958 --> 00:20:26,169
 That's not the Controller.
 That's just a picture of a man.
-那不是管理员, 那只不过是一个人的照片
+那不是控制员, 那只不过是一个人的照片
 
 340
 00:20:26,410 --> 00:20:28,098
 It is a picture of our Controller.
-这是我们管理员的照片
+这是我们控制员的照片
 
 341
 00:20:28,348 --> 00:20:30,244
@@ -1870,7 +1870,7 @@ Well all right. If you wish, I'll ask.
 347
 00:20:41,094 --> 00:20:44,405
 Ah, as you can hear, Control, they...
-啊, 你应该听见了, 管理员. 他们...
+啊, 你应该听见了, 控制员. 他们...
 
 348
 00:20:44,494 --> 00:20:45,925
@@ -1891,7 +1891,7 @@ They've not got him there.
 00:20:53,787 --> 00:20:57,464
 This is your Controller.
 This is your Controller.
-这里是你们的管理员, 这里是你们的管理员
+这里是你们的控制员, 这里是你们的控制员
 
 352
 00:20:57,732 --> 00:20:58,756
@@ -1901,7 +1901,7 @@ But he's an old man.
 353
 00:20:58,971 --> 00:21:00,350
 Well, now you've seen the Controller.
-好了吧, 现在你们见过管理员了
+好了吧, 现在你们见过控制员了
 
 354
 00:21:03,314 --> 00:21:04,417
@@ -1942,7 +1942,7 @@ You will hear him speak.
 361
 00:21:15,049 --> 00:21:17,384
 Speak, Controller, speak!
-说啊, 管理员, 说啊!
+说啊, 控制员, 说啊!
 
 362
 00:21:18,053 --> 00:21:20,629
@@ -2005,7 +2005,7 @@ They're in control!
 373
 01:14:00,516 --> 01:14:02,900
 <i>(You wish to cooperate. You have seen no strange creatures.)</i>
-<i>(管理员：你愿意合作. 你没见过奇怪的生物)</i>
+<i>(控制员：你愿意合作. 你没见过奇怪的生物)</i>
 
 374
 01:14:04,916 --> 01:14:06,900
