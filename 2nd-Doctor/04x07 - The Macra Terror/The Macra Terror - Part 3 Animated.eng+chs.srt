@@ -1,16 +1,17 @@
 1
-00:00:24,000 --> 00:00:27,600
+00:00:20,000 --> 00:00:23,800
+(中文翻译/时间轴：巴蛮子sz)
+(Sincro: bamanzi)
+
+2
+00:00:24,000 --> 00:00:26,800
 (注意：本字幕针对2019年动画版视频, 
 与旧版本在对话内容和时间轴上略有差异)
 
-2
+3
 00:00:27,800 --> 00:00:30,500
 <b>The Macra Terror: Episode 3</b>
 <b>Macra 惊魂: 第三集</b>
-
-3
-00:00:30,800 --> 00:00:32,800
-(中文翻译/时间轴：巴蛮子sz)
 
 4
 00:00:32,919 --> 00:00:35,698
@@ -21,13 +22,13 @@ Keep away. Don't touch me.
 00:00:35,871 --> 00:00:37,201
 - I'll obey.
 - What's that? What's happening!
-- 我会服从的  - 那是什么? 发生什么事了?
+- 我会服从的  - 那是什么？发生什么事了？
 
 6
 00:00:37,422 --> 00:00:40,143
 Doctor, that was it - that thing
-in the picture! The Claw!
-博士, 就是那个 - 图片里面的那个东西! 那个大钳子
+in the picture! The Claw! 
+博士, 就是那个 - 图片里面的那个东西！那个大钳子
 
 7
 00:00:40,222 --> 00:00:41,843
@@ -38,13 +39,13 @@ They're in control.
 00:00:42,027 --> 00:00:43,557
 Take them out of here.
 They're condemned to the pits.
-把他们带离这里! 他们被判去矿坑!
+把他们带离这里！他们被判去矿坑！
 
 9
 00:00:43,731 --> 00:00:46,161
 Come on. Get out, all of you.
 Out! Get out!
-快点, 出去, 你们所有人. 出去! 都出去!
+快点, 出去, 你们所有人．出去！都出去！
 
 10
 00:00:48,265 --> 00:00:50,569
@@ -74,7 +75,7 @@ Your orders are correct, Pilot.
 
 15
 00:01:00,382 --> 00:01:03,622
-The strangers must be sent to
+The strangers must be sent to 
 explore the new gas reserves.
 这些异乡人必须被派去探索新的瓦斯储备
 
@@ -127,7 +128,7 @@ Keep watch on your friends,
 
 25
 00:01:22,993 --> 00:01:26,549
-and if you see anything suspicious,
+and if you see anything suspicious, 
 report to me immediately.
 如果你发现任何可疑, 立即向我报告
 
@@ -140,23 +141,23 @@ Yes, Pilot.
 00:01:30,294 --> 00:01:36,344
 # We are all happy to work.
 # We are all happy to work.
-我们都幸福地工作. 我们都幸福地工作
+我们都幸福地工作．我们都幸福地工作
 
 28
 00:01:36,494 --> 00:01:38,944
 - # For the good of the Colony
 - Ooh! Ooh!
-- 为了殖民地更美好  - 喔! 喔!
+- 为了殖民地更美好  - 喔！喔！
 
 29
 00:01:39,226 --> 00:01:40,020
 What's the matter?
-什么情况?
+什么情况？
 
 30
 00:01:40,232 --> 00:01:42,232
 Dreadful. Did you hear that rhyme?
-好吓人. 你听到那个调子了吗?
+好吓人．你听到那个调子了吗？
 
 31
 00:01:42,332 --> 00:01:44,532
@@ -168,12 +169,12 @@ sent to the Danger Gang - not us.
 00:01:44,639 --> 00:01:47,087
 - Ha, ha, ha.
 - All right. That's enough.
-- 哈哈哈  - 好啦. 到此为止
+- 哈哈哈  - 好啦．到此为止
 
 33
 00:01:47,651 --> 00:01:50,229
 Ah, are these the three strangers?
-啊, 这就是那三个异乡人?
+啊, 这就是那三个异乡人？
 
 34
 00:01:50,469 --> 00:01:51,222
@@ -205,7 +206,7 @@ What efficiency.
 39
 00:02:05,327 --> 00:02:06,352
 What ever do you make?
-你们制造些什么?
+你们制造些什么？
 
 40
 00:02:06,433 --> 00:02:07,165
@@ -216,17 +217,17 @@ Silence.
 00:02:07,265 --> 00:02:09,661
 I thought this was a mine.
 You know, where you dig up coal?
-我觉得这是一个矿, 你知道, 就是你挖煤的地方
+我觉得这是一个矿, 你知道，就是你挖煤的地方
 
 42
 00:02:09,713 --> 00:02:12,433
-Ah, yes. But here, you see,
+Ah, yes. But here, you see, 
 the rock foundation is a type of salt.
-啊, 是的. 不过在这里, 岩基是一种盐
+啊, 是的．不过在这里, 岩基是一种盐
 
 43
 00:02:12,613 --> 00:02:15,293
-Now, at depths it generates gases
+Now, at depths it generates gases 
 over the years,
 现在, 它的深处长年会产生瓦斯
 
@@ -237,21 +238,21 @@ and these gases are extremely valuable.
 
 45
 00:02:17,167 --> 00:02:19,784
-Don't bother to explain to them.
+Don't bother to explain to them. 
 Just get them to work.
-别费劲跟他们解释了. 直接让他们去工作
+别费劲跟他们解释了．直接让他们去工作
 
 46
 00:02:20,043 --> 00:02:22,850
 Aye. Well, you don't send a lassie
 and an old man down to dig.
-是. 不过, 你不应该派一个姑娘和一个老人下去挖矿
+是．不过, 你不应该派一个姑娘和一个老人下去挖矿
 
 47
 00:02:23,144 --> 00:02:24,717
 Old? What do you mean old?
 I'm not old, Jamie.
-老? 你说＂老＂是什么意思? 我可不老, Jamie
+老？你说＂老＂是什么意思？我可不老, Jamie
 
 48
 00:02:24,979 --> 00:02:25,822
@@ -271,12 +272,12 @@ Very well. Report any irregularities to me.
 51
 00:02:33,088 --> 00:02:34,535
 Medok. How did you get here?
-Medok, 你怎么到这里来了?
+Medok, 你怎么到这里来了？
 
 52
 00:02:34,724 --> 00:02:37,209
 Huh! They threw me out of the correction hospital.
-哼! 他们把我扔出了矫治医院
+哼！他们把我扔出了矫治医院
 
 53
 00:02:37,284 --> 00:02:38,509
@@ -286,7 +287,7 @@ Apparently I'm a hopeless case.
 54
 00:02:38,576 --> 00:02:39,678
 But why did they send you here?
-但他们为什么把你送到这里来?
+但他们为什么把你送到这里来？
 
 55
 00:02:39,882 --> 00:02:41,402
@@ -297,19 +298,19 @@ The one remaining punishment they could think of...
 00:02:41,497 --> 00:02:43,910
 - to work in the Danger Gang for life.
 - For life?
-- 终身在危险组里工作  - 终身?
+- 终身在危险组里工作  - 终身？
 
 57
 00:02:44,015 --> 00:02:46,677
 Oh, don't worry. You don't survive long
 in this atmosphere.
-噢, 不用担心. 在这样的空气里你不会活多久的
+噢, 不用担心．在这样的空气里你不会活多久的
 
 58
 00:02:46,775 --> 00:02:49,927
 It's the gas. It gets everywhere.
 It creeps into your lungs.
-是这些瓦斯, 到处都是. 它钻进你的肺里去
+是这些瓦斯, 到处都是．它钻进你的肺里去
 
 59
 00:02:50,075 --> 00:02:52,577
@@ -325,12 +326,12 @@ Come on, Medok. Take them to their work.
 61
 00:02:54,462 --> 00:02:55,701
 What's the hurry?
-着什么急?
+着什么急？
 
 62
 00:02:55,806 --> 00:02:56,893
 You don't want me to call the guard, do you?
-你不想让我叫警卫吧, 想吗?
+你不想让我叫警卫吧, 想吗？
 
 63
 00:02:56,999 --> 00:02:58,246
@@ -351,24 +352,24 @@ Ah, yes. That's true.
 66
 00:03:02,860 --> 00:03:04,662
 Yes. Well, I'm leaving this man.
-是的. 这样, 我把这个人留下
+是的．这样, 我把这个人留下
 
 67
 00:03:04,963 --> 00:03:08,088
 Hmm? Oh. Well, yes.
 I suppose that's all right.
-唔? 哦, 好吧, 行. 我觉得这样行
+唔？哦, 好吧, 行．我觉得这样行
 
 68
 00:03:08,279 --> 00:03:10,933
 But, it's much safer up here.
 Isn't it, Medok?
-但, 这上面要安全得多, 是不是, Medok?
+但, 这上面要安全得多, 是不是, Medok？
 
 69
 00:03:11,124 --> 00:03:13,516
 - It is.  - Ah, I see.
-- 是的  - 啊, 我明白了
+- 是的  - 啊，我明白了
 
 70
 00:03:14,360 --> 00:03:17,208
@@ -385,7 +386,7 @@ Polly 来承担安全工作吧
 00:03:18,651 --> 00:03:21,365
 Uh, no. You stay up here, Doctor.
 I wouldn't know what to do.
-啊, 不, 你待在上面. 我不知道该做些什么
+啊, 不, 你待在上面．我不知道该做些什么
 
 73
 00:03:21,550 --> 00:03:23,547
@@ -395,24 +396,24 @@ all this machinery myself.
 
 74
 00:03:23,818 --> 00:03:26,860
-Do you not think you might make
+Do you not think you might make 
 better use of the opportunity, Doctor?
-你不觉得你也许能够更好地利用这次机会, 博士?
+你不觉得你也许能够更好地利用这次机会, 博士？
 
 75
 00:03:27,050 --> 00:03:30,181
 What do you mean? Oh, yes. Oh, yes.
-你什么意思? 哦, 是的, 哦, 是的.
+你什么意思？哦, 是的, 哦, 是的。
 
 76
 00:03:30,280 --> 00:03:31,871
 Yes. I'll be supervisor.
-是的, 我来当监察员
+是的，我来当监察员
 
 77
 00:03:32,517 --> 00:03:33,492
 What was all that?
-那都是什么?
+那都是什么？
 
 78
 00:03:33,717 --> 00:03:35,363
@@ -428,24 +429,24 @@ Come on you two.
 00:03:37,888 --> 00:03:41,181
 Oh, you're going to issue them
 with masks, aren't you?
-噢, 你会给他们派发面罩吧, 会吗?
+噢, 你会给他们派发面罩吧, 会吗？
 
 81
 00:03:41,288 --> 00:03:43,181
-You aren't taking them down there
+You aren't taking them down there 
 without any protection?
-你不会是不给任何防护措施就带他们下去吧?
+你不会是不给任何防护措施就带他们下去吧？
 
 82
 00:03:43,702 --> 00:03:45,874
-Surely you could have seen to that?
-想必你可以搞定那个?
+Surely you could have seen to that? 
+想必你可以搞定那个？
 
 83
 00:03:48,702 --> 00:03:53,274
-Oh, ah, here. You'd better take this,
+Oh, ah, here. You'd better take this, 
 um... this checklist.
-哦, 这里. 你最好带上这个..这个检查表
+哦，这里。你最好带上这个..这个检查表
 
 84
 00:03:53,591 --> 00:03:56,457
@@ -455,7 +456,7 @@ But I... I would have liked a mask.
 85
 00:04:01,375 --> 00:04:06,847
 This really is remarkable. Most interesting.
-这真的是了不起, 很有意思
+这真的是了不起，很有意思
 
 86
 00:04:07,575 --> 00:04:11,347
@@ -464,9 +465,9 @@ Yes. I suppose with a little adjustment...
 
 87
 00:04:12,272 --> 00:04:16,901
-Hello, Ben. Don't go.
+Hello, Ben. Don't go. 
 Come in. Don't be afraid.
-你好, Ben. 别走. 进来啊, 不用害怕
+你好, Ben．别走。进来啊，不用害怕
 
 88
 00:04:19,528 --> 00:04:21,151
@@ -503,7 +504,7 @@ I do what I am told.
 00:04:31,401 --> 00:04:33,980
 Yes, I know.
 That's why you're here, isn't it?
-是的, 我知道. 那就是你来这里的原因, 对吧?
+是的, 我知道．那就是你来这里的原因, 对吧？
 
 95
 00:04:34,128 --> 00:04:36,628
@@ -513,12 +514,12 @@ To spy on me.
 96
 00:04:39,001 --> 00:04:41,628
 What does Control want to know this time?
-管理员这次想知道什么?
+管理员这次想知道什么？
 
 97
 00:04:43,301 --> 00:04:46,128
 Won't you answer me?
-你不答复我吗?
+你不答复我吗？
 
 98
 00:04:46,501 --> 00:04:49,628
@@ -529,7 +530,7 @@ You know, Ben, this is very unlike you.
 00:04:51,716 --> 00:04:56,183
 I...I don't know what you mean.
 It is my duty.
-我...我不知道你什么意思. 这是我的职责
+我...我不知道你什么意思．这是我的职责
 
 100
 00:04:56,479 --> 00:04:59,979
@@ -561,7 +562,7 @@ You shouldn't make lasses do the work of men.
 105
 00:05:17,708 --> 00:05:19,409
 The Danger Gang will do as they are told.
-安排危险组干什么就得干什么.
+安排危险组干什么就得干什么．
 
 106
 00:05:19,508 --> 00:05:21,009
@@ -570,20 +571,20 @@ It's a punishment for their failure to cooperate.
 
 107
 00:05:21,103 --> 00:05:24,353
-We do all the dirty work.
+We do all the dirty work. 
 We go where the gas is worst.
-我们干所有的脏活. 我们去瓦斯最严重的地方
+我们干所有的脏活．我们去瓦斯最严重的地方
 
 108
 00:05:24,548 --> 00:05:27,472
 It's your own fault, Medok.
 If you obeyed Control...
-这是你自己的错, Medok. 如果你服从于管理员...
+这是你自己的错, Medok．如果你服从于管理员...
 
 109
 00:05:27,552 --> 00:05:29,601
 All right. All right. Forget it.
-打住, 打住. 忘了吧
+打住, 打住．忘了吧
 
 110
 00:05:29,702 --> 00:05:33,151
@@ -594,7 +595,7 @@ to their trying to poison my mind.
 111
 00:05:33,712 --> 00:05:34,695
 What's that?
-那是什么?
+那是什么？
 
 112
 00:05:35,091 --> 00:05:36,210
@@ -604,18 +605,18 @@ It's a gas strike.
 113
 00:05:36,503 --> 00:05:38,709
 Go on! Help with the cable there.
-快啊! 帮忙拿一下那里的管子
+快啊！帮忙拿一下那里的管子
 
 114
 00:05:38,803 --> 00:05:41,309
 Go on. Hurry up. That's the alarm.
 This gas is lethal!
-继续. 快点. 警报响了, 这种气体是致命的
+继续．快点．警报响了, 这种气体是致命的
 
 115
 00:05:41,831 --> 00:05:42,877
 What does he mean?
-他什么意思?
+他什么意思？
 
 116
 00:05:43,000 --> 00:05:45,507
@@ -625,25 +626,25 @@ they can't channel it off.
 
 117
 00:05:45,600 --> 00:05:48,107
-When it reaches a certain density,
+When it reaches a certain density, 
 that alarm bell goes.
 当达到一定浓度时, 警报就会响
 
 118
 00:05:48,162 --> 00:05:50,580
-- Hurry up! Get that cable to the strike.
+- Hurry up! Get that cable to the strike. 
 - Come on. Quickly.
-- 快点! 把管子拿到泄漏点  - 快来, 迅速
+- 快点！把管子拿到泄漏点  - 快来，迅速
 
 119
 00:05:57,436 --> 00:06:00,654
 Quickly. Come on. Pull there.
-快点. 加油, 拉过去
+快点。加油，拉过去
 
 120
 00:06:00,753 --> 00:06:02,554
 Pull, all of you. Pull. Pull.
-拉啊, 你们所有人. 拉, 拉
+拉啊, 你们所有人．拉, 拉
 
 121
 00:06:02,649 --> 00:06:04,133
@@ -663,7 +664,7 @@ Get her away from here. Away.
 124
 00:06:14,982 --> 00:06:17,867
 Jamie, the head of the cable. Got it? Right.
-Jamie, 管子的那头. 拿住了, 好
+Jamie, 管子的那头．拿住了, 好
 
 125
 00:06:17,982 --> 00:06:19,867
@@ -673,12 +674,12 @@ Put your masks on. They're in your pocket.
 126
 00:06:23,082 --> 00:06:24,767
 Right. Now, help me with this.
-好了, 现在, 帮我弄一下这个.
+好了, 现在, 帮我弄一下这个．
 
 127
 00:06:28,082 --> 00:06:30,367
 Hold it. Hold it, Jamie.
-托住, 托住, Jamie.
+托住, 托住, Jamie．
 
 128
 00:06:34,882 --> 00:06:38,167
@@ -688,7 +689,7 @@ Right. Right.
 129
 00:06:41,595 --> 00:06:42,982
 What's it all for?
-这有什么作用?
+这有什么作用？
 
 130
 00:06:43,432 --> 00:06:48,152
@@ -725,7 +726,7 @@ Now, let me see.
 136
 00:07:55,592 --> 00:07:57,801
 Yes. I think that's right.
-对了! 我觉得这样对了
+对了！我觉得这样对了
 
 137
 00:07:58,492 --> 00:08:00,801
@@ -740,12 +741,12 @@ Oh, you did give me a turn.
 139
 00:08:06,060 --> 00:08:07,190
 Where did you find it?
-你在那里找到的?
+你在那里找到的？
 
 140
 00:08:07,490 --> 00:08:08,258
 What?
-什么?
+什么？
 
 141
 00:08:08,383 --> 00:08:09,222
@@ -761,17 +762,17 @@ In my head. You know.
 00:08:12,271 --> 00:08:15,839
 Don't lie. That is a secret known
 only to three people in the Colony.
-别撒谎. 这是一项秘密, 这个殖民地只有三个人知道
+别撒谎．这是一项秘密, 这个殖民地只有三个人知道
 
 144
 00:08:16,494 --> 00:08:17,471
 And you're one of them?
-而你是其中的一个?
+而你是其中的一个？
 
 145
 00:08:17,700 --> 00:08:20,315
 Naturally. And you're not asking me to believe...
-当然. 你不是要我相信...
+当然．你不是要我相信...
 
 146
 00:08:20,396 --> 00:08:22,615
@@ -793,18 +794,18 @@ It does seem rather a tall order.
 149
 00:08:28,783 --> 00:08:31,262
 Yes, of course. I know what you've done.
-是的, 当然了. 我知道你干了什么
+是的, 当然了．我知道你干了什么
 
 150
 00:08:31,383 --> 00:08:33,862
 You've broken into our secret files,
 haven't you?
-你偷看了我们的机密文件, 是吧?
+你偷看了我们的机密文件, 是吧？
 
 151
 00:08:34,089 --> 00:08:35,967
 I wouldn't know how to do that. Take a look.
-我不知道怎么干那个. 你看看
+我不知道怎么干那个．你看看
 
 152
 00:08:37,286 --> 00:08:40,285
@@ -815,13 +816,13 @@ That's the exact computation.
 153
 00:08:40,619 --> 00:08:42,919
 Really? Huh. In that case...
-真的吗? 哈, 这样的话...
+真的吗？哈, 这样的话...
 
 154
 00:08:46,384 --> 00:08:49,622
 Do you really mean to say
 that you worked that out by yourself?
-你真的是想说, 你完全自己推导出来的?
+你真的是想说, 你完全自己推导出来的？
 
 155
 00:08:50,066 --> 00:08:53,086
@@ -831,12 +832,12 @@ Well, I did have a little assistance.
 156
 00:08:53,305 --> 00:08:54,948
 Yes, I thought so. Who was it?
-是的, 我也觉得. 是谁?
+是的, 我也觉得．是谁？
 
 157
 00:08:55,123 --> 00:08:57,541
 Oh, no, no, no. Oh, no. No person. No.
-噢, 不, 不. 噢, 不. 不是人. 不是
+噢, 不, 不．噢, 不．不是人．不是
 
 158
 00:08:57,823 --> 00:09:00,541
@@ -847,7 +848,7 @@ from the various dials.
 159
 00:09:00,632 --> 00:09:02,101
 They appeared to be related,
-它们看起来是有关联的.
+它们看起来是有关联的．
 
 160
 00:09:02,182 --> 00:09:04,361
@@ -859,13 +860,13 @@ that controls them.
 00:09:04,580 --> 00:09:06,961
 It was simple really.
 Like doing a sum backwards.
-其实很简单, 真的. 就像倒着求和一样
+其实很简单, 真的．就像倒着求和一样
 
 162
 00:09:07,367 --> 00:09:08,902
 - Backwards?
 - Yes. You know...
-- 倒着?   - 是的. 你知道...
+- 倒着？  - 是的．你知道...
 
 163
 00:09:09,070 --> 00:09:10,742
@@ -876,7 +877,7 @@ Given the answer, what's the question?
 00:09:11,850 --> 00:09:15,053
 Wipe it away. Get it off there
 before anybody else sees it.
-擦掉吧. 在其他人看到之前, 把它弄掉
+擦掉吧．在其他人看到之前，把它弄掉
 
 165
 00:09:15,751 --> 00:09:17,887
@@ -886,11 +887,11 @@ Oh, well. If you insist.
 166
 00:09:21,706 --> 00:09:22,586
 Ho, ho. There now.
-喔呵呵, 看看
+喔呵呵，看看
 
 167
 00:09:22,706 --> 00:09:25,659
-If anyone follows that formula,
+If anyone follows that formula, 
 there'll be an almighty explosion
 如果有人按这个公式走, 就能引发一场巨大的爆炸
 
@@ -907,7 +908,7 @@ Get it off.
 170
 00:09:40,841 --> 00:09:42,122
 What are they doing?
-他们在做什么?
+他们在做什么？
 
 171
 00:09:42,455 --> 00:09:43,834
@@ -917,23 +918,23 @@ We call that probing.
 172
 00:09:44,119 --> 00:09:45,464
 You're not looking for more gas?
-你不是在找寻更多的瓦斯吧?
+你不是在找寻更多的瓦斯吧？
 
 173
 00:09:45,633 --> 00:09:47,080
 Oh, yes. We never stop!
-哦, 是的, 我们从未停止!
+哦, 是的, 我们从未停止！
 
 174
 00:09:47,786 --> 00:09:50,174
 There's a door here. Where's it lead to?
-这里有道门, 它通向哪里?
+这里有道门, 它通向哪里？
 
 175
 00:09:50,452 --> 00:09:53,624
 I've no idea. To my knowledge,
 those doors were never opened.
-我不知道. 据我的了解, 那些门从来没有打开过
+我不知道．据我的了解, 那些门从来没有打开过
 
 176
 00:09:53,829 --> 00:09:55,005
@@ -942,19 +943,19 @@ Could be an old shaft.
 
 177
 00:09:55,594 --> 00:09:58,372
-Why would it need such a new door?
+Why would it need such a new door? 
 And so strong?
-为什么它需要一道这么新的门? 还这么结实?
+为什么它需要一道这么新的门？还这么结实？
 
 178
 00:09:58,762 --> 00:10:00,202
 Hey, look out!
-嘿, 小心!
+嘿, 小心！
 
 179
 00:10:00,765 --> 00:10:02,209
 Ah, you've made the connection?
-啊, 你搞定连接了?
+啊, 你搞定连接了？
 
 180
 00:10:02,509 --> 00:10:04,779
@@ -968,7 +969,7 @@ Now, be careful, Medok.
 
 182
 00:10:06,339 --> 00:10:08,861
-There are other places worse than
+There are other places worse than 
 the Danger Gang, you know.
 有些地方比危险组更严重, 你知道吧
 
@@ -976,7 +977,7 @@ the Danger Gang, you know.
 00:10:09,197 --> 00:10:12,645
 This is a high pressure strike.
 You are going to need a stronger screw than this.
-这是一个高压泄漏点, 你需要一个比这更结实的螺杆
+这是一个高压泄漏点，你需要一个比这更结实的螺杆
 
 184
 00:10:12,778 --> 00:10:14,887
@@ -998,7 +999,7 @@ What are you doing?
 00:10:28,769 --> 00:10:31,673
 - What has happened to him?
 - He's had a wee whiff of the gas.
-- 他怎么了?   - 他吸进去了一小口瓦斯
+- 他怎么了？  - 他吸进去了一小口瓦斯
 
 188
 00:10:32,180 --> 00:10:35,645
@@ -1008,12 +1009,12 @@ Get him up. I'll look after him.
 189
 00:10:35,903 --> 00:10:38,645
 Yeah. It's all right, mate. Hang on.
-好, 应该没事了, 伙计. 坚持住
+好, 应该没事了, 伙计．坚持住
 
 190
 00:10:42,650 --> 00:10:44,122
 How long do you think Ben was watching us?
-你觉得 Ben 监视我们多久了?
+你觉得 Ben 监视我们多久了？
 
 191
 00:10:44,302 --> 00:10:45,312
@@ -1023,23 +1024,23 @@ I don't know.
 192
 00:10:45,600 --> 00:10:46,608
 Do you think he saw you take the keys?
-你觉得他看到你拿走钥匙了吗?
+你觉得他看到你拿走钥匙了吗？
 
 193
 00:10:46,687 --> 00:10:48,313
 - Well, if he did, we're in trouble.  - Yes.
-- 啊, 如果他看到了, 我们就有麻烦了  - 是啊
+- 啊，如果他看到了, 我们就有麻烦了  - 是啊
 
 194
 00:10:48,588 --> 00:10:50,342
-It just means we'll have to make
+It just means we'll have to make 
 use of them quick as we can.
 这只意味着我们必须得尽快使用它们
 
 195
 00:10:50,467 --> 00:10:51,970
 But where, Jamie. And how?
-但在哪儿用, Jamie, 怎么用?
+但在哪儿用, Jamie, 怎么用？
 
 196
 00:10:52,199 --> 00:10:53,653
@@ -1074,12 +1075,12 @@ Hey, you two, give us a hand.
 202
 00:11:12,032 --> 00:11:16,565
 Um, all right. I'd better go.
-嗯, 好的. 我最好去一下
+嗯, 好的。我最好去一下
 
 203
 00:11:16,675 --> 00:11:18,374
 Just a minute Polly. This key's turning. Oh.
-等一下 Polly, 钥匙在转了. 噢
+等一下 Polly，钥匙在转了。噢
 
 204
 00:11:18,723 --> 00:11:19,953
@@ -1089,7 +1090,7 @@ Good luck.
 205
 00:11:20,926 --> 00:11:23,078
 Aye. It fits. Come on, Pol...
-是, 钥匙对上了. 快来, Pol..
+是, 钥匙对上了．快来, Pol..
 
 206
 00:11:27,966 --> 00:11:29,916
@@ -1099,7 +1100,7 @@ Come over here, everybody. Lend a hand.
 207
 00:11:55,995 --> 00:11:56,969
 What's that?
-那是什么?
+那是什么？
 
 208
 00:11:57,781 --> 00:11:59,375
@@ -1109,12 +1110,12 @@ It's impossible.
 209
 00:11:59,725 --> 00:12:00,940
 Is it more gas?
-还是瓦斯吗?
+还是瓦斯吗？
 
 210
 00:12:01,176 --> 00:12:02,489
 No. It's an escape.
-不是. 是有人逃走
+不是．是有人逃走
 
 211
 00:12:02,576 --> 00:12:05,689
@@ -1126,7 +1127,7 @@ someone has escaped down here.
 00:12:05,887 --> 00:12:07,723
 - It's Jamie.
 - Your friend? That door!
-- 是 Jamie  - 你的朋友? 那个门?
+- 是 Jamie  - 你的朋友？那个门？
 
 213
 00:12:08,015 --> 00:12:09,654
@@ -1136,677 +1137,678 @@ someone has escaped down here.
 214
 00:12:09,967 --> 00:12:13,005
 Hey wait! Don't leave me down here.
-嘿等等! 别把我一个人扔在这下面
+嘿等等！别把我一个人扔在这下面
 
 215
 00:12:16,740 --> 00:12:18,845
 We couldn't have an alarm.
 It's impossible.
-我们不可能有警报响, 这是不可能的
+我们不可能有警报响，这是不可能的
 
-215
+216
 00:12:18,945 --> 00:12:20,543
 No one ever escaped.
 从没有人逃走过
 
-216
+217
 00:12:26,000 --> 00:12:27,645
 Calling Pit Guard.
 呼叫矿坑警卫
 
-217
+218
 00:12:27,840 --> 00:12:29,945
 Close exits to all gas shafts.
 关闭所有瓦斯竖井的出口
 
-218
+219
 00:12:30,040 --> 00:12:33,245
 Stand by. A prisoner has escaped. Shoot on sight.
-请待命. 一个囚徒逃走了. 看见就开枪
+请待命．一个囚徒逃走了．看见就开枪
 
-219
+220
 00:12:33,326 --> 00:12:34,973
 But, if no one can escape...
 但是, 如果没有人能逃走...
 
-220
+221
 00:12:36,344 --> 00:12:40,039
 My keys! My keys! They were on my tunic.
-我的钥匙! 我的钥匙! 它们本来在我外衣上的
+我的钥匙！我的钥匙！它们本来在我外衣上的
 
-221
+222
 00:12:40,169 --> 00:12:42,740
 You must have dropped them.
 你肯定弄丢它们了
 
-222
+223
 00:12:43,351 --> 00:12:46,426
 Special guards to cover
 all exits to the old shaft.
 特别警卫去把守旧竖井的所有出口
 
-223
+224
 00:12:46,551 --> 00:12:51,426
 With Pilot's permission,
 they may have to go on forbidden ground.
 有领航员的许可, 他们也许可以进入禁地
 
-224
-00:13:14,754 --> 00:13:21,761
-Jamie? Jamie? Jamie? Eh.
-Jamie? Jamie? Jamie? 呃.
-
 225
-00:13:22,634 --> 00:13:23,900
-Ah!
-啊!
+00:13:14,754 --> 00:13:21,761
+Jamie? Jamie? Jamie? Ah!
+Jamie? Jamie? Jamie? 啊!
 
 226
-00:13:25,262 --> 00:13:30,383
-Hello? Who's there?
-哈罗? 谁在哪儿?
+00:13:22,634 --> 00:13:23,900
+Ah!
+啊！
 
 227
+00:13:25,262 --> 00:13:30,383
+Hello? Who's there?
+哈罗？谁在哪儿？
+
+228
 00:13:37,237 --> 00:13:40,799
 No permission is granted for the guard
 to go on forbidden ground.
 警卫没有获得进入禁地的权限
 
-228
+229
 00:13:40,937 --> 00:13:42,439
 Repeat, no permission.
 重复, 没有权限
 
-229
+230
 00:13:42,537 --> 00:13:45,839
 They are not to cover the exit to the old shaft.
 他们不得去把守旧竖井的出口
 
-230
+231
 00:13:45,937 --> 00:13:47,999
 This is in use at this moment by Control.
 当前它正在被管理员使用
 
-231
+232
 00:13:48,137 --> 00:13:50,699
 No one is to go in or near the old shaft.
-任何人不可进入或者靠近旧竖井.
+任何人不可进入或者靠近旧竖井．
 
-232
+233
 00:13:50,797 --> 00:13:51,999
 Top priority.
 最高优先级
 
-233
+234
 00:13:54,246 --> 00:13:55,924
 They seem very emphatic about that.
 他们似乎特别强调了那个
 
-234
+235
 00:13:56,522 --> 00:13:57,860
 Control knows best.
 管理员清楚怎样最好
 
-235
+236
 00:13:58,970 --> 00:14:01,221
 But what if your prisoner escapes that way?
-但是如果你的犯人往那边逃跑了呢?
+但是如果你的犯人往那边逃跑了呢？
 
-236
+237
 00:14:01,296 --> 00:14:03,950
 - What will happen to you?
 - I shall be punished.
-- 你会怎么样?   - 我会被惩罚
-
-237
-00:14:04,446 --> 00:14:06,303
-Well, aren't you going to do
-something about it?
-那, 你不打算对此做点什么吗?
+- 你会怎么样？  - 我会被惩罚
 
 238
+00:14:04,446 --> 00:14:06,303
+Well, aren't you going to do 
+something about it?
+那, 你不打算对此做点什么吗？
+
+239
 00:14:07,304 --> 00:14:09,605
 Control knows best.
 管理员清楚怎样最好
 
-239
+240
 00:14:10,315 --> 00:14:12,190
 Who has escaped anyway?
-究竟是谁逃跑了?
+究竟是谁逃跑了？
 
-240
+241
 00:14:12,902 --> 00:14:14,743
 We shall soon find out.
 我们很快就能搞明白
 
-241
+242
 00:14:19,449 --> 00:14:20,866
 It is Jamie.
 是 Jamie
 
-242
+243
 00:14:22,036 --> 00:14:23,713
 How do you know that, Ben?
 你怎么知道的, Ben?
 
-243
+244
 00:14:24,012 --> 00:14:25,913
 I saw him take the keys.
 我看见他拿走了钥匙
 
-244
+245
 00:14:26,919 --> 00:14:28,617
 And you didn't report it?
-而你当时没有报告?
-
-245
-00:14:29,112 --> 00:14:30,636
-- No.  - Why not?
-- 没有  - 为什么没有?
+而你当时没有报告？
 
 246
+00:14:29,112 --> 00:14:30,636
+- No.  - Why not?
+- 没有  - 为什么没有？
+
+247
 00:14:31,570 --> 00:14:36,150
 I don't know. I don't seem to
 be able to think straight.
-我不知道. 我似乎不能清晰地思考
-
-247
-00:14:36,703 --> 00:14:38,597
-Ben, you're recovering.
-Ben, 你开始恢复了.
+我不知道．我似乎不能清晰地思考
 
 248
+00:14:36,703 --> 00:14:38,597
+Ben, you're recovering.
+Ben, 你开始恢复了．
+
+249
 00:14:38,703 --> 00:14:41,497
 I always thought you were
 a tough customer. Well done!
-我一直都觉得你是一个硬汉. 做得好
+我一直都觉得你是一个硬汉．做得好
 
-249
+250
 00:14:41,697 --> 00:14:44,891
 Control knows best.
 管理员清楚怎样最好
 
-250
+251
 00:14:45,142 --> 00:14:46,754
 You don't seem very sure.
 你似乎并不是太确信
 
-251
+252
 00:14:47,258 --> 00:14:50,232
 Jamie took those keys. I must report him!
-Jamie 拿走了钥匙, 我必须举报他!
-
-252
-00:15:47,015 --> 00:15:50,248
-Doctor, you know what's happened?
-博士, 你知道发生了什么吗?
+Jamie 拿走了钥匙, 我必须举报他！
 
 253
+00:15:47,015 --> 00:15:50,248
+Doctor, you know what's happened?
+博士, 你知道发生了什么吗？
+
+254
 00:15:50,323 --> 00:15:52,091
 Yes. Jamie's got free.
 知道, Jamie 逃走了
 
-254
+255
 00:15:52,173 --> 00:15:54,221
 By my calculations
 he's got a very good chance.
 根据我的计算, 他有很大的机会
 
-255
+256
 00:15:54,273 --> 00:15:56,521
 - Hold that for me, will you?
 - What do you mean?
-- 帮我拿着这个, 好吗?    - 你什么意思?
+- 帮我拿着这个, 好吗？   - 你什么意思？
 
-256
+257
 00:15:56,895 --> 00:15:59,093
 Well, as I understand it,
 Jamie's in the old shaft.
 哦, 根据我的理解, Jamie 在旧的竖井里
 
-257
+258
 00:15:59,251 --> 00:15:59,928
 Yes. That's right.
 是, 说对了
 
-258
+259
 00:16:00,190 --> 00:16:03,885
 And for reasons of their own,
 Control don't want anyone there.
 而根据他们自己的一些理由, 管理员不想让任何人进去
 
-259
+260
 00:16:03,890 --> 00:16:05,385
 It's forbidden territory.
 那是个禁区
 
-260
+261
 00:16:05,577 --> 00:16:07,743
 - So you think he'll be all right?
 - I don't know.
-- 所以你觉得他会没事?  - 我不知道
+- 所以你觉得他会没事？ - 我不知道
 
-261
+262
 00:16:07,912 --> 00:16:10,673
-I'll be able to tell you when I've
+I'll be able to tell you when I've 
 tested this to see how lethal it is.
 等我测试一下这个看它有多致命, 我才能告诉你
 
-262
+263
 00:16:11,321 --> 00:16:13,272
 But what's that got to do with Jamie?
-但那个跟 Jamie 有什么关系?
+但那个跟 Jamie 有什么关系？
 
-263
+264
 00:16:13,506 --> 00:16:15,487
 On this planet it's got
 a lot to do with everybody.
 在这个星球上, 它跟每个人都有很大关系
 
-264
+265
 00:16:15,630 --> 00:16:20,686
 There now. Yes.
-现在看看. 是了
-
-265
-00:16:23,430 --> 00:16:25,330
-Oh, Doctor. What on earth are you doing?
-噢, 博士, 你到底在干什么?
+现在看看。是了
 
 266
+00:16:23,430 --> 00:16:25,330
+Oh, Doctor. What on earth are you doing?
+噢, 博士, 你到底在干什么？
+
+267
 00:16:25,442 --> 00:16:28,734
 I'm trying to analyse this gas,
 and I'm not having very much luck.
 我试图在分析这些瓦斯, 但并运气并不是太好
 
-267
-00:16:29,032 --> 00:16:31,484
-Is that the same stuff that we've
-been pumping out of the pits?
-是跟我们从矿坑里抽出来的一样的东西吗?
-
 268
-00:16:31,555 --> 00:16:33,589
-Yes. And they go to great efforts to get it.
-是的. 他们费很大劲去采集它
+00:16:29,032 --> 00:16:31,484
+Is that the same stuff that we've 
+been pumping out of the pits?
+是跟我们从矿坑里抽出来的一样的东西吗？
 
 269
-00:16:33,695 --> 00:16:35,089
-The question is why?
-问题是, 为什么?
+00:16:31,555 --> 00:16:33,589
+Yes. And they go to great efforts to get it.
+是的．他们费很大劲去采集它
 
 270
-00:16:35,450 --> 00:16:36,549
-Ssh! Somebody's coming.
-嘘!  有人来了
+00:16:33,695 --> 00:16:35,089
+The question is why?
+问题是, 为什么？
 
 271
-00:16:37,079 --> 00:16:38,312
-Ooh! Mustn't find this.
-噢! 不能发现这个
+00:16:35,450 --> 00:16:36,549
+Ssh! Somebody's coming.
+嘘！ 有人来了
 
 272
-00:16:41,906 --> 00:16:46,397
-Oh, the Pilot's not here. Let me help you.
-哦, 导航员不在这里. 让我来帮你吧
+00:16:37,079 --> 00:16:38,312
+Ooh! Mustn't find this.
+噢！不能发现这个
 
 273
+00:16:41,906 --> 00:16:46,397
+Oh, the Pilot's not here. Let me help you.
+哦, 导航员不在这里．让我来帮你吧
+
+274
 00:16:46,727 --> 00:16:47,697
 No.
 不
 
-274
+275
 00:16:48,167 --> 00:16:49,285
 Always lend a helping hand.
 永远伸出援助之手
 
-275
+276
 00:16:49,380 --> 00:16:51,386
 A willing friend makes the task lighter.
 一个乐于助人的朋友会让任务变得轻松
 
-276
+277
 00:16:51,515 --> 00:16:55,065
 I'll wait for the Pilot.
 If I'm going to tell anybody...
-我要等领航员. 如果我打算告诉谁...
-
-277
-00:16:55,247 --> 00:16:56,807
-You are, aren't you?
-你会的, 对吗?
+我要等领航员．如果我打算告诉谁...
 
 278
+00:16:55,247 --> 00:16:56,807
+You are, aren't you?
+你会的, 对吗？
+
+279
 00:16:58,076 --> 00:16:59,691
 I don't know what I'm going to do.
 我不知道我应该做什么
 
-279
+280
 00:17:00,076 --> 00:17:03,291
 I got these voices in my head.
 我脑袋里面有这些声音
 
-280
+281
 00:17:03,376 --> 00:17:05,691
 Sometimes I just think
 I'm having a bad dream.
 有时我觉得我正在做恶梦
 
-281
+282
 00:17:05,901 --> 00:17:09,116
 But the voices are here to help us.
 They are our friends.
 但那些声音是来帮助我们的, 它们是我们的朋友
 
-282
+283
 00:17:11,115 --> 00:17:14,665
 That's it. What about my friends?
-就是这个, 我的朋友们怎么样了?
+就是这个, 我的朋友们怎么样了？
 
-283
+284
 00:17:41,609 --> 00:17:45,421
 I'll see you are reported for this.
 If this were not an emergency...
-我看你会为此被举报的. 如果这不是紧急情况...
-
-284
-00:17:46,086 --> 00:17:48,566
-The bell stopped. Why has it stopped?
-警报停掉了. 为什么停掉了
+我看你会为此被举报的。如果这不是紧急情况fixme
 
 285
+00:17:46,086 --> 00:17:48,566
+The bell stopped. Why has it stopped?
+警报停掉了．为什么停掉了
+
+286
 00:17:48,915 --> 00:17:51,085
 Because, young lady, the emergency is over.
 因为, 年轻的女士, 紧急状况已经结束了
 
-286
+287
 00:17:52,258 --> 00:17:54,140
 Does that mean he's been caught?
 那就是说他被抓住了
 
-287
+288
 00:17:54,390 --> 00:17:56,153
 It means they're closing in on him.
 这意味着他们正在向他逼近
 
-288
+289
 00:18:08,315 --> 00:18:10,423
 Thank you. But, why didn't you tell this to Officia?
-谢谢你. 但是, 为什么你不把这个告诉矿长?
+谢谢你．但是, 为什么你不把这个告诉(矿坑官员fixme)？
 
-289
+290
 00:18:10,720 --> 00:18:12,561
 You told me to report back to you.
 你告诉我报告给你的
 
-290
+291
 00:18:12,934 --> 00:18:14,641
 I see. Very well.
 我明白了, 很好
 
-291
+292
 00:18:15,734 --> 00:18:18,541
 The stranger who has escaped is
 in the old shaft.
 逃跑的异乡人在旧竖井里
 
-292
+293
 00:18:18,634 --> 00:18:20,041
 Control will now give instructions.
 管理员现在会给出指示的
 
-293
+294
 00:18:23,461 --> 00:18:26,594
 All guards will leave the area of the old shaft.
 所有警卫得离开旧竖井区域
 
-294
+295
 00:18:26,691 --> 00:18:30,294
 No one must go near it,
 even in search of the stranger.
 无人可以靠近它, 即使是为了搜寻异乡人
 
-295
+296
 00:18:30,461 --> 00:18:34,094
 Do not approach its exit or entrance.
 Do not go in.
 不要靠近它的出口或者入口, 不要进入
 
-296
+297
 00:18:34,261 --> 00:18:36,994
 Officials are to stand by at the gas centre.
 官员们到瓦斯中心待命
 
-297
+298
 00:18:37,211 --> 00:18:38,622
 We will obey, Control.
 我们服从, 管理员
 
-298
+299
 00:18:40,542 --> 00:18:44,378
 Gas centre standing by.
 What transfers do you wish made?
-瓦斯中心准备好了. 你期望怎样传输?
+瓦斯中心准备好了．你期望怎样传输？
 
-299
+300
 00:18:44,577 --> 00:18:47,902
 Prepare for gas to be diverted into the old shaft.
 准备将瓦斯引流到旧竖井中
 
-300
+301
 00:18:47,977 --> 00:18:50,402
 Inspect connection immediately and report back.
 立即检查连接并回报结果
 
-301
+302
 00:18:57,327 --> 00:18:59,582
 The old shaft. Doctor, that's where Jamie is!
-旧竖井. 博士, 那是 Jamie 所在的地方!
+旧竖井．博士, 那是 Jamie 所在的地方！
 
-302
+303
 00:18:59,758 --> 00:19:02,343
 They're going to pour this gas
 in the old shaft
 他们打算将瓦斯灌入旧竖井去
 
-303
+304
 00:19:02,458 --> 00:19:04,343
 - gas they value above all else.
 他们可把这些瓦斯看得比什么都珍贵
 
-304
+305
 00:19:04,558 --> 00:19:06,143
 What do you make of that, Polly?
 你有什么结论, Polly?
 
-305
+306
 00:19:06,349 --> 00:19:08,568
 For goodness sake, Doctor.
 What are you going on about?
 老天啊, 博士, 你这是要说什么?
 
-306
+307
 00:19:08,744 --> 00:19:14,455
 Don't you see? Control are not pouring
 this poisonous gas into the old shaft to kill Jamie.
-你没明白吗? 管理员并不是要把有毒瓦斯灌入竖井去毒死 Jamie
+你没明白吗？管理员并不是要把有毒瓦斯灌入竖井去毒死 Jamie
 
-307
+308
 00:19:14,544 --> 00:19:16,455
 They've quite another reason.
 他们肯定有其它原因
 
-308
+309
 00:19:29,720 --> 00:19:32,464
 Doctor, you've got to do something to help him.
 博士, 你得做点什么帮助他
 
-309
+310
 00:19:32,548 --> 00:19:33,839
 Before we act, we must think.
 我们行动之前, 必须先思考
 
-310
+311
 00:19:33,948 --> 00:19:36,639
 Now, the Macra that have come to
 the surface of this planet
 现在, Macra 已经跑到这个星球的表面了
 
-311
+312
 00:19:36,748 --> 00:19:39,139
 have not found sufficient gas in the atmosphere,
 它们在大气中没有找到足够的瓦斯
 
-312
+313
 00:19:39,248 --> 00:19:41,939
 so they've had to get somebody to
 pump it up from down below.
 于是它们不得不让人把它从下面抽上来
 
-313
-00:19:42,029 --> 00:19:44,358
-But, if it's life and death to them,
-why do they waste it?
-但是, 如果这瓦斯对它们性命攸关, 它们为什么要浪费掉它?
-
 314
+00:19:42,029 --> 00:19:44,358
+But, if it's life and death to them, 
+why do they waste it?
+但是, 如果这瓦斯对它们性命攸关, 它们为什么要浪费掉它？
+
+315
 00:19:44,439 --> 00:19:47,558
 - Why divert it into the old shaft?
 - That's obvious, Polly. Obvious.
-- 为什么把它引流到旧竖井里去?   - 这很显然, Polly, 显然
-
-315
-00:19:47,700 --> 00:19:50,819
-Because there's something trapped down there
-they wish to keep alive!
-因为有某种东西被困在那里面, 而他们想让它活着!
+- 为什么把它引流到旧竖井里去？  - 这很显然, Polly, 显然
 
 316
+00:19:47,700 --> 00:19:50,819
+Because there's something trapped down there 
+they wish to keep alive!
+因为有某种东西被困在那里面，而他们想让它活着！
+
+317
 00:20:10,786 --> 00:20:13,108
 Officia reporting. All connections
 have been tested.
-矿长报告, 所有连接已经测试过了,
+官方报告, 所有连接已经测试过了,
 
-317
+318
 00:20:13,186 --> 00:20:16,208
 They are all one hundred percent serviceable.
 它们都是 100% 可用的
 
-318
+319
 00:20:16,286 --> 00:20:18,508
 Transfer of all gases may now
 be made to the old shaft.
 现在可以将所有瓦斯传输进入旧竖井
 
-319
+320
 00:20:20,742 --> 00:20:22,069
 Stand by for action.
 准备开始行动
 
-320
+321
 00:20:24,309 --> 00:20:27,786
 The Colony. The Colony is happy to obey.
-殖民地. 殖民地乐于服从
+殖民地．殖民地乐于服从
 
-321
+322
 00:20:27,909 --> 00:20:31,786
 The Colony is happy to obey.
 殖民地乐于服从
 
-322
+323
 00:20:32,200 --> 00:20:32,983
 We've got to help him.
 我们得帮助他
 
-323
+324
 00:20:33,279 --> 00:20:35,843
 I'm doing my best, Polly.
 I'm thinking at top speed.
-我在尽最大努力, Polly. 正在用最高速度思考
+我在尽最大努力, Polly．正在用最高速度思考
 
-324
+325
 00:20:35,979 --> 00:20:37,943
 There's a pattern involved here
 - a combination of pipes.
-这里有某种规律 - 管道的组合.
+这里有某种规律 - 管道的组合．
 
-325
+326
 00:20:38,079 --> 00:20:39,343
 If one were to follow this one...
 如果有人顺着这个...
 
-326
+327
 00:20:41,034 --> 00:20:42,729
 Stand by gas Officia.
-瓦斯矿长待命.
+瓦斯官员待命．
 
-327
+328
 00:20:42,834 --> 00:20:46,929
 All flow is to be channelled
 through systems seven and eleven.
 所有气体导向第７号和第11号系统
 
-328
+329
 00:20:47,402 --> 00:20:48,921
 Seven and eleven. Now which are they?
-7 号和 11号. 都是哪个?
+7 号和 11号．都是哪个？
 
-329
+330
 00:20:49,630 --> 00:20:51,028
 All channels are ready.
 所有管道已经就绪
 
-330
+331
 00:20:51,534 --> 00:20:53,752
 Prepare to turn on at half blast.
 准备打开到一半压力
 
-331
+332
 00:20:54,054 --> 00:20:55,469
 All ready.
 都就绪了
 
-332
+333
 00:20:55,775 --> 00:20:56,727
 Now!
-开动!
-
-333
-00:21:20,049 --> 00:21:22,408
-Seven and eleven. If that's the system in use,
-7 号和 11号. 如果那是在用的系统...
+开动！
 
 334
+00:21:20,049 --> 00:21:22,408
+Seven and eleven. If that's the system in use,
+7 号和 11号．如果那是在用的系统...
+
+335
 00:21:22,509 --> 00:21:25,108
 it must go from here round up to there.
 它肯定是从这里绕上去到那里
 
-335
+336
 00:21:25,621 --> 00:21:27,723
 Officia is to increase pressure.
-矿长准备加大压力
-
-336
-00:21:28,585 --> 00:21:29,949
-Doctor, quickly.
-博士, 快!
+官方准备加大压力
 
 337
+00:21:28,585 --> 00:21:29,949
+Doctor, quickly.
+博士, 快！
+
+338
 00:21:30,236 --> 00:21:31,999
 Polly, I think I've found the gas flow.
 Polly, 我想我已经找到了瓦斯流向
 
-338
+339
 00:21:36,046 --> 00:21:37,860
 The pressure's being increased.
 压力正在增加
 
-339
+340
 00:21:56,367 --> 00:21:58,962
 Turn on full pressure now.
 现在压力全开
 
-340
+341
 00:22:00,383 --> 00:22:02,652
 Full pressure in action!
-已经开到最大压力!
+已经开到最大压力！
+
