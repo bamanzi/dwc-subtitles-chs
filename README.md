@@ -19,11 +19,16 @@
 
 ## 2nd Doctor
 
-- [x] 04x03 The Power of the Daleks (full) https://secure.assrt.net/xml/sub/622/622123.xml
+- [x] 04x03 The Power of the Daleks (animated, full) https://secure.assrt.net/xml/sub/622/622123.xml
 
     - [x] whopix fan-edit https://secure.assrt.net/xml/sub/623/623454.xml
 
 - [x] 04x06 The Moonbase (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623564.xml
+- [x] 04x07 The Macra Terror (animated, full) 
+
+    - part 1 & 2  https://secure.assrt.net/xml/sub/624/624458.xml
+    - part 3 & 4  https://secure.assrt.net/xml/sub/624/624521.xml
+    
 - [x] 04x09 The Evil of the Daleks (full) https://secure.assrt.net/xml/sub/623/623426.xml (updated)
 - [x] 05x01 The Tomb of the Cybermen (whopix fan-edit)  https://secure.assrt.net/xml/sub/624/624128.xml
 - [x] 05x03 The Ice Warriros (full) https://secure.assrt.net/xml/sub/623/623231.xml
