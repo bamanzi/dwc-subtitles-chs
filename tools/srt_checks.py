@@ -117,8 +117,8 @@ def main(filename):
                     if entry:
                         checkers = [check_duration,
                                     check_span_overlay,
-                                    check_line_length,
-                                    check_non_ascii_lines,
+                                    #check_line_length,
+                                    #check_non_ascii_lines,
                                     check_separator,
                                     ]
                         for checker in checkers:
