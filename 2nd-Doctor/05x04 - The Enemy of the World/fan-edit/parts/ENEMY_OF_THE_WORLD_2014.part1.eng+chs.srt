@@ -1,6 +1,6 @@
 1
-00:00:02,002 --> 00:00:09,968
-(Sincro: wyxchari)
+00:00:02,002 --> 00:00:04,968
+(Sincro: bamanzi)
 
 2
 00:00:45,640 --> 00:00:47,816
@@ -118,21 +118,30 @@ Do you see what I mean?
 你明白我的意思吗？
 
 25
-00:06:07,531 --> 00:06:10,810
+00:06:07,531 --> 00:06:09,210
 But surely you know how alike you are?
+但你肯定知道你长得多像吧？/?
+
+25
+00:06:09,331 --> 00:06:10,810
 After all, Salamander is a world figure.
-但你肯定知道你长得多像吧？毕竟来说, Salamander 是个世界级人物
+毕竟来说, Salamander 是个世界级人物
 
 26
-00:06:10,976 --> 00:06:15,377
-Well... well my friends and I, we've been 
-out of touch... with civilisation for a while.
-这个...我的朋友们和我, 我们跟文明世界有段时间没有联系了
+00:06:10,976 --> 00:06:12,677
+Well... well my friends and I, /?
+这个...我的朋友们和我
+
+26
+00:06:12,776 --> 00:06:15,377
+we've been out of touch...
+with civilisation for a while.
+我们跟文明世界有段时间没有联系了
 
 27
 00:06:15,521 --> 00:06:19,377
 We're visitors, so to speak, um. On ice shall we say.
-我们是来访的, 应该说, 唔．fixme
+我们是游客, 应该说, 唔．fixme
 
 28
 00:06:20,509 --> 00:06:22,890
@@ -143,7 +152,7 @@ I see. Where shall I start?
 00:06:23,087 --> 00:06:26,585
 At the beginning please.
 We've been subjected to a number of attacks
-请从最开始的地方．我已经遭受了一系列的攻击了
+请从一开始讲起．我们已经遭受了一系列的攻击了
 
 30
 00:06:26,621 --> 00:06:29,585
@@ -157,9 +166,10 @@ I'm not surprised. I'll show you why.
 
 32
 00:06:34,773 --> 00:06:40,349
-I have a video wire of Salamander, addressing
-the United Zones Conference on World Food.
-我这里有段 Salamander 的视频, 参加联合区域大会的世界粮食fixme
+I have a video wire of Salamander,
+我这里有段 Salamander 的视频
+addressing the United Zones Conference on World Food.
+他参加联合区域大会的世界粮食fixme
 
 33
 00:06:40,422 --> 00:06:45,879
@@ -261,7 +271,7 @@ He's one of the most popular men on the planet.
 51
 00:08:26,731 --> 00:08:28,656
 Many people call him the shopkeeper of the world.
-很多人称呼他为世界级店主
+很多人称呼他为世界级店主fixme
 
 52
 00:08:28,731 --> 00:08:30,756
@@ -372,8 +382,8 @@ he was Controller of the Eastern European Zone?
 
 72
 00:09:36,324 --> 00:09:42,174
-He was drowned at sea a mile from shore./38.9
-/41.1Shockingly murdered!
+He was drowned at sea a mile from shore.
+(s/Shockingly/Hockingham,/) murdered!
 他在离海岸一英里的地方淹死了. 可怕的谋杀啊!
 
 73
@@ -459,14 +469,9 @@ then why hasn't he tried to...
 如果 Salamander 完全是你说的这种人, 那他怎么没有试图...
 
 88
-00:10:26,945 --> 00:10:27,786
-Dispose of me?
-干掉我？
-
-89
-00:10:27,921 --> 00:10:28,508
-Yes.
-对
+00:10:26,945 --> 00:10:28,536
+- Dispose of me?  - Yes
+- 干掉我？  - 对
 
 90
 00:10:28,622 --> 00:10:30,462
@@ -551,10 +556,14 @@ You see, it's very difficult.
 不对. "保障..." 不不不, "保...保障"．你看, 这非常困难
 
 106
-00:11:13,202 --> 00:11:20,470
-Hmm, of course I always was interested in phonetics./17.9
+00:11:13,202 --> 00:11:17,870
+Hmm, of course I always was interested in phonetics
+嗯, 当然了我一直对发音有兴趣
+
+106
+00:11:18,002 --> 00:11:20,470
 Holidays... summer... summer.
-嗯, 当然了我一直对发音有兴趣．＂假日...夏天..夏天＂
+＂假日...夏天..夏天＂
 
 107
 00:11:21,202 --> 00:11:25,210
