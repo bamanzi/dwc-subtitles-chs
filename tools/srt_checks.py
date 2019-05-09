@@ -52,8 +52,15 @@ def check_line_length(entry, last_entry):
 
         len_this = len(line)
         if not _is_ascii(line):
-            if len_this>35:
-                print("%s:%s:HINT: [LONGLINEU] Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
+            len_wc = 0
+            try:
+                from wcwidth import wcswidth
+                len_wc = wcswidth(line)
+            except:
+                pass
+            if (len_wc > 60) or (len_this>35):
+                print("%s:%s:HINT: [LONGLINEU] Line too long: %d chars (non-ascii)%s" %
+                      (filename, lineno, len_this, " wcwidth=%d" % len_wc if len_wc>0 else ""))
         
         else:
             if len_this>60:
