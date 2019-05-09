@@ -12,11 +12,11 @@ def check_duration(entry, last_entry):
     
     delta = entry['duration']
     if delta < 0.0:
-        print("%s:%s:ERROR: Negative span: %.2f seconds" % (filename, lineno, delta))
+        print("%s:%s:ERROR: [NEGASPAN] Negative span: %.2f seconds" % (filename, lineno, delta))
     if delta > 7.0:
-        print("%s:%s:HINT: Time span too long:  %.2f seconds" % (filename, lineno, delta))
+        print("%s:%s:HINT: [LONGSPAN] Time span too long:  %.2f seconds" % (filename, lineno, delta))
     if delta < 0.6:
-        print("%s:%s:HINT: Time span too short: %.2f seconds" % (filename, lineno, delta))
+        print("%s:%s:HINT: [SHORTSPAN] Time span too short: %.2f seconds" % (filename, lineno, delta))
 
     if not last_entry: return
     
@@ -24,7 +24,7 @@ def check_duration(entry, last_entry):
     sep = (entry['starttime'] - entry['endtime']).total_seconds()
     if (sep < 0.4) and (  ((delta < 0.8) and (delta_prev < 1.2))
                        or ((delta < 1.2) and (delta_prev < 0.8)) ):
-        print("%s:%s:HINT: Condider merge with previous entry (two short enrites)" % (filename, lineno))
+        print("%s:%s:HINT: [JOINSHORT] Condider merge with previous entry (two short enrites)" % (filename, lineno))
 
 
 def check_span_overlay(entry, last_entry):
@@ -37,7 +37,7 @@ def check_span_overlay(entry, last_entry):
     filename = entry['filename']
     
     if last_t2 and t1 < last_t2:
-        print("%s:%s:ERROR: Overlapped time span with line %d" % (filename, lineno, last_entry['lineno']))
+        print("%s:%s:ERROR: [OVERLAP] Overlapped time span with line %d" % (filename, lineno, last_entry['lineno']))
 
 
 def check_line_length(entry, last_entry):
@@ -52,22 +52,22 @@ def check_line_length(entry, last_entry):
 
         len_this = len(line)
         if not _is_ascii(line):
-            if len_this>40:
-                print("%s:%s:HINT: Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
+            if len_this>35:
+                print("%s:%s:HINT: [LONGLINEU] Line too long: %d chars (non-ascii)" % (filename, lineno, len_this))
         
         else:
             if len_this>60:
-                print("%s:%s:HINT: Line too long: %d chars " % (filename, lineno, len_this))
+                print("%s:%s:HINT: [LONGLINE]  Line too long: %d chars " % (filename, lineno, len_this))
 
             if last_line:
                 len_last = len(last_line)
                 len_total = len_last + len_this
                 if len_total<40 and not line.startswith('-'):  # and (len_last<40 or len_this<40)
-                    print("%s:%s:HINT: Line too short: merge with last line? %d" % (filename, lineno, len_this))
+                    print("%s:%s:HINT: [SHORTLINE] Line too short: merge with last line? %d" % (filename, lineno, len_this))
         last_line = line
 
 
-def check_non_ascii_lines(entry, last_entry):
+def check_translation(entry, last_entry):
     lineno0 = entry['lineno']
     filename = entry['filename']
     if 'chs' not in filename:
@@ -86,9 +86,9 @@ def check_non_ascii_lines(entry, last_entry):
                 line_count_non_ascii += 1
     
     if line_count_non_ascii>1:
-        print("%s:%s:WARN: Too many non-ascii lines" % (filename, lineno0))
+        print("%s:%s:WARN: [TRANS] Too many non-ascii lines" % (filename, lineno0))
     elif (line_count_needs_trans >0) and (line_count_non_ascii==0):
-        print("%s:%s:WARN: Translate missing" % (filename, lineno0))
+        print("%s:%s:WARN: [TRANS0] Translate missing" % (filename, lineno0))
 
     
 def check_separator(entry, last_entry):
@@ -117,8 +117,8 @@ def main(filename):
                     if entry:
                         checkers = [check_duration,
                                     check_span_overlay,
-                                    #check_line_length,
-                                    #check_non_ascii_lines,
+                                    check_line_length,
+                                    check_translation,
                                     check_separator,
                                     ]
                         for checker in checkers:
