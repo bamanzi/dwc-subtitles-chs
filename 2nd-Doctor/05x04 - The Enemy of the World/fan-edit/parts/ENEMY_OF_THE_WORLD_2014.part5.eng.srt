@@ -1,965 +1,1302 @@
 1
-00:49:27,813 --> 00:49:34,855
-Over there... No, not you. Sit down, all of you.
+00:49:27,813 --> 00:49:31,455
+Over there... No, not you.
 
 2
-00:49:36,654 --> 00:49:51,323
-Incredible. You fooled me the first time we met, but now, even Salamander himself would think he was looking in a mirror. /43.5
-Why? You want this man to impersonate Salamander, why? How much are they paying you?
+00:49:33,913 --> 00:49:36,855
+Sit down, all of you.
 
 3
-00:49:52,081 --> 00:49:53,103
-I beg your pardon?
+00:49:37,154 --> 00:49:39,873
+Incredible. You fooled me the first time we met,
 
 4
-00:49:53,289 --> 00:49:55,820
-They want you to assassinate Salamander, don't they? Take his place?
+00:49:39,994 --> 00:49:44,223
+but now, even Salamander himself
+would think he was looking in a mirror.
 
 5
-00:49:56,672 --> 00:49:58,420
-That's ridiculous! I couldn't possibly do that.
+00:49:44,254 --> 00:49:49,123
+Why? You want this man to impersonate Salamander, why?
 
 6
-00:49:58,570 --> 00:50:00,779
-But you were preparing to impersonate him, weren't you?
+00:49:49,554 --> 00:49:52,423
+How much are they paying you?
 
 7
-00:50:00,992 --> 00:50:01,778
-Well well, yes.
+00:49:52,481 --> 00:49:53,503
+I beg your pardon?
 
 8
-00:50:01,926 --> 00:50:03,546
-Alright then, why?
+00:49:53,689 --> 00:49:56,220
+They want you to assassinate Salamander,
+don't they? Take his place?
 
 9
-00:50:03,722 --> 00:50:08,304
-Because Salamander holds my two friends prisoner and I was going to attempt to rescue them.
+00:49:57,072 --> 00:49:58,820
+That's ridiculous! I couldn't possibly do that.
 
 10
-00:50:08,566 --> 00:50:17,061
-And at the same time get evidence that would expose Salamander as a traitor, blackmailer and murderer!
+00:49:58,970 --> 00:50:01,179
+But you were preparing to impersonate him, weren't you?
 
 11
-00:50:17,257 --> 00:50:19,906
-Quite an ambitious plan. How do you know such evidence exists?
+00:50:01,392 --> 00:50:02,178
+Well well, yes.
 
 12
-00:50:20,078 --> 00:50:21,319
-It exists in Salamander's records.
+00:50:02,326 --> 00:50:03,946
+Alright then, why?
 
 13
-00:50:21,508 --> 00:50:29,965
-Oh, yes, I know why you want Salamander out of the way. /24.0
-You hate him because he exposed your profitable sideline of misusing public money.
+00:50:04,122 --> 00:50:08,704
+Because Salamander holds my two friends prisoner
+and I was going to attempt to rescue them.
 
 14
-00:50:30,120 --> 00:50:32,558
-Oh, it was Salamander who was misusing the money.
+00:50:08,966 --> 00:50:13,861
+And at the same time get evidence
+that would expose Salamander...
 
 15
-00:50:32,707 --> 00:50:35,934
-And I was dismissed from my post and the evidence against Salamander concealed.
+00:50:13,966 --> 00:50:17,461
+...as a traitor, blackmailer and murderer!
 
 16
-00:50:36,130 --> 00:50:39,729
-So you say. But you've no evidence at all against Salamander, have you?
+00:50:17,657 --> 00:50:20,306
+Quite an ambitious plan.
+How do you know such evidence exists?
 
 17
-00:50:39,933 --> 00:50:42,085
-I tell you the evidence is in Salamander's records.
+00:50:20,478 --> 00:50:21,719
+It exists in Salamander's records.
 
 18
-00:50:42,286 --> 00:50:43,762
-And I'm expected to take that from you?
+00:50:21,908 --> 00:50:24,365
+Oh, yes, I know why you want Salamander out of the way.
 
 19
-00:50:44,178 --> 00:50:49,906
-We do hold evidence that Salamander isn't quite so pure and white as he's painted.
+00:50:24,478 --> 00:50:30,365
+You hate him because he exposed
+your profitable sideline of misusing public money.
 
 20
-00:50:50,098 --> 00:50:51,439
-No? What?
+00:50:30,520 --> 00:50:32,958
+Oh, it was Salamander who was misusing the money.
 
 21
-00:50:51,674 --> 00:50:55,199
-A file, containing certain information about a gentleman called Fedorin.
+00:50:33,107 --> 00:50:36,334
+And I was dismissed from my post and
+the evidence against Salamander concealed.
 
 22
-00:50:55,764 --> 00:51:04,185
-Salamander was going to use this evidence against Fedorin. Blackmail him into submission. After he'd got rid of Denes, that is.
+00:50:36,530 --> 00:50:40,129
+So you say. But you've no evidence at all
+against Salamander, have you?
 
 23
-00:51:04,426 --> 00:51:06,368
-And so gain control of another zone.
+00:50:40,333 --> 00:50:42,485
+I tell you the evidence is in Salamander's records.
 
 24
-00:51:06,600 --> 00:51:07,748
-Where is this file?
+00:50:42,686 --> 00:50:44,462
+And I'm expected to take that from you?
 
 25
-00:51:07,964 --> 00:51:10,451
-Fariah has it, Salamander's food taster.
+00:50:44,578 --> 00:50:46,935
+We do hold evidence...
 
 26
-00:51:11,475 --> 00:51:13,940
-Fariah? But she's dead.
+00:50:47,078 --> 00:50:50,306
+that Salamander isn't quite
+so pure and white as he's painted.
 
 27
-00:51:15,179 --> 00:51:17,315
-Dead? But how?
+00:50:50,498 --> 00:50:51,839
+No? What?
 
 28
-00:51:17,541 --> 00:51:19,711
-She was shot by one of Benik's guards, escaping arrest.
+00:50:52,074 --> 00:50:55,599
+A file, containing certain information
+about a gentleman called Fedorin.
 
 29
-00:51:20,333 --> 00:51:25,813
-Escaping arrest? Benik had her killed, because she had evidence against Salamander.
+00:50:56,164 --> 00:51:00,085
+Salamander was going to
+use this evidence against Fedorin.
 
 30
-00:51:26,043 --> 00:51:30,798
-And Benik will return the file to Salamander. We must get to the Research Station.
+00:51:00,164 --> 00:51:04,585
+Blackmail him into submission.
+after he'd got rid of Denes, that is.
 
 31
-00:51:30,985 --> 00:51:45,234
-You're not going anywhere or doing anything. As far as I'm concerned /32.5
- this story you've told me could be a pack of lies to cover your attempt to assassinate Salamander./38.0
-Now I'm not saying I'm altogether satisfied with Salamander or his organisation, but I'll investigate in my own way.
+00:51:04,826 --> 00:51:06,768
+And so gain control of another zone.
 
 32
-00:51:45,489 --> 00:51:52,299
-Meanwhile Salamander will have found a way to cover himself, and also a way of disposing of you./50.7
-You're digging your own grave, Bruce.
+00:51:07,000 --> 00:51:08,148
+Where is this file?
 
 33
-00:51:52,507 --> 00:51:55,564
-That's my affair. And I do things my own way.
+00:51:08,364 --> 00:51:10,851
+Fariah has it, Salamander's food taster.
 
 34
-00:51:56,322 --> 00:52:03,794
-And I do things my way. Really, as Head of Security, you should have more reliable guards.
+00:51:11,875 --> 00:51:14,340
+Fariah? But she's dead.
 
 35
-00:52:06,929 --> 00:52:08,010
-Leader Salamander?
+00:51:15,579 --> 00:51:17,715
+Dead? But how?
 
 36
-00:52:08,213 --> 00:52:08,776
-Still inside, sir.
+00:51:17,941 --> 00:51:20,111
+She was shot by one of Benik's guards, escaping arrest.
 
 37
-00:52:08,973 --> 00:52:10,401
-Let me know the moment the doors are opened.
+00:51:20,733 --> 00:51:24,513
+Escaping arrest? Benik had her killed,
 
 38
-00:52:10,635 --> 00:52:11,255
-Yes sir.
+00:51:24,616 --> 00:51:26,613
+because she had evidence against Salamander.
 
 39
-00:52:20,032 --> 00:52:23,441
-So you've brought them? Good. Any trouble?
+00:51:26,723 --> 00:51:29,398
+And Benik will return the file to Salamander.
 
 40
-00:52:23,720 --> 00:52:25,465
-No, a light drug saw to that.
+00:51:29,493 --> 00:51:31,198
+We must get to the Research Station.
 
 41
-00:52:25,666 --> 00:52:27,160
-Let me know the moment they wake up.
+00:51:31,285 --> 00:51:32,534
+You're not going anywhere or doing anything.
 
 42
-00:52:27,510 --> 00:52:28,101
-Yes sir.
+00:51:32,685 --> 00:51:35,634
+As far as I'm concerned, this story you've told me
+could be a pack of lies...
 
 43
-00:52:28,644 --> 00:52:37,470
-I'm looking forward to questioning them. I have the feeling they're going to be stubborn. /33.5
-So much more interesting when our prisoners are stubborn.
+00:51:35,735 --> 00:51:38,334
+to cover your attempt to assassinate Salamander.
 
 44
-00:52:41,306 --> 00:52:44,898
-You're only making trouble for yourself. Killing me won't get you anywhere.
+00:51:38,485 --> 00:51:43,334
+Now I'm not saying I'm altogether satisfied with
+Salamander or his organisation,
 
 45
-00:52:45,437 --> 00:52:49,411
-We have to get to the Research Station, and you're not going to stop us.
+00:51:43,455 --> 00:51:45,634
+but I'll investigate in my own way.
 
 46
-00:52:49,605 --> 00:53:01,693
-But you're completely surrounded. You don't really believe I came here with just one guard, do you?/54.5
-You'd be very silly to try and fight your way out. I'd give you about... thirty seconds to live if you try.
+00:51:45,889 --> 00:51:49,059
+Meanwhile Salamander will have found a way to cover himself,
 
 47
-00:53:01,906 --> 00:53:05,938
-Alright Bruce, we might have just thirty seconds but you'd have exactly half that time, if you were lucky!
+00:51:49,189 --> 00:51:52,699
+and also a way of disposing of you.
+You're digging your own grave, Bruce.
 
 48
-00:53:06,134 --> 00:53:08,861
-Please, Mister Kent! You're forgetting one very important thing.
+00:51:52,907 --> 00:51:55,964
+That's my affair. And I do things my own way.
 
 49
-00:53:09,000 --> 00:53:09,516
-What?
+00:51:56,982 --> 00:51:59,594
+And I do things my way.
 
 50
-00:53:09,696 --> 00:53:13,486
-Me. Without me you haven't got an earthly chance of getting in that control centre.
+00:52:00,054 --> 00:52:04,197
+Really, as Head of Security,
+you should have more reliable guards.
 
 51
-00:53:13,647 --> 00:53:14,321
-So?
+00:52:07,329 --> 00:52:09,350
+- Leader Salamander?
+- Still inside, sir.
 
 52
-00:53:14,489 --> 00:53:17,778
-I told you before, I will not have anything to do with violence!
+00:52:09,453 --> 00:52:10,901
+Let me know the moment the doors are opened.
 
 53
-00:53:18,044 --> 00:53:21,137
-And what about your two friends? Are you going to leave them to the tender mercies of Salamander?
+00:52:11,035 --> 00:52:11,655
+Yes sir.
 
 54
-00:53:21,343 --> 00:53:24,824
-No I am not. May I?
+00:52:20,432 --> 00:52:23,841
+So you've brought them?
+Good. Any trouble?
 
 55
-00:53:25,012 --> 00:53:25,692
-What?
+00:52:24,120 --> 00:52:25,865
+No, a light drug saw to that.
 
 56
-00:53:26,009 --> 00:53:27,923
-Please? Just trust me.
+00:52:26,066 --> 00:52:27,560
+Let me know the moment they wake up.
 
 57
-00:53:28,369 --> 00:53:33,688
-Now then, I think you agree that at this moment your life is in my hands.
+00:52:27,910 --> 00:52:28,631
+Yes sir.
 
 58
-00:53:37,561 --> 00:53:38,554
-What are you doing?
+00:52:29,044 --> 00:52:33,870
+I'm looking forward to questioning them.
+I have the feeling they're going to be stubborn.
 
 59
-00:53:38,781 --> 00:53:39,541
-Hold it.
+00:52:33,984 --> 00:52:37,870
+So much more interesting when our prisoners are stubborn.
 
 60
-00:53:39,727 --> 00:53:42,656
-It's alright, Mister Bruce isn't going to shoot anyone, are you?
+00:52:41,706 --> 00:52:45,748
+You're only making trouble for yourself.
+Killing me won't get you anywhere.
 
 61
-00:53:42,883 --> 00:53:45,668
-Why? Why'd you do that?
+00:52:45,837 --> 00:52:49,951
+We have to get to the Research Station,
+and you're not going to stop us.
 
 62
-00:53:45,948 --> 00:53:49,410
-Because I think I know what sort of man you are - honest and reasonable.
+00:52:50,055 --> 00:52:51,693
+But you're completely surrounded.
 
 63
-00:53:49,969 --> 00:53:50,976
-Go on.
+00:52:51,805 --> 00:52:54,893
+You don't really believe I came here
+with just one guard, do you?
 
 64
-00:53:51,282 --> 00:53:55,417
-I gave you back that gun because I trust you. Now I want you to trust me.
+00:52:55,005 --> 00:52:58,393
+You'd be very silly to try and fight your way out.
 
 65
-00:53:55,625 --> 00:53:59,016
-You must be a complete fool, or very clever.
+00:52:58,505 --> 00:53:02,253
+I'd give you about... thirty seconds to live if you try.
 
 66
-00:53:59,285 --> 00:54:02,736
-Well I'm afraid you will have to make up your mind to that right away.
+00:53:02,356 --> 00:53:04,338
+Alright Bruce, we might have just thirty seconds
 
 67
-00:54:02,948 --> 00:54:05,286
-What do you hope to gain from this gesture?
+00:53:04,406 --> 00:53:06,338
+but you'd have exactly half that time, if you were lucky!
 
 68
-00:54:05,579 --> 00:54:06,836
-Your confidence.
+00:53:06,534 --> 00:53:09,261
+Please, Mister Kent!
+You're forgetting one very important thing.
 
 69
-00:54:07,261 --> 00:54:10,562
-Do you believe Kent's accusations against Salamander?
+00:53:09,400 --> 00:53:10,516
+- What?  - Me.
 
 70
-00:54:10,809 --> 00:54:16,139
-I think there's reasonable doubt about Salamander's personal integrity, but there's only one way to get proof.
+00:53:10,696 --> 00:53:13,956
+Without me you haven't got an earthly chance
+of getting in that control centre.
 
 71
-00:54:16,333 --> 00:54:18,027
-By getting into Salamander's Research Station?
-
-72
-00:54:18,281 --> 00:54:21,635
-Yes. And my two young friends may have some information.
-
-73
-00:54:21,870 --> 00:54:24,291
-And if there isn't any evidence?
-
-74
-00:54:24,552 --> 00:54:28,550
-Then you'll be perfectly free to arrest us and put us in prison, won't you?
-
-75
-00:54:29,784 --> 00:54:32,849
-Alright, I'll do it, on one condition.
-
-76
-00:54:33,395 --> 00:54:34,101
-And what's that?
-
-77
-00:54:34,330 --> 00:54:36,561
-That you and I go alone, Kent and the girl stay here as hostages.
-
-78
-00:54:36,734 --> 00:54:37,890
-No wait a minute, I must go with him.
-
-79
-00:54:38,070 --> 00:54:58,309
-No, Kent, you stay here. I must be mad to trust you. /43.2
-I only hope your impersonation of Salamander fools Benik. If it doesn't, we're in dead trouble. /48.7
-Here, take this. Keep those two in the caravan. Oh, and, um, watch the girl. Come on.
-
-80
-00:55:06,114 --> 00:55:12,420
-Ah, how we getting on here, huh? Ah, all this? That's a good haul.
-
-81
-00:55:14,425 --> 00:55:16,284
-Stand by to make your report, Swann.
-
-82
-00:55:29,827 --> 00:55:31,616
-Reaching full power here, Swann.
-
-83
-00:55:43,525 --> 00:55:44,964
-Salamander, I must see you.
-
-84
-00:55:46,624 --> 00:55:47,765
-Not now, we are too busy.
-
-85
-00:55:48,113 --> 00:55:48,921
-This is urgent.
-
-86
-00:55:51,799 --> 00:55:52,896
-Oh very well.
-
-87
-00:56:01,502 --> 00:56:02,694
-Now what's the matter, huh?
-
-88
-00:56:02,894 --> 00:56:04,266
-What's this? What is this?
-
-89
-00:56:04,496 --> 00:56:05,155
-What?
-
-90
-00:56:05,369 --> 00:56:07,051
-Newspaper. It's a piece of newspaper.
-
-91
-00:56:08,666 --> 00:56:09,643
+00:53:14,047 --> 00:53:14,781
 So?
 
+72
+00:53:14,889 --> 00:53:18,178
+I told you before,
+I will not have anything to do with violence!
+
+73
+00:53:18,444 --> 00:53:19,537
+And what about your two friends?
+
+74
+00:53:19,644 --> 00:53:21,737
+Are you going to leave them
+to the tender mercies of Salamander?
+
+75
+00:53:21,843 --> 00:53:25,224
+No I am not. May I?
+
+76
+00:53:25,412 --> 00:53:28,292
+- What?  - Please? Just trust me.
+
+77
+00:53:28,769 --> 00:53:34,088
+Now then, I think you agree that
+at this moment your life is in my hands.
+
+78
+00:53:37,961 --> 00:53:38,954
+What are you doing?
+
+79
+00:53:39,181 --> 00:53:39,941
+Hold it.
+
+80
+00:53:40,127 --> 00:53:43,056
+It's alright, Mister Bruce isn't going
+to shoot anyone, are you?
+
+81
+00:53:43,283 --> 00:53:46,068
+Why? Why'd you do that?
+
+82
+00:53:46,348 --> 00:53:49,810
+Because I think I know what sort of man you are
+- honest and reasonable.
+
+83
+00:53:50,369 --> 00:53:51,376
+Go on.
+
+84
+00:53:51,682 --> 00:53:55,817
+I gave you back that gun because I trust you.
+Now I want you to trust me.
+
+85
+00:53:56,025 --> 00:53:59,416
+You must be a complete fool, or very clever.
+
+86
+00:53:59,685 --> 00:54:03,136
+Well I'm afraid you will have to
+make up your mind to that right away.
+
+87
+00:54:03,348 --> 00:54:05,686
+What do you hope to gain from this gesture?
+
+88
+00:54:05,979 --> 00:54:07,236
+Your confidence.
+
+89
+00:54:07,661 --> 00:54:10,962
+Do you believe Kent's accusations against Salamander?
+
+90
+00:54:11,209 --> 00:54:15,339
+I think there's reasonable doubt about
+Salamander's personal integrity,
+
+91
+00:54:15,439 --> 00:54:16,339
+but there's only one way to get proof.
+
 92
-00:56:09,843 --> 00:56:16,095
-Well go on, look at it. Read it. Last year's date. Look at the bit of headline there. THERE!
+00:54:16,433 --> 00:54:18,427
+By getting into Salamander's Research Station?
 
 93
-00:56:16,276 --> 00:56:18,061
-Control yourself, Swann. You'll go mad.
+00:54:18,681 --> 00:54:22,035
+Yes. And my two young friends may have some information.
 
 94
-00:56:18,224 --> 00:56:33,321
-"Holiday Liner Sinks"! You say there's a global war. Radiation everywhere. /23.9
-How can there be holiday liners? Tell me how? 
-You've lied to us, haven't you? HAVEN'T YOU?
+00:54:22,270 --> 00:54:24,691
+And if there isn't any evidence?
 
 95
-00:56:40,090 --> 00:56:45,637
-In a way, Swann, yes. I had to.
+00:54:24,952 --> 00:54:28,950
+Then you'll be perfectly free to arrest us
+and put us in prison, won't you?
 
 96
-00:56:45,768 --> 00:56:47,664
-Had to? What do you mean had to?
+00:54:30,184 --> 00:54:33,249
+Alright, I'll do it, on one condition.
 
 97
-00:56:47,907 --> 00:56:57,935
-Well it's true that... that the war is over, /50.5
-but have you any idea what happens to people 
-who've been involved in a nuclear war? HAVE YOU?
+00:54:33,695 --> 00:54:34,401
+And what's that?
 
 98
-00:56:58,034 --> 00:56:59,367
-Course I haven't, I've been down here.
+00:54:34,530 --> 00:54:36,961
+That you and I go alone,
+Kent and the girl stay here as hostages.
 
 99
-00:56:59,672 --> 00:57:08,210
-Those who are lucky enough to escape the annihilation have their bodies eaten away by radiation poisoning. /05.6
-They're deformed in mind and body.
+00:54:37,134 --> 00:54:38,290
+No wait a minute, I must go with him.
 
 100
-00:57:08,452 --> 00:57:09,925
-But this, this, this newspaper?
+00:54:38,470 --> 00:54:43,609
+No, Kent, you stay here.
+I must be mad to trust you.
 
 101
-00:57:10,105 --> 00:57:18,674
-They have a kind of society, but it's... it's evil! Corrupt! /13.5
-You don't think I could expose you to to that sort of thing? Think of Mary and the other women.
+00:54:43,710 --> 00:54:46,609
+I only hope your impersonation of Salamander fools Benik.
 
 102
-00:57:18,862 --> 00:57:20,374
-You could have told me, at least.
+00:54:46,710 --> 00:54:49,009
+If it doesn't, we're in dead trouble.
 
 103
-00:57:20,545 --> 00:57:21,604
-I decided not to.
+00:54:49,070 --> 00:54:53,709
+Here, take this. Keep those two in the caravan.
 
 104
-00:57:21,804 --> 00:57:23,020
-You should have told me.
+00:54:53,870 --> 00:54:58,709
+Oh, and, um, watch the girl. Come on.
 
 105
-00:57:23,203 --> 00:57:25,518
-I thought it was best.
+00:55:06,314 --> 00:55:12,820
+Ah, how we getting on here, huh?
+Ah, all this? That's a good haul.
 
 106
-00:57:25,923 --> 00:57:32,358
-And what about the natural disasters we've been organising? The volcanoes, earthquakes?
+00:55:14,825 --> 00:55:16,684
+Stand by to make your report, Swann.
 
 107
-00:57:33,018 --> 00:57:37,077
-Swann, they're not fit to live.
+00:55:30,227 --> 00:55:32,016
+Reaching full power here, Swann.
 
 108
-00:57:37,310 --> 00:57:40,048
-You're murdering them, killing them off!
+00:55:43,525 --> 00:55:45,364
+Salamander, I must see you.
 
 109
-00:57:40,350 --> 00:57:43,630
-I want you and the others to inherit the Earth, make a new world.
+00:55:47,024 --> 00:55:48,165
+Not now, we are too busy.
 
 110
-00:57:43,733 --> 00:57:47,901
-Yes, I know all about that, but not at the price of wholesale murder!
+00:55:48,513 --> 00:55:49,321
+This is urgent.
 
 111
-00:57:47,991 --> 00:57:53,109
-It's not murder! If you could see you would understand. It's an act of mercy.
+00:55:52,009 --> 00:55:53,196
+Oh very well.
 
 112
-00:57:53,216 --> 00:57:54,679
-There must be some other way.
+00:56:01,702 --> 00:56:02,894
+Now what's the matter, huh?
 
 113
-00:57:54,873 --> 00:57:55,860
-NO!
+00:56:02,994 --> 00:56:04,366
+What's this? What is this?
 
 114
-00:57:56,776 --> 00:58:04,264
-I won't take your word any more. I want to see for myself.
+00:56:04,596 --> 00:56:05,255
+What?
 
 115
-00:58:05,901 --> 00:58:08,698
-You, you, you'd be horrified.
+00:56:05,469 --> 00:56:07,151
+Newspaper. It's a piece of newspaper.
 
 116
-00:58:08,878 --> 00:58:09,663
-Maybe.
+00:56:08,766 --> 00:56:09,743
+So?
 
 117
-00:58:10,031 --> 00:58:11,532
-The radiation would kill you!
+00:56:09,943 --> 00:56:13,995
+Well go on, look at it. Read it. Last year's date.
 
 118
-00:58:11,776 --> 00:58:13,215
-I'll chance that.
+00:56:14,143 --> 00:56:15,995
+Look at the bit of headline there. THERE!
 
 119
-00:58:16,099 --> 00:58:21,964
-Very well. But, but promise me one thing, you won't tell the others.
+00:56:16,076 --> 00:56:17,661
+Control yourself, Swann. You'll go mad.
 
 120
-00:58:22,474 --> 00:58:23,208
-Why shouldn't I?
+00:56:17,724 --> 00:56:20,521
+"Holiday Liner Sinks"!
 
 121
-00:58:23,377 --> 00:58:31,460
-Because I am right and you are wrong! /26.1
-You, you wouldn't want to, you wouldn't want to hurt them like that, huh?
+00:56:20,724 --> 00:56:24,021
+You say there's a global war. Radiation everywhere.
 
 122
-00:58:31,560 --> 00:58:34,723
-And if you're lying, and I want to tell when I get back...?
+00:56:24,124 --> 00:56:28,421
+How can there be holiday liners? Tell me how!
 
 123
-00:58:36,383 --> 00:58:54,968
-How can I stop you? You'd better, ah, tell them you're coming with me./43.8
-Say er, say you've persuaded me./48.5 
-Swann, trust me, don't go ahead with this huh?
+00:56:28,624 --> 00:56:33,421
+You've lied to us, haven't you? HAVEN'T YOU?
 
 124
-00:58:55,497 --> 00:58:56,534
-I have to.
+00:56:40,190 --> 00:56:45,737
+In a way, Swann, yes. I had to.
 
 125
-00:58:58,512 --> 00:58:59,854
-Where are we?
+00:56:45,868 --> 00:56:47,764
+Had to? What do you mean had to?
 
 126
-00:59:00,119 --> 00:59:05,377
-You're in the Australasian zone. I had you brought here especially.
+00:56:48,007 --> 00:56:50,635
+Well it's true that... that the war is over,
 
 127
-00:59:05,600 --> 00:59:06,503
-Why?
+00:56:50,737 --> 00:56:58,035
+but have you any idea what happens to people
+who've been involved in a nuclear war? HAVE YOU?
 
 128
-00:59:06,745 --> 00:59:09,120
-So that Salamander could ask you some questions.
+00:56:58,134 --> 00:56:59,467
+Course I haven't, I've been down here.
 
 129
-00:59:09,409 --> 00:59:12,396
-For all the answers he's gonna get he might as well have left us there.
+00:56:59,772 --> 00:57:05,710
+Those who are lucky enough to escape the annihilation
+have their bodies eaten away by radiation poisoning.
 
 130
-00:59:12,567 --> 00:59:13,674
-Stand up when you talk to me!
+00:57:05,802 --> 00:57:08,310
+They're deformed in mind and body.
 
 131
-00:59:13,804 --> 00:59:15,151
-You'll get nowhere by shouting.
+00:57:08,552 --> 00:57:10,025
+But this, this, this newspaper?
 
 132
-00:59:15,461 --> 00:59:19,950
-On the contrary. I'm going to get everything I want from you two.
+00:57:10,205 --> 00:57:13,574
+They have a kind of society,
+but it's... it's evil! Corrupt!
 
 133
-00:59:20,534 --> 00:59:22,235
-We'll not tell you a thing.
+00:57:13,705 --> 00:57:16,474
+You don't think I could expose you to that sort of thing?
 
 134
-00:59:24,445 --> 00:59:26,969
-That's good. I like that.
+00:57:16,556 --> 00:57:18,674
+Think of Mary and the other women.
 
 135
-00:59:27,169 --> 00:59:31,099
-- What?
-- Spirit. Resistance.
+00:57:18,762 --> 00:57:20,474
+You could have told me, at least.
 
 136
-00:59:31,172 --> 00:59:43,719
-You've got plenty of both, haven't you, boy? Well I wonder how long you'll last. /37.0
-Five minutes? No, a little longer, maybe? Ten, perhaps?
+00:57:20,645 --> 00:57:21,704
+I decided not to.
 
 137
-00:59:43,988 --> 00:59:45,312
-What do you mean?
+00:57:21,904 --> 00:57:23,120
+You should have told me.
 
 138
-00:59:45,473 --> 00:59:49,318
-Come now, you don't think I'm just going to sit here and ask questions, do you?
+00:57:23,303 --> 00:57:25,618
+I thought it was best.
 
 139
-00:59:49,579 --> 00:59:51,782
-You must have been a nasty little boy.
+00:57:26,023 --> 00:57:30,018
+And what about the natural disasters
+we've been organising?
 
 140
-00:59:52,043 --> 00:59:55,928
-Oh I was. But I had a very enjoyable childhood.
+00:57:30,123 --> 00:57:32,456
+The volcanoes, earthquakes?
 
 141
-00:59:59,044 --> 01:00:15,215
-Ha ha hah. Yes, I thought so. Spirit, plenty of spirit. /07.5
-Oh, we're going to enjoy ourselves, aren't we? Now then...
+00:57:33,118 --> 00:57:37,117
+Swann, they're not fit to live.
 
 142
-01:00:15,479 --> 01:00:18,661
-I... I thought you were going to take us to see Salamander?
+00:57:37,210 --> 00:57:40,148
+You're murdering them, killing them off!
 
 143
-01:00:18,843 --> 01:00:23,148
-Yes I will. But he'd expect me to do my little best first.
+00:57:40,450 --> 00:57:43,330
+I want you and the others
+to inherit the Earth, make a new world.
 
 144
-01:00:23,333 --> 01:00:25,865
-You lay a finger on her, I'll kill you.
+00:57:43,333 --> 00:57:47,681
+Yes, I know all about that,
+but not at the price of wholesale murder!
 
 145
-01:00:26,229 --> 01:00:48,132
-Will you? How? Ha ha ha. No. I think the time's come for you to answer my questions, don't you? /35.5
-Come here, girl! If you don't, I shall have to shoot one of you. /42.2
-Oh, not a mortal wound. In the leg, perhaps?
+00:57:47,791 --> 00:57:53,209
+It's not murder! If you could see
+you would understand. It's an act of mercy.
 
 146
-01:00:50,656 --> 01:00:51,968
-Better go. Don't worry.
+00:57:53,316 --> 00:57:54,779
+There must be some other way.
 
 147
-01:00:53,161 --> 01:01:01,886
-There. That's better. Oh, such pretty hair, don't you think?
+00:57:54,973 --> 00:57:55,960
+NO!
 
 148
-01:01:02,164 --> 01:01:04,705
-Alright, leave her alone. What do want to know?
+00:57:56,676 --> 00:58:04,364
+I won't take your word any more.
+I want to see for myself.
 
 149
-01:01:04,874 --> 01:01:10,022
-Quite a lot. And you're going to tell me everything. Aren't you?
+00:58:05,801 --> 00:58:08,698
+You, you, you'd be horrified.
 
 150
-01:01:10,535 --> 01:01:11,076
-Aaah!
+00:58:08,778 --> 00:58:09,563
+Maybe.
 
 151
-01:01:11,272 --> 01:01:12,050
-All right, yes!
+00:58:09,931 --> 00:58:11,432
+The radiation would kill you!
 
 152
-01:01:12,241 --> 01:01:14,284
-Who's behind you? Is it Giles Kent?
+00:58:11,576 --> 00:58:13,015
+I'll chance that.
 
 153
-01:01:16,647 --> 01:01:18,881
-Oh, so they're here, eh?
+00:58:15,899 --> 00:58:21,764
+Very well. But, but promise me one thing,
+you won't tell the others.
 
 154
-01:01:19,095 --> 01:01:20,729
-Salamander, I, I thought you were in Records?
+00:58:22,274 --> 00:58:23,008
+Why shouldn't I?
 
 155
-01:01:20,893 --> 01:01:22,089
-Have they told you anything yet?
+00:58:23,177 --> 00:58:25,860
+Because I am right and you are wrong!
 
 156
-01:01:22,393 --> 01:01:23,389
-Not yet.
+00:58:25,977 --> 00:58:31,260
+You, you wouldn't want to,
+you wouldn't want to hurt them like that, huh?
 
 157
-01:01:23,604 --> 01:01:30,232
-Very well. Bruce and I will take over. You may go, and er, take your little puppy dog with you, hm?
+00:58:31,360 --> 00:58:34,523
+And if you're lying,
+and I want to tell when I get back...?
 
 158
-01:01:36,460 --> 01:01:37,435
-Now...
+00:58:36,083 --> 00:58:38,056
+How can I stop you?
 
 159
-01:01:37,681 --> 01:01:39,167
-We can't tell you anything.
+00:58:40,383 --> 00:58:43,968
+You'd better, ah, tell them you're coming with me.
 
 160
-01:01:39,495 --> 01:01:52,629
-Of course not. We know everything. We know about Giles Kent, /47.5
-we know about the girl called Astrid, and we know about your friend the Doctor.
+00:58:45,483 --> 00:58:48,268
+Say er, say you've persuaded me.
 
 161
-01:01:54,538 --> 01:01:55,955
-I don't believe you.
+00:58:50,683 --> 00:58:54,768
+Swann, trust me, don't go ahead with this huh?
 
 162
-01:01:56,174 --> 01:01:59,277
-A childish plan to impersonate me. Yes the truth, isn't it?
+00:58:55,297 --> 00:58:56,334
+I have to.
 
 163
-01:01:59,450 --> 01:02:00,675
-Ah but he didn't agree to it.
+00:58:58,312 --> 00:58:59,654
+Where are we?
 
 164
-01:02:00,850 --> 01:02:04,699
-But you two were sent to the Central European road zone to stir up trouble.
+00:59:00,519 --> 00:59:05,497
+You're in the Australasian zone.
+I had you brought here especially.
 
 165
-01:02:04,922 --> 01:02:13,312
-If you want to know he truth, Giles Kent told us a story and we weren't sure. /08.5
-Before the Doctor could do anything we had to come here and find out what person you were like.
+00:59:05,600 --> 00:59:06,403
+Why?
 
 166
-01:02:13,507 --> 01:02:14,842
-Yeah, and we found that out right enough.
+00:59:06,545 --> 00:59:08,920
+So that Salamander could ask you some questions.
 
 167
-01:02:15,209 --> 01:02:23,968
-You see Bruce, they just terrorists. Not very big fry, either. /19.6
-All this nonsense about proof against me.
+00:59:09,209 --> 00:59:12,766
+For all the answers he's gonna get
+he might as well have left us there.
 
 168
-01:02:24,150 --> 01:02:27,491
-If you're doing so much good for the world, why are you so afraid for your own life?
+00:59:12,867 --> 00:59:13,574
+Stand up when you talk to me!
 
 169
-01:02:27,560 --> 01:02:28,749
-Aye, and why do you have so many enemies?
+00:59:13,684 --> 00:59:15,291
+You'll get nowhere by shouting.
 
 170
-01:02:28,817 --> 01:02:30,995
+00:59:15,461 --> 00:59:19,950
+On the contrary. I'm going to get everything
+I want from you two.
+
+171
+00:59:20,334 --> 00:59:22,035
+We'll not tell you a thing.
+
+172
+00:59:24,245 --> 00:59:26,769
+That's good. I like that.
+
+173
+00:59:26,969 --> 00:59:30,899
+- What?  - Spirit. Resistance.
+
+174
+00:59:30,972 --> 00:59:34,919
+You've got plenty of both, haven't you, boy?
+
+175
+00:59:35,056 --> 00:59:39,095
+Well I wonder how long you'll last.
+Five minutes?
+
+176
+00:59:39,192 --> 00:59:43,519
+No, a little longer, maybe? Ten, perhaps?
+
+177
+00:59:43,788 --> 00:59:46,112
+- What do you mean?
+- Come now, you don't think...
+
+178
+00:59:46,273 --> 00:59:49,118
+...I'm just going to sit here
+and ask questions, do you?
+
+179
+00:59:49,379 --> 00:59:51,742
+You must have been a nasty little boy.
+
+180
+00:59:51,843 --> 00:59:55,728
+Oh I was. But I had a very enjoyable childhood.
+
+181
+00:59:58,844 --> 01:00:07,315
+Ha ha hah. Yes, I thought so.
+Spirit, plenty of spirit.
+
+182
+01:00:09,044 --> 01:00:15,015
+Oh, we're going to enjoy ourselves, aren't we? Now then...
+
+183
+01:00:15,279 --> 01:00:18,461
+I... I thought you were going to take us to see Salamander?
+
+184
+01:00:18,643 --> 01:00:22,948
+Yes I will. But he'd expect me to do my little best first.
+
+185
+01:00:23,133 --> 01:00:25,665
+You lay a finger on her, I'll kill you.
+
+186
+01:00:26,029 --> 01:00:29,732
+Will you? How? Ha ha ha.
+
+187
+01:00:29,829 --> 01:00:35,332
+No. I think the time's come for you
+to answer my questions, don't you?
+
+188
+01:00:36,529 --> 01:00:37,987
+Come here, girl!
+
+189
+01:00:40,129 --> 01:00:42,332
+If you don't, I shall have to shoot one of you.
+
+190
+01:00:43,429 --> 01:00:47,932
+Oh, not a mortal wound. In the leg, perhaps?
+
+191
+01:00:50,456 --> 01:00:51,768
+Better go. Don't worry.
+
+192
+01:00:52,961 --> 01:00:56,886
+There. That's better.
+
+193
+01:00:57,234 --> 01:01:01,686
+Oh, such pretty hair, don't you think?
+
+194
+01:01:01,964 --> 01:01:04,505
+Alright, leave her alone. What do want to know?
+
+195
+01:01:04,674 --> 01:01:10,082
+Quite a lot. And you're going to
+tell me everything. Aren't you?
+
+196
+01:01:10,272 --> 01:01:11,850
+- Aaah!  - All right, yes!
+
+197
+01:01:12,341 --> 01:01:14,584
+Who's behind you? Is it Giles Kent?
+
+198
+01:01:17,547 --> 01:01:19,151
+Oh, so they're here, eh?
+
+199
+01:01:19,455 --> 01:01:21,129
+Salamander, I, I thought you were in Records?
+
+200
+01:01:21,223 --> 01:01:22,189
+Have they told you anything yet?
+
+201
+01:01:22,293 --> 01:01:23,289
+Not yet.
+
+202
+01:01:23,504 --> 01:01:25,832
+Very well. Bruce and I will take over.
+
+203
+01:01:25,954 --> 01:01:30,492
+You may go, and er,
+take your little puppy dog with you, hm?
+
+204
+01:01:36,390 --> 01:01:37,335
+Now...
+
+205
+01:01:37,581 --> 01:01:39,067
+We can't tell you anything.
+
+206
+01:01:39,395 --> 01:01:42,929
+Of course not. We know everything.
+
+207
+01:01:44,856 --> 01:01:47,429
+We know about Giles Kent,
+
+208
+01:01:47,655 --> 01:01:49,929
+we know about the girl called Astrid,
+
+209
+01:01:50,087 --> 01:01:52,529
+and we know about your friend the Doctor.
+
+210
+01:01:54,438 --> 01:01:55,855
+I don't believe you.
+
+211
+01:01:56,074 --> 01:01:59,177
+A childish plan to impersonate me.
+Yes the truth, isn't it?
+
+212
+01:01:59,350 --> 01:02:00,575
+Ah but he didn't agree to it.
+
+213
+01:02:00,750 --> 01:02:04,599
+But you two were sent to
+the Central European zone to stir up trouble.
+
+214
+01:02:04,822 --> 01:02:05,912
+If you want to know the truth,
+
+215
+01:02:06,022 --> 01:02:08,412
+Giles Kent told us a story and we weren't sure.
+
+216
+01:02:08,522 --> 01:02:10,012
+Before the Doctor could do anything
+
+217
+01:02:10,106 --> 01:02:13,212
+we had to come here
+and find out what person you were like.
+
+218
+01:02:13,407 --> 01:02:14,742
+Yeah, and we found that out right enough.
+
+219
+01:02:15,109 --> 01:02:19,468
+You see Bruce, they just terrorists.
+Not very big fry, either.
+
+220
+01:02:19,609 --> 01:02:23,868
+All this nonsense about proof against me.
+
+221
+01:02:24,050 --> 01:02:27,391
+If you're doing so much good for the world,
+why are you so afraid for your own life?
+
+222
+01:02:27,460 --> 01:02:28,649
+Aye, and why do you have so many enemies?
+
+223
+01:02:28,717 --> 01:02:30,895
 - Personal guards?
 - Your own food taster?
 
-171
-01:02:31,070 --> 01:02:34,221
-And why destroy the one man people trusted, Alexander Denes?
-
-172
-01:02:34,395 --> 01:02:35,990
-- Aye.
-- What do you mean, destroy?
-
-173
-01:02:36,186 --> 01:02:36,946
-One of your men shot him.
-
-174
-01:02:37,153 --> 01:02:37,988
-Trying to escape?
-
-175
-01:02:38,133 --> 01:02:39,000
-He shot him deliberately.
-
-176
-01:02:39,141 --> 01:02:43,758
-Aye. And that girl Fariah, well she was close to Salamander, she'd speak against him, I know she would.
-
-177
-01:02:43,801 --> 01:02:44,844
-Fariah is dead.
-
-178
-01:02:44,993 --> 01:02:45,744
-Dead?
-
-179
-01:02:45,883 --> 01:02:47,485
-You've had her murdered too, have you?
-
-180
-01:02:47,636 --> 01:02:48,407
-Why you...
-
-181
-01:02:48,554 --> 01:02:57,740
-Oh, Victoria! Don't hit me! You wouldn't hit your old friend the Doctor, would you?/53.5
- I wouldn't leave you in the tender mercy of Salamander.
-
-182
-01:02:58,186 --> 01:02:59,539
-You're the Doctor?
-
-183
-01:02:59,877 --> 01:03:02,964
-You don't believe me? Oh. Huh.
-
-184
-01:03:13,742 --> 01:03:15,471
-Only, you made me leave it in the TARDIS.
-
-185
-01:03:15,657 --> 01:03:16,432
-It is him!
-
-186
-01:03:16,581 --> 01:03:17,365
-Oh, Doctor!
-
-187
-01:03:17,568 --> 01:03:20,086
-"Tardis"? "Tardis", what's that?
-
-188
-01:03:20,281 --> 01:03:26,304
-Well, it's a little place that we three have in common. /23.0
-You must admit they thought I was Salamander to begin with.
-
-189
-01:03:26,663 --> 01:03:31,122
-Yes. I concede that. But there's still no proof.
-
-190
-01:03:31,372 --> 01:03:38,108
-No, but there's enough doubt in your mind to make you go on asking questions, isn't there? That's why we came here.
-
-191
-01:03:41,015 --> 01:03:44,121
-Wait. What happens up there?
-
-192
-01:03:44,465 --> 01:03:50,213
-Oh, it ends in a ruined building. This is where I bring the stores, uh, you would be safer here.
-
-193
-01:03:50,415 --> 01:03:51,317
-Safer?
-
-194
-01:03:51,535 --> 01:03:54,853
-Yes, the radiation. I don't think it filters down here.
-
-195
-01:03:58,578 --> 01:04:00,314
-I still want to see the surface.
-
-196
-01:04:00,717 --> 01:04:01,969
-You will, you will.
-
-197
-01:04:04,886 --> 01:04:07,860
-I should have insisted on going with him. Bruce should have taken me.
-
-198
-01:04:08,470 --> 01:04:09,954
-You know he doesn't trust you.
-
-199
-01:04:10,187 --> 01:04:11,923
-He wouldn't trust his own grandmother.
-
-200
-01:04:12,184 --> 01:04:18,946
-Oh, never mind, Giles. We've come a long way. /14.0
-Months ago, well a few weeks ago even, nobody would have even listened to you.
-
-201
-01:04:19,110 --> 01:04:19,818
-Oh, maybe.
-
-202
-01:04:20,079 --> 01:04:21,977
-There's no maybe about it.
-
-203
-01:04:22,563 --> 01:04:32,055
-Yeah perhaps you're right. Bruce listens to us at last. /25.5
-He's even prepared to ask questions, that's fine, but.../28.9 
-I know Salamander. He'd talk his way out of the quicksand.
-
-204
-01:04:32,290 --> 01:04:34,885
-Well what else can we do, the guard's still outside?
-
-205
-01:04:38,123 --> 01:04:46,721
-I must get into the Research Centre.#39.8
-I've got to make sure that Bruce understands the evidence, understands it, Astrid. /43.5
-Don't you realize, he mightn't know what he's looking for. I know.
-
-206
-01:04:46,971 --> 01:04:50,204
-But we can't attack the guard. It would only make matters worse.
-
-207
-01:04:50,478 --> 01:04:52,517
-Not if I was to give Bruce real evidence.
-
-208
-01:04:53,596 --> 01:04:57,258
-Giles, how long would it take you to get to the Research Station?
-
-209
-01:04:57,462 --> 01:05:00,338
-Well just a few minutes, I've got a pass. It's just a matter of getting there.
-
-210
-01:05:01,947 --> 01:05:06,618
-Alright, I think I can help you. I'll draw the guard off and leave you alone.
-
-211
-01:05:08,931 --> 01:05:10,363
-You think you can do it?
-
-212
-01:05:10,762 --> 01:05:11,947
-Yes, I think so.
-
-213
-01:05:12,237 --> 01:05:14,697
-But I thought you said we weren't going to attack the guard?
-
-214
-01:05:14,925 --> 01:05:21,095
-Oh, we're not going to attack the guard, but there is going to be an attack. A fatal one.
-
-215
-01:05:32,985 --> 01:05:34,408
-Where does this lead?
-
-216
-01:05:34,607 --> 01:05:36,631
-It goes on up and comes out in a field.
-
-217
-01:05:41,311 --> 01:05:42,392
-What about radiation?
-
-218
-01:05:42,576 --> 01:05:43,822
-Here it's almost negligible.
-
-219
-01:05:43,992 --> 01:05:55,927
-You mean you could have brought others here from below? /45.9
-/49.0 I don't understand you. Don't you realise what a break it would be for them, /52.9
-just moving away from that underground tomb once in a while?
-
-220
-01:05:56,129 --> 01:06:00,128
-You seem to forget, Swann, I've brought people up here before! There's always an element of risk!
-
-221
-01:06:00,371 --> 01:06:05,213
-I still want to have a look at these people you say are living on the surface. Where does that lead?
-
-222
-01:06:05,396 --> 01:06:11,125
-Oh, that's a dead end. It's a place I sometimes rest. It's very hard work, you know, bringing all the...
-
-223
-01:06:11,313 --> 01:06:12,931
-Yes, I know that. This way, then?
-
 224
-01:06:13,095 --> 01:06:17,569
-You, you sure you... won't change your mind, huh?
+01:02:30,970 --> 01:02:34,121
+And why destroy the one man
+people trusted, Alexander Denes?
 
 225
-01:06:28,194 --> 01:06:29,323
-What's going on here?
+01:02:34,295 --> 01:02:35,890
+- Aye.  - What do you mean, destroy?
 
 226
-01:06:29,619 --> 01:06:32,407
-He's been shot. Through the window.
+01:02:36,086 --> 01:02:36,846
+One of your men shot him.
 
 227
-01:06:32,775 --> 01:06:40,638
-Alright, stand back. He's finished. Better get a doctor anyway, just in case.
+01:02:37,053 --> 01:02:37,888
+Trying to escape?
 
 228
-01:06:42,005 --> 01:06:44,277
-Hey! Come back!
+01:02:38,033 --> 01:02:38,900
+He shot him deliberately.
 
 229
-01:07:06,522 --> 01:07:12,380
-Hellllp! Somebody help me. Heeellllp! Help... Somebody help me...
+01:02:39,041 --> 01:02:41,658
+Aye. And that girl Fariah,
+well she was close to Salamander,
 
 230
-01:07:14,044 --> 01:07:15,395
-Who did this to you?
+01:02:41,741 --> 01:02:43,658
+she'd speak against him, I know she would.
 
 231
-01:07:15,782 --> 01:07:20,344
-A man named... Salamander.
+01:02:43,701 --> 01:02:44,744
+Fariah is dead.
 
 232
-01:07:21,030 --> 01:07:22,279
+01:02:44,893 --> 01:02:45,644
+Dead?
+
+233
+01:02:45,783 --> 01:02:47,385
+You've had her murdered too, have you?
+
+234
+01:02:47,536 --> 01:02:50,307
+- Why you...
+- Oh, Victoria! Don't hit me!
+
+235
+01:02:50,654 --> 01:02:53,340
+You wouldn't hit your old friend the Doctor, would you?
+
+236
+01:02:54,054 --> 01:02:57,640
+I wouldn't leave you in the tender mercy of Salamander.
+
+237
+01:02:58,086 --> 01:02:59,439
+You're the Doctor?
+
+238
+01:02:59,777 --> 01:03:02,864
+You don't believe me? Oh. Huh.
+
+239
+01:03:13,642 --> 01:03:15,571
+Only, you made me leave it in the TARDIS.
+
+240
+01:03:15,657 --> 01:03:17,332
+- It is him!  - Oh, Doctor!
+
+241
+01:03:17,468 --> 01:03:19,986
+"Tardis"? "Tardis", what's that?
+
+242
+01:03:20,181 --> 01:03:22,854
+Well, it's a little place that we three have in common.
+
+243
+01:03:23,181 --> 01:03:26,454
+You must admit they thought
+I was Salamander to begin with.
+
+244
+01:03:26,563 --> 01:03:31,022
+Yes. I concede that. But there's still no proof.
+
+245
+01:03:31,272 --> 01:03:33,808
+No, but there's enough doubt in your mind...
+
+246
+01:03:33,902 --> 01:03:38,008
+to make you go on asking questions, isn't there?
+That's why we came here.
+
+247
+01:03:40,915 --> 01:03:44,021
+Wait. What happens up there?
+
+248
+01:03:44,365 --> 01:03:48,513
+Oh, it ends in a ruined building.
+This is where I bring the stores,
+
+249
+01:03:48,615 --> 01:03:51,217
+- uh, you would be safer here.
+- Safer?
+
+250
+01:03:51,435 --> 01:03:54,753
+Yes, the radiation.
+I don't think it filters down here.
+
+251
+01:03:58,478 --> 01:04:00,214
+I still want to see the surface.
+
+252
+01:04:00,617 --> 01:04:01,869
+You will, you will.
+
+253
+01:04:04,786 --> 01:04:07,760
+I should have insisted on going with him.
+Bruce should have taken me.
+
+254
+01:04:08,370 --> 01:04:09,854
+You know he doesn't trust you.
+
+255
+01:04:10,087 --> 01:04:11,823
+He wouldn't trust his own grandmother.
+
+256
+01:04:12,084 --> 01:04:13,846
+Oh, never mind, Giles. We've come a long way.
+
+257
+01:04:13,984 --> 01:04:18,846
+Months ago, well a few weeks ago even,
+nobody would have even listened to you.
+
+258
+01:04:19,010 --> 01:04:19,718
+Oh, maybe.
+
+259
+01:04:19,979 --> 01:04:21,877
+There's no maybe about it.
+
+260
+01:04:22,463 --> 01:04:26,555
+Yeah perhaps you're right.
+Bruce listens to us at last.
+
+261
+01:04:26,663 --> 01:04:28,755
+He's even prepared to ask questions, that's fine, but...
+
+262
+01:04:28,863 --> 01:04:31,955
+I know Salamander.
+He'd talk his way out of the quicksand.
+
+263
+01:04:32,190 --> 01:04:34,785
+Well what else can we do,
+the guard's still outside?
+
+264
+01:04:38,023 --> 01:04:39,651
+I must get into the Research Centre.
+
+265
+01:04:39,823 --> 01:04:43,421
+I've got to make sure that Bruce
+understands the evidence, understands it, Astrid.
+
+266
+01:04:43,523 --> 01:04:46,621
+Don't you realize, he mightn't know
+what he's looking for. I know.
+
+267
+01:04:46,871 --> 01:04:50,104
+But we can't attack the guard.
+It would only make matters worse.
+
+268
+01:04:50,378 --> 01:04:52,417
+Not if I was to give Bruce real evidence.
+
+269
+01:04:53,496 --> 01:04:57,158
+Giles, how long would it take you
+to get to the Research Station?
+
+270
+01:04:57,362 --> 01:05:00,238
+Well just a few minutes, I've got a pass.
+It's just a matter of getting there.
+
+271
+01:05:01,647 --> 01:05:03,998
+Alright, I think I can help you.
+
+272
+01:05:04,090 --> 01:05:06,718
+I'll draw the guard off and leave you alone.
+
+273
+01:05:08,831 --> 01:05:10,263
+You think you can do it?
+
+274
+01:05:10,662 --> 01:05:11,847
+Yes, I think so.
+
+275
+01:05:12,137 --> 01:05:14,597
+But I thought you said we weren't going to attack the guard?
+
+276
+01:05:14,825 --> 01:05:16,955
+Oh, we're not going to attack the guard,
+
+277
+01:05:17,050 --> 01:05:20,995
+but there is going to be an attack. A fatal one.
+
+278
+01:05:32,885 --> 01:05:34,308
+Where does this lead?
+
+279
+01:05:34,507 --> 01:05:36,531
+It goes on up and comes out in a field.
+
+280
+01:05:41,211 --> 01:05:42,292
+What about radiation?
+
+281
+01:05:42,476 --> 01:05:43,722
+Here it's almost negligible.
+
+282
+01:05:43,892 --> 01:05:46,427
+You mean you could have brought others here from below?
+
+283
+01:05:49,542 --> 01:05:50,890
+I don't understand you.
+
+284
+01:05:51,042 --> 01:05:53,327
+Don't you realise what a break
+it would be for them,
+
+285
+01:05:53,402 --> 01:05:56,027
+just moving away from that underground tomb once in a while?
+
+286
+01:05:56,129 --> 01:05:58,828
+You seem to forget, Swann,
+I've brought people up here before!
+
+287
+01:05:58,929 --> 01:06:00,228
+There's always an element of risk!
+
+288
+01:06:00,321 --> 01:06:03,913
+I still want to have a look at these people
+you say are living on the surface.
+
+289
+01:06:04,187 --> 01:06:05,403
+Where does that lead?
+
+290
+01:06:05,496 --> 01:06:08,205
+Oh, that's a dead end.
+It's a place I sometimes rest.
+
+291
+01:06:08,296 --> 01:06:11,025
+It's very hard work, you know, bringing all the...
+
+292
+01:06:11,213 --> 01:06:13,831
+Yes, I know that.
+This way, then?
+
+293
+01:06:13,995 --> 01:06:17,769
+You, you sure you... won't change your mind, huh?
+
+294
+01:06:28,094 --> 01:06:29,223
+What's going on here?
+
+295
+01:06:29,519 --> 01:06:32,307
+He's been shot. Through the window.
+
+296
+01:06:32,675 --> 01:06:34,538
+Alright, stand back.
+
+297
+01:06:36,223 --> 01:06:38,056
+He's finished.
+
+298
+01:06:38,675 --> 01:06:40,938
+Better get a doctor anyway, just in case.
+
+299
+01:06:41,905 --> 01:06:44,177
+Hey! Come back!
+
+300
+01:07:05,201 --> 01:07:08,065
+Hellllp! Somebody help me.
+
+301
+01:07:08,422 --> 01:07:12,280
+Heeellllp! Help... Somebody help me...
+
+302
+01:07:13,944 --> 01:07:15,295
+Who did this to you?
+
+303
+01:07:15,682 --> 01:07:20,244
+A man named... Salamander.
+
+304
+01:07:20,930 --> 01:07:22,179
 Salamander?
 

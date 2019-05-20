@@ -1,548 +1,698 @@
 1
-00:00:02,002 --> 00:00:09,968
-Sincro: wyxchari
+00:00:02,002 --> 00:00:04,968
+(Sincro: bamanzi)
 
 2
-00:00:45,640 --> 00:00:47,816
+00:00:46,940 --> 00:00:48,916
 Oh, there's nothing like a dip to freshen you up.
 
 3
-00:00:47,966 --> 00:00:49,113
+00:00:49,066 --> 00:00:50,213
 Hey, that's a funny looking boat.
 
 4
-00:00:49,230 --> 00:00:50,567
+00:00:50,330 --> 00:00:51,767
 It's not a boat, it's a hovercraft.
 
 5
-00:00:50,704 --> 00:00:51,346
+00:00:51,904 --> 00:00:52,646
 Eh?
 
 6
-00:00:51,662 --> 00:00:53,337
+00:00:52,762 --> 00:00:54,437
 You're right, it is him.
 
 7
-00:00:53,940 --> 00:00:54,929
+00:00:54,540 --> 00:00:55,529
 What are we going to do?
 
 8
-00:00:56,963 --> 00:00:59,771
+00:00:57,563 --> 00:01:00,371
 A terrifying thing. It's like a sea monster.
 
 9
-00:00:59,922 --> 00:01:01,873
+00:01:00,522 --> 00:01:02,473
 Oh, we'll soon get a closer look, it's coming nearer.
 
 10
-00:01:02,065 --> 00:01:05,160
+00:01:02,665 --> 00:01:05,760
 Oh yes. Yes.
 
 11
-00:01:08,321 --> 00:01:11,560
- I don't think I like the look of this. Let's go.
+00:01:08,921 --> 00:01:12,060
+I don't think I like the look of this. Let's go.
 
 12
-00:01:11,644 --> 00:01:12,856
-Why, what's the matter?
+00:01:12,144 --> 00:01:14,256
+- Why, what's the matter?  - Come on, run!
 
 13
-00:01:13,103 --> 00:01:13,762
-Come on, run!
+00:01:14,422 --> 00:01:16,133
+- Yeah, but...  - Don't argue, run.
 
 14
-00:01:13,926 --> 00:01:14,567
-Yeah, but...
-
-15
-00:01:14,722 --> 00:01:15,933
-Don't argue, run.
-
-16
-00:02:39,200 --> 00:02:40,500
+00:02:39,400 --> 00:02:40,700
 Over here!
 
-17
-00:02:42,300 --> 00:02:43,400
+15
+00:02:42,500 --> 00:02:43,600
 Hurry!
 
-18
-00:05:47,246 --> 00:05:49,616
-Incredible. 
+16
+00:05:47,446 --> 00:05:49,816
+Incredible.
 
-19
-00:05:53,456 --> 00:05:56,516
+17
+00:05:53,656 --> 00:05:56,716
 Absolutely incredible.
 
-20
-00:05:56,606 --> 00:05:58,530
+18
+00:05:56,806 --> 00:05:58,830
 I'm not a specimen in a glass bowl, you know?
 
-21
-00:05:58,722 --> 00:06:00,060
+19
+00:05:58,922 --> 00:06:00,460
 Ah, I'm sorry. Do sit down.
 
-22
-00:06:00,356 --> 00:06:01,178
+20
+00:06:00,556 --> 00:06:01,578
 Oh, thank you.
 
-23
-00:06:03,248 --> 00:06:06,134
+21
+00:06:03,648 --> 00:06:06,634
 It's just so astonishing. You are Salamander.
 
-24
-00:06:06,322 --> 00:06:07,163
+22
+00:06:06,722 --> 00:06:07,563
 Do you see what I mean?
 
-25
-00:06:07,331 --> 00:06:10,610
+23
+00:06:07,731 --> 00:06:09,210
 But surely you know how alike you are?
+
+24
+00:06:09,331 --> 00:06:11,010
 After all, Salamander is a world figure.
 
+25
+00:06:11,176 --> 00:06:12,807
+Well... well my friends and I, we..
+
 26
-00:06:10,776 --> 00:06:15,177
-Well... well my friends and I, we've been 
-out of touch... with civilisation for a while.
+00:06:12,906 --> 00:06:15,577
+we've been out of touch...
+with civilisation for a while.
 
 27
-00:06:15,321 --> 00:06:19,177
-We're visitors, so to speak, um. On ice shall we say.
+00:06:15,721 --> 00:06:19,577
+We're visitors, so to speak, um.
+On ice shall we say.
 
 28
-00:06:20,409 --> 00:06:22,790
+00:06:20,709 --> 00:06:23,090
 I see. Where shall I start?
 
 29
-00:06:22,987 --> 00:06:26,485
+00:06:23,287 --> 00:06:26,785
 At the beginning please.
 We've been subjected to a number of attacks
 
 30
-00:06:26,521 --> 00:06:29,485
+00:06:26,821 --> 00:06:29,785
 because I look like this Salamander of yours.
 
 31
-00:06:29,673 --> 00:06:34,485
+00:06:29,973 --> 00:06:34,785
 I'm not surprised. I'll show you why.
 
 32
-00:06:34,673 --> 00:06:40,249
-I have a video wire of Salamander, addressing
-the United Zones Conference on World Food.
+00:06:34,973 --> 00:06:37,149
+I have a video wire of Salamander,
 
 33
-00:06:40,322 --> 00:06:45,779
-And meanwhile, over at the United Zones General Assembly, 
-from all over the world delegates are flocking in, 
+00:06:37,273 --> 00:06:40,549
+addressing the United Zones Conference on World Food.
 
 34
-00:06:45,873 --> 00:06:49,919
-eager to hear the latest report from Leader Salamander.
+00:06:40,622 --> 00:06:46,079
+And meanwhile, over at the United Zones General Assembly,
+from all over the world delegates are flocking in,
 
 35
-00:06:50,999 --> 00:07:01,571
-The progress, Mr President, of the Sun Conservation 
-establishment at Kanowa, in the Australasian Zone...
+00:06:46,173 --> 00:06:50,219
+eager to hear the latest report from Leader Salamander.
 
 36
-00:07:01,784 --> 00:07:06,888
-...is I'm delighted to report highly satisfactory.
+00:06:50,499 --> 00:07:01,871
+The progress, Mr President, of the Sun Conservation
+establishment at Kanowa, in the Australasian Zone is...
 
 37
-00:07:07,596 --> 00:07:14,896
-But we cannot yet guarantee good summer holidays for all.
+00:07:02,084 --> 00:07:07,188
+...I'm delighted to report highly satisfactory.
 
 38
-00:07:15,021 --> 00:07:35,639
-However, we have now in orbit the Mark VII Sun Catcher,
-and already we have been able to
-concentrate the sun's rays into much needed areas.
-The great Canadian wheat plains are safe.
+00:07:07,896 --> 00:07:14,696
+But we cannot yet guarantee good summer holidays for all.
 
 39
-00:07:37,088 --> 00:08:15,891
-And now, Mr President: Ukraine
-- the grain field of the planet -
+00:07:14,791 --> 00:07:22,189
+However, we have now in orbit the Mark VII Sun Catcher...
+
+40
+00:07:22,291 --> 00:07:29,939
+and already we have been able to
+concentrate the sun's rays into much needed areas.
+
+41
+00:07:30,321 --> 00:07:35,939
+The great Canadian wheat plains are safe.
+
+42
+00:07:37,388 --> 00:07:44,391
+And now, Mr President: Ukraine - the grain field of the planet -
+
+43
+00:07:44,488 --> 00:07:49,191
 an unfortunate area between Bucava and Kirovograd
+
+44
+00:07:49,388 --> 00:07:54,191
 devastated by the elements two short years ago.
+
+45
+00:07:54,388 --> 00:07:58,391
 What have I got to say to you about that?
+
+46
+00:07:58,488 --> 00:08:06,591
 I can tell you that on both banks of the Dnieper river
 the corn is ripening in the sun!
+
+47
+00:08:06,688 --> 00:08:15,191
 And ten-thousand robot harvesters are moving down
 to gather in fifty million tons of flour!
 
-40
-00:08:16,572 --> 00:08:18,260
+48
+00:08:16,872 --> 00:08:18,860
 There's nothing there to say he's a bad man.
 
-41
-00:08:18,446 --> 00:08:24,441
+49
+00:08:18,946 --> 00:08:22,141
 I quite agree, Victoria.
 He seems to be a public benefactor.
-uite a speaker too and remarkably handsome,
+
+50
+00:08:22,246 --> 00:08:24,741
+Quite a speaker too and remarkably handsome,
 didn't you think so Jamie?
 
-42
-00:08:24,631 --> 00:08:30,356
+51
+00:08:24,931 --> 00:08:26,856
 He's one of the most popular men on the planet.
+
+52
+00:08:26,931 --> 00:08:28,856
 Many people call him the shopkeeper of the world.
+
+53
+00:08:28,931 --> 00:08:30,956
 The saviour, in fact, some of them.
 
-43
-00:08:30,541 --> 00:08:31,858
+54
+00:08:31,041 --> 00:08:32,158
 Well what's he saved the world from?
 
-44
-00:08:32,013 --> 00:08:34,441
+55
+00:08:32,313 --> 00:08:34,741
 Starvation - too many people, too little food.
 
-45
-00:08:34,610 --> 00:08:38,005
+56
+00:08:34,910 --> 00:08:38,305
 Until Salamander invented his Sun Store.
 Surely you've heard? You must know?
 
-46
-00:08:38,191 --> 00:08:39,885
+57
+00:08:38,491 --> 00:08:40,185
 Oh yes, well of course we've heard something.
 
-47
-00:08:40,072 --> 00:08:44,513
+58
+00:08:40,372 --> 00:08:44,813
 The Sun Store collects the rays from the sun
 and stores them in concentrated form.
 
-48
-00:08:44,682 --> 00:08:46,296
+59
+00:08:44,982 --> 00:08:46,596
 Oh, like the ioniser, Doctor?
 
-49
-00:08:46,455 --> 00:08:48,272
+60
+00:08:46,755 --> 00:08:48,572
 Yes, a rather different principle I think, Jamie.
 
-50
-00:08:48,436 --> 00:08:50,965
+61
+00:08:48,736 --> 00:08:51,265
 Well never mind how it works! What's it for?
 
-51
-00:08:51,122 --> 00:08:55,429
+62
+00:08:51,422 --> 00:08:55,729
 Salamander can force-grow three,
 sometimes four, crops in one summer.
 
-52
-00:08:55,634 --> 00:08:59,095
+63
+00:08:55,934 --> 00:08:57,395
 Well why do these men want to kill him.
+
+64
+00:08:57,434 --> 00:08:59,395
 I mean, one minute you say he's saving the world, the next...
 
-53
-00:08:59,252 --> 00:09:03,449
-For his own ends! Step by step he's taking control of this planet.
+65
+00:08:59,552 --> 00:09:03,749
+For his own ends! Step by step
+he's taking control of this planet.
 
-54
-00:09:05,667 --> 00:09:07,038
+66
+00:09:05,967 --> 00:09:07,338
 You have proof of this?
 
-55
-00:09:07,253 --> 00:09:19,300
-Some, yes. I was once a high official in the World Zone Authority
-- Deputy Security Leader for North Africa and Europe
-- but Salamander discredited and ruined me
+67
+00:09:07,553 --> 00:09:11,300
+Some, yes. I was once a high official
+in the World Zone Authority
+
+68
+00:09:11,413 --> 00:09:16,600
+Deputy Security Leader for North Africa and Europe,
+but Salamander discredited and ruined me
+
+69
+00:09:16,703 --> 00:09:19,600
 because he realized I was beginning to get suspicious.
 
-56
-00:09:19,496 --> 00:09:22,479
+70
+00:09:19,796 --> 00:09:22,879
 But you could be making up stories about Salamander!
 Out of revenge.
 
-57
-00:09:24,024 --> 00:09:49,374
+71
+00:09:23,424 --> 00:09:29,674
 Yes, I suppose so. Then you can judge for yourself.
+
+72
+00:09:31,274 --> 00:09:36,404
 You remember Michael Assevski -
 he was Controller of the Eastern European Zone?
+
+73
+00:09:36,524 --> 00:09:42,374
 He was drowned at sea a mile from shore.
-Hockingham murdered!
+(s/Shockingly/Hockingham,/) murdered!
+
+74
+00:09:42,424 --> 00:09:47,474
 All of them were seen with Salamander,
-or a man known as his deputy, shortly before their deaths.
+or a man known as his deputy
 
-58
-00:09:49,409 --> 00:09:52,846
-All of them were replaced by men known to be in Salamander's power.
+75
+00:09:47,624 --> 00:09:49,474
+shortly before their deaths.
 
-59
-00:09:53,022 --> 00:09:54,696
-- Known by who?
-- By me, Doctor.
+76
+00:09:49,509 --> 00:09:52,946
+All of them were replaced by men
+known to be in Salamander's power.
 
-60
-00:09:54,720 --> 00:09:57,257
-Well why don't you tell the authorities, the police or whatever?
+77
+00:09:53,122 --> 00:09:54,796
+- Known by who?   - By me, Doctor.
 
-61
-00:09:57,396 --> 00:10:06,682
+78
+00:09:54,860 --> 00:09:57,357
+Well why don't you tell the authorities,
+the police or whatever?
+
+79
+00:09:57,496 --> 00:09:59,582
 Because I'm discredited, don't you see?
-Because Salamander is so popular,
-and also because the man that took my place,
-a man named Donald Bruce,
-has since risen to become overall security chief.
 
-62
-00:10:06,733 --> 00:10:08,311
+80
+00:09:59,696 --> 00:10:01,082
+Because Salamander is so popular,
+
+81
+00:10:01,196 --> 00:10:04,582
+and also because the man that took my place,
+a man named Donald Bruce...
+
+82
+00:10:04,696 --> 00:10:06,582
+...has since risen to become overall security chief.
+
+83
+00:10:06,633 --> 00:10:08,411
 Surely there is someone you can take your story to?
 
-63
-00:10:08,456 --> 00:10:20,056
+84
+00:10:08,556 --> 00:10:13,956
 Ah yes, Helvig believed me.
 So did Assevski, and they're dead.
+
+85
+00:10:14,356 --> 00:10:17,406
 However, there is one other man,
 a man named Alexander Denes,
+
+86
+00:10:17,506 --> 00:10:20,056
 but none of them will do anything until it's too late!
 
-64
-00:10:20,265 --> 00:10:27,107
+87
+00:10:20,165 --> 00:10:22,007
 I'm surprised.
+
+88
+00:10:22,165 --> 00:10:27,007
 Well if Salamander is everything you say he is,
 then why hasn't he tried to...
 
-65
-00:10:27,245 --> 00:10:28,086
-Dispose of me?
+89
+00:10:27,145 --> 00:10:28,736
+- Dispose of me?  - Yes
 
-66
-00:10:28,221 --> 00:10:28,808
-Yes.
-
-67
-00:10:28,922 --> 00:10:33,762
+90
+00:10:28,822 --> 00:10:30,662
 Well he has, but he's afraid.
-You see, the testimony of a dead man still holds legal weight.
 
-68
-00:10:33,925 --> 00:10:39,708
-Oh, I see. Well, it seems we have a problem on our hands
-whether to believe Mr Kent or not.
+91
+00:10:30,822 --> 00:10:33,662
+You see, the testimony of a dead man
+still holds legal weight.
 
-69
-00:10:39,843 --> 00:10:41,513
+92
+00:10:33,825 --> 00:10:38,508
+Oh, I see. Well, it seems we have a problem on our hands...
+
+93
+00:10:38,625 --> 00:10:39,608
+...whether to believe Mr Kent or not.
+
+94
+00:10:39,743 --> 00:10:41,413
 Well there is one way that you can find out for yourselves.
 
-70
-00:10:41,641 --> 00:10:42,323
+95
+00:10:41,541 --> 00:10:42,223
 Oh, how?
 
-71
-00:10:42,438 --> 00:10:43,724
+96
+00:10:42,338 --> 00:10:43,624
 Impersonate Salamander.
 
-72
-00:10:43,841 --> 00:10:45,974
+97
+00:10:43,741 --> 00:10:45,874
 Yes I thought that's what we were leading up to.
 
-73
-00:10:46,142 --> 00:10:47,985
+98
+00:10:46,042 --> 00:10:47,885
 Well I must admit, Doctor, you do look like him.
 
-74
-00:10:48,122 --> 00:10:48,926
+99
+00:10:48,022 --> 00:10:48,826
 Exactly like him.
 
-75
-00:10:49,042 --> 00:10:50,741
+100
+00:10:48,942 --> 00:10:50,641
 Yes, there's more to it than that. What about the voice?
 
-76
-00:10:50,868 --> 00:10:52,782
+101
+00:10:50,768 --> 00:10:52,682
 Well it's nearly the same pitch, only the accent.
 
-77
-00:10:52,922 --> 00:11:25,190
-Only the accent! My dear young lady. Oh dear.
-Now what was it he said...
+102
+00:10:52,822 --> 00:10:55,190
+Only the accent! My dear young lady.
+
+103
+00:10:55,222 --> 00:11:01,790
+Oh dear. Now what was it he said...
+
+104
+00:11:01,864 --> 00:11:08,490
 We still cannot guarantee good summer holidays for all.
+
+105
+00:11:08,502 --> 00:11:13,270
 No. Guarantee... no, no, no... guaran... guarantee.
 You see, it's very difficult.
-Hmm, of course I always was interested in phonetics.
-Holidays... summer... summer.
-He must have come from Mexico, Quintana Roo or Yucatan or somewhere...
 
-78
-00:11:25,254 --> 00:11:28,529
+106
+00:11:13,402 --> 00:11:18,070
+Hmm, of course I always was interested in phonetics
+
+107
+00:11:18,202 --> 00:11:20,670
+Holidays... summer... summer.
+
+108
+00:11:21,402 --> 00:11:25,410
+He must have come from Mexico,
+Quintana Roo or Yucatan or somewhere...
+
+109
+00:11:25,504 --> 00:11:28,909
 That's incredible, Doctor, he was born at Merida,
 state capital of Yucatan.
 
-79
-00:11:28,707 --> 00:11:36,248
+110
+00:11:28,987 --> 00:11:32,658
 Yes, there are other very strong influences though.
-Oh, I could do it in time. But what if I did it, what then?
 
-80
-00:11:36,475 --> 00:11:43,485
+111
+00:11:32,757 --> 00:11:36,458
+Oh, I could do it in time.
+But what if I did it, what then?
+
+112
+00:11:36,555 --> 00:11:39,665
 You could walk into Salamander's research station at Kanowa,
-find out how he's getting control of the separate World Zones,
-and then bring out absolute proof.
 
-81
-00:11:47,167 --> 00:11:50,849
+113
+00:11:39,755 --> 00:11:43,765
+find out how he's getting control of the separate
+World Zones, and then bring out absolute proof.
+
+114
+00:11:47,047 --> 00:11:51,129
 Yes. I see.
 
-82
-00:11:52,849 --> 00:11:55,885
-How long did you say it would take you to master Salamander's accent?
+115
+00:11:52,829 --> 00:11:56,165
+How long did you say it would take you
+to master Salamander's accent?
 
-83
-00:11:56,141 --> 00:11:59,729
+116
+00:11:56,421 --> 00:12:00,009
 I didn't. It would take three weeks, perhaps four.
 
-84
-00:11:59,926 --> 00:12:12,659
+117
+00:12:00,206 --> 00:12:03,339
 Well while we've been talking,
-the Security Chief I told you about, Donald Bruce,
-has since cordoned off this entire area.
-He's coming here himself.
-Now! I'd say you've got about two minutes, Doctor.
+the Security Chief I told you about,
 
-85
-00:12:12,726 --> 00:12:13,614
+118
+00:12:03,406 --> 00:12:06,639
+Donald Bruce, has since cordoned off this entire area.
+
+119
+00:12:06,767 --> 00:12:09,939
+He's coming here himself...Now!
+
+120
+00:12:10,206 --> 00:12:12,939
+I'd say you've got about two minutes, Doctor.
+
+121
+00:12:13,006 --> 00:12:13,894
 But that's out of the question!
 
-86
-00:12:13,831 --> 00:12:16,858
-You know what he'll do as soon as he sees you,
+122
+00:12:14,111 --> 00:12:15,828
+You know what he'll do as soon as he sees you,/?
+
+123
+00:12:16,111 --> 00:12:17,528
 a man who resembles Salamander so closely?
 
-87
-00:12:17,009 --> 00:12:18,072
-Oh that's not fair!
+124
+00:12:17,599 --> 00:12:19,352
+- Oh that's not fair!
+- Will you please listen!
 
-88
-00:12:18,379 --> 00:12:23,105
-Will you please listen! You'll be under arrest for
-impersonation as soon as he sees you. I mean it.
+125
+00:12:19,459 --> 00:12:23,585
+You'll be under arrest for impersonation
+as soon as he sees you. I mean it.
 
-89
-00:12:23,344 --> 00:12:24,854
+126
+00:12:23,694 --> 00:12:25,134
 But isn't there another way out of this?
 
-90
-00:12:25,015 --> 00:12:26,657
+127
+00:12:25,295 --> 00:12:26,937
 Only one - be Salamander.
 
-91
-00:12:26,824 --> 00:12:27,690
+128
+00:12:27,104 --> 00:12:27,970
 But the clothes!
 
-92
-00:12:27,963 --> 00:12:32,420
+129
+00:12:28,243 --> 00:12:32,700
 Yes, there are some in here.
 A little less eccentric, but do the best you can.
 
-93
-00:12:32,568 --> 00:12:33,758
+130
+00:12:32,848 --> 00:12:34,038
 I won't! I can't!
 
-94
-00:12:33,912 --> 00:12:36,919
+131
+00:12:34,192 --> 00:12:35,399
 Your friends, Doctor, do you want them to suffer?
+
+132
+00:12:35,492 --> 00:12:37,199
 Because they will, you know.
 
-95
-00:12:37,061 --> 00:12:39,424
+133
+00:12:37,341 --> 00:12:39,704
 No, wait a minute! Why is a man like Bruce coming here?
 
-96
-00:12:39,569 --> 00:12:40,889
+134
+00:12:39,849 --> 00:12:40,909
 Don't push me, there isn't time.
 
-97
-00:12:41,023 --> 00:12:43,063
+135
+00:12:41,003 --> 00:12:43,343
 You sent for him, didn't you? You tipped him off!
 
-98
-00:12:43,234 --> 00:12:45,245
+136
+00:12:43,514 --> 00:12:45,525
 I couldn't miss an opportunity like this,
 now please come on.
 
-99
-00:12:48,530 --> 00:12:51,744
+137
+00:12:48,810 --> 00:12:52,024
 Giles, for heaven's sake, what have you done?
 It's far too risky.
 
-100
-00:12:58,881 --> 00:13:04,140
+138
+00:12:58,961 --> 00:13:01,820
 Hello Kent. Doing some recruiting are you?
+
+139
+00:13:01,961 --> 00:13:04,420
 A bit young for killers, aren't they?
 
-101
-00:13:04,737 --> 00:13:05,695
+140
+00:13:05,017 --> 00:13:05,975
 What do you mean?
 
-102
-00:13:05,795 --> 00:13:07,552
+141
+00:13:06,075 --> 00:13:07,832
 All right, what do you mean by stepping in here like this?
 
-103
-00:13:07,717 --> 00:13:11,352
-Anytime, Kent. I've got the right and you know it. Anytime I like.
+142
+00:13:07,997 --> 00:13:11,632
+Anytime, Kent. I've got the right and you know it.
+Anytime I like.
 
-104
-00:13:14,145 --> 00:13:15,189
+143
+00:13:14,425 --> 00:13:15,469
 All right, what do you want?
 
-105
-00:13:15,248 --> 00:13:20,672
+144
+00:13:15,528 --> 00:13:18,752
 That's better, you're ex-security,
 you know the way it's got to go.
+
+145
+00:13:18,828 --> 00:13:20,952
 We might as well be nice and civil about it, mightn't we?
 
-106
-00:13:22,536 --> 00:13:26,268
+146
+00:13:22,816 --> 00:13:26,548
 That bungalow in Cedar District. In your name, right?
 
-107
-00:13:26,547 --> 00:13:27,217
+147
+00:13:26,827 --> 00:13:27,497
 Why?
 
-108
-00:13:27,389 --> 00:13:34,201
+148
+00:13:27,669 --> 00:13:31,781
 Do I have to tell you?
 There's been an awful nasty mess out there.
+
+149
+00:13:31,969 --> 00:13:34,481
 Someone has got himself shot in your living room.
 
-109
-00:13:35,528 --> 00:13:37,563
-- And who are you two?
-- Jamie McCrimmon
+150
+00:13:35,808 --> 00:13:37,843
+- And who are you two?  - Jamie McCrimmon
 
-110
-00:13:37,597 --> 00:13:39,046
-- And?
-- Victoria Waterfield
+151
+00:13:37,877 --> 00:13:39,326
+- And?  - Victoria Waterfield
 
-111
-00:13:39,155 --> 00:13:41,386
+152
+00:13:39,435 --> 00:13:41,666
 - What's the matter, can't you speak?
 - Don't shout at me.
 
-112
-00:13:41,731 --> 00:13:45,968
-Oh, very good, the outraged public citizen. Do they know who I am?
+153
+00:13:42,011 --> 00:13:44,748
+Oh, very good, the outraged public citizen.
 
-113
-00:13:46,115 --> 00:13:46,848
-Yes they do.
+154
+00:13:44,895 --> 00:13:47,128
+- Do they know who I am?
+- Yes they do.
 
-114
-00:13:46,969 --> 00:14:06,356
+155
+00:13:47,249 --> 00:13:49,636
 A pity, I like to hear you say it.
-Now listen to this, all of you.
-One of your men was murdered in a bungalow rented to you.
-The remains of two others were found in what was left of a helicopter.
-You were in that bungalow at the time.
-And there were three other people with you, two youngsters and a man. Right?
 
-115
-00:14:08,155 --> 00:14:13,463
+156
+00:13:50,249 --> 00:13:52,436
+Now listen to this, all of you.
+
+157
+00:13:52,649 --> 00:13:56,936
+One of your men was murdered in a bungalow rented to you.
+
+158
+00:13:57,049 --> 00:13:59,736
+The remains of two others were found
+in what was left of a helicopter.
+
+159
+00:13:59,849 --> 00:14:02,336
+You were in that bungalow at the time.
+
+160
+00:14:02,449 --> 00:14:07,136
+And there were three other people with you,
+two youngsters and a man. Right?
+
+161
+00:14:08,235 --> 00:14:10,143
 Now, there was another man, wasn't there?
+
+162
+00:14:10,235 --> 00:14:13,343
 So we'll deal with that first? Where is he?
 
-116
-00:14:31,927 --> 00:14:36,874
+163
+00:14:31,407 --> 00:14:36,354
 Why hello Bruce, what are you doing here, huh?
 

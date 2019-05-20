@@ -1,9 +1,9 @@
 1
-00:36:20,206 --> 00:36:22,295
+00:36:20,206 --> 00:36:23,235
 Patience, Mister Kent, patience.
 
 2
-00:36:23,186 --> 00:36:24,799
+00:36:23,336 --> 00:36:24,999
 Astrid should have been in contact by now.
 
 3
@@ -11,680 +11,846 @@ Astrid should have been in contact by now.
 Can't you contact her?
 
 4
-00:36:26,646 --> 00:36:33,616
-If I knew where she was. Oh no, I know she's in the Central European Zone, 
-but that's a big place. No, we'll just have to sweat it out and wait.
+00:36:26,646 --> 00:36:28,516
+If I knew where she was.
 
 5
-00:36:38,075 --> 00:36:41,772
-Astrid, you're back. Switch to scramble.
+00:36:28,646 --> 00:36:31,316
+Oh no, I know she's in the Central European Zone,
 
 6
-00:36:41,977 --> 00:36:43,835
-Scramble? Are we being monitored?
+00:36:31,446 --> 00:36:33,816
+But that's a big place.
+No, we'll just have to sweat it out and wait.
 
 7
-00:36:44,063 --> 00:36:46,328
-Right. Switching now.
+00:36:38,075 --> 00:36:41,902
+Astrid, you're back. Switch to scramble.
 
 8
+00:36:42,057 --> 00:36:43,835
+Scramble? Are we being monitored?
+
+9
+00:36:44,063 --> 00:36:46,328
+- It's possible.  - Right. Switching now.
+
+10
 00:36:53,893 --> 00:36:54,807
 Denes dead?
 
-9
+11
 00:36:54,945 --> 00:36:56,081
 Yes, shot in the back.
 
-10
+12
 00:36:56,187 --> 00:36:59,445
-Well, it looks as if our friend Salamander's had a field day, doesn't it?
+Well, it looks as if our friend Salamander's
+had a field day, doesn't it?
 
-11
+13
 00:36:59,579 --> 00:37:01,085
 I'm afraid I haven't done very well.
 
-12
-00:37:01,587 --> 00:37:05,032
-Don't worry. It's not your fault. Look, stay put and we'll join you.
-
-13
-00:37:06,014 --> 00:37:09,695
-The girl Astrid Ferrier, she was in the Central European Zone.
-
 14
+00:37:01,587 --> 00:37:05,032
+Don't worry. It's not your fault.
+Look, stay put and we'll join you.
+
+15
+00:37:06,014 --> 00:37:09,695
+The girl Astrid Ferrier,
+she was in the Central European Zone.
+
+16
 00:37:09,872 --> 00:37:12,888
 Was she? Well she's here now. Have you found her?
 
-15
-00:37:13,028 --> 00:37:17,609
-I think so. One of my men saw someone answering her description going into Giles Kent's office earlier.
+17
+00:37:13,028 --> 00:37:16,009
+I think so. One of my men saw someone
+answering her description...
 
-16
+18
+00:37:16,128 --> 00:37:17,609
+...going into Giles Kent's office earlier.
+
+19
 00:37:17,757 --> 00:37:18,583
 Was she alone?
 
-17
+20
 00:37:18,700 --> 00:37:21,106
 Yes, sir. But shortly after someone else followed her in.
 
-18
+21
 00:37:21,693 --> 00:37:22,937
 Well who, man, who?
 
-19
+22
 00:37:23,124 --> 00:37:25,513
 Leader Salamander's food taster sir, Fariah.
 
-20
+23
 00:37:26,936 --> 00:37:28,306
-Fariah? 
+Fariah?
 
-21
+24
 00:37:28,894 --> 00:37:31,236
 But what are they going to do to Jamie and Victoria?
 
-22
+25
 00:37:31,393 --> 00:37:32,412
 I don't know.
 
-23
-00:37:33,212 --> 00:37:36,749
-Hold them in the Central European zone until Salamander has time to deal with them.
-
-24
-00:37:36,913 --> 00:37:41,276
-No. You're wrong. Salamander doesn't care for loose ends. He brought them back with him.
-
-25
-00:37:41,617 --> 00:37:43,833
-What, to his headquarters, the Research Centre?
-
 26
-00:37:44,029 --> 00:37:46,378
-Yes. He's going to try to get information from them.
+00:37:33,212 --> 00:37:36,749
+Hold them in the Central European zone
+until Salamander has time to deal with them.
 
 27
-00:37:46,844 --> 00:37:48,485
-How far will he go to get it?
+00:37:36,913 --> 00:37:39,826
+No. You're wrong. Salamander doesn't care for loose ends.
 
 28
-00:37:48,717 --> 00:37:49,966
-Very far.
+00:37:39,933 --> 00:37:41,376
+He brought them back with him.
 
 29
-00:37:50,433 --> 00:37:51,900
-Oh, that's very comforting.
+00:37:41,717 --> 00:37:43,933
+What, to his headquarters, the Research Centre?
 
 30
-00:37:52,122 --> 00:37:54,312
-I tell you I know Salamander.
+00:37:44,129 --> 00:37:46,478
+Yes. He's going to try to get information from them.
 
 31
-00:37:54,578 --> 00:38:01,566
-Yes, I... I'm not quite clear about your part in all this. /57.9
-You work for Salamander, suddenly you fall over yourselves to betray him.
+00:37:46,944 --> 00:37:48,585
+How far will he go to get it?
 
 32
-00:38:02,039 --> 00:38:03,729
-I came here for that purpose, yes.
+00:37:48,817 --> 00:37:50,066
+Very far.
 
 33
-00:38:03,902 --> 00:38:04,733
-Why?
+00:37:50,533 --> 00:37:52,000
+Oh, that's very comforting.
 
 34
-00:38:05,496 --> 00:38:14,168
-Because I have every reason to hate Salamander. /08.5
-He blackmailed me into being his personal servant. /11.5
-I even had to smile when he told me to.
+00:37:52,222 --> 00:37:54,412
+I tell you I know Salamander.
 
 35
-00:38:14,377 --> 00:38:15,985
-What sort of blackmail? What had you done?
+00:37:54,678 --> 00:37:57,966
+Yes, I... I'm not quite clear
+about your part in all this.
 
 36
-00:38:16,324 --> 00:38:17,595
-Does it really matter?
+00:37:58,078 --> 00:38:01,666
+You work for Salamander, suddenly
+you fall over yourselves to betray him.
 
 37
-00:38:17,764 --> 00:38:24,456
-Oh, no no no of course not my dear. 
-Well nobody's perfect, Kent./22.0
-But I... I still can't help wondering why...
+00:38:02,139 --> 00:38:03,829
+I came here for that purpose, yes.
 
 38
-00:38:24,665 --> 00:38:26,471
-...why I hadn't tried to expose Salamander?
+00:38:04,002 --> 00:38:04,833
+Why?
 
 39
-00:38:26,645 --> 00:38:28,654
-Well you were in a unique position to do so.
+00:38:05,596 --> 00:38:08,568
+Because I have every reason to hate Salamander.
 
 40
-00:38:28,832 --> 00:38:31,358
-Because without any proof I'd be wasting my time.
+00:38:08,696 --> 00:38:11,958
+He blackmailed me into being his personal servant.
 
 41
-00:38:31,510 --> 00:38:37,860
-Proof! Proof! Proof! It always comes back to the same thing. /35.4
-No one has any evidence against Salamander!
+00:38:12,056 --> 00:38:14,268
+I even had to smile when he told me to.
 
 42
-00:38:38,037 --> 00:38:38,818
-We have some.
+00:38:14,477 --> 00:38:16,085
+What sort of blackmail? What had you done?
 
 43
-00:38:38,955 --> 00:38:42,088
-Not enough! It's not enough! Salamander covers up too well.
+00:38:16,424 --> 00:38:18,955
+- Does it really matter?
+- Oh, no no no.
 
 44
-00:38:42,254 --> 00:38:43,299
-I have what you want.
+00:38:19,064 --> 00:38:22,056
+Of course not my dear.
+Well nobody's perfect, Kent.
 
 45
-00:38:43,482 --> 00:38:44,461
-But I thought that you said...
+00:38:22,164 --> 00:38:24,706
+But I... I still can't help wondering why...
 
 46
-00:38:44,595 --> 00:38:46,206
-No. Not about me. Fedorin.
+00:38:24,805 --> 00:38:26,771
+...why I hadn't tried to expose Salamander?
 
 47
-00:38:46,370 --> 00:38:50,779
-Fedorin? A public embezzler who commits suicide?
+00:38:26,845 --> 00:38:28,954
+Well you were in a unique position to do so.
 
 48
-00:38:50,974 --> 00:38:54,629
-Salamander engineered nearly every one of those swindles, and I can prove it.
+00:38:29,032 --> 00:38:31,458
+Because without any proof
+I'd be wasting my time.
 
 49
-00:38:54,796 --> 00:38:55,573
-How?
+00:38:31,610 --> 00:38:35,560
+Proof! Proof! Proof!
+It always comes back to the same thing.
 
 50
-00:38:58,153 --> 00:38:59,383
-Fedorin's file.
+00:38:35,650 --> 00:38:38,060
+No one has any evidence against Salamander!
 
 51
-00:39:00,168 --> 00:39:01,234
-Is the building surrounded?
+00:38:38,137 --> 00:38:38,918
+We have some.
 
 52
-00:39:01,336 --> 00:39:02,622
-A-three's in position, Captain.
+00:38:39,055 --> 00:38:42,188
+Not enough! It's not enough!
+Salamander covers up too well.
 
 53
-00:39:02,748 --> 00:39:03,730
-Just closing up the gaps.
+00:38:42,354 --> 00:38:43,399
+I have what you want.
 
 54
-00:39:03,841 --> 00:39:06,199
-Well you haven't brought me here on a fool's errand, I hope?
+00:38:43,582 --> 00:38:44,561
+But I thought that you said...
 
 55
-00:39:07,274 --> 00:39:12,252
-But I'm afraid this... this still isn't evidence, it's... it's not real evidence.
+00:38:44,695 --> 00:38:46,506
+No. Not about me. Fedorin.
 
 56
-00:39:12,345 --> 00:39:15,237
-You mean even this doesn't convince you about Salamander?
+00:38:46,610 --> 00:38:50,879
+Fedorin? A public embezzler
+who commits suicide?
 
 57
-00:39:15,390 --> 00:39:16,896
-Oh, I'm not saying that.
+00:38:51,074 --> 00:38:54,929
+Salamander engineered nearly every one
+of those swindles, and I can prove it.
 
 58
-00:39:17,113 --> 00:39:19,595
-Well then you'll do it? You'll impersonate him?
+00:38:55,026 --> 00:38:55,673
+How?
 
 59
-00:39:19,744 --> 00:39:22,770
-And of course when they see you with me they're bound to think you're Salamander.
+00:38:58,253 --> 00:38:59,483
+Fedorin's file.
 
 60
-00:39:23,024 --> 00:39:26,909
-But I... I still don't know if I can carry it off.
+00:39:00,268 --> 00:39:01,334
+Is the building surrounded?
 
 61
-00:39:27,219 --> 00:39:28,811
-It's the only way to get your friends released.
+00:39:01,436 --> 00:39:02,722
+A three's in position, Captain.
 
 62
-00:39:28,984 --> 00:39:30,264
-Yesss...
+00:39:02,848 --> 00:39:03,830
+Just closing up the gaps.
 
 63
-00:39:30,708 --> 00:39:31,915
-Of course, there are...
+00:39:03,941 --> 00:39:06,299
+Well you haven't brought me here
+on a fool's errand, I hope?
 
 64
-00:39:32,045 --> 00:39:38,170
-Oh I see, yes of course, there are conditions, aren't there? /36.0
-You help me, I defeat Salamander?
+00:39:07,374 --> 00:39:12,352
+But I'm afraid this... this still isn't evidence,
+it's... it's not real evidence.
 
 65
-00:39:38,322 --> 00:39:45,179
-Now look, you're giving me the biggest opportunity 
-I'll ever have of ridding the world of this monster./42.5
-Either I can convince you one way, or I'll have to do it another.
+00:39:12,445 --> 00:39:15,337
+You mean even this doesn't convince you about Salamander?
 
 66
-00:39:45,397 --> 00:39:48,561
-What you really want me to do is to kill him, isn't it?
+00:39:15,490 --> 00:39:16,996
+Oh, I'm not saying that.
 
 67
-00:39:48,659 --> 00:39:50,494
-What else do you do when someone is evil?
+00:39:17,213 --> 00:39:19,695
+Well then you'll do it? You'll impersonate him?
 
 68
-00:39:51,072 --> 00:39:59,265
-Private justice, eh? Oh no, no. /54.0
-I'll expose him, ruin him, have him arrested, 
-but I won't be his executioner. /58.1
-No one has that right.
+00:39:19,844 --> 00:39:22,870
+And of course when they see you with me
+they're bound to think you're Salamander.
 
 69
-00:39:59,410 --> 00:40:00,651
-Sometimes it's necessary.
+00:39:23,124 --> 00:39:27,009
+But I... I still don't know if I can carry it off.
 
 70
-00:40:00,835 --> 00:40:02,360
-- No.
-- Yes, Doctor yes!
+00:39:27,319 --> 00:39:28,911
+It's the only way to get your friends released.
 
 71
-00:40:03,276 --> 00:40:05,758
-Right, we'll move in.
+00:39:29,084 --> 00:39:30,364
+Yesss...
 
 72
-00:40:06,409 --> 00:40:10,260
-Either you get rid of Salamander,
-or we won't lift a finger to help your friends.
+00:39:30,808 --> 00:39:32,015
+Of course, there are...
 
 73
-00:40:10,376 --> 00:40:13,032
-Mister Kent, look.
+00:39:32,145 --> 00:39:36,070
+Oh I see, yes of course, there are conditions, aren't there?
 
 74
-00:40:15,463 --> 00:40:17,469
-I'd make up my mind quickly if I were you.
+00:39:36,175 --> 00:39:38,620
+You help me, I defeat Salamander?
 
 75
-00:40:17,666 --> 00:40:19,459
-- Why?
-- Have a look out of the window.
+00:39:38,722 --> 00:39:42,579
+Now look, you're giving me the biggest opportunity
+I'll ever have of ridding the world of this monster.
 
 76
-00:40:19,686 --> 00:40:20,467
-Well, what is it?
+00:39:42,692 --> 00:39:45,579
+Either I can convince you one way,
+or I'll have to do it another.
 
 77
-00:40:25,685 --> 00:40:27,471
-What do we do now?
+00:39:45,697 --> 00:39:48,661
+What you really want me to do is to kill him, isn't it?
 
 78
-00:40:27,789 --> 00:40:28,839
-Over here, quick!
+00:39:48,759 --> 00:39:50,994
+What else do you do when someone is evil?
 
 79
-00:40:29,037 --> 00:40:29,904
-Well what's that?
+00:39:51,172 --> 00:39:54,065
+Private justice, eh? Oh no, no.
 
 80
-00:40:30,136 --> 00:40:31,986
+00:39:54,172 --> 00:39:57,165
+I'll expose him, ruin him, have him arrested,
+
+81
+00:39:57,272 --> 00:39:59,605
+But I won't be his executioner.
+No one has that right.
+
+82
+00:39:59,700 --> 00:40:00,951
+Sometimes it's necessary.
+
+83
+00:40:01,035 --> 00:40:02,660
+- No.  - Yes, Doctor yes!
+
+84
+00:40:03,376 --> 00:40:05,858
+Right, we'll move in.
+
+85
+00:40:06,509 --> 00:40:08,060
+Either you get rid of Salamander,
+
+86
+00:40:08,159 --> 00:40:10,360
+or we won't lift a finger to help your friends.
+
+87
+00:40:10,476 --> 00:40:13,132
+Mister Kent, look.
+
+88
+00:40:15,563 --> 00:40:17,569
+I'd make up my mind quickly if I were you.
+
+89
+00:40:17,766 --> 00:40:19,559
+- Why?  - Have a look out of the window.
+
+90
+00:40:19,786 --> 00:40:20,567
+Well, what is it?
+
+91
+00:40:25,785 --> 00:40:27,571
+What do we do now?
+
+92
+00:40:27,889 --> 00:40:28,939
+Over here, quick!
+
+93
+00:40:29,137 --> 00:40:30,004
+Well what's that?
+
+94
+00:40:30,236 --> 00:40:32,086
 - Through here, the ventilator shaft.
 - The files.
 
-81
-00:40:32,135 --> 00:40:33,652
-- Come on, quick.
-- But where did it go?
+95
+00:40:32,235 --> 00:40:33,752
+- Come on, quick.  - But where did it go?
 
-82
-00:40:34,043 --> 00:40:35,381
+96
+00:40:34,143 --> 00:40:35,481
 It doesn't matter, come on.
 
-83
-00:40:35,510 --> 00:40:36,372
+97
+00:40:35,610 --> 00:40:36,472
 It's locked.
 
-84
-00:40:37,486 --> 00:40:38,508
+98
+00:40:37,586 --> 00:40:38,608
 Now you, Doctor, next.
 
-85
-00:40:38,631 --> 00:40:39,919
+99
+00:40:38,731 --> 00:40:40,019
 - Oh what about you?
 - Kent! Open the door
 
-86
-00:40:40,056 --> 00:40:41,707
-Oh no, you're too important. You go, and Giles.
-
-87
-00:40:41,937 --> 00:40:42,571
-- I'll follow
-- All right.
-
-88
-00:40:42,689 --> 00:40:43,177
-Very well...
-
-89
-00:40:43,295 --> 00:40:45,676
-...you leave me no alternative. Break it down.
-
-90
-00:40:49,046 --> 00:40:49,619
-Get back!
-
-91
-00:40:49,788 --> 00:40:50,860
-Get away from that door!
-
-92
-00:41:00,605 --> 00:41:01,567
-Did you get the others?
-
-93
-00:41:01,837 --> 00:41:03,026
-Not yet, sir.
-
-94
-00:41:03,305 --> 00:41:13,423
-Now listen to me. It was you, Astrid Ferrier, Giles Kent and another. Who was the other man?
-
-95
-00:41:14,382 --> 00:41:19,698
-You'll know soon... soon enough.
-
-96
-00:41:20,176 --> 00:41:21,982
-I want to know now.
-
-97
-00:41:23,567 --> 00:41:23,947
-Sir...
-
-98
-00:41:24,386 --> 00:41:27,325
-Shut up! Well?
-
-99
-00:41:30,519 --> 00:41:40,450
-You can't threaten me now, Benik. I can only die once. And someone's beaten you to it.
-
 100
-00:41:41,293 --> 00:41:43,509
-Who was the other man?
+00:40:40,156 --> 00:40:41,807
+Oh no, you're too important.
+You go, and Giles.
 
 101
-00:41:46,582 --> 00:41:47,547
-Sir?
+00:40:42,037 --> 00:40:42,671
+- I'll follow  - All right.
 
 102
-00:41:49,052 --> 00:41:50,483
-She's dead.
+00:40:42,739 --> 00:40:43,297
+Very well...
 
 103
-00:41:51,229 --> 00:41:52,678
-Good.
+00:40:43,395 --> 00:40:45,776
+...you leave me no alternative. Break it down.
 
 104
-00:41:58,913 --> 00:42:03,269
-Fedorin's file. Thank you.
+00:40:49,106 --> 00:40:49,799
+Get back!
 
 105
-00:42:08,699 --> 00:42:10,457
-What you mean is you failed.
+00:40:49,888 --> 00:40:50,960
+Get away from that door!
 
 106
-00:42:10,640 --> 00:42:12,355
-I always said something should be done about Kent.
+00:41:00,705 --> 00:41:01,667
+Did you get the others?
 
 107
-00:42:12,510 --> 00:42:16,199
-You always say. You say things, but you don't think.
+00:41:01,937 --> 00:41:03,126
+Not yet, sir.
 
 108
-00:42:16,363 --> 00:42:19,313
-You exceeded your authority, Benik. A woman's been killed.
+00:41:03,705 --> 00:41:10,403
+Now listen to me. It was you,
+Astrid Ferrier, Giles Kent...
 
 109
-00:42:19,463 --> 00:42:20,085
-Resisting arrest.
+00:41:10,505 --> 00:41:13,523
+...and another. Who was the other man?
 
 110
-00:42:20,249 --> 00:42:25,311
-Maybe. But you can't just take the law into your own hands. Giles Kent hadn't broken any rules that I know of.
+00:41:14,682 --> 00:41:19,958
+You'll know soon... soon enough.
 
 111
-00:42:25,502 --> 00:42:29,031
-For sure he'd show himself one day, he was simply building up his resistance group.
+00:41:20,276 --> 00:41:22,382
+I want to know now.
 
 112
-00:42:29,201 --> 00:42:45,014
-Resistance group! The man's a traitor. These people are rebels./35.0
-Bruce, you must find this man who impersonated me. The dangers are obvious. /41.3
-He could walk in anywhere at any time pretending to be me and ruin everything.
+00:41:23,667 --> 00:41:24,347
+Sir...
 
 113
-00:42:45,257 --> 00:42:46,013
-You can leave that to me.
+00:41:24,486 --> 00:41:27,425
+Shut up! Well?
 
 114
-00:42:46,164 --> 00:42:46,971
-How so?
+00:41:30,619 --> 00:41:34,550
+You can't threaten me now, Benik.
 
 115
-00:42:47,133 --> 00:42:50,972
-Benik, come with me and I'll go over the security arrangements with you now.
+00:41:35,019 --> 00:41:40,550
+I can only die once,
+and someone's beaten you to it.
 
 116
-00:42:53,409 --> 00:42:55,113
-Do as you're told!
+00:41:41,393 --> 00:41:43,609
+Who was the other man?
 
 117
-00:42:56,884 --> 00:42:59,421
-I think you'll find this interesting.
+00:41:46,982 --> 00:41:47,947
+Sir?
 
 118
-00:43:03,365 --> 00:43:11,593
-What? The girl Fariah had this? What can I say?
+00:41:49,152 --> 00:41:50,583
+She's dead.
 
 119
-00:43:22,924 --> 00:43:23,881
-Yes sir?
+00:41:51,329 --> 00:41:52,778
+Good.
 
 120
-00:43:24,217 --> 00:43:30,090
-The records room is out of bounds. I am not to be disturbed. /28.3
-See that the security locks are engaged.
+00:41:59,013 --> 00:42:03,369
+Fedorin's file. Thank you.
 
 121
-00:43:30,413 --> 00:43:32,262
-Very well, sir. For how long, sir?
+00:42:08,799 --> 00:42:10,557
+What you mean is you failed.
 
 122
-00:43:32,436 --> 00:43:33,722
-For as long as I say so.
+00:42:10,740 --> 00:42:12,455
+I always said something should be done about Kent.
 
 123
-00:43:33,882 --> 00:43:34,526
-Yes sir.
+00:42:12,610 --> 00:42:16,299
+You always say. You say things, but you don't think.
 
 124
-00:45:23,929 --> 00:45:27,285
-It seems that Salamander's locked himself away and can't be got at.
+00:42:16,463 --> 00:42:19,413
+You exceeded your authority, Benik.
+A woman's been killed.
 
 125
-00:45:27,469 --> 00:45:28,162
-So?
+00:42:19,563 --> 00:42:20,185
+Resisting arrest.
 
 126
-00:45:28,306 --> 00:45:30,100
-Well, suppose the place caught fire?
+00:42:20,349 --> 00:42:23,411
+Maybe. But you can't just take the law into your own hands.
 
 127
-00:45:30,261 --> 00:45:31,120
-It won't.
+00:42:23,509 --> 00:42:25,411
+Giles Kent hadn't broken any rules that I know of.
 
 128
-00:45:31,266 --> 00:45:32,093
-Don't be foolish!
+00:42:25,602 --> 00:42:29,131
+For sure he'd show himself one day,
+he was simply building up his resistance group.
 
 129
-00:45:32,191 --> 00:45:38,498
-Look, I can only tell you that when Salamander works in records, as he does from time to time, no one is allowed in.
+00:42:29,301 --> 00:42:35,114
+Resistance group! The man's a traitor.
+These people are rebels.
 
 130
-00:45:38,658 --> 00:45:49,192
-I can understand if it were a... er... a... laboratory or... a... research room of some sort, but a... /45.2
-a records room? What sort of records have you got in there anyway?
+00:42:35,249 --> 00:42:41,611
+Bruce, you must find this man who impersonated me.
+The dangers are obvious.
 
 131
-00:45:49,335 --> 00:45:50,399
-What did you want to see him about?
+00:42:41,701 --> 00:42:45,254
+He could walk in anywhere at any time
+pretending to be me and ruin everything.
 
 132
-00:45:50,531 --> 00:46:03,917
-Never mind. I just don't like mysteries. /52.9
-Salamander's far too important to lock himself away like this,
-anything might happen, a world emergency. /59.2
-Suppose I had to order you to let me in there?
+00:42:45,357 --> 00:42:46,113
+You can leave that to me.
 
 133
-00:46:04,113 --> 00:46:09,160
-It wouldn't do any good. When the locks are switched over they can only be opened from the inside.
+00:42:46,264 --> 00:42:47,071
+How so?
 
 134
-00:46:57,472 --> 00:47:07,863
-I have returned. Take radiation precautions. I will make a report about the surface.
+00:42:47,233 --> 00:42:51,272
+Benik, come with me and I'll go over
+the security arrangements with you now.
 
 135
-00:47:08,225 --> 00:47:09,570
-He's back!
+00:42:53,509 --> 00:42:55,213
+Do as you're told!
 
 136
-00:47:09,767 --> 00:47:11,398
-He's managed to get back again.
+00:42:57,084 --> 00:42:59,521
+I think you'll find this interesting.
 
 137
-00:47:11,516 --> 00:47:12,960
-Let's hope he's got some good news this time.
+00:43:03,465 --> 00:43:06,693
+What? The girl Fariah had this?
 
 138
-00:47:13,079 --> 00:47:14,940
-Do you think Salamander's found some more food, Swann?
+00:43:10,034 --> 00:43:11,693
+What can I say?
 
 139
-00:47:15,090 --> 00:47:17,257
-I hope so, otherwise we're finished. Where's that stock list?
+00:43:23,024 --> 00:43:23,981
+Yes sir?
 
 140
-00:47:23,559 --> 00:47:26,204
-Welcome back, Salamander. Are you all right?
+00:43:24,317 --> 00:43:28,490
+The records room is out of bounds.
+I am not to be disturbed.
 
 141
-00:47:26,382 --> 00:47:34,727
-Don't, don't come too near my friend, I am not yet decontaminated. I am too weary, totally weary.
+00:43:28,617 --> 00:43:30,390
+See that the security locks are engaged.
 
 142
-00:47:34,874 --> 00:47:37,434
-You shouldn't have made this trip, Salamander, you're doing too much.
+00:43:30,513 --> 00:43:32,502
+Very well, sir. For how long, sir?
 
 143
-00:47:37,585 --> 00:47:47,465
-Someone has to bring back the food for you, my friend, huh? /41.3
-/43.0You know that the radiation is slowly killing me, don't you Swann?
+00:43:32,606 --> 00:43:33,972
+For as long as I say so.
 
 144
-00:47:47,620 --> 00:47:49,317
-You're just doing too much.
+00:43:34,082 --> 00:43:34,796
+Yes sir.
 
 145
-00:47:49,457 --> 00:47:55,828
-I worry about you all the time. What're you going to do when I am no longer here?
+00:45:24,029 --> 00:45:27,385
+It seems that Salamander's
+locked himself away and can't be got at.
 
 146
-00:47:59,350 --> 00:48:08,287
-Radiation gets a little more each time, hm? One day, that needle will stay at maximum radiation.
+00:45:27,569 --> 00:45:28,262
+So?
 
 147
-00:48:08,481 --> 00:48:09,246
-Don't say that.
+00:45:28,406 --> 00:45:30,200
+Well, suppose the place caught fire?
 
 148
-00:48:09,417 --> 00:48:18,204
-Why Mary. Colin. Huh, it's my big joke, huh? Just to frighten you a little. I've got good news for us!
+00:45:30,361 --> 00:45:31,220
+It won't.
 
 149
-00:48:18,405 --> 00:48:19,227
-We can return to the surface?
+00:45:31,366 --> 00:45:32,193
+Don't be foolish!
 
 150
-00:48:19,336 --> 00:48:22,884
-No no no not yet, but I've found another store of food...
+00:45:32,291 --> 00:45:35,498
+Look, I can only tell you that
+when Salamander works in records,
 
 151
-00:48:23,042 --> 00:48:24,197
-Thank goodness!
+00:45:35,591 --> 00:45:38,598
+as he does from time to time, no one is allowed in.
 
 152
-00:48:24,323 --> 00:48:31,943
-...it is undamaged. Colin, open the last store of wine, huh? Go on, you help him too, Mary.
+00:45:38,758 --> 00:45:43,092
+I can understand if it were a... laboratory...
 
 153
-00:48:34,007 --> 00:48:35,985
-You must take it slowly for goodness sake.
+00:45:43,158 --> 00:45:45,292
+or... a... research room of some sort, but a...
 
 154
-00:48:36,139 --> 00:48:50,762
-I'm all right my friend. I'm just a little dizzy. It's... /41.0
-it's terrible up there, you know, Swann, you've no idea. /48.0
-Right, I am ready.
+00:45:45,458 --> 00:45:49,592
+a records room? What sort of records
+have you got in there anyway?
 
 155
-00:48:56,806 --> 00:48:59,214
-But I still don't understand what's happened to Fariah.
+00:45:49,685 --> 00:45:50,499
+What did you want to see him about?
 
 156
-00:48:59,384 --> 00:49:01,127
-She went the wrong way. We lost her.
+00:45:50,631 --> 00:45:53,017
+Never mind. I just don't like mysteries.
 
 157
-00:49:01,291 --> 00:49:03,256
-Well we must find her! You don't seem to realize how vital it is.
+00:45:53,131 --> 00:45:56,217
+Salamander's far too important
+to lock himself away like this,
 
 158
-00:49:03,392 --> 00:49:05,187
-Doctor, hold still a moment will you?
+00:45:56,301 --> 00:45:59,317
+anything might happen, a world emergency.
 
 159
-00:49:05,301 --> 00:49:06,100
-Sorry.
+00:45:59,431 --> 00:46:04,017
+Suppose I had to order you to let me in there?
 
 160
-00:49:07,337 --> 00:49:11,888
-There. Look at that, Giles, isn't it amazing?
+00:46:04,213 --> 00:46:09,260
+It wouldn't do any good. When the locks are switched over
+they can only be opened from the inside.
 
 161
-00:49:12,067 --> 00:49:13,292
-Salamander to the life.
+00:46:57,872 --> 00:47:03,963
+I have returned.
+Take radiation precautions.
 
 162
-00:49:13,705 --> 00:49:16,329
-Yes, it's... it's not bad.
+00:47:04,172 --> 00:47:07,963
+I will make a report about the surface.
 
 163
-00:49:16,513 --> 00:49:17,519
-Shh, I think I heard something.
+00:47:08,325 --> 00:47:09,670
+He's back!
 
 164
-00:49:17,649 --> 00:49:19,080
-Well perhaps it's Fariah.
+00:47:09,867 --> 00:47:11,498
+He's managed to get back again.
 
 165
-00:49:22,535 --> 00:49:26,889
-Stay where you are. I've been looking forward to meeting you again.
+00:47:11,616 --> 00:47:13,280
+Let's hope he's got some good news this time.
+
+166
+00:47:13,379 --> 00:47:15,240
+Do you think Salamander's found some more food, Swann?
+
+167
+00:47:15,390 --> 00:47:19,057
+I hope so, otherwise we're finished.
+Where's that stock list?
+
+168
+00:47:23,659 --> 00:47:26,504
+Welcome back, Salamander. Are you all right?
+
+169
+00:47:26,582 --> 00:47:31,827
+Don't, don't come too near my friend,
+I am not yet decontaminated.
+
+170
+00:47:31,932 --> 00:47:34,827
+I am too weary, totally weary.
+
+171
+00:47:34,974 --> 00:47:37,834
+You shouldn't have made this trip,
+Salamander, you're doing too much.
+
+172
+00:47:37,985 --> 00:47:41,465
+Someone has to bring back the food
+for you, my friend, huh?
+
+173
+00:47:43,115 --> 00:47:47,865
+You know that the radiation
+is slowly killing me, don't you Swann?
+
+174
+00:47:47,920 --> 00:47:49,417
+You're just doing too much.
+
+175
+00:47:49,557 --> 00:47:51,628
+I worry about you all the time.
+
+176
+00:47:53,057 --> 00:47:56,228
+What're you going to do when I am no longer here?
+
+177
+00:47:59,600 --> 00:48:04,087
+Radiation gets a little more each time, hm?
+
+178
+00:48:04,600 --> 00:48:08,887
+One day, that needle will stay at maximum radiation.
+
+179
+00:48:08,981 --> 00:48:13,846
+- Don't say that.  - Why... Mary. Colin.
+
+180
+00:48:13,917 --> 00:48:15,084
+Huh, it's my big joke, huh?
+
+181
+00:48:15,317 --> 00:48:17,004
+Just to frighten you a little.
+
+182
+00:48:17,117 --> 00:48:18,904
+I've got good news for us!
+
+183
+00:48:19,105 --> 00:48:19,927
+We can return to the surface?
+
+184
+00:48:20,036 --> 00:48:23,694
+No no no not yet, but I've found another store of food...
+
+185
+00:48:23,792 --> 00:48:24,897
+Thank goodness!
+
+186
+00:48:25,023 --> 00:48:28,643
+...And it is undamaged.
+Colin, open the last store of wine, huh?
+
+187
+00:48:28,723 --> 00:48:32,643
+Go on, you help him too, Mary.
+
+188
+00:48:34,707 --> 00:48:36,685
+You must take it slowly for goodness sake.
+
+189
+00:48:36,839 --> 00:48:41,662
+I'm all right my friend. I'm just a little dizzy. It's...
+
+190
+00:48:41,839 --> 00:48:48,662
+It's terrible up there, you know,
+Swann, you've no idea.
+
+191
+00:48:48,839 --> 00:48:51,462
+Right, I am ready.
+
+192
+00:48:57,506 --> 00:48:59,914
+But I still don't understand what's happened to Fariah.
+
+193
+00:49:00,084 --> 00:49:01,827
+She went the wrong way. We lost her.
+
+194
+00:49:01,991 --> 00:49:03,956
+Well we must find her!
+You don't seem to realize how vital it is.
+
+195
+00:49:04,092 --> 00:49:05,887
+Doctor, hold still a moment will you?
+
+196
+00:49:06,001 --> 00:49:06,800
+Sorry.
+
+197
+00:49:08,037 --> 00:49:12,588
+There. Look at that, Giles, isn't it amazing?
+
+198
+00:49:12,767 --> 00:49:13,992
+Salamander to the life.
+
+199
+00:49:14,405 --> 00:49:17,029
+Yes, it's... it's not bad.
+
+200
+00:49:17,213 --> 00:49:18,219
+Shh, I think I heard something.
+
+201
+00:49:18,349 --> 00:49:19,780
+Perhaps it's Fariah.
+
+202
+00:49:23,235 --> 00:49:27,589
+Stay where you are. I've been looking forward
+to meeting you again.
 
