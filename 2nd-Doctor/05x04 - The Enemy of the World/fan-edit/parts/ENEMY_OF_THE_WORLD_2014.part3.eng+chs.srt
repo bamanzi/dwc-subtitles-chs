@@ -54,7 +54,7 @@ lies that would damage me.
 11
 00:28:58,707 --> 00:29:00,925
 On the contrary, I am doing you a good turn.
-恰恰相反，我正在做对你有利的事情
+恰恰相反，我在帮你的忙
 
 12
 00:29:01,007 --> 00:29:03,625
@@ -62,13 +62,13 @@ I am actually suppressing facts about you.
 事实上我是在压制你那些事实
 
 13
-00:29:03,687 --> 00:29:08,045
+00:29:03,687 --> 00:29:08,145
 - Lies, I tell you!
 - Lies... Truth... Who knows?
 - 是谎言，我跟你说！  - 谎言...真实...谁知道呢
 
 14
-00:29:08,147 --> 00:29:12,405
+00:29:08,247 --> 00:29:12,405
 But we wouldn't like to put them to the test, would we?
 但我们并不想要拿它们来做测试，对不？
 
@@ -78,12 +78,12 @@ There.
 给你
 
 16
-00:29:21,447 --> 00:29:23,438
+00:29:21,447 --> 00:29:22,988
 What's this?
 这是什么？
 
 17
-00:29:23,607 --> 00:29:28,681
+00:29:23,357 --> 00:29:28,681
 Used in the right way, at the right time,
 it can dictate your own future
 用对了方法，用对了时间，它就能决定你自己的未来
@@ -99,56 +99,58 @@ Poison?
 毒药？
 
 20
-00:29:33,687 --> 00:29:34,298
+00:29:33,687 --> 00:29:34,698
 I want you to take a message... 
 我要你带一个消息...
 
 21
-00:29:34,565 --> 00:29:39,998
+00:29:34,985 --> 00:29:39,998
 - McCrimmon! What are you doing dressed like this?
 - Leader's orders.
 - McCrimmon! 你穿成这样是要做什么？  - 领袖的命令
 
 22
-00:29:40,087 --> 00:29:42,698
-Now that you're here, I've got some questions to ask you.
+00:29:40,087 --> 00:29:42,898
+Now that you're here, I've got some questions
+I want to ask you.
 既然你在这里，我有些问题要问你
 
 23
-00:29:42,807 --> 00:29:44,456
+00:29:42,997 --> 00:29:44,456
 I have better things to do, thank you.
 我有重要的事情要做，谢谢你
 
 24
 00:29:44,527 --> 00:29:47,137
-I want to know what Salamander and Giles Kent were discussing
+I want to know what Salamander and Giles Kent
+were discussing
 我想要知道 Salamander 和 Giles Kent 在讨论什么
 
 25
-00:29:47,227 --> 00:29:50,037
+00:29:47,227 --> 00:29:50,237
 - when I saw you last time?
 - It's not for me to tell you that.
 - 就我上次见到你的时候 - 这个不该我来告诉你
 
 26
-00:29:50,107 --> 00:29:51,956
+00:29:50,307 --> 00:29:51,956
 I am concerned of Salamander's safety.
 我担心 Salamander 的安全
 
 27
-00:29:52,007 --> 00:29:53,556
-Giles Kent (is supposed to be his) bitter enemy.
+00:29:52,007 --> 00:29:53,956
+Giles Kent is supposed to be his bitter enemy.
 Giles Kent 被认定是他的死敌
 
 28
-00:29:53,627 --> 00:29:57,756
+00:29:54,027 --> 00:29:57,756
 If Salamander wishes you to know that,
 I dare say he'll tell you himself.
 如果 Salamander 想让你知道这事，我敢说他会自己告诉你的
 
 29
 00:29:57,853 --> 00:29:59,732
-You'll get no confidential items out of me.
+You'll get no confidential out of me.
 你从我这里得不到机密信息
 
 30
@@ -157,13 +159,14 @@ Listen. You must go away from here.
 听着。你必须离开这里
 
 31
-00:30:03,747 --> 00:30:05,582
+00:30:03,747 --> 00:30:05,782
 Don't get caught up in Salamander's world.
 别搅和到 Salamander 的世界里面
 
 32
-00:30:05,747 --> 00:30:08,940
-Why? What do you mean? You sound as if you don't like him.
+00:30:05,947 --> 00:30:08,940
+Why? What do you mean?
+You sound as if you don't like him.
 为什么？你什么意思？听起来你好像不喜欢他
 
 33
@@ -178,542 +181,576 @@ Finish writing those menus.
 把那些菜单写完
 
 35
-00:30:16,427 --> 00:30:18,083
+00:30:16,427 --> 00:30:18,183
 - Did you hear that?
 - Aye. Work on her. 
 - 你听到了吗？  -  嗯，做她的工作
 
 36
-00:30:18,164 --> 00:30:20,156
+00:30:18,264 --> 00:30:20,156
 I have a feeling she can tell us something about Salamander.
 我感觉她能告诉我们一些 Salamander 的事情
 
 37
 00:30:20,247 --> 00:30:21,901
-All right. As soon as I can. What have you been doing?
+All right. As soon as I can. 
+What have you been doing?
 好吧，我尽快。你在做些什么？
 
 38
-00:30:22,000 --> 00:30:23,856
+00:30:22,000 --> 00:30:24,056
 I managed to slip out
 and tell Astrid everything that's happened.
 我找机会溜了出去，跟 Astrid 讲了这里所发生的事情
 
 39
-00:30:23,967 --> 00:30:26,403
+00:30:24,167 --> 00:30:26,403
 - You might have told me, Jamie!
 - There wasn't time.
 - 你该告诉我的!  - 没有时间
 
 40
-00:30:26,507 --> 00:30:28,200
+00:30:26,507 --> 00:30:28,400
 - She's trying to get Denes away.
 - And take him to the Doctor?
 - 她在竭力把 Denes 弄出去  - 带他去见博士？
 
 41
-00:30:28,300 --> 00:30:30,400
+00:30:28,500 --> 00:30:30,400
 - He'd believe Denes.
 - Aye, he would.
 - 他会相信 Denes 的.   - 是，他会的
 
 42
 00:30:30,567 --> 00:30:32,927
-How can she get in? Salamander's got guards are everywhere.
+How can she get in?
+Salamander's got guards are everywhere.
 那她怎么进来？到处都 Salamander 的警卫
 
 43
-00:30:33,087 --> 00:30:36,199
-She's got friends here. They're going to arrange passes
-and the right sort of uniform.
-她在这里有朋友。他们会准备通行证和合适的制服
+00:30:33,087 --> 00:30:34,899
+She's got friends here.
+They're going to arrange passes...
+她在这里有朋友。他们会准备通行证...
 
 44
-00:30:36,367 --> 00:30:39,518
+00:30:34,985 --> 00:30:37,562
+- and the right sort of uniform.
 - What sort of uniform?
-- I don't know. Messenger delivery or something. Ssh!
-- 什么样的制服？  - 我不知道，通讯人员什么的吧。嘘!
+- 和合适的制服  - 什么样的制服？
 
 45
-00:30:39,887 --> 00:30:40,917
-(Controller Denes has been arrested.)/?
-
-45
-00:30:41,087 --> 00:30:46,917
-I (can't make up my mind) whether Fedorin
-is to be regarded as a new Controller or not.
-我不知道 Fedorin 是否会被公认为新的控制员
+00:30:37,667 --> 00:30:39,518
+I don't know. Messenger delivery
+or something. Ssh!
+我不知道，通讯人员什么的吧。嘘!
 
 46
-00:30:47,087 --> 00:30:49,579
-The burden of office is heavy, my friend.
-(I remember when I was)
-公务担子很重，我的朋友
+00:30:39,887 --> 00:30:40,917
+Controller Denes has been arrested.
+控制员 Denes 已经被捕了
 
 47
-00:30:49,707 --> 00:30:51,440
+00:30:41,087 --> 00:30:46,917
+I can't make up my mind whether Fedorin
+is to be regarded as a new Controller or not.
+我还不知道 Fedorin 是否会被公认为新的控制员
+
+48
+00:30:47,087 --> 00:30:49,979
+The burden of office is heavy, my friend.
+I remember when I was...
+公务担子很重，我的朋友。我记得我那时...
+
+49
+00:30:50,007 --> 00:30:51,440
 Alright. They've gone.
 好了，他们走了
 
-48
+50
 00:30:52,007 --> 00:30:55,606
-Astrid and Giles Kent were (quite) right.
+Astrid and Giles Kent were quite right.
 Salamander IS an evil man.
-Astrid 和 Giles Kent 是对的。Salamander 的确是邪恶的人
+Astrid 和 Giles Kent 说得很对。Salamander 的确是邪恶的人
 
-49
-00:30:55,607 --> 00:30:59,455
-- I can sense it from all the people here.
+51
+00:30:55,607 --> 00:30:59,355
+- I can somehow sense it from all the people here.
 - He's bad, all right.
 - 我从这里所有人那里都能感觉到  - 他是坏人，好吧
 
-50
-00:30:59,567 --> 00:31:03,321
+52
+00:30:59,447 --> 00:31:03,321
 He's had Denes arrested,
 and has Fedorin eating out of his hand.
 他把 Denes 抓了，让 Fedorin 在他手里吃食
 
-51
-00:31:03,487 --> 00:31:07,241
-- Why should he do that?
-- Replace an honest man with a weaker man,
-(/Remove the honese man and put a weaker man in his place)
-- 他怎么会这样做?  - 将一个诚实的人换成一个懦弱的人
-
-52
-00:31:07,407 --> 00:31:11,082
-but somehow have a hold on him, (That way Salamander can)
-take over the territory.
-然后想法抓住他的把柄，就可以夺走版图了
-
 53
+00:31:03,487 --> 00:31:04,841
+Why should he do that?
+他为什么要这样做?
+
+54
+00:31:04,987 --> 00:31:07,241
+Remove the honest man, and put a weaker man in his place
+除掉一个诚实的人，换一个懦弱的人顶他的位子
+
+55
+00:31:07,407 --> 00:31:11,082
+but somehow have a hold on him,
+That way Salamander can take over the territory.
+然后想法抓住他的把柄，用这个方法就可以夺走地盘了
+
+56
 00:31:11,247 --> 00:31:15,081
 I see - when everything's in a turmoil
 because of the earthquakes.
 我明白了 - 因为地震，一切都混乱了
 
-54
+57
 00:31:15,247 --> 00:31:17,363
-(Aye,) And that's lucky to say the least.
-说起来这还是幸运的fixme
+Aye, and that's lucky to say the least.
+是，至少可以说这还是幸运的(?)
 
-55
+58
 00:31:18,207 --> 00:31:24,237
 But you don't really believe that Salamander
 could cause earthquakes, do you?
 但你不是真的相信 Salamander 能制造地震吧，信吗？
 
-56
-00:31:40,187 --> 00:31:42,580
-I'm certain Salamander's (s/behind this/causing the earthquakes)
-我肯定 Salamander 是幕后黑手
+59
+00:31:40,187 --> 00:31:42,780
+I'm certain Salamander's causing the earthquakes, Doctor
+我确定是 Salamander 在制造地震，博士
 
-57
-00:31:42,687 --> 00:31:45,580
-(and I'm sure your friends) Jamie and Victoria will tell you how bad he (really) is.
-Jamie 和 Victoria 会告诉你他有多坏
+60
+00:31:42,887 --> 00:31:45,580
+and I'm sure your friends Jamie and Victoria
+will tell you how bad he really is.
+我肯定你的朋友 Jamie 和 Victoria 会告诉你他真的有多坏
 
-58
+61
 00:31:45,747 --> 00:31:47,465
 But why make earthquakes?
 但为什么制造地震呢？
 
-59
-00:31:47,627 --> 00:31:52,860
-Years ago, if a country wanted to invade another,
-it threw that country into confusion,
-(Years ago, Doctor, when one country wanted to invade another
-it set about attacking the confidence of that country,
-
-多年以前，如果一个国家打算入侵另外一个，就会让它陷入混乱
-
-60
-00:31:53,027 --> 00:31:56,906
-making it weak and ripe for take-over.
-(throwing it into confusion, making it weak. Then it was right for takeover)
-That's happening here.
-(Now, isn't that exactly what's happening here, only in a different way? )
-削弱它，等机会吞并。这里也是这种情况
-
-61
-00:31:57,067 --> 00:32:02,778
-(what) You're saying Salamander (is that Salamander) has found a way
-to harness the natural forces of the Earth.
-你是说 Salamander 找到了一种方法来利用地球的自然力量
-
 62
-00:32:02,947 --> 00:32:07,896
-That's (a little) difficult to accept.
-I'm not saying it's impossible, mind you.
-这很难让人接受。但我不是说这是不可能的，注意
+00:31:47,627 --> 00:31:52,060
+Years ago, when one country wanted to invade another,
+it set about attacking the confidence of that country,
+以前一个国家想要入侵另外一个，就会开始打击那个国家的自信
 
 63
+00:31:52,127 --> 00:31:54,906
+throwing it into confusion, making it weak. 
+Then it was right for take over.
+让它陷入混乱，削弱它，然后就可以吞并了
+
+64
+00:31:55,053 --> 00:31:56,906
+Now, isn't that exactly what's happening here, 
+only in a different way? 
+现在这里发生的不正是这种情况吗，只不过方法不一样罢了
+
+65
+00:31:57,067 --> 00:32:00,478
+What you're saying is that Salamander has found a way...
+你现在说的是 Salamander 找到了一种方法...
+
+66
+00:32:00,585 --> 00:32:02,774
+...to harness the natural forces of the Earth.
+...来利用地球的自然力量
+
+67
+00:32:02,947 --> 00:32:07,896
+That's a little difficult to accept.
+I'm not saying it's impossible, mind you.
+这有点难以让人接受。但我不是说这是不可能的，注意
+
+68
 00:32:09,347 --> 00:32:14,785
 You say it's coming from the research station.
 Salamander's research station, eh?
-你说这来自研究站，Salamander 的研究站，嗯？
-
-64
-00:32:14,947 --> 00:32:17,700
-That's what I believe, in spite of... Ssh! (wait a minute)
-我相信是这个，尽管...嘘！
-
-65
-00:32:20,867 --> 00:32:23,700
-In spite of (s/the fact/a number of reasons) he invented the sun-store (a brilliant advance)
-尽管他发明了日光存储器
-
-66
-00:32:23,867 --> 00:32:27,303
-(s/and directed/He found a way of directing) conserved energy to areas starved of sun.
-把存储的能量转到了日光匮乏的地区
-
-67
-00:32:27,467 --> 00:32:30,823
-- What made you suspicious?
-- The money he was spending ast the Research Station
-- 什么让你尝试了怀疑？  - 他在研究站所的钱
-
-68
-00:32:30,987 --> 00:32:35,060
-The materials involved, the food stores
-It didn't match the requisition orders.
-(It didn't make sense. I had all the papers, all the requisition orders)
-所涉及的物料, 食物存储。与合理订单的数量不符
+你说它来自研究站，Salamander 的研究站，嗯？
 
 69
-00:32:35,227 --> 00:32:38,503
-- (But) That's valuable evidence!
-- New orders appeared.
-(All destroyed, and new ones appeared...
-- 这证据很有价值  - 有新订单出现了
+00:32:14,947 --> 00:32:17,700
+That's what I believe, in spite of...
+Ssh! Wait a minute.
+我相信是这个，尽管...嘘！等一下
 
 70
-00:32:38,667 --> 00:32:42,296
-I was made out to be the criminal -
-by suggestion, of course.
-(All by suggestion, of course. I was discredited)
-而我就被安排成了犯罪分子 fixme
+00:32:20,867 --> 00:32:24,500
+In spite of a number of reasons,
+he invented the sun-store, a brilliant advance.
+尽管有其它原因, 他发明了日光存储器, 卓越的进步
 
 71
+00:32:24,597 --> 00:32:27,453
+He found a way of directing conserved energy
+to areas starved of sun.
+他找到了一个方法, 可以把存储的能量转到了日光匮乏的地区
+
+72
+00:32:27,567 --> 00:32:30,823
+- What made you suspicious?
+- The money he was spending ast the Research Station
+- 什么让你产生了怀疑？  - 他在研究站站上面花的钱
+
+73
+00:32:30,987 --> 00:32:33,560
+The materials involved, the food stores.
+It didn't make sense.
+所涉及的物料, 食物存储。都说不通
+
+74
+00:32:33,735 --> 00:32:37,032
+- I had all the papers, all the requisition orders.
+- But that's valuable evidence!
+- 我有所有的文件, 所有的订单  - 那就是宝贵的证据啊！
+
+75
+00:32:37,127 --> 00:32:40,503
+All destroyed, and new ones appeared...
+I was made out to be the criminal!
+都被销毁了．等新的材料出现时...我就变成了犯罪分子!
+
+76
+00:32:40,667 --> 00:32:42,996
+All by suggestion, of course. I was discredited.
+这都是有授意的, 肯定的．我名誉扫地了
+
+77
 00:32:43,287 --> 00:32:45,838
 I couldn't do it, Salamander. I couldn't do it.
 我干不了，Salamander，我干不了这事
 
-72
+78
 00:32:46,007 --> 00:32:48,919
 I stood there with this man's life in my hands.
 我站在那里，手里攥着这个人的性命
 
-73
+79
 00:32:49,087 --> 00:32:51,521
 This powder - I couldn't use it.
 这药粉 - 我下不了手
 
-74
+80
 00:32:51,687 --> 00:32:55,157
 I gave you the chance
 to become something. Somebody.
 我给了你机会让你成就点什么，成为一个人物
 
-75
+81
 00:32:55,327 --> 00:32:58,558
 - You failed to take it, huh
 - There must be some other way.
 - 但你没能接住, 哈?   - 肯定有其它的方法
 
-76
+82
 00:32:59,767 --> 00:33:03,601
 Of course, my friend. Don't worry.
 当然，我的朋友。别担心
 
-77
+83
 00:33:03,767 --> 00:33:05,678
 - What?  - Don't worry.
 - 什么？  - 别担心
 
-78
+84
 00:33:05,847 --> 00:33:07,840
 You try, you fail - so what?
 你努力了，然后失败了 - 那又怎样？
 
-79
-00:33:07,947 --> 00:33:09,840
+85
+00:33:07,947 --> 00:33:09,940
 The moon doesn't fall out of the sky!
 月亮又不会跑到天外面去！
 
-80
-00:33:10,007 --> 00:33:13,124
+86
+00:33:10,067 --> 00:33:13,124
 Come and sit down. Have a drink, huh?
 过来坐下。喝一小杯，哈？
 
-81
+87
 00:33:14,087 --> 00:33:17,443
 Cheer up. We'll find another way.
 振作起来。我们想别的办法
 
-82
+88
 00:33:17,607 --> 00:33:19,279
 I really did try.
 我真的尽力试过了
 
-83
+89
 00:33:19,447 --> 00:33:20,960
 Of course you did.
 当然你是
 
-84
-00:33:21,127 --> 00:33:22,719
+90
+00:33:21,427 --> 00:33:22,719
 Don't worry.
 别担心
 
-85
+91
 00:33:22,887 --> 00:33:24,957
 Forget it, huh?
 忘了它，哈？
 
-86
+92
 00:33:25,127 --> 00:33:27,721
 I have an alternative.
 我有个替代方案
 
-87
+93
 00:33:28,847 --> 00:33:30,280
 Your health.
 为你的健康
 
-88
+94
 00:33:31,847 --> 00:33:37,160
 I hope you will appreciate this wine.
 It's made for me especially in Alaska.
-我期望你喜欢这杯酒。这是在 Alaska 特意为我酿造的
+我期望你喜欢这杯酒。这是在阿拉斯加特意为我酿造的
 
-89
+95
 00:33:47,327 --> 00:33:49,602
 One chance, my friend.
-只有一次机会，我的朋友
+一次机会，我的朋友
 
-90
+96
 00:33:49,767 --> 00:33:51,917
 I said one chance!
 我说过只有一次机会！
 
-91
-00:33:52,087 --> 00:33:55,523
-(Some trouble in the kitchens, Leader.)
-The new man says he's seen someone
-in the kitchen gardens.
-那个新人说他在厨房花园看见了什么人
+97
+00:33:52,087 --> 00:33:53,823
+Some trouble in the kitchens, Leader.
+厨房出了点麻烦，领袖
 
-92
-00:33:55,687 --> 00:33:58,603
+98
+00:33:53,927 --> 00:33:55,703
+The new man says he's seen 
+someone in the kitchen gardens.
+那个新人说他在花园看见了什么人
+
+99
+00:33:55,787 --> 00:33:58,603
 Very well. Oh, see to that, will you?
 那好。哦，盯着点，行吗？
 
-93
+100
 00:33:58,807 --> 00:34:01,603
 Suicide, of course. Such a pity.
 自杀，当然是。好可惜
 
-94
+101
 00:34:03,647 --> 00:34:06,844
 - I can't see anything.
 - Over there by the trees!
 - 我看不到任何东西  - 在那边的树丛里！
 
-95
+102
 00:34:07,007 --> 00:34:09,186
 He's armed, too. Get down!
 他也有枪，趴下！
 
-96
+103
 00:34:09,207 --> 00:34:10,886
 I'm going out there. Stay down here.
 我去那边。蹲在这里
 
-97
-00:34:11,047 --> 00:34:14,642
+104
+00:34:11,047 --> 00:34:13,642
 When the rest of the guards come,
 send them after me.
 其它警卫过来后，让他们跟我来
 
-97
-00:34:14,747 --> 00:34:15,642
-(Yes, all right.)
+105
+00:34:13,747 --> 00:34:14,642
+Yes, all right.
 好, 没问题
 
-98
+106
 00:34:21,807 --> 00:34:23,363
 Astrid's going to get you away.
 Astrid 会把你弄走
 
-99
+107
 00:34:23,427 --> 00:34:27,136
 An attempt has been made to rescue this man.
-Take him to the car.
-有人试图救这个人。带他去车里
+Take him out to the car.
+有人试图救这个人。带他到外面车里去
 
-100
-00:34:27,687 --> 00:34:29,086
+108
+00:34:28,987 --> 00:34:30,286
 I'm sorry, Janos.
 抱歉，Janos
 
-101
-00:34:29,247 --> 00:34:30,680
+109
+00:34:30,747 --> 00:34:31,780
 Stop!
 站住！
 
-102
-00:34:31,447 --> 00:34:35,184
+110
+00:34:32,947 --> 00:34:35,984
 After them! Arrest that girl!
 去追他们！逮捕那个女孩儿！
 
-103
-00:34:35,247 --> 00:34:37,920
+111
+00:34:36,097 --> 00:34:38,440
 Well, we all seem to be here,
 好了，看来我们都在这里了
 
-104
-00:34:37,987 --> 00:34:40,918
+112
+00:34:38,637 --> 00:34:41,368
 except the third member of your escape committee.
 除了你那逃跑小组的第三个成员
 
-105
-00:34:41,087 --> 00:34:45,380
+113
+00:34:41,537 --> 00:34:45,960
 - What are you talking about?
-- You were seen (speaking) with a girl in the park.
-- 你在说什么？  - 有人看见你和一个女孩儿在园区
+- You were seen speaking with a girl in the park.
+- 你在说什么？  - 有人看见你和一个女孩儿在园区说话
 
-106
-00:34:45,487 --> 00:34:50,197
-- The one who tried to escape with Denes.
-- We don't even know her.
-- 那个打算同 Denes 一同逃跑的女孩儿  - 我们都不认识她
+114
+00:34:46,064 --> 00:34:48,103
+The one who tried to escape with Denes.
+那个试图同 Denes 一同逃跑的女孩儿
 
-107
-00:34:50,867 --> 00:34:52,346
+115
+00:34:48,197 --> 00:34:51,147
+We don't know anything about that. 
+We don't even know her.
+我们对此毫不知情，我们都不认识她
+
+116
+00:34:51,317 --> 00:34:55,796
 A diversion was caused.
-有人玩调虎离山
+There was no one outside the kitchen.
+有人玩调虎离山。厨房外面没有人
 
-108
-00:34:52,507 --> 00:34:57,456
-- There was no one outside the kitchen.
-- (Of course) There was, and there was shooting.
-- 厨房外面没有谁  - 有，还有人开枪
+117
+00:34:55,957 --> 00:34:57,906
+Of course there was someone, and there was shooting.
+当然有人，还有人开枪
 
-109
-00:34:57,627 --> 00:35:01,666
+118
+00:34:58,077 --> 00:35:02,116
 Three shots have been fired from this gun.
 It's yours, isn't it?
-这把枪开过三枪。这是你的，对吧？
+这把枪开过三发子弹。这是你的，对吧？
 
-110
-00:35:01,827 --> 00:35:04,705
+119
+00:35:02,277 --> 00:35:05,155
 Pretending to save my life was ingenious,
 假装救我的命，这很高明
 
-111
-00:35:04,867 --> 00:35:09,304
+120
+00:35:05,317 --> 00:35:09,754
 but ingenuity requires a constant stream of new ideas.
 但高明就需要后面一系列的新点子
 
-112
-00:35:09,467 --> 00:35:12,345
+121
+00:35:09,917 --> 00:35:12,795
 Yours seem to have dried up.
 而你似乎已经枯竭了
 
-113
-00:35:14,027 --> 00:35:18,896
+122
+00:35:14,477 --> 00:35:19,346
 I come to the Central Zone.
 An attempt is made on my life.
 我来到中央区，就有人试图要我的命
 
-114
-00:35:19,067 --> 00:35:21,456
+123
+00:35:19,517 --> 00:35:21,906
 Denes proves to be a traitor.
 Denes 被证明是一个叛徒
 
-115
-00:35:21,627 --> 00:35:24,699
+124
+00:35:22,077 --> 00:35:25,149
 Fedorin commits suicide because I uncover him.
 Fedorin 自杀了，因为我揭露了他
 
-116
-00:35:24,867 --> 00:35:28,303
+125
+00:35:25,317 --> 00:35:28,753
 Do your job, Bruce.
 You can see they're all in this.
 干你的活吧，Bruce。你可以看到他们都在这里面
 
-117
-00:35:29,467 --> 00:35:31,697
+126
+00:35:29,917 --> 00:35:32,147
 All right. Take them away.
 好吧。把他们带走
 
-118
-00:35:31,867 --> 00:35:34,176
+127
+00:35:32,317 --> 00:35:34,626
 Take your hands off me!
 把你的手拿开！
 
-119
-00:35:34,347 --> 00:35:36,781
-(Salamander) I think you should tell me what's going on.
-我想你会告诉我这都是怎么回事
+128
+00:35:34,797 --> 00:35:37,231
+Salamander, I think you should tell me what's going on.
+Salamander, 我想你应该告诉我这都是怎么回事
 
-120
-00:35:36,947 --> 00:35:39,666
-One minute you're working with McCrimmon...
-(One minute I see you with this lad McCrimmon,
-you're working together, the next minute...)
-前一分钟你与 McCrimmon 挺好
+129
+00:35:37,397 --> 00:35:39,516
+One minute I see you with this lad McCrimmon,
+前一分钟我看见你与这个 McCrimmon 在一起，
 
-121
-00:35:39,827 --> 00:35:44,776
+130
+00:35:39,606 --> 00:35:41,779
+- you're working together. The next minute...
 - I thought he saved my life.
-- (No,) I mean before that. In Kent's office.
-- 那是我以为他救了我的命  - 我是说之前，在 Kent 的办公室
+- 你们一起工作，下一分钟...  - 那是我以为他救了我的命
 
-122
-00:35:47,427 --> 00:35:49,064
+131
+00:35:41,877 --> 00:35:45,226
+No, I mean before that. In Kent's office.
+不，我是说那之前，在 Kent 的办公室
+
+132
+00:35:47,877 --> 00:35:50,414
 - What are you talking about?
-- 你在说些什么？
+- Well I saw you there.
+- 你在说些什么？  - 但我在那里见到你了
 
-123
-00:35:49,327 --> 00:35:52,181
-- I saw you there.
-- I haven't seen Kent in months.
-- 我在那里见到你了  - 我都好几个月没有见过 Kent 了
+133
+00:35:50,537 --> 00:35:52,631
+But I haven't seen Kent in months.
+但我都好几个月没有见过 Kent 了
 
-124
-00:35:52,327 --> 00:35:55,781
-(Yes,) You were with him(Kent), Fariah and the youngsters.
-你跟他在一起，还有 Fariah 和这几个年轻人 
+134
+00:35:52,777 --> 00:35:56,031
+Yes, you were with Kent, Fariah and the youngsters.
+你在，你Kent, Fariah 和这几个年轻人在一起
 
-125
-00:35:55,947 --> 00:35:59,462
+135
+00:35:56,137 --> 00:35:59,812
 I thought it was so curious,
-I spoke to Benik about it.
-(I spoke to your number two, Benik, about it.)
-我就觉得很奇怪，还同 Benik 谈过此事
+I spoke to your number two, Benik, about it.
+我就觉得很奇怪，还同你的二把手 Benik 谈过此事
 
-126
-00:35:59,627 --> 00:36:03,779
-- That's (really) the reason I came to this zone.
+136
+00:35:59,917 --> 00:36:04,229
+- That's really the reason I came to this zone.
 - But I tell you...
-- 这就是我来这个区的原因  - 但我告诉你
+- 这就是我来这个区的真正原因  - 但我告诉你...
 
-127
-00:36:03,947 --> 00:36:07,622
-(But I tell you.) I must get back to the research centre.
+137
+00:36:04,397 --> 00:36:08,072
+I must get back to the research centre.
 You will come with me.
 我必须回到研究中心去。你得跟我来
 
-128
-00:36:07,787 --> 00:36:09,778
+138
+00:36:08,237 --> 00:36:10,228
 It was you!
 那就是你!
 
-129
-00:36:11,227 --> 00:36:15,015
+139
+00:36:11,677 --> 00:36:15,465
 Or someone... like you?
-或者某个...很像你的人？
+或者，某个...很像你的人？
 
