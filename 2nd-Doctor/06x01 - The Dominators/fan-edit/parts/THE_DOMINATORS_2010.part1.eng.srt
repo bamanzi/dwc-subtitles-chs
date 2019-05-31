@@ -4,18 +4,16 @@
 
 2
 00:01:04,667 --> 00:01:07,101
-Is the local radiation
-completely absorbed?
+Is the local radiation completely absorbed?
 
 3
 00:01:07,187 --> 00:01:10,623
-Yes, its energy's been transferred
-to our fuel reserves.
+Yes, its energy's been transferred to our fuel reserves.
 
 4
 00:01:10,707 --> 00:01:14,017
--But we need much more.
--Of course. That is why we are here.
+- But we need much more.
+- Of course. That is why we are here.
 
 5
 00:01:14,107 --> 00:01:15,825
@@ -23,8 +21,7 @@ With respect, Navigator Rago,
 
 6
 00:01:15,907 --> 00:01:19,058
-I still consider
-we should have continued to Epsilon 4.
+I still consider we should have continued to Epsilon 4.
 
 7
 00:01:19,147 --> 00:01:22,344
@@ -32,8 +29,7 @@ I decided otherwise, Probationer Toba.
 
 8
 00:01:22,427 --> 00:01:24,304
-But this planet has never been
-fully surveyed.
+But this planet has never been fully surveyed.
 
 9
 00:01:24,387 --> 00:01:27,504
@@ -47,13 +43,13 @@ suitable for a workforce.
 
 11
 00:01:30,547 --> 00:01:34,335
-But the natives may not be suitable for
-slave labour. Suppose they're hostile?
+But the natives may not be suitable for slave labour.
+Suppose they're hostile?
 
 12
 00:01:34,427 --> 00:01:37,703
--If necessary, we shall destroy them.
--Yes, destroy them.
+- If necessary, we shall destroy them.
+- Yes, destroy them.
 
 13
 00:01:37,787 --> 00:01:42,497
@@ -62,7 +58,7 @@ Commence work on the preliminary survey.
 
 14
 00:01:42,587 --> 00:01:43,757
-Command accepted. 
+Command accepted.
 
 15
 00:01:46,387 --> 00:01:49,663
@@ -82,8 +78,8 @@ Oh, yes. Oh, yes.
 
 19
 00:02:02,907 --> 00:02:07,059
--Are you still feeling tired, Doctor?
--Yes, just a little bit weary, Jamie.
+- Are you still feeling tired, Doctor?
+- Yes, just a little bit weary, Jamie.
 
 20
 00:02:07,147 --> 00:02:08,546
@@ -91,13 +87,12 @@ It's a very exhausting business
 
 21
 00:02:08,627 --> 00:02:10,822
-projecting all those mental images,
-you know.
+projecting all those mental images, you know.
 
 22
 00:02:10,907 --> 00:02:14,263
--You need a good rest, Doctor.
--Yes, we all do. A nice holiday.
+- You need a good rest, Doctor.
+- Yes, we all do. A nice holiday.
 
 23
 00:02:14,347 --> 00:02:15,939
@@ -123,8 +118,7 @@ I've heard that one before.
 
 28
 00:02:27,547 --> 00:02:29,822
-And there won't be any Cybermen
-or Daleks, will there?
+And there won't be any Cybermen or Daleks, will there?
 
 29
 00:02:29,907 --> 00:02:33,377
@@ -145,8 +139,7 @@ Quarks, destroy the alien vessel.
 
 33
 00:02:56,347 --> 00:02:58,941
-Did you say these people
-were peaceful, Doctor?
+Did you say these people were peaceful, Doctor?
 
 34
 00:02:59,027 --> 00:03:04,260
@@ -159,13 +152,12 @@ Aye, it sounded like it!
 
 36
 00:03:06,027 --> 00:03:08,222
--Did the explosion cause this?
--Oh, no, no, no.
+- Did the explosion cause this?
+- Oh, no, no, no.
 
 37
 00:03:08,307 --> 00:03:10,741
-This was caused by an explosion
-some time ago, Jamie.
+This was caused by an explosion some time ago, Jamie.
 
 38
 00:03:10,827 --> 00:03:12,943
@@ -201,23 +193,20 @@ You are a probational navigator.
 
 46
 00:03:28,627 --> 00:03:31,619
-Your first task is to investigate.
-Second, assess.
+Your first task is to investigate. Second, assess.
 
 47
 00:03:31,707 --> 00:03:34,141
-You allowed your instinct
-for destruction
+You allowed your instinct for destruction
 
 48
 00:03:34,227 --> 00:03:36,616
--to interfere with your primary tasks.
--Not accepted. I did...
+- to interfere with your primary tasks.
+- Not accepted. I did...
 
 49
 00:03:36,707 --> 00:03:40,416
-How can you assess
-that which does not exist?
+How can you assess that which does not exist?
 
 50
 00:03:40,507 --> 00:03:42,304
@@ -229,22 +218,20 @@ Analysis complete.
 
 52
 00:03:44,067 --> 00:03:47,742
-Atomic energy released on this island
-17.2 decades ago.
+Atomic energy released on this island 17.2 decades ago.
 
 53
-00:03:47,827 --> 00:03:50,136
+00:03:47,827 --> 00:03:52,336
 A long time. Strange that this should be
+the only trace of radiation on this planet.
 
 54
-00:03:50,227 --> 00:03:53,902
-the only trace of radiation
-on this planet. Continue.
+00:03:52,427 --> 00:03:53,902
+Continue.
 
 55
 00:03:53,987 --> 00:03:56,899
-Drilling sites have now been
-located and marked.
+Drilling sites have now been located and marked.
 
 56
 00:03:56,987 --> 00:03:58,503
@@ -262,8 +249,8 @@ I think I did.
 
 59
 00:04:07,387 --> 00:04:09,821
--Yes, I'm sure I did.
--Hey, what are you two on about?
+- Yes, I'm sure I did.
+- Hey, what are you two on about?
 
 60
 00:04:09,907 --> 00:04:11,135
@@ -280,8 +267,7 @@ Yes. Yes, I think you're right, Zoe.
 
 63
 00:04:16,867 --> 00:04:19,745
--Test islands?
--For atomic weapons, Jamie.
+- Test islands?  - For atomic weapons, Jamie.
 
 64
 00:04:19,827 --> 00:04:22,625
@@ -289,8 +275,8 @@ But why on Dulkis?
 
 65
 00:04:22,707 --> 00:04:25,505
-They've outlawed war. No,
-there must be some other explanation.
+They've outlawed war.
+No, there must be some other explanation.
 
 66
 00:04:25,587 --> 00:04:28,624
@@ -307,8 +293,8 @@ TOBA: This is the eastern drilling site.
 
 69
 00:04:39,627 --> 00:04:43,336
--What is that?
--Just a crude, box-like structure.
+- What is that?
+- Just a crude, box-like structure.
 
 70
 00:04:43,427 --> 00:04:45,543
@@ -332,43 +318,37 @@ Then it would be wasteful to destroy it.
 
 75
 00:04:55,097 --> 00:04:58,328
--Oh, my beautiful coat is all wet.
--Ridiculous.
+- Oh, my beautiful coat is all wet.
+- Ridiculous.
 
 76
 00:04:58,417 --> 00:05:00,294
-All this is totally unnecessary,
-you know.
+All this is totally unnecessary, you know.
 
 77
 00:05:00,377 --> 00:05:02,095
-There's not a trace of
-contamination on us.
+There's not a trace of contamination on us.
 
 78
 00:05:02,177 --> 00:05:04,168
-Yes, so I've noticed.
-It's odd, isn't it?
+Yes, so I've noticed. It's odd, isn't it?
 
 79
 00:05:04,257 --> 00:05:07,135
--What's odd about it?
--Well, the whole island is radioactive.
+- What's odd about it?
+- Well, the whole island is radioactive.
 
 80
 00:05:07,217 --> 00:05:10,653
-It has been for 172 years.
-You must know that.
+It has been for 172 years. You must know that.
 
 81
 00:05:10,737 --> 00:05:12,773
--Well, it isn't now.
--Of course it is.
+- Well, it isn't now.  - Of course it is.
 
 82
 00:05:12,857 --> 00:05:13,972
--Have you checked?
--TEEL: Well, not yet.
+- Have you checked?  - TEEL: Well, not yet.
 
 83
 00:05:14,057 --> 00:05:15,126
@@ -388,13 +368,12 @@ Well, if I were you, I'd take them now.
 Oh, my beautiful trousers.
 
 87
-00:05:22,857 --> 00:05:24,336
+00:05:22,857 --> 00:05:24,736
 I wasn't aware that anyone else
 
 88
-00:05:24,417 --> 00:05:27,329
-had permission to work on
-the island except ourselves.
+00:05:24,857 --> 00:05:27,336
+had permission to work on the island except ourselves.
 
 89
 00:05:27,417 --> 00:05:29,328
@@ -402,8 +381,7 @@ Tell me exactly what has been happening.
 
 90
 00:05:29,417 --> 00:05:32,727
-But I was hoping
-you were going to tell us that.
+But I was hoping you were going to tell us that.
 
 91
 00:05:32,817 --> 00:05:34,648
@@ -423,8 +401,8 @@ But atomic weapons on Dulkis?
 
 95
 00:05:41,137 --> 00:05:44,209
--I thought war had been abolished here.
--It has.
+- I thought war had been abolished here.
+- It has.
 
 96
 00:05:44,297 --> 00:05:47,050
@@ -442,32 +420,28 @@ Well, as Jamie was about to say,
 
 99
 00:05:53,297 --> 00:05:55,731
-we come from a different world,
-from a different time.
+we come from a different world, from a different time.
 
 100
 00:05:55,817 --> 00:05:58,092
-Not from this world?
-Really, that's very interesting.
+Not from this world? Really, that's very interesting.
 
 101
 00:05:58,177 --> 00:06:00,486
 I must note that in my daily report.
 
 102
-00:06:00,577 --> 00:06:03,250
--Well, you don't sound very surprised.
--Well, it does explain
+00:06:00,577 --> 00:06:01,950
+Well, you don't sound very surprised.
 
 103
-00:06:03,337 --> 00:06:06,010
-how you came to expose yourself
-to the dangers on this island.
+00:06:02,037 --> 00:06:06,010
+Well, it does explain how you came to
+expose yourself to the dangers on this island.
 
 104
 00:06:06,097 --> 00:06:08,327
-No Dulcian would do
-such a foolish thing.
+No Dulcian would do such a foolish thing.
 
 105
 00:06:08,417 --> 00:06:09,645
@@ -485,8 +459,8 @@ you were a peaceful race.
 
 108
 00:06:17,297 --> 00:06:19,492
--So you've been here before?
--Well, yes.
+- So you've been here before?
+- Well, yes.
 
 109
 00:06:19,577 --> 00:06:22,853
@@ -505,8 +479,7 @@ The second council under Director Olvin.
 
 112
 00:06:30,577 --> 00:06:32,886
-He banned the manufacture
-of all weapons.
+He banned the manufacture of all weapons.
 
 113
 00:06:32,977 --> 00:06:36,094
@@ -514,540 +487,513 @@ Then what are you doing letting off
 atomic devices all over the place?
 
 114
-00:06:36,177 --> 00:06:41,615
+00:06:36,177 --> 00:06:38,915
 Oh! Oh, there was only one explosion.
-Perhaps my pupil, Kando, should explain.
 
 115
-00:06:41,697 --> 00:06:44,165
-Let's see how much
-you remember, my dear.
+00:06:39,017 --> 00:06:41,615
+Perhaps my pupil, Kando, should explain.
 
 116
-00:06:44,257 --> 00:06:46,771
--Um... Oh, yes.
--The seventh council...
+00:06:41,697 --> 00:06:44,165
+Let's see how much you remember, my dear.
 
 117
-00:06:46,857 --> 00:06:50,452
-The seventh council under Director Manus
-initiated research
+00:06:44,257 --> 00:06:46,771
+- Um... Oh, yes.  - The seventh council...
 
 118
-00:06:50,537 --> 00:06:53,256
-which lead to the development
-of atomic energy.
+00:06:46,857 --> 00:06:49,452
+The seventh council under Director Manus
 
 119
-00:06:53,337 --> 00:06:56,249
--The des...
--BALAN: Destructive capabilities.
+00:06:49,537 --> 00:06:53,256
+initiated research which lead to
+the development of atomic energy.
 
 120
+00:06:53,337 --> 00:06:56,249
+- The des...
+- BALAN: Destructive capabilities.
+
+121
 00:06:56,337 --> 00:07:00,967
 The destructive capabilities of this
 were immediately apparent and...
 
-121
+122
 00:07:01,057 --> 00:07:02,092
 BALAN: This island...
 
-122
+123
 00:07:02,177 --> 00:07:05,931
 And this island was used
 to test an explosive device,
 
-123
+124
 00:07:06,017 --> 00:07:08,485
 the results of which can be seen today.
 
-124
+125
 00:07:08,577 --> 00:07:12,968
 Thereafter, all further research
 into this type of energy was prohibited,
 
-125
+126
 00:07:13,057 --> 00:07:17,812
 and the island kept as both a museum
 and warning for future generations.
 
-126
-00:07:17,897 --> 00:07:20,013
-Oh, well,
-she certainly does her homework.
-
 127
-00:07:20,097 --> 00:07:24,568
-I see.
-Then this is an atomic test site?
+00:07:17,897 --> 00:07:20,013
+Oh, well, she certainly does her homework.
 
 128
+00:07:20,097 --> 00:07:24,568
+I see. Then this is an atomic test site?
+
+129
 00:07:24,657 --> 00:07:28,696
 Oh, yes. You see, students...
 That was really very good, Kando.
 
-129
+130
 00:07:28,777 --> 00:07:31,655
 Students are brought here
 to test the radiation level
 
-130
-00:07:31,737 --> 00:07:34,046
-and observe the effect
-on the vegetation.
-
 131
+00:07:31,737 --> 00:07:34,046
+and observe the effect on the vegetation.
+
+132
 00:07:34,137 --> 00:07:39,655
 And of course, to see for themselves
 the horrors of atomic destruction.
 
-132
-00:07:39,737 --> 00:07:43,412
--So there should be radioactivity here?
--But there isn't.
-
 133
+00:07:39,737 --> 00:07:43,412
+- So there should be radioactivity here?
+- But there isn't.
+
+134
 00:07:43,497 --> 00:07:46,569
 No. I wonder why?
 
-134
+135
 00:07:48,017 --> 00:07:50,295
 Explain.
 
-135
-00:07:50,377 --> 00:07:52,891
-Part of this collection
-of crude weapons.
-
 136
+00:07:50,377 --> 00:07:52,891
+Part of this collection of crude weapons.
+
+137
 00:07:52,977 --> 00:07:54,012
 Continue.
 
-137
-00:07:54,097 --> 00:07:57,453
-This one operates
-on the early laser principle.
-
 138
+00:07:54,097 --> 00:07:57,453
+This one operates on the early laser principle.
+
+139
 00:07:57,537 --> 00:07:59,414
 Fire mechanism here.
 
-139
-00:08:03,177 --> 00:08:06,169
-Self-charging power cell.
-Limited range.
-
 140
+00:08:03,177 --> 00:08:06,169
+Self-charging power cell. Limited range.
+
+141
 00:08:06,257 --> 00:08:08,646
 Is this all you notice?
 
-141
+142
 00:08:08,737 --> 00:08:10,489
 The other weapons are just as simple.
 
-142
-00:08:10,577 --> 00:08:12,647
-There's nothing here
-that could threaten us.
-
 143
-00:08:12,737 --> 00:08:17,049
--These things are so old that if...
--Precisely. Old.
+00:08:10,577 --> 00:08:12,647
+There's nothing here that could threaten us.
 
 144
+00:08:12,737 --> 00:08:17,049
+- These things are so old that if...
+- Precisely. Old.
+
+145
 00:08:17,137 --> 00:08:20,209
 At last, you casually mention a fact
 of major significance.
 
-145
+146
 00:08:20,297 --> 00:08:22,492
 Has it not occurred to you,
 Probationer Toba,
 
-146
+147
 00:08:22,577 --> 00:08:25,535
 that other weapons
 must have been developed since these?
 
-147
+148
 00:08:25,617 --> 00:08:28,336
 Agreed, Navigator Rago.
 
-148
+149
 00:08:29,577 --> 00:08:32,728
 DOCTOR: But why do you think
 we might be responsible? Thank you.
 
-149
-00:08:32,817 --> 00:08:35,411
-Well, it is conceivable
-that your craft, the...
-
 150
-00:08:35,497 --> 00:08:36,532
--Tardis.
--...Tardis,
+00:08:32,817 --> 00:08:35,411
+Well, it is conceivable that your craft, the...
 
 151
+00:08:35,497 --> 00:08:36,532
+- Tardis.  -...Tardis,
+
+152
 00:08:36,617 --> 00:08:38,175
 could have attracted the radioactivity
 
-152
-00:08:38,257 --> 00:08:40,851
-in much the same way
-as a magnet attracts metal.
-
 153
+00:08:38,257 --> 00:08:40,851
+in much the same way as a magnet attracts metal.
+
+154
 00:08:40,937 --> 00:08:42,689
 (CHUCKLES) Oh, it would have registered.
 
-154
-00:08:42,777 --> 00:08:46,406
--Do spacecraft often land in Dulkis?
--As far as I know, you are the first.
-
 155
+00:08:42,777 --> 00:08:46,406
+- Do spacecraft often land in Dulkis?
+- As far as I know, you are the first.
+
+156
 00:08:46,497 --> 00:08:49,216
 I must say, then,
 you don't seem the least bit surprised.
 
-156
+157
 00:08:49,297 --> 00:08:51,174
 We are taught to accept fact,
 
-157
+158
 00:08:51,257 --> 00:08:54,852
 it being foolish to contemplate fantasy
 in the face of reality.
 
-158
+159
 00:08:54,937 --> 00:08:57,656
 You are here. This is fact.
 
-159
-00:08:57,737 --> 00:08:59,932
-That you come from another planet
-I accept,
-
 160
-00:09:00,017 --> 00:09:02,053
-because I have no other means
-of proving it.
+00:08:57,737 --> 00:08:59,932
+That you come from another planet I accept,
 
 161
-00:09:02,137 --> 00:09:04,048
-TEEL: Not a sign of radiation.
-BALAN: There.
+00:09:00,017 --> 00:09:02,053
+because I have no other means of proving it.
 
 162
+00:09:02,137 --> 00:09:04,048
+- TEEL: Not a sign of radiation.
+- BALAN: There.
+
+163
 00:09:04,137 --> 00:09:05,411
 But look what I found.
 
-163
-00:09:05,497 --> 00:09:07,294
--Cully, what are you...
--Never mind that now.
-
 164
+00:09:05,497 --> 00:09:07,294
+- Cully, what are you...
+- Never mind that now.
+
+165
 00:09:07,377 --> 00:09:08,651
 We've got to get back to the capital.
 
-165
+166
 00:09:08,737 --> 00:09:10,967
 Oh, it's impossible.
 We haven't even begun our survey yet.
 
-166
+167
 00:09:11,057 --> 00:09:12,285
 Well, if you don't, you'll be wiped out.
 
-167
-00:09:12,377 --> 00:09:14,732
-He claims to have seen robots
-and spacecraft.
-
 168
-00:09:14,817 --> 00:09:17,490
--You didn't tell me you brought robots.
--I haven't.
+00:09:12,377 --> 00:09:14,732
+He claims to have seen robots and spacecraft.
 
 169
-00:09:17,577 --> 00:09:19,852
-Look, I brought three people here
-in my ship.
+00:09:14,817 --> 00:09:17,490
+- You didn't tell me you brought robots.
+- I haven't.
 
 170
+00:09:17,577 --> 00:09:19,852
+Look, I brought three people here in my ship.
+
+171
 00:09:19,937 --> 00:09:21,814
 They've been killed by those creatures.
 So if you don't...
 
-171
+172
 00:09:21,897 --> 00:09:22,932
 (LAUGHING)
 
-172
-00:09:23,017 --> 00:09:25,611
--ZO�: What's so funny?
--Now, I see. Ajest.
-
 173
+00:09:23,017 --> 00:09:25,611
+- ZOE: What's so funny?
+- Now, I see. Ajest.
+
+174
 00:09:25,697 --> 00:09:28,416
 Three people. So you come
 from another world, do you, Doctor?
 
-174
-00:09:28,497 --> 00:09:30,010
--Hey, I don't think...
--Really, Cully,
-
 175
+00:09:28,497 --> 00:09:30,010
+- Hey, I don't think...
+- Really, Cully,
+
+176
 00:09:30,097 --> 00:09:32,975
 you and your friends might at least
 have agreed upon the same story.
 
-176
-00:09:33,057 --> 00:09:36,811
-What?
-But these aren't my three, you old...
-
 177
+00:09:33,057 --> 00:09:36,811
+What? But these aren't my three, you old...
+
+178
 00:09:36,897 --> 00:09:37,886
 Oh, what's the use?
 
-178
-00:09:37,977 --> 00:09:39,251
--JAMIE: What was he talking about?
--I don't know.
-
 179
+00:09:37,977 --> 00:09:39,251
+- JAMIE: What was he talking about?
+- I don't know.
+
+180
 00:09:39,337 --> 00:09:41,726
 Look, I've never seen
 this gentleman before in my life.
 
-180
+181
 00:09:41,817 --> 00:09:44,411
 Cully, you had no right to bring
 these people here without permission,
 
-181
+182
 00:09:44,497 --> 00:09:47,011
 even if you are the son
 of the director of the council.
 
-182
+183
 00:09:47,097 --> 00:09:48,416
 Well, go on, then.
 Why don't you call him up?
 
-183
+184
 00:09:48,497 --> 00:09:51,375
 At least he's not as stupid as you are.
 
-184
-00:09:51,457 --> 00:09:54,608
--You say you've seen a spacecraft?
--I've told you, haven't I?
-
 185
-00:09:54,697 --> 00:09:56,528
-And robots.
-Well, at least I think they were robots.
+00:09:51,457 --> 00:09:54,608
+- You say you've seen a spacecraft?
+- I've told you, haven't I?
 
 186
-00:09:56,617 --> 00:09:58,573
-What exactly did
-this spacecraft look like?
+00:09:54,697 --> 00:09:56,528
+And robots. Well, at least I think
+they were robots.
 
 187
+00:09:56,617 --> 00:09:58,573
+What exactly did this spacecraft look like?
+
+188
 00:09:58,657 --> 00:10:01,376
 Well, it's large and circular
 and a sort of silvery colour.
 
-188
+189
 00:10:01,457 --> 00:10:03,209
 That means it can't be the Tardis.
 
-189
+190
 00:10:03,297 --> 00:10:05,970
 Are you sure it wasn't square,
 like a large wooden box?
 
-190
+191
 00:10:06,057 --> 00:10:07,888
 No, no, that's not the spacecraft.
 
-191
+192
 00:10:07,977 --> 00:10:11,413
 No, the box is where
 those aliens have made a sort of mark,
 
-192
+193
 00:10:11,497 --> 00:10:12,646
 a five-pointed star.
 
-193
+194
 00:10:12,737 --> 00:10:15,331
 They were examining it just now.
 Talking about destroying it.
 
-194
-00:10:15,417 --> 00:10:16,486
--What?
--What?
-
 195
-00:10:16,577 --> 00:10:17,805
--Jamie, we better go and see.
--Come on.
+00:10:15,417 --> 00:10:16,486
+- What?  - What?
 
 196
+00:10:16,577 --> 00:10:17,805
+- Jamie, we better go and see.
+- Come on.
+
+197
 00:10:17,897 --> 00:10:19,012
 You're wasting your time.
 
-197
-00:10:19,097 --> 00:10:20,849
-I prefer to make up my own mind,
-thank you.
-
 198
+00:10:19,097 --> 00:10:20,849
+I prefer to make up my own mind, thank you.
+
+199
 00:10:20,937 --> 00:10:22,655
 Jamie. Are you coming, Zoe?
 
-199
-00:10:22,737 --> 00:10:24,329
--No, I think I'll stay here.
--Right.
-
 200
-00:10:24,417 --> 00:10:25,985
--Come on, then.
--We shan't be a minute.
+00:10:22,737 --> 00:10:24,329
+- No, I think I'll stay here.  - Right.
 
 201
+00:10:24,417 --> 00:10:25,985
+- Come on, then.
+- We shan't be a minute.
+
+202
 00:10:26,537 --> 00:10:29,370
 Commence work on preparing the sites
 of the outer bore hole.
 
-202
-00:10:29,457 --> 00:10:32,290
--At once, Navigator Rago.
--Send this message to Fleet Leader.
-
 203
-00:10:32,377 --> 00:10:34,572
-"Materials located.
-Detailed report follows."
+00:10:29,457 --> 00:10:32,290
+- At once, Navigator Rago.
+- Send this message to Fleet Leader.
 
 204
+00:10:32,377 --> 00:10:34,572
+"Materials located. Detailed report follows."
+
+205
 00:10:34,657 --> 00:10:36,409
 Command accepted.
 
-205
-00:10:38,057 --> 00:10:39,570
-JAMIE: At least they haven't
-harmed the Tardis.
-
 206
+00:10:38,057 --> 00:10:39,570
+JAMIE: At least they haven't harmed the Tardis.
+
+207
 00:10:39,657 --> 00:10:40,806
 DOCTOR: That's a relief.
 
-207
+208
 00:10:40,897 --> 00:10:42,489
 Jamie, come and have a look at this.
 It's interesting.
 
-208
-00:10:42,577 --> 00:10:43,771
--Look. See.
--What?
-
 209
+00:10:42,577 --> 00:10:43,771
+- Look. See. - What?
+
+210
 00:10:43,857 --> 00:10:44,926
 What's so interesting about that?
 
-210
+211
 00:10:45,017 --> 00:10:47,292
 Well, I think it must be
 some sort of survey mark.
 
-211
+212
 00:10:47,377 --> 00:10:48,890
 Very likely.
 
-212
+213
 00:10:48,977 --> 00:10:50,569
 Jamie, look.
 
-213
-00:10:51,817 --> 00:10:55,412
--Some sort of tracks.
--So they are.
-
 214
+00:10:51,817 --> 00:10:55,412
+- Some sort of tracks.  - So they are.
+
+215
 00:10:57,137 --> 00:10:59,207
 We'll follow them, shall we?
 
-215
+216
 00:11:13,737 --> 00:11:15,932
 Oh, look, I think we'd better get back.
 
-216
-00:11:16,017 --> 00:11:18,406
-Zoe will be wondering
-what's happening...
-
 217
+00:11:16,017 --> 00:11:18,406
+Zoe will be wondering what's happening...
+
+218
 00:11:18,497 --> 00:11:21,933
 Well, this is interesting. Yes.
 
-218
+219
 00:11:22,017 --> 00:11:27,933
 Obviously an interstellar spaceship
 of considerably advanced design.
 
-219
+220
 00:11:29,217 --> 00:11:32,095
 Oh, no. You're not thinking
 what I think you're thinking, are you?
 
-220
+221
 00:11:32,177 --> 00:11:34,930
 That, I think, Jamie, depends
 on what you think I am thinking.
 
-221
+222
 00:11:35,017 --> 00:11:36,530
 Oh.
 
-222
-00:11:36,617 --> 00:11:38,653
--Hey, Doctor.
--Stop that, Jamie.
-
 223
-00:11:38,737 --> 00:11:39,886
--Doctor.
--Jamie, don't do it.
+00:11:36,617 --> 00:11:38,653
+- Hey, Doctor. - Stop that, Jamie.
 
 224
-00:11:39,977 --> 00:11:42,172
--Doctor, look. Look.
--Oh, my word.
+00:11:38,737 --> 00:11:39,886
+- Doctor. - Jamie, don't do it.
 
 225
+00:11:39,977 --> 00:11:42,172
+- Doctor, look. Look.  - Oh, my word.
+
+226
 00:11:42,257 --> 00:11:46,455
 QUARK: <i>Do not move. Do not move.</i>
 
-226
+227
 00:11:46,537 --> 00:11:48,846
 <i>Next task?</i>
 
-227
+228
 00:11:48,937 --> 00:11:51,497
 <i>Shall we destroy?</i>
 
-228
+229
 00:11:51,577 --> 00:11:53,807
 <i>Shall we destroy?</i>
 

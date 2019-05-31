@@ -16,18 +16,18 @@ Both of you stand by that wall.
 
 5
 00:12:08,907 --> 00:12:10,545
--I will not.
--Oh, now, Jamie...
+- I will not.
+- Oh, now, Jamie...
 
 6
 00:12:10,627 --> 00:12:13,460
--Oh, no. They're not going to...
--We're meant to be obeyed.
+- Oh, no. They're not going to...
+- We're meant to be obeyed.
 
 7
 00:12:13,547 --> 00:12:15,697
--Not by me, you're not.
--DOCTOR: Jamie!
+- Not by me, you're not.
+- DOCTOR: Jamie!
 
 8
 00:12:16,667 --> 00:12:19,420
@@ -60,13 +60,11 @@ What's he going to do with us?
 
 15
 00:12:40,027 --> 00:12:43,463
-Alien races are occasionally
-of use to us.
+Alien races are occasionally of use to us.
 
 16
 00:12:43,547 --> 00:12:46,459
-I intend to probe
-your physiological makeup.
+I intend to probe your physiological makeup.
 
 17
 00:12:46,547 --> 00:12:47,775
@@ -74,8 +72,8 @@ Do what?
 
 18
 00:12:48,307 --> 00:12:51,982
--Doctor, can you not do anything?
--Don't struggle, Jamie. Keep still.
+- Doctor, can you not do anything?
+- Don't struggle, Jamie. Keep still.
 
 19
 00:12:52,067 --> 00:12:55,139
@@ -83,8 +81,7 @@ Toba. Quarks, attach force units.
 
 20
 00:13:00,467 --> 00:13:02,583
--Activate.
--(WARBLING)
+- Activate. -(WARBLING)
 
 21
 00:13:02,667 --> 00:13:04,066
@@ -93,6 +90,7 @@ RAGO: Visor.
 22
 00:13:07,067 --> 00:13:09,740
 Transmatter focus probe.
+fixme
 
 23
 00:13:18,387 --> 00:13:20,457
@@ -109,13 +107,12 @@ could be marginally useful.
 
 26
 00:13:28,627 --> 00:13:32,461
--Vulnerable, only one heart.
--TOBA: Intelligence?
+- Vulnerable, only one heart.
+- TOBA: Intelligence?
 
 27
 00:13:33,907 --> 00:13:38,139
-A simple brain.
-Signs of recent rapid learning.
+A simple brain. Signs of recent rapid learning.
 
 28
 00:13:38,227 --> 00:13:40,263
@@ -123,8 +120,7 @@ Still, somewhat crude.
 
 29
 00:13:40,347 --> 00:13:43,464
-Shall I prepare the other specimen
-for scrutiny?
+Shall I prepare the other specimen for scrutiny?
 
 30
 00:13:43,547 --> 00:13:46,505
@@ -136,28 +132,25 @@ Conserve power.
 
 32
 00:13:55,667 --> 00:13:58,818
--TOBA: Are they dangerous?
--No, they are physically inferior.
+- TOBA: Are they dangerous?
+- No, they are physically inferior.
 
 33
 00:13:58,907 --> 00:14:01,296
--So we destroy them?
--No.
+- So we destroy them?  - No.
 
 34
 00:14:01,387 --> 00:14:04,299
--It is possible we may use them.
--What for?
+- It is possible we may use them.
+- What for?
 
 35
 00:14:04,387 --> 00:14:06,025
--Workforce.
--We've got the Quarks.
+- Workforce.  - We've got the Quarks.
 
 36
 00:14:06,107 --> 00:14:08,496
-We must conserve their power,
-you know that.
+We must conserve their power, you know that.
 
 37
 00:14:08,587 --> 00:14:10,418
@@ -191,13 +184,12 @@ if all four of us went together?
 
 44
 00:14:32,347 --> 00:14:34,941
--Travel capsules only take two.
--Number one ready.
+- Travel capsules only take two.
+- Number one ready.
 
 45
 00:14:35,027 --> 00:14:36,938
-There's nothing to be afraid of,
-you know.
+There's nothing to be afraid of, you know.
 
 46
 00:14:37,027 --> 00:14:39,382
@@ -229,8 +221,7 @@ I see. Frightened I might disappear, eh?
 
 52
 00:14:55,667 --> 00:14:57,419
-Well, it has been known,
-hasn't it, Cully?
+Well, it has been known, hasn't it, Cully?
 
 53
 00:14:57,507 --> 00:14:59,862
@@ -239,23 +230,21 @@ this time, though, wouldn't it?
 
 54
 00:15:06,127 --> 00:15:08,482
-And if we are to use
-these Dulcians as slaves,
+And if we are to use these Dulcians as slaves,
 
 55
 00:15:08,567 --> 00:15:11,127
-there are certain qualities
-you must look for.
+there are certain qualities you must look for.
 
 56
 00:15:11,207 --> 00:15:14,677
-Obedience, strength, sufficient
-intelligence to make them of use,
+Obedience, strength, sufficient intelligence
+to make them of use,
 
 57
 00:15:14,767 --> 00:15:16,883
-but not so much as to make
-them dangerous. Is that clear?
+but not so much as to make them dangerous.
+Is that clear?
 
 58
 00:15:16,967 --> 00:15:18,002
@@ -272,8 +261,7 @@ for some sort of test.
 
 61
 00:15:23,687 --> 00:15:26,076
--Test? What for?
--I don't know.
+- Test? What for?  - I don't know.
 
 62
 00:15:26,167 --> 00:15:29,159
@@ -291,28 +279,24 @@ Yes. Or how stupid.
 
 65
 00:15:35,687 --> 00:15:37,917
-I wonder which is
-the more important to them?
+I wonder which is the more important to them?
 
 66
 00:15:38,127 --> 00:15:41,403
-Well, then, Zoe,
-what were you doing on the island?
+Well, then, Zoe, what were you doing on the island?
 
 67
 00:15:41,487 --> 00:15:44,047
-Well, nothing, really,
-just looking around.
+Well, nothing, really, just looking around.
 
 68
 00:15:44,127 --> 00:15:48,245
--But didn't you know it was dangerous?
--No. At least not at first.
+- But didn't you know it was dangerous?
+- No. At least not at first.
 
 69
 00:15:48,967 --> 00:15:52,596
-Oh, Cully, how can
-your conscience allow you
+Oh, Cully, how can your conscience allow you
 
 70
 00:15:52,687 --> 00:15:55,997
@@ -321,68 +305,60 @@ to such dangers?
 
 71
 00:15:56,087 --> 00:15:58,760
--But I didn't take her to the island.
--Oh, nonsense.
+- But I didn't take her to the island.
+- Oh, nonsense.
 
 72
 00:15:58,847 --> 00:16:02,681
-I know all about
-Cully's Adventures Unlimited.
+I know all about Cully's Adventures Unlimited.
 
 73
 00:16:02,767 --> 00:16:05,645
--You know, but why didn't you...
--Well, you weren't doing any harm.
+- You know, but why didn't you...
+- Well, you weren't doing any harm.
 
 74
 00:16:05,727 --> 00:16:07,922
--At least we thought you weren't.
--But it's illegal.
+- At least we thought you weren't.
+- But it's illegal.
 
 75
 00:16:08,007 --> 00:16:11,317
-To prosecute would have
-given you open publicity
+To prosecute would have given you open publicity
 
 76
 00:16:11,407 --> 00:16:14,524
-and it wouldn't have reflected
-very well on me, either.
+and it wouldn't have reflected very well on me, either.
 
 77
 00:16:14,607 --> 00:16:17,724
-I see. Why can't I be treated
-as an individual
+I see. Why can't I be treated as an individual
 
 78
 00:16:17,807 --> 00:16:20,640
-and not always as the son
-of the Director?
+and not always as the son of the Director?
 
 79
 00:16:20,727 --> 00:16:25,482
-Now then, young lady,
-tell me exactly what happened.
+Now then, young lady, tell me exactly what happened.
 
 80
 00:16:25,967 --> 00:16:28,356
-Well, I landed with
-the Doctor and Jamie.
+Well, I landed with the Doctor and Jamie.
 
 81
 00:16:28,447 --> 00:16:31,166
--In Cully's ship, yes?
--Cully?
+- In Cully's ship, yes?  - Cully?
 
 82
 00:16:31,247 --> 00:16:35,035
--Oh, no. We came in the Tardis.
--And what is that?
+- Oh, no. We came in the Tardis.
+- And what is that?
 
 83
 00:16:35,127 --> 00:16:38,836
--It's an advanced craft for travel.
--Goes through time and space.
+- It's an advanced craft for travel.
+- Goes through time and space.
 
 84
 00:16:38,927 --> 00:16:41,202
@@ -390,13 +366,11 @@ I think this joke has gone far enough.
 
 85
 00:16:41,287 --> 00:16:42,720
-There you are,
-I knew he wouldn't believe it.
+There you are, I knew he wouldn't believe it.
 
 86
 00:16:42,807 --> 00:16:45,082
-But it's true!
-You can ask the Doctor and Jamie,
+But it's true! You can ask the Doctor and Jamie,
 
 87
 00:16:45,167 --> 00:16:46,486
@@ -404,8 +378,7 @@ they'll be here soon.
 
 88
 00:16:46,567 --> 00:16:48,842
-What do you hope to gain
-by this foolishness?
+What do you hope to gain by this foolishness?
 
 89
 00:16:48,927 --> 00:16:52,203
@@ -493,8 +466,7 @@ I'm free. What about you?
 
 107
 00:17:44,167 --> 00:17:45,316
--Me, too.
--Come on.
+- Me, too.  - Come on.
 
 108
 00:17:45,407 --> 00:17:46,920
@@ -516,8 +488,8 @@ QUARK: <i>Molecular force expended.</i>
 
 112
 00:17:57,887 --> 00:18:00,606
--What are you going to do with us?
--Quiet! Over there.
+- What are you going to do with us?
+- Quiet! Over there.
 
 113
 00:18:04,047 --> 00:18:05,275
@@ -549,8 +521,7 @@ Power.
 
 120
 00:18:19,887 --> 00:18:21,843
-That will be repeated
-at regular intervals
+That will be repeated at regular intervals
 
 121
 00:18:21,927 --> 00:18:24,236
@@ -583,8 +554,8 @@ JAMIE: No, the square bit...
 
 128
 00:18:39,927 --> 00:18:41,201
-DOCTOR: What?
-JAMIE: No, not the star,
+- DOCTOR: What?
+- JAMIE: No, not the star,
 
 129
 00:18:41,287 --> 00:18:42,356
@@ -622,18 +593,15 @@ from that fearful contraption.
 
 137
 00:19:00,607 --> 00:19:02,916
--You all right?
--Yes, I'm all right.
+- You all right?  - Yes, I'm all right.
 
 138
 00:19:03,007 --> 00:19:05,680
-What were you up to?
-That puzzle was easy.
+What were you up to? That puzzle was easy.
 
 139
 00:19:05,767 --> 00:19:08,964
-An unintelligent enemy
-is far less dangerous
+An unintelligent enemy is far less dangerous
 
 140
 00:19:09,047 --> 00:19:10,605
@@ -641,13 +609,12 @@ than an intelligent one, Jamie.
 
 141
 00:19:10,687 --> 00:19:13,645
--Hey?
--Just act stupid.
+- Hey?  - Just act stupid.
 
 142
 00:19:13,727 --> 00:19:16,639
--Do you think you can manage that?
--Oh, aye, it's easy...
+- Do you think you can manage that?
+- Oh, aye, it's easy...
 
 143
 00:19:16,727 --> 00:19:18,445
@@ -659,8 +626,7 @@ You two, over here. Sit!
 
 145
 00:19:23,047 --> 00:19:25,800
--Oh, thank you.
--Thank you. Oh.
+- Oh, thank you.  - Thank you. Oh.
 
 146
 00:19:25,887 --> 00:19:27,161
@@ -676,52 +642,47 @@ Now, get off.
 
 149
 00:19:37,007 --> 00:19:39,646
--I said, get off.
--Oh, but...
+- I said, get off. - Oh, but...
 
 150
 00:19:40,207 --> 00:19:43,040
 (ELECTRICITY CRACKLING, BOTH EXCLAIMING)
 
 151
-00:19:44,727 --> 00:19:46,080
--Try it round here.
--You're surrounded.
+00:19:44,727 --> 00:19:46,580
+- Try it round here.  - You're surrounded.
 
 152
-00:19:46,167 --> 00:19:49,443
--Well, how do we get off?
--There is a way, find it!
+00:19:46,607 --> 00:19:49,443
+- Well, how do we get off?
+- There is a way, find it!
 
 153
 00:19:51,207 --> 00:19:54,483
--Test complete?
--TOBA: These creatures are useless.
+- Test complete?
+- TOBA: These creatures are useless.
 
 154
 00:19:55,367 --> 00:19:57,642
--Strange.
--You question my report, Navigator Rago?
+- Strange.  - You question my report, Navigator Rago?
 
 155
 00:19:57,727 --> 00:20:00,366
-I find it at variance
-with what we already know.
+I find it at variance with what we already know.
 
 156
-00:20:00,447 --> 00:20:02,119
--I don't understand.
--The weapons we saw earlier,
+00:20:00,447 --> 00:20:02,259
+- I don't understand.
+- The weapons we saw earlier,
 
 157
-00:20:02,207 --> 00:20:04,767
-could they have been devised
-by such apparent simpletons?
+00:20:02,357 --> 00:20:04,767
+could they have been devised by such apparent simpletons?
 
 158
 00:20:04,847 --> 00:20:07,566
--You think that there were...
--That we will find out.
+- You think that there were...
+- That we will find out.
 
 159
 00:20:07,647 --> 00:20:09,319
@@ -729,23 +690,20 @@ Message to fleet leader.
 
 160
 00:20:09,407 --> 00:20:12,080
-"Materials readily accessible,
-please proceed to refuel.
+"Materials readily accessible, please proceed to refuel.
 
 161
 00:20:12,167 --> 00:20:14,522
-"Investigating potential
-slave labour." Transmit.
+"Investigating potential slave labour." Transmit.
 
 162
 00:20:14,607 --> 00:20:16,359
--(DEVICE BEEPS)
--Come with me.
+(DEVICE BEEPS) Come with me.
 
 163
 00:20:16,447 --> 00:20:19,325
--But every time we try and get up...
--Jump!
+- But every time we try and get up...
+- Jump!
 
 164
 00:20:19,407 --> 00:20:21,079
@@ -760,14 +718,12 @@ Jump.
 (BOTH EXCLAIM)
 
 167
-00:20:27,447 --> 00:20:29,517
-A simple circuit
-completed by your bodies,
+00:20:27,447 --> 00:20:29,717
+A simple circuit completed by your bodies,
 
 168
-00:20:29,607 --> 00:20:31,723
-you obviously know little
-of electricity.
+00:20:29,807 --> 00:20:31,723
+you obviously know little of electricity.
 
 169
 00:20:31,807 --> 00:20:33,035
@@ -784,23 +740,21 @@ I will continue the test personally.
 
 172
 00:20:42,587 --> 00:20:46,341
--RAGO: I said, what is that?
--Well, it's some sort of gun, isn't it?
+- RAGO: I said, what is that?
+- Well, it's some sort of gun, isn't it?
 
 173
 00:20:46,427 --> 00:20:49,863
--Explain it to me.
--Well, I don't know that I...
+- Explain it to me.
+- Well, I don't know that I...
 
 174
 00:20:49,947 --> 00:20:52,097
--Firepower potential?
--Huh?
+- Firepower potential?  - Huh?
 
 175
 00:20:52,187 --> 00:20:55,497
--What does it do?
--Oh! Oh, I see.
+- What does it do?  - Oh! Oh, I see.
 
 176
 00:20:55,587 --> 00:20:57,418
@@ -808,8 +762,7 @@ Well, guns kill people.
 
 177
 00:20:57,507 --> 00:20:59,737
--Is that what you wanted to know?
--Fire it.
+- Is that what you wanted to know?  - Fire it.
 
 178
 00:20:59,827 --> 00:21:01,943
@@ -830,8 +783,8 @@ You. Fire it.
 
 182
 00:21:12,227 --> 00:21:15,856
--Oh, I wouldn't know how...
--Do as Dominator Rago says. Fire it!
+- Oh, I wouldn't know how...
+- Do as Dominator Rago says. Fire it!
 
 183
 00:21:15,947 --> 00:21:18,586
@@ -848,18 +801,16 @@ Jamie. Jamie, be careful.
 
 186
 00:21:23,667 --> 00:21:25,339
--I'll get the hang of it, Doctor.
--Jamie, be careful.
+- I'll get the hang of it, Doctor.
+- Jamie, be careful.
 
 187
 00:21:25,427 --> 00:21:27,657
-Wait, we don't understand guns
-on Dulkis.
+Wait, we don't understand guns on Dulkis.
 
 188
 00:21:27,747 --> 00:21:29,863
-We haven't used them
-for hundreds of years.
+We haven't used them for hundreds of years.
 
 189
 00:21:31,107 --> 00:21:32,381
@@ -879,13 +830,11 @@ Are you sure?
 
 193
 00:21:46,987 --> 00:21:49,945
-Yes! It was the clever ones
-who invented them.
+Yes! It was the clever ones who invented them.
 
 194
 00:21:50,027 --> 00:21:52,063
--The clever ones?
--Yes, they...
+- The clever ones?  - Yes, they...
 
 195
 00:21:52,147 --> 00:21:55,219
@@ -893,14 +842,13 @@ They lived long ago, you see.
 There aren't many of them left.
 
 196
-00:21:55,307 --> 00:21:57,775
--They stopped us using guns and things.
--There are two distinct types
+00:21:55,307 --> 00:21:56,775
+They stopped us using guns and things.
 
 197
-00:21:57,867 --> 00:21:59,300
--on this planet?
--Yes!
+00:21:56,867 --> 00:21:59,300
+- There are two distinct types on this planet?
+- Yes!
 
 198
 00:21:59,387 --> 00:22:00,900
@@ -913,8 +861,7 @@ We don't like them much.
 
 200
 00:22:05,747 --> 00:22:08,500
--They tell us what to do, you see.
--Good.
+- They tell us what to do, you see.  - Good.
 
 201
 00:22:09,987 --> 00:22:11,136
@@ -922,13 +869,11 @@ I see.
 
 202
 00:22:19,587 --> 00:22:21,145
-There is nothing to fear
-from these primitives,
+There is nothing to fear from these primitives,
 
 203
 00:22:21,227 --> 00:22:22,455
-and the others sound
-as if they're pacifists.
+and the others sound as if they're pacifists.
 
 204
 00:22:22,547 --> 00:22:23,662
@@ -936,23 +881,21 @@ So they are useless.
 
 205
 00:22:23,747 --> 00:22:25,465
-They have a small labour potential,
-nothing more.
+They have a small labour potential, nothing more.
 
 206
 00:22:25,547 --> 00:22:28,380
--Shall I destroy them?
--No, we must conserve power.
+- Shall I destroy them?
+- No, we must conserve power.
 
 207
-00:22:28,467 --> 00:22:30,264
--But why do...
--We have nothing to fear
+00:22:28,467 --> 00:22:31,264
+- But why do...
+- We have nothing to fear from such creatures
 
 208
-00:22:30,347 --> 00:22:33,703
-from such creatures. It will be
-a waste of energy to destroy them.
+00:22:31,347 --> 00:22:33,703
+It will be a waste of energy to destroy them.
 
 209
 00:22:33,787 --> 00:22:35,186
@@ -964,8 +907,8 @@ Stay away from us and the Quarks.
 
 211
 00:22:38,867 --> 00:22:42,018
--Oh, yes, sir. Thank you very much.
--Yes, Master.
+- Oh, yes, sir. Thank you very much.
+- Yes, Master.
 
 212
 00:22:46,627 --> 00:22:48,219
@@ -973,8 +916,8 @@ Stay away from us and the Quarks.
 
 213
 00:22:52,907 --> 00:22:55,865
--Am I glad that's over.
--Yeah, me, too.
+- Am I glad that's over.
+- Yeah, me, too.
 
 214
 00:22:55,947 --> 00:22:58,507
@@ -999,8 +942,7 @@ That message they sent.
 
 219
 00:23:07,467 --> 00:23:09,378
-Some sort of mineral deposits,
-do you think?
+Some sort of mineral deposits, do you think?
 
 220
 00:23:09,467 --> 00:23:13,858
@@ -1021,14 +963,13 @@ Aye, nasty little beasties.
 Hey, Doctor, they've gone.
 
 224
-00:23:21,107 --> 00:23:23,098
-We'd better get back to that
-survey place, Zo� will be wondering
+00:23:21,107 --> 00:23:23,798
+We'd better get back to that survey place,
+Zoe will be wondering what's happened to us.
 
 225
-00:23:23,187 --> 00:23:24,745
--what's happened to us.
--I think you're right.
+00:23:23,887 --> 00:23:24,745
+I think you're right.
 
 226
 00:23:25,627 --> 00:23:29,063
@@ -1037,13 +978,12 @@ before it's too late.
 
 227
 00:23:29,147 --> 00:23:31,866
--Well, what are you going to do?
--Get some evidence.
+- Well, what are you going to do?
+- Get some evidence.
 
 228
 00:23:31,947 --> 00:23:33,266
-Will you come back
-to the island with me?
+Will you come back to the island with me?
 
 229
 00:23:33,347 --> 00:23:36,225
@@ -1056,23 +996,19 @@ Through my father's rooms. Come on.
 
 231
 00:23:38,867 --> 00:23:41,665
-We'll have to steal
-a travel capsule somehow.
+We'll have to steal a travel capsule somehow.
 
 232
 00:23:41,747 --> 00:23:44,136
-Well, I can manage
-that all right, but...
+Well, I can manage that all right, but...
 
 233
 00:23:44,227 --> 00:23:46,263
--Well, what's the matter?
--Your clothes.
+- Well, what's the matter?  - Your clothes.
 
 234
 00:23:46,347 --> 00:23:48,019
--Not exactly Dulcian, are they?
--So?
+- Not exactly Dulcian, are they?  - So?
 
 235
 00:23:48,107 --> 00:23:49,779
@@ -1080,8 +1016,7 @@ We'll attract too much attention.
 
 236
 00:23:49,867 --> 00:23:51,903
-We'll never get past
-the capsule managers.
+We'll never get past the capsule managers.
 
 237
 00:23:51,987 --> 00:23:53,306
@@ -1094,22 +1029,19 @@ with some Dulcian garments.
 
 239
 00:23:55,867 --> 00:23:57,823
--Where from?
--Clothing dispenser unit.
+- Where from? - Clothing dispenser unit.
 
 240
 00:23:57,907 --> 00:24:00,023
-There's one in my father's rooms.
-Come on.
+There's one in my father's rooms. Come on.
 
 241
 00:24:00,707 --> 00:24:02,777
-This will take you direct
-to the capital, Doctor.
+This will take you direct to the capital, Doctor.
 
 242
 00:24:02,867 --> 00:24:05,097
-Your young friend Zo� is already there.
+Your young friend Zoe is already there.
 
 243
 00:24:05,187 --> 00:24:08,497
@@ -1118,8 +1050,8 @@ is awaiting your arrival now.
 
 244
 00:24:08,587 --> 00:24:10,657
--Oh, this is splendid. (CHUCKLES)
--Hey, Doctor, what is this?
+- Oh, this is splendid. (CHUCKLES)
+- Hey, Doctor, what is this?
 
 245
 00:24:10,747 --> 00:24:12,658
@@ -1127,8 +1059,7 @@ You know I hate being put in a remote...
 
 246
 00:24:15,027 --> 00:24:17,860
-Now, perhaps we can get on
-with our work.
+Now, perhaps we can get on with our work.
 
 247
 00:24:18,027 --> 00:24:21,064
@@ -1136,8 +1067,7 @@ QUARK: <i>Unknown creatures approaching.</i>
 
 248
 00:24:23,307 --> 00:24:25,775
--TOBA: Destroy?
--No.
+-TOBA: Destroy?  - No.
 
 249
 00:24:26,707 --> 00:24:28,106
@@ -1145,13 +1075,11 @@ Investigate.
 
 250
 00:24:28,627 --> 00:24:31,744
--It's enormous.
--So Cully was telling the truth.
+- It's enormous.  - So Cully was telling the truth.
 
 251
 00:24:31,827 --> 00:24:33,306
-BALAN: Was he?
-TEEL: But Balan...
+- BALAN: Was he?  - TEEL: But Balan...
 
 252
 00:24:33,387 --> 00:24:35,105
@@ -1195,13 +1123,11 @@ Destroy!
 
 262
 00:25:26,727 --> 00:25:29,082
--Cully, what's happening?
--I don't know.
+- Cully, what's happening?  - I don't know.
 
 263
 00:25:30,487 --> 00:25:32,079
-ZO�: Oh!
-CULLY: The door. Quick!
+- ZOE: Oh!  - CULLY: The door. Quick!
 
 264
 00:25:33,727 --> 00:25:35,638
@@ -1213,5 +1139,5 @@ We're trapped.
 
 266
 00:25:38,607 --> 00:25:40,120
-(ZO� SCREAMING)
+(ZOE SCREAMING)
 

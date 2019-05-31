@@ -12,8 +12,8 @@ QUARK: <i>On the orders of Dominator Toba,</i>
 
 4
 00:31:31,547 --> 00:31:34,345
--But Jamie was in that building!
--Silence!
+- But Jamie was in that building!
+- Silence!
 
 5
 00:31:35,627 --> 00:31:37,385
@@ -48,8 +48,7 @@ Now listen to me carefully,
 
 12
 00:31:50,247 --> 00:31:52,477
-and this time
-you will obey my instructions.
+and this time you will obey my instructions.
 
 13
 00:31:52,567 --> 00:31:54,603
