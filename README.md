@@ -32,9 +32,9 @@
 - [x] 04x09 The Evil of the Daleks (full) https://secure.assrt.net/xml/sub/623/623426.xml (updated)
 - [x] 05x01 The Tomb of the Cybermen (whopix fan-edit)  https://secure.assrt.net/xml/sub/624/624128.xml
 - [x] 05x03 The Ice Warriros (full) https://secure.assrt.net/xml/sub/623/623231.xml
-- [ ] 05x04 The Enemy of the World
+- [x] 05x04 The Enemy of the World (whopix fan-edit) https://secure.assrt.net/xml/sub/624/624874.xml
 - [x] 05x05 The Web of Fear (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623663.xml
-- [ ] 06x01 The Dominators
+- [x] 06x01 The Dominators (whopix fan-edit) https://secure.assrt.net/xml/sub/625/625001.xml
 - [x] 06x02 The Mind Robber (whopix fan-edit) https://secure.assrt.net/xml/sub/624/624278.xml
 - [ ] 06x03 The Invasion (of the Cybermen)
 - [ ] 06x04 The Krotons
@@ -73,15 +73,13 @@
 - [ ] Shada (8th Doctor, animated)
 
 
-## misc
-
-### Reeltime
+## Reeltime ##
 
 - [x] Downtime  https://secure.assrt.net/xml/sub/623/623825.xml
 
-### BBV
+## BBV ##
 
-- [-] Auton Trilogy (BBV)
+- [x] Auton Trilogy (BBV)
 
     - [x] Episode 1: https://secure.assrt.net/xml/sub/624/624016.xml
     - [x] Episode 2: Sentinel  https://secure.assrt.net/xml/sub/624/624218.xml
