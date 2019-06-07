@@ -1,0 +1,986 @@
+1
+00:14:27,282 --> 00:14:28,521
+Oh Doctor don't move!
+
+2
+00:14:28,734 --> 00:14:32,149
+Aah, it's alright Zoe. I-I think it's quite safe now.
+
+3
+00:14:32,398 --> 00:14:33,274
+Oh I wouldn't be so sure!
+
+4
+00:14:33,529 --> 00:14:35,002
+Just watch this Jamie.
+
+5
+00:14:44,297 --> 00:14:45,241
+Pattern recognition!
+
+6
+00:14:45,431 --> 00:14:47,021
+Yes, and the pattern is my face!
+
+7
+00:14:47,242 --> 00:14:51,906
+Doctor, do you mean that thing was sent out
+to attack you and only you?
+
+8
+00:14:52,086 --> 00:14:54,145
+Yes, so it seems. It's rather flattering isn't it?
+
+9
+00:14:54,429 --> 00:14:56,042
+Well then the Krotons know who you are,
+
+10
+00:14:56,271 --> 00:14:56,859
+Aye!
+
+11
+00:14:57,008 --> 00:14:58,232
+Or at least what you look like.
+
+12
+00:14:58,387 --> 00:15:01,434
+Yes... That means they must have a scanner
+in the wall of the machine./? 
+
+13
+00:15:01,587 --> 00:15:04,634
+Now if we can find that we might be able to get in touch with them.
+
+14
+00:15:04,808 --> 00:15:05,186
+Uh.. Doctor!
+
+15
+00:15:05,401 --> 00:15:05,921
+Oh no.
+
+16
+00:15:36,242 --> 00:15:37,263
+It's gone back.
+
+17
+00:15:37,498 --> 00:15:40,938
+Yes. That poor fellow must have confused it's attack mechanism.
+
+18
+00:15:41,212 --> 00:15:41,677
+Eh?
+
+19
+00:15:41,888 --> 00:15:46,243
+Well it was programmed to kill once - me!
+It must think that it's succeeded, stupid machine!
+
+20
+00:15:49,772 --> 00:15:52,826
+There's your wonderful Krotons for you Father! MURDERERS!
+
+21
+00:15:53,781 --> 00:15:56,396
+No! Thara, don't provoke them!
+
+22
+00:15:56,580 --> 00:15:58,736
+Is that all you care about, not provoking them?!
+
+23
+00:15:58,930 --> 00:16:00,941
+What can we do against their weapons?
+
+24
+00:16:01,101 --> 00:16:02,091
+We can fight..!
+
+25
+00:16:02,290 --> 00:16:08,092
+THIS IS A WARNING. YOUR LEADER HAS BEEN DESTROYED. /08.2
+
+25
+00:16:08,290 --> 00:16:14,092
+ALL GONDS LEAVE THE LEARNING HALL AT ONCE - AT ONCE.
+
+26
+00:16:14,389 --> 00:16:16,646
+No, stay and fight!
+
+27
+00:16:16,792 --> 00:16:21,854
+LEAVE THE LEARNING HALL. ALL GONDS LEAVE THE LEARNING HALL.
+
+28
+00:16:26,179 --> 00:16:29,865
+Everyone leave the hall. Now!
+
+29
+00:16:41,443 --> 00:16:42,535
+Where did this come from?
+
+30
+00:16:42,789 --> 00:16:44,291
+I borrowed it from Beta.
+
+31
+00:16:44,669 --> 00:16:46,901
+But I thought they didn't know anything about electricity?
+
+32
+00:16:47,142 --> 00:16:52,575
+They don't - er, that works on stored solar energy. /52.6
+
+33
+00:16:52,642 --> 00:16:55,075
+Yes the Gonds are quite advanced in some ways. /55.1
+
+34
+00:16:55,142 --> 00:17:00,175
+The-their medicine is pretty good,
+but they haven't got very much general chemistry./17.2
+
+35
+00:17:00,242 --> 00:17:01,375
+I wish they had an ECT machine though.
+
+36
+00:17:01,607 --> 00:17:03,379
+Yes. There are tremendous gaps in their knowledge./?
+
+37
+00:17:03,607 --> 00:17:07,379
+Well they only seem to know what the machines teach them.
+
+38
+00:17:07,579 --> 00:17:13,318
+Yes. And the machines are programmed by the Krotons,
+so the gaps in their knowledge may be significant.
+
+39
+00:17:13,598 --> 00:17:14,961
+Ah, Selris...
+
+40
+00:17:16,490 --> 00:17:18,160
+How is she Doctor?
+
+41
+00:17:18,373 --> 00:17:26,094
+Well I think she's better, it's difficult to tell. /?
+Um Selris, is it safe to enter the Learning-Hall yet?
+
+42
+00:17:26,393 --> 00:17:27,274
+Why?
+
+43
+00:17:27,532 --> 00:17:31,020
+Er, Zoe and I want to have a look round, don't we Zoe?
+
+44
+00:17:31,216 --> 00:17:32,185
+Oh, do we?
+
+45
+00:17:32,350 --> 00:17:35,040
+Yes, that's right. Ah Jamie, hold out your hand will you?
+
+46
+00:17:35,188 --> 00:17:36,021
+Well what for?
+
+47
+00:17:36,142 --> 00:17:37,787
+Ah, these pills I got from Beta.
+
+48
+00:17:37,975 --> 00:17:39,180
+Well there's nothing wrong with me!
+
+49
+00:17:39,304 --> 00:17:43,350
+No-no. Ah, they're for Vana.
+I want you to stay and look after her.
+
+50
+00:17:43,465 --> 00:17:45,135
+Oh but why can't I go with you?
+
+51
+00:17:45,320 --> 00:17:49,486
+Because I particularly want you to give her those pills the moment she wakes up.
+
+52
+00:17:49,685 --> 00:17:50,680
+Ah well...
+
+53
+00:17:50,875 --> 00:17:52,332
+Well why are we going back to the Learning-Hall?
+
+54
+00:17:52,561 --> 00:17:54,293
+Oh, to learn Zoe, why else?
+
+55
+00:17:54,381 --> 00:17:55,769
+I am coming with you Doctor.
+
+56
+00:17:55,918 --> 00:17:58,229
+Oh my dear fellow, there is no need for that.
+
+57
+00:17:58,419 --> 00:17:59,951
+I must know what is happening.
+
+58
+00:18:00,627 --> 00:18:04,771
+Oh well.. ah, certainly. Come along Zoe.
+
+59
+00:18:15,745 --> 00:18:18,283
+Er Selris um, what's that?
+
+60
+00:18:18,468 --> 00:18:20,886
+Oh, ah, that leads to the under-hall.
+
+61
+00:18:21,091 --> 00:18:22,439
+Oh, what's down there?
+
+62
+00:18:22,653 --> 00:18:23,902
+Nothing, it's never used.
+
+63
+00:18:24,297 --> 00:18:29,818
+I wonder how far underneath..?
+Ah, let's have a look shall we?
+
+64
+00:18:35,002 --> 00:18:38,808
+Oh, ah... Oh yes, it's-it's a bit dark and musty down here. /?
+
+65
+00:18:39,002 --> 00:18:42,808
+Zoe, stay up there will you? We shan't be long.
+
+66
+00:19:42,177 --> 00:19:43,787
+I told you there was nothing down there.
+
+67
+00:19:43,992 --> 00:19:48,461
+Ah, but there was Selris. Something rather curious.
+
+68
+00:19:48,752 --> 00:19:52,251
+Only the foundations of the machine.
+It stands on those metal pillars.
+
+69
+00:19:52,489 --> 00:19:53,318
+Zoe!
+
+70
+00:19:59,071 --> 00:19:59,995
+Zoe!
+
+71
+00:20:00,359 --> 00:20:01,798
+Oh, you're soon back Doctor.
+
+72
+00:20:02,433 --> 00:20:03,799
+What do you think you are doing?!
+
+73
+00:20:04,231 --> 00:20:05,766
+I was just trying the machine.
+
+74
+00:20:06,017 --> 00:20:08,024
+You should know better than to do a thing like that!
+
+75
+00:20:08,270 --> 00:20:13,211
+Oh but Doctor, it was all so easy!
+The Krotons were very pleased with me.
+
+76
+00:20:13,477 --> 00:20:14,801
+Very pleased?
+
+77
+00:20:16,971 --> 00:20:20,360
+- Well I felt they were.
+- Zoe! Now just you listen to me!
+
+78
+00:20:20,463 --> 00:20:25,961
+Whatever else they are, these Krotons are certainly not friendly!
+
+79
+00:20:26,058 --> 00:20:28,374
+- Now we know that don't we?
+- Yes of course!
+
+80
+00:20:28,624 --> 00:20:31,137
+And they use these machines to plant impressions in the mind.
+
+81
+00:20:31,224 --> 00:20:33,837
+That's how they've enslaved these people all these years.
+
+82
+00:20:34,032 --> 00:20:34,763
+Doctor!
+
+83
+00:20:34,959 --> 00:20:35,512
+What?
+
+84
+00:20:35,698 --> 00:20:36,520
+Look at the dial!
+
+85
+00:20:36,656 --> 00:20:37,391
+Oh what of it?
+
+86
+00:20:37,511 --> 00:20:42,295
+It's amazing! Even the best of our students
+registered less than half of that score!
+
+87
+00:20:42,634 --> 00:20:48,478
+Yes well, Zoe is something of a genius.
+Of course it can be very irritating at times!
+
+88
+00:20:49,088 --> 00:20:50,849
+... I went into the machine...
+
+89
+00:20:50,924 --> 00:20:51,986
+Did you see the Krotons?
+
+90
+00:20:54,023 --> 00:20:58,796
+The ball... Flashing! Coming down on me!
+
+91
+00:20:58,990 --> 00:21:00,651
+Now you're quite safe here Vana, now!
+
+92
+00:21:00,860 --> 00:21:03,496
+You'd better take these, here.
+
+93
+00:21:03,650 --> 00:21:07,414
+Drink up now - all down. That's it.
+
+94
+00:21:14,355 --> 00:21:17,560
+Flashing ball burning her mind?
+
+95
+00:21:17,795 --> 00:21:22,194
+What did she mean? Is it another of the Krotons weapons?
+
+96
+00:21:23,152 --> 00:21:27,816
+I don't know... Look, you stay here with her,
+I'll go and get the Doctor.
+
+97
+00:21:33,876 --> 00:21:34,976
+It's crystalline.
+
+98
+00:21:35,167 --> 00:21:38,627
+Yes, it's hard but it-it's not brittle.
+I've never seen anything quite like it.
+
+99
+00:21:39,000 --> 00:21:40,264
+What was it like down there?
+
+100
+00:21:40,465 --> 00:21:47,325
+Mm? Oh, what Selris calls the foundations.
+Uh... Zoe, it was like a root structure.
+
+101
+00:21:47,523 --> 00:21:50,044
+A root structure!? But indicates that...
+
+102
+00:21:50,216 --> 00:21:54,184
+That this so-called "machine" is organic in structure.
+
+103
+00:21:54,386 --> 00:21:56,185
+Well is that possible?
+
+104
+00:21:56,451 --> 00:22:02,660
+Well why not? Some crystals do resemble simple virus forms.
+I wish I could get a bit of it for analysis...
+
+105
+00:22:02,929 --> 00:22:07,833
+Well if you're right that means
+that the whole of this machine is a sort of a living thing!
+
+106
+00:22:08,031 --> 00:22:11,185
+Well all life doesn't necessarily have feeling you know...
+
+107
+00:22:11,278 --> 00:22:12,489
+Great jumping gobstoppers! What's that?
+
+108
+00:22:12,612 --> 00:22:14,417
+The Krotons command. It means there is a message for me.
+
+109
+00:22:14,558 --> 00:22:16,006
+Oh, what does it say? Mm?
+
+110
+00:22:16,563 --> 00:22:21,700
+Class three-one-nine-seven, selected female Zo-Gond.
+
+111
+00:22:21,865 --> 00:22:24,560
+Zo-Gond? Zoe - they mean you!
+
+112
+00:22:24,957 --> 00:22:27,029
+They've chosen you as a companion.
+
+113
+00:22:27,282 --> 00:22:29,326
+And we all know what happens to them don't we?
+
+114
+00:22:29,486 --> 00:22:30,806
+Oh Doctor what shall I do?
+
+115
+00:22:31,029 --> 00:22:32,870
+Well she doesn't have to go does she?
+
+116
+00:22:34,558 --> 00:22:36,184
+Well does she or doesn't she?!
+
+117
+00:22:36,386 --> 00:22:40,908
+I'm afraid she must.
+Complete obedience is the Krotons first command
+
+118
+00:22:41,088 --> 00:22:43,891
+- And if we fail to obey...
+- They'll destroy you, I see...
+
+119
+00:22:43,997 --> 00:22:44,711
+Oh dear.
+
+120
+00:22:44,853 --> 00:22:47,470
+Now d'you see what you've done?! 
+Fooling around with this stupid machine!
+
+121
+00:22:47,628 --> 00:22:48,504
+Oh, but I'm not a Gond!
+
+122
+00:22:48,639 --> 00:22:49,923
+But that machine doesn't know that!
+
+123
+00:22:50,398 --> 00:22:51,722
+Oh, where are you going?
+
+124
+00:22:51,889 --> 00:22:54,940
+I'm going to take the test,
+I can't let you go in there alone! Er... what do I do?
+
+125
+00:22:55,114 --> 00:22:58,702
+Oh sit down, and put this... This headset on.
+
+126
+00:22:59,881 --> 00:23:01,105
+And press the button.
+
+127
+00:23:02,298 --> 00:23:03,690
+Press the button!
+
+128
+00:23:03,899 --> 00:23:06,001
+Alright, no need to shout!
+Now go away and don't fuss me!
+
+129
+00:23:06,144 --> 00:23:07,009
+No come back, what's this?
+
+130
+00:23:07,165 --> 00:23:08,674
+- .. What..
+- ...It's alright, I know!
+
+131
+00:23:08,803 --> 00:23:10,568
+Alright, fire away. I'm ready.
+
+132
+00:23:23,078 --> 00:23:25,339
+Ah. Oh... oh.
+
+133
+00:23:26,220 --> 00:23:28,657
+Oh Doctor, you've got it all wrong!
+
+134
+00:23:28,878 --> 00:23:33,036
+Oh dear, I've been working in square roots.
+Er, can I have that again please?
+
+135
+00:23:33,367 --> 00:23:35,188
+Well they don't give you a second shots!
+
+136
+00:23:35,587 --> 00:23:35,991
+Oh.
+
+137
+00:23:36,198 --> 00:23:37,141
+Well press the button again!
+
+138
+00:23:40,455 --> 00:23:43,948
+This is the most advanced machine.
+Perhaps he can't answer the questions?
+
+139
+00:23:44,160 --> 00:23:47,734
+Of course he can. The Doctor's almost as clever as I am!
+
+140
+00:23:47,896 --> 00:23:48,530
+I see.
+
+141
+00:23:48,725 --> 00:23:51,470
+Uh... oh now what have I done?
+
+142
+00:23:51,743 --> 00:23:56,977
+Oh Doctor, you've divided instead of multiplying!
+You must concentrate!
+
+143
+00:23:57,145 --> 00:23:58,419
+I am Zoe, I am!
+
+144
+00:23:58,667 --> 00:23:59,298
+Good.
+
+145
+00:24:08,585 --> 00:24:11,230
+Mm-mm. Yes er, I think that's rather better.
+
+146
+00:24:12,295 --> 00:24:14,473
+I think I've scored more than you have Zoe!
+
+147
+00:24:14,881 --> 00:24:19,343
+You answered more questions.
+Besides, this isn't supposed to be a competition!
+
+148
+00:24:19,848 --> 00:24:23,333
+It's clever isn't it?
+The way they make you feel that they're pleased with you...
+
+149
+00:24:23,530 --> 00:24:27,149
+Yes. Perhaps the Krotons aren't as bad as we think?
+
+150
+00:24:27,403 --> 00:24:28,072
+What..?
+
+151
+00:24:28,301 --> 00:24:31,521
+What? Of-of course they are!
+
+152
+00:24:31,751 --> 00:24:34,438
+Ah, what happens now?
+
+153
+00:24:34,784 --> 00:24:36,546
+The Krotons will be waiting for Zoe.
+
+154
+00:24:36,730 --> 00:24:38,754
+Well they can wait! We are going in there together.
+
+155
+00:24:39,011 --> 00:24:41,083
+Normally the names don't come through for some time.
+
+156
+00:24:41,266 --> 00:24:42,113
+Well mine did.
+
+157
+00:24:42,357 --> 00:24:45,577
+Yes, but perhaps they were impressed
+with your performance, and that's why.
+
+158
+00:24:48,253 --> 00:24:50,786
+Sounds a bit like a dinner gong, doesn't it Zoe?
+
+159
+00:24:52,341 --> 00:24:55,658
+Class three-one-nine-eight, selected male - Doctor-Gond.
+
+160
+00:24:55,933 --> 00:24:57,240
+Doctor-Gond. Idiots!
+
+161
+00:25:00,524 --> 00:25:01,904
+Well it means you anyway.
+
+162
+00:25:03,338 --> 00:25:07,045
+Yes, er-er... Well, are you ready?
+
+163
+00:25:08,684 --> 00:25:10,646
+I suppose we have to...
+
+164
+00:25:13,116 --> 00:25:15,656
+Well we started this, we'd better go through with it./?
+
+165
+00:25:15,716 --> 00:25:18,356
+We've got to get to the bottom of this somehow Zoe.
+
+166
+00:25:18,529 --> 00:25:19,737
+Oh this is all my fault!
+
+167
+00:25:19,936 --> 00:25:23,359
+Oh cheer up, cheer up.
+I expect it'll be quite interesting really.
+
+168
+00:25:24,026 --> 00:25:27,603
+I am sorry Doctor. 
+My people will always remember you.
+
+169
+00:25:27,799 --> 00:25:34,777
+Eh? Oh... oh that's very nice of them. 
+Stay close to me Zoe.
+
+170
+00:25:36,709 --> 00:25:38,284
+Doctor! No wait, come back!
+
+171
+00:25:40,033 --> 00:25:40,902
+What's happened?
+
+172
+00:25:41,658 --> 00:25:42,561
+Where've they gone?
+
+173
+00:25:44,960 --> 00:25:48,246
+Your people are gone. They are now companions of the Krotons.
+
+174
+00:25:48,791 --> 00:25:49,433
+Wha-?
+
+175
+00:25:56,689 --> 00:25:57,906
+It is a spaceship!
+
+176
+00:25:58,136 --> 00:26:00,335
+Yes, but there doesn't seem to be any crew.
+
+177
+00:26:00,644 --> 00:26:09,216
+Hello... anybody there? Is anybody at home, hello!
+
+178
+00:26:11,792 --> 00:26:13,731
+I think we've been asked to sit down.
+
+179
+00:26:14,079 --> 00:26:15,797
+Yes I think we have Zoe.
+
+180
+00:26:16,191 --> 00:26:21,362
+Uh, Zoe... Hold onto the end of this chain.
+
+181
+00:26:21,534 --> 00:26:22,404
+What for?
+
+182
+00:26:22,569 --> 00:26:29,479
+Look up there - it's a force generator.
+This chain might help to equalise the power load.
+
+183
+00:26:29,681 --> 00:26:31,030
+Well what are they going to do?
+
+184
+00:26:41,805 --> 00:26:43,459
+Doctor I can't move!
+
+185
+00:26:43,978 --> 00:26:50,905
+No, it's a forcefield. Try and relax... relax.
+
+186
+00:26:52,832 --> 00:26:54,803
+But why did you let them go?
+
+187
+00:26:54,990 --> 00:26:56,174
+It is a command of the Krotons.
+
+188
+00:26:56,246 --> 00:26:59,649
+Ah, the Krotons! They just rap out an order
+and everyone jumps don't they! /?
+
+189
+00:26:59,746 --> 00:27:01,549
+Aye, well I'm not just standing here to see my...
+
+190
+00:27:01,642 --> 00:27:02,368
+Where are you going?
+
+191
+00:27:02,532 --> 00:27:04,092
+To find a way into this box of tricks!
+
+192
+00:27:04,751 --> 00:27:05,258
+Ow!
+
+193
+00:27:51,562 --> 00:27:55,131
+Are you alright Zoe? Oh!
+
+194
+00:27:55,482 --> 00:27:57,265
+Yes... I think so...
+
+195
+00:27:57,796 --> 00:27:58,599
+Oh!
+
+196
+00:27:58,859 --> 00:27:59,814
+What happened?
+
+197
+00:28:00,092 --> 00:28:03,308
+Oh some tremendous power, oh!
+
+198
+00:28:04,211 --> 00:28:10,779
+They seem to have a way of transferring
+mental power into pure energy.
+
+199
+00:28:11,155 --> 00:28:17,058
+Yes. And they used it -
+or-or rather us to operate a thermal switch.
+
+200
+00:28:18,898 --> 00:28:20,572
+Doctor look!
+
+201
+00:28:21,014 --> 00:28:21,773
+Yes.
+
+202
+00:28:22,361 --> 00:28:23,954
+I thought there was a wall here.
+
+203
+00:28:24,184 --> 00:28:30,267
+Yes, there was. Zoe I think that I'm beginning to understand.
+
+204
+00:28:30,535 --> 00:28:31,579
+What's that?
+
+205
+00:28:34,302 --> 00:28:42,696
+That's curious... Zoe, I think we've gone and done it.
+
+206
+00:28:42,921 --> 00:28:43,548
+What?
+
+207
+00:28:44,548 --> 00:28:48,112
+Well... Just a minute I've got an idea.
+
+208
+00:28:54,448 --> 00:28:59,830
+Oh yes... This is a form of slurry. Crystals in suspension.
+
+209
+00:29:00,069 --> 00:29:01,211
+But what's its purpose?
+
+210
+00:29:01,400 --> 00:29:05,397
+Well, life is supposed to have begun on your planet in the sea, mm?/?
+
+211
+00:29:05,500 --> 00:29:08,097
+Primeval soup someone once called it. /?
+
+212
+00:29:08,400 --> 00:29:12,997
+Well there are lots of sorts of soups aren't there,
+I-I wonder what this sort is?
+
+213
+00:29:13,376 --> 00:29:15,116
+And what do you suppose these are?
+
+214
+00:29:15,393 --> 00:29:18,207
+They look like astronauts' air lines.
+
+215
+00:29:18,303 --> 00:29:20,350
+Yes I think you're right Zoe. Zoe look!
+
+216
+00:29:21,485 --> 00:29:27,750
+I think it's time we... got out of here.
+Come along! Uh..
+
+217
+00:29:38,042 --> 00:29:41,885
+Well what are we going to do if we do get out?
+We haven't learned anything yet.
+
+218
+00:29:42,088 --> 00:29:43,586
+Yes we have, once we can analyse this.
+
+219
+00:29:43,750 --> 00:29:46,001
+Now uh, come on...
+
+220
+00:30:05,288 --> 00:30:06,786
+It should slide somewhere.
+
+221
+00:30:06,957 --> 00:30:08,980
+Yes, there must be a trip-mechanism.
+
+222
+00:30:09,231 --> 00:30:11,210
+Doctor look, there's a photo-electric cell here.
+
+223
+00:30:11,445 --> 00:30:12,015
+Aah!
+
+224
+00:30:12,213 --> 00:30:13,209
+It can't be working.
+
+225
+00:30:13,509 --> 00:30:14,712
+Well if it's not working...
+
+226
+00:30:15,106 --> 00:30:16,813
+Then the Krotons must have cut the circuit.
+
+227
+00:30:16,989 --> 00:30:17,718
+Yes.
+
+228
+00:30:17,879 --> 00:30:19,866
+Then we're trapped, they know we're here!
+
+229
+00:30:20,023 --> 00:30:24,154
+Just a moment I have an idea.
+Er, that piece of mica that I picked up, here we are...
+
+230
+00:30:24,357 --> 00:30:26,759
+Now if I can use it to bridge the gap...
+
+231
+00:30:27,084 --> 00:30:28,310
+Well will mica work?
+
+232
+00:30:28,517 --> 00:30:29,892
+Well the whole machine's made of crystal.
+
+233
+00:30:33,993 --> 00:30:36,762
+Wait! The poison jet!
+
+234
+00:30:36,886 --> 00:30:40,099
+THEY HAVE ACTIVATED THE CIRCUIT.
+
+235
+00:30:40,334 --> 00:30:44,350
+THEN THE DISPERSION UNIT WILL KILL THEM.
+
