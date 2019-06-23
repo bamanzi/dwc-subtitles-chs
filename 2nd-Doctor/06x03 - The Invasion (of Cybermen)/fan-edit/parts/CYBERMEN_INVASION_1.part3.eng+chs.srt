@@ -12,7 +12,7 @@ BENTON: <i>Some time ago, sir.</i>
 00:22:21,247 --> 00:22:24,205
 <i>Tracy followed them as far as the official </i>
 <i>boundary of the railway sidings.</i>
-fixme
+Tracy 跟着他们一直到了铁轨的外墙边上
 
 4
 00:22:24,287 --> 00:22:25,720
@@ -29,7 +29,7 @@ fixme
 00:22:28,087 --> 00:22:29,759
 - Right, stick around for a while.
 <i>- Just a minute, sir.</i>
-- 好, 暂时还待在那里  - 等一下, 长官
+- 好, 继续还待在那里  - 等一下, 长官
 
 7
 00:22:29,847 --> 00:22:30,996
@@ -53,15 +53,16 @@ Yes, what is it, Benton?
 噢, 他们开走了, 长官
 
 11
-00:22:48,987 --> 00:22:50,181
-Is any force being used?
-有武力胁迫吗？
+00:22:48,987 --> 00:22:51,181
+- Is any force being used?
+- <i>No. Not that I can see.</i>
+- 有武力胁迫吗？  - 没有, 我没有见到．
 
 12
-00:22:50,267 --> 00:22:53,543
-<i>No. Not that I can see. Packer was there,</i>
-<i>but it all seemed very friendly to me.</i>
-没有, 我没有见到．Packer 也在, 但在我看来似乎还比较友好
+00:22:51,267 --> 00:22:53,543
+<i>Packer was there,
+but it all seemed very friendly to me.</i>
+Packer 也在, 但在我看来似乎还比较友好
 
 13
 00:22:53,627 --> 00:22:54,742
@@ -76,9 +77,8 @@ Over and out.
 
 15
 00:22:57,687 --> 00:23:00,145
-- Sergeant Walters.
-- Yes, sir?
-- Walters 军士  - 是, 长官
+- Sergeant Walters.  - Yes, sir?
+- Walters 中士  - 是, 长官
 
 16
 00:23:00,227 --> 00:23:03,458
@@ -93,7 +93,7 @@ Over and out.
 - 你都听到了吗, Jimmy?  - 听到了, 长官
 
 18
-00:23:07,087 --> 00:23:10,284
+00:23:07,187 --> 00:23:10,284
 Look, we'll get you aboard a chopper,
 and you can rendezvous with the tracking agent.
 我给你安排一架直升飞机, 你就可以与负责跟踪的人汇合了
@@ -108,1311 +108,1329 @@ All right, sir.
 (ROTORS WHIRRING)
 
 21
-00:23:37,927 --> 00:23:40,487
-Yes, they've just gone into the IE area, sir.
-Shall I follow?
-好, 他们已经进入了 IE 的区域, 长官．我要跟进去吗？
+00:23:37,927 --> 00:23:39,687
+Yes, they've just gone into the IE area, sir. 
+好, 他们已经进入了 IE 的区域, 长官
 
 22
-00:23:40,647 --> 00:23:45,277
-No, circle the area. We can't really do anything
-until we get a request from the Doctor.
-不, 在那里盘旋．除非我们收到博士的请求, 否则我们什么也不能做
+00:23:39,787 --> 00:23:41,647
+- Shall I follow?  - No, circle the area.
+- 我要跟进去吗？  - 不, 在那里盘旋．
 
 23
+00:23:41,747 --> 00:23:45,277
+We can't really do anything
+until we get a request from the Doctor.
+除非我们收到博士的请求, 否则我们什么也不能做
+
+24
 00:23:45,367 --> 00:23:48,120
 <i>- Standing by, sir.</i>
 - And, Jimmy, keep out of sight.
-- 待命中，长官  - 还有，Jimmy，待在他们视线外
+- 待命中，长官  - 还有，Jimmy，保持在他们视线之外
 
-24
+25
 00:23:48,207 --> 00:23:50,960
 If Vaughn's private army see you,
 they might well get the wind up,
-如果 Vaughn 的私人武装看到你们，可能会搞事
+如果 Vaughn 的私人武装看到你们，他们可能会搞事
 
-25
+26
 00:23:51,047 --> 00:23:54,278
 and that might make things rather unhealthy
 for the Doctor and the boy.
-就有可能会让局面对博士和那个小伙子不利
+这可能会让局面对博士和那个小伙子不利
 
-26
+27
 00:23:57,747 --> 00:23:58,816
 Hey!
 嘿
 
-27
+28
 00:24:03,147 --> 00:24:05,786
-- Doctor, it's...
-- Confusing, isn't it?
+- Doctor, it's...  - Confusing, isn't it?
 - 博士，这...  - 分不清了，是吧？
 
-28
+29
 00:24:06,107 --> 00:24:08,063
 It's exactly the same as your office in London.
 这跟你在伦敦的办公室一模一样
 
-29
+30
 00:24:08,147 --> 00:24:10,377
 In all basic essentials, yes, it is.
-主要的配件的确都是一样的
+所有基本要素都是一样的, 是的
 
-30
+31
 00:24:10,467 --> 00:24:12,219
 That's the secret of my success, you see.
 这是我成功的秘诀，知道吗
 
-31
+32
 00:24:12,307 --> 00:24:14,263
 Uniformity. Duplication.
 匀称，一致
 
-32
+33
 00:24:14,707 --> 00:24:16,584
 My whole empire is based on that principle.
 我的整个商业帝国都基于这个原则
 
-33
+34
 00:24:16,667 --> 00:24:18,419
 The very essence of business efficiency.
 业务效率的精髓
 
-34
-00:24:18,507 --> 00:24:20,975
-- Do sit down.
-- DOCTOR: Oh, how kind.
-- 请坐下  - 哦，谢谢
-
 35
+00:24:18,507 --> 00:24:20,975
+- Do sit down.  - DOCTOR: Oh, how kind.
+- 请坐下  - 哦，有心了
+
+36
 00:24:25,627 --> 00:24:29,176
 I must say I'm rather glad
 we have this opportunity to talk.
 我必须要说我很高兴我们有机会进行这次谈话
 
-36
+37
 00:24:29,267 --> 00:24:30,461
 Really?
 真的？
 
-37
+38
 00:24:31,507 --> 00:24:34,305
 I should, of course, be angry with you.
 当然，其实我应该生你们的气
 
-38
+39
 00:24:34,907 --> 00:24:38,422
 You've thwarted my elaborate
 security precautions twice.
 你们挫败了我精心制定的安全预防措施，两次
 
-39
+40
 00:24:38,747 --> 00:24:40,977
 - I'd like to know why.
 - Oh, that's quite simple.
 - 我想知道为什么  - 哦，那很简单
 
-40
+41
 00:24:41,067 --> 00:24:44,298
 I hate computers
 and refuse to be bullied by them.
 我讨厌电脑，拒绝被他们欺负
 
-41
+42
 00:24:44,947 --> 00:24:46,096
 Your young friend Zoe.
 你们的年轻朋友 Zoe
 
-42
+43
 00:24:46,187 --> 00:24:49,020
 - Well, what about her?
 - Well, she appears to have the same instincts.
-- 哦，关她什么事  - 她似乎也有同样的直觉
+- 哦，她怎么了  - 她似乎也有同样的直觉
 
-43
+44
 00:24:49,107 --> 00:24:52,019
 She so confused one of my computers
 she ruined its memory store.
-FIXME
+所以她搞烂了我们的一台电脑, 毁坏了它的内存记忆
 
-44
+45
 00:24:52,107 --> 00:24:55,417
 So that's why your thugs
 dragged her and Isobel away.
 所以这就是为什么你那些暴徒会把她和 Isobel 拖走
 
-45
+46
 00:24:55,507 --> 00:24:58,021
 My dear young man, I wasn't angry with her.
 我亲爱的年轻人，我没生她的气
 
-46
-00:24:58,107 --> 00:25:02,703
-On the contrary, I found the incident
-quite amusing. She's a remarkable girl.
-恰恰相反，我发现这个事情很有意思。她是个非凡的人
-
 47
+00:24:58,107 --> 00:25:00,703
+On the contrary, I found the incident quite amusing.
+恰恰相反，我发现这个事情很有意思
+
+48
+00:25:00,807 --> 00:25:02,703
+She's a remarkable girl.
+她是个不寻常的女孩儿
+
+49
 00:25:03,267 --> 00:25:07,579
 And you, Doctor, are obviously a man
 of no mean scientific ability.
 而你，博士，显然是个科学能力不一般的人
 
-48
+50
 00:25:07,867 --> 00:25:09,016
 Why do you say that?
 你为什么这么说？
 
-49
+51
 00:25:09,107 --> 00:25:12,577
 Well, my research department
 found these quite fascinating.
 哦，我的研究部发现这些东西很吸引人
 
-50
+52
 00:25:12,667 --> 00:25:16,023
 There's a totally illogical factor
 in their construction.
+在它们的结构里面有一个完全不符合逻辑的部分
 
-51
+53
 00:25:16,547 --> 00:25:18,663
 Are they of your own invention?
 这是你自己发明的吗？
 
-52
+54
 00:25:20,467 --> 00:25:23,743
 Ah, you're determined to guard your secret, I see.
 啊，你下定了决心要保守你的秘密，我明白了
 
-53
+55
 00:25:24,987 --> 00:25:28,502
 I don't blame you,
 and I promise not to pry any more.
 我不怪你，而且我保证不再打听了
 
-54
+56
 00:25:29,507 --> 00:25:33,056
 - In fact, I'll do all I can to help you.
 - Oh, how kind.
-- 事实上，我会竭尽所能帮助你  - 噢，好心
+- 事实上，我会竭尽所能帮助你  - 噢，你真好
 
-55
+57
 00:25:33,867 --> 00:25:36,017
 Now, you say you came here
 looking for Professor Watkins
 现在，你们说来这里是找 Watkins 教授
 
-56
+58
 00:25:36,107 --> 00:25:37,665
 because you thought he might be able to help you.
 说是因为你们觉得他也许可以帮助你们
 
-57
+59
 00:25:37,747 --> 00:25:38,782
 Yes.
 是的
 
-58
+60
 00:25:38,867 --> 00:25:42,337
 Well, then I'll try to persuade him
 to put aside his work and, um,
-好，那我会试试看能否说服他把工作放一放
+好，那我会试试, 看能否说服他把工作放一放
 
-59
+61
 00:25:42,427 --> 00:25:44,782
 concentrate his efforts on your behalf.
 聚焦到你的事情上
 
-60
+62
 00:25:44,867 --> 00:25:46,698
 Make yourself at home.
 请随意
 
-61
+63
 00:25:51,907 --> 00:25:53,183
 Hey, look, you're not going to trust him, are you?
-嘿，你没打算相信他吧，是吗？
+嘿，听着, 你没打算相信他吧，是吗？
 
-62
+64
 00:25:53,267 --> 00:25:56,905
 - I mean, what about Zoe and Isobel?
 - I haven't forgotten them, Jamie.
-- 我是说，Zoe 和 Isobel 怎么办？- 我没忘记她们, Jamie
+- 我是说，Zoe 和 Isobel 怎么办？  - 我没忘记她们, Jamie
 
-63
+65
 00:25:56,987 --> 00:25:58,864
 They're in that box. I'm sure of it.
 她们就在那里面，我敢肯定
 
-64
+66
 00:25:58,947 --> 00:26:02,064
 Jamie, we're not going to help Zoe
 by annoying Mr Vaughn, are we?
 Jamie，我们惹恼 Vaughn 先生并不能帮上 Zoe，对吗？
 
-65
+67
 00:26:02,147 --> 00:26:04,217
 I don't think you can annoy that man
 even if you wanted to.
-我觉得就是你想，你也不能惹恼那个家伙
-
-66
-00:26:04,307 --> 00:26:05,786
-He's being as nice as pie.
-他的脾气太好了
-
-67
-00:26:05,867 --> 00:26:06,902
-He's too nice.
-他是有点太好了
+我觉得就是你想，你也没法惹恼那个家伙
 
 68
+00:26:04,307 --> 00:26:05,786
+He's being as nice as pie.
+他的脾气很好
+
+69
+00:26:05,867 --> 00:26:06,902
+He's too nice.
+他有点太好了
+
+70
 00:26:06,987 --> 00:26:08,864
 - Yeah, but why should he be?
 - I don't know.
 - 是，但为什么他会这样？  - 我不知道
 
-69
+71
 00:26:08,947 --> 00:26:11,984
 He's a little bit too interested
 in these circuits for my liking.
 他对这些电路有点太感兴趣了, 我不喜欢
 
-70
+72
 00:26:12,067 --> 00:26:14,501
 Hey, do you think he knows
 about the Tardis, then?
 嘿，那，你觉得他知道 TARDIS 的事吗？
 
-71
+73
 00:26:16,227 --> 00:26:17,740
 Well, I don't see how he could do.
 我看不出他怎么能知道
 
-72
+74
 00:26:17,827 --> 00:26:22,457
 No, well, perhaps this Professor Watkins
 will be able to tell us what's going on around here.
 不能。也许这位 Watkins 教授能告诉我们这里在搞什么
 
-73
+75
 00:26:22,707 --> 00:26:25,460
 - Yes, but that's what's worrying me.
 - What?
 - 是，但让我困扰的也是这个  - 什么？
 
-74
-00:26:25,707 --> 00:26:27,466
+76
+00:26:25,707 --> 00:26:27,666
 Well, if Vaughn has anything to hide...
 是这样，如果 Vaughn 有事情瞒着我们...
 
-75
-00:26:27,612 --> 00:26:29,766
+77
+00:26:27,712 --> 00:26:29,766
 why is he letting us talk to Watkins?
 他为什么会让我们跟 Watkins 谈话？
 
-76
+78
 00:26:30,227 --> 00:26:31,983
 I'd think about it if I were you, Professor.
 如果我是你，我就会考虑的，教授
 
-77
+79
 00:26:32,067 --> 00:26:35,539
 After all, she is a pretty girl.
 It'd be a shame to spoil all that.
-毕竟，她是个漂亮的女孩儿，破坏掉的话就就太惭愧了
+毕竟，她是个漂亮的女孩儿，破坏这一点的话就就太惭愧了
 
-78
+80
 00:26:35,627 --> 00:26:38,460
 What a vicious sadist you are, Packer.
 你是个多么恶毒的虐待狂啊，Packer
 
-79
+81
 00:26:40,027 --> 00:26:42,143
 I don't believe you, anyway.
 我不相信你，不管怎样
 
-80
+82
 00:26:42,987 --> 00:26:45,296
 I don't make idle threats, Professor,
 as you well know.
 我不会做无谓的威胁，教授，你是知道的
 
-81
-00:26:45,387 --> 00:26:48,538
+83
+00:26:45,387 --> 00:26:47,038
 If you want to see that girl again in one piece,
-I suggest you do as Mr Vaughn asks.
-如果你还想见到那个女孩儿完整一块的话，我建议你按 Vaughn 先生说的做
+如果你还想见到那个女孩儿完好无损话，
 
-82
+84
+00:26:47,187 --> 00:26:48,538
+I suggest you do as Mr Vaughn asks.
+我建议你按 Vaughn 先生要求的做
+
+85
 00:26:48,627 --> 00:26:52,097
 How do I know that you already
 haven't harmed her, if you had got her.
-如果说你们已经抓了她，我怎么知道还没有伤害她？
+我怎么知道你们还没有伤害她, 既然你们都抓住她了？
 
-83
+86
 00:26:52,187 --> 00:26:54,701
 You can take my word for that, Professor.
 你可以得到我对此的承诺，教授
 
-84
+87
 00:26:54,787 --> 00:26:56,140
 (LAUGHING) Your word.
 你的承诺
 
-85
+88
 00:26:56,227 --> 00:26:58,695
-I know just how much value
-I can place on that.
-我可知道该对它估价几何
+I know just how much value I can place on that.
+我可知道它值多少钱
 
-86
+89
 00:26:58,787 --> 00:27:01,347
 Harsh words, Professor, harsh words.
 话说过份了啊，教授，过份了
 
-87
+90
 00:27:04,107 --> 00:27:05,586
 Any progress?
 有什么进展？
 
-88
+91
 00:27:07,467 --> 00:27:11,540
 - So you haven't yet completed the machine?
 - No, and I don't intend to.
 - 看来你还没有完成这个机器  - 没，而且我也没打算完成
 
-89
+92
 00:27:11,627 --> 00:27:13,936
 Oh, I think you will, Professor.
 噢，我想你会的，教授
 
-90
+93
 00:27:14,027 --> 00:27:15,983
 Much as I detest violence,
 虽然我很讨厌暴力
 
-91
-00:27:16,067 --> 00:27:20,777
+94
+00:27:16,067 --> 00:27:21,777
 I find it difficult to restrain Packer's
 indisputable talent for persuasion.
-我发现很难抑制 Packer 那无可争辩的说服才能
+我发现很难压制 Packer 那无可争辩的说服能力
 
-92
+95
 00:27:22,427 --> 00:27:24,338
 Your niece is in our custody,
 你侄女在我们的监管之下
 
-93
+96
 00:27:24,427 --> 00:27:28,181
 and unless you do as I ask,
 I shall hand her over to Packer.
 除非你按我的要求去做, 否则我就把她交给 Packer
 
-94
+97
 00:27:28,827 --> 00:27:30,579
 The choice is yours.
-选择是你的
+选择权在你
 
-95
+98
 00:27:33,347 --> 00:27:37,181
 If I do cooperate, will you let her go?
 如果我合作，你们会放她走吗？
 
-96
-00:27:37,507 --> 00:27:41,739
+99
+00:27:37,507 --> 00:27:42,539
 Oh, no, she's our guarantee,
 but she'll come to no harm.
-哦，不会，她是我们的保证，但她不会受到伤害
+哦，不会，她是我们的保证人，不过她不会受到伤害
 
-97
+100
 00:27:43,667 --> 00:27:44,986
 All right.
 好吧
 
-98
+101
 00:27:45,427 --> 00:27:48,021
 - But I must see Isobel first.
 - Of course.
 但我必须先见到 Isobel  - 当然
 
-99
+102
 00:27:48,107 --> 00:27:50,541
 Oh, there is just one other thing.
-哦，还有一件事
+哦，另外只有一件事了
 
-100
+103
 00:27:50,627 --> 00:27:53,425
 Don't look at me so suspiciously,
 my dear Professor.
 别用这种怀疑的眼神看我，亲爱的教授
 
-101
+104
 00:27:53,507 --> 00:27:56,067
 It's merely that there are some friends 
 of yours here who wish to see you.
 只不过这里有几位你的朋友想要见你
 
-102
+105
 00:27:56,147 --> 00:27:59,503
 - Friends?
 - Yes, they've gone to great pains to seek you out.
-- 朋友？  - 是的，他们费尽心机把你找出来
+- 朋友？  - 是的，他们费尽周折要把你找出来
 
-103
+106
 00:27:59,587 --> 00:28:02,340
 But I haven't been allowed visitors
 since I came here.
 但自从我到这里来，就不被允许会客
 
-104
+107
 00:28:02,427 --> 00:28:04,782
 Why are you suddenly considerate?
 你怎么突然这么贴心了？
 
-105
+108
 00:28:04,867 --> 00:28:06,823
 I might tell them everything.
-我可能把一切都告诉他们？
+我可能把一切都告诉他们
 
-106
+109
 00:28:06,907 --> 00:28:08,499
 Everything?
 一切？
 
-107
+110
 00:28:08,587 --> 00:28:11,260
-My dear Professor,
-you know nothing that can harm me.
-亲爱的教授，能伤到我的事情你一点也不知道
+My dear Professor, you know nothing that can harm me.
+亲爱的教授，你不知道任何对我不利的信息
 
-108
+111
 00:28:11,347 --> 00:28:13,861
 Besides, there's always Isobel
 to consider, isn't there?
 再说了，总还得考虑 Isobel 吧，是不？
 
-109
+112
 00:28:13,947 --> 00:28:17,417
 - Or would you rather leave her to me?
 - No, no, Packer.
 - 或许你更愿意把她留给我？  - 不，不，Packer
 
-110
+113
 00:28:17,507 --> 00:28:20,544
 The Professor's going to do exactly as we ask.
 教授会严格按我们要求的做
 
-111
+114
 00:28:21,067 --> 00:28:22,466
 Aren't you?
 对吧？
 
-112
+115
 00:28:22,687 --> 00:28:25,485
 Yes, of course, I remember
 Anne Travers telling me about you.
 是的，当然了，我记得 Anne Travers 跟我说起过你
-<i>(Anne Travers, 老 Travers 教授的女儿，在 05x05 The Web of Fear 一集中他们父女俩与博士、UNIT一起对抗雪怪)</i>
 
-113
+116
+00:28:22,690 --> 00:28:27,630
+<i>(Anne Travers 是老 Travers 教授的女儿，
+在 05x05 The Web of Fear 一集中他们父女俩
+与博士、UNIT一起对抗雪怪)</i>
+
+117
 00:28:25,567 --> 00:28:27,683
 She was a student of mine, 
 you know, some years ago.
-她是我的学生，知道吗，多年以前
+她是我的学生，你知道，多年以前
 
-114
+118
 00:28:27,767 --> 00:28:29,325
 - Brilliant girl. Brilliant.  - Yes.
 - 很有才华的女孩，很有才华  - 是的
 
-115
+119
 00:28:29,407 --> 00:28:32,638
 Yes, they went to America, didn't they?
 是的，他们去了美洲，是吗？
 
-116
+120
 00:28:32,727 --> 00:28:35,002
 Oh, Travers was getting past it a bit, you know,
-哦，Travers 有点老了
+哦，Travers 有点老了, 你知道
 
-117
+121
 00:28:35,087 --> 00:28:37,043
-and Anne persuaded him
-to go to America with her.
+and Anne persuaded him to go to America with her.
 Anne 说服了他跟她一起去美洲
 
-118
+122
 00:28:37,127 --> 00:28:38,321
 Oh, yes.
 哦，是了
 
-119
+123
 00:28:38,767 --> 00:28:40,723
 What are you doing here?
 你在这里做什么？
 
-120
+124
 00:28:41,167 --> 00:28:43,123
 Well, it's a long story.
 啊，这就说来话长了
 
-121
+125
 00:28:44,127 --> 00:28:47,563
 The strange Doctor
 has been on another planet, Packer.
 这个奇怪的博士到过其它星球，Packer
 
-122
+126
 00:28:47,687 --> 00:28:49,439
 That's not possible!
 那是不可能的
 
-123
+127
 00:28:50,247 --> 00:28:52,078
 It is a fact, Packer.
 这是事实，Packer
 
-124
+128
 00:28:52,527 --> 00:28:54,677
 He has some sort of machine.
 他有某种机器
 
-125
+129
 00:28:56,487 --> 00:28:59,240
 Now let's see if we can
 learn more about it, shall we?
 现在我们来看看能不能了解到更多情况，好吗？
 
-126
+130
 00:28:59,327 --> 00:29:00,999
 Switch on, Packer.
 打开吧，Packer
 
-127
+131
 00:29:02,727 --> 00:29:04,080
 With sound.
 声音也打开
 
-128
+132
 00:29:06,727 --> 00:29:08,558
 <i>So we went to see Mr Vaughn,</i>
 所以我们去找 Vaughn 先生
 
-129
+133
 00:29:08,647 --> 00:29:10,444
 <i>and he said that you were working</i>
 <i>on something important.</i>
 他说你在做一个重要的项目
 
-130
+134
 00:29:10,527 --> 00:29:12,961
 I see. That's why you wanted to
 leave them alone together.
 我明白了，这就是为什么你要把他们俩单独留在一起
 
-131
+135
 00:29:13,047 --> 00:29:14,480
 Exactly, Packer.
 正是，Packer
 
-132
+136
 00:29:14,567 --> 00:29:15,602
 (COMMUNICATOR HUMMING)
 
-133
+137
 00:29:15,687 --> 00:29:19,236
 <i>But the Doctor needed some help</i>
 <i>on some electronic circuits that the Tardis had.</i>
 但博士需要有人帮忙弄一下 TARDIS 的电路板
 
-134
+138
 00:29:19,327 --> 00:29:20,362
 - Really?  - Aye, aye.
 - 真的？  - 是，是
 
-135
+139
 00:29:20,447 --> 00:29:22,756
 Jamie, Jamie. I don't think
 the Professor wants to hear about that.
-Jamie，Jamie，我觉得教授对这个不感兴趣
+Jamie，Jamie，我不觉得教授对这个感兴趣
 
-136
+140
 00:29:22,847 --> 00:29:25,919
 Oh, on the contrary, what Anne told me
 about the Tardis was most intriguing.
 噢，恰恰相反，Anne 所告诉我的那些 TARDIS 的事情是最吸引我的
 
-137
+141
 00:29:26,007 --> 00:29:27,122
 I'd like to hear a lot more about it.
 我想多听一点关于它的事情
 
-138
+142
 00:29:27,207 --> 00:29:29,675
 Professor, I think I should warn you
 教授，我觉得我应该警告你
 
-139
+143
 00:29:29,767 --> 00:29:33,316
 that Anne Travers allowed
 her imagination to run a little wild.
-Anne Travers 放任她的想象天马行空了
+Anne Travers 太放任她的想象力天马行空乱跑了
 
-140
+144
 00:29:33,407 --> 00:29:34,726
-You mean to say that
-there is no such machine?
+You mean to say that there is no such machine?
 你是想说没有这样的机器？
 
-141
+145
 00:29:34,807 --> 00:29:36,286
-- Of course there is...
-- Jamie, I think
+- Of course there is...  - Jamie, I think
 - 当然有...  - Jamie，我觉得
 
-142
+146
 00:29:36,367 --> 00:29:39,086
 there are other more important things
 to talk about at the moment.
 现在这时候还有更重要的事情需要讨论
 
-143
+147
 00:29:39,167 --> 00:29:40,395
 Oh, I see, yes.
 哦，我明白了，是的
 
-144
+148
 00:29:40,487 --> 00:29:43,285
 Professor, tell us about what you're doing here.
 教授，告诉我们你在这里做些什么
 
-145
+149
 00:29:43,367 --> 00:29:45,119
 Oh, it's very simple, really.
 哦，很简单的事情，真的
 
-146
+150
 00:29:45,207 --> 00:29:46,925
 I've been developing
 a new kind of teaching machine.
 我在研究一种新的教学机器
 
-147
+151
 00:29:47,007 --> 00:29:48,281
 - Oh, yes? A teaching machine?
 - What's it called?
 - 哦，是吗？一种教学机器？  - 它叫做什么？
 
-148
+152
 00:29:48,367 --> 00:29:50,676
 - I call it the Cerebraton Mentor.
 - Oh, aye.
 - 我把它叫做思维导师  - 哦，是
 
-149
+153
 00:29:50,847 --> 00:29:53,457
-The main difference
-from other teaching machines
+The main difference from other teaching machines
 它与其它教学机器的主要差别
 
-150
+154
 00:29:53,547 --> 00:29:56,886
 is that it's able to induce 
 emotional changes in the subject.
 就是它能诱导测试对象的情绪变化
 
-151
+155
 00:29:56,967 --> 00:29:58,286
 JAMIE: Oh.
 噢
 
-152
+156
 00:30:01,127 --> 00:30:03,357
 Our friend the Doctor is a resourceful man.
 我们的博士朋友是个足智多谋的人
 
-153
+157
 00:30:03,447 --> 00:30:05,677
 No wonder our allies fear him.
 怪不得我们的盟友害怕他
 
-154
+158
 00:30:05,807 --> 00:30:09,436
 - Our allies know him?
 - Oh, yes, I was ordered to destroy him.
-- 我们的盟友知道他？  - 哦，是的，他们命令我消灭他
+- 我们的盟友知道他？  - 哦，是的，它们命令我消灭他
 
-155
+159
 00:30:10,407 --> 00:30:13,717
 But first I must learn the secrets
-of 
-this extraordinary machine of his.
-但首先我必须掌握这台非凡机器的秘密
+of this extraordinary machine of his.
+但首先我必须掌握他那台非凡机器的秘密
 
-156
-00:30:13,807 --> 00:30:18,198
-- If you're ordered to destroy him...
-- I don't take orders, Packer. I give them!
-- 如果命令是要消灭他...  - 我不接受命令，Packer，我只下发命令！
+160
+00:30:13,807 --> 00:30:15,498
+If you're ordered to destroy him...
+如果它们的命令是要消灭他...
 
-157
-00:30:20,367 --> 00:30:23,404
+161
+00:30:15,607 --> 00:30:18,198
+I don't take orders, Packer. I give them!
+我不接受命令，Packer，我只下发命令！
+
+162
+00:30:20,367 --> 00:30:23,704
 Now, I think the time has come
 to stop playing games with this Doctor!
-现在，我觉得是时候停止与博士玩游戏了
+现在，我觉得是时候停止与博士玩游戏了!
 
-158
-00:30:23,687 --> 00:30:24,915
+163
+00:30:23,787 --> 00:30:24,915
 But what can we do?
 但我们能怎么做？
 
-159
-00:30:25,007 --> 00:30:27,396
+164
+00:30:25,007 --> 00:30:27,896
 If, as you say, they have got Isobel
 and your young friend,
 如果，如你所说，他们抓住了 Isobel 和你那年轻朋友
 
-160
-00:30:27,487 --> 00:30:28,681
+165
+00:30:27,987 --> 00:30:29,381
 then we're entirely at their mercy.
 那我们就完全得看他们脸色了
 
-161
-00:30:28,767 --> 00:30:31,440
+166
+00:30:29,467 --> 00:30:31,840
 No, no, not entirely.
 There's my friend the Brigadier, remember?
 不，不，也不尽然。还有我的准将朋友，记得吗？
 
-162
-00:30:31,527 --> 00:30:33,245
-- Do you think he can help us?
-- Possibly.
+167
+00:30:31,927 --> 00:30:33,585
+- Do you think he can help us?  - Possibly.
 - 你觉得他能帮助我们？  - 很可能
 
-163
-00:30:33,327 --> 00:30:36,797
+168
+00:30:33,677 --> 00:30:35,497
 But quickly, tell me, what is Vaughn up to?
-What's he doing here?
-但是快点，告诉我，Vaughn 在图谋什么？他在这里做些什么？
+但是快点，告诉我，Vaughn 在图谋什么？
 
-164
-00:30:36,887 --> 00:30:38,798
-I know no more than you do.
-我知道得不比你多
+169
+00:30:35,587 --> 00:30:38,998
+- What's he doing here?
+- I know no more than you do.
+- 他在这里做些什么？  - 我知道得不比你多
 
-165
-00:30:38,887 --> 00:30:42,163
+170
+00:30:39,087 --> 00:30:42,363
 He's a ruthless man, without morals or principles.
 他是个冷酷无情的人, 没有道德和原则
 
-166
-00:30:42,447 --> 00:30:47,840
+171
+00:30:42,647 --> 00:30:48,040
 His object, I'm sure, is to get complete control
 of the electronics industry of the world!
 他的目标，我肯定，是要全面控制整个世界的电子工业！
 
-167
-00:30:48,127 --> 00:30:49,480
+172
+00:30:48,327 --> 00:30:49,680
 I wonder.
 我很好奇
 
-168
-00:30:49,567 --> 00:30:53,082
+173
+00:30:49,767 --> 00:30:53,282
 I've a nasty feeling he's aiming
 somewhat higher than that.
 我有一种不好的感觉，他有某种比这更高的目标
 
-169
-00:30:56,047 --> 00:30:58,436
+174
+00:30:56,247 --> 00:30:58,636
 Doctor, quick, somebody's coming.
 博士，快，有人来了
 
-170
-00:31:00,487 --> 00:31:02,318
+175
+00:31:00,687 --> 00:31:02,518
 Don't bother, Doctor.
 别费事了，博士
 
-171
-00:31:03,407 --> 00:31:04,726
+176
+00:31:03,607 --> 00:31:04,926
 Allow me.
 让我来
 
-172
-00:31:07,687 --> 00:31:09,996
+177
+00:31:07,887 --> 00:31:10,196
 Very ingenious. A simple magnet.
 很天才啊，一块简单的磁铁
 
-173
-00:31:11,087 --> 00:31:12,759
+178
+00:31:11,287 --> 00:31:12,959
 I congratulate you.
 我祝贺你
 
-174
-00:31:13,727 --> 00:31:15,160
+179
+00:31:13,927 --> 00:31:15,360
 Oh, how kind.
 哦，谢谢
 
-175
-00:31:15,887 --> 00:31:17,764
+180
+00:31:16,087 --> 00:31:17,964
 However, you must surely realise
-但是，你必须明白
+但是，你肯定明白
 
-176
-00:31:17,847 --> 00:31:20,919
+181
+00:31:18,047 --> 00:31:21,119
 that it's forced me to consider
 other methods to make you talk.
 这会逼我考虑其它方法来让你说话
 
-177
-00:31:21,007 --> 00:31:22,486
+182
+00:31:21,207 --> 00:31:22,686
 What are you going to do?
 你打算做什么？
 
-178
-00:31:22,567 --> 00:31:25,240
+183
+00:31:22,767 --> 00:31:25,440
 Your friend Zoe is due to arrive here shortly.
 你的朋友 Zoe 很快就该到了
 
-179
-00:31:25,327 --> 00:31:27,477
+184
+00:31:25,527 --> 00:31:27,677
 So you have got her!
 Listen, if you've harmed her in any...
 看来你抓了她！听着，如果你伤害她一根...
 
-180
-00:31:27,567 --> 00:31:31,082
+185
+00:31:27,767 --> 00:31:31,282
 You may still be adolescent enough
 to make idle threats, young man,
 你可以继续幼稚地做些空洞的威胁，年轻人
 
-181
-00:31:31,167 --> 00:31:33,635
+186
+00:31:31,367 --> 00:31:33,835
 but I can assure you, I am not.
 但我可以向你保证，我就不会
 
-182
-00:31:37,127 --> 00:31:39,641
+187
+00:31:37,327 --> 00:31:39,841
 I want your travel machine, Doctor.
 我要你的旅行机器，博士
 
-183
-00:31:40,007 --> 00:31:43,124
+188
+00:31:40,207 --> 00:31:43,324
 Otherwise, I shall hand your friend Zoe
 over to Packer.
 否则，我就会把你的朋友交给 Packer
 
-184
-00:31:43,207 --> 00:31:47,962
+189
+00:31:43,407 --> 00:31:48,162
 It's a simple choice, and shouldn't take you
 longer than an hour to consider.
 这是个简单的选择，应该不需要超过一个小时来考虑
 
-185
-00:31:48,247 --> 00:31:50,158
+190
+00:31:48,447 --> 00:31:50,358
 Take them away, Packer.
 把他们带走，Packer
 
-186
-00:31:52,407 --> 00:31:53,726
+191
+00:31:52,607 --> 00:31:53,926
 - All right.  - All right.
 - 好啦  - 好啦
 
-187
-00:31:53,807 --> 00:31:56,241
+192
+00:31:54,007 --> 00:31:56,441
 Leave them to me. I'll take them.
 把他们留给我，我来处理
 
-188
-00:31:56,807 --> 00:32:00,243
-Now, Professor, I suggest you 
-continue with your work.
+193
+00:31:57,007 --> 00:32:00,443
+Now, Professor, I suggest you continue with your work.
 现在，教授，我建议你继续你的工作
 
-189
-00:32:05,807 --> 00:32:08,844
+194
+00:32:06,007 --> 00:32:09,044
 Oh, dear. You know, Jamie,
 I've always been rather scared of lifts.
 噢，天。你知道吗，Jamie，我一直都很害怕电梯
 
-190
-00:32:08,927 --> 00:32:10,042
+195
+00:32:09,127 --> 00:32:10,242
 Why?
 为什么？
 
-191
-00:32:10,127 --> 00:32:12,004
+196
+00:32:10,327 --> 00:32:12,204
 I never even like to start them.
 我甚至从不喜欢启动它们
 
-192
-00:32:12,087 --> 00:32:13,645
+197
+00:32:12,287 --> 00:32:13,845
 You will have to push the button for me.
 你必须得替我按按钮了
 
-193
-00:32:13,727 --> 00:32:16,321
-- Keep your mouth shut. Do as you're told.
+198
+00:32:13,927 --> 00:32:15,121
+Keep your mouth shut. Do as you're told.
+闭上你的嘴。按吩咐的做
+
+199
+00:32:15,227 --> 00:32:17,351
 - Yes, Jamie. Do as you're told.
-- 闭上你们的嘴。按吩咐的做  - 是的，Jamie，按吩咐的做
-
-194
-00:32:16,407 --> 00:32:18,398
 - Oh, yes...
-- PACKER: Be quiet!
-- 哦，好...   - 安静！
+- 是的，Jamie，按吩咐的做  - 哦, 好...
 
-195
-00:32:18,847 --> 00:32:22,803
+200
+00:32:17,457 --> 00:32:18,598
+PACKER: Be quiet!
+哦，好...   - 安静！
+
+201
+00:32:19,047 --> 00:32:23,003
 Packer! Mr Packer,
 I obviously can't let you hurt Zoe,
 Packer! Packer 先生，显然我不能让你伤害 Zoe
 
-196
-00:32:22,887 --> 00:32:25,803
+202
+00:32:23,087 --> 00:32:26,003
 and so I'll have to tell you
 all you want to know, now.
 所以我只得把你们想知道的都告诉你们
 
-197
-00:32:25,887 --> 00:32:27,115
+203
+00:32:26,087 --> 00:32:27,315
 You mean you're willing to talk?
 你意思是你愿意说了？
 
-198
-00:32:27,207 --> 00:32:28,959
+204
+00:32:27,407 --> 00:32:29,159
 Yes, I'm sure that Mr Vaughn would...
-是的，我确信 Vaughn 将会...
+是的，我确信 Vaughn 先生会...
 
-199
-00:32:29,047 --> 00:32:31,481
+205
+00:32:29,247 --> 00:32:31,681
 - Oh, there he is now...
 - Quick, Doctor.
 - 哦，他不来了吗...  - 快点，博士
 
-200
-00:32:34,927 --> 00:32:35,916
+206
+00:32:35,327 --> 00:32:36,316
 Your knife.
 你的刀
 
-201
-00:32:36,007 --> 00:32:37,645
+207
+00:32:36,407 --> 00:32:38,045
 Your knife. Give me your knife.
 你的刀，给我你的刀
 
-202
-00:32:37,727 --> 00:32:39,843
+208
+00:32:38,127 --> 00:32:40,243
 - Why? What are you going to do?
 - I'm going to try and break the circuit.
 - 为什么？你打算做什么？  - 我要试试能不能破坏电路
 
-203
-00:32:39,927 --> 00:32:40,996
+209
+00:32:40,327 --> 00:32:41,396
 What would that do?
 那又会怎样？
 
-204
-00:32:41,087 --> 00:32:43,806
+210
+00:32:41,487 --> 00:32:44,206
 Well, it will either stop the lift
 or send us out of control.
 唔，要么会让电梯停掉，要么我们会失控掉下去
 
-205
-00:32:43,887 --> 00:32:45,081
+211
+00:32:44,287 --> 00:32:45,481
 But we're six floors up.
-但我们在六楼以上啊
+但我们在六楼上啊
 
-206
-00:32:45,167 --> 00:32:48,716
+212
+00:32:45,567 --> 00:32:49,116
 We'll have to take that risk.
 Hold tight, here we go.
-我们必须担这个风险。抓紧了，走你
+我们必须担这个风险。抓紧了，我们走
 
-207
-00:32:48,807 --> 00:32:50,035
+213
+00:32:49,207 --> 00:32:50,435
 (CLATTERING)
 
-208
-00:32:50,327 --> 00:32:54,718
+214
+00:32:50,727 --> 00:32:55,118
 - Why are you so gullible, Packer?
 - Just wait till I get hold of them. I'll...
 - 你怎么这么容易受骗，Packer？  - 等我抓到他们，我要...
 
-209
-00:32:54,807 --> 00:32:58,686
+215
+00:32:55,207 --> 00:32:59,086
 You'll do nothing!
 I want them in one piece.
-你要什么也不做。我要他们安然无恙
+你什么也不要做。我要他们安然无恙
 
-210
-00:32:59,787 --> 00:33:02,745
--There was a 50/50 chance, you know, Jamie.
--Yes, but what good has it done us?
-- 那就是 50对50 的几率，知道吧，Jamie  - 哦，但对我们有什么好处呢？
+216
+00:33:00,187 --> 00:33:01,645
+There was a 50/50 chance, you know, Jamie.
+这里有 50对50 的几率，知道吧，Jamie
 
-211
-00:33:02,827 --> 00:33:04,226
+217
+00:33:01,787 --> 00:33:03,145
+Yes, but what good has it done us?
+哦，但对我们有什么好处呢？
+
+218
+00:33:03,227 --> 00:33:04,626
 I mean, we're stuck here in this lift now.
 我是说，我们困在这个电梯里了
 
-212
-00:33:04,307 --> 00:33:06,537
+219
+00:33:04,707 --> 00:33:06,937
 No. No, it's the lift that's stuck,
 不，不，被困住的是电梯
 
-213
-00:33:06,627 --> 00:33:08,060
+220
+00:33:07,027 --> 00:33:08,460
 not us. Look!
 而不是我们。看！
 
-214
-00:33:09,627 --> 00:33:10,742
+221
+00:33:10,027 --> 00:33:11,142
 Hey, where does that lead to?
 嘿，那东西通到哪里？
 
-215
-00:33:10,827 --> 00:33:14,137
+222
+00:33:11,227 --> 00:33:14,537
 Out into the lift shaft, I imagine.
 Quickly, on me back.
 通到电梯井外面，我估计。快点，到我后面去
 
-216
-00:33:14,227 --> 00:33:17,344
+223
+00:33:14,627 --> 00:33:17,744
 You know something?
 You're a clever wee chappie!
 你知道吗？你是个聪明的家伙!
 
-217
-00:33:18,547 --> 00:33:19,662
+224
+00:33:18,947 --> 00:33:20,062
 (GRUNTING)
 
-218
-00:33:20,427 --> 00:33:21,416
+225
+00:33:20,827 --> 00:33:21,816
 (SIGHING)
 
-219
-00:33:25,827 --> 00:33:27,465
+226
+00:33:26,227 --> 00:33:27,865
 Thank you, Jamie.
 谢谢你，Jamie
 
-220
-00:33:28,307 --> 00:33:29,706
+227
+00:33:28,707 --> 00:33:30,106
 Oh, my word!
 哦，老天
 
-221
-00:33:30,427 --> 00:33:32,736
+228
+00:33:30,827 --> 00:33:33,136
 Well, that's a long way up, isn't it?
 啊，上去好远的路啊，是不？
 
-222
-00:33:32,827 --> 00:33:36,024
+229
+00:33:33,227 --> 00:33:36,424
 Oh, well, we better get cracking
 before they realise what's happened, eh?
 哦，我们最好快点爬，一会儿他们就发现了
 
-223
-00:33:36,107 --> 00:33:38,337
+230
+00:33:36,507 --> 00:33:38,737
 - Perhaps I'd better shut this.
 - Aye.
 - 也许我最好关上这个  - 是啊
 
-224
-00:33:39,107 --> 00:33:40,096
+231
+00:33:39,507 --> 00:33:40,496
 (DOCTOR GRUNTS)
 
-225
-00:33:41,107 --> 00:33:43,667
+232
+00:33:41,507 --> 00:33:44,067
 Hey, Doctor, I've just been thinking.
 嘿，博士，我刚才在想
 
-226
-00:33:43,747 --> 00:33:47,342
+233
+00:33:44,147 --> 00:33:47,742
 What happens if they get the lift going
 before we get to the top?
 我们到达顶楼之前，如果他们开动了电梯会怎么样？
 
-227
-00:33:47,427 --> 00:33:49,065
+234
+00:33:47,827 --> 00:33:49,465
 - Oh, that's simple.  - What?
 - 哦，那很简单  - 怎样？
 
-228
-00:33:49,147 --> 00:33:52,344
+235
+00:33:49,547 --> 00:33:52,744
 - We get squashed.
 - Oh. What! Well, come on!
 - 我们会被撞死  - 噢，什么！那，赶紧啊！
 
-229
-00:33:54,427 --> 00:33:55,621
+236
+00:33:54,827 --> 00:33:56,021
 Right!
 对了
 
-230
-00:33:55,787 --> 00:33:58,255
+237
+00:33:56,187 --> 00:33:58,655
 They've switched over the circuits.
 The lift's working!
 他们换了电路板，电梯可以工作了！
 
-231
-00:33:58,347 --> 00:34:00,622
+238
+00:33:58,747 --> 00:34:01,022
 How splendid. Bring it up here.
 很棒！开到这里来吧
 
-232
-00:34:02,507 --> 00:34:04,498
+239
+00:34:02,907 --> 00:34:04,898
 Bring it up to the sixth floor.
 把它开到六楼
 
-233
-00:34:04,847 --> 00:34:05,836
+240
+00:34:05,247 --> 00:34:06,236
 (CLANGING)
 
-234
-00:34:06,767 --> 00:34:09,156
+241
+00:34:07,167 --> 00:34:09,556
 Hey, that's not what I think it is, is it?
-嘿，那不是我想的那个东西，是吗？
+嘿，那不是我想的那样，是吗？
 
-235
-00:34:09,247 --> 00:34:11,761
+242
+00:34:09,647 --> 00:34:12,161
 I'm very much afraid it is. Come on!
 恐怕是的，快点！
 
-236
-00:34:20,407 --> 00:34:23,365
+243
+00:34:20,807 --> 00:34:23,765
 - We'll never make it!
 - Yes, we will! Come on!
 - 我们到不了了  - 能，我们可以的。快点！
 
-237
-00:34:25,287 --> 00:34:26,436
+244
+00:34:25,687 --> 00:34:26,836
 (LIFT CLATTERS)
 
-238
-00:34:27,047 --> 00:34:28,639
+245
+00:34:27,447 --> 00:34:29,039
 What's happened?
 发生了什么？
 
-239
-00:34:29,647 --> 00:34:32,878
+246
+00:34:30,047 --> 00:34:33,278
 It's stopped! They must be checking.
 它停掉了。他们肯定在检查
 
-240
-00:34:33,607 --> 00:34:36,579
+247
+00:34:34,007 --> 00:34:36,979
 Come on, they may guess where we are
 and come after us.
 快点，他们可能在猜我们在哪儿，会来追我们
 
-241
-00:34:36,647 --> 00:34:37,603
+248
+00:34:37,047 --> 00:34:38,003
 The engineer's certain...
 工程人员很肯定...
 
-242
-00:34:37,687 --> 00:34:40,162
+249
+00:34:38,087 --> 00:34:40,562
 - The shaft terminates in the roof, doesn't it, Packer? 
 - Yes, sir.
 - 这个竖井通到顶楼，是吧，Packer？  - 是的，先生
 
-243
-00:34:40,247 --> 00:34:43,800
+250
+00:34:40,647 --> 00:34:44,200
 - Why didn't you think of that?
 - I'll get them!
 - 你怎么没想到这个？ - 我去抓他们！
 
-244
-00:34:43,907 --> 00:34:46,357
+251
+00:34:44,307 --> 00:34:46,757
 Call me when you do, Packer.
 I'll be in my office. 
 抓到了就叫我，Packer. 我就在我的办公室等
 
-245
-00:34:46,747 --> 00:34:50,980
+252
+00:34:47,147 --> 00:34:51,380
 And please don't fail this time, 
 there's a good fellow.
 这次请不要失败了，那里面有个好家伙
 
-246
-00:34:53,707 --> 00:34:55,459
+253
+00:34:54,107 --> 00:34:55,859
 They've started it again!
 他们又开动了
 
-247
-00:34:57,867 --> 00:34:59,619
+254
+00:34:58,267 --> 00:35:00,019
 Hurry, Jamie! Hurry!
 快点，Jamie! 快！
 
-248
-00:35:13,067 --> 00:35:15,786
-- Come on, Jamie.
-- Wait a minute, Doctor.
+255
+00:35:13,467 --> 00:35:16,186
+- Come on, Jamie.  - Wait a minute, Doctor.
 - 跟上，Jamie  - 等一下，博士
 
-249
-00:35:16,187 --> 00:35:18,223
+256
+00:35:16,587 --> 00:35:18,623
 No, come on. Let's see where we are.
 不，快点。我们来看看我们在哪儿？
 
-250
-00:35:26,147 --> 00:35:28,058
+257
+00:35:26,547 --> 00:35:28,458
 - Now where?  - Down there.
 - 现在去哪儿？  - 下去那边
 
-251
-00:35:28,987 --> 00:35:30,420
+258
+00:35:29,387 --> 00:35:30,820
 JAMIE: Oh, no!
-噢，不行！
+噢，不是吧！
 
-252
-00:35:30,827 --> 00:35:33,705
+259
+00:35:31,227 --> 00:35:34,105
 Well, we can't go down the lift again, can we?
 我们不能再搭电梯下去了，对不？
 
-253
-00:35:33,787 --> 00:35:36,984
+260
+00:35:34,187 --> 00:35:37,384
 Hello. There's a fire escape. Come on.
 哈罗，这里有个消防出口。快来
 
-254
-00:35:39,507 --> 00:35:41,896
+261
+00:35:39,907 --> 00:35:42,296
 Oh, Packer, you do disappoint me.
 噢，Packer。你真让我失望
 
-255
-00:35:42,547 --> 00:35:43,980
+262
+00:35:42,947 --> 00:35:44,380
 They must have got down the fire escape, sir.
 他们肯定沿着消防通道下去了，先生
 
-256
-00:35:44,067 --> 00:35:47,423
+263
+00:35:44,467 --> 00:35:47,823
 And, of course, you didn't think
 to have a guard on that!
-而且，你当然没有想到派一个人受在那里！
+而且，你当然没有想到派一个人守在那里！
 
-257
-00:35:47,507 --> 00:35:49,862
+264
+00:35:47,907 --> 00:35:50,262
 - Well, normally...
 - You're a stupid incompetent!
 - 只是，通常...  - 你真是愚蠢无能！
 
-258
-00:35:49,947 --> 00:35:51,539
+265
+00:35:50,347 --> 00:35:51,939
 I want that Doctor!
 我要那位博士！
 
-259
-00:35:51,627 --> 00:35:55,176
+266
+00:35:52,027 --> 00:35:55,576
 Put the whole compound on alert!
 Have every available guard on the job!
 整个园区发布告警！把所有警卫都派到这个事情上！
 
-260
-00:35:55,267 --> 00:35:57,986
+267
+00:35:55,667 --> 00:35:58,386
 Find him, Packer! Find him!
 找到他，Packer！找到他！
 
-261
-00:36:06,467 --> 00:36:07,946
+268
+00:36:06,867 --> 00:36:08,346
 (ALARM BLARING)
 

@@ -1,13 +1,13 @@
 1
 00:02:28,887 --> 00:02:31,606
 Oh, yes, it could be 20th century.
-哦, 对了, 可能是20世纪
+哦, 是了, 可能是20世纪
 
 2
 00:02:33,527 --> 00:02:36,963
 What's the matter with the Tardis, Doctor?
 It keeps going wrong all the time.
-TARDIS 出什么问题了, 博士？它总是出问题
+TARDIS 出什么问题了, 博士？它总是出错
 
 3
 00:02:37,047 --> 00:02:40,267
@@ -17,29 +17,29 @@ just like any piece of machinery.
 
 4
 00:02:40,347 --> 00:02:44,818
-We might try and look up our old
-friend Professor Travers in London.
+We might try and look up our old friend
+Professor Travers in London.
 我们试试联系我们在伦敦的老朋友 Travers 教授
 
 5
 00:02:44,907 --> 00:02:47,375
 - He might be able to help us, hmm?
 - Yeah. Aye.
-- 他也许能帮助我们吧, 嗯？  - 嗯, 是的
+- 他也许能帮助我们, 嗯？  - 嗯, 是的
 
 6
 00:02:47,467 --> 00:02:52,143
 Always supposing he's not a baby or a schoolboy!
 Now come along!
-总是假设他不是一个婴儿或者学童．快过来吧 fixme
+一直觉得他不是一个婴儿或者学童．快过来吧
 
 7
 00:02:53,267 --> 00:02:55,216
 Let's just collect this circuit
-我们采集一下电路
+我们收集一下电路
 
 8
-0:02:055,412 --> 0:02:056,513
+00:02:55,412 --> 00:02:56,513
 There.
 那里
 
@@ -58,7 +58,7 @@ It's, uh... We'd better take that, too.
 00:03:17,067 --> 00:03:20,616
 - Er... Can you give us a lift to London?
 - Yes, I suppose so.
-- 呃, 你能捎带我们去伦敦吗？  - 行, 我觉得可以
+- 呃, 你能捎我们去伦敦吗？  - 行, 我觉得可以
 
 12
 00:03:20,707 --> 00:03:22,026
@@ -71,26 +71,25 @@ Thank you. Thank you very much.
 谢谢你, 非常感谢
 
 14
-00:03:37,667 --> 00:03:39,339
-DOCTOR: Here we are.
-我们到啦
+00:03:37,667 --> 00:03:40,539
+- DOCTOR: Here we are.  - Right
+- 我们到啦  - 对了
 
 15
-00:03:39,427 --> 00:03:40,576
-Right.
-对了
+00:03:42,307 --> 00:03:44,222
+Well, that's odd! It says ''Watkins''./?
+诶, 很奇怪, 上面写的 "Watkins"
 
 16
-00:03:42,307 --> 00:03:45,822
-- Well, that's odd! It says ''Watkins''.
-- (JAMIE) Must have the wrong house.
-- 诶, 很奇怪, 上面写的 "Watkins"  - 肯定搞错房子了
+00:03:44,307 --> 00:03:45,822
+(JAMIE) Must have the wrong house.
+肯定搞错房子了
 
 17
 00:03:45,907 --> 00:03:49,377
 Well, the telephone directory
 definitely said number 1 8.
-然而, 电话号码簿上绝对写的是 18 号啊
+啊, 电话号码簿上绝对写的是 18 号啊
 
 18
 00:03:49,467 --> 00:03:50,786
@@ -119,14 +118,13 @@ We wondered if...
 
 23
 00:04:29,827 --> 00:04:32,546
-Oh, look, now the stupid thing's
-gone and jammed!
-噢, 看, 这个蠢东西又卡住了  fixme
+Oh, look, now the stupid thing's gone and jammed!
+噢, 看, 这个蠢东西又卡住了
 
 24
 00:04:32,627 --> 00:04:34,697
 Oh, dear, perhaps I could help you.
-噢, 天啊, 也许我可以帮你
+噢, 亲爱的, 也许我可以帮你
 
 25
 00:04:34,787 --> 00:04:36,220
@@ -155,15 +153,16 @@ and the stupid thing jammed!
 是的, 然后你们打断了我, 这个破玩意儿就卡住了
 
 30
-00:04:44,547 --> 00:04:47,857
+00:04:44,547 --> 00:04:46,857
 Have you come to see my uncle?
-He's not here. But who are you?
-你们是来找我叔叔的吧？他现在不在这里．你们是谁？
+He's not here.
+你们是来找我叔叔的吧？他现在不在这里
 
 31
-00:04:47,947 --> 00:04:49,505
+00:04:46,947 --> 00:04:49,505
+But who are you?
 Friends of his? Fellow nuts?
-他的朋友？也是极客？fixme
+但你们是谁？他的朋友？也是技术迷?
 
 32
 00:04:49,587 --> 00:04:51,737
@@ -179,12 +178,11 @@ It cost me a fortune.
 34
 00:04:53,827 --> 00:04:56,387
 It's all right. It's a very simple mechanism.
-没事的, 非常简单的原理
+没事的, 非常简单的机制
 
 35
 00:04:56,467 --> 00:04:58,776
-- Who is your uncle?
-- Professor Watkins.
+- Who is your uncle?  - Professor Watkins.
 - 你叔叔是谁？  - Watkins 教授
 
 36
@@ -200,7 +198,7 @@ Then Professor Travers doesn't live here?
 38
 00:05:02,107 --> 00:05:04,223
 Well, he did. He left about a month ago.
-哦, 以前是．他大概一个月前搬走了
+哦, 以前是．他大概一个月前离开了
 
 39
 00:05:04,307 --> 00:05:05,581
@@ -219,13 +217,13 @@ My uncle worked at the Cavendish lab.
 
 42
 00:05:08,907 --> 00:05:10,545
-He wanted to do some work so Professor Travers
-他想帮 Travers 教授干点活
+He wanted to do some work so Professor Travers said
+他想做点工作, 于是 Travers 教授说
 
 43
 00:05:10,627 --> 00:05:12,538
-said he could use his daughter's lab here.
-说这样就可以用他女儿在这里的实验室了
+he could use his daughter's lab here.
+他可以用他女儿的这个实验室
 
 44
 00:05:12,627 --> 00:05:15,061
@@ -236,13 +234,13 @@ out of my studio last week.
 45
 00:05:15,147 --> 00:05:17,422
 What field of science is your uncle in?
-你叔叔是研究哪个领域的科学的？
+你叔叔研究的是哪个领域？
 
 46
 00:05:17,507 --> 00:05:20,863
 Oh, I don't know,
 he's in applied physics or something.
-哦, 我不知道．他是搞应用物理什么的
+哦, 我不知道．他是搞应用物理什么的吧
 
 47
 00:05:20,947 --> 00:05:23,222
@@ -258,8 +256,7 @@ Perhaps he might be able to help us.
 
 49
 00:05:25,827 --> 00:05:27,226
-- Is he at home?
-- No.
+- Is he at home?  - No.
 - 他在家吗？  - 不在
 
 50
@@ -276,8 +273,7 @@ Perhaps he might be able to help us.
 
 52
 00:05:33,307 --> 00:05:35,616
-- That's really great, thanks!
-- Miss...
+- That's really great, thanks!  - Miss...
 - 真是太好了, 谢谢！  - 小姐...
 
 53
@@ -289,12 +285,12 @@ Hey!
 00:05:37,147 --> 00:05:40,901
 That's a jolly outfit.
 Would you mind posing for me?
-这真是见漂亮的衣服．你介意摆个姿势给我吗？
+这真是件漂亮的衣服．你介意摆个姿势给我吗？
 
 55
 00:05:40,987 --> 00:05:42,136
 - What?  - Look. Just stand there.
-- 什么？  - 看, 就站那里
+- 什么？  - 喏, 就站那里
 
 56
 00:05:42,227 --> 00:05:43,899
@@ -305,7 +301,7 @@ Would you mind posing for me?
 00:05:43,987 --> 00:05:47,138
 Yeah, okay. Now just stand here.
 Now get... Head over the shoulder.
-对, 好了．就站那里．现在...把肩膀fixme
+对, 好．就站在那里．现在...把头朝肩膀过去一点
 
 58
 00:05:47,587 --> 00:05:50,021
@@ -328,7 +324,7 @@ A week?
 00:05:53,707 --> 00:05:56,380
 Yeah, he was prattling on about some
 new invention, or something or other,
-是, 他一直在叨叨什么新发明, 好像是什么新东西
+是, 他一直在叨叨什么新发明, 不知道是什么东西
 
 62
 00:05:56,467 --> 00:05:59,027
@@ -338,8 +334,7 @@ Now... Not you.
 
 63
 00:05:59,107 --> 00:06:00,699
-- Oh.
-- ISOBEL: Okay. Now.
+- Oh.  - ISOBEL: Okay. Now.
 - 噢  - 好, 现在
 
 64
@@ -354,8 +349,8 @@ No, I tried.
 
 66
 00:06:04,627 --> 00:06:06,697
-I wanted to borrow a couple of quid off
-him in a hurry,
+I wanted to borrow a couple of quid
+off him in a hurry,
 我想找他借几镑救救急
 
 67
@@ -382,7 +377,7 @@ International Electric, something or other.
 71
 00:06:15,147 --> 00:06:16,865
 International Electromatics?
-国际电气自动公司
+国际电气自动化公司？
 
 72
 00:06:16,947 --> 00:06:18,460
@@ -399,13 +394,13 @@ work for these people?
 00:06:22,187 --> 00:06:24,417
 - Mmm-hmm.
 - Well, surely we can get in touch with him.
-- 嗯哼  - 那, 我们当然就可以联系上他了
+- 嗯哼  - 那, 我们当然可以联系上他了
 
 75
 00:06:24,507 --> 00:06:27,260
 Well, you can try telephoning,
 but I doubt if you'll get any joy.
-是, 你可以试试电话, 但我怀疑你不会得到好结果
+是, 你可以试着打打电话, 但我怀疑你不会得到好结果
 
 76
 00:06:27,347 --> 00:06:29,622
@@ -427,7 +422,7 @@ Hey. Don't go.
 00:06:32,787 --> 00:06:34,982
 I don't often get the chance of
 photographing a real model.
-我并不是总是有机会能给一个真正的模特拍照片
+我并不是总有机会能给一个真正的模特拍照片
 
 80
 00:06:35,067 --> 00:06:36,056
@@ -437,19 +432,19 @@ Oh, all right.
 81
 00:06:36,147 --> 00:06:37,546
 Come on. Let's get you fixed up with some gear!
-快来, fixme
+快来, 我们来给你拍几张好看的(?)
 
 82
 00:06:37,707 --> 00:06:41,256
 WOMAN: <i>International Electromatic Company.</i>
 <i>State your business.</i>
-国际电气自动公司．请陈述你的目的
+国际电气自动化公司．请陈述你的目的
 
 83
 00:06:41,347 --> 00:06:45,101
 I would like, please,
 to speak with Professor Watkins.
-我想要, 请帮忙, 接通 Watkins 教授
+我想要, 请帮忙, 与 Watkins 教授通话
 
 84
 00:06:46,027 --> 00:06:47,380
@@ -531,12 +526,12 @@ It's great fun.
 98
 00:07:21,867 --> 00:07:23,744
 You look like a chicken with all those feathers on!
-你穿上那些衣服就像一直小鸡！
+你穿上那些衣服就像一只小鸡！
 
 99
 00:07:23,827 --> 00:07:25,783
 Well, come on, Jamie. Oh, the address?
-好, 来吧, Jamie．哦, 地址呢？
+好, 来吧, Jamie．哦, 地址有吗？
 
 100
 00:07:25,867 --> 00:07:27,983
@@ -573,7 +568,7 @@ HQ are checking now. Where are they?
 106
 00:08:24,267 --> 00:08:26,303
 Gone round the back, down the side alley.
-绕到后面去了, 沿着旁边那个小巷
+从后面绕过去了, 在旁边那个小巷里
 
 107
 00:08:26,387 --> 00:08:28,901
@@ -584,7 +579,7 @@ So they've got to come out this way!
 108
 00:08:28,987 --> 00:08:30,500
 If they come out.
-如果他们会出来的话
+那得假设他们会出来
 
 109
 00:09:06,367 --> 00:09:08,597
@@ -598,8 +593,7 @@ DOCTOR: Thank you.
 
 111
 00:09:11,447 --> 00:09:14,942
-- You can go, Packer.
-- Yes, sir.
+- You can go, Packer.  - Yes, sir.
 - 你可以走了, Packer  - 好的, 先生
 
 112
@@ -618,17 +612,17 @@ was rather...unconventional, wasn't it?
 00:09:28,967 --> 00:09:30,400
 - Aye, well, there was no need for all that...
 - Jamie!
-- 是, 嗯, 没有必要费那个劲...  - Jamie
+- 是, 嗯, 没有必要费那个劲...  - Jamie！
 
 115
 00:09:30,487 --> 00:09:31,476
 ...gas and stuff.
-fixme
+...这些虚假的客套
 
 116
 00:09:31,567 --> 00:09:35,003
-I think perhaps it is we who should be
-apologising to you, Mr...
+I think perhaps it is we
+who should be apologising to you, Mr...
 我觉得应该是我们向你道歉, 先生...
 
 117
@@ -640,13 +634,13 @@ Vaughn. 我叫 Tobias Vaughn.
 00:09:37,207 --> 00:09:40,802
 I'm the Managing Director
 of International Electromatics.
-我是国际电气自动公司的执行董事
+我是国际电气自动化公司的执行董事
 
 119
 00:09:41,087 --> 00:09:43,965
 Your business must be very pressing
 to force you to such extremes.
-你们的目的肯定非常紧迫, 才迫使你们采取了如此极端的手段
+你们的事情肯定非常紧迫, 才迫使你们采取了如此极端的手段
 
 120
 00:09:44,047 --> 00:09:45,116
@@ -662,7 +656,7 @@ Yes, it is.
 122
 00:09:47,847 --> 00:09:50,281
 My computer. It reported directly to me.
-我的电脑．它直接向我报告
+我的电脑．它直接向我报告了
 
 123
 00:09:50,367 --> 00:09:51,686
@@ -671,9 +665,8 @@ Oh, I see.
 
 124
 00:09:52,207 --> 00:09:54,721
-You've gone to a lot of trouble
-for nothing, you know.
-你费尽周折却是徒劳, 知道吧
+You've gone to a lot of trouble for nothing, you know.
+你们费尽周折却是徒劳, 知道吧
 
 125
 00:09:54,807 --> 00:09:57,719
@@ -684,7 +677,7 @@ and refuses to see anyone.
 126
 00:09:57,807 --> 00:10:00,799
 Ah, well. We only want to talk to him, you see.
-啊, 其实, 我们只是想同他交谈一下, 你看
+啊, 其实, 我们只是想同他说几句话, 你看
 
 127
 00:10:00,887 --> 00:10:02,036
@@ -723,8 +716,7 @@ I'm sure they'd be able to assist you.
 
 134
 00:10:14,567 --> 00:10:16,683
-- Show me the circuits.
-- Well, I...
+- Show me the circuits.  - Well, I...
 - 把电路给我看看  - 这个, 我...
 
 135
@@ -750,8 +742,7 @@ I'll have them sent to my workshops immediately.
 
 139
 00:10:33,567 --> 00:10:35,603
-- Oh, how very kind.
-- Not at all.
+- Oh, how very kind.  - Not at all.
 - 噢, 太给力了  - 不用
 
 140
@@ -770,7 +761,7 @@ Watkins 教授是一位重要的同事．他的任何朋友都是...噢
 00:10:42,927 --> 00:10:46,442
 Surely you've seen them about.
 They're disposable transistor radios.
-你肯定见过他们．他们是一次性晶体管收音机
+你肯定见过它们．它们是便携性晶体管收音机
 
 143
 00:10:46,527 --> 00:10:49,166
@@ -786,12 +777,12 @@ We've sold 10 million in this country alone. Here.
 00:10:52,807 --> 00:10:55,879
 Compensation for the treatment
 you received from the worthy Packer.
-作为对你的补偿, 考虑到 Packer 对你的招待步骤
+作为对你的补偿, 考虑到 Packer 对你的招待不周
 
 146
 00:10:55,967 --> 00:10:58,197
 Thank you. How does it work?
-谢谢你, 它是怎么工作的？
+谢谢你, 它是怎么打开的？
 
 147
 00:10:58,287 --> 00:11:00,596
@@ -800,7 +791,7 @@ Thank you. How does it work?
 148
 00:11:01,087 --> 00:11:03,317
 Yes, that's how you turn it off, Jamie.
-是的, 你可以那样关掉它, Jamie
+是的, 这样你就可以关掉它了, Jamie
 
 149
 00:11:03,407 --> 00:11:06,285
@@ -817,7 +808,7 @@ Yes, of course. Come along, Jamie.
 00:11:07,807 --> 00:11:10,480
 Packer will meet you
 and show you the way out, Mr...
-Packer 会过来, 指引你们出去, 这位...
+Packer 会过来, 带你们出去, 这位...
 
 152
 00:11:10,567 --> 00:11:13,240
@@ -839,7 +830,6 @@ Not at all.
 00:11:28,127 --> 00:11:29,958
 - Packer?  <i>- Yes, Mr Vaughn?</i>
 - Packer?  - 什么事, Vaughn 先生？
-
 
 156
 00:11:30,047 --> 00:11:31,958
@@ -905,7 +895,4 @@ there was something odd.
 Sinister. Almost inhuman.
 很邪恶．感觉不像人类
 
-168
-00:12:32,797 --> 00:12:34,947
-(ELECTRONIC SIGNAL PULSATING)
 

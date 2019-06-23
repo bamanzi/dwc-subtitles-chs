@@ -13,7 +13,7 @@ VAUGHN: Ah, come in, gentlemen.
 00:09:30,684 --> 00:09:34,279
 We've added narrow bandwidth transducers.
 Should make transmission more directional.
-我们给加了窄幅变换器, 应该会让发送时更有方向性
+我们给加了窄幅变换器, 应该能让发送时更有方向性
 
 4
 00:09:34,364 --> 00:09:36,958
@@ -32,15 +32,15 @@ This is madness.
 - 这个机器现在成了一个致命武器了  - 真的？
 
 7
-00:09:44,844 --> 00:09:48,120
+00:09:44,844 --> 00:09:48,260
 The modifications were quite unnecessary.
 It worked perfectly well as it was.
 这些变动完全不必要, 它之前工作得非常好
 
 8
-00:09:48,204 --> 00:09:50,798
+00:09:48,364 --> 00:09:50,798
 For your purposes, perhaps, Professor.
-也许, 那只是对你而言, 教授
+对你而言, 也许吧，教授
 
 9
 00:09:50,884 --> 00:09:55,082
@@ -54,7 +54,8 @@ All right, all right.
 
 11
 00:09:59,804 --> 00:10:03,080
-Do with it what you will. The machine's yours now.
+Do with it what you will.
+The machine's yours now.
 你爱怎样就怎样吧, 这台机器现在是你的了
 
 12
@@ -65,13 +66,13 @@ Now, will you let me get out of this place?
 13
 00:10:06,364 --> 00:10:08,960
 And let Isobel go free, as you promised?
-还有, 你承诺过的, 放 Isobel 走？
+并且放 Isobel 走? 你承诺过的
 
 14
 00:10:09,054 --> 00:10:12,913
 - But, my dear fellow, she is free.
 - Free?
-- 但是, 我亲爱的伙计, 已经放她走了  - 已经走了？
+- 但是, 我亲爱的伙计, 她已经走了  - 已经走了？
 
 15
 00:10:13,764 --> 00:10:16,483
@@ -81,7 +82,7 @@ Where? Where is she?
 16
 00:10:16,564 --> 00:10:19,098
 Probably sitting quite comfortably at home.
-很可能正在家里舒服地坐着呢
+很可能正舒服地坐在家里呢
 
 17
 00:10:19,324 --> 00:10:22,162
@@ -145,7 +146,7 @@ Otherwise, I...
 28
 00:10:56,684 --> 00:10:57,958
 Pick him up.
-抬走他fixme
+拉他起来
 
 29
 00:11:04,964 --> 00:11:08,923
@@ -180,7 +181,7 @@ I know I can't stand up to torture,
 我知道我无法忍受折磨
 
 35
-00:11:30,764 --> 00:11:35,440
+00:11:30,764 --> 00:11:35,540
 and I don't want to die.
 You're an evil man, Vaughn.
 而且我不想死．你是一个邪恶的人, Vaughn
@@ -188,7 +189,7 @@ You're an evil man, Vaughn.
 36
 00:11:36,844 --> 00:11:40,041
 You're sadistic. You're a megalomaniac.
-你残忍而且自大
+你残忍, 而且自大
 
 37
 00:11:40,964 --> 00:11:42,443
@@ -223,7 +224,7 @@ Take it!
 43
 00:12:17,004 --> 00:12:19,359
 There you are. Take it.
-给你了, 拿着
+来啊, 拿着
 
 44
 00:12:22,964 --> 00:12:26,400
@@ -265,365 +266,384 @@ UNIT 控制中心呼叫指挥官, UNIT 控制中心呼叫指挥官, 完毕
 51
 00:12:57,284 --> 00:12:59,599
 Captain Turner here, Sergeant. Stand by.
-我是 Turner 队长, 军士．原地待命
+我是 Turner 队长, 中士．原地待命
 
 52
 00:12:59,684 --> 00:13:02,118
 - Isobel, will you get the Brigadier for me?
 - Oh, sure.
-- Isobel, 你能帮我叫一下准将吗？fixme  - 噢, 没问题
+- Isobel, 你能帮我叫一下准将吗?  - 噢, 没问题
 
 53
 00:13:02,204 --> 00:13:05,002
 Brigadier's on his way now, Sergeant.
 What's the flap? Over.
-准将过来了, 军士．fixme
+准将在路上了, 中士．什么情况？完毕
 
 54
 00:13:05,084 --> 00:13:09,282
-<i>-Report from red sector 1, sir, at 2030 hours...</i>
--Hold on a sec.
+<i>- Report from red sector 1, sir, at 2030 hours...</i>
+- Hold on a sec.
 - 红区１号在20:30发来报告, 长官, 说... - 等一秒钟
 
 55
-00:13:09,364 --> 00:13:12,322
+00:13:09,364 --> 00:13:11,122
 Right, the Brigadier's listening now.
-Go ahead, Sergeant.
-好, 准将在听了, 继续, 军士
+好, 准将在听了
 
 56
-00:13:12,404 --> 00:13:17,398
-<i>Benton on routine observation reports two guards</i>
-<i>and another man leaving with the Professor.</i>
-Benton 在监视中发现有两个警卫陪同教授离开了, 还有另外一个人
+00:13:11,232 --> 00:13:13,987
+- Go ahead, Sergeant.
+- Benton on routine observation reports
+- 继续, 中士  - Benton 在监视中报告说
 
 57
+00:13:14,004 --> 00:13:17,398
+<i>two guards and another man</i>
+<i>leaving with the Professor.
+有两个警卫和另外一个人，与教授一起离开了。
+
+58
 00:13:17,484 --> 00:13:20,760
 <i>- He is on their tail now, sir. Over.</i>
 - Hold on, Sergeant.
-- 教授在后面, 长官．完毕  - 等等, 军士
+- 他现在跟在他们后面, 长官．完毕  - 等等, 中士
 
-58
+59
 00:13:20,844 --> 00:13:23,597
 Look, sir, we could intercept
 and release the Professor.
-你看, 长官, 我们可以进行拦截, 把教授解救出来
+你看, 长官, 我们可以拦截他们, 把教授解救出来
 
-59
+60
 00:13:23,684 --> 00:13:25,356
 - Well, officially we...
 - Oh, do! Please do.
-- 哦, 场面上我们...  - 噢fixme
+- 但是, 正式来说...  - 噢，要，肯定要
 
-60
+61
 00:13:25,444 --> 00:13:29,960
 Brigadier, if you could rescue him,
 he might be able to help us with our problem.
 准将, 如果你救出他, 他可能能帮我们解决手头的问题
 
-61
+62
 00:13:31,084 --> 00:13:33,279
 All right, your shindig, Jimmy.
 好吧, 你操办吧, Jimmy
 
-62
+63
 00:13:33,604 --> 00:13:36,801
 Sergeant, tell Benton to stay with them.
 I'm on my way now.
-军士, 告诉 Benton 跟着他们fixme．我马上过来
-
-63
-00:13:36,884 --> 00:13:39,762
-- I'll contact him en route, over.
-<i>-Wilco, over.</i>
-- 我会在路上联系他, 完毕  - Wilco, 完毕
+中士, 告诉 Benton 跟住他们．我马上过来
 
 64
-00:13:40,484 --> 00:13:44,875
-There were at least 30 of them,
-all UNIT men and all armed, Mr Vaughn.
-他们至少有３０个人, 都是 UNIT 的人, 全副武装, Vaughn 先生
+00:13:36,884 --> 00:13:39,762
+- I'll contact him en route, over.
+<i>- Wilco, over.</i>
+- 我会在路上联系他, 完毕  - 照办, 完毕
 
 65
+00:13:40,484 --> 00:13:42,875
+There were at least 30 of them,/?
+他们至少有30个人
+
+65
+00:13:42,984 --> 00:13:44,875
+all UNIT men and all armed, Mr Vaughn.
+都是 UNIT 的人, 全都有武器, Vaughn 先生
+
+66
 00:13:45,484 --> 00:13:47,793
 We didn't stand a chance.
 我们一点机会也没有
 
-66
+67
 00:13:47,884 --> 00:13:50,557
-Out of nowhere. They just came out of nowhere.
+Out of nowhere. 
+They just came out of nowhere.
 突然冒出来了, 他们突然就冒出来了
 
-67
+68
 00:13:50,644 --> 00:13:54,398
 - And they just took the Professor?
 - What could we do?
 - 然后他们就把教授抢走了？  - 我们能做啥？
 
-68
+69
 00:13:54,484 --> 00:13:58,159
 - There were at least...
 - Thirty of them, you say?
 - 至少有...  - 他们有３０个, 你说？
 
-69
-00:13:58,244 --> 00:14:01,919
-It was hopeless. They shot the two guards,
-完全没希望, 他们开枪打了两个警卫
-
 70
+00:13:58,244 --> 00:14:01,919
+It was hopeless.
+They shot the two guards,
+完全没希望, 他们开枪射倒了两个警卫
+
+71
 00:14:02,004 --> 00:14:06,316
 - and they'd have shot me if...
 - If you hadn't run away.
-- 而且他们也会开枪打我, 如果... - 如果你没有逃走
+- 而且他们也会朝我开枪, 要是... - 要是你没有逃走
 
-71
+72
 00:14:06,644 --> 00:14:08,555
 Well, yes.
 呃, 是的
 
-72
+73
 00:14:09,724 --> 00:14:13,399
 You realise, of course,
 that without the Professor's assistance
 你要知道, 当然了, 没有教授的协助
 
-73
+74
 00:14:13,484 --> 00:14:18,274
 it will not be possible to get
 the Cerebraton machine on the production line.
 就不可能让精神干扰器上生产线
 
-74
+75
 00:14:18,884 --> 00:14:21,193
 No, Mr Vaughn, I can.
 不, Vaughn 先生, 我可以
 
-75
+76
 00:14:21,284 --> 00:14:24,196
 Given a little time, I'm sure I can!
 给我一点点时间, 我相信我可以！
 
-76
+77
 00:14:26,284 --> 00:14:28,798
 But you have no time, Gregory.
 但你没有时间了, Gregory
 
-77
+78
 00:14:32,644 --> 00:14:34,157
 No time at all.
 一点时间都没有
 
-78
+79
 00:14:34,284 --> 00:14:35,512
 Kill him!
 杀了他！
 
-79
+80
 00:14:35,604 --> 00:14:37,720
 (CYBERMEN PULSATING)
 
-80
+81
 00:14:38,124 --> 00:14:40,479
 I'm sorry. I can't tell you.
 我很抱歉, 我不能告诉你
 
-81
-00:14:40,564 --> 00:14:43,715
+82
+00:14:40,564 --> 00:14:43,865
 You've no idea what these
 micromonolithic circuits are for?
 你不知道这些微型单晶片电路是做什么的吗？
 
-82
-00:14:43,804 --> 00:14:46,079
+83
+00:14:43,964 --> 00:14:46,079
 - No.  - Oh, my word.
 - 不知道  - 噢, 天啊
 
-83
+84
 00:14:46,164 --> 00:14:50,316
 I couldn't understand why Vaughn wanted
 the modifications to the machine.
 我没法弄明白为什么 Vaughn 想要对机器做那些改动
 
-84
+85
 00:14:52,424 --> 00:14:55,894
 Why should he want a weapon like that
 if he has the Cybermen to fight for him?
 为什么他想要一个那样的武器呢, 都已经有赛博人帮他了？
 
-85
+86
 00:14:55,984 --> 00:14:59,135
 I have no idea. Unless...
 我不知道． 除非...
 
-86
+87
 00:15:00,144 --> 00:15:01,816
 Professor!
 教授！
 
-87
-00:15:01,904 --> 00:15:07,661
-You say that you've developed this machine
-to produce excessively powerful emotional pulses.
-你说你研制的这个机器可以制造强烈的情绪冲动
-
 88
+00:15:01,904 --> 00:15:04,761
+You say that you've developed this machine
+你说你研制的这个机器...
+
+89
+00:15:04,865 --> 00:15:07,661
+to produce excessively powerful emotional pulses.
+可以制造强烈的情绪冲动
+
+90
 00:15:07,744 --> 00:15:10,497
 - Yes, that's true. - Well, that's it!
 - 是的, 是这样  - 那, 这就对了！
 
-89
-00:15:10,584 --> 00:15:12,957
-Vaughn's going to use it as a weapon against the Cybermen,/?
+91
+00:15:10,584 --> 00:15:13,157
+Vaughn's going to use it as a weapon against the Cybermen,
 Vaughn 打算把它用作对付赛博人的武器
 
-89
-00:15:13,084 --> 00:15:14,657
+92
+00:15:13,284 --> 00:15:14,657
 once he has no further use for them.
 -- 一旦他用不着它们了之后
 
-90
+93
 00:15:14,744 --> 00:15:16,257
 - What, the Professor's machine?  - Yes.
 - 什么, 教授的机器吗？  - 是的
 
-91
+94
 00:15:16,344 --> 00:15:20,257
 Emotion is alien to the Cybermen's
 nervous system. It'll destroy it.
 情感对于赛博人的神经系统是异物, 会杀死它
 
-92
+95
 00:15:21,864 --> 00:15:24,332
 The micromonolithic circuits.
 那些微型单晶片电路
 
-93
-00:15:24,424 --> 00:15:27,894
+96
+00:15:24,424 --> 00:15:27,994
 They're emotional circuits!
 No wonder they weren't logical.
-它们是情感电路！ 怪不得它们在逻辑上不通了
+它们是情感电路！ 怪不得它们在逻辑上说不通了
 
-94
-00:15:27,984 --> 00:15:32,057
+97
+00:15:28,084 --> 00:15:32,057
 Now, why didn't I think of this before?
 Now, let's see.
-啊, 为什么我早没有想到？ 来, 我们看看
+啊, 为什么我早没有想到？来, 我们看看
 
-95
+98
 00:15:32,144 --> 00:15:35,056
 - Now what's he up to? - I've no idea.
 - 现在他在搞什么？  - 我不知道
 
-96
+99
 00:16:00,684 --> 00:16:05,280
 The micromonolithic circuits are
 artificial nervous systems.
 这些微型单晶体电路是人工的神经系统
 
-97
+100
 00:16:05,364 --> 00:16:09,277
 Once activated they will produce
 the Cyber-hypnotic force
 一旦激活, 他们可以产生网络催眠的力量
 
-98
+101
 00:16:09,364 --> 00:16:11,400
 that controls human beings.
 能够控制人类
 
-99
-00:16:11,484 --> 00:16:15,318
-But there are hundreds, thousands of these
-circuits in IE equipment all over the world.
-但有成百上千的 IE 公司设备都有这种电路, 遍布全世界
-
-100
-00:16:15,404 --> 00:16:18,077
-- Exactly.
-- So everyone will come under their control.
-- 的确  - 所以所有人都会被他们控制
-
-101
-00:16:18,164 --> 00:16:20,473
-- Yes.
-- Yes, the Cybermen will take over everybody.
-- 是的  - 是了, 赛博人会控制每个人
-
 102
+00:16:11,484 --> 00:16:14,518
+But there are hundreds, thousands
+of these circuits in IE equipment
+但有成百上千的 IE 公司设备都有这种电路
+
+103
+00:16:14,619 --> 00:16:15,980
+- all over the world.
+- Exactly!
+- 遍布全世界  - 正是!
+
+104
+00:16:16,084 --> 00:16:18,077
+So everyone will come under their control.
+所以所有人都会被他们控制
+
+105
+00:16:18,164 --> 00:16:20,473
+Yes, the Cybermen will take over everybody.
+是的, 赛博人会控制每个人
+
+106
 00:16:20,564 --> 00:16:21,838
 Well, isn't there anything that we can do?
 那, 有什么我们可以做的吗？
 
-103
+107
 00:16:21,924 --> 00:16:25,041
 Yes, there is a way to block the signals,
 isn't there, Zoe?
 有, 有一种方法可以屏蔽这种讯号, 对不, Zoe?
 
-104
+108
 00:16:25,124 --> 00:16:26,318
 The depolariser.
 消偏振器
 
-105
+109
 00:16:26,404 --> 00:16:29,521
 Worn at the back of the neck,
 it will jam the Cyber-control waves.
 只要套在脖子后面, 它就可以阻塞赛博控制波
 
-106
+110
 00:16:29,604 --> 00:16:31,879
 Yes. Have you any neuristors here, Professor?
 是的．你这里有神经元器件吗, 博士？
 
-107
+111
 00:16:31,964 --> 00:16:35,400
 - Well, a few, I think.
 - Zoe, show the Professor what to do.
 - 哦, 有一些, 我想  - Zoe, 告诉博士该怎么做
 
-108
+112
 00:16:35,484 --> 00:16:37,395
 The invasion could come at any moment.
 入侵可能随时发生
 
-109
+113
 00:16:38,004 --> 00:16:39,881
 (ALARM SOUNDING)
 
-110
+114
 00:16:45,524 --> 00:16:46,513
 (WHIRRING)
 
-111
+115
 00:16:51,364 --> 00:16:54,993
 <i>- Is all in readiness?</i>
 - Of course.
 - 都准备好了吗？  - 当然
 
-112
+116
 00:16:55,084 --> 00:16:59,236
 <i>There is one hour to invasion time.</i>
 离入侵时间还有一小时
 
-113
+117
 00:16:59,364 --> 00:17:03,676
 <i>- Countdown will start from now.</i>
 - Excellent.
 - 现在开始倒计时  - 太好了
 
-114
+118
 00:17:04,804 --> 00:17:08,114
 <i>We are moving into position now.</i>
 我们现在各就各位
 
-115
+119
 00:17:08,204 --> 00:17:11,913
 <i>Ready to transmit the Cyber-signal.</i>
 准备开始传送赛博讯号
 
-116
+120
 00:17:21,084 --> 00:17:22,836
 (SIGNAL HUMMING)
 

@@ -7,7 +7,7 @@
 00:36:22,307 --> 00:36:25,424
 Get those two girls over to
 the main administration building! Move!
-把这两个女孩儿带到主行政大楼去！动起来！
+把这两个女孩儿带到主行政大楼去！走！
 
 3
 00:36:25,507 --> 00:36:28,624
@@ -76,7 +76,7 @@ Right, sir. Will do.
 00:37:47,707 --> 00:37:50,346
 - All units, please, Sergeant.
 - Yes, sir.
-- 请接所有小组，军士  - 是，长官
+- 请接所有小组，中士  - 是，长官
 
 16
 00:37:51,147 --> 00:37:52,626
@@ -91,7 +91,7 @@ This is the Brigadier. All units, stand by.
 18
 00:37:58,427 --> 00:38:00,816
 Full penetration of red sector imminent.
-即将切入红区fixme
+即将全面突入红区
 
 19
 00:38:01,287 --> 00:38:02,515
@@ -160,13 +160,13 @@ Yes, I'm pretty sure they have. Where are you?
 00:38:34,447 --> 00:38:38,725
 <i>That should give your helicopter cover</i>
 <i>should there be any ground fire.</i>
-那个位置可以让直升机安全一点，万一地面有火力的话
+那个位置可以给直升机一点遮挡，说不准地面会有火力袭击
 
 32
 00:38:38,887 --> 00:38:40,923
 <i>- Have you got that?</i>
 - Yes, I've got that.
-- 你明白了吗？  - 是的，我明白了
+- 你收到了吗？  - 是的，我收到了
 
 33
 00:38:41,007 --> 00:38:42,201
@@ -187,19 +187,19 @@ a simple rescue operation. Simple.
 36
 00:40:12,047 --> 00:40:13,162
 But what about my uncle?
-但我的叔叔怎么样了？
+但我的叔叔怎么办？
 
 37
 00:40:13,247 --> 00:40:15,602
 - They've still got him prisoner.
 - Don't worry, Miss Watkins.
-- 他还是他们的囚徒  - 别担心，Watkins 小姐
+- 他还处于他们的监禁之下  - 别担心，Watkins 小姐
 
 38
 00:40:15,687 --> 00:40:18,724
 As soon as we return to base,
 I'm going to raise hell and get some action.
-等我们一回到基地，我就增派人手fixme，展开一些行动
+等我们一回到基地，我就增派人手，展开一些行动
 
 39
 00:40:18,807 --> 00:40:20,126
@@ -216,18 +216,18 @@ as trying to shoot down one of my helicopters.
 00:40:24,727 --> 00:40:28,197
 Oh, I wish I'd had my camera.
 I could have got a fortune for those pictures.
-噢，我期望我待了摄像头。我本来有可能拍到一些镜头的fixme
+噢，我期望我带了相机来, 本来有幸可以拍到一些照片的
 
 42
 00:40:28,287 --> 00:40:29,515
 Yes, it was a pity.
-是的，真比较遗憾
+是的，真遗憾
 
 43
 00:40:29,607 --> 00:40:32,075
 That would have clinched it
 as far as the Ministry are concerned, sir.
-fixme
+那样的话就可以在国防部那里实捶他们了, 长官
 
 44
 00:40:32,167 --> 00:40:35,364
@@ -252,8 +252,8 @@ I tell you, she's perfectly safe.
 
 48
 00:40:41,787 --> 00:40:43,778
-Well, I want to see her!
-那，我想要见她！
+I want to see her!
+我想要见她！
 
 49
 00:40:43,867 --> 00:40:45,300
@@ -299,7 +299,7 @@ You will have 24 hours to complete it.
 57
 00:41:10,907 --> 00:41:14,183
 Only if you haven't finished your work by that time
-只有你到那时还没有完成你的工作
+如果你到那时还没有完成你的工作
 
 58
 00:41:14,347 --> 00:41:17,464
@@ -321,7 +321,7 @@ How long ago were these objects first sighted?
 00:41:25,267 --> 00:41:28,100
 Reports have been drifting in
 for well over a year now.
-一年多以前就有报告送来了
+一年多以前就陆续有报告送过来
 
 62
 00:41:28,187 --> 00:41:31,304
@@ -332,7 +332,7 @@ but nothing ever came of it.
 63
 00:41:31,387 --> 00:41:32,743
 The odd thing about these sightings is
-这些目击事件比较奇怪的地方是，
+这些目击事件比较奇怪的地方是
 
 64
 00:41:32,827 --> 00:41:36,818
@@ -344,7 +344,7 @@ somewhere over southeast England.
 00:41:36,907 --> 00:41:40,183
 But isn't that where all those factories
 and laboratories of Vaughn's are?
-但那不是 Vaughn 的工厂和实验室都在那边吗？
+但那不就是 Vaughn 的工厂和实验室所在的地方吗？
 
 66
 00:41:40,267 --> 00:41:41,197
@@ -366,7 +366,7 @@ to the London premises.
 69
 00:41:47,067 --> 00:41:48,500
 That's where we're going to find the answer.
-那就是我们要求找寻答案的地方
+那就是我们要去寻找答案的地方
 
 70
 00:41:48,587 --> 00:41:50,464
@@ -387,7 +387,7 @@ Aye, if you think I'm going back inside there...
 73
 00:41:55,267 --> 00:41:56,985
 Jamie, we have to find what is inside these crates.
-Jamie，我们必须搞明白那个板条箱里面是什么
+Jamie，我们必须搞明白那些板条箱里面是什么
 
 74
 00:41:57,067 --> 00:42:01,538
@@ -399,11 +399,10 @@ including the London premises?
 00:42:01,627 --> 00:42:04,699
 - Yes, yes, I think so. Sergeant Walters!
 - Sir?
-- 有， 有，我想是有。Walters 军士!  - 长官！
+- 有， 有，我想是有。Walters 中士!  - 长官！
 
 76
 00:43:01,507 --> 00:43:04,419
-- Jamie, I'm afraid I was right!
-- Eh?
+- Jamie, I'm afraid I was right!  - Eh?
 - Jamie，恐怕我说对了  - 呃？
 

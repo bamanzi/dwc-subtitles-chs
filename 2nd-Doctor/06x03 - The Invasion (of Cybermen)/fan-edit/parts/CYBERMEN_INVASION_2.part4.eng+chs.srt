@@ -46,7 +46,8 @@ Packer! Packer! 你在哪儿？
 
 10
 00:29:04,367 --> 00:29:09,525
-Vaughn, what have you done to us? What have you done?
+Vaughn, what have you done to us?
+What have you done?
 Vaughn, 你对我们做了什么？你做了什么？
 
 11
@@ -79,14 +80,15 @@ They're too powerful, too many of them.
 
 17
 00:29:35,727 --> 00:29:38,082
-Oh, don't be a fool, man. Where do we turn it off?
+Oh, don't be a fool, man.
+Where do we turn it off?
 噢, 别犯傻了, 伙计．我们在哪里关掉它？
 
 18
 00:29:38,167 --> 00:29:42,126
 - At the compound, but they'll be there.
 - Right. We must stop them.
-- 在工业园, 但它们会在那里  - 好, 我们必须阻止它们
+- 在工业园, 但它们快到那里了  - 好, 我们必须阻止它们
 
 19
 00:29:42,607 --> 00:29:45,963
@@ -100,7 +102,8 @@ Can you still hear me?
 
 21
 00:29:47,767 --> 00:29:50,156
-Yes, Doctor, we heard everything. What do we do?
+Yes, Doctor, we heard everything.
+What do we do?
 是的, 博士, 我们都听到了．要我们做什么？
 
 22
@@ -126,7 +129,8 @@ How much time do we have?
 
 26
 00:29:59,887 --> 00:30:02,526
-<i>Oh, I've no idea. It could be minutes or hours.</i>
+<i>Oh, I've no idea.</i>
+<i>It could be minutes or hours.</i>
 哦, 我 不知道．有可能是几分钟或者几小时
 
 27
@@ -143,7 +147,8 @@ is going to take time.
 
 29
 00:30:08,647 --> 00:30:10,603
-<i>Then there's only one chance. The radio beam.</i>
+<i>Then there's only one chance.</i>
+<i>The radio beam.</i>
 那就只有一个机会了, 无线电波
 
 30
@@ -174,7 +179,8 @@ You still think you have a chance?
 
 35
 00:30:22,167 --> 00:30:26,046
-- Yes, if you'll help us!  - Help you? Why should I?
+- Yes, if you'll help us!
+- Help you? Why should I?
 - 是的, 只要你肯帮我们！  - 帮你们？我应该吗？
 
 36
@@ -203,7 +209,7 @@ who are about to die!
 40
 00:30:39,167 --> 00:30:41,397
 Appealing to my better nature.
-呼唤我人性的一面fixme
+呼唤我人性中善的一面
 
 41
 00:30:41,887 --> 00:30:42,876
@@ -218,24 +224,24 @@ If I help you, it'll be because I hate them.
 43
 00:30:46,767 --> 00:30:49,600
 The Cybermen, my ''allies''.
-赛博人, 我的同盟
+赛博人, 我的＂同盟＂
 
 44
 00:30:51,127 --> 00:30:54,517
 You think I'm mad,
 that all I want is power for its own sake.
-你觉得我疯了, 我想要的就只是权力本身fixme
+你觉得我疯了, 觉得我想要的就只是权力本身
 
 45
 00:30:54,607 --> 00:30:56,563
 No, I have to have power.
-不, 我必须得有权力fixme
+不, 我必须得有权力
 
 46
 00:30:56,647 --> 00:31:01,562
 The world is weak, vulnerable,
 a mess of uncoordinated and impossible ideals.
-这个世界很虚弱、脆弱, 一团不协调、不现实理念的乱麻fixme
+这个世界很虚弱、脆弱, 满是不协调、不现实的理念, 一团乱麻
 
 47
 00:31:01,647 --> 00:31:05,083
@@ -245,7 +251,7 @@ It needs a strong man, a single mind.
 48
 00:31:05,167 --> 00:31:07,635
 - A leader!  - Vaughn, will you listen?
-- 一个领袖！  - Vaughn, 你在听吗？
+- 一个领袖！  - Vaughn, 你肯听吗？
 
 49
 00:31:09,807 --> 00:31:11,081
@@ -282,7 +288,7 @@ the radio transmitter control room!
 00:31:33,567 --> 00:31:37,276
 The Cybermen don't know we're here yet.
 Let's keep that element of surprise.
-赛博人还不知道我们在这里．我们保持这份惊喜吧fixme
+赛博人还不知道我们在这里．我们先保留这份惊喜吧
 
 56
 00:31:41,167 --> 00:31:43,362
@@ -309,7 +315,7 @@ VAUGHN: That's it.
 就这样
 
 61
-00:32:28,327 --> 00:32:31,524
+00:32:28,327 --> 00:32:31,724
 (PANTING) That's where we've got to get to.
 Down there.
 那是我们要去的地方, 那下面
@@ -359,13 +365,13 @@ for the radio beam.
 无线电波有一个总开关
 
 71
-00:33:21,887 --> 00:33:25,402
+00:33:21,687 --> 00:33:25,402
 There doesn't seem to be
 any Cybermen about at all. That's odd.
-那周围似乎完全没有赛博人, 这很奇怪
+这周围似乎完全没有赛博人, 这很奇怪
 
 72
-00:33:25,487 --> 00:33:27,842
+00:33:25,487 --> 00:33:27,942
 Well, let's not waste time, then.
 好, 我们别浪费时间了, 走
 
@@ -394,7 +400,7 @@ Whoa!
 78
 00:33:57,727 --> 00:34:00,287
 Doctor, get down! Right, bazooka!
-博士, 下来！好, 火箭炮!
+博士, 蹲下！好, 火箭炮!
 
 79
 00:34:09,287 --> 00:34:10,686
@@ -430,7 +436,7 @@ Oh, but I...
 85
 00:34:23,247 --> 00:34:25,681
 That's it, that's better. Sit still.
-就这样, 这样好多了．坐着别东
+就这样, 这样好多了．坐着别动
 
 86
 00:34:28,287 --> 00:34:29,276
@@ -469,7 +475,7 @@ Forward!
 93
 00:36:19,607 --> 00:36:21,598
 There we are, all done and ready to go.
-我们到了．都已经完成, 可以走了
+我们到了．全都搞定, 可以走了
 
 94
 00:36:21,687 --> 00:36:22,961

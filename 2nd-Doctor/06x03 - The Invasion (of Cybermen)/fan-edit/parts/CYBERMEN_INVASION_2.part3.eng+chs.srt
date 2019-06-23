@@ -35,957 +35,967 @@ Go and recapture Watkins.
 去把 Watkins 重新抓回来
 
 8
-00:18:09,412 --> 00:18:12,290
+00:18:09,412 --> 00:18:12,590
 Don't let anything or anyone stop you.
 不要让任何事、任何人阻止你
 
 9
-00:18:18,812 --> 00:18:20,291
+00:18:18,812 --> 00:18:20,591
 - Oh, thanks!  - Thank goodness you made it.
-- 哦, 谢谢！  - 感谢老天你搞定了
+- 哦, 谢谢！  - 感谢老天你闯过来了
 
 10
-00:18:20,372 --> 00:18:22,442
+00:18:20,672 --> 00:18:22,742
 - Any trouble?  - Hundreds of Cybermen about, sir.
 - 有问题吗？  - 周围有百多个赛博人, 长官
 
 11
-00:18:22,532 --> 00:18:24,807
+00:18:22,832 --> 00:18:25,107
 The sooner we get out of here, the better.
 Everybody ready?
 我们越早离开这里越好, 都准备好了吗？
 
 12
-00:18:24,892 --> 00:18:26,769
+00:18:25,192 --> 00:18:27,069
 - ALL: Yes!
 - ISOBEL: Yes, we're ready, we're coming.
 - 准备好了!  - 是的, 我们准备好了, 我们来了
 
 13
-00:18:26,852 --> 00:18:28,046
+00:18:27,152 --> 00:18:28,346
 Listen!
 听！
 
 14
-00:18:30,532 --> 00:18:32,250
+00:18:30,832 --> 00:18:32,550
 (TYRES SCREECHING)
 
 15
-00:18:35,012 --> 00:18:38,368
+00:18:35,312 --> 00:18:38,668
 We'd better get out of here,
 out of the back way as quickly as possible.
-我们最好离开这里, 尽快离开这后面fixme
+我们最好离开这里, 尽快离开这后面
 
 16
-00:18:38,452 --> 00:18:41,046
+00:18:38,752 --> 00:18:41,346
 - Right!  - Come on, move, everybody. Quickly!
 - 好！  - 快点, 动起来, 所有人, 快！
 
 17
-00:18:41,132 --> 00:18:42,929
+00:18:41,432 --> 00:18:43,229
 Out of the back door. Hurry it up.
-从后门出去, 快起来
+从后门出去, 快点动起来
 
 18
-00:18:43,012 --> 00:18:45,048
+00:18:43,312 --> 00:18:45,348
 Come on, Jamie. Professor, all right? Good.
 快点, Jamie．教授, 没事吧？ 好
 
 19
-00:18:45,132 --> 00:18:46,201
+00:18:45,432 --> 00:18:46,501
 (GUN FIRING)
 
 20
-00:18:51,672 --> 00:18:54,744
+00:18:51,972 --> 00:18:55,044
 - Yes, Jimmy, where are you?
 - TURNER: <i>In bother, sir. We need help.</i>
-- 是的, Jimmy, 你在哪里？  - 遇到麻烦了, 先生, 我们需要帮助
+- 是的, Jimmy, 你在哪里？ - 遇到麻烦了, 长官, 我们需要帮助
 
 21
-00:18:54,832 --> 00:18:57,141
+00:18:55,132 --> 00:18:57,441
 <i>- Can you give us a chopper?</i>
 - Yes.
 - 你能给我们派一架直升机吗？  - 可以
 
 22
-00:18:58,232 --> 00:19:01,941
+00:18:58,532 --> 00:19:02,241
 - Can you make sector five?
 <i>- We can try, sir.</i>
-- 你们赶到第五区吗？  - 我们可以试试, 先生
+- 你们能赶到第五区吗？  - 我们可以试试, 长官
 
 23
-00:19:02,032 --> 00:19:04,148
+00:19:02,332 --> 00:19:04,448
 Right, I'll get the chopper there. Out.
 好, 我让直升机去那里, 挂了
 
 24
-00:19:06,452 --> 00:19:09,012
+00:19:06,752 --> 00:19:09,312
 How could they escape the Cyber-control?
 他们怎么能摆脱赛博控制？
 
 25
-00:19:09,092 --> 00:19:11,083
+00:19:09,392 --> 00:19:11,383
 It's that Doctor, something to do with him.
 是那个博士, 跟他有点关系
 
 26
-00:19:11,172 --> 00:19:12,810
+00:19:11,472 --> 00:19:13,110
 You should've got rid of him
 when you had the chance.
 你有机会的时候应该干掉他的
 
 27
-00:19:12,892 --> 00:19:14,484
+00:19:13,192 --> 00:19:14,784
 Shut up, Packer!
 闭嘴, Packer!
 
 28
-00:19:17,972 --> 00:19:19,564
+00:19:18,272 --> 00:19:19,864
 I must go on with the invasion.
 我必须去继续推进入侵的事情
 
 29
-00:19:19,652 --> 00:19:22,086
+00:19:19,952 --> 00:19:22,386
 But what about the Professor?
-要教授怎么处理？
+但教授怎么处理？
 
 30
-00:19:22,172 --> 00:19:26,211
+00:19:22,472 --> 00:19:24,401
 Without him, we can't make any more machines.
-Without machines, we can't control the Cybermen.
-没有他, 我们制造不了任何机器．没有机器, 我们控制不了赛博人
+没有他, 我们制造不了任何机器
 
 31
-00:19:26,292 --> 00:19:28,248
+00:19:24,550 --> 00:19:26,511
+Without machines, we can't control the Cybermen.
+没有机器, 我们控制不了赛博人
+
+32
+00:19:26,592 --> 00:19:28,548
 Let me worry about that.
 让我来操心这个事吧
 
-32
-00:19:29,092 --> 00:19:33,688
-For the moment,
-I have the Cybermen exactly where I want them.
-现在这个时候, 赛博人正在我期望它们所在的位置fixme
-
 33
-00:19:33,772 --> 00:19:35,490
+00:19:29,392 --> 00:19:33,988
+For the moment, I have the Cybermen
+exactly where I want them.
+就目前而言, 赛博人正好在我期望它们所在的位置
+
+34
+00:19:34,072 --> 00:19:35,790
 Yeah, but for how long?
 是, 但会持续多久？
 
-34
-00:19:35,572 --> 00:19:38,689
+35
+00:19:35,872 --> 00:19:38,989
 Now, can you honestly say
 that everything's going according to plan?
 现在, 你能否实话告诉我, 是不是所有事情都会按计划走？
 
-35
-00:19:38,772 --> 00:19:40,842
-That nothing's been overlooked? Well, can you?
+36
+00:19:39,072 --> 00:19:41,142
+That nothing's been overlooked?
+Well, can you?
 没有漏掉什么吧？怎样, 能吗？
 
-36
-00:19:40,932 --> 00:19:42,729
-Just obey my orders!
-服从我的命令就是了！
-
 37
-00:19:43,812 --> 00:19:47,122
+00:19:41,232 --> 00:19:43,029
+Just obey my orders!
+服从我的命令就是！
+
+38
+00:19:44,112 --> 00:19:47,422
 Now, get in touch with the compound
 and have the radio beam projected.
 现在, 联系工业园, 将无线电信号发送出去
 
-38
-00:19:47,212 --> 00:19:49,203
+39
+00:19:47,512 --> 00:19:49,503
 The invasion fleet must be brought in.
 必须得把入侵的舰队带进来
 
-39
-00:19:49,812 --> 00:19:52,007
+40
+00:19:50,112 --> 00:19:52,307
 Now, Doctor, we must deal with
 this invasion you say is coming.
 现在, 博士, 你所说的即将来临的这场入侵, 我们必须对付它
 
-40
-00:19:52,092 --> 00:19:54,368
+41
+00:19:52,392 --> 00:19:54,668
 Yes, at least we know where they'll land.
 是的, 至少我们知道他们会在那里着陆
 
-40
-00:19:54,492 --> 00:19:56,768
+42
+00:19:54,792 --> 00:19:57,068
 They'll home in on Vaughn's radio signal.
 它们会沿着 Vaughn 的无线电讯号过来
 
-41
-00:19:56,852 --> 00:19:59,810
+43
+00:19:57,152 --> 00:20:00,110
 Would we be able to pick them off
 with anti-missile missiles?
-我们能够用反导导弹拦到它们吗？
+我们能够用反导导弹拦截它们吗？
 
-42
-00:19:59,892 --> 00:20:01,723
-Yes, that's a good idea. We might have a try.
+44
+00:20:00,192 --> 00:20:02,023
+Yes, that's a good idea.
+We might have a try.
 嗯, 这是一个好主意．我们可以试一试
 
-43
-00:20:01,812 --> 00:20:04,531
+45
+00:20:02,112 --> 00:20:04,831
 Right. There's a base near Henlow Downs.
 Er, just a minute.
 好, 在 Henlow Downs 附近有一个基地．呃, 等一下
 
-44
-00:20:04,612 --> 00:20:08,844
+46
+00:20:04,912 --> 00:20:09,144
 - Sergeant Walters?
 - Oh, Zoe, sit down, dear. It's a bit bumpy.
 - Walters 中士吗？  - 噢, Zoe, 坐下, 有一点颠簸
 
-45
-00:20:08,932 --> 00:20:11,605
+47
+00:20:09,232 --> 00:20:11,905
 - Now, how's Jamie's leg?
 - Oh, it's just a slight flesh wound.
 - 现在 Jamie 的脚怎样了？  - 哦, 只是有点轻微的皮外伤
 
-46
-00:20:11,692 --> 00:20:13,967
+48
+00:20:11,992 --> 00:20:14,267
 But he's furious, because the Army doctor
 won't let him walk on it.
 但他吵得厉害, 因为军队医生不让他走路
 
-47
-00:20:14,052 --> 00:20:15,770
+49
+00:20:14,352 --> 00:20:16,070
 Well, he would be, wouldn't he?
 How's the Professor?
 啊, 他会的, 对吧？教授怎样？
 
-48
-00:20:15,852 --> 00:20:17,080
-Oh, he'll be all right. Isobel's with him.
+50
+00:20:16,152 --> 00:20:17,380
+Oh, he'll be all right.
+Isobel's with him.
 噢, 他会没事的．Isobel 在陪着他
 
-49
-00:20:17,172 --> 00:20:18,161
+51
+00:20:17,472 --> 00:20:18,461
 (DOCTOR SIGHS)
 
-50
-00:20:18,252 --> 00:20:20,561
-- Anything I can do, Doctor?  - Well, I...
+52
+00:20:18,552 --> 00:20:20,861
+- Anything I can do, Doctor?
+- Well, I...
 - 我能做点什么吗, 博士？  - 唔, 我...
 
-51
-00:20:20,652 --> 00:20:23,325
-I suggest that you...you go with the Brigadier.
+53
+00:20:20,952 --> 00:20:23,625
+I suggest that you...
+you go with the Brigadier.
 我建议你...你跟准将走
 
-52
-00:20:23,412 --> 00:20:25,972
+54
+00:20:23,712 --> 00:20:26,272
 As much as I detest computers, I...
 鉴于我如此讨厌电脑, 我...
 
-53
-00:20:26,052 --> 00:20:28,612
+55
+00:20:26,352 --> 00:20:28,912
 I think that remarkable brain of yours
 will come in very handy.
-我觉得你那聪明的脑袋瓜会带来很多便利
+我觉得你那聪明的脑袋瓜会更有用
 
-54
-00:20:28,692 --> 00:20:30,410
+56
+00:20:28,992 --> 00:20:30,710
 Right. What are you going to do?
 好．你打算做什么？
 
-55
-00:20:30,492 --> 00:20:34,644
-I think it's about time I had a serious talk
-with our Mr Vaughn.
+57
+00:20:30,792 --> 00:20:34,944
+I think it's about time I had
+a serious talk with our Mr Vaughn.
 我觉得是时候去跟我们的 Vaughn 先生进行一次严肃的谈话了
 
-56
-00:20:34,732 --> 00:20:37,610
+58
+00:20:35,032 --> 00:20:37,910
 What, go back?
 But he'd kill you as soon as look at you.
 什么, 又回去？但他会一看见你就杀了你的
 
-57
-00:20:37,692 --> 00:20:41,162
+59
+00:20:37,992 --> 00:20:41,462
 No, we need time
 if we're going to stop this attack,
 不, 我们需要时间, 如果我们想要阻止这场攻击的话
 
-58
-00:20:41,252 --> 00:20:43,482
+60
+00:20:41,552 --> 00:20:43,782
 and I think I can get us that time.
 而我觉得我可以帮我们争取到那些时间
 
-59
-00:20:43,572 --> 00:20:46,132
+61
+00:20:43,872 --> 00:20:46,432
 No, this is madness.
 I can't afford to let you take that risk.
 不, 这太疯狂了．让你去冒险, 我承担不起这责
 
-60
-00:20:46,212 --> 00:20:48,282
+62
+00:20:46,512 --> 00:20:48,582
 You can't afford not to, Brigadier.
-不让我去的花, 你也承担不起, 准将
+不让我去的话, 你也承担不起, 准将
 
-61
-00:20:48,372 --> 00:20:50,522
+63
+00:20:48,672 --> 00:20:50,822
 If you're going to attack
 the Cybermen with missiles,
 如果你打算用导弹攻击这些赛博人
 
-62
-00:20:50,612 --> 00:20:52,967
+64
+00:20:50,912 --> 00:20:53,267
 they're going to retaliate,
 and we want to know how and with what.
-他们会反击, 我们需要知道用什么方式、什么手段
-
-63
-00:20:53,052 --> 00:20:55,088
-But how can you find that out?
-但你怎么能搞到那些信息？
-
-64
-00:20:55,172 --> 00:20:59,882
-I'll leave my radio on and then you'll hear
-every word that passes between me and Vaughn.
-我会把无线电开着, 你们会听到我和 Vaughn 说的每一个字
+他们就会反击, 我们需要知道用什么方式、什么武器
 
 65
-00:20:59,972 --> 00:21:03,203
+00:20:53,352 --> 00:20:56,988
+- But how can you find that out?
+- I'll leave my radio on
+- 但你怎么能搞到那些信息？  - 我会把无线电开着
+
+66
+00:20:57,072 --> 00:21:00,182
+and then you'll hear every word
+that passes between me and Vaughn.
+你们就能听到我和 Vaughn 之间的每一个字
+
+67
+00:21:00,272 --> 00:21:03,503
 But you'll never get near the place.
 The whole area will be crawling with Cybermen.
 但你不能靠近那个地方, 那里将会挤满了赛博人
 
-66
-00:21:03,292 --> 00:21:05,442
+68
+00:21:03,592 --> 00:21:05,742
 Oh, there's one place
 where there'll be no Cybermen.
 哦, 有一个地方不会有赛博人
 
-67
-00:21:05,532 --> 00:21:07,409
+69
+00:21:05,832 --> 00:21:07,709
 - Where's that?  - In the sewers.
-- 那里？  - 下水道里
+- 哪里？  - 下水道里
 
-68
-00:21:17,092 --> 00:21:20,084
+70
+00:21:17,392 --> 00:21:20,384
 UNIT Control. This is the Doctor.
 UNIT 控制中心, 我是博士
 
-69
-00:21:20,812 --> 00:21:25,044
+71
+00:21:21,112 --> 00:21:25,344
 - Is Brigadier there, please?
 - WALTERS: <i>Hold on a moment, sir, I'll get him.</i>
 - 准将在吗, 请问？  - 等一下, 先生, 我去叫他
 
-70
-00:21:25,132 --> 00:21:26,360
+72
+00:21:25,432 --> 00:21:26,660
 (STATIC BUZZING)
 
-71
-00:21:30,932 --> 00:21:32,251
+73
+00:21:31,232 --> 00:21:32,551
 BRIGADIER: <i>Yes, Doctor, go ahead.</i>
-在, 博士, 请说
+好了, 博士, 请说
 
-72
-00:21:32,332 --> 00:21:35,768
+74
+00:21:32,632 --> 00:21:36,068
 Er, Brigadier, I've just entered the sewers.
 呃, 准将, 我刚刚进入了下水道
 
-73
-00:21:35,852 --> 00:21:38,650
+75
+00:21:36,152 --> 00:21:38,950
 I'm going to make my way to Vaughn's headquarters.
 正要前往 Vaughn 的总部
 
-74
-00:21:38,732 --> 00:21:41,041
+76
+00:21:39,032 --> 00:21:41,341
 I'll give you a call when I get there.
 等我到了那里我会呼你
 
-75
-00:21:41,132 --> 00:21:42,963
+77
+00:21:41,432 --> 00:21:43,263
 <i>Right. We'll have a chopper in the area</i>
-好, 我们会安排一架直升机守那个区域/?
+好, 我们会安排一架直升机守那个区域
 
-76
-00:21:43,052 --> 00:21:45,771
+78
+00:21:43,352 --> 00:21:46,071
 - <i>in case you get in trouble.</i>
 - Thank you.
 - 以防你万一遇到麻烦  - 谢谢你
 
-77
-00:21:48,492 --> 00:21:50,608
+79
+00:21:48,792 --> 00:21:50,908
 (WATER DRIPPING)
 
-78
-00:21:59,752 --> 00:22:03,870
+80
+00:22:00,052 --> 00:22:04,170
 And all the main communication centres
 are now manned by our forces?
-所有的通讯中心都已经被我们的人控制了吧？
+所有的主通讯中心都已经被我们的人控制了吧？
 
-79
-00:22:03,952 --> 00:22:05,465
+81
+00:22:04,252 --> 00:22:05,765
 Yes, but, um...
 是的, 但是, 呃...
 
-80
-00:22:06,632 --> 00:22:08,543
+82
+00:22:06,932 --> 00:22:08,843
 What? But what, Packer?
 怎么了, 但是什么, Packer?
 
-81
-00:22:08,632 --> 00:22:12,386
+83
+00:22:08,932 --> 00:22:12,686
 Well, we can't make a complete takeover
 without a full invasion force.
-只是, 没有一支完整的入侵队伍的话, 我们不能完全接管
+只是, 没有一支完整的入侵队伍的话, 我们没法完全掌控
 
-82
-00:22:12,472 --> 00:22:15,589
+84
+00:22:12,772 --> 00:22:15,889
 They'll arrive, Packer, they'll arrive.
-它们会到的, Packer, 它们会到的
+他们会到的, Packer, 他们会到的
 
-83
-00:22:16,072 --> 00:22:17,824
+85
+00:22:16,372 --> 00:22:18,124
 And when they do,
 等他们到了
 
-84
-00:22:18,512 --> 00:22:23,586
+86
+00:22:18,812 --> 00:22:23,886
 there won't be one city in the entire world
 that we don't control.
 整个世界没有一个城市我们掌控不了
 
-85
-00:22:24,472 --> 00:22:27,145
+87
+00:22:24,772 --> 00:22:27,445
 Think of it, Packer, the entire world!
 想想吧, Packer, 整个世界！
 
-86
-00:22:27,272 --> 00:22:28,421
+88
+00:22:27,572 --> 00:22:28,721
 (ALARM SOUNDING)
 
-87
-00:22:28,992 --> 00:22:31,062
+89
+00:22:29,292 --> 00:22:31,362
 It's the security alarm,
 the UNIT forces must have...
-是安全警报, UNIT 队伍肯定已经...
+是安全警报, UNIT 的队伍肯定已经...
 
-88
-00:22:31,152 --> 00:22:32,346
+90
+00:22:31,452 --> 00:22:32,646
 Packer.
 Packer 
 
-89
-00:22:34,352 --> 00:22:36,242
+91
+00:22:34,652 --> 00:22:36,542
 <i>There you are.</i>
-是你啊fixme
+你在啊
 
-90
-00:22:36,392 --> 00:22:39,589
+92
+00:22:36,692 --> 00:22:39,889
 <i>I hope I haven't called</i>
 <i>at an inconvenient moment, but I...</i>
 我期望我来访的时间没有给你带来不便, 但是我...
 
-91
-00:22:39,672 --> 00:22:42,505
+93
+00:22:39,972 --> 00:22:42,805
 <i>I would rather like a word with you.</i>
 我想要跟你说两句话
 
-92
-00:22:44,112 --> 00:22:47,149
+94
+00:22:44,412 --> 00:22:47,449
 Clever of you to avoid our Cyber-control beam.
-你很聪明, 想要躲开赛博控制波
+你很聪明, 想要躲开我们的赛博控制波
 
-93
-00:22:47,232 --> 00:22:49,621
+95
+00:22:47,532 --> 00:22:49,921
 <i>Oh, it was nothing.</i>
 噢, 那没什么
 
-94
-00:22:50,032 --> 00:22:52,626
+96
+00:22:50,332 --> 00:22:52,926
 <i>I'll...I'll come up, I know the way.</i>
 我...我现在上来, 我知道路
 
-95
-00:22:53,752 --> 00:22:55,743
+97
+00:22:54,052 --> 00:22:56,043
 He must be out of his mind!
 他肯定是失心疯了
 
-96
-00:22:55,832 --> 00:22:57,584
+98
+00:22:56,132 --> 00:22:57,884
 Far from it, Packer.
 远远不是, Packer
 
-97
-00:22:58,072 --> 00:23:02,623
+99
+00:22:58,372 --> 00:23:02,923
 Have the guards search the building,
 just in case he's brought any friends with him.
 让警卫们搜索整栋大楼, 以防他带了一些朋友过来
 
-98
-00:23:02,952 --> 00:23:04,388
+100
+00:23:03,252 --> 00:23:04,688
 Tell the raiding party to stand by.
 告诉突袭小组做好准备
 
-99
-00:23:04,472 --> 00:23:07,305
+101
+00:23:04,772 --> 00:23:07,605
 - Yes, sir.
 - DOCTOR: (WHISPERING) <i>Ah, Brigadier. Brigadier.</i>
 - 是, 长官  - 啊, 准将, 准将
 
-100
-00:23:07,392 --> 00:23:12,420
+102
+00:23:07,692 --> 00:23:12,720
 - Yes, Doctor, go ahead.
 <i>- I am just about to enter the lion's den.</i>
-- 收到, 博士, 请说  - 我就要进入虎穴了
+- 收到, 博士, 继续  - 我就要进入虎穴了
 
-101
-00:23:12,832 --> 00:23:16,108
+103
+00:23:13,132 --> 00:23:16,408
 <i>I will leave the radio on as of now.</i>
 从现在开始我会让无线电一直开着
 
-102
-00:23:16,272 --> 00:23:18,945
+104
+00:23:16,572 --> 00:23:19,245
 - Right. Good luck.  <i>- Thank you.</i>
 - 好, 祝你好运  - 谢谢
 
-103
-00:23:19,992 --> 00:23:22,187
+105
+00:23:20,292 --> 00:23:22,487
 Keep that channel open
 and get the whole thing on tape.
 一直开着那个频道, 把整个过程录下来
 
-104
-00:23:22,272 --> 00:23:23,910
+106
+00:23:22,572 --> 00:23:24,210
 - Yes, sir.  - If he yells for help while I'm away,
-- 是, 长官  - 如果他呼救, 而我有不在
+- 是, 长官  - 如果他呼救, 而我又不在
 
-105
-00:23:23,992 --> 00:23:26,950
+107
+00:23:24,292 --> 00:23:27,250
 - send in everything we've got to get him out.
 - Right.
-- 把我们所有的人派进去救他出来  - 好的
+- 就把我们手头所有的人派进去救他出来  - 好的
 
-106
-00:23:29,092 --> 00:23:32,209
+108
+00:23:29,392 --> 00:23:32,509
 VAUGHN: <i>Ah, Doctor, what an unexpected pleasure.</i>
 啊, 博士, 真是不胜荣幸啊
 
-107
-00:23:32,532 --> 00:23:33,885
+109
+00:23:32,832 --> 00:23:34,185
 <i>Do come in.</i>
 请进来
 
-108
-00:23:35,572 --> 00:23:37,528
+110
+00:23:35,872 --> 00:23:37,828
 And you trust them?
 你信任它们吗？
 
-109
-00:23:37,612 --> 00:23:42,402
+111
+00:23:37,912 --> 00:23:42,702
 Doctor, I've worked with the Cybermen
 for five years, preparing this invasion.
 博士, 我同赛博人合作了五年, 共同准备这次入侵
 
-110
-00:23:43,092 --> 00:23:47,370
+112
+00:23:43,392 --> 00:23:47,670
 I know them, the way they think,
 the single-mindedness of their purpose.
-我了解它们, 它们的思维方式, 他们试图创造单一思想fixme
+我了解他们, 他们的思维方式, 他们一根筋想要达到的目的
 
-111
-00:23:47,452 --> 00:23:51,127
+113
+00:23:47,752 --> 00:23:51,427
 Then you must know what ruthless
 and inhuman killers they are.
-那你肯定知道它们都是冷血无情的杀手吧
+那你肯定知道他们都是冷血无情的杀手吧
 
-112
-00:23:51,212 --> 00:23:52,565
+114
+00:23:51,512 --> 00:23:52,865
 Of course.
 当然
 
-113
-00:23:52,652 --> 00:23:55,769
+115
+00:23:52,952 --> 00:23:56,069
 But then, they are my allies, not my enemies.
-但是呢, 它们时候我的同盟, 不是我的敌人
+但是呢, 他们是我的同盟, 不是我的敌人
 
-114
-00:23:57,332 --> 00:24:00,369
+116
+00:23:57,632 --> 00:24:00,669
 Do you really think they'll honour
 any bargain that you make with them?
-你真的觉得它们会遵循你同他们谈好的交易？
+你真的觉得他们会遵循你同他们谈好的交易？
 
-115
-00:24:00,452 --> 00:24:05,924
+117
+00:24:00,752 --> 00:24:06,224
 Oh, I've planned this whole operation in great detail,
 allowing for every possible factor.
 噢, 我策划了这整个行动, 事无巨细, 考虑了各种因素
 
-116
-00:24:06,012 --> 00:24:08,526
-It was I who contacted them in deep space,
-当初是我联系了深空中的它们
-
-117
-00:24:08,612 --> 00:24:11,251
-provided the means by which they travelled to Earth.
-给它们提供了到达地球的手段
-
 118
-00:24:11,332 --> 00:24:14,768
+00:24:06,312 --> 00:24:08,826
+It was I who contacted them in deep space,
+当初是我联系了深空中的他们
+
+119
+00:24:08,912 --> 00:24:11,551
+provided the means by which they travelled to Earth.
+给他们提供了到达地球的手段
+
+120
+00:24:11,632 --> 00:24:15,068
 And masterminded the whole operation from A to Z.
 从 A 到 Z 策划了这次行动的整个过程
 
-119
-00:24:15,732 --> 00:24:17,051
+121
+00:24:16,032 --> 00:24:17,351
 (SCOFFS)
 
-120
-00:24:17,612 --> 00:24:23,448
+122
+00:24:17,912 --> 00:24:23,748
 They have merely provided their advanced
 scientific skills, their might and strength.
-它们只不过是提供了它们的先进科技, 和一点力气
-
-121
-00:24:23,732 --> 00:24:25,848
-And what do they get out of all this?
-那它们能从这里面得到什么呢？
-
-122
-00:24:25,932 --> 00:24:31,052
-What they want and what they're going to get
-are two entirely different things.
-它们想要什么和它们会得到什么, 是两件完全不同的事
+他们只不过是提供了它们的先进科技, 和一点力气
 
 123
-00:24:31,132 --> 00:24:33,521
+00:24:24,032 --> 00:24:26,148
+And what do they get out of all this?
+那他们能从这里面得到什么呢？
+
+124
+00:24:26,232 --> 00:24:31,352
+What they want and what they're going to get
+are two entirely different things.
+他们想要什么和他们会得到什么, 是两件完全不同的事
+
+125
+00:24:31,432 --> 00:24:33,821
 Oh, you're a fool, Vaughn.
 噢, 你是个傻瓜, Vaughn
 
-124
-00:24:33,612 --> 00:24:36,649
+126
+00:24:33,912 --> 00:24:36,949
 When they get here, they'll take over.
-一旦它们到了这里, 它们就会全夺走
+一旦他们到了这里, 他们就会夺取控制权
 
-125
-00:24:36,732 --> 00:24:40,407
+127
+00:24:37,032 --> 00:24:40,707
 All Cybermen here are conditioned to obey my orders.
 根据条件, 所有赛博人都要服从我的命令
 
-126
-00:24:40,492 --> 00:24:42,722
+128
+00:24:40,792 --> 00:24:43,022
 They are directly under my command.
-它们都受我直接指挥
+他们都受我直接指挥
 
-127
-00:24:42,812 --> 00:24:46,771
+129
+00:24:43,112 --> 00:24:47,071
 Oh, possibly. But what about the others,
 out there in space?
 噢, 有可能．但另外那些呢, 在太空里的那些？
 
-128
-00:24:46,852 --> 00:24:49,969
-Are they conditioned to obey your commands?
-按条件它们也会服从你的指挥？
-
-129
-00:24:50,052 --> 00:24:52,612
-If they're not, I'll destroy them.
-如果它们不服从, 我会消灭他们
-
 130
-00:24:52,692 --> 00:24:54,887
+00:24:47,152 --> 00:24:50,269
+Are they conditioned to obey your commands?
+他们也会按条件服从你的指挥？
+
+131
+00:24:50,352 --> 00:24:52,912
+If they're not, I'll destroy them.
+如果他们不服从, 我会消灭他们
+
+132
+00:24:52,992 --> 00:24:55,187
 - With the Professor's machine?  - Yes.
 - 就用教授的机器？  - 是的
 
-131
-00:24:54,972 --> 00:24:56,928
+133
+00:24:55,272 --> 00:24:57,228
 With one machine?
 就凭一台机器？
 
-132
-00:24:57,412 --> 00:24:59,448
-I'll have more made.
-我会安排批量制造
-
-133
-00:24:59,532 --> 00:25:03,047
-But you'll have to have
-the Professor's help to do that, won't you?
-但你得需要教授的帮助才能这样做, 对吧？
-
 134
-00:25:03,132 --> 00:25:04,850
+00:24:57,712 --> 00:24:59,748
+I'll have more made.
+我会多制造一些的
+
+135
+00:24:59,832 --> 00:25:03,347
+But you'll have to have the Professor's
+help to do that, won't you?
+但你得需要教授的帮助才能做到, 对吧？
+
+136
+00:25:03,432 --> 00:25:05,150
 We've got the Professor.
 教授在我们手上
 
-135
-00:25:04,932 --> 00:25:07,287
+137
+00:25:05,232 --> 00:25:07,587
 They'll be under my command,
 exactly like the others.
 它们会听我指挥的, 跟其它的完全一样
 
-136
-00:25:07,372 --> 00:25:10,045
-But you can't be sure of that, can you?
-但对此你不能确定, 对吧？
-
-137
-00:25:15,012 --> 00:25:17,731
-(ELECTRONIC SIGNAL PULSATING)
-
 138
-00:25:17,852 --> 00:25:20,650
-Well, we can't get them all.
-Let's take as many as we can.
-好吧, 我们不能全干掉它们, 也要能搞定多少就搞定多少
+00:25:07,672 --> 00:25:10,345
+But you can't be sure of that, can you?
+但对此你并没有把握, 对吧？
 
 139
-00:25:20,732 --> 00:25:24,566
+00:25:15,312 --> 00:25:18,031
+(ELECTRONIC SIGNAL PULSATING)
+
+140
+00:25:18,152 --> 00:25:20,950
+Well, we can't get them all.
+Let's take as many as we can.
+好吧, 我们没法把它们全干掉, 能搞定多少就算多少
+
+141
+00:25:21,032 --> 00:25:24,866
 - Lift off the activation check.
 - Coordinate programme running, sir.
 - 开始激活检查  - 协同程序已经开始运行, 长官
 
-140
-00:25:26,132 --> 00:25:29,488
+142
+00:25:26,432 --> 00:25:29,788
 - Link programme to telemeter guidance.
 - PETERS: Roger.
 - 将程序连接到测距导航仪  - 收到
 
-141
-00:25:29,572 --> 00:25:33,531
+143
+00:25:29,872 --> 00:25:33,831
 Major, I think we stand a good chance of
 getting at least 90 percent of them.
 少校, 我觉得我们有很大可能可以消灭它们的９成
 
-142
-00:25:33,612 --> 00:25:35,921
+144
+00:25:33,912 --> 00:25:36,221
 - How? We haven't got enough missiles.
 - Oh, please, Major.
 - 怎么弄？我们没有足够的导弹  - 哦, 拜托, 少校
 
-143
-00:25:36,012 --> 00:25:39,049
+145
+00:25:36,312 --> 00:25:39,349
 Just knocking out half a dozen of them
 will do very little good at all.
-只是敲掉它们中的一部分的花, 完全没有多大收益
+只是干掉它们中的一两打的话, 完全没有多大收益
 
-144
-00:25:39,132 --> 00:25:40,360
+146
+00:25:39,432 --> 00:25:40,660
 Let's try for them all.
 我们得尽力把它们全搞定
 
-145
-00:25:40,452 --> 00:25:43,569
+147
+00:25:40,752 --> 00:25:43,869
 Look, miss, I know my business and
 I'm telling you we haven't got enough missiles.
 听着, 小姐, 我知道我的情况, 我告诉你我们没有足够的导弹
 
-146
-00:25:43,652 --> 00:25:45,131
+148
+00:25:43,952 --> 00:25:45,431
 Yes, you have.
 有, 你有
 
-147
-00:25:45,212 --> 00:25:47,680
+149
+00:25:45,512 --> 00:25:47,980
 These things are coming in in a formation pattern.
-这些家伙已经以编队形式过来了
+这些家伙是以一种编队阵型过来的
 
-148
-00:25:47,772 --> 00:25:52,004
+150
+00:25:48,072 --> 00:25:52,304
 Now if you set your missiles carefully,
 you can set up a chain reaction of explosions.
 现在如果你们仔细设定你们的导弹, 就可以引发链式爆炸
 
-149
-00:25:52,092 --> 00:25:54,731
+151
+00:25:52,392 --> 00:25:55,031
 No, there isn't time to compute
 all the relevant information.
 不行, 没有足够的时间来计算所有相关的因素了
 
-150
-00:25:54,812 --> 00:25:57,849
+152
+00:25:55,112 --> 00:25:58,149
 - They'd be on top of us by then.
 - Give me 30 seconds.
 - 到时候它们已经到我们头上了  - 给我３０秒
 
-151
-00:25:58,492 --> 00:26:00,722
+153
+00:25:58,792 --> 00:26:01,022
 Give her what she asks, Major. 30 seconds.
 她要就给她吧, 少校, ３０ 秒
 
-152
-00:26:00,812 --> 00:26:04,327
+154
+00:26:01,112 --> 00:26:04,627
 - But, sir, this is ridiculous!
 - Just 30 seconds.
-- 但是, 长官, 这完全不可能啊！  - 就３０秒
+- 但是, 长官, 这很荒谬！  - 就３０秒
 
-153
-00:26:05,972 --> 00:26:08,202
+155
+00:26:06,272 --> 00:26:08,502
 - Hold for 30 seconds!
 - Sir, that doesn't give us much time.
-- 稳住３０秒  - 长官, 给我们的时间不多了
+- 暂缓３０秒！  - 长官, 给我们的时间不多了
 
-154
-00:26:08,292 --> 00:26:12,126
+156
+00:26:08,592 --> 00:26:12,426
 All right, Sergeant, I know.
 Countdown to begin at T minus 45 seconds.
 好了, 中士, 我知道．开始４５秒倒计时
 
-155
-00:26:28,812 --> 00:26:30,768
+157
+00:26:29,112 --> 00:26:31,068
 Here. Feed this into your computer.
 给, 把这个输入到你们电脑里面去
 
-156
-00:26:30,852 --> 00:26:33,730
+158
+00:26:31,152 --> 00:26:34,030
 Do as she says. Now. I'll take over.
 按她说的做．现在, 我来接管
 
-157
-00:26:33,812 --> 00:26:34,927
+159
+00:26:34,112 --> 00:26:35,227
 Sir.
 长官
 
-158
-00:26:38,572 --> 00:26:40,767
+160
+00:26:38,872 --> 00:26:41,067
 - You'd better be right.  - I am.
 - 你最好是对的  - 我当然是
 
-159
-00:26:43,292 --> 00:26:47,410
+161
+00:26:43,592 --> 00:26:47,710
 T minus 45 seconds from...now.
 ４５秒倒计时...开始
 
-160
-00:26:47,812 --> 00:26:49,211
+162
+00:26:48,112 --> 00:26:49,511
 (WHIRRING)
 
-161
-00:26:54,172 --> 00:26:58,404
+163
+00:26:54,472 --> 00:26:58,704
 Once the Cybermen take over,
 they'll destroy the Earth as we know it!
 一旦赛博人占领这里, 它们会毁灭地球的, 我们都知道！
 
-162
-00:26:58,492 --> 00:27:01,052
+164
+00:26:58,792 --> 00:27:01,352
 You're just playing for time, aren't you?
 你只是在拖延时间, 对吗？
 
-163
-00:27:01,132 --> 00:27:04,568
+165
+00:27:01,432 --> 00:27:04,868
 I'm trying to stop you
 from destroying the human race!
 我是在尽力阻止你毁灭整个人类种族！
 
-164
-00:27:04,772 --> 00:27:06,524
+166
+00:27:05,072 --> 00:27:06,824
 Your UNIT friends...
-你那些 UNIT 的朋友...
+你那些在 UNIT 的朋友...
 
-165
-00:27:07,092 --> 00:27:11,165
+167
+00:27:07,392 --> 00:27:11,465
 You presumably managed to protect them
 from the Cyber-control as well?
 估计你肯定设法保护了他们, 不让他们受到赛博控制波影响？
 
-166
-00:27:11,252 --> 00:27:12,844
+168
+00:27:11,552 --> 00:27:13,144
 What are they planning?
 他们在谋划些什么？
 
-167
-00:27:12,932 --> 00:27:15,162
+169
+00:27:13,232 --> 00:27:15,462
 I don't know what you're talking about.
 我不知道你在说些什么
 
-168
-00:27:17,732 --> 00:27:18,960
+170
+00:27:18,032 --> 00:27:19,260
 Packer?
 Packer? 
 
-169
-00:27:19,132 --> 00:27:20,247
+171
+00:27:19,432 --> 00:27:20,547
 <i>Yes, sir.</i>
 在, 先生
 
-170
-00:27:20,332 --> 00:27:23,642
+172
+00:27:20,632 --> 00:27:23,942
 - Is the radio beam in the compound aligned yet?
 <i>- Yes, sir, it's all ready.</i>
 - 工业园的无线电波已经调校好了么？  - 是的, 先生, 都准备好了
 
-171
-00:27:23,732 --> 00:27:26,929
+173
+00:27:24,032 --> 00:27:27,229
 Good. Then link the beam to the invasion fleet.
 好, 那把它跟入侵舰队的讯号连接起来
 
-172
-00:27:27,372 --> 00:27:28,964
+174
+00:27:27,672 --> 00:27:29,264
 <i>Right, Mr Vaughn.</i>
 好的, Vaughn 先生
 
-173
-00:27:30,892 --> 00:27:34,521
+175
+00:27:31,192 --> 00:27:34,821
 Now whatever it is
 your UNIT friends are trying to do...
 现在, 不管你在 UNIT 的朋友打算做什么...
 
-174
-00:27:34,612 --> 00:27:36,091
+176
+00:27:34,912 --> 00:27:36,391
 it's too late.
 都来不及了
 
-175
-00:27:51,252 --> 00:27:56,406
+177
+00:27:51,552 --> 00:27:56,706
 COMMUNICATOR: <i>The first transporter fleet</i>
 <i>is being attacked and destroyed.</i>
-第一支传送舰队已经被击中, 都毁灭了
+第一支传送舰队已经被攻击了, 全部毁灭
 
-176
-00:27:56,492 --> 00:27:59,689
+178
+00:27:56,792 --> 00:27:59,989
 <i>- You have betrayed us.</i>  - No!
 - 你背叛了我们  - 没有！
 
-177
-00:27:59,772 --> 00:28:04,084
+179
+00:28:00,072 --> 00:28:04,384
 <i>The failure of this mission is due to you.</i>
 这次任务的失败都是因为你
 
-178
-00:28:04,172 --> 00:28:07,642
+180
+00:28:04,472 --> 00:28:07,942
 <i>We will now take over the invasion.</i>
 我们现在要接管入侵行动
 
-179
-00:28:07,732 --> 00:28:10,121
+181
+00:28:08,032 --> 00:28:10,421
 No! Wait! Give me time!
 不, 等等！给我点时间！
 
-180
-00:28:10,212 --> 00:28:12,043
+182
+00:28:10,512 --> 00:28:12,343
 I can stop this opposition!
 我可以组织那些抵抗者！
 
-181
-00:28:12,132 --> 00:28:14,600
+183
+00:28:12,432 --> 00:28:14,900
 <i>There is no more time.</i>
 不会有更多时间了
 
-182
-00:28:14,772 --> 00:28:16,967
+184
+00:28:15,072 --> 00:28:17,267
 <i>We no longer need you.</i>
 我们不再需要你了
 
-183
-00:28:17,252 --> 00:28:21,131
+185
+00:28:17,552 --> 00:28:21,431
 <i>The Cyber-Megatron bomb will be delivered.</i>
-赛博超级炸弹已经发送
+即将发送赛博超级炸弹
 
-184
-00:28:21,212 --> 00:28:25,444
+186
+00:28:21,512 --> 00:28:25,744
 <i>We must destroy life on Earth completely.</i>
 我们必须完全摧毁地球上的生命
 
-185
-00:28:25,652 --> 00:28:28,007
+187
+00:28:25,952 --> 00:28:28,307
 <i>Every living being.</i>
 所有活着的生物
 
