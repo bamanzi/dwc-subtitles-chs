@@ -1,180 +1,269 @@
-* 1st Doctor
+* 《神秘博士》老版(1963-1989)中文字幕
 
-** DONE 02x01 Planet of the Giants (whopix fan-edit)
+主要针对第二位博士(04x03 - 06x06), 因为第一位博士的剧集已经全部由 [[http://weibo.com/u/5173795657][@CW\_ClassicWho字幕组]] 完成了,\\
+而第五／六／七任博士的剧集也已经被 [[http://weibo.com/u/5230144369][@iCelery军团]] 完成, iCelery 目前还在做三任的剧集
 
-*Status:* DONE (1/1
+另外这里也有少量除了其它几任博士剧集的字幕, 以及一些衍生剧集的字幕, 比如BBV的 Auton Trilogy, Reeltime的 Downtime 等
 
-http://whoflix.wordpress.com/2014/01/10/planet-of-giants/
+由于精力和能力有限, 这里大部分字幕针对的不是原视频, 而是Whopix粉丝剪辑版([[https://whoflix.wordpress.com/doctor-who/]] )．\\
+个人觉得这些剪辑版本剧情紧凑一些, 同时字幕工作量小了不少, 另外又可以把原视频的完整字幕留给 @CW\_ClassicWho字幕组 或者 @iCelery军团 这些正规军以后来做
 
-https://secure.assrt.net/xml/sub/623/623895.xml
+** 1st Doctor
 
-** DONE 03x02 Mission to the Unknown                                 :daleks:
+**** 02x01 Planet of the Giants
 
-*Featuring:* #daleks #animated
+粉丝剪辑版。CW字幕组有此故事的完整熟肉。制作此粉丝版的字幕是觉得此版本剪辑得够短小，可以安利小朋友
 
-*Status:* DONE (1/1)
+-  粉丝剪辑版本: [[http://wp.me/p1mHFo-11b]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4340735811685231]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623895.xml]]
 
-** DONE 04x02 The Tenth Planet                                     :cybermen:
+**** 03x02 Mission to the Unknown                           :daleks:animated:
 
-*Featuring:* #cyberman #animated
+此集是03x04 Dalek's Master Plan 的序章，原视频遗失，字幕针对动画重制版制作（CW字幕组有此集基于PPT版本的熟肉）
 
-*Status:* DONE (1/4) (Part 4 only)
+-  微博介绍及字幕文件: [[https://m.weibo.cn/1910110560/4262842012601546]]
 
-**** 04x02 The Tenth Planet (Whopix fan edit version)
+**** 04x02 The Tenth Planet                               :cyberman:animated:
 
-*Status:* DONE (1/1)
+赛博人第一次出场; 博士的第一次重生
 
-http://whoflix.wordpress.com/2014/04/21/the-tenth-planet-2/
+粉丝剪辑版。CW字幕组有此故事的完整熟肉。制作此粉丝版的字幕是觉得此版本剪辑得够短小，可以安利小朋友
 
-https://secure.assrt.net/xml/sub/623/623775.xml
+原视频最后一集遗失，CW字幕组制作的熟肉是基于用修复版本（静态画面+语音，俗称PPT版本）制作的。\\
+后来BBC对这一集补了动画版本， 所以这也附加了针对动画版的第4集中文字幕。
 
-* 2nd Doctor
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-1b8]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4336739122553710]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623775.xml]]
 
-** DONE 04x03 The Power of the Daleks                                :daleks:
+** 2nd Doctor
 
-*Featuring:* #daleks #animated
+*** Season 4
 
-*Status:* DONE (6/6)
+**** 04x03 The Power of the Daleks                          :daleks:animated:
 
-Download: https://secure.assrt.net/xml/sub/622/622123.xml
+第二任博士的第一次出场
 
-**** 04x03 The Power of the Daleks (Whopix fan edit version)
+-  [x] 动画完整版字幕
 
-https://whoflix.wordpress.com/2017/02/18/the-power-of-the-daleks-2/
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4243333884486439]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/622/622123.xml]]
 
-*Status:* DONE (1/1)
+-  [x] 粉丝剪辑版
 
-Download: https://secure.assrt.net/xml/sub/623/623454.xml
+   -  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2017/02/18/the-power-of-the-daleks-2/]]
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4322905540222728]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623454.xml]]
 
-** 04x06 The Moonbase                                              :cybermen:
+**** +04x04 The Highlanders+ (4集视频全遗失, 未做中文字幕
 
-*Featuring:* #cyberman #animated
+**** +04x05 The Underwater Menace+ (总4集, 第1、4集遗失, 未做中文字幕)
 
-*Status:* 2/4
+**** 04x06 The Moonbase                                            :cyberman:
 
-**** DONE 04x06 The Moobase (whopix fan edit version)
+赛博人第二次出场
 
-http://whoflix.wordpress.com/2016/04/22/the-moonbase/
+粉丝剪辑版
 
-*Status:* DONE
+-  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2016/04/22/the-moonbase/]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4329181477133369]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623564.xml]]
 
-Download: https://secure.assrt.net/xml/sub/623/623564.xml
+**** 04x07 The Macra Terror                                        :animated:
 
-** DONE 04x09 The Evil of the Daleks                                 :daleks:
+2019动画版完整字幕
 
-*Featuring:* #daleks
+-  part 1 & 2
 
-*Status:* DONE (7/7)
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4359447025777169]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624458.xml]]
 
-Download: https://secure.assrt.net/xml/sub/623/623426.xml (updated)
+-  part 3 & 4
 
-** TODO 05x01 The Tomb of the Cybermen                             :cybermen:
-** DONE 05x03 The Ice Warriros                                 :ice_warriors:
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4361424392909314]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624521.xml]]
 
-*Featuring:* #ice-warriors #animated
+**** +04x08 The Faceless Ones+ (总6集, 有4集遗失, 未做中文字幕)
+**** 04x09 The Evil of the Daleks                                    :daleks:
 
-*Status:* DONE
+原视频7小集仅幸存第2小集。完整字幕，基于 LooseCannon修复版本（“PPT版本”）
 
-Download: https://secure.assrt.net/xml/sub/623/623231.xml
+-  微博介绍: [[https://m.weibo.cn/1910110560/4327056802736592]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623426.xml]]
 
-** 05x04 The Enemy of the World
-** DONE 05x05 The Web of Fear (whopix fan-edit)          :great_intelligence:
+*** Season 5
 
-*Featuring:* #great-intelligence
+**** 05x01 The Tomb of the Cybermen                                :cyberman:
 
-*Stattus:* DONE
+粉丝剪辑版
 
-https://secure.assrt.net/xml/sub/623/623663.xml
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-5z]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4348385387213052]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624128.xml]]
 
-** TODO 06x03 The Invasion                                         :cybermen:
+**** +The Abominable Snowmen+ (总6集, 仅第2集幸存, 未做中文字幕) :great:intelligence:
 
-*Featuring:* #cyberman #animated
+Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的首次出场
 
-*Status:* TODO
+**** 05x03 The Ice Warriros                                     :ice:warrior:
 
+寒冰勇士首次出场。不过真正的敌人其实是”电脑“(或者说把一切留给电脑来决定的这种心态）
 
-* 3rd Doctor
-** TODO 09x01 Day of the Daleks                                      :daleks:
-** DONE 10x03 Frontier in Space
+完整版本字幕 （共6小集，第2、3小集针对动画重制版）
 
-*Featuring:* #draconians
+-  微博介绍: [[https://m.weibo.cn/1910110560/4310940322849636]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623231.xml]]
 
-*Status:* 3/6 (Part 1-3 DONE)
+**** 05x04 The Enemy of the World
 
-Download: https://secure.assrt.net/xml/sub/623/623486.xml
+号称最像"007“的神秘博士
 
-[ ] TODO: Part 4-6
+粉丝剪辑版
 
-**** DONE 10x03 Frontier in Space (whopix fan edit)
+-  粉丝版剪辑说明以及视频下载: [[https://whoflix.wordpress.com/2014/11/28/the-enemy-of-the-world/]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4373747244878930]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624874.xml]]
 
-*Status*: Done
+**** 05x05 The Web of Fear                               :great:intelligence:
 
-Video: http://whoflix.wordpress.com/2012/12/07/frontier-in-space/
+Great Intelligence (大智慧/超级智能）和 Yeti (雪怪）的第二次出场。
 
-Download: https://secure.assrt.net/xml/sub/623/623602.xml
+UNIT 和 准将的第一次出场。不过那时候 UNIT 是此集之后才成立， Lethbridge-Stewart 也是之后才升任准将
 
-** 10x04 Planet of the Daleks
-** DONE 11x01 The Time Warrior                                    :sontarans:
+粉丝剪辑版（原视频6小集，第3小集遗失，剧情影响不大) 
 
-*Featuring:* #sontarans #sarah
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-1e1]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4334522072393901]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623663.xml]]
 
-*Status:* 4/4 (DONE)
+**** +05x06 Fury of the Deep+ (总6集, 全遗失, 未做中文字幕)
+**** +5x07 The Wheel in Space+ (总6集, 仅幸存3、6，未做中文字幕)   :cyberman:
 
-Download: https://secure.assrt.net/xml/sub/623/623538.xml (updated)
+*** Seaon 6
 
+**** 06x01 The Dominators
 
-* 4th Doctor
-** TODO 12x04 Genesis of the Daleks (whopix fan-edit)                :daleks:
+粉丝剪辑版
 
-http://whoflix.wordpress.com/2011/08/12/genesis-of-the-daleks-2/
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-6Y]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4380482903268827]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625001.xml]]
 
-*Featuring:* #daleks #davros
+**** 06x02 The Mind Robber
 
-*Status:* 0/1 (TODO)
+粉丝剪辑版
 
-** TODO 14x06 The Talons of Weng-Chiang (whopix fan-edit)
-** 15x06 The Invasion of Time                                     :sontarans:
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-rj]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4353356472354914]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624278.xml]]
 
-*Featuring:* #sontarans
+**** 06x03 The Invasion (of the Cybermen)                          :cyberman:
 
-*Status:* TODO?
+UNIT 和 准将第一次正式出场
 
-Note: part 1&2 already translated by =isaakfvkampfer=
+粉丝剪辑版
 
-** Shada
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-lH]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4386407394841925]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625209.xml]]
 
-*** DONE Shada (1992)
+**** 06x04 The Krotons
 
-*Status:* DONE (6/6)
+粉丝剪辑版
 
-Note: small improvments on iCelery's subtitles
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-xw]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4391907947480683]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/625/625391.xml]]
 
-*** Shada (2017)
+**** 06x05 The Seeds of Death                                   :ice:warrior:
 
-*Status:* TODO (0/1)
+寒冰勇士第二次出场, 试图入侵地球
 
+粉丝剪辑版
 
-* 5th Doctor
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-m8]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4343154256340286]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623945.xml]]
 
-** TODO 21x04 Resurrection of the Daleks (whopix fan-edit)     :daleks:
+**** +06x06 The Space Pirates+ (6集中仅有第2集幸存，未做字幕)
 
-Based on iCelery's subtitles
+**** +06x07 The War Games+ (iCelery军团有熟肉)
 
-* 8th Doctor
-** Shada (8th Doctor, animated)
+** 3rd Doctor
 
-*Status:* TODO (0/6)
+**** 09x01 Day of the Daleks                                         :daleks:
 
-Note: no English subtitles yet
+Daleks 在第四季 The Evil of the Daleks 后时隔五年重新出场
 
+粉丝剪辑版
 
-* Misc                                                   :great_intelligence:
-** DONE Downtime
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-sa]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4367935625842118]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624702.xml]]
 
-https://secure.assrt.net/xml/sub/623/623825.xml
+**** 10x03 Frontier in Space
 
-** Auton Trilogy (BBV)
+粉丝剪辑版
 
-*** DONE episode 1
-https://secure.assrt.net/xml/sub/623/623825.xml
-*** TODO episode 2: Sentinel
+-  粉丝版剪辑说明以及视频下载: [[http://wp.me/p1mHFo-xY]]
+-  微博介绍: [[https://m.weibo.cn/1910110560/4326623953900170]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623602.xml]]
+
+另外第1-3集有完整版字幕: 字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623486.xml]]
+
+**** [ ] 10x04 Planet of the Daleks                                  :daleks:
+
+**** 11x01 The Time Warrior                                       :sontarans:
+
+桑塔人第一次登场
+
+完整4集字幕
+
+-  微博介绍: [[https://m.weibo.cn/1910110560/4326623953900170]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623538.xml]] (updated)
+
+** 4th Doctor
+
+-  [-] 12x04 Genesis of the Daleks (粉丝剪辑版)
+-  [ ] 14x06 The Talons of Weng-Chiang (粉丝剪辑版)
+-  [ ] 15x01 Horror of Fang Rock
+-  [ ] 15x06 The Invasion of Time
+-  [-] Shada (1992)
+-  [ ] Shada (2017)
+
+** 5th Doctor
+
+-  [-] 21x04 Resurrection of the Daleks
+
+** 8th Doctor
+
+-  [ ] Shada (8th Doctor, animated)
+
+** Reeltime
+
+*** Downtime                                             :great:intelligence:
+
+-  微博介绍: [[https://m.weibo.cn/1910110560/4338147816820942]]
+-  字幕文件下载: [[https://secure.assrt.net/xml/sub/623/623825.xml]]
+
+** BBV
+
+*** Auton 三部曲                                                     :autons:
+
+**** Episode 1
+
+   -  微博介绍:[[https://m.weibo.cn/1910110560/4345791440903676]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624016.xml]]
+
+**** Episode 2: Sentinel
+
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4350914149927646]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624218.xml]]
+
+**** Episode 3: Awakening
+
+   -  微博介绍: [[https://m.weibo.cn/1910110560/4356013458977274]]
+   -  字幕文件下载: [[https://secure.assrt.net/xml/sub/624/624356.xml]]
+
+
