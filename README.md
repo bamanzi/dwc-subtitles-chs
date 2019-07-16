@@ -19,6 +19,8 @@
 
 ## 2nd Doctor
 
+### season 4
+
 - [x] 04x03 The Power of the Daleks (animated, full) https://secure.assrt.net/xml/sub/622/622123.xml
 
     - [x] whopix fan-edit https://secure.assrt.net/xml/sub/623/623454.xml
@@ -30,14 +32,20 @@
     - part 3 & 4  https://secure.assrt.net/xml/sub/624/624521.xml
     
 - [x] 04x09 The Evil of the Daleks (full) https://secure.assrt.net/xml/sub/623/623426.xml (updated)
+
+### season 5
+
 - [x] 05x01 The Tomb of the Cybermen (whopix fan-edit)  https://secure.assrt.net/xml/sub/624/624128.xml
 - [x] 05x03 The Ice Warriros (full) https://secure.assrt.net/xml/sub/623/623231.xml
 - [x] 05x04 The Enemy of the World (whopix fan-edit) https://secure.assrt.net/xml/sub/624/624874.xml
 - [x] 05x05 The Web of Fear (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623663.xml
+
+### season 6
+
 - [x] 06x01 The Dominators (whopix fan-edit) https://secure.assrt.net/xml/sub/625/625001.xml
 - [x] 06x02 The Mind Robber (whopix fan-edit) https://secure.assrt.net/xml/sub/624/624278.xml
-- [ ] 06x03 The Invasion (of the Cybermen)
-- [ ] 06x04 The Krotons
+- [x] 06x03 The Invasion (of the Cybermen)  https://secure.assrt.net/xml/sub/625/625209.xml
+- [x] 06x04 The Krotons https://secure.assrt.net/xml/sub/625/625391.xml
 - [x] 06x06 The Seeds of Death (whopix fan-edit) https://secure.assrt.net/xml/sub/623/623945.xml
 
 
