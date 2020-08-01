@@ -1,5 +1,9 @@
 * 《神秘博士》老版(1963-1989)中文字幕
 
+备注： 神秘老博士译制进度: http://t.cn/A6y3UB9G  (由 [[https://weibo.com/1251593294/JchWAw3fn][@DW-串串]] 整理/维护） 
+ 
+** 说明
+
 主要针对第二位博士(04x03 - 06x06), 因为第一位博士的剧集已经全部由 [[http://weibo.com/u/5173795657][@CW_ClassicWho字幕组]] 完成了,而第五／
 六／七任博士的剧集也已经被 [[http://weibo.com/u/5230144369][@iCelery军团]] 完成, iCelery 目前还在做三任的剧集
 
@@ -9,6 +13,8 @@ Reeltime的 Downtime 等
 由于精力和能力有限, 这里大部分字幕针对的不是原视频, 而是Whopix粉丝剪辑版
 ([[https://whoflix.wordpress.com/doctor-who/]] )．个人觉得这些剪辑版本剧情紧凑一些, 同时字幕工作量小了不
 少, 另外又可以把原视频的完整字幕留给 @CW_ClassicWho字幕组 或者 @iCelery军团 这些正规军以后来做
+
+下载这里所有的字幕： https://github.com/bamanzi/dwc-subtitles-chs/archive/master.zip
 
 ** 1st Doctor
 
