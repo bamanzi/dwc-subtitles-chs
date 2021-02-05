@@ -1,1059 +1,1184 @@
 1
-00:00:33,207 --> 00:00:36,244
+00:00:32,444 --> 00:00:35,377
 <i>Somebody help me, please.</i>
 
 2
-00:00:36,407 --> 00:00:38,238
+00:00:35,400 --> 00:00:37,230
 <i>I'm suffocatingI</i>
 
 3
-00:00:38,847 --> 00:00:41,919
+00:00:37,840 --> 00:00:40,910
 <i>QuicklyI Somebody help me, pleaseI</i>
 
 4
-00:00:42,087 --> 00:00:43,679
+00:00:41,080 --> 00:00:42,670
 <i>I'm suffocatingI</i>
 
 5
-00:00:46,727 --> 00:00:49,878
+00:00:44,111 --> 00:00:47,000
 <i>Help meI PleaseI</i>
 
 6
-00:03:15,407 --> 00:03:17,477
+00:03:13,577 --> 00:03:15,488
 Yeah, but what about me brother?
 
 7
-00:03:17,647 --> 00:03:23,085
-I've got to look into this first. It's possible
-that my colleague has been murdered.
+00:03:15,640 --> 00:03:18,066
+I'm afraid I've got something 
+more serious to look into first, Miss.
 
 8
-00:03:23,247 --> 00:03:26,319
-- Doctor, this man wants to talk to you.
-- Who is he?
+00:03:18,222 --> 00:03:20,750
+If this young man's telling the truth, 
+a colleague of mine's been murdered.
 
 9
-00:03:26,487 --> 00:03:28,125
-There you are, sir.
+00:03:20,888 --> 00:03:24,377
+- Doctor, this man wants to talk to you.
+- Oh, Who is he?
 
 10
-00:03:28,287 --> 00:03:31,597
-"Detective Inspector Crossland. Scotland Yard. "
+00:03:24,666 --> 00:03:25,666
+There you are, sir.
 
 11
-00:03:31,767 --> 00:03:35,157
+00:03:26,022 --> 00:03:29,222
+"Detective Inspector Crossland. Scotland Yard. "
+
+12
+00:03:29,355 --> 00:03:32,600
 - I told him everything.
 - Have you ever seen that man?
 
-12
-00:03:35,327 --> 00:03:38,478
+13
+00:03:32,933 --> 00:03:35,977
 He was in the Chameleon Tours hangar.
 
-13
-00:04:00,487 --> 00:04:03,479
+14
+00:03:48,200 --> 00:03:50,933
 The Doctor's body. Where is it?
 
-14
-00:04:03,647 --> 00:04:06,559
+15
+00:03:51,400 --> 00:03:54,311
 He... escaped.
 
-15
-00:04:08,247 --> 00:04:13,321
+16
+00:03:54,777 --> 00:04:01,022
 His intelligence is far above normal beings.
 
-16
-00:04:13,487 --> 00:04:16,001
+17
+00:04:01,266 --> 00:04:03,577
 Above YOURS, perhaps
 
-17
-00:04:16,607 --> 00:04:21,635
-I must leave. The flight to Zurich
-is ready to take off. You will remain here.
-
 18
-00:04:21,807 --> 00:04:26,198
+00:04:04,266 --> 00:04:07,422
+I must leave. The flight to Zurich
+is ready to take off.
+
+19
+00:04:07,533 --> 00:04:09,200
+You will remain here.
+
+20
+00:04:09,444 --> 00:04:13,711
 - For what purpose?
 - To atone for your incompetence.
 
-19
-00:04:26,367 --> 00:04:30,645
+21
+00:04:13,888 --> 00:04:17,933
 The Doctor must die, and you must do it.
 
-20
-00:04:35,447 --> 00:04:38,803
-We'll talk to the commandant.
-I want him to hear your story.
-
-21
-00:04:38,967 --> 00:04:43,563
-- He wasn't very impressed with it the last time.
-- This time, he'll believe you.
-
 22
-00:04:43,727 --> 00:04:45,479
-Well, if you think so.
+00:04:23,155 --> 00:04:25,000
+All right then, Doctor, we'll go and see the commandant.
 
 23
-00:04:45,647 --> 00:04:48,798
-Jamie, keep an eye on the kiosk.
-We shan't be long.
+00:04:25,111 --> 00:04:26,155
+I want him to hear your story.
 
 24
-00:04:48,967 --> 00:04:52,357
-Don't worry about your brother.
-We'll find him for you.
+00:04:26,310 --> 00:04:29,355
+Well, he wasn't very impressed with it the last time.
 
 25
-00:04:52,527 --> 00:04:55,439
-A fat lot of good that inspector's going to be!
+00:04:29,440 --> 00:04:31,111
+This time, he's gonna believe you.
 
 26
-00:04:55,607 --> 00:04:59,805
-- But he believes us.
-- That doesn't mean he'll do anything.
+00:04:31,355 --> 00:04:33,200
+Well, if you think so.
 
 27
-00:05:01,007 --> 00:05:03,999
-I think I'll look round that Chameleon hangar.
+00:04:33,640 --> 00:04:36,790
+Jamie, stay here and keep an eye on the kiosk.
+We shan't be long.
 
 28
-00:05:04,167 --> 00:05:08,479
-- Not by yourself.
-- Well, it would be better if I had a man with me.
+00:04:36,960 --> 00:04:40,350
+Don't worry about your brother, Miss.
+We'll find him for you.
 
 29
-00:05:08,647 --> 00:05:12,196
+00:04:40,844 --> 00:04:44,670
+- A fat lot of good that inspector's going to be! 
+- But he believes us.
+
+30
+00:04:44,673 --> 00:04:47,800
+Oh, year, but that doesn't mean to say he's going to do anything.
+
+31
+00:04:49,000 --> 00:04:51,990
+I think I'll go and have a look round that Chameleon hangar.
+
+32
+00:04:52,088 --> 00:04:56,470
+- Not by yourself.
+- Well, I suppose it would be better if I had a man with me.
+
+33
+00:04:56,640 --> 00:05:00,190
 Aye. If only the Doctor hadn't told me
 to watch this place.
 
-30
-00:05:12,367 --> 00:05:17,077
-- Do you always do everything you're told?
+34
+00:05:00,360 --> 00:05:05,070
+- Oh, do you always do everything you're told?
 - No, but the Doctor trusts me.
 
-31
-00:05:17,247 --> 00:05:22,765
-That's your trouble! All right, stay here.
+35
+00:05:05,240 --> 00:05:08,488
+Yeah, that's your trouble, isn't it! 
+All right, stay here.
+
+36
+00:05:08,555 --> 00:05:10,760
 After all, they can only murder me. Ta-ra.
 
-32
-00:05:22,927 --> 00:05:26,044
-Wait. I don't suppose anything will happen here.
+37
+00:05:10,920 --> 00:05:14,466
+No, wait a minute. 
+I don't suppose anything will happen here, do you?
 
-33
-00:05:26,207 --> 00:05:30,359
-- They've closed the kiosk, so it's unlikely.
-- And we won't be long.
+38
+00:05:14,555 --> 00:05:18,350
+- Since they closed the kiosk, so it's hardly likely.
+- And we won't be long, will we?
 
-34
-00:05:30,527 --> 00:05:33,963
-That depends on what we find. Come on, kid.
+39
+00:05:18,520 --> 00:05:22,355
+Well, that depends on what we find. Come on, kid.
 
-35
-00:05:34,127 --> 00:05:38,086
+40
+00:05:22,511 --> 00:05:25,355
 In any case, you need me
 to show you the way there!
 
-36
-00:05:41,607 --> 00:05:45,725
+41
+00:05:29,600 --> 00:05:33,720
 All right, all right.
 I'll accept that you found a body,
 
-37
-00:05:45,887 --> 00:05:50,438
+42
+00:05:33,880 --> 00:05:38,177
 but I still want to know where you come from
 and why you have no passport.
 
-38
-00:05:50,607 --> 00:05:55,317
+43
+00:05:38,511 --> 00:05:43,310
 - Surely that's unimportant?
 - It is not unimportant to break the law!
 
-39
-00:05:56,287 --> 00:05:59,199
-I think we'll have to let him tell us in his own way.
+44
+00:05:44,333 --> 00:05:47,190
+Sir, I think we'll have to let him tell us in his own way.
 
-40
-00:05:59,367 --> 00:06:01,517
+45
+00:05:47,360 --> 00:05:49,510
 Very well. Make it brief.
 
-41
-00:06:01,687 --> 00:06:07,125
+46
+00:05:49,680 --> 00:05:55,120
 Thank you. I have just carried out a search
 of the Chameleon Tours hangar.
 
-42
-00:06:17,847 --> 00:06:21,044
-- Who's this one?
-- I think he's one of your employees.
+47
+00:05:55,280 --> 00:05:58,488
+In a packing case, I found the body of a man. 
 
-43
-00:06:21,207 --> 00:06:25,837
-- Indeed?
+48
+00:05:58,555 --> 00:06:00,355
+You never told me that, Doctor. 
+Another dead man? 
+
+49
+00:06:00,422 --> 00:06:04,820
+No, he was in a stupefied state, a sort of coma. 
+
+50
+00:06:05,840 --> 00:06:07,711
+- Who's this one?
+- I don't know his name.
+
+51
+00:06:07,844 --> 00:06:09,733
+But I have a feeling he's one of your employees.
+
+52
+00:06:09,755 --> 00:06:13,377
+- Oh, indeed?
 - In fact, I think he may be in here.
 
-44
-00:06:33,687 --> 00:06:39,922
+53
+00:06:21,680 --> 00:06:27,920
 Taxi, following southern taxi way
 for departure runway 27...
 
-45
-00:06:50,767 --> 00:06:54,316
+54
+00:06:33,444 --> 00:06:37,288
 - Do you know what this is?
-- It looks like a fountain pen.
+- It looks like a fountain pen to me.
 
-46
-00:06:54,487 --> 00:06:58,400
+55
+00:06:37,400 --> 00:06:40,377
 Things are not always what they seem.
 Careful! It's dangerous.
 
-47
-00:06:58,567 --> 00:07:02,924
+56
+00:06:40,800 --> 00:06:45,440
 - Chameleon Tours aren't what they seem either.
 - What's your theory?
 
-48
-00:07:03,087 --> 00:07:07,080
+57
+00:06:45,711 --> 00:06:48,533
 I'm afraid you won't believe it
-when you hear it. However...
+when you hear it....
 
-49
-00:07:07,247 --> 00:07:12,275
+58
+00:06:50,444 --> 00:06:55,066
 First, Inspector Gascoigne
 was murdered with a ray gun.
 
-50
-00:07:12,447 --> 00:07:15,803
+59
+00:06:55,511 --> 00:06:58,888
 - A ray gun?
-- It has not yet been developed on Earth.
+- A weapon that has not yet been developed on this Earth.
 
-51
-00:07:15,967 --> 00:07:19,642
+60
+00:06:58,888 --> 00:07:02,088
 - Oh, really!
-- I knew you wouldn't believe it.
+- You see, I knew you wouldn't believe it.
 
-52
-00:07:19,807 --> 00:07:23,800
-Be patient, sir.
+61
+00:07:02,133 --> 00:07:05,066
+No, now be patient, sir.
 We are trying to understand you.
 
-53
-00:07:23,967 --> 00:07:28,165
-Next, I believe Chameleon Tours
+62
+00:07:05,244 --> 00:07:11,288
+Very well. Next, I believe Chameleon Tours
 to be merely a front - a cover.
 
-54
-00:07:28,327 --> 00:07:30,397
+63
+00:07:11,400 --> 00:07:12,844
 For what?
 
-55
-00:07:30,567 --> 00:07:33,320
+64
+00:07:14,400 --> 00:07:16,488
 For the mass kidnapping of young people.
 
-56
-00:07:33,487 --> 00:07:37,366
+65
+00:07:17,288 --> 00:07:20,577
 And is all this supposed
 to be taking place in my airport?
 
-57
-00:07:37,527 --> 00:07:42,203
+66
+00:07:20,600 --> 00:07:23,533
 - Yes. At this very moment.
-- That's quite enough! Can't you arrest him?
+- That's quite enough!
 
-58
-00:07:42,367 --> 00:07:46,406
-He's only broken immigration law,
-which isn't my responsibility.
+67
+00:07:23,640 --> 00:07:25,755
+Can't you take that fellow into custody? 
 
-59
-00:07:46,567 --> 00:07:49,286
+68
+00:07:25,840 --> 00:07:27,577
+Well, I'm very sorry, sir, but you know he hasn't broken any law.
+
+69
+00:07:27,600 --> 00:07:29,950
+except for this immigration business,
+and that's not my responsibility.
+
+70
+00:07:30,066 --> 00:07:32,488
 - Brian Briggs IS your responsibility!
-- Who?
+- Who is he?
 
-60
-00:07:49,447 --> 00:07:53,599
-- He went on the Chameleon tour and vanished.
-- We don't know that.
+71
+00:07:32,640 --> 00:07:34,888
+He's a young man who went on the Chameleon tour and vanished.
 
-61
-00:07:53,767 --> 00:07:57,760
+72
+00:07:34,955 --> 00:07:36,840
+Come on Doctor, wait a minute. 
+We're not certain of that yet. 
+
+73
+00:07:36,911 --> 00:07:40,460
 Well, he's nowhere to be found,
 and neither are my two friends,
 
-62
-00:07:57,927 --> 00:08:03,718
+74
+00:07:40,620 --> 00:07:47,311
 which proves my point - Chameleon Tours
 are a cover for the abducting of young people.
 
-63
-00:08:03,887 --> 00:08:06,959
+75
+00:07:47,355 --> 00:07:49,650
 And just where do you think they're taking them?
 
-64
-00:08:07,127 --> 00:08:12,599
-Well, in view of the facts - the ray gun,
-this pen and one or two other things -
+76
+00:07:49,977 --> 00:07:52,888
+Well, in view of the facts that I've already presented
 
-65
-00:08:13,887 --> 00:08:18,802
-- I think these people are not from this planet.
-- That hardly... What did you say?!
+77
+00:07:52,955 --> 00:07:56,444
+the ray gun, this pen, 
+and one or two other things -
 
-66
-00:08:19,927 --> 00:08:24,284
-- I knew you wouldn't believe me.
+78
+00:07:57,288 --> 00:07:59,933
+I think we're dealing with people who are not from this planet
+
+79
+00:08:00,040 --> 00:08:02,577
+That hardly answers my que... 
+What did you say?!
+
+80
+00:08:03,422 --> 00:08:07,800
+- You see, I knew you wouldn't believe me.
 - This is absolute arrant nonsense!
 
-67
-00:08:24,447 --> 00:08:28,679
-I think you ought to produce some evidence
-to support all this.
+81
+00:08:07,955 --> 00:08:12,244
+Look, Doctor, I think you ought to
+ produce some evidence to support all this.
 
-68
-00:08:28,847 --> 00:08:32,681
-- What about this pen?
-- A pen! Do you call that evidence
+82
+00:08:12,330 --> 00:08:15,866
+- Evidence? What about this pen?
+- A pen! Do you call that evidence? 
 
-69
-00:08:32,847 --> 00:08:35,042
+83
+00:08:15,933 --> 00:08:18,422
 I'll demonstrate it for you.
 
-70
-00:08:38,807 --> 00:08:41,241
+84
+00:08:22,555 --> 00:08:24,355
 Excuse me.
 
-71
-00:08:42,767 --> 00:08:45,884
+85
+00:08:26,266 --> 00:08:29,288
 - Would you mind helping us?
 - I don't understand.
 
-72
-00:08:46,047 --> 00:08:48,800
+86
+00:08:29,466 --> 00:08:31,777
 Could you hold this cup out in front of you?
 
-73
-00:08:48,967 --> 00:08:50,958
+87
+00:08:32,577 --> 00:08:33,888
 Very well.
 
-74
-00:08:53,527 --> 00:08:57,566
+88
+00:08:37,088 --> 00:08:40,260
 - Perhaps you've seen one of these before?
 - No. Agh!
 
-75
-00:09:02,087 --> 00:09:04,078
+89
+00:08:45,711 --> 00:08:47,600
 It's turned to ice!
 
-76
-00:09:06,687 --> 00:09:09,838
+90
+00:08:50,177 --> 00:08:52,933
 Do you call that arrant nonsense?
 
-77
-00:09:25,607 --> 00:09:32,126
-"Dear Mum and Dad. Have arrived safely in the
-Black Forest. Will write again soon. Love, Tim. "
+91
+00:09:09,480 --> 00:09:12,844
+"Dear Mum and Dad. 
+Have arrived safely in the Black Forest."
 
-78
-00:09:32,767 --> 00:09:34,405
+92
+00:09:13,000 --> 00:09:15,240
+"Will write again soon. Love, Tim. "
+
+93
+00:09:16,266 --> 00:09:17,800
 "Dear Dad, I... "
 
-79
-00:09:34,567 --> 00:09:36,683
+94
+00:09:18,066 --> 00:09:19,466
 "Dear Mum... "
 
-80
-00:09:37,287 --> 00:09:38,640
+95
+00:09:20,822 --> 00:09:22,440
 Jamie!
 
-81
-00:09:41,567 --> 00:09:44,286
+96
+00:09:25,222 --> 00:09:28,080
 Jamie! Look what I've found.
 
-82
-00:09:44,447 --> 00:09:46,517
+97
+00:09:28,240 --> 00:09:29,933
 There must be 50 postcards here.
 
-83
-00:09:46,687 --> 00:09:52,557
-- That should make that inspector do something.
-- You're right, and I know where to find him.
+98
+00:09:30,150 --> 00:09:32,066
+That should make that inspector do something.
 
-84
-00:09:53,767 --> 00:09:56,759
+99
+00:09:32,088 --> 00:09:34,822
+You're right, and I know where to find him.
+
+100
+00:09:37,422 --> 00:09:40,555
 You're a brave wee lassie.
 No time to greet now.
 
-85
-00:09:56,927 --> 00:09:59,839
+101
+00:09:40,622 --> 00:09:43,630
 Get off! I've got something in me eye. Come on.
 
-86
-00:10:01,887 --> 00:10:03,479
+102
+00:09:45,680 --> 00:09:47,270
 Where are we going?
 
-87
-00:10:03,647 --> 00:10:06,036
+103
+00:09:47,440 --> 00:09:49,555
 The commandant's office.
 
-88
-00:10:08,447 --> 00:10:12,679
-Here are the remaining flight schedules
-for Chameleon Tours.
+104
+00:09:52,240 --> 00:09:56,470
+Doctor, here are the remaining flight schedules
+for Chameleon Tours you wanted.
 
-89
-00:10:12,847 --> 00:10:17,238
+105
+00:09:56,640 --> 00:10:00,577
 - What a nasty little device.
 - I'd better get that checked over, sir.
 
-90
-00:10:17,407 --> 00:10:19,967
-Samantha, down here.
+106
+00:10:00,644 --> 00:10:02,866
+- What the devil...
+- Samantha, down here.
 
-91
-00:10:20,127 --> 00:10:24,006
+107
+00:10:03,600 --> 00:10:07,200
 - Postcards! Look.
 - I will not have my control room invaded!
 
-92
-00:10:24,167 --> 00:10:27,079
+108
+00:10:07,377 --> 00:10:09,977
 - Not even for these?
 - What have you got there?
 
-93
-00:10:27,247 --> 00:10:30,876
+109
+00:10:11,040 --> 00:10:14,200
 I think it's the further evidence
-you require, Inspector.
+you required, Inspector.
 
-94
-00:10:32,287 --> 00:10:34,323
+110
+00:10:15,177 --> 00:10:17,911
 Yes... Just as I thought.
 
-95
-00:10:34,487 --> 00:10:38,480
+111
+00:10:18,000 --> 00:10:20,244
 - Where did you get these?
 - In the office in that hangar.
 
-96
-00:10:38,647 --> 00:10:42,845
-It's falling into a pattern.
-This is addressed to somewhere in Germany.
+112
+00:10:20,440 --> 00:10:23,244
+- You see what they mean? 
+- All falling into a pattern.
 
-97
-00:10:43,007 --> 00:10:47,717
+113
+00:10:23,330 --> 00:10:26,333
+This envelope is addressed to somewhere in Germany.
+
+114
+00:10:26,422 --> 00:10:31,060
 Yeah. "Dem Chameleon Reisen, Freiberg. "
 That means Chameleon Tours.
 
-98
-00:10:47,887 --> 00:10:49,798
-What are you all talking about?
+115
+00:10:31,155 --> 00:10:33,590
+Just what are you all talking about?
 
-99
-00:10:49,967 --> 00:10:55,837
-They give out these cards, and get the kids
-to write home to their parents before they go.
+116
+00:10:33,730 --> 00:10:36,400
+You see, they give out these cards,
 
-100
-00:10:56,007 --> 00:11:00,797
+117
+00:10:36,466 --> 00:10:39,630
+and get the kids to write home to their parents
+ before they go.
+
+118
+00:10:39,800 --> 00:10:44,590
 The Chameleon Tours lot take the cards abroad
-and post them back to Britain.
+and THEY post them back to Britain.
 
-101
-00:11:01,367 --> 00:11:04,916
+119
+00:10:44,733 --> 00:10:47,777
 So the parents think the children
 have arrived safely.
 
-102
-00:11:05,087 --> 00:11:07,681
+120
+00:10:48,600 --> 00:10:51,480
 Doctor, what do you think happens to them?
 
-103
-00:11:07,847 --> 00:11:10,805
+121
+00:10:51,640 --> 00:10:54,600
 Now, now. This is all mere supposition!
 
-104
-00:11:10,967 --> 00:11:14,516
-To you, maybe, but one of those kids
+122
+00:10:54,760 --> 00:10:58,422
+Oh, to you, maybe, but one of those kids
 happens to be my brother.
 
-105
-00:11:15,687 --> 00:11:18,599
+123
+00:10:58,800 --> 00:11:01,622
 - Your brother?
-- Aye, her brother is missing.
+- Aye, sir. This is the young lady whose brother's missing
 
-106
-00:11:18,767 --> 00:11:21,918
-She got a card from him in Rome.
+124
+00:11:01,711 --> 00:11:04,711
+and you see, she did get a card from him in Rome.
 
-107
-00:11:22,087 --> 00:11:25,921
-Why would anyone want
+125
+00:11:04,888 --> 00:11:09,088
+But why would anyone want
 to abduct these young people?
 
-108
-00:11:26,087 --> 00:11:29,318
-If we knew that, we wouldn't be sitting here.
+126
+00:11:09,266 --> 00:11:12,044
+Well, if we knew that, 
+we wouldn't be sitting here.
 
-109
-00:11:29,487 --> 00:11:32,445
+127
+00:11:12,555 --> 00:11:15,400
 Inspector, can I have a word with you?
 
-110
-00:11:35,887 --> 00:11:39,516
+128
+00:11:18,970 --> 00:11:22,533
 You don't think this fellow's
 a little unbalanced, do you?
 
-111
-00:11:39,687 --> 00:11:44,477
-He may be a wee bit unorthodox,
-but he's given us the only lead we've got so far.
+129
+00:11:22,755 --> 00:11:24,622
+Oh maybe a wee bit unorthodox, sir. 
 
-112
-00:11:44,647 --> 00:11:47,445
-- If you gave him a free hand...
+130
+00:11:24,711 --> 00:11:27,177
+But after all, he's given us the only lead we've got so far.
+
+131
+00:11:27,350 --> 00:11:29,200
+If you could just see your way to giving him a free hand.
+
+132
+00:11:29,244 --> 00:11:32,311
 - A free hand?
+- Just to poke around a little bit, sir.
 
-113
-00:11:47,607 --> 00:11:50,201
-Just to poke around a little bit, sir.
-
-114
-00:11:50,367 --> 00:11:54,440
+133
+00:11:33,530 --> 00:11:37,644
 Do you think it's safe
 to let the fellow roam around the airport?
 
-115
-00:11:54,607 --> 00:11:57,360
+134
+00:11:37,711 --> 00:11:39,755
 You can rely on us to keep an eye on him, sir.
 
-116
-00:11:57,527 --> 00:11:59,597
+135
+00:11:40,622 --> 00:11:42,911
 All right, but on your head be it.
 
-117
-00:11:59,767 --> 00:12:05,842
-I will investigate Chameleon Tours, then
-I'll report back to you if I've found out anything.
+136
+00:11:43,422 --> 00:11:46,197
+I personally will investigate Chameleon Tours
 
-118
-00:12:06,007 --> 00:12:10,125
-In the meantime,
-if you could keep everything going as normal.
+137
+00:11:46,266 --> 00:11:49,044
+then I'll report back to you if I've found out anything.
 
-119
-00:12:10,287 --> 00:12:13,085
-We don't want them to get wind of anything.
+138
+00:11:49,222 --> 00:11:53,088
+In the meantime, if you could keep everything
+ going as normal, you understand?
 
-120
-00:12:15,367 --> 00:12:20,805
+139
+00:11:53,200 --> 00:11:55,488
+- We don't want them to get wind of anything.
+- No, no, no, no, no.
+
+140
+00:11:57,688 --> 00:12:04,511
 Doctor, I'm giving you the freedom
 of the airport for 12 hours, heaven help me.
 
-121
-00:12:20,967 --> 00:12:25,643
+141
+00:12:04,933 --> 00:12:09,440
 At the end of that time,
-I shall expect you back here with some real facts.
+I shall expect you back here with some real facts this time.
 
-122
-00:12:25,807 --> 00:12:28,002
+142
+00:12:09,600 --> 00:12:11,800
 Thank you, Commandant.
 
-123
-00:12:32,727 --> 00:12:35,400
+143
+00:12:14,177 --> 00:12:16,377
 - Did they believe the Doctor?
 - I don't know.
 
-124
-00:12:35,567 --> 00:12:38,240
+144
+00:12:16,533 --> 00:12:18,822
 - What do you mean?
 - I think he suspects me.
 
-125
-00:12:38,407 --> 00:12:41,922
+145
+00:12:19,222 --> 00:12:22,533
 He turned one of our own weapons on me.
 Forced me to leave.
 
-126
-00:12:42,087 --> 00:12:45,045
+146
+00:12:22,888 --> 00:12:26,177
 You fool. You should have stayed.
 
-127
-00:12:45,207 --> 00:12:48,961
+147
+00:12:27,088 --> 00:12:29,800
 Now, we do not know
 how much he has discovered.
 
-128
-00:12:49,127 --> 00:12:53,678
+148
+00:12:30,311 --> 00:12:34,622
 Even if he has discovered the secret
 of our mission, they won't believe him.
 
-129
-00:12:53,847 --> 00:12:56,486
+149
+00:12:34,955 --> 00:12:37,555
 These Earth minds cannot stretch that far.
 
-130
-00:12:56,647 --> 00:13:01,437
+150
+00:12:37,666 --> 00:12:42,555
 Of course, the truth is beyond their intelligence,
 except for that Doctor.
 
-131
-00:13:01,607 --> 00:13:04,679
+151
+00:12:42,800 --> 00:12:45,755
 I know where he is. I could kill him.
 
-132
-00:13:04,847 --> 00:13:11,036
-You're going to, but not at the risk of your own
-safety. We still need you in Air Traffic Control.
+152
+00:12:45,910 --> 00:12:49,222
+You're going to, but not at the risk of your own safety.
 
-133
-00:13:12,207 --> 00:13:16,166
+153
+00:12:49,577 --> 00:12:52,155
+We still need you in Air Traffic Control.
+
+154
+00:12:53,488 --> 00:12:56,733
 Take this. Attach it to him.
 
-134
-00:13:16,327 --> 00:13:20,036
+155
+00:12:57,466 --> 00:13:00,600
 When you're ready,
 I shall activate the mechanism with this.
 
-135
-00:13:20,207 --> 00:13:24,405
+156
+00:13:01,688 --> 00:13:04,844
 - That should put paid to him once and for all.
 - Very well.
 
-136
-00:13:24,567 --> 00:13:26,558
+157
+00:13:05,666 --> 00:13:07,222
 Don't delay.
 
-137
-00:13:26,727 --> 00:13:30,083
+158
+00:13:07,755 --> 00:13:10,755
 I want him dead before Captain Blade returns.
 
-138
-00:13:37,367 --> 00:13:39,722
+159
+00:13:16,177 --> 00:13:18,422
 Doctor...
 
-139
-00:13:39,887 --> 00:13:43,402
-- Here are passes for you and your friends.
+160
+00:13:18,555 --> 00:13:22,044
+-  I've made out a pass for you and your two friends.
 - Thank you.
 
-140
-00:13:43,567 --> 00:13:46,479
+161
+00:13:22,160 --> 00:13:25,070
+Excuse me, sir. 
 There's a Chameleon flight coming in now.
 
-141
-00:13:47,847 --> 00:13:51,806
+162
+00:13:26,955 --> 00:13:31,177
 <i>Alpha Delta Sierra X-ray Lima
 calling Gatwick Airport Control.</i>
 
-142
-00:13:51,967 --> 00:13:55,039
+163
+00:13:31,244 --> 00:13:33,630
 Gatwick Control
 to Alpha Delta Sierra X-ray Lima.
 
-143
-00:13:59,527 --> 00:14:02,837
+164
+00:13:38,600 --> 00:13:42,666
 Gatwick Control
 to Alpha Delta Sierra X-ray Lima.
 
-144
-00:14:03,007 --> 00:14:05,805
+165
+00:13:42,800 --> 00:13:44,377
 I will now give you your heading.
 
-145
-00:14:08,087 --> 00:14:11,762
+166
+00:13:46,680 --> 00:13:50,511
 - How many flights do they use a day?
 - Seven or eight.
 
-146
-00:14:11,927 --> 00:14:13,645
-How many planes do they use?
+167
+00:13:51,222 --> 00:13:53,466
+- How many planes do they use?
+- Four.
 
-147
-00:14:13,807 --> 00:14:19,518
-- Four. I could get their registration numbers.
-- Eight flights a day and only four planes.
+168
+00:13:53,733 --> 00:13:57,333
+I could get their registration numbers 
+if you like. Why do you ask?
 
-148
-00:14:19,687 --> 00:14:23,236
-Is that normal?
+169
+00:13:57,511 --> 00:13:59,955
+Eight flights a day and only four planes.
+ Is that normal?
+
+170
+00:14:00,022 --> 00:14:01,830
 Yes. They have a very quick turnaround.
 
-149
-00:14:23,407 --> 00:14:28,117
-They're only on short-haul flights -
+171
+00:14:02,000 --> 00:14:03,955
+ I mean, after all they're only on short haul flights
+
+172
+00:14:04,020 --> 00:14:06,933
+You know, all the holiday centres.
 Spain, Rome, Athens, the Black Forest.
 
-150
-00:14:28,287 --> 00:14:31,802
-- I need the winter schedules.
+173
+00:14:07,022 --> 00:14:10,400
+- Jean, where's the file on winter schedules.
 - Excuse me.
 
-151
-00:14:31,967 --> 00:14:36,882
+174
+00:14:10,560 --> 00:14:13,466
 - Which is the Chameleon plane?
-- That one. I shall hold him over Epsom
+- Oh that one, sir. 
 
-152
-00:14:37,047 --> 00:14:39,038
-until I get landing clearance.
+175
+00:14:13,640 --> 00:14:15,088
+Look, he's turning left at Dunsfold.
 
-153
-00:14:39,207 --> 00:14:42,279
+176
+00:14:15,200 --> 00:14:18,000
+I shall hold him now over Epsom 
+until I can give him landing clearance. 
+
+177
+00:14:18,466 --> 00:14:21,711
 - What's the range of your radar?
 - 130 miles. Why?
 
-154
-00:14:42,447 --> 00:14:46,201
+178
+00:14:21,800 --> 00:14:25,200
 - I wondered when this plane first appeared.
-- I've no idea.
+- I've no idea, sir.
 
-155
-00:14:46,367 --> 00:14:50,042
+179
+00:14:25,288 --> 00:14:28,640
 We don't notice them until they start to call in.
-Excuse me.
+Now excuse me a moment.
 
-156
-00:14:50,207 --> 00:14:53,040
+180
+00:14:29,666 --> 00:14:32,666
 <i>Gatwick Control
 to Alpha Delta Sierra X-ray Lima.</i>
 
-157
-00:14:53,207 --> 00:14:58,725
+181
+00:14:32,866 --> 00:14:36,888
 <i>Climb to 10,000 feet and hold in
 Epsom control zone to await landing clearance.</i>
 
-158
-00:14:58,887 --> 00:15:03,517
+182
+00:14:37,111 --> 00:14:42,311
 <i>Alpha Delta Sierra X-ray Lima.
 Climbing to 10,000 feet and holding.</i>
 
-159
-00:15:03,687 --> 00:15:09,000
+183
+00:14:44,020 --> 00:14:46,666
 - How long do you hold them after take-off?
-- Once they've left Gatwick Control Zone,
 
-160
-00:15:09,167 --> 00:15:14,366
-- we've finished with them.
-- I see. That means they might be anywhere.
+184
+00:14:46,711 --> 00:14:49,111
+Once they've left Gatwick Control Zone, 
+ we've finished with them.
 
-161
-00:15:14,527 --> 00:15:19,282
+185
+00:14:49,260 --> 00:14:53,600
+I see. That means they might be anywhere.
+
+186
+00:14:53,777 --> 00:14:58,600
 Aren't you wasting your 12 hours
 hanging around here, disturbing my people?
 
-162
-00:15:19,447 --> 00:15:24,237
+187
+00:14:58,680 --> 00:15:00,511
 I don't think I've been wasting a minute,
+
+188
+00:15:00,622 --> 00:15:03,800
 but I'll go if you insist. Sam! Jamie!
 
-163
-00:15:24,407 --> 00:15:27,558
-- Sorry.
-- It's all right. It's my fault.
+189
+00:15:03,911 --> 00:15:06,750
+- Sorry. 
+- It's all right. It's quite my fault.
 
-164
-00:15:27,727 --> 00:15:31,322
+190
+00:15:07,422 --> 00:15:10,600
 - Haven't I met you somewhere before?
 - I don't think so.
 
-165
-00:15:31,487 --> 00:15:34,399
+191
+00:15:10,977 --> 00:15:12,622
 You must have a double!
 
-166
-00:15:50,127 --> 00:15:52,118
-Thank you.
-
-167
-00:15:52,287 --> 00:15:56,803
+192
+00:15:28,977 --> 00:15:32,777
 - Excuse me, are you the manager?
 - I'm looking after bookings. Can I help?
 
-168
-00:15:56,967 --> 00:16:00,198
+193
+00:15:32,950 --> 00:15:36,333
 - I'd rather like to speak to the manager...
 - Er...
 
-169
-00:16:00,367 --> 00:16:03,359
+194
+00:15:36,460 --> 00:15:39,450
 - I'm a police officer.
 - Is there some trouble?
 
-170
-00:16:03,527 --> 00:16:07,918
+195
+00:15:39,620 --> 00:15:42,755
 - I'd prefer to speak to the person in charge.
 - That's Captain Blade.
 
-171
-00:16:08,087 --> 00:16:13,241
-- He's about to take off on another flight.
+196
+00:15:42,822 --> 00:15:45,377
+He's just returned from one flight, taking off for another.
+
+197
+00:15:45,466 --> 00:15:48,688
+- He's rather busy at the moment.
 - Perhaps I could go out to the plane?
 
-172
-00:16:13,407 --> 00:16:15,716
-I'll have to see about that.
-
-173
-00:16:15,887 --> 00:16:17,798
+198
+00:15:49,711 --> 00:15:52,377
+I'll have to see about that. 
 Just a moment, please.
 
-174
-00:16:26,167 --> 00:16:28,158
+199
+00:16:01,955 --> 00:16:03,733
 A detective wants to see you.
 
-175
-00:16:28,327 --> 00:16:30,318
+200
+00:16:04,288 --> 00:16:05,977
 <i>Does he suspect anything?</i>
 
-176
-00:16:30,487 --> 00:16:32,478
+201
+00:16:06,155 --> 00:16:07,622
 I don't know.
 
-177
-00:16:32,647 --> 00:16:37,926
+202
+00:16:08,377 --> 00:16:12,888
 <i>All right. Send him over to the plane.
 We'll deal with him.</i>
 
-178
-00:16:42,407 --> 00:16:46,195
-Are you sure this is the right room?
-Have I ever been mistaken?
+203
+00:16:14,822 --> 00:16:16,666
+Are you sure this is the right room, Doctor?
 
-179
-00:16:46,367 --> 00:16:47,686
-Aye!
+204
+00:16:16,822 --> 00:16:19,688
+- Jamie, have you ever known me to be mistaken?
+- Aye!
 
-180
-00:16:47,847 --> 00:16:51,999
-Watch out. That's the wall
-the gas nozzles came out of.
+205
+00:16:19,822 --> 00:16:22,444
+- Hey. Now watch out. 
+- What?
 
-181
-00:16:52,167 --> 00:16:54,635
+206
+00:16:22,577 --> 00:16:25,200
+That's the wall the gas nozzles came out of.
+
+207
+00:16:25,311 --> 00:16:27,200
 There's nothing here now.
 
-182
-00:16:56,647 --> 00:16:58,638
+208
+00:16:29,244 --> 00:16:30,555
 You're right.
 
-183
-00:16:58,807 --> 00:17:00,798
-That's very clever.
+209
+00:16:31,088 --> 00:16:33,133
+That's clever, very clever.
 
-184
-00:17:00,967 --> 00:17:03,401
+210
+00:16:33,511 --> 00:16:35,644
 Oh, well, it makes life simpler for us.
 
-185
-00:17:03,567 --> 00:17:06,479
+211
+00:16:35,711 --> 00:16:39,111
 Now, the man I froze came from here somewhere.
 
-186
-00:17:06,647 --> 00:17:11,641
+212
+00:16:39,288 --> 00:16:43,777
 - Aye, he would - a solid wall
 - Somewhere in that solid wall, there's a door.
 
-187
-00:17:11,807 --> 00:17:15,083
-- Where do you think Ben and Polly are?
-- I don't know.
+213
+00:16:43,880 --> 00:16:45,777
+Aye, and we still haven't found Ben and Polly.
 
-188
-00:17:15,247 --> 00:17:20,196
+214
+00:16:45,911 --> 00:16:48,180
+- What do you think's happened to them?
+-  I don't know. 
+
+215
+00:16:48,340 --> 00:16:51,116
 Perhaps if we find that door, we'll find them.
-You take that end, I'll take this.
 
-189
-00:17:21,767 --> 00:17:25,601
+216
+00:16:51,116 --> 00:16:53,290
+Come on. You take that end, I'll take this.
+
+217
+00:16:54,200 --> 00:16:55,380
 We must hurry.
-Inspector's Crossland's keeping them busy,
 
-190
-00:17:25,767 --> 00:17:30,397
+218
+00:16:56,444 --> 00:16:59,222
+Inspector's Crossland's keeping them busy at the moment,
+
+219
+00:16:59,311 --> 00:17:03,490
 but he'll be no match for them
 if he presses them too far.
 
-191
-00:17:31,687 --> 00:17:33,678
-Thank you.
-
-192
-00:17:36,487 --> 00:17:41,322
-The plane conforms strictly
+220
+00:17:09,580 --> 00:17:14,755
+You'll find that the whole plane conforms strictly
 to the international standards of air safety.
 
-193
-00:17:41,487 --> 00:17:44,638
+221
+00:17:14,820 --> 00:17:17,511
 I can't think why anybody
 would complain about us.
 
-194
-00:17:44,807 --> 00:17:47,765
+222
+00:17:17,688 --> 00:17:20,860
+Did I say anyone had complained?
 I'm not enquiring about safety.
 
-195
-00:17:47,927 --> 00:17:52,443
+223
+00:17:21,444 --> 00:17:25,222
 My enquiries are about a missing boy.
 A passenger on one of your flights.
 
-196
-00:17:52,607 --> 00:17:57,635
-Also, my colleague, Detective Inspector
-Gascoigne, was last seen in your hangar.
+224
+00:17:25,370 --> 00:17:28,377
+And there's also the business of a colleague of mine, 
+Detective Inspector Gascoigne, 
 
-197
-00:17:57,807 --> 00:18:02,437
-- He's believed to have been murdered.
-- That is indeed a serious matter.
+225
+00:17:28,488 --> 00:17:31,955
+was last seen in your hangar.
+ He's believed to have been murdered.
 
-198
-00:18:02,607 --> 00:18:07,886
-I'm afraid I have to ask you some questions.
-Would you come to the commandant's office?
+226
+00:17:32,800 --> 00:17:35,244
+That is indeed a serious matter.
 
-199
-00:18:08,047 --> 00:18:13,724
-If you'll just excuse me for a moment,
+227
+00:17:35,400 --> 00:17:39,066
+I'm afraid I'm going to have to ask you to hold up this flight
+ a while, while I ask you some questions.
+
+228
+00:17:39,311 --> 00:17:40,980
+Would you mind coming to the commandant's office?
+
+229
+00:17:41,111 --> 00:17:46,000
+If you'll just excuse me for a moment, Inspector,
 I have some arrangements to make.
 
-200
-00:18:14,647 --> 00:18:17,798
+230
+00:17:47,400 --> 00:17:50,111
 - Excuse me, please.
 - I'm sorry.
 
-201
-00:18:27,527 --> 00:18:29,518
+231
+00:18:00,620 --> 00:18:02,088
 Captain Blade!
 
-202
-00:18:42,047 --> 00:18:45,676
+232
+00:18:15,355 --> 00:18:18,444
 I shouldn't move any further if I were you.
 
-203
-00:18:45,847 --> 00:18:50,762
+233
+00:18:19,133 --> 00:18:24,666
 This gun proved remarkably effective
-in dealing with Inspector Gascoigne.
+in dealing with your colleague, Inspector Gascoigne.
 
-204
-00:18:50,927 --> 00:18:54,363
+234
+00:18:24,755 --> 00:18:27,711
 - You killed him.
 - Unfortunately, an error.
 
-205
-00:18:55,127 --> 00:18:58,597
+235
+00:18:28,311 --> 00:18:31,333
 You Earth men are more use to us alive.
 
-206
-00:18:59,767 --> 00:19:01,883
+236
+00:18:32,733 --> 00:18:34,555
 Sit down there.
 
-207
-00:19:08,687 --> 00:19:10,678
+237
+00:18:41,780 --> 00:18:43,644
 That's better.
 
-208
-00:19:16,567 --> 00:19:20,685
+238
+00:18:49,770 --> 00:18:54,044
 This Earth man is a particularly
 fine specimen, don't you think?
 
-209
-00:19:20,847 --> 00:19:23,839
+239
+00:18:54,111 --> 00:18:57,311
 - Perhaps the director himself.
 - Exactly.
 
-210
-00:19:24,007 --> 00:19:28,239
-Whatever you're doing,
+240
+00:18:57,400 --> 00:19:01,800
+Whatever you two are planning for me,
 I must warn you of the long arm of the British law.
 
-211
-00:19:28,407 --> 00:19:31,604
+241
+00:19:01,888 --> 00:19:04,444
 I don't think it will reach where you're going.
 
-212
-00:19:31,767 --> 00:19:36,045
+242
+00:19:06,244 --> 00:19:10,666
 Chameleon Flight 4-1-3 to Control.
 Request start-up.
 
-213
-00:19:42,287 --> 00:19:44,278
+243
+00:19:17,155 --> 00:19:18,822
 Jamie, look!
 
-214
-00:20:02,687 --> 00:20:04,678
+244
+00:19:38,533 --> 00:19:40,422
 What's that, Doctor?
 
-215
-00:20:06,647 --> 00:20:10,117
+245
+00:19:42,422 --> 00:19:45,710
 For someone who's not used
 to the Earth's atmosphere.
 
-216
-00:20:10,287 --> 00:20:12,164
+246
+00:19:45,880 --> 00:19:47,760
 Very interesting.
 
-217
-00:20:12,327 --> 00:20:16,002
+247
+00:19:47,920 --> 00:19:51,600
 Ah! A TV monitor set. Let's see what we can see.
 
-218
-00:20:18,767 --> 00:20:20,166
+248
+00:19:54,555 --> 00:19:56,088
 What's that?
 
-219
-00:20:20,327 --> 00:20:22,477
+249
+00:19:56,400 --> 00:19:58,266
 It looks like a hospital.
 
-220
-00:20:24,087 --> 00:20:28,478
-We're getting warmer - which is a change
+250
+00:20:00,155 --> 00:20:03,866
+Jamie, we're getting warmer - which is a change
 from the last time I was here!
 
-221
-00:20:28,647 --> 00:20:33,323
+251
+00:20:04,600 --> 00:20:08,920
 Come on. Let's see if there's
 a first aid post in Gatwick airport.
 
-222
-00:20:36,927 --> 00:20:41,921
+252
+00:20:13,420 --> 00:20:15,533
 - Shall we clear up the mess, Doctor?
-- No, let's get along to the first aid post.
+- No.
 
-223
-00:20:49,967 --> 00:20:51,958
+253
+00:20:15,600 --> 00:20:17,520
+Let's get along to the first aid post.
+
+254
+00:20:26,600 --> 00:20:27,911
 Oh, my back!
 
-224
-00:20:52,127 --> 00:20:54,197
+255
+00:20:28,133 --> 00:20:29,790
 Jamie, my back!
 
-225
-00:21:04,247 --> 00:21:07,762
+256
+00:20:41,088 --> 00:20:44,000
 Please take a barley sugar. Thank you.
 
-226
-00:21:07,927 --> 00:21:11,886
-You can unfasten your seatbelts now. Thank you.
+257
+00:20:45,244 --> 00:20:48,866
+You can unfasten your seat belts now. Thank you.
 
-227
-00:21:12,727 --> 00:21:15,958
+258
+00:20:50,311 --> 00:20:53,600
 A barley sugar? Everything all right?
 
-228
-00:21:30,687 --> 00:21:33,645
+259
+00:21:10,066 --> 00:21:12,200
 - All set.
 - Good.
 
-229
-00:21:43,927 --> 00:21:47,761
+260
+00:21:23,320 --> 00:21:27,160
 You wanted to know
 what was the secret of Chameleon Tours.
 
-230
-00:21:49,447 --> 00:21:51,597
+261
+00:21:28,840 --> 00:21:30,990
 Well, Inspector...
 
-231
-00:21:53,927 --> 00:21:56,282
+262
+00:21:33,066 --> 00:21:34,911
 See for yourself.
 

@@ -3,1046 +3,1300 @@
 Sincro: wyxchari
 
 2
-00:00:49,325 --> 00:00:50,361
+00:00:33,904 --> 00:00:34,896
 What do we do now?
 
 3
-00:00:51,015 --> 00:00:55,299
+00:00:35,280 --> 00:00:38,416
 We slip away and see if we can find all these young people. Come on.
 
 4
-00:00:58,173 --> 00:01:05,564
-Ah, Captain Blade, we're following your instructions, trying to find the accommodation centre.
+00:00:41,170 --> 00:00:44,656
+Ah, Captain Blade, we're following your instructions,
 
 5
-00:01:05,806 --> 00:01:11,198
-My instructions don't apply to you. You two won't be needing living space.
+00:00:44,736 --> 00:00:47,088
+We're looking for the accommodation centre.
 
 6
-00:01:18,099 --> 00:01:24,282
-Captain Blade, what is this? I don't understand. We're here to stay, aren't we?
+00:00:47,200 --> 00:00:49,552
+My instructions don't apply to you.
 
 7
-00:01:24,504 --> 00:01:27,688
-Oh yes, you're here to stay - but not in your present state.
+00:00:50,384 --> 00:00:53,216
+You two won't be needing living space.
 
 8
-00:01:28,065 --> 00:01:30,636
-I'm very sorry, I simply don't understand what you mean.
+00:00:58,910 --> 00:01:01,744
+Captain Blade, what is this?
 
 9
-00:01:30,882 --> 00:01:44,173
-I checked with the Medical Centre. You're both human. We want you intact. That's why I allowed you to come here. I want your brain.
+00:01:02,336 --> 00:01:04,656
+I don't understand. We're here to stay, aren't we?
 
 10
-00:01:53,013 --> 00:01:56,702
-I've told you, I don't know where they are. You're wasting your time with me.
+00:01:04,720 --> 00:01:08,048
+Oh yes, you're here to stay - but not in your present state.
 
 11
-00:01:57,656 --> 00:01:59,232
-I think he's telling the truth.
+00:01:08,160 --> 00:01:10,730
+I'm very sorry, I simply don't understand what you mean.
 
 12
-00:01:59,505 --> 00:02:01,567
-I'm afraid he is. Get him out of here!
+00:01:10,848 --> 00:01:14,800
+I checked with the Medical Centre. You're both human.
 
 13
-00:02:04,456 --> 00:02:06,634
-They must be here somewhere.
+00:01:16,448 --> 00:01:22,608
+We want you intact. That's why I allowed you to come here. I want your brain.
 
 14
-00:02:06,991 --> 00:02:19,454
-We have completely searched this area. I've now got fifty men going through this part and the Metropolitan Police are sending help. But time is running short. I have to cover the entire airfield. I need volunteers now!
+00:01:31,610 --> 00:01:33,360
+I've told you, I don't know where they are.
 
 15
-00:02:22,170 --> 00:02:34,924
-Get me the public address room. Heslington, divert all in-bound aircraft. Public Address Room, this is the Commandant. Switch me through to the P.A. system and stop all other announcements until further instructions.
+00:01:33,520 --> 00:01:35,088
+You're wasting your time with me.
 
 16
-00:02:40,114 --> 00:02:42,740
-This is the Airport Commandant speaking...
+00:01:35,776 --> 00:01:37,360
+I think he's telling the truth.
 
 17
-00:02:43,416 --> 00:03:04,261
-Please pay attention. I want all available Airport personnel to assist in a special duty. Will they please report to the Airport Police, who will issue instructions. I would like to assure passengers that there's no cause for alarm, and to apologise for the temporary suspension of all outward flights.
+00:01:37,456 --> 00:01:39,680
+I'm afraid he is. Get him out of here!
 
 18
-00:03:57,546 --> 00:03:58,226
-Oh.
+00:01:42,050 --> 00:01:44,048
+They must be here somewhere.
 
 19
-00:04:00,433 --> 00:04:02,441
-What did you hope to achieve here?
+00:01:44,160 --> 00:01:46,016
+We have completely searched this area.
 
 20
-00:04:04,233 --> 00:04:07,889
-A chance to plead with you for the lives of fifty thousand young people.
+00:01:46,144 --> 00:01:50,096
+I've now got fifty men going through this part
+ and the Metropolitan Police are sending help.
 
 21
-00:04:08,256 --> 00:04:09,947
-They're only human beings.
+00:01:50,160 --> 00:01:53,536
+But time is running short. I have to cover the entire airfield.
 
 22
-00:04:10,153 --> 00:04:11,156
-And what are you?
+00:01:53,664 --> 00:01:55,980
+I need volunteers now!
 
 23
-00:04:11,438 --> 00:04:13,269
-We are the most intelligent race in the universe.
+00:01:58,128 --> 00:01:59,952
+Get me the public address room.
 
 24
-00:04:13,464 --> 00:04:14,301
-Director?
+00:02:00,320 --> 00:02:03,280
+Heslington, divert all in-bound aircraft.
 
 25
-00:04:14,522 --> 00:04:15,190
-Yes?
+00:02:04,080 --> 00:02:06,000
+Public Address Room, this is the Commandant.
 
 26
-00:04:15,460 --> 00:04:17,267
-Freiburg flight has just taken off.
+00:02:06,112 --> 00:02:07,688
+Switch me through to the P.A. system 
 
 27
-00:04:17,545 --> 00:04:19,023
-Why, Jamie!
+00:02:07,696 --> 00:02:10,320
+and stop all other announcements until further instructions.
 
 28
-00:04:19,273 --> 00:04:20,443
-You wish to speak to me?
+00:02:14,656 --> 00:02:16,720
+This is the Airport Commandant speaking...
 
 29
-00:04:20,705 --> 00:04:24,643
-Oh no, of course, it's... it's not Jamie. You're a Chameleon.
+00:02:18,400 --> 00:02:19,888
+Please pay attention.
 
 30
-00:04:25,323 --> 00:04:27,274
-Well, I don't think you've done a very good job on him.
+00:02:20,032 --> 00:02:24,192
+I want all available Airport personnel to assist in a special duty.
 
 31
-00:04:27,485 --> 00:04:28,142
-Why not?
+00:02:24,720 --> 00:02:29,072
+Will they please report to the Airport Police, who will issue instructions.
 
 32
-00:04:28,373 --> 00:04:31,939
-Well you lost his Scots accent in the processing. Oh I much preferred the original.
+00:02:29,712 --> 00:02:33,456
+I would like to assure passengers that there's no cause for alarm,
 
 33
-00:04:32,112 --> 00:04:35,258
-If you're looking for your friend's original, Doctor, you won't find it in here.
+00:02:33,810 --> 00:02:37,872
+and to apologise for the temporary suspension of all outward flights.
 
 34
-00:04:35,406 --> 00:04:35,923
-Really?
+00:03:29,200 --> 00:03:30,000
+Oh.
 
 35
-00:04:36,113 --> 00:04:36,985
-No, it's...
+00:03:30,430 --> 00:03:32,224
+What did you hope to achieve here?
 
 36
-00:04:37,780 --> 00:04:41,572
-...in a safe place. Not far from here. What are we waiting for?
+00:03:33,536 --> 00:03:37,312
+A chance to plead with you 
+for the lives of fifty thousand young people.
 
 37
-00:04:41,758 --> 00:04:44,893
-Dubrovnik and Athens. They're waiting to collect our personnel.
+00:03:37,440 --> 00:03:38,656
+They're only human beings.
 
 38
-00:04:45,172 --> 00:04:49,428
-We're well ahead of schedule. We can wait. Proceed with the processing.
+00:03:39,440 --> 00:03:40,240
+And what are you?
 
 39
-00:04:50,304 --> 00:04:57,130
-By the way Captain Blade, congratulations on bringing this man here. I personally will decide which of our people is to have his identity.
+00:03:40,400 --> 00:03:42,416
+We are the most intelligent race in the universe.
 
 40
-00:04:57,370 --> 00:05:00,162
-It'll be one of your friends, I've no doubt!
+00:03:42,560 --> 00:03:43,904
+- Director?  - Yes?
 
 41
-00:05:00,438 --> 00:05:07,845
-Well it's understandable. The... the special people up here feel more secure if their originals are actually in the satellite.
+00:03:44,080 --> 00:03:46,080
+Freiburg flight has just taken off.
 
 42
-00:05:19,423 --> 00:05:20,682
-And where's yours?
+00:03:46,400 --> 00:03:47,776
+Why, Jamie!
 
 43
-00:05:20,914 --> 00:05:29,520
-That's enough! Their originals are perfectly safe. Hidden on Gatwick Airport, where they will never be found.
+00:03:47,952 --> 00:03:49,840
+- You wish to speak to me?  - Oh no, of course
 
 44
-00:05:46,782 --> 00:05:48,464
-What did you mean about our originals?
+00:03:49,920 --> 00:03:52,912
+It's... it's not Jamie. You're a Chameleon.
 
 45
-00:05:48,666 --> 00:05:55,288
-Well, as I see it, there are two categories. People like your Director and that man over there...
+00:03:53,728 --> 00:03:56,032
+- Well, I don't think you've done a very good job on him.  - Why not?
 
 46
-00:05:55,600 --> 00:06:07,643
-...whose originals are safe on board here. And then there are people like you two, whose originals have been left behind at Gatwick airport. If they're tampered with... you're finished!
+00:03:56,112 --> 00:03:58,080
+Well you lost his Scots accent in the processing.
 
 47
-00:06:08,432 --> 00:06:12,967
-He's lying. Come on, let's get him into the machine before the Director returns.
+00:03:58,128 --> 00:03:59,408
+Oh I much preferred the original.
 
 48
-00:06:13,144 --> 00:06:18,179
-Yes, you'd better process me quickly, because any minute now you'll cease to exist. You're first on the list!
+00:03:59,968 --> 00:04:03,104
+If you're looking for your friend's original, Doctor, you won't find it in here.
 
 49
-00:06:20,313 --> 00:06:21,205
-What list?
+00:04:03,168 --> 00:04:04,400
+- Really?  - No, it's...
 
 50
-00:06:21,623 --> 00:06:33,189
-Oh surely you understand! We've found all of the originals. The Commandant at the Airport is going to deprocess them one by one, starting with you, unless I stop him.
+00:04:05,328 --> 00:04:06,448
+...in a safe place.
 
 51
-00:06:33,489 --> 00:06:35,509
-He's bluffing.
+00:04:06,576 --> 00:04:08,928
+Not far from here. What are we waiting for?
 
 52
-00:06:36,450 --> 00:06:38,171
-Wait! Where did you find the originals?
+00:04:09,056 --> 00:04:12,176
+Dubrovnik and Athens. They're waiting to collect our personnel.
 
 53
-00:06:38,401 --> 00:06:49,622
-Ah, that I can't tell you. But they'd been searching for some time and just as I was about to board the aircraft I got a signal, which meant that they'd been successful. Otherwise I wouldn't have come.
+00:04:12,352 --> 00:04:14,176
+We're well ahead of schedule. We can wait.
 
 54
-00:06:50,405 --> 00:06:55,163
-Well, if you don't believe me, check with Gatwick Airport. I imagine you know its radio frequency?
+00:04:15,072 --> 00:04:16,448
+Proceed with the processing.
 
 55
-00:07:01,532 --> 00:07:04,509
-Contact Gatwick Air Control.
+00:04:17,216 --> 00:04:20,208
+By the way Captain Blade, congratulations on bringing this man here.
 
 56
-00:07:07,674 --> 00:07:16,608
-I've got two dozen men moving down here looking for any signs of the soil having been disturbed. There are twenty men here, with fifty volunteers going through these hangars.
+00:04:20,640 --> 00:04:23,552
+I personally will decide which of our people is to have his identity.
 
 57
-00:07:16,830 --> 00:07:17,695
-Commandant.
+00:04:24,016 --> 00:04:26,496
+It'll be one of your friends, I've no doubt!
 
 58
-00:07:17,915 --> 00:07:18,509
-Yes.
+00:04:26,530 --> 00:04:29,936
+Well it's understandable. The... the special people up here...
 
 59
-00:07:18,686 --> 00:07:19,782
-Someone's crashing our frequency.
+00:04:30,000 --> 00:04:33,520
+feel more secure if their originals are actually in the satellite.
 
 60
-00:07:19,983 --> 00:07:20,740
-Who is it?
+00:04:33,632 --> 00:04:36,752
+- Be quiet.
+ - The Director has nothing to worry about
 
 61
-00:07:20,944 --> 00:07:23,679
-I don't know sir. It's an unidentified station, asking for you.
+00:04:36,816 --> 00:04:40,800
+because his original, Detective Inspector Crossland is actually on board.
 
 62
-00:07:24,000 --> 00:07:28,634
-This is Chameleon Headquarters calling Gatwick Airport. How do you read me?
+00:04:40,840 --> 00:04:44,032
+But where's your original?
 
 63
-00:07:32,616 --> 00:07:36,718
-This is Gatwick Airport, Commandant speaking. We are reading you loud and clear.
+00:04:44,220 --> 00:04:45,480
+And where's yours?
 
 64
-00:07:37,211 --> 00:07:42,533
-We understand you have found some property in which we have an interest. Will you confirm?
+00:04:45,600 --> 00:04:49,296
+That's enough! Their originals are perfectly safe.
 
 65
-00:07:43,299 --> 00:07:45,105
-Yes, we have that property.
+00:04:50,000 --> 00:04:53,600
+Hidden on Gatwick Airport, where they will never be found.
 
 66
-00:07:46,409 --> 00:07:48,210
-State where you found it.
+00:05:10,080 --> 00:05:11,616
+What did you mean about our originals?
 
 67
-00:07:48,436 --> 00:07:54,483
-Does that matter. The important thing is we have found it, and can now destroy you.
+00:05:11,664 --> 00:05:14,680
+Well, as I see it, there are two categories.
 
 68
-00:07:54,775 --> 00:07:56,439
-Please stay by your receiver.
+00:05:14,944 --> 00:05:18,272
+People like your Director and that man over there...
 
 69
-00:07:57,661 --> 00:07:59,443
-The Doctor must be trying some sort of bluff.
+00:05:18,400 --> 00:05:20,800
+...whose originals are safe on board here.
 
 70
-00:07:59,654 --> 00:08:01,557
-And we are not being much help to him.
+00:05:20,940 --> 00:05:22,432
+And then there are people like you two,
 
 71
-00:08:10,605 --> 00:08:11,748
-Where d'you think you left them?
+00:05:22,640 --> 00:05:25,728
+whose originals have been left behind at Gatwick airport.
 
 72
-00:08:11,927 --> 00:08:16,486
-I don't know, I left them in here somewhere. Anyway, none of that Chameleon lot are looking 'cos they've all gone.
+00:05:26,368 --> 00:05:29,488
+If they're tampered with... you're finished!
 
 73
-00:08:16,715 --> 00:08:17,169
-Here, look!
+00:05:30,380 --> 00:05:31,488
+He's lying.
 
 74
-00:08:18,374 --> 00:08:22,020
-Yeah. You see it suddenly dawned on me - what would they be doing with so many coaches?
+00:05:32,208 --> 00:05:34,570
+Come on, let's get him into the machine before the Director returns.
 
 75
-00:08:22,313 --> 00:08:23,590
-Oh, why didn't that occur to me?
+00:05:34,650 --> 00:05:36,416
+Yes, you'd better process me quickly,
 
 76
-00:08:23,796 --> 00:08:31,346
-Oh, you haven't got all the brains in London you know. Twenty-five! There you are, twenty-five car numbers, twenty-five people!
+00:05:36,448 --> 00:05:39,536
+because any minute now you'll cease to exist. You're first on the list!
 
 77
-00:08:35,266 --> 00:08:41,087
-This is Chameleon Headquarters. Explain your reluctance to state where you found the property.
+00:05:41,376 --> 00:05:44,048
+- What list?  - Oh surely you understand! 
 
 78
-00:08:41,659 --> 00:08:43,786
-It is not a question of reluctance.
+00:05:44,570 --> 00:05:46,928
+We've found all of the originals.
 
 79
-00:08:44,802 --> 00:08:46,896
-Say the police haven't told you yet.
+00:05:47,390 --> 00:05:50,800
+The Commandant at the Airport is going to deprocess them one by one,
 
 80
-00:08:47,296 --> 00:08:52,669
-The property is in the hands of the police, who have not yet informed me where the hiding place was.
+00:05:50,880 --> 00:05:52,990
+starting with you, unless I stop him.
 
 81
-00:08:53,276 --> 00:08:56,976
-Message understood. Please stay by your receiver.
+00:05:54,380 --> 00:05:56,400
+- He's bluffing.  - Wait!
 
 82
-00:08:57,655 --> 00:08:59,083
-I'll get that.
+00:05:56,672 --> 00:05:59,440
+- Where did you find the originals?
+- Ah, that I can't tell you. 
 
 83
-00:09:01,329 --> 00:09:08,290
-Air Traffic Control. Hold on a minute. It's the girl and your assistant. They think they've got a clue.
+00:05:59,630 --> 00:06:01,696
+But they'd been searching for some time 
 
 84
-00:09:08,491 --> 00:09:11,006
-Right, I'll try and stall them.
+00:06:01,850 --> 00:06:04,496
+and just as I was about to board the aircraft I got a signal,
 
 85
-00:09:11,416 --> 00:09:15,739
-Chameleon Headquarters to Gatwick Airport. We are closing down now.
+00:06:04,670 --> 00:06:06,416
+which meant that they'd been successful.
 
 86
-00:09:15,949 --> 00:09:19,669
-Gatwick Airport to Chameleon Headquarters, are you receiving me?
+00:06:06,928 --> 00:06:08,840
+Otherwise I wouldn't have come.
 
 87
-00:09:20,110 --> 00:09:28,030
-Gatwick Airport to Chameleon Headquarters, are you receiving me? Gatwick Airport to Chameleon Headquarters, are you receiving...
+00:06:09,610 --> 00:06:12,064
+Well, if you don't believe me, check with Gatwick Airport.
 
 88
-00:09:28,264 --> 00:09:29,333
-Turn it off.
+00:06:12,144 --> 00:06:14,200
+I imagine you know its radio frequency?
 
 89
-00:09:29,825 --> 00:09:31,795
-Put that gun away.
-
-90
-00:09:34,563 --> 00:09:36,599
-He said he'd found our originals.
-
-91
-00:09:36,783 --> 00:09:37,960
-And had he?
-
-92
-00:09:38,300 --> 00:09:40,118
-No, he was bluffing.
-
-93
-00:09:40,310 --> 00:09:48,192
-Proceed with the processing. In future, take your orders only from me.
-
-94
-00:09:48,887 --> 00:09:52,485
-You're going to get a surprise when twenty-five of your people disintegrate!
-
-95
-00:09:52,673 --> 00:09:55,637
-What a pity you won't be able to see it. The Nurse.
-
-96
-00:09:58,423 --> 00:10:01,427
-Now then, now... what is it you want me to do?
-
-97
-00:10:01,651 --> 00:10:02,653
-Sit down.
-
-98
-00:10:02,922 --> 00:10:13,131
-Tell me, what happens if ah, you disintegrate in the middle of my being processed? I mean, will that do me any harm, being suspended between one thing and an other, so to speak...
-
-99
-00:10:13,381 --> 00:10:14,449
-Sit down!
-
-100
-00:10:16,833 --> 00:10:17,488
-Oh, very well,
-
-101
-00:10:18,100 --> 00:10:18,684
-Oh dear.
-
-102
-00:10:19,349 --> 00:10:30,498
-You should have been watching him. Send for a new unit. You haven't averted your fate, only postponed it.
-
-103
-00:10:54,571 --> 00:10:56,824
-At last. Now Doctor...
-
-104
-00:10:57,176 --> 00:10:59,194
-You're quite sure it's safe now?
-
-105
-00:12:28,879 --> 00:12:30,499
-Is everything ready now?
-
-106
-00:12:30,902 --> 00:12:31,897
-Just one moment, sir.
-
-107
-00:12:32,088 --> 00:12:35,484
-Director. Gatwick Control calling us again.
-
-108
-00:12:35,929 --> 00:12:36,817
-Ignore them.
-
-109
-00:12:37,028 --> 00:12:39,518
-They claim they have found the originals.
-
-110
-00:12:39,749 --> 00:12:41,354
-They're bluffing again, I said ignore them!
-
-111
-00:12:47,404 --> 00:12:51,555
-Gatwick Airport to Chameleon Head Quarters. Do you read me?
-
-112
-00:12:53,894 --> 00:12:55,305
-It's no good sir.
-
-113
-00:12:55,861 --> 00:12:58,746
-Very well. We'll have to give them a demonstration.
-
-114
-00:12:59,128 --> 00:13:00,157
-Right Super.
-
-115
-00:13:00,880 --> 00:13:02,104
-Sergeant Erskine?
-
-116
-00:13:26,124 --> 00:13:29,868
-They have found them! They weren't bluffing.
-
-117
-00:13:30,234 --> 00:13:31,911
-His equipment could have gone wrong.
-
-118
-00:13:32,250 --> 00:13:35,056
-All right, what could have gone wrong with it?
-
-119
-00:13:35,274 --> 00:13:36,751
-That is a question for our scientists.
-
-120
-00:13:36,930 --> 00:13:43,213
-By the time they tell you that there's nothing wrong with it, you'll all have disintegrated, except of course the Director.
-
-121
-00:13:43,515 --> 00:13:45,008
-Be quiet, this has nothing to do with you.
-
-122
-00:13:45,266 --> 00:13:48,395
-Yes, you're quite right, it only concerns these two. I'll keep my mouth shut.
-
-123
-00:13:48,580 --> 00:13:50,986
-We'd better contact Gatwick Air Control.
-
-124
-00:13:51,190 --> 00:13:52,713
-We've finished with Gatwick Airport.
-
-125
-00:13:52,876 --> 00:13:54,684
-And what if they haven't finished with us?
-
-126
-00:13:55,240 --> 00:14:07,280
-That would be your own fault, wouldn't it. You told me that all the originals were hidden. Where they could not possibly be found until the life have been drained from them. Are you now telling me that you were careless?
-
-127
-00:14:18,892 --> 00:14:20,901
+00:06:20,130 --> 00:06:22,544
 Contact Gatwick Air Control.
 
+90
+00:06:25,770 --> 00:06:27,802
+I've got two dozen men moving down here 
+
+91
+00:06:27,840 --> 00:06:30,320
+looking for any signs of the soil having been disturbed.
+
+92
+00:06:30,720 --> 00:06:34,208
+There are twenty men here, with fifty volunteers going through these hangars.
+
+93
+00:06:34,288 --> 00:06:35,440
+- Commandant.  - Yes?
+
+94
+00:06:35,584 --> 00:06:36,944
+Someone's crashing our frequency.
+
+95
+00:06:36,992 --> 00:06:38,256
+- Who is it?  - I don't know sir.
+
+96
+00:06:38,352 --> 00:06:40,688
+ It's an unidentified station, asking for you.
+
+97
+00:06:41,130 --> 00:06:43,952
+This is Chameleon Headquarters calling Gatwick Airport.
+
+98
+00:06:44,256 --> 00:06:45,800
+How do you read me?
+
+99
+00:06:48,920 --> 00:06:51,456
+This is Gatwick Airport, Commandant speaking.
+
+100
+00:06:51,504 --> 00:06:53,500
+We are reading you loud and clear.
+
+101
+00:06:53,600 --> 00:06:57,152
+We understand you have found some property in which we have an interest.
+
+102
+00:06:57,344 --> 00:07:01,400
+-  Will you confirm? - Yes, we have that property.
+
+103
+00:07:01,920 --> 00:07:05,104
+- State where you found it.  - Does that matter?
+
+104
+00:07:05,296 --> 00:07:09,472
+The important thing is we have found it, and can now destroy you.
+
+105
+00:07:09,856 --> 00:07:11,680
+Please stay by your receiver.
+
+106
+00:07:12,672 --> 00:07:14,384
+The Doctor must be trying some sort of bluff.
+
+107
+00:07:14,464 --> 00:07:16,384
+And we are not being much help to him.
+
+108
+00:07:24,900 --> 00:07:27,360
+- Where d'you think you left them?  
+- I don't know, I left them in here somewhere. 
+
+109
+00:07:28,192 --> 00:07:30,944
+Anyway, none of that Chameleon lot are looking 'cos they've all gone.
+
+110
+00:07:31,010 --> 00:07:31,728
+Here, look!
+
+111
+00:07:32,380 --> 00:07:34,448
+Yeah. You see it suddenly dawned on me -
+
+112
+00:07:34,576 --> 00:07:36,220
+what would they be doing with so many coaches?
+
+113
+00:07:36,272 --> 00:07:37,376
+Why didn't that occur to me?
+
+114
+00:07:37,470 --> 00:07:39,952
+Oh, you haven't got all the brains in London you know.
+
+115
+00:07:40,208 --> 00:07:45,120
+Twenty-five! There you are, twenty-five car numbers, twenty-five people!
+
+116
+00:07:47,860 --> 00:07:50,048
+This is Chameleon Headquarters.
+
+117
+00:07:50,160 --> 00:07:53,680
+Explain your reluctance to state where you found the property.
+
+118
+00:07:54,250 --> 00:07:56,380
+It is not a question of reluctance.
+
+119
+00:07:56,992 --> 00:07:59,136
+Say the police haven't told you yet.
+
+120
+00:07:59,550 --> 00:08:01,648
+The property is in the hands of the police,
+
+121
+00:08:01,696 --> 00:08:04,680
+who have not yet informed me where the hiding place was.
+
+122
+00:08:05,136 --> 00:08:08,448
+Message understood. Please stay by your receiver.
+
+123
+00:08:09,140 --> 00:08:10,368
+I'll get that.
+
+124
+00:08:12,750 --> 00:08:15,472
+Air Traffic Control. Hold on a minute.
+
+125
+00:08:16,640 --> 00:08:19,344
+It's the girl and your assistant. They think they've got a clue.
+
+126
+00:08:19,408 --> 00:08:21,936
+Right, I'll try and stall them.
+
+127
+00:08:22,192 --> 00:08:26,224
+Chameleon Headquarters to Gatwick Airport. We are closing down now.
+
 128
-00:14:21,233 --> 00:14:22,268
-Destroy the transmitter.
+00:08:26,336 --> 00:08:30,288
+Gatwick Airport to Chameleon Headquarters, are you receiving me?
 
 129
-00:14:24,402 --> 00:14:25,095
-All right.
+00:08:30,410 --> 00:08:34,432
+Gatwick Airport to Chameleon Headquarters, are you receiving me?
 
 130
-00:14:30,295 --> 00:14:34,892
-This is Chameleon Head Quarters calling Gatwick Airport. How do you read me?
+00:08:34,880 --> 00:08:38,192
+- Gatwick Airport to Chameleon Headquarters...  - Turn it off.
 
 131
-00:14:37,844 --> 00:14:42,239
-Gatwick Airport to Chameleon Head Quarters. We are reading you loud and clear.
+00:08:39,584 --> 00:08:41,152
+Put that gun away.
 
 132
-00:14:42,731 --> 00:14:45,447
-Can you now state where you found the originals?
+00:08:44,064 --> 00:08:46,720
+- He said he'd found our originals.  - And had he?
 
 133
-00:14:47,488 --> 00:14:55,652
-The originals were discovered in a car park. To prove it, we have already eliminated one of your personnel. A man.
+00:08:47,648 --> 00:08:49,152
+No, he was bluffing.
 
 134
-00:14:56,513 --> 00:15:05,616
-I now wish to speak to the Doctor. Unless I hear his voice immediately, the next to be eliminated will be Captain Blade.
+00:08:49,340 --> 00:08:50,896
+Proceed with the processing.
 
 135
-00:15:07,896 --> 00:15:09,381
-Release him!
+00:08:54,208 --> 00:08:57,072
+In future, take your orders only from me.
 
 136
-00:15:11,236 --> 00:15:13,650
-I said release him.
+00:08:57,696 --> 00:09:00,976
+You're going to get a surprise when twenty-five of your people disintegrate!
 
 137
-00:15:21,549 --> 00:15:22,920
-Get to that microphone!
+00:09:01,070 --> 00:09:02,768
+What a pity you won't be able to see it.
 
 138
-00:15:23,275 --> 00:15:24,760
-Release the Nurse first.
+00:09:02,912 --> 00:09:03,936
+The Nurse.
 
 139
-00:15:26,869 --> 00:15:33,211
-I said I wished to speak to the Doctor, otherwise the next will be Captain Blade.
+00:09:06,490 --> 00:09:09,264
+Now then, now... what is it you want me to do?
 
 140
-00:15:33,855 --> 00:15:36,599
-Doctor, the microphone.
+00:09:09,360 --> 00:09:10,816
+- Sit down.  - Tell me...
 
 141
-00:15:37,420 --> 00:15:38,907
-Are you quite all right, my dear.
+00:09:10,910 --> 00:09:14,816
+what happens if ah, you disintegrate in the middle of my being processed?
 
 142
-00:15:39,509 --> 00:15:40,183
-Yes, I think so.
+00:09:15,354 --> 00:09:17,382
+I mean, will that do me any harm,
 
 143
-00:15:40,381 --> 00:15:40,951
-Good.
+00:09:17,488 --> 00:09:20,480
+being suspended between one thing and an other, so to speak...
 
 144
-00:15:46,663 --> 00:15:49,338
-Commandant, this is the Doctor speaking.
+00:09:20,544 --> 00:09:21,760
+Sit down! 
 
 145
-00:15:49,751 --> 00:15:50,765
-Ar, what a relief.
+00:09:24,260 --> 00:09:25,280
+Oh dear.
 
 146
-00:15:52,257 --> 00:15:53,869
-Stand by while I negotiate.
+00:09:26,368 --> 00:09:27,952
+You should have been watching him.
 
 147
-00:15:55,699 --> 00:16:06,968
-Now then, I will tell you my terms. I will guarantee your continued existence, if you will return to Earth all the young people you abducted.
+00:09:29,376 --> 00:09:30,752
+Send for a new unit.
 
 148
-00:16:07,427 --> 00:16:10,303
-No use. They've all been miniaturised.
+00:09:33,376 --> 00:09:37,072
+You haven't averted your fate, only postponed it.
 
 149
-00:16:10,682 --> 00:16:12,049
-Then reverse the process.
+00:09:59,424 --> 00:10:01,136
+At last. Now Doctor...
 
 150
-00:16:12,221 --> 00:16:15,985
-I'm afraid that's impossible, the equipment for that is on our home planet.
+00:10:02,020 --> 00:10:04,040
+You're quite sure it's safe now?
 
 151
-00:16:16,172 --> 00:16:21,462
-He's lying. The planes themselves are the miniaturisation chambers and they work both ways.
+00:11:23,920 --> 00:11:25,540
+Is everything ready now?
 
 152
-00:16:24,021 --> 00:16:28,936
-What kind of continued existence would we have, Doctor?
+00:11:25,632 --> 00:11:26,816
+Just one moment, sir.
 
 153
-00:16:29,311 --> 00:16:35,679
-In your former state, I'm afraid. Your scientists will have to find some other way out of your dilemma.
+00:11:26,896 --> 00:11:30,112
+Director. Gatwick Control calling us again.
 
 154
-00:16:36,795 --> 00:16:37,918
-It's better than death.
+00:11:30,620 --> 00:11:33,536
+- Ignore them.  - They claim they have found the originals.
 
 155
-00:16:38,749 --> 00:16:39,696
-We accept.
+00:11:34,160 --> 00:11:36,016
+They're bluffing again, I said ignore them!
 
 156
-00:16:41,276 --> 00:16:43,583
-All right, we accept.
+00:11:41,600 --> 00:11:45,664
+Gatwick Airport to Chameleon Head Quarters. Do you read me?
 
 157
-00:16:44,230 --> 00:16:47,092
-You fools, how can you trust him?
+00:11:47,530 --> 00:11:48,940
+It's no good sir.
 
 158
-00:16:49,115 --> 00:16:50,532
-Look out! Ahh...
+00:11:49,696 --> 00:11:52,144
+Very well. We'll have to give them a demonstration.
 
 159
-00:17:03,694 --> 00:17:04,824
-Commandant, are you still there?
+00:11:52,400 --> 00:11:53,632
+Right Super.
 
 160
-00:17:05,048 --> 00:17:05,738
-Yes.
+00:11:54,128 --> 00:11:55,520
+Sergeant Erskine?
 
 161
-00:17:07,365 --> 00:17:11,253
-Negotiations have been successfully concluded as arranged.
+00:12:17,750 --> 00:12:21,200
+They have found them! They weren't bluffing.
 
 162
-00:17:11,491 --> 00:17:17,043
-Good. I'll leave the people in the car park as they are until you arrive back.
+00:12:21,776 --> 00:12:23,344
+His equipment could have gone wrong.
 
 163
-00:17:17,574 --> 00:17:24,696
-Good. Please stay listening out on this frequency. I am leaving Captain Blade in charge of the radio.
+00:12:23,696 --> 00:12:26,256
+All right, what could have gone wrong with it?
 
 164
-00:17:24,922 --> 00:17:25,720
-Can you trust him?
+00:12:26,320 --> 00:12:27,840
+That is a question for our scientists.
 
 165
-00:17:25,911 --> 00:17:27,324
-Yes, I think I can now.
+00:12:28,000 --> 00:12:30,992
+By the time they tell you that there's nothing wrong with it,
 
 166
-00:17:27,548 --> 00:17:28,906
-What are you going to do?
+00:12:31,168 --> 00:12:34,080
+you'll all have disintegrated, except of course the Director.
 
 167
-00:17:29,094 --> 00:17:33,083
-I'm going to try and find my three friends and the Inspector. You know where they are?
+00:12:34,176 --> 00:12:35,760
+Be quiet, this has nothing to do with you.
 
 168
-00:17:33,335 --> 00:17:33,869
-Yes.
+00:12:35,880 --> 00:12:38,880
+Yes, you're quite right, it only concerns these two. I'll keep my mouth shut.
 
 169
-00:17:34,039 --> 00:17:36,924
-You will take me to them. I will call you again.
+00:12:39,088 --> 00:12:41,216
+We'd better contact Gatwick Air Control.
 
 170
-00:17:37,164 --> 00:17:38,209
-Roger.
+00:12:41,328 --> 00:12:42,768
+We've finished with Gatwick Airport.
 
 171
-00:17:43,261 --> 00:17:48,919
-Well, Heslington, flap over. Let's get back to normal as quickly as we can.
+00:12:42,880 --> 00:12:44,768
+And what if they haven't finished with us?
 
 172
-00:17:54,148 --> 00:17:55,203
-Over here.
+00:12:45,390 --> 00:12:47,648
+That would be your own fault, wouldn't it.
 
 173
-00:17:55,443 --> 00:17:56,476
-I don't know which one.
+00:12:48,112 --> 00:12:50,704
+You told me that all the originals were hidden.
 
 174
-00:17:59,388 --> 00:18:00,654
-Doctor!
+00:12:50,992 --> 00:12:54,416
+Where they could not possibly be found until the life have been drained from them.
 
 175
-00:18:00,986 --> 00:18:03,617
-Jamie! Ha, I'm glad to see you alive.
+00:12:54,912 --> 00:12:56,880
+Are you now telling me that you were careless?
 
 176
-00:18:03,983 --> 00:18:05,436
-How... how do you mean?
+00:13:07,400 --> 00:13:09,312
+Contact Gatwick Air Control.
 
 177
-00:18:05,675 --> 00:18:13,432
-I'll explain to you one day. Well come along out. You look like a soldier in a sentry box standing there! Sit down.
+00:13:09,392 --> 00:13:10,770
+Destroy the transmitter.
 
 178
-00:18:13,798 --> 00:18:14,721
-Sit down.
+00:13:12,608 --> 00:13:13,600
+All right.
 
 179
-00:18:14,924 --> 00:18:17,987
-It's all right, he's a friend. Now sit down while I find the others.
+00:13:18,190 --> 00:13:21,328
+This is Chameleon Head Quarters calling Gatwick Airport.
 
 180
-00:18:23,737 --> 00:18:26,769
-Ah! Inspector Crossland.
+00:13:21,504 --> 00:13:23,020
+How do you read me?
 
 181
-00:18:27,600 --> 00:18:32,986
-There we are. Now, Ben, Polly and back to Gatwick.
+00:13:25,580 --> 00:13:27,424
+Gatwick Airport to Chameleon Head Quarters.
 
 182
-00:18:54,673 --> 00:19:00,538
-Doctor, the first plane is ready for take-off. We've got all the processed personnel including your three young friends aboard.
+00:13:27,456 --> 00:13:29,328
+We are reading you loud and clear.
 
 183
-00:19:00,761 --> 00:19:01,646
-Ah, good.
+00:13:29,856 --> 00:13:32,864
+Can you now state where you found the originals?
 
 184
-00:19:01,869 --> 00:19:03,153
-Are you going with us, Doctor.
+00:13:34,704 --> 00:13:37,456
+The originals were discovered in a car park.
 
 185
-00:19:03,345 --> 00:19:05,973
-Yes, I'm going with Nurse Pinto.
+00:13:37,792 --> 00:13:42,144
+To prove it, we have already eliminated one of your personnel. A man.
 
 186
-00:19:06,533 --> 00:19:08,136
-Are you going Inspector?
+00:13:43,180 --> 00:13:45,472
+I now wish to speak to the Doctor.
 
 187
-00:19:08,622 --> 00:19:13,931
-No, I think I'd better stay here just for a while, to... tidy things up. Are you ready nurse?
+00:13:45,870 --> 00:13:48,160
+Unless I hear his voice immediately,
 
 188
-00:19:14,124 --> 00:19:15,441
-Oh yes, Inspector.
+00:13:48,512 --> 00:13:51,584
+the next to be eliminated will be Captain Blade.
 
 189
-00:19:15,662 --> 00:19:16,849
-I'll see you to the plane.
+00:13:53,880 --> 00:13:54,976
+Release him!
 
 190
-00:19:17,022 --> 00:19:18,871
-I'll see you on the plane Nurse.
+00:13:56,944 --> 00:13:58,784
+I said release him.
 
 191
-00:19:22,681 --> 00:19:25,204
-What will our future be Doctor?
+00:14:06,368 --> 00:14:07,664
+Get to that microphone!
 
 192
-00:19:25,898 --> 00:19:41,048
-So long as you keep your side of the bargain, you may return to your own planet unharmed. Perhaps your scientists will be able to find some way out of their dilemma. I may be able to give them one or two ideas of my own.
+00:14:07,950 --> 00:14:09,504
+Release the Nurse first.
 
 193
-00:19:46,440 --> 00:19:51,701
-Yes, yes, I know, all flights were suspended as well as yours.
+00:14:11,664 --> 00:14:14,448
+I said I wished to speak to the Doctor,
 
 194
-00:19:51,941 --> 00:19:54,283
-Hello Doctor. All down safely.
+00:14:14,624 --> 00:14:17,710
+otherwise the next will be Captain Blade.
 
 195
-00:19:54,449 --> 00:19:55,319
-Yes. Yes.
+00:14:18,208 --> 00:14:21,270
+Doctor, the microphone.
 
 196
-00:19:55,477 --> 00:19:57,789
-Splendid, Splendid. I'll take that Brussels call now.
+00:14:21,630 --> 00:14:23,040
+Are you quite all right, my dear.
 
 197
-00:19:58,000 --> 00:19:59,753
-There's just one thing Commandant.
+00:14:23,104 --> 00:14:24,944
+- Yes, I think so.   - Good.
 
 198
-00:19:59,998 --> 00:20:01,240
-Yes, yes, right.
+00:14:30,384 --> 00:14:33,000
+Commandant, this is the Doctor speaking.
 
 199
-00:20:01,424 --> 00:20:03,816
-Our TARDIS. Our police box.
+00:14:33,056 --> 00:14:34,544
+Ar, what a relief.
 
 200
-00:20:04,019 --> 00:20:05,708
-Ah Bruxelles. Oui, j'...
+00:14:35,728 --> 00:14:37,530
+Stand by while I negotiate.
 
 201
-00:20:05,968 --> 00:20:07,829
-The police box on the runway.
+00:14:39,008 --> 00:14:41,907
+Now then, I will tell you my terms.
 
 202
-00:20:08,047 --> 00:20:13,326
-Of course, Jean, see that the Doctor gets his property back, will you? Goodbye Doctor and thank you so much.
+00:14:42,736 --> 00:14:45,824
+I will guarantee your continued existence,
 
 203
-00:20:13,539 --> 00:20:14,464
-Thank you Commandant.
+00:14:45,968 --> 00:14:49,728
+if you will return to Earth all the young people you abducted.
 
 204
-00:20:14,669 --> 00:20:15,582
-Goodbye scottie.
+00:14:49,984 --> 00:14:52,784
+No use. They've all been miniaturised.
 
 205
-00:20:16,425 --> 00:20:21,097
-Goodbye Samantha. Come along Jamie, we must find Ben and Polly and get to the TARDIS.
+00:14:53,100 --> 00:14:55,648
+- Then reverse the process.  - I'm afraid that's impossible,
 
 206
-00:20:24,258 --> 00:20:25,703
-I'd better say goodbye.
+00:14:55,808 --> 00:14:59,008
+The equipment for that is on our home planet.  - He's lying. 
 
 207
-00:20:25,978 --> 00:20:29,524
-Oh, well I'll see you around then?
+00:14:59,152 --> 00:15:03,104
+The planes themselves are the miniaturisation chambers and they work both ways.
 
 208
-00:20:29,699 --> 00:20:30,988
-Around where?
+00:15:05,480 --> 00:15:10,390
+What kind of continued existence would we have, Doctor?
 
 209
-00:20:31,262 --> 00:20:37,011
-Well, you know, around... Ah you're not just going off like that?
+00:15:10,680 --> 00:15:12,816
+In your former state, I'm afraid.
 
 210
-00:20:37,268 --> 00:20:42,514
-Aye, I must go. The Doctor'll be... Well your brother will be here any moment.
+00:15:13,200 --> 00:15:16,576
+Your scientists will have to find some other way out of your dilemma.
 
 211
-00:20:42,732 --> 00:20:43,481
-Yeah.
+00:15:17,600 --> 00:15:18,816
+It's better than death.
 
 212
-00:20:45,074 --> 00:20:46,463
-Well, ta-ra then!
+00:15:19,408 --> 00:15:20,528
+We accept.
 
 213
-00:20:50,346 --> 00:20:51,527
-Aye, well can...
+00:15:21,632 --> 00:15:24,176
+All right, we accept.
 
 214
-00:20:51,847 --> 00:20:53,811
-Hey, thanks for everything.
+00:15:24,512 --> 00:15:27,216
+You fools, how can you trust him?
 
 215
-00:20:54,597 --> 00:20:56,258
-I'll say goodbye.
+00:15:29,248 --> 00:15:30,736
+Look out! Ahh...
 
 216
-00:21:00,737 --> 00:21:02,150
-Goodbye Jamie.
+00:15:42,950 --> 00:15:45,040
+- Commandant, are you still there?  - Yes.
 
 217
-00:21:12,037 --> 00:21:14,932
-This will do. My thanks to the Commandant.
+00:15:46,512 --> 00:15:50,048
+Negotiations have been successfully concluded as arranged.
 
 218
-00:21:15,547 --> 00:21:17,113
-Thank you every much.
+00:15:50,160 --> 00:15:55,440
+Good. I'll leave the people in the car park as they are until you arrive back.
 
 219
-00:21:17,354 --> 00:21:19,431
-Hey, Doctor, where are you going?
+00:15:56,096 --> 00:16:00,020
+Good. Please stay listening out on this frequency.
 
 220
-00:21:19,649 --> 00:21:20,805
-Hey, come back.
+00:16:00,272 --> 00:16:02,688
+I am leaving Captain Blade in charge of the radio.
 
 221
-00:21:35,246 --> 00:21:36,185
-Doctor.
+00:16:02,832 --> 00:16:04,928
+- Can you trust him? - Yes, I think I can now.
 
 222
-00:21:37,087 --> 00:21:38,057
-What are you doing?
+00:16:05,312 --> 00:16:06,528
+What are you going to do?
 
 223
-00:21:38,257 --> 00:21:39,985
-Doing. I'm looking for the TARDIS.
+00:16:06,864 --> 00:16:09,792
+I'm going to try and find my three friends and the Inspector.
 
 224
-00:21:40,185 --> 00:21:43,817
-Oh no, can't we stay in London a bit?
+00:16:09,930 --> 00:16:11,088
+- You know where they are?  - Yes.
 
 225
-00:21:44,068 --> 00:21:45,782
-Yeah, it's good to feel normal again.
+00:16:11,216 --> 00:16:13,840
+You will take me to them. I will call you again.
 
 226
-00:21:46,018 --> 00:21:47,680
-Normal? What do you mean, Ben?
+00:16:14,400 --> 00:16:15,696
+Roger.
 
 227
-00:21:47,854 --> 00:21:51,999
-Well, no monsters, or Cybermen. All this - it's normal. I understand it.
+00:16:20,380 --> 00:16:22,720
+Well, Heslington, flap over.
 
 228
-00:21:52,202 --> 00:21:55,211
-Do you? What about Chameleon Tours?
+00:16:22,992 --> 00:16:25,440
+Let's get back to normal as quickly as we can.
 
 229
-00:21:55,612 --> 00:21:57,259
-Oh yeah, that was different!
+00:16:30,580 --> 00:16:32,560
+Over here. I don't know which one.
 
 230
-00:21:57,428 --> 00:22:02,397
-Oh I'll be glad to get away from here. Can you not land us in a nice civilised place like 1750?
+00:16:35,968 --> 00:16:37,728
+- Doctor!  - Jamie! Ha!
 
 231
-00:22:02,598 --> 00:22:05,147
-What's so uncivilised about 1966?
+00:16:37,824 --> 00:16:39,632
+I'm glad to see you alive.
 
 232
-00:22:05,308 --> 00:22:06,310
-Oh, you can keep it!
+00:16:39,824 --> 00:16:41,024
+How... how do you mean?
 
 233
-00:22:06,878 --> 00:22:09,204
-Did you say 1966.
+00:16:41,376 --> 00:16:44,672
+I'll explain to you one day. Well come along out.
 
 234
-00:22:09,399 --> 00:22:09,962
-Yes.
+00:16:44,816 --> 00:16:47,584
+You look like a soldier in a sentry box standing there!
 
 235
-00:22:10,153 --> 00:22:11,175
-What month is it?
+00:16:47,648 --> 00:16:48,912
+Sit down.
 
 236
-00:22:11,453 --> 00:22:14,799
-It's July. July the 20th, to be precise.
+00:16:49,104 --> 00:16:50,912
+It's all right, he's a friend.
 
 237
-00:22:15,232 --> 00:22:17,237
-What are you getting at?
+00:16:50,976 --> 00:16:53,056
+Now sit down while I find the others.
 
 238
-00:22:17,440 --> 00:22:25,552
-Don't you see, Duchess? July the 20th, 1966 is when it all began! We're back to when it all started! Well, I think...
+00:16:58,480 --> 00:17:03,328
+Ah! Inspector Crossland. There we are. 
 
 239
-00:22:26,035 --> 00:22:29,372
-That means it's as... it's as if we've never been away!
+00:17:04,112 --> 00:17:07,760
+Now, Ben, Polly and back to Gatwick.
 
 240
-00:22:30,790 --> 00:22:32,256
-You really want to go, don't you.
+00:17:27,390 --> 00:17:29,529
+Doctor, the first plane is ready for take-off.
 
 241
-00:22:32,553 --> 00:22:36,945
-Well, we won't leave, Doctor, if you really need us.
+00:17:29,680 --> 00:17:32,848
+We've got all the processed personnel including your three young friends aboard.
 
 242
-00:22:39,727 --> 00:22:43,356
-The thing is, it... it is our world.
+00:17:32,896 --> 00:17:33,936
+Ah, good.
 
 243
-00:22:43,628 --> 00:22:48,526
-Yes, I know. You're lucky, I never got back to mine...
+00:17:34,192 --> 00:17:35,328
+Are you going with us, Doctor.
 
 244
-00:22:51,708 --> 00:22:53,878
-All right, then. Off you go!
+00:17:35,424 --> 00:17:38,080
+Yes, I'm going with Nurse Pinto.
 
 245
-00:22:54,927 --> 00:23:01,661
-Now go on, Ben can catch his ship and become an Admiral and you Polly, you can look after Ben.
+00:17:38,688 --> 00:17:40,208
+Are you going Inspector?
 
 246
-00:23:03,012 --> 00:23:04,146
-I will.
+00:17:40,620 --> 00:17:44,480
+No, I think I'd better stay here just for a while, to... tidy things up.
 
 247
-00:23:06,941 --> 00:23:08,769
-You will be safe, won't you?
+00:17:44,704 --> 00:17:46,976
+- Are you ready nurse?   - Oh yes, Inspector.
 
 248
-00:23:09,057 --> 00:23:10,419
-I'll look after him.
+00:17:47,024 --> 00:17:49,808
+- I'll see you to the plane.  - I'll see you on the plane Nurse.
 
 249
-00:23:10,814 --> 00:23:12,363
-I'm sure you will, mate.
+00:17:53,590 --> 00:17:56,110
+What will our future be Doctor?
 
 250
-00:23:14,022 --> 00:23:15,216
-Goodbye Doctor.
+00:17:56,960 --> 00:17:59,731
+So long as you keep your side of the bargain,
 
 251
-00:23:15,766 --> 00:23:16,149
-Ben.
+00:17:59,731 --> 00:18:02,384
+you may return to your own planet unharmed.
 
 252
-00:23:16,650 --> 00:23:18,874
-We might see you sometime. Take care.
+00:18:02,950 --> 00:18:06,688
+Perhaps your scientists will be able to find some way out of their dilemma.
 
 253
-00:23:19,821 --> 00:23:22,183
-Well you'd better hurry. The Commandant's car's waiting.
+00:18:06,832 --> 00:18:11,296
+I may be able to give them one or two ideas of my own.
 
 254
-00:23:34,578 --> 00:23:36,463
-I'm sad to see them go.
+00:18:16,540 --> 00:18:21,024
+Yes, yes, I know, all flights were suspended as well as yours.
 
 255
-00:23:36,710 --> 00:23:38,825
-Yes Jamie, so am I.
+00:18:21,152 --> 00:18:24,464
+- Hello Doctor. All down safely.  - Yes, yes.
 
 256
-00:23:41,640 --> 00:23:43,909
-Well, we've got things to do.
+00:18:24,496 --> 00:18:27,040
+Splendid, Splendid. I'll take that Brussels call now.
 
 257
-00:23:44,746 --> 00:23:45,595
-What things?
+00:18:27,150 --> 00:18:30,176
+- There's just one thing Commandant.   - Yes, yes, right.
 
 258
-00:23:45,814 --> 00:23:49,306
-Well, I didn't tell the others but... we've lost the TARDIS!
+00:18:30,208 --> 00:18:32,736
+Our TARDIS. Our police box.
 
 259
-00:23:49,533 --> 00:23:50,451
-We can't have done.
+00:18:32,800 --> 00:18:34,416
+Ah Bruxelles. Oui, j'...
 
 260
-00:23:50,718 --> 00:23:52,171
-It was outside - it's not there now.
+00:18:34,528 --> 00:18:36,336
+The police box on the runway.
 
 261
-00:23:52,524 --> 00:23:53,962
-You mean somebody's stolen it?
+00:18:36,400 --> 00:18:39,840
+Of course, Jean, see that the Doctor gets his property back, will you?
 
 262
-00:23:54,145 --> 00:23:57,495
-I don't know, but that's what we're going to find out! Come on!
+00:18:39,872 --> 00:18:41,744
+Goodbye Doctor and thank you so much.
+
+263
+00:18:41,808 --> 00:18:44,160
+Thank you Commandant. Goodbye scottie.
+
+264
+00:18:44,544 --> 00:18:45,856
+Goodbye Samantha.
+
+265
+00:18:46,112 --> 00:18:48,980
+Come along Jamie, we must find Ben and Polly and get to the TARDIS.
+
+266
+00:18:51,728 --> 00:18:53,200
+I'd better say goodbye.
+
+267
+00:18:53,328 --> 00:18:56,464
+Oh, well I'll see you around then?
+
+268
+00:18:56,656 --> 00:18:58,256
+Around where?
+
+269
+00:18:58,670 --> 00:19:00,912
+Well, you know, around...
+
+270
+00:19:01,760 --> 00:19:03,648
+Ah you're not just going off like that?
+
+271
+00:19:03,960 --> 00:19:06,496
+Aye, I must go. The Doctor'll be...
+
+272
+00:19:07,088 --> 00:19:09,824
+Well your brother will be here any moment.
+
+273
+00:19:11,488 --> 00:19:12,864
+Well, ta-ra then!
+
+274
+00:19:18,120 --> 00:19:19,792
+Hey, thanks for everything.
+
+275
+00:19:20,304 --> 00:19:21,744
+I'll say goodbye.
+
+276
+00:19:26,256 --> 00:19:27,904
+Goodbye Jamie.
+
+277
+00:19:36,700 --> 00:19:39,600
+This will do. My thanks to the Commandant.
+
+278
+00:19:40,000 --> 00:19:41,780
+Thank you every much.
+
+279
+00:19:41,824 --> 00:19:43,632
+Hey, Doctor, where are you going?
+
+280
+00:19:43,792 --> 00:19:45,280
+Hey, come back.
+
+281
+00:19:58,900 --> 00:19:59,888
+Doctor.
+
+282
+00:20:00,400 --> 00:20:01,472
+What are you doing?
+
+283
+00:20:01,520 --> 00:20:03,760
+Doing. I'm looking for the TARDIS, of course.
+
+284
+00:20:03,872 --> 00:20:06,912
+Oh no, can't we stay in London a bit?
+
+285
+00:20:06,976 --> 00:20:08,832
+Yeah, it's good to feel normal again.
+
+286
+00:20:08,896 --> 00:20:10,064
+Normal? What do you mean, Ben?
+
+287
+00:20:10,190 --> 00:20:12,384
+Well, no monsters, or Cybermen.
+
+288
+00:20:12,528 --> 00:20:14,512
+All this - it's normal. I understand it.
+
+289
+00:20:14,608 --> 00:20:17,936
+Do you? What about Chameleon Tours?
+
+290
+00:20:18,224 --> 00:20:19,120
+Oh yeah, that was different!
+
+291
+00:20:19,200 --> 00:20:21,088
+Oh I'll be glad to get away from here.
+
+292
+00:20:21,200 --> 00:20:24,368
+Can you not land us in a nice civilised place like 1750?
+
+293
+00:20:24,560 --> 00:20:26,990
+What's so uncivilised about 1966?
+
+294
+00:20:27,040 --> 00:20:28,160
+Oh, you can keep it!
+
+295
+00:20:28,720 --> 00:20:31,376
+- Did you say 1966.  - Yes.
+
+296
+00:20:31,504 --> 00:20:32,496
+What month is it?
+
+297
+00:20:32,832 --> 00:20:36,192
+It's July. July the 20th, to be precise.
+
+298
+00:20:37,152 --> 00:20:38,368
+What are you getting at?
+
+299
+00:20:38,448 --> 00:20:43,136
+Don't you see, Duchess? 
+July the 20th, 1966 is when it all began!
+
+300
+00:20:43,200 --> 00:20:46,448
+We're back to when it all started! Well, I think...
+
+301
+00:20:46,768 --> 00:20:50,320
+That means it's as... it's as if we've never been away!
+
+302
+00:20:51,264 --> 00:20:52,896
+You really want to go, don't you.
+
+303
+00:20:53,712 --> 00:20:57,088
+Well, we won't leave, Doctor, if you really need us.
+
+304
+00:20:59,888 --> 00:21:02,960
+The thing is, it... it is our world.
+
+305
+00:21:03,080 --> 00:21:04,512
+Yes, I know.
+
+306
+00:21:05,328 --> 00:21:08,110
+You're lucky, I never got back to mine...
+
+307
+00:21:10,944 --> 00:21:13,300
+All right, then. Off you go!
+
+308
+00:21:13,952 --> 00:21:18,172
+Now go on, Ben can catch his ship and become an Admiral
+
+309
+00:21:18,368 --> 00:21:20,208
+and you Polly, you can look after Ben.
+
+310
+00:21:21,696 --> 00:21:22,912
+I will.
+
+311
+00:21:25,280 --> 00:21:26,832
+You will be safe, won't you?
+
+312
+00:21:27,104 --> 00:21:30,144
+- I'll look after him.  - I'm sure you will, mate.
+
+313
+00:21:32,048 --> 00:21:33,648
+Goodbye Doctor.
+
+314
+00:21:33,760 --> 00:21:36,784
+We might see you sometime. Take care.
+
+315
+00:21:37,540 --> 00:21:39,712
+Well you'd better hurry. The Commandant's car's waiting.
+
+316
+00:21:51,360 --> 00:21:52,960
+I'm sad to see them go.
+
+317
+00:21:53,296 --> 00:21:55,136
+Yes Jamie, so am I.
+
+318
+00:21:58,208 --> 00:22:00,464
+Well, we've got things to do.
+
+319
+00:22:01,200 --> 00:22:03,328
+- What things?  - Well, I didn't tell the others but...
+
+320
+00:22:03,520 --> 00:22:05,136
+We've lost the TARDIS!
+
+321
+00:22:05,504 --> 00:22:06,432
+We can't have done.
+
+322
+00:22:06,520 --> 00:22:08,192
+It was outside - it's not there now.
+
+323
+00:22:08,410 --> 00:22:10,656
+- You mean somebody's stolen it?  - I don't know, 
+
+324
+00:22:11,264 --> 00:22:13,504
+But that's what we're going to find out! Come on!
 

@@ -3,1002 +3,1340 @@
 Sincro: wyxchari
 
 2
-00:01:32,477 --> 00:01:35,904
-You're quite sure you've never met these men? They say they know you.
+00:01:31,220 --> 00:01:34,650
+You're quite sure you've never met these men?
+They say they know you.
 
 3
-00:01:36,104 --> 00:01:39,083
+00:01:34,850 --> 00:01:37,830
 But they can't know me. This is my first visit to England!
 
 4
-00:01:39,284 --> 00:01:41,922
+00:01:38,030 --> 00:01:40,670
 But Polly, it's us, me and the Doctor!
 
 5
-00:01:42,823 --> 00:01:44,979
+00:01:41,570 --> 00:01:43,720
 Would you mind telling us your name?
 
 6
-00:01:46,233 --> 00:01:48,655
+00:01:44,752 --> 00:01:46,912
 I am Michelle Leuppi from Zurich.
 
 7
-00:01:48,859 --> 00:01:49,846
+00:01:46,976 --> 00:01:47,960
 You have a passport?
 
 8
-00:01:50,051 --> 00:01:51,317
+00:01:48,112 --> 00:01:49,584
 Yes, of course. Here.
 
 9
-00:01:53,069 --> 00:01:54,980
+00:01:51,568 --> 00:01:53,120
 Have I done something wrong?
 
 10
-00:01:55,275 --> 00:02:02,650
-Oh no, I don't suppose there's anything for you to worry about, Miss. May I just ask what you're doing in England?
+00:01:53,536 --> 00:01:57,184
+Oh no, I don't suppose there's anything
+for you to worry about, Miss.
 
 11
-00:02:03,143 --> 00:02:06,292
-I have come here to work. Look, here is my work permit.
+00:01:58,448 --> 00:02:01,400
+May I just ask what you're doing in England?
 
 12
-00:02:08,589 --> 00:02:14,077
-Oh, yes, that's quite in order. Thank you. Excuse me.
+00:02:01,600 --> 00:02:04,496
+I have come here to work. Look, here is my work permit.
 
 13
-00:02:15,443 --> 00:02:17,525
-Where did you learn such excellent English?
+00:02:06,688 --> 00:02:11,984
+Oh, yes, that's quite in order. Thank you. Excuse me.
 
 14
-00:02:17,846 --> 00:02:22,168
-I had an English governess. Would you mind telling me what's happening?
+00:02:13,216 --> 00:02:15,424
+Where did you learn such excellent English?
 
 15
-00:02:22,428 --> 00:02:26,594
-Nothing that need concern you, miss, everything's perfectly in order. Now if you'd just like to go through there?
+00:02:15,536 --> 00:02:17,605
+I had an English governess.
 
 16
-00:02:26,827 --> 00:02:27,671
-Thank you.
+00:02:17,808 --> 00:02:19,792
+Would you mind telling me what's happening?
 
 17
-00:02:28,081 --> 00:02:29,631
-Polly, wait!
+00:02:19,920 --> 00:02:22,489
+Nothing that need concern you, miss,
+everything's perfectly in order.
 
 18
-00:02:30,092 --> 00:02:31,753
-Just a minute young man.
+00:02:22,590 --> 00:02:24,304
+Now if you'd just like to go through there?
 
 19
-00:02:32,040 --> 00:02:34,044
-But she's a friend of ours - and she saw the murder!
-
-20
-00:02:34,270 --> 00:02:38,074
-You're going to wait here until the Superintendent of police arrives - now understand that?
-
-21
-00:02:38,308 --> 00:02:40,800
-Ah, you're going to tell him about the dead body, very sensible.
-
-22
-00:02:41,066 --> 00:02:45,950
-No. I am going to tell him about you. Put me through to Superintendent Reynolds.
-
-23
-00:02:46,232 --> 00:02:52,440
-Jamie, I don't think we're very welcome here. When I say run, we run!
-
-24
-00:02:52,710 --> 00:03:00,431
-Hello Super, Commandant. I've got a couple of illegal entrants here. Yes... Immigration Desk Number Five.
-
-25
-00:03:00,837 --> 00:03:01,555
-Run!
-
-26
-00:03:01,827 --> 00:03:02,789
-Commandant!
-
-27
-00:03:03,108 --> 00:03:06,890
-Situation changed. They've just made a run for it. I'll give you their description...
-
-28
-00:03:13,256 --> 00:03:14,907
-Quick! He's suffocating.
-
-29
-00:03:15,173 --> 00:03:17,087
-You were twenty minutes late.
-
-30
-00:03:41,488 --> 00:03:42,569
-Who is he?
-
-31
-00:03:42,862 --> 00:03:44,703
-Meadows - Air Traffic Control.
-
-32
-00:03:45,382 --> 00:03:48,454
-Good! He may be useful to us.
-
-33
-00:04:45,050 --> 00:04:46,518
-They're still hunting for us, Doctor.
-
-34
-00:04:46,878 --> 00:04:50,366
-Yes. We'll have to keep out of their way until we can prove our story.
-
-35
-00:04:50,559 --> 00:04:53,585
-A fine chance we have of doing that - with Polly kidding on she doesn't know us!
-
-36
-00:04:54,326 --> 00:04:58,497
-I don't think Polly was kidding on. In fact I don't think that was Polly.
-
-37
-00:04:58,740 --> 00:05:00,892
-Of course, it was Polly! You saw her!
-
-38
-00:05:01,119 --> 00:05:02,891
-You don't want to believe everything you see, Jamie.
-
-39
-00:05:03,081 --> 00:05:03,831
-Doctor!
-
-40
-00:05:12,409 --> 00:05:13,456
-All clear, Doctor.
-
-41
-00:05:15,041 --> 00:05:15,859
-Doctor!
-
-42
-00:05:21,351 --> 00:05:23,144
-Yes, Chameleon Tours.
-
-43
-00:05:23,314 --> 00:05:31,134
-An advertisement for Chameleon Youth Tours. "Budget Tours for young people between the ages of eighteen and twenty five. "
-
-44
-00:05:31,292 --> 00:05:32,445
-What do they mean by budget?
-
-45
-00:05:32,595 --> 00:05:39,904
-Inexpensive, cheap! This could be the bait. Do you know what a chameleon is, Jamie?
-
-46
-00:05:40,249 --> 00:05:41,518
-It's just a name, I suppose?
-
-47
-00:05:41,683 --> 00:06:03,302
-It is the name of a small animal, a lizard that can change it's colour to merge with it's background. But it's a name that could equally be applied to people as well. People who change their personalities to suit their own ends. Budget Tours... young people between the ages of eighteen and twenty-five. Oh yes, there's something strange going on here.
-
-48
-00:06:03,517 --> 00:06:04,405
-Doctor! Jamie!
-
-49
-00:06:04,667 --> 00:06:05,623
-Ben! Are you all right?
-
-50
-00:06:05,788 --> 00:06:06,489
-Yeah, I'm okay.
-
-51
-00:06:06,674 --> 00:06:07,298
-Well that's a relief.
-
-52
-00:06:07,500 --> 00:06:08,996
-What happened to you two and where's Polly?
-
-53
-00:06:09,144 --> 00:06:14,706
-We can't talk here. We've got to find somewhere to hide. Something about passports.
-
-54
-00:06:14,868 --> 00:06:16,136
-I've got the very place. Come on.
-
-55
-00:06:40,682 --> 00:06:41,500
-Is he all right?
-
-56
-00:06:41,965 --> 00:06:42,705
-We'll see.
-
-57
-00:06:57,051 --> 00:06:58,063
-Read the first line!
-
-58
-00:07:05,246 --> 00:07:06,309
-Vocal control.
-
-59
-00:07:12,534 --> 00:07:13,819
-Try that.
-
-60
-00:07:14,315 --> 00:07:19,889
-H... X... O... A...
-
-61
-00:07:39,156 --> 00:07:40,428
-All complete.
-
-62
-00:07:45,563 --> 00:07:46,630
-Who are you?
-
-63
-00:07:48,048 --> 00:07:53,999
-My name is George Meadows. I work at Air Traffic Control, Gatwick Airport.
-
-64
-00:07:55,402 --> 00:07:56,763
-Where do you live?
-
-65
-00:07:57,004 --> 00:07:59,024
-Number Ten, Sylvia Avenue.
-
-66
-00:07:59,971 --> 00:08:01,235
-Number Ten?
-
-67
-00:08:02,195 --> 00:08:09,348
-Until last week, We lived at Number Thirty-Four. I've been too busy to tell the Personnel Department of the change.
-
-68
-00:08:12,451 --> 00:08:13,968
-Excellent!
-
-69
-00:08:29,425 --> 00:08:30,482
-Look! There's Polly!
-
-70
-00:08:30,707 --> 00:08:33,476
-Yes, look who she's working for!
-
-71
-00:08:33,742 --> 00:08:34,802
-Chameleon Tours.
-
-72
-00:08:35,426 --> 00:08:37,108
-Yes, leave this to me.
-
-73
-00:08:42,119 --> 00:08:43,355
-Polly.
-
-74
-00:08:44,131 --> 00:08:45,759
-Please go away.
-
-75
-00:08:46,066 --> 00:08:51,600
-Now, something has happened to you, Polly. I want you to try to remember up to the time we left the hangar.
-
-76
-00:08:51,822 --> 00:08:53,637
-I don't know what you're talking about.
-
-77
-00:08:53,848 --> 00:08:59,689
-Now think, Polly. There were three of us in the hangar. You were showing us something. Now what was it?
-
-78
-00:08:59,864 --> 00:09:01,721
-I tell you, I don't know what you're talking about.
-
-79
-00:09:01,910 --> 00:09:06,581
-The hangar, Polly, The Chameleon Hangar. You said you'd seen the man who did it.
-
-80
-00:09:06,988 --> 00:09:12,659
-I didn't see anything. I think you're mad. If I'd seen anyone shot, I'd have gone to the police...
-
-81
-00:09:12,832 --> 00:09:13,742
-Anyone shot?
-
-82
-00:09:14,206 --> 00:09:16,780
-I... I mean murdered...
-
-83
-00:09:17,013 --> 00:09:19,876
-I didn't say anyone was shot, or murdered, Polly.
-
-84
-00:09:20,064 --> 00:09:21,588
-Look, please, will you just leave me alone.
-
-85
-00:09:25,653 --> 00:09:26,911
-What's happened to her, Doctor?
-
-86
-00:09:27,169 --> 00:09:33,054
-I don't know. But I mean to find out. Come on, let's find that place where we can talk.
-
-87
-00:09:36,540 --> 00:09:38,494
-Right.
-
-88
-00:09:39,363 --> 00:09:40,169
-Come in here.
-
-89
-00:09:45,237 --> 00:09:48,843
-I was going to brief you for this assignment, but there isn't any purpose, now.
-
-90
-00:09:50,097 --> 00:09:51,388
-I have failed, then?
-
-91
-00:09:52,071 --> 00:09:57,612
-Circumstances are against you. I'll make arrangements for you to leave on the next flight.
-
-92
-00:09:58,926 --> 00:10:00,287
-Back to base?
-
-93
-00:10:00,660 --> 00:10:01,385
-Yes.
-
-94
-00:10:02,626 --> 00:10:05,738
-What about that man? He's very persistent.
-
-95
-00:10:06,080 --> 00:10:11,649
-Don't worry about him. We have ways of dealing with such people...
-
-96
-00:10:40,394 --> 00:10:41,776
-Are you sure you haven't seen him, sir?
-
-97
-00:10:42,017 --> 00:10:48,349
-I'm quite sure! Oh Jean, this is Detective Inspector Crossland. Give him any help you can. If you'll excuse me?
-
-98
-00:10:48,512 --> 00:10:49,582
-Yes, of course, sir.
-
-99
-00:10:50,407 --> 00:10:52,859
-Well now Inspector, what can I do for you?
-
-100
-00:10:53,204 --> 00:10:54,984
-Well, I think I'll need a pass for a start.
-
-101
-00:10:55,157 --> 00:10:56,481
-Well that's easily arranged.
-
-102
-00:10:56,656 --> 00:10:57,706
-Anything else?
-
-103
-00:10:58,192 --> 00:11:01,557
-Yes, I was supposed to meet a colleague of mine here, a Detective Inspector Gascoigne.
-
-104
-00:11:01,763 --> 00:11:02,403
-Yes?
-
-105
-00:11:02,577 --> 00:11:08,217
-Well, he was investigating a missing person off one of your charter flights. The funny thing is, he hasn't shown up!
-
-106
-00:11:08,448 --> 00:11:10,038
-Detective-Inspector Crossland...
-
-107
-00:11:10,215 --> 00:11:11,437
-What shall I say your business is?
-
-108
-00:11:11,722 --> 00:11:15,889
-Investigation into Chameleon Youth Tours.
-
-109
-00:11:33,922 --> 00:11:35,307
-What is this place?
-
-110
-00:11:35,503 --> 00:11:36,830
-It's a machine that takes your photograph.
-
-111
-00:11:37,012 --> 00:11:37,863
-Photograph?
-
-112
-00:11:38,244 --> 00:11:39,550
-Well, you see you've got...
-
-113
-00:11:39,800 --> 00:11:44,515
-No Ben, not now. What puzzles me is this girl pretending to be Polly, yet... yet in a way, she is Polly.
-
-114
-00:11:44,805 --> 00:11:45,995
-Do you think she's been brainwashed?
-
-115
-00:11:46,311 --> 00:11:50,790
-No, not in the time. Whatever happened to her happened to her in a few minutes. Look out!
-
-116
-00:11:54,690 --> 00:12:06,022
-All right. Now Ben, Jamie, we've got to find out more about Chameleon Youth Tours, but the trouble is, we're not free to move around with the authorities looking for us.
-
-117
-00:12:06,276 --> 00:12:07,634
-Well, they're not looking for me.
-
-118
-00:12:08,354 --> 00:12:11,210
-Well, that's true. You could investigate the hangar.
-
-119
-00:12:11,414 --> 00:12:12,565
-Leave it to me. Now what about you?
-
-120
-00:12:12,777 --> 00:12:16,564
-I'm going back to the Commandant and try and convince him that there's a murderer abroad.
-
-121
-00:12:16,773 --> 00:12:17,961
-Well I'll go with Ben.
-
-122
-00:12:18,269 --> 00:12:22,332
-No, Jamie, I want you to find your way back to the Chameleon kiosk and keep an eye on Polly.
-
-123
-00:13:13,482 --> 00:13:15,293
-Oh! Err, are you in charge here?
-
-124
-00:13:15,624 --> 00:13:17,112
-Ah, yes. Can I help you?
-
-125
-00:13:17,318 --> 00:13:20,459
-Yes. I... I'm Samantha Briggs and I've come down from Liverpool.
-
-126
-00:13:20,760 --> 00:13:21,902
-Oh, really?
-
-127
-00:13:22,877 --> 00:13:25,061
-It's about my brother, Brian Briggs -
-
-128
-00:13:25,657 --> 00:13:27,455
-What about him?
-
-129
-00:13:27,743 --> 00:13:31,096
-He went on one of your tours, and now he's disappeared.
-
-130
-00:13:31,898 --> 00:13:34,690
-I'm sorry, I don't follow.
-
-131
-00:13:34,904 --> 00:13:41,850
-Well, it's really very simple. I tried to get the telephone number of the hotel you sent him to, and the operator said there was no such place.
-
-132
-00:13:42,293 --> 00:13:44,781
-Well, the operator must have been mistaken then.
-
-133
-00:13:46,284 --> 00:13:53,201
-So... I got in touch with the police and they said that Brian wasn't staying at any hotel in Rome.
-
-134
-00:13:54,093 --> 00:13:58,574
-Well, um, perhaps he changed his mind and decided to go on a different tour then.
-
-135
-00:13:58,835 --> 00:14:05,382
-Well what about this then? A post-card from Brian, posted in Rome!
-
-136
-00:14:06,175 --> 00:14:11,849
-Yes, that does seem odd, doesn't it. Erm, would you like me to make some enquiries, for you?
-
-137
-00:14:12,695 --> 00:14:16,383
-Well, what do you think I've come all the way down from Liverpool for?
-
-138
-00:14:16,630 --> 00:14:19,254
-Well - since you've put the matter with the police, why have you?
-
-139
-00:14:19,607 --> 00:14:25,241
-Police. They said that dozens of people go missing every week and they haven't got the men to go chasing after them all.
-
-140
-00:14:25,537 --> 00:14:28,214
-I see. What did you say your brother's name was?
-
-141
-00:14:28,985 --> 00:14:34,085
-Brian Briggs. Would you like me to spell it for you?
-
-142
-00:14:34,421 --> 00:14:39,730
-That won't be necessary, thank you. I'll see what I can find out, if you don't mind waiting.
-
-143
-00:14:49,829 --> 00:14:51,264
-Is Captain Blade there?
-
-144
-00:14:51,587 --> 00:14:52,576
-No.
-
-145
-00:14:52,871 --> 00:14:57,098
-Well, I must speak with him - urgently. Enquiries about a missing passenger.
-
-146
-00:14:57,310 --> 00:14:59,453
-I'll tell him to contact you. He shouldn't be long.
-
-147
-00:15:05,952 --> 00:15:10,720
-The gentleman I wanted to speak with wasn't available, they're trying to find him. Do you want to wait?
-
-148
-00:15:11,169 --> 00:15:15,250
-Well, I've got nothing else to do, have I? I'll be over there.
-
-149
-00:15:16,544 --> 00:15:17,593
-Oh blast!
-
-150
-00:15:22,314 --> 00:15:23,778
-Is anything the matter?
-
-151
-00:15:24,168 --> 00:15:25,240
-Stuck up thing!
-
-152
-00:15:25,524 --> 00:15:26,300
-What?
-
-153
-00:15:26,588 --> 00:15:31,854
-Not you. That girl! She just couldn't care less.
-
-154
-00:15:32,096 --> 00:15:33,547
-About finding your brother.
-
-155
-00:15:33,888 --> 00:15:34,536
-Yes.
-
-156
-00:15:34,845 --> 00:15:38,734
-I couldn't help overhearing. Do you think something's happened to him.
-
-157
-00:15:39,173 --> 00:15:46,074
-Well, that's just it, I don't know. Oh, Brian can take care of himself all right, but still...
-
-158
-00:15:46,269 --> 00:15:47,396
-Aye, well I hope you're right.
-
-159
-00:15:47,607 --> 00:15:49,064
-What d'you mean?
-
-160
-00:15:49,269 --> 00:15:55,520
-I might just be able to help you. I can't tell you anything at the moment but later I'd like you to meet a friend of mine. I'm sure he'll know what's best.
-
-161
-00:16:09,097 --> 00:16:10,048
-Excuse me, sir.
-
-162
-00:16:10,832 --> 00:16:13,099
-There's a gentleman to see you.
-
-163
-00:16:13,341 --> 00:16:14,451
-Did he say what about?
-
-164
-00:16:14,699 --> 00:16:16,980
-Well yes. It's about a dead body.
-
-165
-00:16:20,116 --> 00:16:21,368
-Bring him in.
-
-166
-00:16:22,862 --> 00:16:24,356
-Would you come in, please?
-
-167
-00:16:24,599 --> 00:16:25,294
+00:02:24,352 --> 00:02:25,200
 Thank you.
 
+20
+00:02:25,580 --> 00:02:27,130
+Polly, wait!
+
+21
+00:02:27,590 --> 00:02:29,250
+Just a minute young man.
+
+22
+00:02:29,312 --> 00:02:31,392
+But she's a friend of ours - and she saw the murder!
+
+23
+00:02:31,456 --> 00:02:35,570
+You're going to wait here until the Superintendent
+of police arrives - now understand that?
+
+24
+00:02:35,800 --> 00:02:38,300
+Ah, you're going to tell him about the dead body, very sensible.
+
+25
+00:02:38,560 --> 00:02:41,120
+No. I am going to tell him about you.
+
+26
+00:02:41,420 --> 00:02:43,616
+Put me through to Superintendent Reynolds.
+
+27
+00:02:44,496 --> 00:02:47,728
+Jamie, I don't think we're very welcome here.
+
+28
+00:02:47,790 --> 00:02:49,424
+When I say run, we run!
+
+29
+00:02:49,680 --> 00:02:51,583
+Hello Super, Commandant.
+
+30
+00:02:51,728 --> 00:02:54,448
+I've got a couple of illegal entrants here.
+
+31
+00:02:54,624 --> 00:02:57,360
+Yes... Immigration Desk Number Five.
+
+32
+00:02:57,424 --> 00:02:58,080
+Run!
+
+33
+00:02:58,240 --> 00:02:59,344
+Commandant!
+
+34
+00:02:59,800 --> 00:03:02,208
+Situation changed. They've just made a run for it.
+
+35
+00:03:02,320 --> 00:03:03,590
+I'll give you their description...
+
+36
+00:03:09,950 --> 00:03:11,600
+Quick! He's suffocating.
+
+37
+00:03:11,870 --> 00:03:13,780
+You were twenty minutes late.
+
+38
+00:03:37,380 --> 00:03:38,460
+Who is he?
+
+39
+00:03:38,512 --> 00:03:40,600
+Meadows - Air Traffic Control.
+
+40
+00:03:41,280 --> 00:03:44,350
+Good! He may be useful to us.
+
+41
+00:04:39,450 --> 00:04:40,910
+They're still hunting for us, Doctor.
+
+42
+00:04:41,270 --> 00:04:44,760
+Yes. We'll have to keep out of their way
+until we can prove our story.
+
+43
+00:04:44,950 --> 00:04:47,980
+A fine chance we have of doing that -
+with Polly kidding on she doesn't know us!
+
+44
+00:04:48,720 --> 00:04:52,890
+I don't think Polly was kidding on.
+In fact I don't think that was Polly.
+
+45
+00:04:53,140 --> 00:04:55,290
+Of course, it was Polly! You saw her!
+
+46
+00:04:55,510 --> 00:04:56,976
+You don't want to believe everything you see, Jamie.
+
+47
+00:04:57,056 --> 00:04:57,824
+Doctor!
+
+48
+00:05:06,400 --> 00:05:07,552
+All clear, Doctor.
+
+49
+00:05:09,104 --> 00:05:09,760
+Doctor!
+
+50
+00:05:14,890 --> 00:05:16,800
+Yes, Chameleon Tours.
+
+51
+00:05:16,912 --> 00:05:20,480
+An advertisement for Chameleon Youth Tours.
+
+52
+00:05:20,480 --> 00:05:24,736
+"Budget Tours for young people
+between the ages of eighteen and twenty five. "
+
+53
+00:05:24,760 --> 00:05:27,728
+- What do they mean by budget?
+- Inexpensive, cheap!
+
+54
+00:05:27,888 --> 00:05:33,536
+This could be the bait.
+Do you know what a chameleon is, Jamie?
+
+55
+00:05:33,664 --> 00:05:35,152
+It's just a name, I suppose?
+
+56
+00:05:35,280 --> 00:05:37,328
+It is the name of a small animal, a lizard
+
+57
+00:05:37,392 --> 00:05:40,176
+that can change it's colour to merge with it's background.
+
+58
+00:05:41,730 --> 00:05:44,912
+But it's a name that could equally be applied to people as well.
+
+59
+00:05:45,040 --> 00:05:49,072
+People who change their personalities to suit their own ends.
+
+60
+00:05:49,230 --> 00:05:53,648
+Budget Tours... young people
+between the ages of eighteen and twenty-five
+
+61
+00:05:54,250 --> 00:05:56,272
+Oh yes, there's something strange going on here.
+
+62
+00:05:56,336 --> 00:05:58,304
+- Doctor! Jamie!
+-Ben! Are you all right?
+
+63
+00:05:58,400 --> 00:05:59,856
+- Yeah, I'm okay.
+- Well that's a relief.
+
+64
+00:05:59,904 --> 00:06:01,536
+What happened to you two and where's Polly?
+
+65
+00:06:01,640 --> 00:06:04,624
+We can't talk here. We've got to find somewhere to hide.
+
+66
+00:06:05,200 --> 00:06:07,504
+Something about passports.
+
+67
+00:06:07,552 --> 00:06:09,030
+I've got the very place. Come on.
+
+68
+00:06:32,304 --> 00:06:33,376
+Is he all right?
+
+69
+00:06:33,472 --> 00:06:34,400
+We'll see.
+
+70
+00:06:48,750 --> 00:06:49,760
+Read the first line!
+
+71
+00:06:56,752 --> 00:06:58,000
+Vocal control.
+
+72
+00:07:03,792 --> 00:07:05,008
+Try that.
+
+73
+00:07:05,408 --> 00:07:10,768
+H... X... O... A...
+
+74
+00:07:29,856 --> 00:07:31,088
+All complete.
+
+75
+00:07:35,760 --> 00:07:36,830
+Who are you?
+
+76
+00:07:38,464 --> 00:07:40,720
+My name is George Meadows.
+
+77
+00:07:41,264 --> 00:07:44,304
+I work at Air Traffic Control, Gatwick Airport.
+
+78
+00:07:45,600 --> 00:07:46,960
+Where do you live?
+
+79
+00:07:47,200 --> 00:07:49,220
+Number Ten, Sylvia Avenue.
+
+80
+00:07:50,170 --> 00:07:51,430
+Number Ten?
+
+81
+00:07:52,390 --> 00:07:55,072
+Until last week, We lived at Number Thirty-Four.
+
+82
+00:07:55,856 --> 00:07:59,540
+I've been too busy to tell the Personnel Department of the change.
+
+83
+00:08:02,650 --> 00:08:04,160
+Excellent!
+
+84
+00:08:18,784 --> 00:08:20,680
+- Look! There's Polly!  - Yes.
+
+85
+00:08:21,312 --> 00:08:22,800
+Look who she's working for!
+
+86
+00:08:22,944 --> 00:08:24,672
+- Chameleon Tours.  - Yes.
+
+87
+00:08:25,264 --> 00:08:26,768
+Leave this to me.
+
+88
+00:08:31,110 --> 00:08:32,350
+Polly.
+
+89
+00:08:33,130 --> 00:08:34,750
+Please go away.
+
+90
+00:08:35,060 --> 00:08:37,255
+Now, something has happened to you, Polly.
+
+91
+00:08:37,600 --> 00:08:40,600
+I want you to try to remember up to the time we left the hangar.
+
+92
+00:08:40,820 --> 00:08:42,630
+I don't know what you're talking about.
+
+93
+00:08:42,840 --> 00:08:45,824
+Now think, Polly. There were three of us in the hangar.
+
+94
+00:08:46,010 --> 00:08:48,528
+You were showing us something. Now what was it?
+
+95
+00:08:48,560 --> 00:08:50,384
+I tell you, I don't know what you're talking about.
+
+96
+00:08:50,448 --> 00:08:52,896
+The hangar, Polly, The Chameleon Hangar.
+
+97
+00:08:53,274 --> 00:08:55,580
+You said you'd seen the man who did it.
+
+98
+00:08:55,760 --> 00:08:58,720
+I didn't see anything. I think you're mad.
+
+99
+00:08:58,780 --> 00:09:01,136
+If I'd seen anyone shot, I'd have gone to the police...
+
+100
+00:09:01,184 --> 00:09:02,080
+Anyone shot?
+
+101
+00:09:02,720 --> 00:09:05,200
+I... I mean murdered...
+
+102
+00:09:05,776 --> 00:09:08,128
+I didn't say anyone was shot, or murdered, Polly.
+
+103
+00:09:08,192 --> 00:09:10,272
+Look, please, will you just leave me alone.
+
+104
+00:09:13,872 --> 00:09:14,912
+What's happened to her, Doctor?
+
+105
+00:09:14,992 --> 00:09:17,287
+I don't know. But I mean to find out.
+
+106
+00:09:17,584 --> 00:09:20,330
+Come on, let's find that place where we can talk.
+
+107
+00:09:26,976 --> 00:09:28,256
+Come in here.
+
+108
+00:09:32,960 --> 00:09:34,960
+I was going to brief you for this assignment,
+
+109
+00:09:35,024 --> 00:09:36,780
+but there isn't any purpose, now.
+
+110
+00:09:37,504 --> 00:09:38,992
+I have failed, then?
+
+111
+00:09:39,376 --> 00:09:41,338
+Circumstances are against you.
+
+112
+00:09:42,330 --> 00:09:45,392
+I'll make arrangements for you to leave on the next flight.
+
+113
+00:09:46,128 --> 00:09:47,328
+Back to base?
+
+114
+00:09:47,792 --> 00:09:48,720
+Yes.
+
+115
+00:09:50,032 --> 00:09:52,736
+What about that man? He's very persistent.
+
+116
+00:09:53,360 --> 00:09:55,072
+Don't worry about him.
+
+117
+00:09:55,744 --> 00:09:58,992
+We have ways of dealing with such people...
+
+118
+00:10:27,168 --> 00:10:28,400
+Are you sure you haven't seen him, sir?
+
+119
+00:10:28,496 --> 00:10:30,032
+I'm quite sure!
+
+120
+00:10:30,128 --> 00:10:34,016
+Oh Jean, this is Detective Inspector Crossland.
+Give him any help you can.
+
+121
+00:10:34,048 --> 00:10:35,888
+- If you'll excuse me? - Yes, of course, sir.
+
+122
+00:10:36,816 --> 00:10:39,472
+Well now Inspector, what can I do for you?
+
+123
+00:10:39,600 --> 00:10:41,380
+Well, I think I'll need a pass for a start.
+
+124
+00:10:41,550 --> 00:10:42,880
+Well that's easily arranged.
+
+125
+00:10:43,050 --> 00:10:44,100
+Anything else?
+
+126
+00:10:44,384 --> 00:10:46,560
+Yes, I was supposed to meet a colleague of mine here,
+
+127
+00:10:46,608 --> 00:10:48,480
+- a Detective Inspector Gascoigne.   - Yes?
+
+128
+00:10:48,576 --> 00:10:52,475
+Well, he was investigating a missing person
+off one of your charter flights.
+
+129
+00:10:52,672 --> 00:10:54,336
+The funny thing is, he hasn't shown up!
+
+130
+00:10:54,480 --> 00:10:55,952
+Detective-Inspector Crossland...
+
+131
+00:10:56,032 --> 00:10:57,680
+What shall I say your business is?
+
+132
+00:10:57,776 --> 00:11:01,840
+Investigation into Chameleon Youth Tours.
+
+133
+00:11:19,472 --> 00:11:20,864
+What is this place?
+
+134
+00:11:20,944 --> 00:11:22,530
+It's a machine that takes your photograph.
+
+135
+00:11:22,592 --> 00:11:23,560
+Photograph?
+
+136
+00:11:24,032 --> 00:11:25,152
+Well, you see you've got...
+
+137
+00:11:25,150 --> 00:11:28,592
+No Ben, not now. What puzzles me is
+this girl pretending to be Polly, yet...
+
+138
+00:11:28,656 --> 00:11:30,210
+yet in a way, she is Polly.
+
+139
+00:11:30,304 --> 00:11:31,690
+Do you think she's been brainwashed?
+
+140
+00:11:32,010 --> 00:11:33,028
+No, not in the time.
+
+141
+00:11:33,600 --> 00:11:36,144
+Whatever happened to her happened to her in a few minutes. Look out!
+
+142
+00:11:39,960 --> 00:11:46,304
+All right. Now Ben, Jamie, we've got to find out
+more about Chameleon Youth Tours,
+
+143
+00:11:46,624 --> 00:11:51,248
+but the trouble is, we're not free to
+move around with the authorities looking for us.
+
+144
+00:11:51,312 --> 00:11:52,720
+Well, they're not looking for me.
+
+145
+00:11:53,376 --> 00:11:56,176
+Well, that's true. You could investigate the hangar.
+
+146
+00:11:56,224 --> 00:11:57,344
+Leave it to me. Now what about you?
+
+147
+00:11:57,424 --> 00:11:58,892
+I'm going back to the Commandant
+
+148
+00:11:58,892 --> 00:12:01,472
+and try and convince him that there's a murderer abroad.
+
+149
+00:12:01,552 --> 00:12:02,832
+Well I'll go with Ben.
+
+150
+00:12:02,864 --> 00:12:07,056
+No, Jamie, I want you to find your way back
+to the Chameleon kiosk and keep an eye on Polly.
+
+151
+00:12:57,680 --> 00:12:59,104
+Oh! Err, are you in charge here?
+
+152
+00:12:59,168 --> 00:13:00,896
+Ah, yes. Can I help you?
+
+153
+00:13:00,960 --> 00:13:03,808
+Yes. I... I'm Samantha Briggs and I've come down from Liverpool.
+
+154
+00:13:04,352 --> 00:13:05,648
+Oh, really?
+
+155
+00:13:06,336 --> 00:13:08,560
+It's about my brother, Brian Briggs -
+
+156
+00:13:09,136 --> 00:13:10,496
+What about him?
+
+157
+00:13:11,240 --> 00:13:14,590
+He went on one of your tours, and now he's disappeared.
+
+158
+00:13:15,390 --> 00:13:17,760
+I'm sorry, I don't follow.
+
+159
+00:13:18,110 --> 00:13:19,952
+Well, it's really very simple.
+
+160
+00:13:20,288 --> 00:13:23,248
+I tried to get the telephone number of the hotel you sent him to,
+
+161
+00:13:23,280 --> 00:13:25,350
+and the operator said there was no such place.
+
+162
+00:13:25,440 --> 00:13:28,016
+Well, the operator must have been mistaken then.
+
+163
+00:13:29,150 --> 00:13:32,560
+So... I got in touch with the police
+
+164
+00:13:32,768 --> 00:13:36,144
+and they said that Brian wasn't staying at any hotel in Rome.
+
+165
+00:13:37,152 --> 00:13:41,360
+Well, um, perhaps he changed his mind
+and decided to go on a different tour then.
+
+166
+00:13:41,440 --> 00:13:44,320
+Well what about this then?
+
+167
+00:13:45,248 --> 00:13:48,880
+A post-card from Brian, posted in Rome!
+
 168
-00:16:26,358 --> 00:16:29,413
-Ah, Commandant. How nice to see you again.
+00:13:49,130 --> 00:13:51,056
+Yes, that does seem odd, doesn't it?
 
 169
-00:16:30,327 --> 00:16:31,953
-Airport Police please.
+00:13:51,248 --> 00:13:55,340
+Erm, would you like me to make some enquiries, for you?
 
 170
-00:16:32,988 --> 00:16:35,119
-At least hear what I have to say.
+00:13:55,552 --> 00:13:58,704
+Well, what do you think I've come all the way down from Liverpool for?
 
 171
-00:16:35,346 --> 00:16:36,922
-I've heard all I want to from you.
+00:13:58,784 --> 00:14:01,904
+Well - since you've put the matter with the police, why have you?
 
 172
-00:16:37,145 --> 00:16:40,126
-What do you mean, they're engaged. This is the Commandant. Thank you.
+00:14:01,968 --> 00:14:05,600
+Police. They said that dozens of people go missing every week
 
 173
-00:16:40,385 --> 00:16:46,693
-If you're going to speak to the police, then tell them that there's something happening in this airport that may endanger human lives.
+00:14:05,664 --> 00:14:08,048
+and they haven't got the men to go chasing after them all.
 
 174
-00:16:47,119 --> 00:16:50,983
-Hello police? Commandant. Would you send a couple of men down here at once please.
+00:14:08,096 --> 00:14:10,608
+I see. What did you say your brother's name was?
 
 175
-00:16:53,489 --> 00:17:00,551
-Since I'm obviously about to be arrested may I make one last request? Listen to me for just one minute.
+00:14:11,568 --> 00:14:16,560
+Brian Briggs. Would you like me to spell it for you?
 
 176
-00:17:00,807 --> 00:17:07,250
-Not for one second. I've heard all I want to hear about burnt fibres, ray guns, disappearing people...
+00:14:17,130 --> 00:14:19,344
+That won't be necessary, thank you.
 
 177
-00:17:07,436 --> 00:17:10,095
-But there was a dead body in the Chameleon Tours hangar!
+00:14:19,392 --> 00:14:22,144
+I'll see what I can find out, if you don't mind waiting.
 
 178
-00:17:10,263 --> 00:17:11,815
-Did you say "Chameleon Tours"?
+00:14:31,664 --> 00:14:33,392
+Is Captain Blade there?
 
 179
-00:17:11,981 --> 00:17:12,904
-Why, do you know something about it?
+00:14:33,580 --> 00:14:34,570
+No.
 
 180
-00:17:13,048 --> 00:17:14,596
-Well no, but the Inspector Crossland wanted to know...
+00:14:34,688 --> 00:14:39,090
+Well, I must speak with him - urgently.
+Enquiries about a missing passenger.
 
 181
-00:17:14,748 --> 00:17:16,110
-All right, Jean. I'll handle this.
+00:14:39,310 --> 00:14:41,450
+I'll tell him to contact you. He shouldn't be long.
 
 182
-00:17:16,323 --> 00:17:19,726
-Ah, take this man away, put him under lock and key and keep him there!
+00:14:47,950 --> 00:14:50,160
+The gentleman I wanted to speak with wasn't available,
 
 183
-00:17:20,036 --> 00:17:23,537
-One step nearer and I'll blow you all to smithereens!
+00:14:50,240 --> 00:14:52,720
+they're trying to find him. Do you want to wait?
 
 184
-00:17:24,086 --> 00:17:25,064
-Catch!
+00:14:52,896 --> 00:14:55,104
+Well, I've got nothing else to do, have I?
 
 185
-00:17:31,009 --> 00:17:33,058
-All right, after him!
+00:14:55,376 --> 00:14:56,832
+I'll be over there.
 
 186
-00:17:33,517 --> 00:17:36,809
-That's quite clear, is it? You know what to tell her?
+00:15:01,184 --> 00:15:02,800
+Oh blast!
 
 187
-00:17:37,134 --> 00:17:38,131
-I do.
+00:15:03,600 --> 00:15:05,104
+Is anything the matter?
 
 188
-00:17:38,801 --> 00:17:45,617
-As soon as you've got rid of the girl, close the kiosk and get on the next flight.
+00:15:05,280 --> 00:15:06,592
+Stuck up thing!
 
 189
-00:17:50,802 --> 00:17:52,057
-Miss Briggs.
+00:15:06,656 --> 00:15:08,448
+- What?  - Not you.
 
 190
-00:17:52,429 --> 00:17:53,951
-Yes. Have you found anything?
+00:15:09,930 --> 00:15:13,056
+That girl! She just couldn't care less.
 
 191
-00:17:54,190 --> 00:18:02,620
-Err, well yes, I have. But I'm afraid it doesn't help very much. Your brother definitely did get on our flight to Rome, but what he did when he got off the plane, I couldn't tell you.
+00:15:13,120 --> 00:15:14,680
+About finding your brother.
 
 192
-00:18:03,045 --> 00:18:05,391
-Well, if you can't, who can?
+00:15:14,960 --> 00:15:17,808
+- Yes.   - I couldn't help overhearing.
 
 193
-00:18:05,753 --> 00:18:18,334
-Miss Briggs, We're dealing with thousands of passengers every week. We can't keep track of every single one. If I were you, I'd go back to Liverpool. I'm sure your brother will turn up eventually. Now, if you'll excuse me, I have to close this kiosk.
+00:15:17,936 --> 00:15:19,824
+Do you think something's happened to him.
 
 194
-00:18:19,732 --> 00:18:21,164
-Thanks for nothing.
+00:15:20,096 --> 00:15:22,464
+Well, that's just it, I don't know.
 
 195
-00:18:25,425 --> 00:18:27,034
-There's something funny going on here.
+00:15:23,296 --> 00:15:26,832
+Oh, Brian can take care of himself all right, but still...
 
 196
-00:18:27,262 --> 00:18:27,872
-Why?
+00:15:26,912 --> 00:15:28,272
+Aye, well I hope you're right.
 
 197
-00:18:28,152 --> 00:18:30,980
-My brother's vanished, and that lot just couldn't care less.
+00:15:28,368 --> 00:15:31,060
+- What d'you mean?  - I might just be able to help you.
 
 198
-00:19:15,297 --> 00:19:30,368
-Hello? What's the name of the man who's in charge of this airport? The Commandant? Right, well look, can you put me through to his office, please? All right, then Air Traffic Control but I want to speak to a friend of mine who should be with the Commandant, right now...
+00:15:31,180 --> 00:15:33,088
+I can't tell you anything at the moment
 
 199
-00:19:34,819 --> 00:19:36,940
-Doctor, I'd like you to meet this young lady.
+00:15:33,100 --> 00:15:34,880
+but later I'd like you to meet a friend of mine.
 
 200
-00:19:37,125 --> 00:19:39,158
-What young lady? Where's Polly?
+00:15:34,992 --> 00:15:36,736
+I'm sure he'll know what's best.
 
 201
-00:19:39,388 --> 00:19:40,798
-She's still inside.
+00:15:49,248 --> 00:15:50,540
+Excuse me, sir.
 
 202
-00:19:41,009 --> 00:19:42,696
-Ah, I shan't be a minute.
+00:15:51,330 --> 00:15:53,590
+There's a gentleman to see you.
 
 203
-00:19:46,803 --> 00:19:47,793
-Polly...
+00:15:53,600 --> 00:15:54,950
+Did he say what about?
 
 204
-00:20:15,058 --> 00:20:19,360
-But why wouldn't you listen to him? It's all true. I'm in the Chameleon Hangar now and I've just f...
+00:15:54,976 --> 00:15:57,480
+Well yes. It's about a dead body.
 
 205
-00:20:19,574 --> 00:20:20,334
-Ben!
+00:16:00,272 --> 00:16:01,860
+Bring him in.
 
 206
-00:20:21,280 --> 00:20:22,633
-Ben, can you hear me?
+00:16:02,976 --> 00:16:04,850
+- Would you come in, please?  - Thank you.
 
 207
-00:20:25,995 --> 00:20:27,774
-Ben, can you hear me?
+00:16:06,352 --> 00:16:09,910
+Ah, Commandant. How nice to see you again.
 
 208
-00:20:36,434 --> 00:20:47,255
-Ben, are you all right, can you hear me? Ben! Ben! Ben, can you hear me?
+00:16:10,384 --> 00:16:12,450
+Airport Police please.
 
 209
-00:20:49,782 --> 00:20:50,742
-Who is he?
+00:16:12,800 --> 00:16:15,056
+At least hear what I have to say.
 
 210
-00:20:50,943 --> 00:20:52,490
-A friend of that Doctor on the screen.
+00:16:15,136 --> 00:16:16,800
+I've heard all I want to from you.
 
 211
-00:20:53,645 --> 00:20:55,087
-Did he see what happened in there?
+00:16:16,896 --> 00:16:19,952
+What do you mean, they're engaged.
+This is the Commandant. Thank you.
 
 212
-00:20:55,386 --> 00:20:56,429
-He must have done.
+00:16:20,080 --> 00:16:22,912
+If you're going to speak to the police, then tell them that
 
 213
-00:20:57,214 --> 00:21:02,597
-Then he'll be coming here. We'd better be prepared for him. First, dispose of the body.
+00:16:22,976 --> 00:16:26,816
+there's something happening in this airport
+that may endanger human lives.
 
 214
-00:21:07,876 --> 00:21:08,841
-Who is he?
+00:16:26,890 --> 00:16:28,720
+Hello police? Commandant.
 
 215
-00:21:09,115 --> 00:21:12,467
-His name's Brian Briggs. Supposed to have come through here about a week ago, on holiday.
+00:16:28,832 --> 00:16:31,312
+Would you send a couple of men down here at once please.
 
 216
-00:21:12,694 --> 00:21:14,429
-Thousands of people come through here a week.
+00:16:33,104 --> 00:16:37,050
+Since I'm obviously about to be arrested
+may I make one last request?
 
 217
-00:21:14,625 --> 00:21:15,738
-Aye, well it was just a chance.
+00:16:37,232 --> 00:16:39,728
+Listen to me for just one minute.
 
 218
-00:21:16,072 --> 00:21:17,123
-Do you remember that man?
+00:16:39,820 --> 00:16:41,792
+Not for one second.
 
 219
-00:21:17,325 --> 00:21:21,162
-Oh yes, I remember him. He had a pass. But I can't remember his name.
+00:16:41,850 --> 00:16:46,560
+I've heard all I want to hear about burnt fibres,
+ray guns, disappearing bodies...
 
 220
-00:21:21,341 --> 00:21:25,170
-He's a colleague of mine, Detective Inspector Gascoigne. Now when did he come back?
+00:16:46,608 --> 00:16:49,200
+But there was a dead body in the Chameleon Tours hangar!
 
 221
-00:21:25,804 --> 00:21:31,291
-I couldn't tell you. There are so many faces. There was a bit of bother this morning, he could have slipped through then.
+00:16:49,340 --> 00:16:50,448
+Did you say "Chameleon Tours"?
 
 222
-00:21:31,461 --> 00:21:32,533
-What sort of bother?
+00:16:50,490 --> 00:16:52,528
+- Why, do you know something about it?  - Well, no.
 
 223
-00:21:32,725 --> 00:21:36,822
-Two people without passports, who told some sort of story about a body in a hangar.
+00:16:52,590 --> 00:16:55,152
+- But the Inspector Crossland wanted to know...
+- All right, Jean. I'll handle this.
 
 224
-00:21:37,785 --> 00:21:38,948
-What happened?
+00:16:55,248 --> 00:16:58,656
+Ah, take this man away,
+put him under lock and key and keep him there!
 
 225
-00:21:39,213 --> 00:21:43,576
-Ah, it was all a hoax. These two men they ran away. The airport police are still looking for them!
+00:16:59,040 --> 00:17:02,320
+One step nearer and I'll blow you all to smithereens!
 
 226
-00:21:43,747 --> 00:21:45,243
-Can you describe them to me?
+00:17:03,104 --> 00:17:04,208
+Catch!
 
 227
-00:21:45,418 --> 00:21:53,334
-One was a scruffy-looking man, medium-height, wearing a frock-coat, the other was a Scots boy dressed in a kilt!
+00:17:09,552 --> 00:17:11,800
+All right, after him!
 
 228
-00:21:53,650 --> 00:21:55,079
-Oh, shouldn't be too hard to find.
+00:17:12,260 --> 00:17:15,550
+That's quite clear, is it?
+You know what to tell her?
 
 229
-00:22:01,797 --> 00:22:04,671
-Hey, you think we should go after your friend? He's been gone about ten minutes now.
+00:17:15,880 --> 00:17:16,880
+I do.
 
 230
-00:22:04,879 --> 00:22:07,093
-No, he said half a hour. Now, we'll do what he said.
+00:17:17,456 --> 00:17:21,488
+As soon as you've got rid of the girl, close the kiosk
 
 231
-00:22:09,498 --> 00:22:11,506
-Hey, he is a right weirdy, isn't he?
+00:17:22,090 --> 00:17:24,360
+and get on the next flight.
 
 232
-00:22:11,702 --> 00:22:14,299
-No! I wish I had his brains.
+00:17:29,168 --> 00:17:30,640
+Miss Briggs.
 
 233
-00:22:16,050 --> 00:22:17,951
-You're all right as you are.
+00:17:30,960 --> 00:17:32,700
+Yes. Have you found anything?
 
 234
-00:22:26,224 --> 00:22:36,826
-Chameleon Youth Tours announce the departure of their flight Number Four-One-Three to Zurich. Will all passengers please assemble in the departure lounge. Chameleon Youth Tours ann...
+00:17:32,940 --> 00:17:33,973
+Err, well yes, I have.
 
 235
-00:22:37,179 --> 00:22:39,277
-Hey, look, they've opened up that kiosk now.
+00:17:33,973 --> 00:17:35,904
+But I'm afraid it doesn't help very much.
 
 236
-00:22:39,499 --> 00:22:40,909
-Aye, and where's Polly?
+00:17:35,900 --> 00:17:38,512
+Your brother definitely did get on our flight to Rome,
 
 237
-00:22:41,116 --> 00:22:44,204
-...Will all passengers please assemble in the departure lounge.
+00:17:38,590 --> 00:17:41,200
+but what he did when he got off the plane, I couldn't tell you.
 
 238
-00:23:20,788 --> 00:23:21,972
-Packing cases!
+00:17:41,520 --> 00:17:43,696
+Well, if you can't, who can?
 
 239
-00:23:23,559 --> 00:23:38,601
-I'm quite sure the first thing you want to do when you get to Switzerland is write home to your parents... But in case you don't have time, Chameleon Tours have some postcards of Zurich ready for you to write here. When you've finished your postcards, give them back to me and we'll post them for you in Zurich.
+00:17:44,500 --> 00:17:47,040
+Miss Briggs, We're dealing with
+ thousands of passengers every week.
 
 240
-00:23:39,952 --> 00:23:41,643
-Eh, do you mind?
+00:17:47,100 --> 00:17:49,136
+We can't keep track of every single one.
 
 241
-00:23:41,903 --> 00:23:42,863
-No, go ahead.
+00:17:49,328 --> 00:17:51,136
+If I were you, I'd go back to Liverpool.
 
 242
-00:23:43,972 --> 00:23:48,961
-Look! A postcard of Zurich, stamped with a Swiss stamp, all ready to post.
+00:17:51,248 --> 00:17:53,744
+I'm sure your brother will turn up eventually.
 
 243
-00:23:49,293 --> 00:23:50,006
-Well?
+00:17:53,824 --> 00:17:56,704
+Now, if you'll excuse me, 
+I have to close this kiosk.
 
 244
-00:23:50,331 --> 00:23:58,339
-Oh, you're a right one, aren't you. Don't you see. This could explain the card I got from Brian. It was posted in Rome, but that doesn't mean to say that he posted it!
+00:17:57,888 --> 00:17:59,136
+Thanks for nothing.
 
 245
-00:23:58,835 --> 00:24:04,223
-Oh I see. We'd better tell the Doctor about this! Er, how long's he been gone?
+00:18:03,320 --> 00:18:06,480
+- There's something funny going on here.   - Why?
 
 246
-00:24:04,528 --> 00:24:05,759
-Err, about half a hour, now.
+00:18:06,560 --> 00:18:09,104
+My brother's vanished, 
+and that lot just couldn't care less.
 
 247
-00:24:06,062 --> 00:24:07,074
-Right, I'll go and find him.
+00:18:52,256 --> 00:18:56,336
+Hello? What's the name of the man
+ who's in charge of this airport?
 
 248
-00:24:07,308 --> 00:24:08,226
-I'll come with you.
+00:18:57,040 --> 00:18:58,240
+The Commandant?
 
 249
-00:24:08,451 --> 00:24:11,131
-Just a minute, son. I want a word with you.
+00:18:58,480 --> 00:19:00,784
+Right, well look, can you put me 
+through to his office, please?
 
 250
-00:24:21,621 --> 00:24:25,343
-Somebody, help me... please... I'm suffocating...
+00:19:02,192 --> 00:19:04,192
+All right, then Air Traffic Control
 
 251
-00:24:28,701 --> 00:24:39,321
-Quickly, somebody help me please... I'm suffocating... Help me, please!
+00:19:04,256 --> 00:19:07,616
+but I want to speak to a friend of mine 
+who should be with the Commandant, right now...
+
+252
+00:19:11,740 --> 00:19:13,840
+Doctor, I'd like you to meet this young lady.
+
+253
+00:19:13,870 --> 00:19:15,900
+What young lady? Where's Polly?
+
+254
+00:19:16,130 --> 00:19:17,540
+She's still inside.
+
+255
+00:19:17,750 --> 00:19:19,440
+Ah, I shan't be a minute.
+
+256
+00:19:23,550 --> 00:19:24,540
+Polly...
+
+257
+00:19:51,040 --> 00:19:53,360
+But why wouldn't you listen to him? It's all true.
+
+258
+00:19:53,456 --> 00:19:55,744
+I'm in the Chameleon Hangar now and I've just f...
+
+259
+00:19:56,320 --> 00:19:57,080
+Ben!
+
+260
+00:19:57,296 --> 00:19:58,576
+Ben, can you hear me?
+
+261
+00:20:01,904 --> 00:20:03,616
+Ben, can you hear me?
+
+262
+00:20:13,180 --> 00:20:15,616
+Ben, are you all right, can you hear me? Ben!
+
+263
+00:20:16,944 --> 00:20:17,936
+Ben!
+
+264
+00:20:21,056 --> 00:20:22,784
+Ben, can you hear me?
+
+265
+00:20:24,800 --> 00:20:25,920
+Who is he?
+
+266
+00:20:26,048 --> 00:20:27,740
+A friend of that Doctor on the screen.
+
+267
+00:20:28,800 --> 00:20:30,330
+Did he see what happened in there?
+
+268
+00:20:30,630 --> 00:20:31,670
+He must have done.
+
+269
+00:20:32,460 --> 00:20:35,056
+Then he'll be coming here. 
+We'd better be prepared for him.
+
+270
+00:20:36,032 --> 00:20:37,840
+First, dispose of the body.
+
+271
+00:20:42,752 --> 00:20:43,632
+Who is he?
+
+272
+00:20:43,728 --> 00:20:45,104
+His name's Brian Briggs.
+
+273
+00:20:45,200 --> 00:20:47,392
+Supposed to have come through here 
+about a week ago, on holiday.
+
+274
+00:20:47,568 --> 00:20:49,310
+Thousands of people come through here a week.
+
+275
+00:20:49,392 --> 00:20:50,736
+Aye, well it was just a chance.
+
+276
+00:20:50,960 --> 00:20:53,104
+- Do you remember that man? 
+- Oh yes, I remember him.
+
+277
+00:20:53,248 --> 00:20:55,984
+He had a pass. But I can't remember his name.
+
+278
+00:20:56,032 --> 00:20:58,704
+He's a colleague of mine, Detective Inspector Gascoigne.
+
+279
+00:20:58,752 --> 00:21:00,128
+Now when did he come back?
+
+280
+00:21:00,190 --> 00:21:02,816
+I couldn't tell you. There are so many faces.
+
+281
+00:21:03,088 --> 00:21:05,840
+There was a bit of bother this morning, 
+he could have slipped through then.
+
+282
+00:21:05,920 --> 00:21:06,976
+What sort of bother?
+
+283
+00:21:07,080 --> 00:21:11,504
+Two people without passports, 
+who told some sort of story about a body in a hangar.
+
+284
+00:21:12,320 --> 00:21:14,464
+- What happened?
+- Ah, it was all a hoax.
+
+285
+00:21:14,656 --> 00:21:17,408
+These two men they ran away. 
+The airport police are still looking for them!
+
+286
+00:21:17,536 --> 00:21:18,848
+Can you describe them to me?
+
+287
+00:21:19,710 --> 00:21:24,800
+One was a scruffy-looking man, 
+medium-height, wearing a frock-coat,
+
+288
+00:21:25,232 --> 00:21:27,520
+the other was a Scots boy dressed in a kilt!
+
+289
+00:21:27,680 --> 00:21:29,792
+Oh, shouldn't be too hard to find.
+
+290
+00:21:35,776 --> 00:21:38,624
+Hey, you think we should go after your friend? 
+He's been gone about ten minutes now.
+
+291
+00:21:38,720 --> 00:21:41,344
+No, he said half a hour. Now, we'll do what he said.
+
+292
+00:21:43,328 --> 00:21:45,104
+Hey, he is a right weirdy, isn't he?
+
+293
+00:21:45,248 --> 00:21:48,032
+No! I wish I had his brains.
+
+294
+00:21:49,760 --> 00:21:51,632
+You're all right as you are.
+
+295
+00:21:59,216 --> 00:22:04,240
+Chameleon Youth Tours announce the departure 
+of their flight Number Four-One-Three to Zurich.
+
+296
+00:22:04,416 --> 00:22:08,416
+Will all passengers please assemble in the departure lounge.
+
+297
+00:22:08,544 --> 00:22:10,080
+Chameleon Youth Tours ann...
+
+298
+00:22:10,160 --> 00:22:12,448
+Hey, look, they've opened up that kiosk now.
+
+299
+00:22:12,576 --> 00:22:14,208
+Aye, and where's Polly?
+
+300
+00:22:14,352 --> 00:22:18,416
+...Will all passengers please assemble in the departure lounge.
+
+301
+00:22:53,152 --> 00:22:54,624
+Packing cases!
+
+302
+00:22:55,680 --> 00:22:59,072
+I'm quite sure the first thing you want to do
+ when you get to Switzerland
+
+303
+00:22:59,104 --> 00:23:00,520
+is write home to your parents...
+
+304
+00:23:00,720 --> 00:23:02,356
+But in case you don't have time,
+
+305
+00:23:02,356 --> 00:23:06,144
+Chameleon Tours have some postcards of Zurich 
+ready for you to write here.
+
+306
+00:23:06,224 --> 00:23:08,288
+When you've finished your postcards,
+
+307
+00:23:08,352 --> 00:23:10,752
+give them back to me and we'll post them for you in Zurich.
+
+308
+00:23:11,904 --> 00:23:13,856
+Eh, do you mind?
+
+309
+00:23:13,936 --> 00:23:15,200
+No, go ahead.
+
+310
+00:23:16,240 --> 00:23:18,464
+Look! A postcard of Zurich,
+
+311
+00:23:18,528 --> 00:23:21,240
+stamped with a Swiss stamp, all ready to post.
+
+312
+00:23:21,312 --> 00:23:23,904
+- Well?   - Oh, you're a right one, aren't you.
+
+313
+00:23:23,968 --> 00:23:26,848
+Don't you see. This could explain the card I got from Brian.
+
+314
+00:23:26,912 --> 00:23:30,580
+It was posted in Rome, but that doesn't 
+mean to say that he posted it!
+
+315
+00:23:31,072 --> 00:23:34,400
+Oh I see. We'd better tell the Doctor about this!
+
+316
+00:23:34,400 --> 00:23:36,208
+Er, how long's he been gone?
+
+317
+00:23:36,256 --> 00:23:37,680
+Err, about half a hour, now.
+
+318
+00:23:37,760 --> 00:23:39,776
+- Right, I'll go and find him.
+- I'll come with you.
+
+319
+00:23:39,968 --> 00:23:42,592
+Just a minute, son. 
+I want a word with you.
+
+320
+00:23:51,600 --> 00:23:55,952
+Somebody, help me... please... 
+I'm suffocating...
+
+321
+00:23:56,704 --> 00:24:00,496
+Quickly, somebody help me please...
+
+322
+00:24:00,656 --> 00:24:02,784
+I'm suffocating...
+
+323
+00:24:03,066 --> 00:24:06,444
+Help me, please!
 
