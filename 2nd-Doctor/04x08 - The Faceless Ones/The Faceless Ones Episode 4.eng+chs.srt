@@ -80,7 +80,7 @@ This is Plane Number Three to Base.
 
 17
 00:02:48,230 --> 00:02:51,728
-告诉总监我已经按他吩咐给他找了一个替身
+告诉总管我已经按他吩咐给他找了一个替身
 Inform the Director that I have
 an original for him as ordered.
 
@@ -141,9 +141,9 @@ Aye. Doctor, it... it's moving towards us!
 
 29
 00:03:29,344 --> 00:03:31,916
-这对于将要发生在我们身上事来说，只是一道小小的开胃菜//
+这对于将要发生在我们身上的事来说，只是一道小小的开胃菜
 That's just a small fore-taste
-of what'll happen to us
+of what'll happen to us //
 
 30
 00:03:32,044 --> 00:03:33,616
@@ -239,7 +239,7 @@ we've got a chance.
 
 48
 00:04:43,760 --> 00:04:46,256
-你不能拿什么东西撑住它吗FIXME
+你不能拿什么东西撑住它吗
 Can't you prop it up on something?
 
 49
@@ -248,36 +248,35 @@ Can't you prop it up on something?
 No, it won't work.
 I'll... I'll have to hold it.//
 
-
 50
 00:04:47,992 --> 00:04:49,496
-But your...your hand!//
 但是你...你的手！
+But your...your hand!//
 
 51
 00:04:49,670 --> 00:04:51,632
-It's a risk I'll have to take.
 这个风险我不得不担
+It's a risk I'll have to take.
 
 52
 00:04:53,450 --> 00:04:54,650
-Quick Jamie! Now!
 快 Jamie！赶紧！
+Quick Jamie! Now!
 
 53
 00:04:58,304 --> 00:05:00,310
-Oh, well done!
 噢，干得好！
+Oh, well done!
 
 54
 00:05:03,472 --> 00:05:05,344
-Why... I can move!
 为什么...我动不了！
+Why... I can move!
 
 55
 00:05:06,000 --> 00:05:07,296
-I... I wonder if...
 我...我觉得可能...
+I... I wonder if...
 
 56
 00:05:07,552 --> 00:05:10,592
@@ -464,7 +463,7 @@ We'll have you as right as rain in a minute.
 
 90
 00:06:41,488 --> 00:06:44,208
-现在在这里坐下，就这里
+现在在这里坐下FIXME，就这里
 Now just get you down here. There we are.
 
 91
@@ -501,12 +500,12 @@ Nurse. I'm his doctor.
 
 97
 00:07:04,208 --> 00:07:07,252
-如果他...他不能很尽快恢复，我们得
+如果他...他不能很快恢复，我们就...
 If he... if he doesn't rally soon we shall err... //
 
 98
 00:07:07,308 --> 00:07:09,152
-我们得给他用点梭玛林
+我们就得给他用点梭玛林
 we shall have to use somnalin.
 
 99
@@ -896,7 +895,7 @@ and neither are you.
 00:10:41,152 --> 00:10:44,380
 我要登上变色龙的下一次航班，还有半小时起飞
 I'm going on the next Chameleon flight,
-that leaves in half a hour.
+that leaves in half an hour.
 
 171
 00:10:44,960 --> 00:10:49,072
@@ -984,7 +983,7 @@ I've never seen that much money in my life.
 
 185
 00:11:28,512 --> 00:11:32,448
-- 我估计..我可以替你去？ - 不行
+- 我估计..我不能可以替你去吗？ - 不行
 - I suppose I... I couldn't take your place?
 - No!
 
@@ -1016,9 +1015,9 @@ I just wanted to make sure.
 Hmm. So you can arrange to have it followed?
 
 191
-00:11:56,064 --> 00:12:57,528
+00:11:56,064 --> 00:11:57,528
 好，我会搞明白的
-Good. Oh I'll find out.
+Good. Oh I'll find out.//
 
 192
 00:11:57,664 --> 00:12:00,128
@@ -1215,7 +1214,7 @@ I see. Oh well, these'll have to wait.
 
 228
 00:14:59,830 --> 00:15:02,346
-变色龙青年观光游通知您，//
+变色龙青年观光游通知您//
 Chameleon Youth Tours announce the departure
 
 229
@@ -1514,7 +1513,7 @@ It's a fighter. Give me a radar reading.
 
 285
 00:18:13,344 --> 00:18:15,744
-23x79​
+方位23-79​
 Two-three decimal seven-nine.
 
 286
@@ -1598,7 +1597,7 @@ Report to the flight deck immediately.
 00:19:24,160 --> 00:19:28,112
 下一航班有多少人需要护照才能离开机场？
 How many people require passports 
-in order to leave the airport on the next flight.
+in order to leave the airport on the next flight?
 
 302
 00:19:28,190 --> 00:19:30,912

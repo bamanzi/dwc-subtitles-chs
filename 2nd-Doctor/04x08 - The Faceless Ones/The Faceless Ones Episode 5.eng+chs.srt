@@ -100,7 +100,7 @@ Their minds can't cope with an operation like this.
 
 20
 00:01:52,576 --> 00:01:56,400
-要记得我们总监的教导：地球人的智力
+要记得我们总管的教导：地球人的智力
 Remember the teaching of our Director -
 the intelligence of Earth people
 
@@ -408,7 +408,7 @@ the passengers are miniaturised.
 
 79
 00:07:10,304 --> 00:07:14,640
-我明白了。你们有多少人现在在盖特威克机场？
+我明白了。你们有多少人在盖特威克机场？
 I see. How many of your people
 are working here at Gatwick Airport?
 
@@ -440,7 +440,7 @@ I... I don't know exactly where.
 
 85
 00:07:28,864 --> 00:07:31,008
-我要把这个地方翻个底朝天，来找到他们
+我把这个地方翻个底朝天，也要找到他们
 I'll have the whole place
 torn to pieces to find them.
 
@@ -629,12 +629,12 @@ Certainly. I've seen all I want to see.
 
 121
 00:09:34,144 --> 00:09:36,144
-我来拿这个，如果你不介意的话FIXME
+我来拿着这个，如果你不介意的话
 I'll have that, if you don't mind!
 
 122
 00:09:40,128 --> 00:09:42,048
-好了，她的原身在哪里？
+好了，她的真身在哪里？
 Now then, where is her original?
 
 123
@@ -681,7 +681,7 @@ I thought I was done for there.
 
 131
 00:10:08,380 --> 00:10:11,424
-- 你在干什么？  - FIXME
+- 你这是要干什么？  - 只是检查一下
 - What are you doing? - Just checking up!
 
 132
@@ -767,18 +767,18 @@ Doctor, what's happened to Jamie?
 
 148
 00:11:45,952 --> 00:11:47,712
-这些东西到底是做什么用的？FIXME
+这些东西到底是做什么用的？
 What on Earth are these doing here?
 
 149
 00:11:47,952 --> 00:11:50,384
-博士，上一次Jamie并不在柜台附近啊FIXME
+博士，Jamie上一次并不在柜台附近
 Doctor, Jamie wasn't anywhere
 near the kiosk the last time...
 
 150
 00:11:50,544 --> 00:11:53,200
-嘿你都没有在听，我觉得他们抓走了 Jamie!
+嘿你根本没在听，我觉得他们抓走了Jamie!
 Look you're not listening.
 I think they've got Jamie!
 
@@ -962,7 +962,7 @@ a mind superior even to his.
 
 185
 00:13:42,784 --> 00:13:44,208
-总监的脑子
+总管的脑子
 The mind of the Director.
 
 186
@@ -982,7 +982,7 @@ You seem to know a lot about it, Inspector.
 
 189
 00:13:52,192 --> 00:13:55,472
-我当然知道，Jamie。我就是总监！
+我当然知道，Jamie。我就是总管！
 Of course I do, Jamie. I am the Director!
 
 190
@@ -993,7 +993,7 @@ where the Chameleon plane vanished.
 
 191
 00:14:35,952 --> 00:14:36,902
-我想知道它还会不会在这里出现
+我想知道它会不会重新在这里出现
 I want to know if it reappears there.//
 
 192
@@ -1055,7 +1055,7 @@ Chameleon Air Schedules.
 
 203
 00:14:58,400 --> 00:15:01,680
-你看这里？他们这个季节的最后一班还有不到一个小时
+你看到了没？他们这个季节的最后一班还有不到一个小时
 You see here? Their last flight
 of the season goes in an hour.
 
@@ -1153,7 +1153,7 @@ getting on that plane, but how?
 
 221
 00:15:45,184 --> 00:15:47,680
-当前来看，你看起来像是一个叫 Meadows 的人
+在当下，你看起来像是一个叫 Meadows 的人
 At the moment, you look like a man called Meadows.
 
 222
@@ -1208,9 +1208,8 @@ are hidden somewhere here in Gatwick Airport.
 
 231
 00:16:15,240 --> 00:16:16,920
-- 你必须给找出来  - 当然，
-- You have got to find them.
-- Of course //
+- 你必须给找出来  - 当然
+- You have got to find them.  - Of course //
 
 232
 00:16:17,040 --> 00:16:18,320
@@ -1234,8 +1233,8 @@ Otherwise we lose our one threat -//
 
 236
 00:16:23,160 --> 00:16:25,280
+而这可能是我同他们讨价还价的唯一筹码！
 the one thing I may be able to bargain with!
-这可能是我能同他们讨价还价的唯一筹码！
 
 237
 00:16:25,376 --> 00:16:28,304
@@ -1278,7 +1277,7 @@ think of those young people.
 
 244
 00:16:53,328 --> 00:16:55,008
-很是方便FIXME
+很是方便啊
 How very convenient.
 
 245
@@ -1288,7 +1287,7 @@ How very convenient.
 
 246
 00:16:58,560 --> 00:17:01,648
-这是 Meadows，他得重新处理一下
+这是 Meadows，他已经被重新转化了
 This is Meadows. He had to be re-processed.
 
 247
@@ -1298,12 +1297,12 @@ Why?
 
 248
 00:17:04,840 --> 00:17:08,608
-博士已经很怀疑这个 Meadows 了
+博士已经很怀疑我的那个 Meadows 身份了
 The Doctor became too suspicious of me as Meadows.
 
 249
 00:17:08,944 --> 00:17:12,432
-我成功绑架了他。FIXME
+我成功绑架了他，然后就是你眼前这个人了
 I was able to kidnap him.
 The rest is as you can see.
 
@@ -1315,7 +1314,7 @@ someone in Air Traffic Control.
 
 251
 00:17:18,480 --> 00:17:21,712
-当然我们掌控了博士的脑子也很不错
+当然我们掌控住了博士的脑子也很不错
 But then of course we have possession
 of the Doctor's brain.
 
@@ -1402,7 +1401,7 @@ We leave in fifteen minutes.
 
 267
 00:18:10,208 --> 00:18:13,360
-不管怎么说我们可以上飞机了，快点，我们别晚了
+不管怎么说我们可以上那架飞机了，快，我们别晚了
 However we've got aboard that plane.
 Come on, don't let's be late.
 
@@ -1483,7 +1482,7 @@ That means he's rising above our radar umbrella.
 
 282
 00:19:00,030 --> 00:19:01,870
-啊，警司，真是你啊
+啊，警司，终于找到你了
 Ah Superintendent, the very man.
 
 283
@@ -1567,7 +1566,7 @@ The Doctor's relying on us.
 
 298
 00:19:54,560 --> 00:20:00,256
-成千上万人的性命有赖于我们找到那些真身，还得快！
+成千上万人的性命有赖于我们找到那些原身，还得快！
 Thousands of lives are depending on us
 finding those originals - and quickly!
 
@@ -1650,7 +1649,7 @@ Excellent.
 
 314
 00:21:28,640 --> 00:21:30,224
-- 总监  - 什么事？
+- 总管  - 什么事？
 - Director.  - What is it?
 
 315
@@ -1686,7 +1685,7 @@ His knowledge is even greater than ours.
 
 321
 00:21:49,232 --> 00:21:52,544
-总监，这个人对我们是个危险，必须被消灭
+总管，这个人对我们是个危险，必须被消灭
 Director, this man is a danger to us,
 he should be destroyed.
 
