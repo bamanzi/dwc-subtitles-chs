@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:32,444 --> 00:00:35,377
 有谁能帮帮我, 求求你们
 <i>Somebody help me, please.</i>
@@ -10,7 +10,7 @@
 
 3
 00:00:37,840 --> 00:00:40,910
-快点，有谁能帮帮我...
+快点, 有谁能帮帮我...
 <i>Quickly! Somebody help me, please!</i>
 
 4
@@ -20,24 +20,24 @@
 
 5
 00:00:44,111 --> 00:00:47,000
-帮帮我，求求你们！
+帮帮我, 求求你们!
 <i>Help me! Please!</i>
 
 6
 00:03:13,577 --> 00:03:15,488
-那，但我的弟弟怎么办？
+那, 但我的弟弟怎么办?
 Yeah, but what about me brother?
 
 7
 00:03:15,640 --> 00:03:18,066
-恐怕我现在有更严重的情况要查，小姐
-I'm afraid I've got something 
+恐怕我现在有更严重的情况要查, 小姐
+I'm afraid I've got something
 more serious to look into first, Miss.
 
 8
 00:03:18,222 --> 00:03:19,550
 如果这个年轻人说的是实情
-If this young man's telling the truth,//
+If this young man's telling the truth,
 
 9
 00:03:19,622 --> 00:03:20,750
@@ -46,33 +46,33 @@ a colleague of mine's been murdered.
 
 10
 00:03:20,888 --> 00:03:24,377
-- 博士，这个人有话和你说  - 哦，是谁？
+- 博士, 这个人有话和你说  - 哦, 是谁?
 - Doctor, this man wants to talk to you. - Oh, Who is he?
 
 11
 00:03:24,666 --> 00:03:25,666
-就是这位，先生
+就是这位, 先生
 There you are, sir.
 
 12
 00:03:26,022 --> 00:03:29,222
-Crossland 督察，苏格兰场
+Crossland 督察, 苏格兰场
 "Detective Inspector Crossland. Scotland Yard. "
 
 13
 00:03:29,355 --> 00:03:32,600
-- 我把一切都告诉他了  - 你见过这个人吗？
+- 我把一切都告诉他了  - 你见过这个人吗?
 - I told him everything.
 - Have you ever seen that man?
 
 14
 00:03:32,933 --> 00:03:35,977
-就是我们在变色龙机库发现的那个人！
+就是我们在变色龙机库发现的那个人!
 Well, that's the man we found in the Chameleon Tours hangar.
 
 15
 00:03:48,200 --> 00:03:50,933
-博士的尸体呢，在哪儿
+博士的尸体呢, 在哪儿
 The Doctor's body. Where is it?
 
 16
@@ -87,12 +87,12 @@ His intelligence is far above normal beings.
 
 18
 00:04:01,266 --> 00:04:03,577
-也在你之上，估计
+也在你之上, 估计
 Above YOURS, perhaps
 
 19
 00:04:04,266 --> 00:04:07,422
-我得走了，去苏黎世的飞机已经准备起飞了
+我得走了, 去苏黎世的飞机已经准备起飞了
 I must leave. The flight to Zurich is ready to take off.
 
 20
@@ -102,17 +102,17 @@ You will remain here.
 
 21
 00:04:09,444 --> 00:04:13,711
-- 为什么目的？ - 弥补你的无能
+- 为什么目的?  - 弥补你的无能
 - For what purpose? - To atone for your incompetence.
 
 22
 00:04:13,888 --> 00:04:17,933
-博士必须死，你必须搞定
+博士必须死, 你必须搞定
 The Doctor must die, and you must do it.
 
 23
 00:04:23,155 --> 00:04:25,000
-好了，博士，我们去见总指挥
+好了, 博士, 我们去见总指挥
 All right then, Doctor, we'll go and see the commandant.
 
 24
@@ -122,40 +122,40 @@ I want him to hear your story.
 
 25
 00:04:26,310 --> 00:04:29,355
-但是，上一次他并没有太相信
+但是, 上一次他并没有太相信
 Well, he wasn't very impressed with it the last time.
 
 26
 00:04:29,440 --> 00:04:31,111
-这一次，他会相信你
+这一次, 他会相信你
 This time, he's gonna believe you.
 
 27
 00:04:31,355 --> 00:04:33,200
-好吧，如果你觉得
+好吧, 如果你觉得
 Well, if you think so.
 
 28
 00:04:33,640 --> 00:04:36,790
-Jamie，待在这里盯着柜台，我们不会很久
+Jamie, 待在这里盯着柜台, 我们不会很久
 Jamie, stay here and keep an eye on the kiosk.
 We shan't be long.
 
 29
 00:04:36,960 --> 00:04:40,350
-别担心你的弟弟，小姐。我们会替你找到他
+别担心你的弟弟, 小姐. 我们会替你找到他
 Don't worry about your brother, Miss.
 We'll find him for you.
 
 30
 00:04:40,844 --> 00:04:44,670
-- 这个督察以后会很出色的！  - 但他相信我们
-- A fat lot of good that inspector's going to be! 
+- 这个督察以后会很出色的!   - 但他相信我们
+- A fat lot of good that inspector's going to be!
 - But he believes us.
 
 31
 00:04:44,673 --> 00:04:47,800
-哦，是，不过那也不代表他肯定会采取什么措施
+哦, 是, 不过那也不代表他肯定会采取什么措施
 Oh, year, but that doesn't mean to say
 he's going to do anything.
 
@@ -172,99 +172,99 @@ Not by yourself.
 
 34
 00:04:53,588 --> 00:04:56,470
-是啊，我觉得要是有位男士陪我去，肯定会好些
+是啊, 我觉得要是有位男士陪我去, 肯定会好些
 Well, I suppose it would be better
 if I had a man with me.
 
 35
 00:04:56,640 --> 00:05:00,190
-是，如果博士没让我盯着这个地方就好了
+是, 如果博士没让我盯着这个地方就好了
 Aye. If only the Doctor hadn't told me
 to watch this place.
 
 36
 00:05:00,360 --> 00:05:02,470
-哦，你是不是总是按别人的吩咐做事？
+哦, 你是不是总是按别人的吩咐做事?
 Oh, do you always do everything you're told?
 
 37
 00:05:02,660 --> 00:05:05,070
-不是，但是博士信任我
+不是, 但是博士信任我
 No, but the Doctor trusts me.
 
 38
 00:05:05,240 --> 00:05:06,908
-哦，这就是你的问题了，对不？
-Yeah, that's your trouble, isn't it! //
+哦, 这就是你的问题了, 对不?
+Yeah, that's your trouble, isn't it!
 
 39
-00:05:07,240 --> 00:05:08,488
-好吧，待在这里
+00:05:07,040 --> 00:05:08,480
+好吧, 待在这里
 All right, stay here.
 
 40
 00:05:08,555 --> 00:05:10,760
-毕竟，他们最多也只能杀了我，拜拜
+毕竟, 他们最多也只能杀了我, 拜拜
 After all, they can only murder me. Ta-ra.
 
 41
-00:05:10,920 --> 00:05:11,966
-不，等等
-No, wait a minute. //
+00:05:10,840 --> 00:05:11,960
+不, 等等
+No, wait a minute.
 
 42
 00:05:12,120 --> 00:05:14,466
-我估计这里也不会有什么情况，你觉得呢？
+我估计这里也不会有什么情况, 你觉得呢?
 I don't suppose anything will happen here, do you?
 
 43
-00:05:14,555 --> 00:05:16,950
-他们都已经关掉柜台了，所以不太可能
-Since they closed the kiosk, so it's hardly likely. //
+00:05:14,550 --> 00:05:16,680
+他们都已经关掉柜台了, 所以不太可能
+Since they closed the kiosk, so it's hardly likely.
 
 44
-00:05:17,120 --> 00:05:18,755
-而且我们不会耽误很久，对吧？
+00:05:16,720 --> 00:05:18,440
+而且我们不会耽误很久, 对吧?
 And we won't be long, will we?
 
 45
-00:05:18,920 --> 00:05:22,355
-这就取决于我们能发现什么。快走吧，小子
+00:05:18,580 --> 00:05:22,350
+这就取决于我们能发现什么. 快走吧, 小子
 Well, that depends on what we find. Come on, kid.
 
 46
 00:05:22,511 --> 00:05:25,355
-不管怎么，你需要我给你带路
+不管怎么, 你需要我给你带路
 In any case, you need me
 to show you the way there!
 
 47
 00:05:29,600 --> 00:05:33,720
-好了好了，我接受你发现了一具尸体
+好了好了, 我接受你发现了一具尸体
 All right, all right.
 I'll accept that you found a body,
 
 48
 00:05:33,880 --> 00:05:38,177
-但我还是想知道你从哪里来的，为什么没有护照
+但我还是想知道你从哪里来的, 为什么没有护照
 but I still want to know where you come from
 and why you have no passport.
 
 49
 00:05:38,511 --> 00:05:43,310
-- 显然这不重要吧？  - 违反法律不可能不重要！
+- 显然这不重要吧?   - 违反法律不可能不重要!
 - Surely that's unimportant?
 - It is not unimportant to break the law!
 
 50
 00:05:44,333 --> 00:05:47,190
-先生，我觉得我们还是得让他先说说
+先生, 我觉得我们还是得让他先说说
 Sir, I think we'll have to let him
 tell us in his own way.
 
 51
 00:05:47,360 --> 00:05:50,910
-- 好吧，简短一点  - 谢谢你
+- 好吧, 简短一点  - 谢谢你
 - Very well. Make it brief.  Thank you.
 
 52
@@ -275,108 +275,108 @@ of the Chameleon Tours hangar.
 
 53
 00:05:55,280 --> 00:05:58,488
-在一个行李箱里面，我们找到了一个男人的躯体
-In a packing case, I found the body of a man. 
+在一个行李箱里面, 我们找到了一个男人的躯体
+In a packing case, I found the body of a man.
 
 54
 00:05:58,555 --> 00:06:00,355
-你刚才没跟我说这个，博士。又一个人死了？
-You never told me that, Doctor. 
-Another dead man? 
+你没告诉我这个, 博士. 又一个人死了?
+You never told me that, Doctor.
+Another dead man?
 
 55
 00:06:00,422 --> 00:06:04,820
-没死，他处于一种神志不清的状态，一种昏迷
-No, he was in a stupefied state, a sort of coma. 
+没死, 他处于一种神志不清的状态, 一种昏迷
+No, he was in a stupefied state, a sort of coma.
 
 56
 00:06:05,840 --> 00:06:07,711
-- 这个人是谁？  - 我不知道他的名字
+- 这个人是谁?   - 我不知道他的名字
 - Who's this one?
 - I don't know his name.
 
 57
 00:06:07,844 --> 00:06:09,733
-但我感觉，他是你的雇员之一
+但我有种感觉, 他是你的雇员之一
 But I have a feeling he's one of your employees.
 
 58
-00:06:09,755 --> 00:06:13,377
-- 噢，真的？ - 事实上，我觉得他可能就在这里
+00:06:09,840 --> 00:06:13,370
+- 噢, 真的?  - 事实上, 我觉得他可能就在这里
 - Oh, indeed?
 - In fact, I think he may be in here.
 
 59
 00:06:21,680 --> 00:06:27,920
-滑行，沿南部滑行路，前往27号起飞跑道
+滑行, 沿南部滑行路, 前往27号起飞跑道
 Taxi, following southern taxi way
 for departure runway 27...
 
 60
 00:06:33,444 --> 00:06:37,288
-- 你知道这是什么吗？ - 我觉得它像支钢笔
+- 你知道这是什么吗?  - 我觉得它像支钢笔
 - Do you know what this is?
 - It looks like a fountain pen to me.
 
 61
 00:06:37,400 --> 00:06:40,377
-事情并不总是看起来的那样。小心，它很危险！
+事情并不总是看起来的那样. 小心, 它很危险!
 Things are not always what they seem.
 Careful! It's dangerous.
 
 62
-00:06:40,800 --> 00:06:43,440
-变色龙观光游也不像它看起来那样 
-Chameleon Tours aren't what they seem either. //
+00:06:40,980 --> 00:06:43,980
+变色龙观光游也不像它看起来那样
+Chameleon Tours are not quite what they seem either.
 
 63
-00:06:43,600 --> 00:06:45,440
+00:06:44,100 --> 00:06:45,440
 And what's your theory?
-那你的理论是什么？
+那你的理论是什么?
 
 64
 00:06:45,711 --> 00:06:48,533
-等你听了，恐怕你不会相信
+等你听了, 恐怕你不会相信
 I'm afraid you won't believe it
 when you hear it....
 
 65
 00:06:50,444 --> 00:06:55,066
-首先，Gascoigne 督察被一把射线枪谋杀了
+首先, Gascoigne 督察被一把射线枪谋杀了
 First, Inspector Gascoigne
 was murdered with a ray gun.
 
 66
-00:06:55,511 --> 00:06:56,588
-一把射线枪？
+00:06:55,360 --> 00:06:56,260
+一把射线枪?
 A ray gun?
 
 67
-00:06:56,711 --> 00:06:58,888
+00:06:56,380 --> 00:06:58,880
 一种在这个地球上还没被研发出来的武器
 A weapon that has not yet
 been developed on this Earth.
 
 68
 00:06:58,888 --> 00:07:02,088
-- 哦，真的吗？  - 你看，我就知道你不会相信我
+- 哦, 真的吗?   - 你看, 我就知道你不会相信我
 - Oh, really!
 - You see, I knew you wouldn't believe it.
 
 69
 00:07:02,133 --> 00:07:05,066
-不，请耐心点，先生。我们在试着理解你说的
+不, 请耐心点, 先生. 我们在试着理解你说的
 No, now be patient, sir.
 We are trying to understand you.
 
 70
 00:07:05,244 --> 00:07:09,288
-很好。然后，我相信变色龙观光游
+很好. 然后, 我相信变色龙观光游
 Very well. Next, I believe Chameleon Tours
 
 71
 00:07:09,400 --> 00:07:12,844
-- 只不过是一个幌子，一个掩护 - 掩护什么？
+- 只不过是一个幌子, 一个掩护 - 掩护什么?
 - to be merely a front - a cover.
 - For what?
 
@@ -387,54 +387,54 @@ For the mass kidnapping of young people.
 
 73
 00:07:17,288 --> 00:07:20,577
-而所有这些都发生在我的机场？
+而所有这些都发生在我的机场?
 And is all this supposed
 to be taking place in my airport?
 
 74
 00:07:20,600 --> 00:07:23,533
-- 是的，就在当下！  - 这可真够了！
+- 是的, 就在当下!   - 这可真够了!
 - Yes. At this very moment.
 - That's quite enough!
 
 75
 00:07:23,640 --> 00:07:25,755
-你就不能把这家伙关起来吗？
-Can't you take that fellow into custody? 
+你就不能把这家伙关起来吗?
+Can't you take that fellow into custody?
 
 76
 00:07:25,840 --> 00:07:27,577
-很抱歉，先生。但你知道他没有违反任何法律
+很抱歉, 先生. 但你知道他没有违反任何法律
 Well, I'm very sorry, sir,
 but you know he hasn't broken any law.
 
 77
 00:07:27,600 --> 00:07:29,950
-除非是出入境方面的问题，但这又不在我的职责范围
+除非是出入境方面的问题, 那可不是我的职责范围
 except for this immigration business,
 and that's not my responsibility.
 
 78
 00:07:30,066 --> 00:07:32,488
-- Brian Briggs 在你的职责范围内  - 那又是谁？
+- Brian Briggs 是你的职责范围  - 那又是谁?
 - Brian Briggs IS your responsibility!
 - Who is he?
 
 79
 00:07:32,640 --> 00:07:34,888
-他是个年轻人，参加了变色龙观光游，然后消失了！
+他是个年轻人, 参加了变色龙观光游, 然后消失了!
 He's a young man who went on
 the Chameleon tour and vanished.
 
 80
 00:07:34,955 --> 00:07:36,840
-得了，博士，等一下。这一点我们还没有确认
-Come on Doctor, wait a minute. 
-We're not certain of that yet. 
+得了, 博士, 等一下. 这一点我们还没有确认
+Come on Doctor, wait a minute.
+We're not certain of that yet.
 
 81
 00:07:36,911 --> 00:07:40,460
-四处都找不到他，也找不到我的两朋友
+四处都找不到他, 也找不到我的两朋友
 Well, he's nowhere to be found,
 and neither are my two friends,
 
@@ -445,1081 +445,1084 @@ which in mind proves my point:
 
 83
 00:07:43,220 --> 00:07:47,311
-变色龙观光游是个幌子，就为了绑架年轻人
+变色龙观光游是个幌子, 就为了绑架年轻人
 Chameleon Tours are a cover
 for the abducting of young people.
 
 84
 00:07:47,355 --> 00:07:49,650
-敢问他们被带到哪里去了？
+敢问他们被带到哪里去了?
 And just where do you think they're taking them?
 
 85
 00:07:49,977 --> 00:07:52,888
-你看，从我已经呈现的事实来看
+你看, 从我已经呈现的事实来看
 Well, in view of the facts that I've already presented
 
 86
 00:07:52,955 --> 00:07:56,444
-射线枪，这种笔，以及其它一两个东西
-the ray gun, this pen, 
+射线枪, 这种笔, 以及其它一两个东西
+the ray gun, this pen,
 and one or two other things -
 
 87
 00:07:57,288 --> 00:07:59,933
-我想我们在对付的，不是这个星球上的人！
+我想我们在对付的人, 不是来自这个星球!
 I think we're dealing with people
 who are not from this planet.
 
 88
 00:08:00,040 --> 00:08:02,577
-这也没能回答我的问——你刚才说什么？
-That hardly answers my que... 
+这也没能回答我的问——你刚才说什么?
+That hardly answers my que...
 What did you say?!
 
 89
-00:08:03,422 --> 00:08:07,800
-- 你看，我就知道你不信我  - 这完完全全是胡说八道！
-- You see, I knew you wouldn't believe me.
-- This is absolute arrant nonsense!
+00:08:03,620 --> 00:08:04,860
+你看, 我就知道你不信我
+You see, I knew you wouldn't believe me.
 
 90
+00:08:04,940 --> 00:08:07,600
+这完完全全是胡说八道!
+This is absolute arrant nonsense!
+
+91
 00:08:07,955 --> 00:08:12,244
-你看，博士，我觉得应该提供一些证据来支撑这些说法
+你看, 博士, 我觉得应该提供一些证据来支撑这些说法
 Look, Doctor, I think you ought to
 produce some evidence to support all this.
 
-91
-00:08:12,330 --> 00:08:15,866
-- 证据？这支笔怎么说？  - 一只笔！你管这叫证据？
-- Evidence? What about this pen?
-- A pen! Do you call that evidence? 
-
 92
+00:08:12,330 --> 00:08:15,866
+- 证据? 这支笔怎么说?   - 一只笔! 你管这叫证据?
+- Evidence? What about this pen?
+- A pen! Do you call that evidence?
+
+93
 00:08:15,933 --> 00:08:18,422
 我来给你演示一下
 I'll demonstrate it for you.
 
-93
+94
 00:08:22,555 --> 00:08:24,355
 打扰了
 Excuse me.
 
-94
+95
 00:08:26,266 --> 00:08:29,288
-- 你介意帮我们一下吗？  - 我没明白
+- 你介意帮我们一下吗?   - 我没明白
 - Would you mind helping us?
 - I don't understand.
 
-95
+96
 00:08:29,466 --> 00:08:31,777
-你能不能把这个杯子举在面前？
+你能不能把这个杯子举在面前?
 Could you hold this cup out in front of you?
 
-96
+97
 00:08:32,577 --> 00:08:33,888
 很好
 Very well.
 
-97
+98
 00:08:37,088 --> 00:08:40,260
-- 也许你以前见过这个？  - 没有。啊！
+- 也许你以前见过这个?   - 没有. 啊!
 - Perhaps you've seen one of these before?
 - No. Agh!
 
-98
+99
 00:08:45,711 --> 00:08:47,600
-它变成冰了！
+它变成冰了!
 It's turned to ice!
 
-99
+100
 00:08:50,177 --> 00:08:52,933
-你管这个叫胡说八道？
+你管这个叫胡说八道?
 Do you call that arrant nonsense?
 
-100
+101
 00:09:09,480 --> 00:09:12,844
-亲爱的妈妈爸爸，已经安全抵达黑森林了
-"Dear Mum and Dad. 
+亲爱的妈妈爸爸, 已经安全抵达黑森林了
+"Dear Mum and Dad.
 Have arrived safely in the Black Forest."
 
-101
+102
 00:09:13,000 --> 00:09:15,240
-我会很快再写给你们，爱你们的 Tim
+我会很快再写给你们, 爱你们的 Tim
 "Will write again soon. Love, Tim. "
 
-102
+103
 00:09:16,266 --> 00:09:17,800
-亲爱的爸爸，我...
+亲爱的爸爸, 我...
 "Dear Dad, I... "
 
-103
+104
 00:09:18,066 --> 00:09:19,466
 亲爱的妈妈...
 "Dear Mum... "
 
-104
+105
 00:09:20,822 --> 00:09:22,440
-Jamie！
+Jamie!
 Jamie!
 
-105
+106
 00:09:25,222 --> 00:09:28,080
-Jamie！你看我找到了什么
+Jamie! 你看我找到了什么
 Jamie! Look what I've found.
 
-106
+107
 00:09:28,240 --> 00:09:29,933
 这里至少有50张明信片
 There must be 50 postcards here.
 
-107
+108
 00:09:30,150 --> 00:09:32,066
 这肯定能让那位督察采取点什么行动了
 That should make that inspector do something.
 
-108
+109
 00:09:32,088 --> 00:09:34,822
-你说得对，而且我知道去哪里找他
+你说得对, 而且我知道去哪里找他
 You're right, and I know where to find him.
 
-109
+110
 00:09:37,422 --> 00:09:40,555
-你是个勇敢的小姑娘，现在没时间向你致敬了
+你是个勇敢的小姑娘, 现在没时间向你致敬了
 You're a brave wee lassie.
 No time to greet now.
 
-110
+111
 00:09:40,622 --> 00:09:43,630
-闪开！有什么东西进我眼睛了。走吧
+闪开! 有什么东西进我眼睛了. 走吧
 Get off! I've got something in me eye. Come on.
 
-111
+112
 00:09:45,680 --> 00:09:47,270
-我们往哪儿走？
+我们往哪儿走?
 Where are we going?
 
-112
+113
 00:09:47,440 --> 00:09:49,555
 总指挥的办公室
 The commandant's office.
 
-113
+114
 00:09:52,240 --> 00:09:56,470
-博士，这是你要的变色龙观光游后面的飞机排班表
+博士, 这是你要的变色龙观光游后面的飞机排班表
 Doctor, here are the remaining flight schedules
 for Chameleon Tours you wanted.
 
-114
+115
 00:09:56,640 --> 00:10:00,577
-- 这个小装置可真厉害  - 最好让我仔细检查一下，先生
+- 这个小装置可真厉害  - 最好让我仔细检查一下, 先生
 - What a nasty little device.
 - I'd better get that checked over, sir.
 
-115
+116
 00:10:00,644 --> 00:10:02,866
-- 什么情况？  - Samantha, 下来这边
+- 什么情况?   - Samantha, 下来这边
 - What the devil...   - Samantha, down here.
 
-116
+117
 00:10:03,600 --> 00:10:07,200
-- 明信片，快看！ - 我不会容忍有人乱闯控制室！
+- 明信片, 快看!  - 我不会容忍有人乱闯控制室!
 - Postcards! Look.
 - I will not have my control room invaded!
 
-117
+118
 00:10:07,377 --> 00:10:09,977
-- 有这些也不行吗？ - 你拿的是什么？
+- 有这些也不行吗?  - 你拿的是什么?
 - Not even for these?
 - What have you got there?
 
-118
+119
 00:10:11,040 --> 00:10:14,200
-我想这是你要求的进一步证据，督察
+我想这是你要求的进一步证据, 督察
 I think it's the further evidence
 you required, Inspector.
 
-119
+120
 00:10:15,177 --> 00:10:17,911
 对了...跟我想的一样
 Yes... Just as I thought.
 
-120
+121
 00:10:18,000 --> 00:10:20,244
-- 你在哪里拿到的？ - 在那个机库的办公室里
+- 你在哪里拿到的?  - 在那个机库的办公室里
 - Where did you get these?
 - In the office in that hangar.
 
-121
+122
 00:10:20,440 --> 00:10:23,244
-- 你明白这意味着什么吗？  - 规律已经很明显了
-- You see what they mean? 
+- 你明白这意味着什么吗?   - 规律已经很明显了
+- You see what they mean?
 - All falling into a pattern.
 
-122
+123
 00:10:23,330 --> 00:10:26,333
 这个信封写的寄信地址是德国的某个地方
 This envelope is addressed to somewhere in Germany.
 
-123
+124
 00:10:26,422 --> 00:10:31,060
-还有，德文的版本
+还有, 德文的版本
 Yeah. "Dem Chameleon Reisen, Freiberg."
 That means Chameleon Tours.
 
-124
+125
 00:10:31,155 --> 00:10:33,590
-你都在叨叨些什么？
+你都在叨叨些什么?
 Just what are you all talking about?
 
-125
+126
 00:10:33,730 --> 00:10:36,400
-你瞧，他们派发出这些卡片
+你瞧, 他们派发出这些卡片
 You see, they give out these cards,
 
-126
+127
 00:10:36,466 --> 00:10:39,630
 让这些孩子在出发之前就写给他们家里的父母
 and get the kids to write home
 to their parents before they go.
 
-127
-00:10:39,800 --> 00:10:41,990
-变色龙观光游的家伙就把这些卡片带上飞机
-The Chameleon Tours lot take the cards abroad //
-
 128
-00:10:42,100 --> 00:10:44,590
+00:10:39,760 --> 00:10:42,540
+变色龙观光游的家伙就把这些卡片带上飞机
+The Chameleon Tours lot take the cards abroad
+
+129
+00:10:42,620 --> 00:10:44,590
 然后他们把卡片寄回不列颠
 and THEY post them back to Britain.
 
-129
+130
 00:10:44,733 --> 00:10:47,777
 于是父母们就以为他们的孩子已经安全抵达了
 So the parents think the children
 have arrived safely.
 
-130
+131
 00:10:48,600 --> 00:10:51,480
-博士，你觉得他们身上发生了什么事情？
+博士, 你觉得他们身上发生了什么事情?
 Doctor, what do you think happens to them?
 
-131
+132
 00:10:51,640 --> 00:10:54,600
-不，不，这些都只不过是臆测
+不, 不, 这些都只不过是臆测
 Now, now. This is all mere supposition!
 
-132
-00:10:54,760 --> 00:10:56,422
-噢，对你来说，也许吧
-Oh, to you, maybe, //
-
 133
-00:10:56,660 --> 00:10:58,422
+00:10:54,760 --> 00:10:56,300
+噢, 对你来说, 也许吧
+Oh, to you, maybe,
+
+134
+00:10:56,380 --> 00:10:58,420
 但这里面其中一个孩子恰巧就是我弟弟
 but one of those kids
 happens to be my brother.
 
-134
+135
 00:10:58,800 --> 00:10:59,622
-你弟弟？
+你弟弟?
 Your brother?
 
-135
-00:10:59,800 --> 00:11:01,622
-是，先生，就是这位小姐的弟弟失踪了
+136
+00:10:59,800 --> 00:11:01,560
+是, 先生, 就是这位小姐的弟弟失踪了
 Aye, sir. This is the young lady
 whose brother's missing
 
-136
-00:11:01,711 --> 00:11:04,711
-而且你看，她的确收到了一张她弟弟从罗马寄来的卡片
+137
+00:11:01,640 --> 00:11:04,710
+而且你看, 她的确收到了一张她弟弟从罗马寄来的卡片
 and you see, she did get a card from him in Rome.
 
-137
+138
 00:11:04,888 --> 00:11:09,088
-可是为什么有谁会绑架这些年轻人呢？
+可是为什么有谁会绑架这些年轻人呢?
 But why would anyone want
 to abduct these young people?
 
-138
+139
 00:11:09,266 --> 00:11:12,044
-要是我们知道了这个，我们就不会干坐在这里了
+要是我们知道了这个, 我们就不会干坐在这里了
 Well, if we knew that, we wouldn't be sitting here.
 
-139
+140
 00:11:12,555 --> 00:11:15,400
-督察，我能跟你说句话吗？
+督察, 我能跟你说句话吗?
 Inspector, can I have a word with you?
 
-140
+141
 00:11:18,970 --> 00:11:22,533
-你不觉得这家伙有点不正常吗，对不？
+你不觉得这家伙有点不正常吗, 对不?
 You don't think this fellow's
 a little unbalanced, do you?
 
-141
-00:11:22,755 --> 00:11:24,622
-哦，也许是有点不循规蹈矩，先生
-Oh maybe a wee bit unorthodox, sir. 
-
 142
+00:11:22,755 --> 00:11:24,622
+哦, 也许是有点不循规蹈矩, 先生
+Oh maybe a wee bit unorthodox, sir.
+
+143
 00:11:24,711 --> 00:11:27,177
-但毕竟，到目前为止是他给了我们唯一的线索
+但毕竟, 到目前为止是他给了我们唯一的线索
 But after all, he's given us
 the only lead we've got so far.
 
-143
+144
 00:11:27,350 --> 00:11:29,200
-如果你愿意，不如放手让他干
+如果你愿意, 不如放手让他干
 If you could, just see your way to giving him a free hand.
 
-144
+145
 00:11:29,244 --> 00:11:32,311
-- 让他干？ - 只是四处摸索一下，先生
+- 让他干?  - 只是四处摸索一下, 先生
 - A free hand? - Just to poke around a little bit, sir.
 
-145
+146
 00:11:33,530 --> 00:11:37,644
-你觉得安全吗，让这个家伙在机场乱窜？
+你觉得安全吗, 让这个家伙在机场乱窜?
 Do you think it's safe to
 let the fellow roam around the airport?
 
-146
+147
 00:11:37,711 --> 00:11:39,755
-你可以依靠我们来盯着他，先生
+你可以依靠我们来盯着他, 先生
 You can rely on us to keep an eye on him, sir.
 
-147
+148
 00:11:40,622 --> 00:11:42,911
-好吧，但记在你的头上
+好吧, 但记在你的头上
 All right, but on your head be it.
 
-148
+149
 00:11:43,422 --> 00:11:46,197
 我自己会去调查变色龙观光游
 I personally will investigate Chameleon Tours
 
-149
+150
 00:11:46,266 --> 00:11:49,044
-如果发现什么，也会回报给你
+如果发现什么, 也会回报给你
 then I'll report back to you
 if I've found out anything.
 
-150
-00:11:49,222 --> 00:11:53,088
-但于此同时，你尽量让一切照常运转，你明白吗？
+151
+00:11:49,220 --> 00:11:52,960
+但于此同时, 你尽量让一切照常运转, 你明白吗?
 But in the meantime, if you could just keep
 everything going as normal, you understand?
 
-151
-00:11:53,200 --> 00:11:55,488
-- 我们不想让他们听到任何风吹草动  - 不，不会
+152
+00:11:53,080 --> 00:11:55,480
+- 我们不想让他们听到任何风吹草动  - 不, 不会
 - We don't want them to get wind of anything.
 - No, no, no, no, no.
 
-152
+153
 00:11:57,688 --> 00:12:04,511
-博士，我给你在机场12个小时的自由时间，愿老天帮我
+博士, 我给你在机场12个小时的自由时间, 愿老天帮我
 Doctor, I'm giving you the freedom
 of the airport for 12 hours, heaven help me.
 
-153
+154
 00:12:04,933 --> 00:12:09,440
-等12个小时结束，我期望你带着点真正的证据回到这里来
+等12个小时结束, 我期望你带着点真正的证据回到这里来
 At the end of that time, I shall expect you
 back here with some real facts this time.
 
-154
+155
 00:12:09,600 --> 00:12:11,800
-谢谢你，总指挥
+谢谢你, 总指挥
 Thank you, Commandant.
 
-155
+156
 00:12:14,177 --> 00:12:16,377
-- 他们信了那个博士了吗？  - 我不知道
+- 他们信了那个博士了吗?   - 我不知道
 - Did they believe the Doctor?
 - I don't know.
 
-156
+157
 00:12:16,533 --> 00:12:18,822
-- 什么意思？  - 我想他怀疑上我了
+- 什么意思?   - 我想他怀疑上我了
 - What do you mean?
 - I think he suspects me.
 
-157
+158
 00:12:19,222 --> 00:12:22,533
-他朝我打开了我们的一个武器，迫使我跑开了
+他朝我打开了我们的一个武器, 迫使我跑开了
 He turned one of our own weapons on me.
 Forced me to leave.
 
-158
+159
 00:12:22,888 --> 00:12:26,177
-你个笨蛋，你应该待着不动的
+你个笨蛋, 你应该待着不动的
 You fool. You should have stayed.
 
-159
+160
 00:12:27,088 --> 00:12:29,800
-现在，我们没法知道他到底发现了多少了
+现在, 我们没法知道他到底发现了多少了
 Now, we do not know
 how much he has discovered.
 
-160
+161
 00:12:30,311 --> 00:12:34,622
-即使他发现了我们的秘密任务，他们也不会相信他的
+即使他发现了我们的秘密任务, 他们也不会相信他的
 Even if he has discovered the secret
 of our mission, they won't believe him.
 
-161
+162
 00:12:34,955 --> 00:12:37,555
 这些地球人的脑子想不了那么远
 These Earth minds cannot stretch that far.
 
-162
+163
 00:12:37,666 --> 00:12:42,555
-当然，事实远非他们的智力所能想到，除了博士
+当然, 事实远非他们的智力所能想到, 除了博士
 Of course, the truth is beyond their
 intelligence, except for that Doctor.
 
-163
+164
 00:12:42,800 --> 00:12:45,755
-我知道他在那里，我可以杀了他
+我知道他在那里, 我可以杀了他
 I know where he is. I could kill him.
 
-164
+165
 00:12:45,910 --> 00:12:49,222
-你是要去，不过不能让你自己有危险
+你是要去, 不过不能让你自己有危险
 You're going to, but not at the risk
 of your own safety.
 
-165
+166
 00:12:49,577 --> 00:12:52,155
 我们还需要你待在航空控制塔台
 We still need you in Air Traffic Control.
 
-166
+167
 00:12:53,488 --> 00:12:56,733
-带上这个，贴到他身上
+带上这个, 贴到他身上
 Take this. Attach it to him.
 
-167
+168
 00:12:57,466 --> 00:13:00,600
-等你搞好了，我就可以用这个激活这个装置
+等你搞好了, 我就可以用这个激活这个装置
 When you're ready, I shall
 activate the mechanism with this.
 
-168
+169
 00:13:01,688 --> 00:13:04,844
 - 这就可以一劳永逸解决他  - 很好
 - That should put paid to him once and for all.
 - Very well.
 
-169
+170
 00:13:05,666 --> 00:13:07,222
 别耽误
 Don't delay.
 
-170
+171
 00:13:07,755 --> 00:13:10,755
 我要他在 Blade 队长回来之前就死了
 I want him dead before Captain Blade returns.
 
-171
+172
 00:13:16,177 --> 00:13:18,422
 博士...
 Doctor...
 
-172
+173
 00:13:18,555 --> 00:13:22,044
 - 我给你和你两个朋友做了通行证  - 谢谢你
 - I've made out a pass for you and your two friends.
 - Thank you.
 
-173
+174
 00:13:22,160 --> 00:13:25,070
-抱歉，先生。有一架变色龙的航班进来了
-Excuse me, sir. There's a Chameleon 
+抱歉, 先生. 有一架变色龙的航班进来了
+Excuse me, sir. There's a Chameleon
 flight coming in now.
 
-174
+175
 00:13:26,955 --> 00:13:31,177
 ADSXL 呼叫盖特威克机场塔台
 <i>Alpha Delta Sierra X-ray Lima
 calling Gatwick Airport Control.</i>
 
-175
+176
 00:13:31,244 --> 00:13:33,630
 盖特威克塔台呼叫ADSXL航班
 Gatwick Control to
 Alpha Delta Sierra X-ray Lima.
 
-176
+177
 00:13:38,600 --> 00:13:42,666
 盖特威克塔台呼叫ADSXL航班
 Gatwick Control to
 Alpha Delta Sierra X-ray Lima.
 
-177
+178
 00:13:42,800 --> 00:13:44,377
 我现在告诉你航向
 I will now give you your heading.
 
-178
+179
 00:13:46,680 --> 00:13:50,511
-- 他们一天有多少航班？  - 七到八个
+- 他们一天有多少航班?   - 七到八个
 - How many flights do they use a day?
 - Seven or eight.
 
-179
+180
 00:13:51,222 --> 00:13:53,466
-- 他们有几架飞机？ - 四架
+- 他们有几架飞机?  - 四架
 - How many planes do they use?
 - Four.
 
-180
-00:13:53,733 --> 00:13:56,333
-我可以查到他们的注册号，如果你需要的话
-I could get their registration numbers if you like.//
-
 181
-00:13:56,533 --> 00:13:57,333
-为什么问这个？
-Why do you ask?
+00:13:53,730 --> 00:13:55,840
+我可以查到他们的注册号, 如果你需要的话
+I could get their registration numbers if you like.
 
 182
+00:13:56,060 --> 00:13:57,330
+为什么问这个?
+Why do you ask?
+
+183
 00:13:57,511 --> 00:13:59,955
-一天八个航班却只有四架飞机，这正常吗？
+一天八个航班却只有四架飞机, 这正常吗?
 Eight flights a day and only four planes.
 Is that normal?
 
-183
+184
 00:14:00,022 --> 00:14:01,830
-正常，只要他们周转得快
+正常, 只要他们周转得快
 Yes. They have a very quick turnaround.
 
-184
+185
 00:14:02,000 --> 00:14:03,955
-我是说，毕竟他们只有短途航线
+我是说, 毕竟他们只有短途航线
 I mean, after all they're only on short haul flights
 
-185
-00:14:04,020 --> 00:14:05,633
-你知道的，都是些旅游胜地，/
+186
+00:14:04,020 --> 00:14:05,480
+你知道的, 都是些旅游胜地, /
 You know, all the holiday centres.
 
-186
-00:14:05,820 --> 00:14:06,933
-西班牙，罗马，雅典，黑森林
+187
+00:14:05,540 --> 00:14:07,240
+西班牙, 罗马, 雅典, 黑森林
 Spain, Rome, Athens, the Black Forest.
 
-187
-00:14:07,022 --> 00:14:10,400
+188
+00:14:07,320 --> 00:14:10,400
 - Jean, 冬天的排班表在哪里  - 抱歉
 - Jean, where's the file on winter schedules.
 - Excuse me.
 
-188
-00:14:10,560 --> 00:14:13,466
-- 哪个是变色龙的飞机  - 哦，就那个，先生
-- Which is the Chameleon plane?
-- Oh that one, sir. 
-
 189
-00:14:13,640 --> 00:14:15,088
-你看，他正在 Dunsfold 左转弯
-Look, he's turning left at Dunsfold.
+00:14:10,560 --> 00:14:13,466
+- 哪个是变色龙的飞机  - 哦, 就那个, 先生
+- Which is the Chameleon plane?
+- Oh that one, sir.
 
 190
-00:14:15,200 --> 00:14:18,000
-我会告诉他在Epsom等待，直到我给出降落许可
-I shall hold him now over Epsom 
-until I can give him landing clearance. 
+00:14:13,640 --> 00:14:15,088
+你看, 他正在 Dunsfold 左转弯
+Look, he's turning left at Dunsfold.
 
 191
+00:14:15,200 --> 00:14:18,000
+我会告诉他在Epsom等待, 直到我给出降落许可
+I shall hold him now over Epsom
+until I can give him landing clearance.
+
+192
 00:14:18,466 --> 00:14:21,711
-- 你们雷达的有效范围是多少？  - 130英里，怎么了？
+- 你们雷达的有效范围是多少?   - 130英里, 怎么了?
 - What's the range of your radar?
 - 130 miles. Why?
 
-192
+193
 00:14:21,800 --> 00:14:25,200
-- 我在想他们的飞机什么时候出现  - 我不清楚，先生
+- 我在想他们的飞机什么时候出现  - 我不清楚, 先生
 - I wondered when this plane first appeared.
 - I've no idea, sir.
 
-193
+194
 00:14:25,288 --> 00:14:28,640
-在他们开始呼叫之前我们看不到他们。我先离开一下
+在他们开始呼叫之前我们看不到他们. 我先离开一下
 We don't notice them until they start to call in.
 Now excuse me a moment.
 
-194
+195
 00:14:29,666 --> 00:14:32,666
 盖特威克塔台呼叫ADSXL航班
 <i>Gatwick Control
 to Alpha Delta Sierra X-ray Lima.</i>
 
-195
+196
 00:14:32,866 --> 00:14:36,888
-爬升到一万英尺，在 Epsom 管制区等待降落许可
+爬升到一万英尺, 在 Epsom 管制区等待降落许可
 <i>Climb to 10,000 feet and hold in
 Epsom control zone to await landing clearance.</i>
 
-196
+197
 00:14:37,111 --> 00:14:42,311
-ADSXL航班，爬升到一万英尺，就地等待
+ADSXL航班, 爬升到一万英尺, 就地等待
 <i>Alpha Delta Sierra X-ray Lima.
 Climbing to 10,000 feet and holding.</i>
 
-197
+198
 00:14:44,020 --> 00:14:46,666
-起飞之后你们可以跟住他们多久？
+起飞之后你们可以跟住他们多久?
 How long do you hold them after take-off?
 
-198
+199
 00:14:46,711 --> 00:14:49,111
-一旦他们离开盖特威克管制区，我们跟他们就没关系了
-Once they've left Gatwick Control Zone, 
+一旦他们离开盖特威克管制区, 我们跟他们就没关系了
+Once they've left Gatwick Control Zone,
 we've finished with them.
 
-199
+200
 00:14:49,260 --> 00:14:53,600
-我明白了，那就意味着他们可能去任何地方
+我明白了, 那就意味着他们可能去任何地方
 I see. That means they might be anywhere.
 
-200
+201
 00:14:53,777 --> 00:14:58,600
-你不是宁愿浪费你的12个小时四处乱窜吗，还来打扰我的人？
+你不是宁愿浪费你的12个小时四处乱窜吗, 还来打扰我的人?
 Aren't you rather wasting your 12 hours
 hanging around here, disturbing my people?
 
-201
+202
 00:14:58,680 --> 00:15:00,511
 我觉得我一分钟都没有浪费
 I don't think I've been wasting a minute,
 
-202
+203
 00:15:00,622 --> 00:15:03,800
-但你非要我走的话，我会走。Sam！Jamie！
+但你非要我走的话, 我会走. Sam! Jamie!
 but I'll go if you insist. Sam! Jamie!
 
-203
+204
 00:15:03,911 --> 00:15:06,750
-- 抱歉  - 没事，完全是我的错
+- 抱歉  - 没事, 完全是我的错
 - Sorry.  - It's all right. It's quite my fault.
 
-204
+205
 00:15:07,422 --> 00:15:10,600
-- 我以前在什么地方没碰见过你吗？  - 我觉得没有
+- 我以前在什么地方没碰见过你吗?   - 我觉得没有
 - Haven't I met you somewhere before?
 - I don't think so.
 
-205
+206
 00:15:10,977 --> 00:15:12,622
-你肯定有一个替身！
+你肯定有一个替身!
 You must have a double!
 
-206
-00:15:28,977 --> 00:15:30,777
-打扰一下，你是这里的经理吗？
-Excuse me, are you the manager? //
-
 207
-00:15:30,977 --> 00:15:32,777
-我负责订票，有什么可以帮你的？
-I'm looking after bookings. Can I help?
+00:15:28,977 --> 00:15:30,777
+打扰一下, 你是这里的经理吗?
+Excuse me, are you the manager?
 
 208
+00:15:30,977 --> 00:15:32,777
+我负责订票, 有什么可以帮你的?
+I'm looking after bookings. Can I help?
+
+209
 00:15:32,950 --> 00:15:36,333
 我要跟经理谈话
 I'd rather like to speak to the manager...
 
-209
+210
 00:15:36,460 --> 00:15:39,450
-- 我是位警官  - 我们有麻烦吗？
+- 我是位警官  - 我们有麻烦吗?
 - I'm a police officer.  - Is there some trouble?
 
-210
+211
 00:15:39,620 --> 00:15:42,755
 - 我想和负责人谈  - 那得找 Blade 机长
 - I'd prefer to speak to the person in charge.
 - That's Captain Blade.
 
-211
-00:15:42,822 --> 00:15:45,377
-他刚从一个航班返回了，下一个航班马上又要出发
+212
+00:15:42,820 --> 00:15:45,240
+他刚从一个航班返回了, 下一个航班马上又要出发
 He's just returned from one flight,
 taking off for another.
 
-212
-00:15:45,466 --> 00:15:48,688
-- 他这会儿真的很忙  - 也许我可以直接去飞机上？
+213
+00:15:45,360 --> 00:15:48,680
+- 他这会儿真的很忙  - 也许我可以直接去飞机上?
 - He's rather busy at the moment.
 - Perhaps I could go out to the plane?
 
-213
+214
 00:15:49,711 --> 00:15:52,377
-我得去看看。请等一下
+我得去看看. 请等一下
 I'll have to see about that. Just a moment, please.
 
-214
+215
 00:16:01,955 --> 00:16:03,733
 有个警探要见你
 A detective wants to see you.
 
-215
+216
 00:16:04,288 --> 00:16:05,977
-他怀疑什么了吗？
+他怀疑什么了吗?
 <i>Does he suspect anything?</i>
 
-216
+217
 00:16:06,155 --> 00:16:07,622
 我不知道
 I don't know.
 
-217
+218
 00:16:08,377 --> 00:16:12,888
-好，送他去飞机上吧，我们来对付他
+好, 送他去飞机上吧, 我们来对付他
 <i>All right. Send him over to the plane.
 We'll deal with him.</i>
 
-218
+219
 00:16:14,822 --> 00:16:16,666
-你确定就是这个房间，博士？
+你确定就是这个房间, 博士?
 Are you sure this is the right room, Doctor?
 
-219
+220
 00:16:16,822 --> 00:16:19,688
-- Jamie，你什么时候见我出过错？  - 真是！
+- Jamie, 你什么时候见我出过错?   - 真是!
 - Jamie, have you ever known me to be mistaken?  - Aye!
 
-220
+221
 00:16:19,822 --> 00:16:22,444
-- 嘿，小心一点  - 什么？
+- 嘿, 小心一点  - 什么?
 - Hey. Now watch out.  - What?
 
-221
+222
 00:16:22,577 --> 00:16:25,200
 毒气喷嘴就是从那面墙出来的
 That's the wall the gas nozzles came out of.
 
-222
+223
 00:16:25,311 --> 00:16:27,200
 但现在这里什么也没有了
 There's nothing here now.
 
-223
+224
 00:16:29,244 --> 00:16:30,555
 你说得对
 You're right.
 
-224
+225
 00:16:31,088 --> 00:16:33,133
-这很高明，非常高明
+这很高明, 非常高明
 That's clever, very clever.
 
-225
+226
 00:16:33,511 --> 00:16:35,644
-哦，好了，这就变得简单了
+哦, 好了, 这就变得简单了
 Oh, well, it makes life simpler for us.
 
-226
+227
 00:16:35,711 --> 00:16:39,111
-看，我定住的那个人是从这附近出来的
+看, 我定住的那个人是从这附近出来的
 Now, the man I froze came from here somewhere.
 
-227
-00:16:39,288 --> 00:16:41,277
-是，有可能 - 一堵实墙啊
-Aye, he would - a solid wall//
-
 228
-00:16:41,388 --> 00:16:43,777
-这堵实墙的某个地方，有一道门
-Somewhere in that solid wall, there's a door.
+00:16:39,280 --> 00:16:41,520
+是, 有可能 - 一堵实墙啊
+Aye, he would - a solid wall
 
 229
-00:16:43,880 --> 00:16:45,777
-应该是。我们还是没有找到 Ben 和 Polly
-Aye, and we still haven't found Ben and Polly.
+00:16:41,620 --> 00:16:43,770
+这堵实墙的某个地方, 有一道门
+Somewhere in that solid wall, there's a door.
 
 230
-00:16:45,911 --> 00:16:48,180
-- 你觉得他们发生什么事了？  - 我不知道
-- What do you think's happened to them?
-- I don't know. 
+00:16:43,880 --> 00:16:45,777
+应该是. 我们还是没有找到 Ben 和 Polly
+Aye, and we still haven't found Ben and Polly.
 
 231
-00:16:48,340 --> 00:16:51,116
-也许我们找到了门，就能找到他们
-Perhaps if we find that door, we'll find them.
+00:16:45,911 --> 00:16:48,180
+- 你觉得他们发生什么事了?   - 我不知道
+- What do you think's happened to them?
+- I don't know.
 
 232
-00:16:51,116 --> 00:16:53,290
-快来，你找那边，我找这边
-Come on. You take that end, I'll take this.
+00:16:48,340 --> 00:16:51,116
+也许我们找到了门, 就能找到他们
+Perhaps if we find that door, we'll find them.
 
 233
+00:16:51,116 --> 00:16:53,290
+快来, 你找那边, 我找这边
+Come on. You take that end, I'll take this.
+
+234
 00:16:54,200 --> 00:16:55,380
 我们得快点
 We must hurry.
 
-234
+235
 00:16:56,444 --> 00:16:59,222
 Crossland 督察这会儿在牵制他们
 Inspector Crossland's keeping them busy at the moment,
 
-235
+236
 00:16:59,311 --> 00:17:03,490
-如果他用力过猛的话，他不是他们的对手
+如果他用力过猛的话, 他不是他们的对手
 but he'll be no match for them
 if he presses them too far.
 
-236
+237
 00:17:09,580 --> 00:17:14,755
 你会发现整架飞机都严格遵守国际航空安全标准
 You'll find that the whole plane conforms strictly
 to the international standards of air safety.
 
-237
+238
 00:17:14,820 --> 00:17:17,511
 我想不会有任何人会投诉我们
 I can't think why anybody would complain about us.
 
-238
+239
 00:17:17,688 --> 00:17:20,860
-我说过有人投诉吗？我不是来查安全措施的
+我说过有人投诉吗? 我不是来查安全措施的
 Did I say anyone had complained?
 I'm not enquiring about safety.
 
-239
+240
 00:17:21,444 --> 00:17:25,222
-我来查的是一个失踪的男孩，是你们航班的乘客
+我来查的是一个失踪的男孩, 是你们航班的乘客
 My enquiries are about a missing boy.
 A passenger on one of your flights.
 
-240
-00:17:25,370 --> 00:17:28,377
-还有，我的一个同事，Gascoigne 督察
-And there's also the business of a colleague
-of mine, Detective Inspector Gascoigne, 
-
 241
+00:17:25,370 --> 00:17:28,377
+同时还有我的一个同事, Gascoigne 督察
+And there's also the business of a colleague
+of mine, Detective Inspector Gascoigne,
+
+242
 00:17:28,488 --> 00:17:29,955
 最后有人看见他也是在你们机库
 was last seen in your hangar.
 
-242
+243
 00:17:30,188 --> 00:17:31,955
 有人相信他已经被害了
 He's believed to have been murdered.
 
-243
+244
 00:17:32,800 --> 00:17:35,244
 这确实不是一件小事
 That is indeed a serious matter.
 
-244
-00:17:35,400 --> 00:17:37,066
+245
+00:17:35,400 --> 00:17:37,880
 恐怕我得让你推迟起飞一会儿
 I'm afraid I'm going to have to ask you
 to hold up this flight a while,
 
-245
-00:17:37,200 --> 00:17:39,066
+246
+00:17:37,960 --> 00:17:39,040
 我有一些问题要问你
 while I ask you some questions.
 
-246
-00:17:39,311 --> 00:17:40,980
-你介意来总指挥的办公室吗？
+247
+00:17:39,310 --> 00:17:40,760
+你介意来总指挥的办公室吗?
 Would you mind coming to the commandant's office?
 
-247
-00:17:41,111 --> 00:17:43,600
-你得允许我失陪一下，督察
-If you'll just excuse me for a moment, Inspector,//
-
 248
-00:17:43,711 --> 00:17:46,000
+00:17:40,940 --> 00:17:43,180
+你得允许我失陪一下, 督察
+If you'll just excuse me for a moment, Inspector,
+
+249
+00:17:43,260 --> 00:17:46,000
 我有些事情要安排
 I have some arrangements to make.
 
-249
+250
 00:17:47,400 --> 00:17:50,111
-- 抱歉，请  - 对不起
+- 抱歉, 请  - 对不起
 - Excuse me, please.  - I'm sorry.
 
-250
+251
 00:18:00,620 --> 00:18:02,088
-Blade 机长！
+Blade 机长!
 Captain Blade!
 
-251
+252
 00:18:15,355 --> 00:18:18,444
-如果我是你，就不会再移动一步
+如果我是你, 就不会再移动一步
 I shouldn't move any further if I were you.
 
-252
+253
 00:18:19,133 --> 00:18:24,666
-这把枪在对付你的同事时非常有效，那位 Gascoigne 督察
+这把枪在对付你的同事时非常有效, 那位 Gascoigne 督察
 This gun proved remarkably effective
 in dealing with your colleague, Inspector Gascoigne.
 
-253
+254
 00:18:24,755 --> 00:18:27,711
-- 你杀了他  - 很不幸，一个失误
+- 你杀了他  - 很不幸, 一个失误
 - You killed him.  - Unfortunately, an error.
 
-254
+255
 00:18:28,311 --> 00:18:31,333
 你们地球人活着对我们更有用
 You Earth men are more use to us alive.
 
-255
+256
 00:18:32,733 --> 00:18:34,555
 坐到那里去
 Sit down there.
 
-256
+257
 00:18:41,780 --> 00:18:43,644
 好多了
 That's better.
 
-257
+258
 00:18:49,770 --> 00:18:54,044
-这个地球人是个非常不错的标本，你觉得呢？
+这个地球人是个非常不错的标本, 你觉得呢?
 This Earth man is a particularly
 fine specimen, don't you think?
 
-258
+259
 00:18:54,111 --> 00:18:57,311
 - 也许适合总管他自己  - 的确
 - Perhaps the director himself.  - Exactly.
 
-259
+260
 00:18:57,400 --> 00:18:59,500
 不管你俩计划把我怎么样
 Whatever you two are planning for me,
 
-260
+261
 00:18:59,600 --> 00:19:01,800
-我必须警告你，这都在英国法律的长臂管辖内
+我必须警告你, 这都在英国法律的长臂管辖内
 I must warn you of the long arm of the British law.
 
-261
+262
 00:19:01,888 --> 00:19:04,444
 我觉得它够不到你要去的地方
 I don't think it will reach where you're going.
 
-262
+263
 00:19:06,244 --> 00:19:10,666
-变色龙航班413呼叫塔台，请求起飞
+变色龙航班413呼叫塔台, 请求起飞
 Chameleon Flight 4-1-3 to Control. Request start-up.
 
-263
+264
 00:19:17,155 --> 00:19:18,822
-Jamie，你看！
+Jamie, 你看!
 Jamie, look!
 
-264
+265
 00:19:38,533 --> 00:19:40,422
-那是什么，博士！
+那是什么, 博士!
 What's that, Doctor?
 
-265
+266
 00:19:42,422 --> 00:19:45,710
 这是给不习惯地球空气的人准备的
 For someone who's not used to the Earth's atmosphere.
 
-266
+267
 00:19:45,880 --> 00:19:47,760
 很有意思
 Very interesting.
 
-267
+268
 00:19:47,920 --> 00:19:51,600
-啊！一套视频监控设备。我们来看看能看到什么
+啊! 一套视频监控设备. 我们来看看能看到什么
 Ah! A TV monitor set. Let's see what we can see.
 
-268
+269
 00:19:54,555 --> 00:19:56,088
 那是什么
 What's that?
 
-269
+270
 00:19:56,400 --> 00:19:58,266
 看起来像是个医院
 It looks like a hospital.
 
-270
+271
 00:20:00,155 --> 00:20:01,866
-Jamie，这里有点热了
+Jamie, 这里有点热了
 Jamie, we're getting warmer
 
-271
+272
 00:20:02,155 --> 00:20:03,866
 这跟我上次在这里的情况有点不同
 which is a change from the last time I was here!
 
-272
+273
 00:20:04,600 --> 00:20:08,920
-快来，我们去看看盖特威克机场有没有急救站
+快来, 我们去看看盖特威克机场有没有急救站
 Come on. Let's see if there's
 a first aid post in Gatwick airport.
 
-273
+274
 00:20:13,420 --> 00:20:15,533
-- 我们要清理翻乱的东西吗，博士？  - 不用
+- 我们要清理翻乱的东西吗, 博士?   - 不用
 - Shall we clear up the mess, Doctor?  - No.
 
-274
+275
 00:20:15,600 --> 00:20:17,520
 我们去找急救站
 Let's get along to the first aid post.
 
-275
+276
 00:20:26,600 --> 00:20:27,911
-噢，我的背
+噢, 我的背
 Oh, my back!
 
-276
+277
 00:20:28,133 --> 00:20:29,790
-Jamie，我后背！
+Jamie, 我后背!
 Jamie, my back!
 
-277
+278
 00:20:41,088 --> 00:20:44,000
-请拿一个麦芽糖，谢谢
+请拿一个麦芽糖, 谢谢
 Please take a barley sugar. Thank you.
 
-278
+279
 00:20:45,244 --> 00:20:48,866
-你们可以解开安全带了，谢谢
+你们可以解开安全带了, 谢谢
 You can unfasten your seat belts now. Thank you.
 
-279
+280
 00:20:50,311 --> 00:20:53,600
-麦芽糖要吗？没事吧？
+麦芽糖要吗? 没事吧?
 A barley sugar? Everything all right?
 
-280
+281
 00:21:10,066 --> 00:21:12,200
 - 都搞定了 - 很好
 - All set. - Good.
 
-281
+282
 00:21:23,320 --> 00:21:27,160
-你不是想知道变色龙观光游的秘密吗？
+你不是想知道变色龙观光游的秘密吗?
 You wanted to know what was the secret of Chameleon Tours.
 
-282
+283
 00:21:28,840 --> 00:21:30,990
-好吧，督察...
+好吧, 督察...
 Well, Inspector...
 
-283
+284
 00:21:33,066 --> 00:21:34,911
 你自己看
 See for yourself.
-
