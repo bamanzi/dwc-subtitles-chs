@@ -1,1461 +1,1483 @@
-﻿1
+1
+00:00:03,605 --> 00:00:06,605
+Sincro: wyxchari
+
+2
+00:00:15,200 --> 00:00:18,000
+基于 opentitles.org 英文字幕翻译
+
+3
+00:00:18,000 --> 00:00:21,800
+(注意：本字幕针对2020年动画版视频, 
+与旧版本在对话内容和时间轴上略有差异)
+
+4
+00:00:28,000 --> 00:00:32,800
+<b>The Faceless Ones: Episode 1</b>
+<b>无面一族: 第一集</b>
+
+5
+00:00:33,000 --> 00:00:35,800
+【中文翻译/时间轴】巴蛮子sz
+
+1﻿
 00:01:00,060 --> 00:01:02,380
 是只飞兽!
 It's a flying beastie!
 
-2
+6
 00:01:24,660 --> 00:01:26,320
 嘿, 你们, 站住!
 Hey, you! Stop!
 
-3
+7
 00:01:27,420 --> 00:01:28,240
 散开!
 Scatter!
 
-4
+8
 00:01:35,820 --> 00:01:39,640
 - 飞行员说了什么?   - 跑道上有个警察亭
 - The pilot said what?
 - A police box on the runway.
 
-5
+9
 00:01:39,680 --> 00:01:42,765
 说得跟真的似的! 让他回到排队区
 A likely story! Tell him to get back into stack
 
-6
+10
 00:01:42,800 --> 00:01:44,800
 等待下一步安排
 and await further instructions.
 
-7
+11
 00:01:44,960 --> 00:01:47,720
 Rock 小姐, 接机场警局
 Miss Rock, get the airport police.
 
-8
+12
 00:01:47,880 --> 00:01:50,760
 塔台呼叫SDX
 Control. Sugar Delta X-ray.
 
-9
+13
 00:01:50,920 --> 00:01:52,590
 请返回排队区
 Return to stack.
 
-10
+14
 00:01:52,760 --> 00:01:54,750
 警局吗? 我是总指挥
 Police? Commandant here.
 
-11
+15
 00:01:54,816 --> 00:01:56,950
 入港航班报告说有障碍物
 In-bound aircraft reports obstruction
 
-12
+16
 00:01:57,024 --> 00:01:59,600
 说是在第五和第二跑道的交界处
 on intersection of runways five and two.
 
-13
+17
 00:01:59,696 --> 00:02:01,616
 去调查一下, 汇报情况
 Investigate and report back.
 
-14
+18
 00:02:02,040 --> 00:02:03,710
 警察亭子
 Police box.
 
-15
+19
 00:02:48,400 --> 00:02:50,980
 Jamie! 到我这里来
 Jamie! Come over here with me.
 
-16
+20
 00:02:53,400 --> 00:02:54,840
 快来
 Come on.
 
-17
+21
 00:03:18,440 --> 00:03:19,840
 等一下
 Just a minute.
 
-18
+22
 00:03:21,480 --> 00:03:22,920
 把那信封给我
 Give me that envelope!
 
-19
+23
 00:03:24,320 --> 00:03:26,520
 我建议你站住
 I would advise you to stop.
 
-20
+24
 00:03:29,280 --> 00:03:31,030
 啊!
 Agh!
 
-21
+25
 00:04:13,800 --> 00:04:16,160
 你能快点过来吗? 有麻烦了
 Can you come quickly? Trouble.
 
-22
+26
 00:04:16,320 --> 00:04:18,310
 麻烦? 发生什么事了?
 <i>Trouble? What happened?</i>
 
-23
+27
 00:04:18,480 --> 00:04:20,950
 那些明信片, 有人发现了
 The postcards. Someone found them.
 
-24
+28
 00:04:21,120 --> 00:04:22,680
 就来
 <i>Right.</i>
 
-25
+29
 00:05:21,584 --> 00:05:22,736
 行了, 行了
 All right, all right.
 
-26
+30
 00:05:22,800 --> 00:05:26,144
 那你们是把它卸在四号机库了, 是个什么东西?
 So you dumped it by number four hangar,
 but what was it?
 
-27
+31
 00:05:27,120 --> 00:05:29,184
 还真是个警察亭子?
 It WAS a police box?
 
-28
+32
 00:05:30,480 --> 00:05:32,760
 给我接警察局长
 Get me the police chief.
 
-29
+33
 00:05:32,920 --> 00:05:34,920
 好了, 你可以安排那些飞机降落了
 All right. You can bring those planes down now.
 
-30
+34
 00:05:35,160 --> 00:05:36,760
 - 障碍已经被清除了  - 好的, 先生
 - The obstruction's been cleared. - Right, sir.
 
-31
+35
 00:05:39,260 --> 00:05:41,940
 你觉得这是不是一个恶作剧, 先生? 学生什么的?
 Do you think it was a practical joke, sir?
 Students or someone?
 
-32
+36
 00:05:42,040 --> 00:05:46,120
 不管他是谁, 一旦被我抓到了, 有他们好果子吃
 Well, whoever it was, they'll pay for it
 when I get my hands on them.
 
-33
+37
 00:05:46,280 --> 00:05:49,800
 我可不能让这些恶作剧什么的威胁到乘客的安全
 I won't have passengers' lives
 endangered by practical jokers or anyone else.
 
-34
+38
 00:05:49,900 --> 00:05:52,500
 Reynolds 警司吗? 我让总指挥接您电话
 Superintendent Reynolds?
 I have the commandant for you.
 
-35
+39
 00:05:52,500 --> 00:05:53,820
 警局总长
 The Chief of Police.
 
-36
+40
 00:05:53,940 --> 00:05:57,620
 听着, 跑道上的警察亭子都是怎么一回事?
 Listen, what's all this
 about a police box on the runway?
 
-37
+41
 00:05:59,320 --> 00:06:04,480
 哦...好吧, 各处的安保工作必须加强!
 Oh. Well, security's got to be tightened up all round!
 
-38
+42
 00:06:04,640 --> 00:06:07,440
 他报告说有人看到四个嫌疑人从那个亭子四散跑开
 He reports that four suspects
 were seen running away from it.
 
-39
+43
 00:06:07,460 --> 00:06:08,920
 - 那抓到了他们吗?   - 没有!
 - Did they catch them?  - No!
 
-40
+44
 00:06:09,020 --> 00:06:12,840
 这警察够笨的, 给跟丢了, 这会儿都跑出八百里远了
 Idiot of a policeman lost them.
 They're miles away by now.
 
-41
+45
 00:06:15,440 --> 00:06:17,430
 给我接出入境检查站
 Get me Immigration.
 
-42
+46
 00:06:18,208 --> 00:06:22,150
 跟他们说我想知道有没有人看到些可疑人员
 Tell them to let me know
 if any suspicious characters are seen there.
 
-43
+47
 00:06:25,480 --> 00:06:28,680
 - Polly 在那儿!   - Polly! 这边来!
 - There's Polly!  - Polly! Over here!
 
-44
+48
 00:06:36,040 --> 00:06:38,030
 博士...
 Doctor...
 
-45
+49
 00:06:38,200 --> 00:06:40,480
 我刚刚看到有人被害了!
 I've just seen a man killed!
 
-46
+50
 00:06:40,640 --> 00:06:42,920
 - 被一个飞兽给撞了?   - 不是
 - Hit by one of the beasties?  - No.
 
-47
+51
 00:06:51,960 --> 00:06:54,300
 刚才那里面有两个人
 There were two men in there.
 
-48
+52
 00:06:54,320 --> 00:06:56,800
 其中一个手里有枪, 他开枪杀了另外一个
 One of them had a gun,
 and he shot the other one.
 
-49
+53
 00:06:56,880 --> 00:06:58,540
 那个凶手, 他看到你了吗?
 The murderer, did he see you?
 
-50
+54
 00:06:59,020 --> 00:07:02,040
 他还追我, 但我设法甩掉了
 He chased me but I managed to lose him.
 
-51
+55
 00:07:02,200 --> 00:07:04,560
 你还能找到那个机库吗?
 Could you find this hangar again?
 
-52
+56
 00:07:04,720 --> 00:07:07,400
 这, 我觉得能...
 Well, I think so...
 
-53
+57
 00:07:07,560 --> 00:07:11,680
 我还记得名字, 好像叫变色龙什么的
 I can remember the name.
 It was Chameleon something or other.
 
-54
+58
 00:07:12,560 --> 00:07:14,628
 - Ben 去哪儿了?  - 我们没看见他
 - Where's Ben? - We haven't seen him.
 
-55
+59
 00:07:14,680 --> 00:07:15,980
 快点, 我们去找这个机库
 Come on, let's find this hangar.
 
-56
+60
 00:07:16,300 --> 00:07:18,840
 但是, 那个有枪的家伙还会找我
 But, the bloke with the gun will be looking for me.
 
-57
+61
 00:07:18,960 --> 00:07:20,280
 我们会照顾你的, 来, 快点
 We'll look after you. Now, come on.
 
-58
+62
 00:07:20,320 --> 00:07:24,460
 不过..Ben 怎么办?
 Where's...What about Ben?
 
-59
+63
 00:07:34,080 --> 00:07:37,120
 - 他发现了那些明信片  - 他叫什么名字?
 - He found the postcards.  - His name?
 
-60
+64
 00:07:37,280 --> 00:07:39,620
 我不知道. 我在办公室逮住他的
 I don't know. I caught him in the office.
 
-61
+65
 00:07:39,830 --> 00:07:41,660
 他已经发现了证据, 我不得不阻止他
 He'd found evidence. I had to stop him.
 
-62
+66
 00:07:50,160 --> 00:07:54,200
 你杀死的是 Gascoigne 督察, 是个警察
 You've killed Detective Inspector Gascoigne -
 a policeman.
 
-63
+67
 00:07:55,120 --> 00:07:57,191
 你觉得他上面有人派他来的?
 Do you think a parent sent him?
 
-64
+68
 00:07:57,191 --> 00:07:59,200
 很有可能. 不过没关系
 Possibly. It doesn't matter.
 
-65
+69
 00:07:59,360 --> 00:08:02,020
 重要的是没人会找到他
 The important thing is that nobody should find him.
 
-66
+70
 00:08:02,160 --> 00:08:03,940
 安排人处理掉吧
 Arrange disposal.
 
-67
+71
 00:08:14,760 --> 00:08:17,990
 好了, 尽快搞定这事
 All right. Get it over here as quickly as possible.
 
-68
+72
 00:08:22,080 --> 00:08:24,310
 - 箱子已经在来的路上了  - 好
 - A container is on the way.  - Right.
 
-69
+73
 00:08:24,480 --> 00:08:26,470
 销毁这个
 Destroy this.
 
-70
+74
 00:08:26,640 --> 00:08:29,110
 你为什么把那些行李箱留在这里?
 Why have you left those suitcases there?
 
-71
+75
 00:08:29,280 --> 00:08:31,720
 那个侦探 - 我被他打断了
 The detective - he interrupted me.
 
-72
+76
 00:08:49,760 --> 00:08:51,320
-Spencer!
+Spencer!​
 Spencer!
 
-73
+77
 00:08:51,480 --> 00:08:53,470
 看
 <i>Look.</i>
 
-74
+78
 00:08:54,320 --> 00:08:56,710
 那家伙是从那个门里出来的
 <i>The bloke came out of that door there.</i>
 
-75
+79
 00:08:56,880 --> 00:08:59,560
 被锁住了吗? 里面有人吗?
 <i>Is it locked? Is anyone in there?</i>
 
-76
+80
 00:09:04,680 --> 00:09:07,240
 是锁住的, 里面没有人
 <i>It's locked. There's nobody there.</i>
 
-77
+81
 00:09:12,920 --> 00:09:14,590
 Polly, 那个开枪杀他的家伙...
 Polly, this man who killed him...
 
-78
+82
 00:09:14,760 --> 00:09:16,500
 你还能认出他来吗?
 Would you recognise him again?
 
-79
+83
 00:09:16,875 --> 00:09:19,550
 能! 他还追我, 我怎么都能认出他来
 Yes! He chased me. I'd recognise him anywhere.
 
-80
+84
 00:09:20,480 --> 00:09:22,280
 愚蠢!
 Fool!
 
-81
+85
 00:09:22,380 --> 00:09:26,440
 Polly, 你说说他是怎么被杀的?
 Polly, how would you say he was killed?
 
-82
+86
 00:09:26,640 --> 00:09:28,470
 用的是枪
 With a gun.
 
-83
+87
 00:09:28,640 --> 00:09:30,630
 你能给我描述一下吗?
 Can you describe it to me?
 
-84
+88
 00:09:31,440 --> 00:09:33,980
 不能, 太远了. 为什么?
 No. It was too far away. Why?
 
-85
+89
 00:09:34,040 --> 00:09:36,030
 这人是被电死的
 This man was electrocuted.
 
-86
+90
 00:09:37,880 --> 00:09:39,710
 他的衣服全都烧焦了
 His clothes are all scorched.
 
-87
+91
 00:09:39,880 --> 00:09:43,030
 绝对是某种枪, 博士
 It was definitely some kind of a gun, Doctor.
 
-88
+92
 00:09:43,880 --> 00:09:48,160
 也许吧, 但这种枪在这个星球上还没有研发出来
 Maybe. But not one that's
 been developed yet on this planet.
 
-89
+93
 00:09:48,840 --> 00:09:52,470
 这个他们称为博士的人, 他是从哪里了解到这些的?
 This man they call Doctor,
 where does he get his knowledge?
 
-90
+94
 00:09:52,640 --> 00:09:54,180
 他看起来像是一个普通人
 He looks like a normal being.
 
-91
+95
 00:09:54,440 --> 00:09:56,220
 比大多数的智力高多了
 More intelligent than most.
 
-92
+96
 00:09:56,600 --> 00:09:58,600
 他对我们的行动是一个威胁
 He's a threat to our operation.
 
-93
+97
 00:09:59,280 --> 00:10:00,900
 - 我去杀了他  - 不要
 - I'll kill him. - No.
 
-94
+98
 00:10:01,180 --> 00:10:03,380
 先抓那个女孩儿, 她能指认你
 Get the girl. She can identify you.
 
-95
+99
 00:10:03,900 --> 00:10:05,540
 我们可以稍后再对付这老头
 We can deal with the man later.
 
-96
+100
 00:10:05,760 --> 00:10:08,400
 - 他会说出去的  - 那又怎样?
 - He may talk.  - So?
 
-97
+101
 00:10:09,040 --> 00:10:11,030
 没人会信他的
 Nobody will believe him.
 
-98
+102
 00:10:13,000 --> 00:10:14,847
 我们必须向当局报告这个事情
 We must report this to the authorities.
 
-99
+103
 00:10:14,847 --> 00:10:16,880
 刚才那个追我们的人, 我们也许可以找到他
 That man who chased us. We could find him maybe.
 
-100
+104
 00:10:17,040 --> 00:10:18,080
 什么, 那个警察?
 What, the policeman?
 
-101
+105
 00:10:18,320 --> 00:10:21,040
 不, 不, Jamie. 我们必须找到这个地方的总负责人
 No, no, Jamie, we must find
 the man in charge in this place.
 
-102
+106
 00:10:21,500 --> 00:10:23,730
 那他怎么办? 我们不能把他扔在这里
 What about him? We can't just leave him here.
 
-103
+107
 00:10:23,760 --> 00:10:25,213
 我们做不了什么了
 There's nothing else we can do.
 
-104
+108
 00:10:25,213 --> 00:10:27,240
 我们现在还是去找机场主楼吧, 快点
 Now let's find the main airport building. Come on.
 
-105
+109
 00:10:31,740 --> 00:10:33,540
 你确定这条路对吗, 博士?
 Are you sure this is the right way, Doctor?
 
-106
+110
 00:10:33,560 --> 00:10:35,660
 看起来是通向主楼的
 It seems to lead to the main airport building.
 
-107
+111
 00:10:51,180 --> 00:10:53,300
 - 我怎么了?   - 短暂的肌体失能
 - What happened to me?  - A temporary disablement.
 
-108
+112
 00:10:53,480 --> 00:10:56,220
 你很快就能恢复正常, 起来吧
 You'll be back to normal any second now. Up here.
 
-109
+113
 00:10:58,260 --> 00:11:00,980
 - 你要带我去哪里?   - 你马上就知道了
 - Where are you taking me?  - You'll soon find out.
 
-110
+114
 00:11:06,580 --> 00:11:08,620
 - 我抓住她了  - 非常好
 - I've got her.  - Excellent.
 
-111
+115
 00:11:08,780 --> 00:11:10,420
 这次没人看见你吧?
 Did anybody see you this time?
 
-112
+116
 00:11:10,580 --> 00:11:12,953
 她走在她朋友的后面, 他们也没注意
 She was following behind her friends,
 but they didn't notice.
 
-113
+117
 00:11:12,953 --> 00:11:16,580
 - 他们会来找我的  - 坐下
 - They'll come looking for me.  - Sit down.
 
-114
+118
 00:11:18,380 --> 00:11:20,370
 凶手!
 Murderers!
 
-115
+119
 00:11:20,540 --> 00:11:24,620
 你必须给我们放尊重点, 回答我的问题
 You'll have to show us some respect
 and answer my questions.
 
-116
+120
 00:11:24,780 --> 00:11:28,600
 - 你在那个航线上工作?   - 我没明白
 - Which airline do you work for?
 - I don't understand.
 
-117
+121
 00:11:28,700 --> 00:11:33,060
 你肯定属于某条航线, 或者这里的机场管理方
 You must belong to an airline
 or the airport authority to be in this area.
 
-118
+122
 00:11:33,260 --> 00:11:38,130
 我跟机场没有任何关系, 只是刚抵达这里, 迷路了
 I've got nothing to do with the airport.
 We'd just arrived. We were lost.
 
-119
+123
 00:11:38,300 --> 00:11:43,300
 我正想找人帮忙, 然后就看到他杀了一个人
 I was trying to find someone to help me,
 and I saw him kill a man.
 
-120
+124
 00:11:43,460 --> 00:11:45,260
 你说你们刚抵达这里? 你怎么到这里的?
 You say you'd just arrived? How did you get here?
 
-121
+125
 00:11:45,820 --> 00:11:47,776
 我们从她这里问不出什么来
 We'll gain nothing by questioning her.
 
-122
+126
 00:11:47,824 --> 00:11:50,112
 重要的是我们抓住了她
 The important thing is that we've got her.
 
-123
+127
 00:11:51,100 --> 00:11:53,904
 你们不会觉得我的朋友们就这样把我给忘了吧, 会吗?
 You don't think my friends
 are just going to forget me like that, do you?
 
-124
+128
 00:11:57,580 --> 00:12:00,335
 我搞不懂了, 博士, 那儿都找不到 Polly
 <i>I don't understand it, Doctor.
 Polly's nowhere to be seen.</i>
 
-125
+129
 00:12:00,335 --> 00:12:02,100
 她肯定出什么事了
 <i>Something must have happened to her.</i>
 
-126
+130
 00:12:02,260 --> 00:12:04,580
 这里锁住的, Jamie, 里面没人
 <i>That's locked, Jamie. There's nobody there.</i>
 
-127
+131
 00:12:08,260 --> 00:12:10,114
 我担心我们是在浪费时间, Jamie
 I'm afraid we're wasting our time here, Jamie.
 
-128
+132
 00:12:10,114 --> 00:12:13,890
 我们越早找到当局越好, 把情况告诉他们. 快点
 The sooner we find the authorities
 and tell it to them, the better. Come on.
 
-129
+133
 00:12:14,900 --> 00:12:19,050
 是的, 你说得对. 你的朋友们的确在担心你
 Yes, you're right.
 Your friends ARE worried about you.
 
-130
+134
 00:12:19,220 --> 00:12:23,980
 那我们必须得做点什么, 让他们不要再担心了
 Then we shall have to do something
 to stop them worrying.
 
-131
+135
 00:12:32,680 --> 00:12:34,670
 看起来是往这边, Jamie
 This seems to be the way, Jamie.
 
-132
+136
 00:12:36,880 --> 00:12:40,190
 打扰了. 我们在找这里的负责人
 Excuse me. We're looking for someone in authority.
 
-133
+137
 00:12:40,360 --> 00:12:42,960
 等一下, 先生. 都来得及的
 Just a moment, sir. All in good time.
 
-134
+138
 00:12:43,120 --> 00:12:45,110
 谢谢你, 女士
 Thank you, madam.
 
-135
+139
 00:12:45,280 --> 00:12:46,980
 好了, 先生, 请出示你们的护照
 Now, sir. Your passport, please.
 
-136
+140
 00:12:47,600 --> 00:12:49,669
 我没时间说这个, 我们要找负责人
 I've got no time for that.
 We want to see someone in authority.
 
-137
+141
 00:12:49,869 --> 00:12:52,310
 我就是负责人. 请出示你的护照
 I am in authority. Your passport, please.
 
-138
+142
 00:12:52,480 --> 00:12:55,000
 你没搞明白, 我们有一些重要情况要报告
 You don't understand.
 We have something important to report.
 
-139
+143
 00:12:55,160 --> 00:12:57,480
 可以, 先生, 但得等你们找到了护照再说
 Yes, sir, when you've found your passport.
 
-140
+144
 00:12:57,660 --> 00:12:58,680
 下一个, 请过来
 Next one, please.
 
-141
+145
 00:12:58,780 --> 00:13:01,570
 - 护照是什么, 博士?  - 官方要的某种叽叽歪歪的东西
 - What's a passport, Doctor?
 - Some sort of official mumbo-jumbo.
 
-142
+146
 00:13:01,640 --> 00:13:05,760
 听着, 我们刚刚在那边发现了一具尸体
 Look, we've just discovered a dead body out there.
 
-143
+147
 00:13:08,520 --> 00:13:09,840
 你听到我说话了吗?
 Did you hear me?
 
-144
+148
 00:13:10,180 --> 00:13:13,140
 听到了, 先生. 如果我是你, 就会通知警方
 Well, sir. If I were you, I'd inform the police.
 
-145
+149
 00:13:13,280 --> 00:13:14,880
 请告诉我在哪里可以找到他们
 Please tell me where we can find them.
 
-146
+150
 00:13:15,168 --> 00:13:16,880
 在大厅里应该就有一个警察
 There's probably a policeman in the main concourse.
 
-147
+151
 00:13:16,976 --> 00:13:19,936
 - 大厅在哪儿?  - 从这个门过去往左拐
 - And where is that?
 - Through this door and turn to your left.
 
-148
+152
 00:13:20,000 --> 00:13:22,192
 谢谢, 非常感谢. 走吧, Jamie
 Thank you, thank you very much. Come on, Jamie.
 
-149
+153
 00:13:22,480 --> 00:13:24,620
 我能看看你的护照吗, 先生?
 May I see your passport, sir?
 
-150
+154
 00:13:24,700 --> 00:13:26,800
 我们俩谁都没有护照!
 We neither of us have passports!
 
-151
+155
 00:13:27,120 --> 00:13:28,580
 这样你满意了吗?
 Does that satisfy you?
 
-152
+156
 00:13:28,656 --> 00:13:30,496
 我想你肯定搞错了, 先生
 I think you must be mistaken, sir.
 
-153
+157
 00:13:30,592 --> 00:13:32,920
 你没有护照是不可能登上飞机的
 You couldn't have got on the aircraft without passports.
 
-154
+158
 00:13:33,080 --> 00:13:36,280
 - 什么飞机?   - 你们坐着抵达这里的飞机, 先生
 - What aircraft?  - The one you arrived on, sir.
 
-155
+159
 00:13:36,440 --> 00:13:38,080
 我们不是坐着飞机抵达的
 We didn't arrive on an aircraft.
 
-156
+160
 00:13:38,128 --> 00:13:40,784
 好了, 听着, 这个玩笑开得有点过头了
 Now, look here, this joke's gone far enough.
 
-157
+161
 00:13:40,832 --> 00:13:43,660
 你也知我也知, 你们肯定是搭乘刚才进港这个航班抵达的
 You know and I know that you must have arrived
 on the last inbound flight
 
-158
+162
 00:13:43,744 --> 00:13:47,390
 - 而这个航班729来自马德里  - 告诉他 TARDIS 的事情
 - which was flight 729 from Madrid
 - Tell him about the Tardis!
 
-159
+163
 00:13:47,440 --> 00:13:49,664
 - 那是什么?   - 是我们到达这里的方法
 - What's that?  - It's the way we got here.
 
-160
+164
 00:13:50,128 --> 00:13:52,416
 你们两位绅士不会碰巧知道一个警察亭子吧, 知道吗?
 You gentlemen wouldn't know anything
 about a police box, would you?
 
-161
+165
 00:13:52,416 --> 00:13:54,280
 我说的就是这个. 我们就是...
 That's what I'm saying! We're...
 
-162
+166
 00:13:54,440 --> 00:13:56,880
 我真的觉得我们的交通方式跟这个无关
 I really think that our mode
 of conveyance is irrelevant.
 
-163
+167
 00:13:57,040 --> 00:13:59,687
 重要的事情是我们在外面发现了一具尸体!
 The important thing is that
 we discovered a dead body out there!
 
-164
+168
 00:13:59,687 --> 00:14:01,830
 而我们想把这事报告给这里的负责人!
 And we want to report it to someone in authority!
 
-165
+169
 00:14:02,176 --> 00:14:05,456
 我想你们有很多机会跟负责人见面
 I think you'll have plenty of opportunity
 to see someone in authority.
 
-166
+170
 00:14:05,480 --> 00:14:07,680
 - 好, 谢谢你, 非常感谢  - 你们能坐一会儿吗, 那边
 - Well, thank you. Thank you very much.
 - Will you take a seat, over there.
 
-167
+171
 00:14:11,520 --> 00:14:13,590
 给我接总指挥, 谢谢
 Give me the commandant, please.
 
-168
+172
 00:14:14,160 --> 00:14:17,088
 你好, 长官. 我是Jenkins, 出入境五号柜台
 Hello, sir. Jenkins here. Immigration desk five.
 
-169
+173
 00:14:17,232 --> 00:14:19,600
 我这里有两个你说那种嫌疑人员
 I've got two of your suspects here.
 
-170
+174
 00:14:48,080 --> 00:14:50,070
 这里有人吗?
 Anyone here?
 
-171
+175
 00:14:50,240 --> 00:14:53,630
 这附近应该有人啊. 这里有人吗?
 There must be someone around. Anyone here?
 
-172
+176
 00:14:56,480 --> 00:14:58,470
 哈罗, Blade 机长在吗?
 Hello. Is Captain Blade about?
 
-173
+177
 00:14:58,470 --> 00:15:00,400
 我不知道, 我有点迷路了
 I don't know. I'm a bit lost.
 
-174
+178
 00:15:00,560 --> 00:15:01,984
 你是在找我吗?
 Are you looking for me?
 
-175
+179
 00:15:02,115 --> 00:15:04,480
 是的, 我这里有你的飞行排班表, 都安排好了
 Yes, I have your flight schedules here.
 They're all in order.
 
-176
+180
 00:15:04,640 --> 00:15:07,110
 - 谢谢    - 再见
 - Thank you.  - Goodbye.
 
-177
+181
 00:15:08,840 --> 00:15:11,312
 - 你有什么需要吗?   - 我在找出口
 - What do you want?  - I'm looking for the way out.
 
-178
+182
 00:15:11,744 --> 00:15:14,780
 这里是私人物业, 不欢迎游客
 This is private property. Visitors are not welcome.
 
-179
+183
 00:15:15,030 --> 00:15:17,240
 你是机场方面的吗?
 Do you belong to the airport staff?
 
-180
+184
 00:15:17,400 --> 00:15:19,008
 是, 我今天刚上班
 Yeah. I started today.
 
-181
+185
 00:15:19,104 --> 00:15:21,240
 我不是故意来这里的, 只是走迷路了
 I didn't mean to come in here. I got lost.
 
-182
+186
 00:15:21,400 --> 00:15:25,240
 - 你确定?   - 当然确定
 - Are you sure?  - Of course I am.
 
-183
+187
 00:15:26,200 --> 00:15:28,640
 你还打算带我出去不?
 Are you going to direct me or not?
 
-184
+188
 00:15:30,480 --> 00:15:33,360
 当然, 来吧, 我给你指路
 Yes, of course. Come on. I'll show you the way.
 
-185
+189
 00:15:34,448 --> 00:15:36,280
 你说这个女孩儿目击了一场谋杀?
 You say this girl witnessed a murder?
 
-186
+190
 00:15:36,380 --> 00:15:38,764
 是的, 她看见那个男人被杀了
 Yes, she saw the man killed.
 
-187
+191
 00:15:38,864 --> 00:15:40,950
 那人被一把射线枪给电死了
 He was electrocuted with a ray gun.
 
-188
+192
 00:15:41,570 --> 00:15:43,584
 - 一把什么?   - 哦, 是什么枪又有什么关系
 - A what?  - Oh, what does it matter what sort of gun.
 
-189
+193
 00:15:43,616 --> 00:15:45,648
 关键是他被杀了, 而我的朋友又目睹了事情经过
 The point is he was killed and my friend saw it happen.
 
-190
+194
 00:15:45,744 --> 00:15:47,792
 那你朋友在哪儿? 我想跟她谈谈
 Where is she? I'd like to talk to her.
 
-191
+195
 00:15:47,840 --> 00:15:49,504
 这个, 又是另外一件事了, 她消失了
 Well, that's another thing. She's vanished.
 
-192
+196
 00:15:49,568 --> 00:15:53,184
 哦, 消失的人, 射线枪. 这是某种玩笑吗?
 Oh, people who vanish, ray guns...
 Is this some sort of joke?
 
-193
+197
 00:15:53,232 --> 00:15:55,696
 如果你见到尸体就不会觉得这是个玩笑了
 You wouldn't think it a joke if you saw the body.
 
-194
+198
 00:15:56,730 --> 00:15:58,448
 他们是坐哪趟航班来的?
 What flight did they come in on?
 
-195
+199
 00:15:58,512 --> 00:16:02,192
 长官, 他们是跟马德里729航班的乘客一起进来的
 Well, sir, they came in with the passengers
 from flight 729 from Madrid,
 
-196
+200
 00:16:02,240 --> 00:16:03,792
 但他们没有护照
 but they've no passports.
 
-197
+201
 00:16:05,490 --> 00:16:08,928
 也许你们可以解释一下, 你们为什么没有护照
 Perhaps you'd kindly explain why you have no passports.
 
-198
+202
 00:16:09,080 --> 00:16:11,168
 哦, 天, 我们完全是在浪费时间!
 Oh, look, we're all wasting time!
 
-199
+203
 00:16:11,210 --> 00:16:13,057
 你们还去不去看尸体了?
 Are you going to come and see that body, or am I
 
-200
+204
 00:16:13,057 --> 00:16:16,290
 或者是我得去找这个地方真正的负责人?
 going to find someone
 who really is in charge in this place?
 
-201
+205
 00:16:16,450 --> 00:16:18,612
 我就是这里的负责人, 谢谢
 I am in charge of this place, thank you.
 
-202
+206
 00:16:18,656 --> 00:16:21,370
 现在, 你们俩立刻陪我去这个机库
 Now, you both accompany me to this hangar immediately.
 
-203
+207
 00:16:21,530 --> 00:16:25,050
 谢谢, 非常感谢你. 终于!
 Thank you! Thank you very much. At last!
 
-204
+208
 00:16:26,530 --> 00:16:29,920
 - 把我的去向告诉航空控制台  - 是, 先生
 - Tell Air Traffic Control where I am.  - Yes, sir.
 
-205
+209
 00:16:32,256 --> 00:16:34,032
 这里是出入境五号柜台
 Immigration desk five here.
 
-206
+210
 00:16:34,560 --> 00:16:38,160
 一号已经刚往机库去了, 他期望我告诉你们这个信息
 Number One's just gone to the hangar area.
 He wanted me to let you know.
 
-207
+211
 00:16:38,672 --> 00:16:41,168
 事实上, 他是去找一具死尸
 As a matter of fact,
 he's just gone to look for a dead body.
 
-208
+212
 00:16:41,600 --> 00:16:44,400
 是啊, 总会有这么一天的, 对吧?
 Yes, It's gonna be one of those days, isn't it?
 
-209
+213
 00:16:59,730 --> 00:17:01,728
 - 搞定她了?   - 她已经被处理了
 - Get her?  - She's being processed.
 
-210
+214
 00:17:01,840 --> 00:17:03,904
 下一航班他们可以再带一个了
 They can take another on the next flight.
 
-211
+215
 00:17:04,850 --> 00:17:05,856
 很好
 Excellent.
 
-212
+216
 00:17:33,664 --> 00:17:35,520
 尸体 - 不见了!
 The body - it's gone!
 
-213
+217
 00:17:36,620 --> 00:17:40,112
 - 你能肯定就是这个机库?   - 是, 名字都在外面呢
 - You're quite sure you've got the right hangar?
 - Aye. The name's up outside.
 
-214
+218
 00:17:40,192 --> 00:17:42,250
 尸体刚才就躺在这里
 The body was lying just here.
 
-215
+219
 00:17:44,336 --> 00:17:47,152
 那, 那我们看看能找到什么, 行吗?
 Well, let's see what we HAVE got, shall we?
 
-216
+220
 00:17:52,810 --> 00:17:54,717
 你到底是在做什么?
 What exactly are you doing?
 
-217
+221
 00:17:55,210 --> 00:17:56,660
 当然是在帮警察找线索啊
 For the police, of course.
 
-218
+222
 00:17:56,880 --> 00:17:58,740
 问题在于我没法告诉他们那人是谁
 The trouble is I can't tell them who he was.
 
-219
+223
 00:17:58,864 --> 00:18:00,576
 某种神秘人物, 肯定无疑
 Some sort of mystery man, no doubt.
 
-220
+224
 00:18:00,610 --> 00:18:01,970
 是的, 事实上他真是
 Yes, as a matter of fact he was.
 
-221
+225
 00:18:02,110 --> 00:18:03,570
 他口袋里没有任何东西可以表明他的身份
 There was nothing in his pockets to identify him.
 
-222
+226
 00:18:03,730 --> 00:18:05,410
 哦, 一个口袋里没有任何东西的人
 Oh, a man with nothing in his pockets
 
-223
+227
 00:18:05,730 --> 00:18:08,410
 是的, 我也觉得很诧异
 Yes, I was rather surprised myself.
 
-224
+228
 00:18:08,570 --> 00:18:10,410
 等等, 还真有个东西
 Wait. There WAS one thing.
 
-225
+229
 00:18:10,900 --> 00:18:13,400
 - 他口袋里有什么?   - 这个
 - What did he have in his pocket?  - This.
 
-226
+230
 00:18:14,144 --> 00:18:18,400
 - 一张邮票?   - 但它是西班牙的, 而且还没有用过
 - A postage stamp.
 - But it's Spanish and it hasn't been used.
 
-227
+231
 00:18:18,464 --> 00:18:20,080
 噢, 我肯定这就有很大的不同了
 Oh, I'm sure that'll make all the difference.
 
-228
+232
 00:18:20,224 --> 00:18:23,930
 的确. 哈罗...这有点意思
 Exactly. Hello... This is interesting.
 
-229
+233
 00:18:24,090 --> 00:18:25,570
 你现在发现了什么?
 What have you found now?
 
-230
+234
 00:18:26,530 --> 00:18:28,330
 一丝被烧焦的纤维
 It's burnt fibres.
 
-231
+235
 00:18:28,384 --> 00:18:30,144
 这说明什么, 博士?
 What about this, Doctor?
 
-232
+236
 00:18:30,270 --> 00:18:32,544
 刚才这里并没有, 这里有个烧焦的痕迹
 This wasn't here before. It's a burn mark.
 
-233
+237
 00:18:32,640 --> 00:18:34,992
 你说的对, Jamie, 这是新的
 You're right, Jamie. It's quite new.
 
-234
+238
 00:18:35,952 --> 00:18:38,520
 能见到有人肯动动脑, 真是高兴
 It's good to see someone is using their intelligence.
 
-235
+239
 00:18:38,800 --> 00:18:41,488
 噢, 我受够这些了! 你们俩跟我来
 Oh, I've had enough of this!
 You two coming with me.
 
-236
+240
 00:18:41,550 --> 00:18:43,120
 绝对是射线枪造成的
 Definitely made by a ray gun.
 
-237
+241
 00:18:43,280 --> 00:18:46,176
 射线枪, 烧焦的纤维, 外国邮票
 Ray gun, burnt fibres, foreign stamps...
 
-238
+242
 00:18:46,200 --> 00:18:48,672
 - 没用过的外国邮票 - 好, 没用过的外国邮票
 - Unused foreign stamps.
 - All right, unused foreign stamps.
 
-239
+243
 00:18:48,720 --> 00:18:51,344
 我肯定是跟你一样疯了, 还在听你瞎说!
 I must be as mad as you are,
 even to be listening to you!
 
-240
+244
 00:18:51,440 --> 00:18:53,488
 - 你知道他们把它怎么样了么?   - 把什么怎么样了?
 - You know what they've done with it?
 - Done with what?
 
-241
+245
 00:18:53,488 --> 00:18:56,896
 尸体. 在某个地方肯定有一个很大的行李箱
 The body. Somewhere there's a large packing case.
 
-242
+246
 00:18:57,050 --> 00:18:59,252
 就在你后面, 博士
 Right behind you, Doctor.
 
-243
+247
 00:19:04,032 --> 00:19:07,296
 - 需要我帮忙吗?  - 你是变色龙观光团的吗
 - Can I help you?
 - Are you connected with Chameleon Tours?
 
-244
+248
 00:19:07,664 --> 00:19:09,600
 是的, 我是机长Blade, 首席飞行员
 Yes. I'm Captain Blade - chief pilot.
 
-245
+249
 00:19:09,712 --> 00:19:12,290
 这两位绅士觉得...
 These gentlemen think...
 
-246
+250
 00:19:12,390 --> 00:19:15,100
 - ...这里发生了一场事故. - 事故?
 - ...there's an incident happened in here.  - An incident?
 
-247
+251
 00:19:15,250 --> 00:19:17,648
 你介意我们看一下这个行李箱里面吗?
 Would you mind if we have a look in this packing case?
 
-248
+252
 00:19:17,888 --> 00:19:20,448
 - 冒昧问一下, 你是哪位?  - 我是机场总指挥
 - May I ask who you are?  - I'm the commandant.
 
-249
+253
 00:19:21,408 --> 00:19:22,864
 可以, 当然可以
 Yes, of course.
 
-250
+254
 00:19:24,576 --> 00:19:26,920
 你们指望找到什么呢?
 What do you expect to find?
 
-251
+255
 00:19:27,090 --> 00:19:28,800
 一个死人
 A dead man.
 
-252
+256
 00:19:29,770 --> 00:19:32,290
 真有意思
 How very interesting.
 
-253
+257
 00:19:40,890 --> 00:19:41,960
 塑料杯!
 Plastic cups!
 
-254
+258
 00:19:42,290 --> 00:19:45,360
 现在我得做点自己的调查工作了
 Now I'm going to do some investigating of my own.
 
-255
+259
 00:19:45,530 --> 00:19:46,960
 我很高兴终于激起了你的兴趣!
 I'm glad I've roused your interest!
 
-256
+260
 00:19:47,040 --> 00:19:49,984
 哦, 的确是, 不过我打算调查的是你
 Oh, you have. But what I'm going to investigate is you.
 
-257
+261
 00:19:50,016 --> 00:19:51,952
 还有你俩为什么会出现在机场
 and why you're both here in the airport.
 
-258
+262
 00:19:52,064 --> 00:19:54,032
 谢谢你, Blade 机长. 来吧, 你俩, 出去
 Thank you, Captain Blade. Come on, you two. Out.
 
-259
+263
 00:19:54,192 --> 00:19:56,032
 我们最好迁就一下他
 We'd better humour him.
 
-260
+264
 00:20:07,450 --> 00:20:09,440
 把他弄下来
 Bring him down.
 
-261
+265
 00:20:15,490 --> 00:20:17,480
 好了
 It's all right.
 
-262
+266
 00:20:20,720 --> 00:20:23,856
 - 他能活下来吗?  - 如果我们动作快点
 - Will he survive? - If we hurry.
 
-263
+267
 00:20:26,650 --> 00:20:28,224
 就这里了
 There you are.
 
-264
+268
 00:20:29,488 --> 00:20:31,472
 我们得把你弄到机场大楼去
 We've got to get you to the airport building.
 
-265
+269
 00:20:31,988 --> 00:20:33,472
 然后你就安全了
 And you'll be safe.
 
-266
+270
 00:20:35,130 --> 00:20:38,384
 你快要到窒息点了, 快点
 He's reaching suffocation point. Hurry.
 
-267
+271
 00:20:38,720 --> 00:20:40,192
 你都没有让我好好搜查
 You didn't let me search properly.
 
-268
+272
 00:20:40,320 --> 00:20:42,992
 那个机库出租给了一个私有承包公司
 That hangar is leased to a private charter company.
 
-269
+273
 00:20:43,020 --> 00:20:45,080
 我都无权在那里进行搜查, 更别说你了
 I've have no right to search in there, let alone you.
 
-270
+274
 00:20:45,140 --> 00:20:47,280
 现在, 你可否坐下来, 保持安静?
 Now, will you kindly sit down and keep quiet?
 
-271
+275
 00:20:48,030 --> 00:20:50,752
 Jenkins, 给我接 Reynolds 警司
 Jenkins, get onto Superintendent Reynolds.
 
-272
+276
 00:20:51,088 --> 00:20:53,480
 这是他的活儿, 这些人在这里乱闯
 This is his job. These people are trespassing.
 
-273
+277
 00:20:53,520 --> 00:20:56,368
 - 我这里刚有另外一家飞机抵港  - 好吧, 我自己来
 - I've just got another flight coming through.
 - All right. I'll do it.
 
-274
+278
 00:20:57,376 --> 00:20:58,720
 博士, 你看!
 Doctor, look!
 
-275
+279
 00:21:24,280 --> 00:21:27,120
 总指挥, 这就是我刚跟你说的那个女孩
 Commandant, this is the girl I was telling you about.
 
-276
+280
 00:21:27,220 --> 00:21:28,348
 I beg your pardon?
 你说什么?
 
-277
+281
 00:21:28,448 --> 00:21:30,144
 你认识这两位先生吗?
 Do you know these gentlemen?
 
-278
+282
 00:21:31,040 --> 00:21:32,480
 - 不认识, 怎么了, 该认识吗?
 - No. Why? Should I?
 
-279
+283
 00:21:32,640 --> 00:21:34,720
 - 据他们说, 他们认识你
 - According to them, they know you.
 
-280
+284
 00:21:35,120 --> 00:21:37,920
 - 你去哪儿了, Polly?   - Polly?
 - Where have you been, Polly?  - Polly?
 
-281
+285
 00:21:38,080 --> 00:21:41,150
 我不叫 Polly,  你们肯定搞错了
 My name isn't Polly. You must have made a mistake.
 
-282
+286
 00:21:41,320 --> 00:21:44,000
 我这辈子从没有见过他们
 I've never seen them before in my life.

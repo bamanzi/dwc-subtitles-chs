@@ -1,1690 +1,1708 @@
-﻿1
-00:00:17,006 --> 00:00:20,006
+1
+00:00:03,605 --> 00:00:06,605
 Sincro: wyxchari
 
 2
+00:00:15,200 --> 00:00:18,000
+基于 opentitles.org 英文字幕翻译
+
+3
+00:00:18,000 --> 00:00:21,800
+(注意：本字幕针对2020年动画版视频, 
+与旧版本在对话内容和时间轴上略有差异)
+
+4
+00:00:28,000 --> 00:00:32,800
+<b>The Faceless Ones: Episode 4</b>
+<b>无面一族: 第四集</b>
+
+5
+00:00:33,000 --> 00:00:35,800
+【中文翻译/时间轴】巴蛮子sz
+
+6
 00:00:39,560 --> 00:00:41,810
 - 都搞定了  - 很好
 - All set.   - Good.
 
-3
+7
 00:00:52,672 --> 00:00:56,192
 你不是想知道变色龙观光游的秘密吗?
 You wanted to know the secret of Chameleon Tours.
 
-4
+8
 00:00:57,840 --> 00:01:00,128
 好了, 督察...
 Well Inspector,
 
-5
+9
 00:01:02,528 --> 00:01:04,960
 你自己看!
 see for yourself!
 
-6
+10
 00:01:18,320 --> 00:01:20,784
 - 博士!   - 他死了!
 - Doctor!   - He's dead!
 
-7
+11
 00:01:21,568 --> 00:01:23,440
 你跟我来
 You're coming with me.
 
-8
+12
 00:01:23,504 --> 00:01:24,768
 我不会离开他
 I'll not leave him.
 
-9
+13
 00:01:24,928 --> 00:01:26,944
 你有五秒钟改变主意
 You have five seconds to change your mind.
 
-10
+14
 00:01:27,024 --> 00:01:28,416
 除非你先杀了我
 You'll have to kill me then.
 
-11
+15
 00:01:28,460 --> 00:01:30,416
 我说了五秒
 I said five seconds.
 
-12
+16
 00:01:30,730 --> 00:01:34,416
 五, 四, 三...
 Five, four, three...
 
-13
+17
 00:01:34,448 --> 00:01:35,760
-SAMANTHA!
+SAMANTHA​!
 SAMANTHA!
 
-14
+18
 00:02:40,350 --> 00:02:42,700
 我想问这飞机往哪儿开, 估计问也白问
 I suppose there's no use my asking
 where this plane's going to?
 
-15
+19
 00:02:42,890 --> 00:02:44,390
 你很快就能知道了
 You will know soon enough.
 
-16
+20
 00:02:45,710 --> 00:02:47,936
 三号飞机呼叫基地
 This is Plane Number Three to Base.
 
-17
+21
 00:02:48,230 --> 00:02:51,728
 告诉总管我已经按他吩咐给他找了一个替身
 Inform the Director that I have
 an original for him as ordered.
 
-18
+22
 00:02:52,016 --> 00:02:53,767
 正在运送过来
 I am delivering him now,
 
-19
+23
 00:02:54,096 --> 00:02:57,104
 然后会立刻返回盖特威克机场
 and will return immediately to Gatwick Airport.
 
-20
+24
 00:02:57,824 --> 00:03:01,264
 Jamie? 你没事吧
 Jamie? Are you all right?
 
-21
+25
 00:03:01,408 --> 00:03:05,480
 没事. 他们..没有伤到你吧, 有吗?
 Aye. Th... They've not harmed you, have they?
 
-22
+26
 00:03:05,790 --> 00:03:09,310
 没有, 但我动不了
 No - but I can't move.
 
-23
+27
 00:03:10,448 --> 00:03:12,000
 博士?
 Doctor?
 
-24
+28
 00:03:12,544 --> 00:03:13,888
 你没事吧?
 Are you all right?
 
-25
+29
 00:03:13,952 --> 00:03:15,892
 发生什么了? 我...我动不了了
 What's happening? I... I can't move.
 
-26
+30
 00:03:17,104 --> 00:03:18,112
 那是什么?
 What's that?
 
-27
+31
 00:03:18,192 --> 00:03:22,096
 我...我不知道, 是一束光
 I... I don't know. It's a beam of light.
 
-28
+32
 00:03:22,160 --> 00:03:27,168
 是. 博士, 它...在朝我们移动!
 Aye. Doctor, it... it's moving towards us!
 
-29
+33
 00:03:28,880 --> 00:03:31,520
 这对于将要发生在我们身上的事来说, 只是一道小小的开胃菜
 That's just a small fore-taste
 of what'll happen to us
 
-30
+34
 00:03:31,720 --> 00:03:33,610
 要是我们还不赶紧挪开的话
 if we don't move and quickly.
 
-31
+35
 00:03:33,720 --> 00:03:36,432
 - 但我动不了, 博士!   - 我也动不了
 - But I can't move, Doctor!  - Neither can I.
 
-32
+36
 00:03:36,576 --> 00:03:40,288
 等一下, 我可以移动一只胳膊
 Wait a minute. I can move one arm.
 
-33
+37
 00:03:40,544 --> 00:03:42,640
 但我移动不了!
 But I can't move away!
 
-34
+38
 00:04:07,290 --> 00:04:10,592
 噢博士! 你不能想什么办法停掉它吗?
 Oh Doctor! Can't you do anything to stop it?
 
-35
+39
 00:04:10,640 --> 00:04:11,856
 没有
 No.
 
-36
+40
 00:04:11,968 --> 00:04:14,480
 等等, 有一个
 Wait. One thing.
 
-37
+41
 00:04:14,750 --> 00:04:17,008
 虽然机会不大, 但也许能成功
 It's a long chance but it just might work.
 
-38
+42
 00:04:17,040 --> 00:04:18,400
 你包里有镜子吗?
 Have you got a mirror in that bag?
 
-39
+43
 00:04:18,400 --> 00:04:20,368
 - 有  - 我看看
 - Yes.   - Let's see.
 
-40
+44
 00:04:21,424 --> 00:04:23,104
 嗯, 这应该可以. 把它给我
 Yes, that'll do. Hand it to me.
 
-41
+45
 00:04:23,216 --> 00:04:26,128
 - 给不了  - 我没法移动我的手
 - I can't.  - I can't move my hand.
 
-42
+46
 00:04:26,240 --> 00:04:28,470
 Jamie, 你能拿到吗?
 Jamie, can you take it?
 
-43
+47
 00:04:28,656 --> 00:04:30,880
 - 你拿到了吗?   - 还没, 小心!
 - Have you got it?   - No, careful!
 
-44
+48
 00:04:30,940 --> 00:04:32,784
 - 接着!  - 接到了!
 - Take it!   - Got it!
 
-45
+49
 00:04:32,890 --> 00:04:35,888
 现在, 看看你能否把它对准那个射线枪
 Right now, see if you can point it at that laser gun.
 
-46
+50
 00:04:36,304 --> 00:04:39,584
 - 墙上的那个东西 - 我试试, 博士. 不过为啥?
 - That thing on the wall.
 - I'll try, Doctor. But why?
 
-47
+51
 00:04:39,616 --> 00:04:42,816
 如果你能把光反射回去, 我们就有机会了
 If you can reflect the light back,
 we've got a chance.
 
-48
+52
 00:04:43,760 --> 00:04:46,256
 你不能拿什么东西撑住它吗
 Can't you prop it up on something?
 
-49
+53
 00:04:46,340 --> 00:04:47,320
 不, 不行.
 No, it won't work..
 
-50
+54
 00:04:47,440 --> 00:04:49,490
 - 我, 我用手拿着吧  - 但是你...你的手!
 -I'll... I'll have to hold it. - But your...your hand!
 
-51
+55
 00:04:49,670 --> 00:04:51,632
 这个风险我不得不担
 It's a risk I'll have to take.
 
-52
+56
 00:04:53,450 --> 00:04:54,650
 快 Jamie! 赶紧!
 Quick Jamie! Now!
 
-53
+57
 00:04:58,304 --> 00:05:00,310
 噢, 干得好!
 Oh, well done!
 
-54
+58
 00:05:03,472 --> 00:05:05,344
 啊...我可以动了!
 Argh... I can move!
 
-55
+59
 00:05:06,000 --> 00:05:07,296
 我...我觉得是否...
 I... I wonder if...
 
-56
+60
 00:05:07,552 --> 00:05:10,592
 你觉得 Ben 和 Polly 是不是也遭遇了这个, 博士?
 Do you think that's what happened
 to Ben and Polly, Doctor?
 
-57
+61
 00:05:10,688 --> 00:05:12,640
 - 不是  - 你肯定吗?
 - No.   - Are you sure?
 
-58
+62
 00:05:12,768 --> 00:05:15,180
 我觉得他们拿他俩有别的用途
 I think they were needed for some purpose.
 
-59
+63
 00:05:15,280 --> 00:05:18,688
 - 而我们没有?   - 显然我们对他们太危险了
 - And we weren't.
 - We were obviously too dangerous for them.
 
-60
+64
 00:05:18,880 --> 00:05:22,256
 竟然想干这样的事情, 在光天化日之下!
 But to try and do something like this,
 in broad daylight!
 
-61
+65
 00:05:22,320 --> 00:05:25,232
 是啊. 这只可能意味着一件事情, 恐怕
 Yes. That means only one thing, I'm afraid.
 
-62
+66
 00:05:25,930 --> 00:05:28,048
 他们的计划快要完成了
 Their plans are almost complete.
 
-63
+67
 00:05:28,240 --> 00:05:30,672
 我们必须赶紧行动, 否则别想就 Polly 和 Ben 了
 We'll have to act fast
 if we're going to save Ben and Polly.
 
-64
+68
 00:05:30,752 --> 00:05:33,240
 还有 Brian, 你是不是已经忘记他了
 And Brian, or have you forgotten about him.
 
-65
+69
 00:05:33,320 --> 00:05:34,912
 没, 我没有忘记他, Sam
 No, I've not forgotten him Sam,
 
-66
+70
 00:05:35,136 --> 00:05:37,170
 但如果我的猜测没错的话, 他们都在同一个地方
 but if my guess is right,
 they're all in the same place.
 
-67
+71
 00:05:37,360 --> 00:05:39,184
 - 在什么地方?   - 我不知道
 - And where's that?  - I don't know.
 
-68
+72
 00:05:39,248 --> 00:05:42,320
 等等! 急救站!
 Wait! The first aid post!
 
-69
+73
 00:05:42,816 --> 00:05:45,600
 我们在那个监视器里面看到了一个急救站
 We saw a first aid post on that monitor.
 
-70
+74
 00:05:45,920 --> 00:05:47,312
 我们必须找到它
 We must find it.
 
-71
+75
 00:05:47,856 --> 00:05:50,384
 快点, 你没打算在这里坐一整天吧, 有吗?
 Come on, you're not going to
 sit there all day are you?
 
-72
+76
 00:05:51,392 --> 00:05:54,528
 等一下, 我们不能全都涌去急救站
 Just a minute. We can't all
 go down to the Medical Unit.
 
-73
+77
 00:05:54,560 --> 00:05:56,490
 好吧, 我能干点什么?
 All right. What can I do?
 
-74
+78
 00:05:56,688 --> 00:05:58,592
 那个想杀我们的男人, 你有没有看清楚?
 Did you get a good look
 at the man who tried to kill us?
 
-75
+79
 00:05:58,640 --> 00:06:00,768
 应该有吧, 我都用脖子勒住他脖子了
 I'll say. I had my arms around his neck.
 
-76
+80
 00:06:01,008 --> 00:06:03,760
 去变色龙的柜台, 看看能否看到他进出
 Go down to the Chameleon Kiosk
 and see if he comes in or out.
 
-77
+81
 00:06:03,820 --> 00:06:06,368
 但是小心点, 别让他看见你
 But be careful. Don't let him see you.
 
-78
+82
 00:06:06,432 --> 00:06:10,912
 我小心点? 你俩自己小心点吧, 我肯定没事
 Me be careful!? You two watch out
 for yourselves! I'll be OK!
 
-79
+83
 00:06:12,176 --> 00:06:14,912
 她很有勇气, 那个小姑娘, 博士
 She's got a lot of courage,
 that wee lass, Doctor.
 
-80
+84
 00:06:14,992 --> 00:06:19,152
 是, 我只是期望她不要太冒险了
 Yes. I just hope she doesn't
 try to be too adventurous.
 
-81
+85
 00:06:22,270 --> 00:06:23,660
 你是谁?
 Who are you?
 
-82
+86
 00:06:23,840 --> 00:06:26,016
-Steven Christopher Jenkins
+Steven Christopher​ Jenkins
 Steven Christopher Jenkins
 
-83
+87
 00:06:26,080 --> 00:06:27,248
 你住在哪里?
 Where do you live?
 
-84
+88
 00:06:27,570 --> 00:06:29,310
 跟我父母一起住在温布尔顿
 With my parents in Wimbledon.
 
-85
+89
 00:06:29,900 --> 00:06:31,240
 职业呢?
 Employment?
 
-86
+90
 00:06:31,456 --> 00:06:34,432
 我是个移民局官员, 在盖特威克机场工作
 I'm an Immigration Officer, at Gatwick Airport.
 
-87
+91
 00:06:35,328 --> 00:06:37,984
 过来, 慢点. 你很快就没事了
 Come along, easy. You'll be all right.
 
-88
+92
 00:06:37,984 --> 00:06:39,568
 过来, 慢点
 Now come along, take it easy.
 
-89
+93
 00:06:39,632 --> 00:06:41,360
 我们马上会让你安然无恙
 We'll have you as right as rain in a minute.
 
-90
+94
 00:06:41,488 --> 00:06:44,208
 现在在这里坐下FIXME, 就这里
 Now just get you down here. There we are.
 
-91
+95
 00:06:45,344 --> 00:06:47,328
 - 很好  - 我怎么样, 博士?
 - Splendid.   - How am I doing, Doctor?
 
-92
+96
 00:06:47,392 --> 00:06:49,392
 很好, 但不要装过头了
 Very well but don't over do it.
 
-93
+97
 00:06:49,744 --> 00:06:52,672
 是了, 就是这个房间. 我们在监视器上看到的
 Yes, this is the room we saw on the TV monitor.
 
-94
+98
 00:06:55,344 --> 00:06:58,224
 如果这些药片没作用, 再过来找我
 If the tablets do not help, come and see me again.
 
-95
+99
 00:06:59,450 --> 00:07:01,920
 - 他这是怎么了?   - 是一种罕见的热带疾病
 - What's the matter with him?
 - It's a rare tropical disease,
 
-96
+100
 00:07:01,952 --> 00:07:02,990
 护士, 我是他的医生
 Nurse. I'm his doctor.
 
-97
+101
 00:07:04,208 --> 00:07:07,252
 如果他不能很快恢复, 我们就...
 If he doesn't rally soon we shall err...
 
-98
+102
 00:07:07,308 --> 00:07:09,152
 我们就得给他用点梭玛林
 we shall have to use somnalin.
 
-99
+103
 00:07:09,264 --> 00:07:11,600
 - 梭玛林?   - 是的...对, 梭玛林
 - Somnalin?  - Yes... yes, somnalin
 
-100
+104
 00:07:11,888 --> 00:07:15,680
 所以我得找个地方让他躺下
 So l have to get him somewhere to lie down.
 
-101
+105
 00:07:16,920 --> 00:07:18,096
 哦对了, 这里应该很合适
 Oh yes, this will do nicely.
 
-102
+106
 00:07:18,220 --> 00:07:20,096
 恐怕..你不能进里面去
 I... I'm afraid you can't go there.
 
-103
+107
 00:07:20,128 --> 00:07:22,380
 为什么不能? 这只是个X光室, 是吧?
 Why not? It's just an X-ray room, isn't it?
 
-104
+108
 00:07:22,428 --> 00:07:23,580
 屏风后面不是张躺椅吗?
 Isn't that a couch behind the screen.
 
-105
+109
 00:07:23,680 --> 00:07:27,040
 抱歉, 医生, 你不能把你的病人带进去
 I'm sorry, Doctor.
 You can't take your patient in there.
 
-106
+110
 00:07:27,550 --> 00:07:30,288
 - 你拒绝给我的病患帮助?   - 不, 不是这样的
 - You refuse to help my patient?
 - Oh, it's not that.
 
-107
+111
 00:07:30,736 --> 00:07:33,984
 - 我有一个病人要来拍X光片  - 哦, 我明白了
 - I have someone coming for an X-ray.  - Oh I see.
 
-108
+112
 00:07:34,384 --> 00:07:36,430
 那你怎么不一开始就告诉我呢?
 Well why didn't you tell me in the first place.
 
-109
+113
 00:07:38,320 --> 00:07:39,344
 来把你扶出去
 <i>Let's get you out of here.</i>
 
-110
+114
 00:07:45,870 --> 00:07:47,920
 这个博士对我们的计划是个威胁
 That Doctor is a menace to our plans.
 
-111
+115
 00:07:48,170 --> 00:07:49,420
 那我们必须杀了他
 Then we must kill him.
 
-112
+116
 00:07:49,664 --> 00:07:51,680
 我试过了, 他肯定是又逃掉了
 I tried. He must have escaped.
 
-113
+117
 00:07:51,808 --> 00:07:53,840
 - 他们从我这里逃不了  - 不, 等等
 - They won't escape me.  - No, wait.
 
-114
+118
 00:07:55,296 --> 00:07:57,952
 这一次, 让他们来找我们
 This time, let them to come to us.
 
-115
+119
 00:08:04,370 --> 00:08:07,030
 我一直在联系他, 警司, 但他一直没接
 I've been paging him, Superintendent,
 but he hasn't responded.
 
-116
+120
 00:08:08,064 --> 00:08:09,728
 是, 很好, 先生. 我会继续尝试
 Yes, very well sir. I'll keep on trying.
 
-117
+121
 00:08:12,512 --> 00:08:16,528
 接线员. 我订了一个到雅典的电话, 现在怎样了
 Operator. Look, I booked a call through
 to Athens, now what happened?
 
-118
+122
 00:08:17,760 --> 00:08:19,610
 对, 好吧. 我在电话旁边等着
 Yes, very well, I'll stay near the phone.
 
-119
+123
 00:08:19,712 --> 00:08:20,432
 这都是怎么回事?
 What's all this about?
 
-120
+124
 00:08:20,490 --> 00:08:24,064
 - 噢博士, 你见到 Crossland 督察了吗?   - 没有, 怎么了?
 - Oh Doctor, have you seen Inspector Crossland?
 - Well no. Why?
 
-121
+125
 00:08:24,128 --> 00:08:26,320
 哦, 苏格兰场在找他, 但我们在哪里都找不到
 Well, Scotland Yard are looking for him
 and we can't find him anywhere.
 
-122
+126
 00:08:26,432 --> 00:08:28,080
 还有, Briggs 小姐想找你
 Also, your Miss Briggs wants to see you.
 
-123
+127
 00:08:28,144 --> 00:08:30,848
 但我跟她说了...她现在在哪儿?
 But I told her to... Where is she now?
 
-124
+128
 00:08:30,928 --> 00:08:32,944
 她说要去什么变色龙柜台
 Well she said something about
 going to the Chameleon Kiosk.
 
-125
+129
 00:08:33,230 --> 00:08:34,972
 你去她那里看看, Jamie
 Go down and join her, Jamie.
 
-126
+130
 00:08:35,230 --> 00:08:36,672
 她这个年轻女人很有主见
 She's a very strong headed young woman.
 
-127
+131
 00:08:36,700 --> 00:08:39,536
 - 确保她不会碰到什么麻烦  - 我会看着她的, 博士
 - See she doesn't come to any trouble.
 - I'll keep an eye on her, Doctor.
 
-128
+132
 00:08:44,840 --> 00:08:48,320
 总指挥, 督察说过他要去哪儿了吗?
 Commandant, did the Inspector say
 where he was going?
 
-129
+133
 00:08:48,416 --> 00:08:52,528
 唔, 他说他要去找变色龙观光游问问情况
 Hmm, oh he said he was going to
 make some enquires about Chameleon Tours.
 
-130
+134
 00:08:52,832 --> 00:08:54,672
 但他现在不见了?
 And now he's disappeared?
 
-131
+135
 00:08:54,810 --> 00:08:57,904
 - 你这结论下得也太快了吧?   - 我没觉得
 - Aren't you rather jumping to conclusions?
 - I don't think so.
 
-132
+136
 00:08:58,160 --> 00:09:02,160
 我的两个朋友牵涉进变色龙观光游, 他俩都不见了
 My two friends became involved with Chameleon
 Tours, and they've both disappeared.
 
-133
+137
 00:09:02,240 --> 00:09:05,020
 你知道我的猜测是什么
 However, you know what I think has happened.
 
-134
+138
 00:09:05,056 --> 00:09:08,432
 是的, 你也知道我对你那荒谬的想法是怎么看的
 Yes, and you know what I think
 about your ridiculous theory.
 
-135
+139
 00:09:08,496 --> 00:09:11,024
 外太空来的人, 真的是
 People from outer space, indeed.
 
-136
+140
 00:09:11,696 --> 00:09:13,232
 你这是怎么了
 Something the matter with you?
 
-137
+141
 00:09:13,290 --> 00:09:16,128
 总指挥, 我发现是怎么回事了
 Commandant, I've found out what's been happening.
 
-138
+142
 00:09:16,630 --> 00:09:18,400
 好, 朝着正确的方向迈近了一步
 Well, that's a step in the right direction.
 
-139
+143
 00:09:18,490 --> 00:09:21,136
 我的意思是, 我擅做主张, 给所有机场打了电话
 Wh... what I mean is, I took the liberty
 of phoning all the airports
 
-140
+144
 00:09:21,216 --> 00:09:23,184
 所以变色龙飞去的地方
 that ah... Chameleon Tours fly to.
 
-141
+145
 00:09:23,232 --> 00:09:24,720
 最后打的是雅典
 The last on my list was Athens.
 
-142
+146
 00:09:24,830 --> 00:09:26,320
 你就没意识到到雅典的电话费...
 Don't you realise the expense of phoning Ath...
 
-143
+147
 00:09:26,340 --> 00:09:27,130
 是的我知道, 我很抱歉
 Yes, I know, I'm sorry.
 
-144
+148
 00:09:27,216 --> 00:09:31,504
 但是我发现的是, 他们从来没有成功运送任何乘客
 But what I found out is -
 they never deliver any passengers.
 
-145
+149
 00:09:31,856 --> 00:09:34,272
 你说的什么意思? 从来没有成功运送任何乘客?
 What do you mean? Never deliver any passengers...
 
-146
+150
 00:09:34,320 --> 00:09:36,880
 绝对是真的, 先生. 他们说的全都一样
 It's absolutely true, sir.
 They all say the same thing.
 
-147
+151
 00:09:36,976 --> 00:09:38,432
 杜布罗夫尼克, 雅典, 罗马
 Dubrovnik, Athens, Rome.
 
-148
+152
 00:09:38,480 --> 00:09:41,696
 他们说年轻乘客搭上飞机去其它地方, 但是...
 They say they pick up young passengers
 to take them off to other places but...
 
-149
+153
 00:09:41,840 --> 00:09:44,570
 没有一个人到达任何地方!
 none of them ever arrive anywhere!
 
-150
+154
 00:09:44,730 --> 00:09:48,776
 要是这样的话, 他们肯定把这些人运到了某个秘密的机场
 Well in that case, they must be flying
 these young people to some secret airfield.
 
-151
+155
 00:09:48,930 --> 00:09:51,800
 - 但是为什么呢?  - 你仍然还是地球人的思维
 - But why?
 - You're still thinking in Earth terms.
 
-152
+156
 00:09:51,920 --> 00:09:54,160
 我还就打算坚持这样
 And I intend to go on doing so.
 
-153
+157
 00:09:54,220 --> 00:09:56,864
 - 那个变色龙的飞行员叫什么名字?   - Blade 机长
 - What was the name of that Chameleon Pilot?
 - Captain Blade.
 
-154
+158
 00:09:56,944 --> 00:09:59,568
 - 飞机预计什么时候回来  - 还有半个小时, 先生
 - And what time is the plane due back?
 - About half an hour, sir.
 
-155
+159
 00:09:59,664 --> 00:10:02,688
 好, 等这次掉头了, 这次我们派人跟着
 Right. After the turn-round
 we'll have it followed this time.
 
-156
+160
 00:10:02,816 --> 00:10:05,072
 我能跟你说句话吗, 亲爱的?
 Could I have a word with you, my dear?
 
-157
+161
 00:10:05,220 --> 00:10:07,232
 给我接皇家空军曼斯顿站
 Get me the RAF Station Manston.
 
-158
+162
 00:10:07,376 --> 00:10:11,120
 我怀疑急救中心跟这一切有联系
 I suspect that the Medical Centre
 is connected with all this.
 
-159
+163
 00:10:11,184 --> 00:10:14,144
 - 急救中心..得了  - 请不要跟他一样
 - Medical Cen... Oh come on...
 - Now please don't get like him.
 
-160
+164
 00:10:14,304 --> 00:10:16,172
 是的, 这里绝对有联系
 Oh yes, there is definitely a connection.
 
-161
+165
 00:10:16,208 --> 00:10:18,730
 现在, 我打算进里面去, 看一圈
 Now, I would like to get in there
 and have a look round.
 
-162
+166
 00:10:18,768 --> 00:10:20,112
 任何人都可以进去啊
 But anyone can go in there.
 
-163
+167
 00:10:20,240 --> 00:10:23,056
 但我期望能先把那个护士引开
 But I would like to get that nurse
 out of the way first...
 
-164
+168
 00:10:23,664 --> 00:10:25,840
 你觉得你能帮我搞定吗?
 Do you think that you can manage it for me?
 
-165
+169
 00:10:27,136 --> 00:10:29,872
 你看吧, 给你办得妥妥的
 You'll find that in order.
 
-166
+170
 00:10:31,152 --> 00:10:32,592
 他说你会做些傻事
 He said you'd do something silly.
 
-167
+171
 00:10:32,656 --> 00:10:34,512
 是吗? 他还说什么了?
 Oh yeah, what else did he say?
 
-168
+172
 00:10:34,560 --> 00:10:38,624
 - 他说你很有主见  - 很好, 你可以告诉博士
 - He said you were headstrong.
 - Oh great. Look, you can tell the Doctor
 
-169
+173
 00:10:38,656 --> 00:10:40,992
 他不可能说服我放弃这个, 你也不能
 he's not going to talk me out of this one,
 and neither are you.
 
-170
+174
 00:10:41,152 --> 00:10:44,380
 我要登上变色龙的下一次航班, 还有半小时起飞
 I'm going on the next Chameleon flight,
 that leaves in half an hour.
 
-171
+175
 00:10:44,960 --> 00:10:49,072
 你还没有明白吗, 这是我们能查出点什么的唯一途径
 Oh look don't you see, it's the only way
 we can find out anything.
 
-172
+176
 00:10:49,650 --> 00:10:53,744
 哦, 别担心, 我会回来告诉把全部经过都告诉你的
 Oh, don't worry. I'll come back
 and tell you all about it.
 
-173
+177
 00:10:53,900 --> 00:10:57,152
 - 那得是能回来  - 哦, 只是去一趟罗马罢了
 - If you do come back.
 - Oh, it's only going to Rome.
 
-174
+178
 00:10:57,264 --> 00:11:00,240
 凭什么你确信你能在罗马找到你弟弟?
 And what makes you so sure
 you'll find your brother in Rome?
 
-175
+179
 00:11:00,480 --> 00:11:04,320
 哦, 我不知道. 但那是他本来应该抵达的地方
 Oh, I don't know. But that's where
 he was supposed to be going.
 
-176
+180
 00:11:04,416 --> 00:11:06,096
 至少我可以做点什么
 At least I'll be doing something.
 
-177
+181
 00:11:06,116 --> 00:11:08,496
 是. 但你没有意识到这有多危险
 Aye, but do you not realise how dangerous it is.
 
-178
+182
 00:11:08,528 --> 00:11:10,784
 你可能是害怕了, 我可没有
 Look if you're scared, I'm certainly not.
 
-179
+183
 00:11:11,130 --> 00:11:13,024
 - 要是博士在这里就好了  - 噢
 - I wish the Doctor were here.  - Oh.
 
-180
+184
 00:11:13,216 --> 00:11:15,510
 嘿, 也许我可以和你一起去
 Hey, maybe I could go with you.
 
-181
+185
 00:11:15,680 --> 00:11:16,688
 嘿, 这还差不多.
 Hey, now you're talking.
 
-182
+186
 00:11:16,780 --> 00:11:18,288
 你觉得你买得机票吗?
 Do you think you can you raise the lolly?
 
-183
+187
 00:11:18,352 --> 00:11:20,864
 - 机票?   - 费用, 钱
 - The lolly?  - The brass, the money.
 
-184
+188
 00:11:20,912 --> 00:11:23,968
 会花费你28块钱, 或者说英镑
 Look it will cost you twenty-eight
 quid - pounds to you.
 
-185
+189
 00:11:24,140 --> 00:11:27,904
 哦, 那是好大一笔钱. 我从来没有这么多钱
 Oh but that's a fortune.
 I've never seen that much money in my life.
 
-186
+190
 00:11:28,512 --> 00:11:32,448
 - 我估计..我不能可以替你去吗?  - 不行
 - I suppose I couldn't take your place? - No!
 
-187
+191
 00:11:35,296 --> 00:11:39,424
 博士说这可不是一个小姑娘能干的事情
 The Doctor said it was er...
 no job for a wee lassie...
 
-188
+192
 00:11:39,472 --> 00:11:43,104
 - 一个小姑娘! 你可以告诉博士... - 说再见吧
 - A wee lassie! You can tell the Doctor...
 - I say goodbye.
 
-189
+193
 00:11:45,550 --> 00:11:46,800
 嘿, 小子!
 Hey, kid!
 
-190
+194
 00:11:47,560 --> 00:11:49,640
 我可以照顾好自己, 知道吧
 I can take care of myself, you know.
 
-191
+195
 00:11:49,792 --> 00:11:51,616
 我只是不太放心
 I just wanted to make sure.
 
-192
+196
 00:11:52,580 --> 00:11:55,620
 唔, 所以你可以安排人跟踪?
 Hmm. So you can arrange to have it followed?
 
-193
+197
 00:11:56,220 --> 00:11:58,440
 好, 我会搞明白的
 Good. Oh I'll find out.
 
-194
+198
 00:11:58,480 --> 00:12:00,120
 变色龙的下一趟航班什么时候?
 What time's the next Chameleon flight?
 
-195
+199
 00:12:00,220 --> 00:12:01,616
 15:30飞罗马, 先生
 1530hrs to Rome, sir.
 
-196
+200
 00:12:01,760 --> 00:12:04,096
 15:30 往南飞
 1530hrs heading South.
 
-197
+201
 00:12:04,272 --> 00:12:07,776
 好, 等他们请求起飞的时候我会通知你
 Right. And I'll let you know
 when they request permission to start up.
 
-198
+202
 00:12:08,160 --> 00:12:10,190
 再见老伙计, 很是感谢
 Cheerio old man and many thanks.
 
-199
+203
 00:12:10,970 --> 00:12:12,816
 好了, 都安排妥了
 Well, that's settled that.
 
-200
+204
 00:12:12,860 --> 00:12:15,880
 变色龙的下一趟航班就会有皇家空军跟在它后面了
 The next Chameleon flight
 will have an RAF fighter on its tail.
 
-201
+205
 00:12:17,616 --> 00:12:22,896
 老天, Jean, Jean!
 Good grief. Jean. Jean!
 
-202
+206
 00:12:24,560 --> 00:12:28,048
 这姑娘怎么了? 找急救中心
 What's the matter with the girl?
 Get me the Medical Centre.
 
-203
+207
 00:12:30,250 --> 00:12:33,360
 你的助手不能自己到这里来吗, 总指挥?
 Isn't it possible for your assistant
 to come down here, Commandant.
 
-204
+208
 00:12:34,960 --> 00:12:37,216
 但我不能离开这里啊
 But I'm not supposed to leave here.
 
-205
+209
 00:12:38,960 --> 00:12:41,968
 好吧, 先生, 既然你坚持的话
 All right sir, if you insist.
 
-206
+210
 00:13:37,296 --> 00:13:38,864
 我要下班了
 I'm just going off duty,
 
-207
+211
 00:13:38,960 --> 00:13:42,590
 但这位先生会很高兴继续照顾你
 but err this gentleman
 will be pleased to attend to you.
 
-208
+212
 00:13:47,180 --> 00:13:49,440
 - 你现在觉得怎样  - 不太好
 - How do you feel now?  - Not too good.
 
-209
+213
 00:13:49,632 --> 00:13:52,780
 我就不明白了, 她从来没有这样过
 I can't understand it.
 She's never done this on me before.
 
-210
+214
 00:13:57,216 --> 00:13:59,328
 谢谢你护士, 我现在觉得好多了
 Thank you Nurse. I feel much better now.
 
-211
+215
 00:13:59,360 --> 00:14:01,216
 那就应该没有什么大事
 Well there couldn't be much wrong then.
 
-212
+216
 00:14:01,296 --> 00:14:02,528
 你吃过午饭了吗?
 Have you had any lunch?
 
-213
+217
 00:14:02,600 --> 00:14:05,328
 没, 我今天一直很忙, 连早饭都还没有吃
 No I've been so busy today,
 I haven't even had any breakfast.
 
-214
+218
 00:14:05,392 --> 00:14:07,578
 那怪不得你会不舒服了
 Then no wonder you didn't feel well.
 
-215
+219
 00:14:07,840 --> 00:14:12,200
 真的总指挥, 你必须得让你的下属有时间按时吃饭
 Really Commandant. You must see that
 your staff have time for regular meals.
 
-216
+220
 00:14:12,272 --> 00:14:14,800
 我从没阻止过她吃午饭!
 I've never stopped her having her lunch!
 
-217
+221
 00:14:14,880 --> 00:14:18,656
 我确信, 总指挥, 但这种事总还是会发生
 I'm sure, Commandant.
 But it has been known to happen.
 
-218
+222
 00:14:21,008 --> 00:14:23,040
 - 来看看这儿  - 做得很好!
 - Now look here.   - Very well done!
 
-219
+223
 00:14:23,080 --> 00:14:24,960
 - 我有没有给你足够时间  - 很多时间
 - Did I give you enough time? - Ample time.
 
-220
+224
 00:14:25,040 --> 00:14:27,488
 这都是怎么回事? 你完全就没病, 对不?
 What is all this?
 You weren't ill at all, were you?
 
-221
+225
 00:14:27,696 --> 00:14:30,400
 没事了, 总指挥, 她是按我的指示在演戏
 It's all right, Commandant.
 She was acting on my instructions.
 
-222
+226
 00:14:30,480 --> 00:14:34,544
 - 按你的指示?  - 是. 你对这些东西怎么看
 - On your instructions?
 - Yes. What do you think of these?
 
-223
+227
 00:14:34,608 --> 00:14:36,080
 这些是什么?
 Now, what are these?
 
-224
+228
 00:14:36,160 --> 00:14:38,624
 我猜这里有人能告诉我们
 I think there's somebody here who can tell us.
 
-225
+229
 00:14:42,900 --> 00:14:44,430
 打扰了
 Excuse me.
 
-226
+230
 00:14:48,350 --> 00:14:50,000
 一直坐在这里的那个家伙哪里去了?
 Where's the chap who usually sits there?
 
-227
+231
 00:14:50,128 --> 00:14:51,568
 哦他很可能是下班了
 Well he's probably off duty.
 
-228
+232
 00:14:51,616 --> 00:14:54,352
 如果是这样的话, 他应该过几个小时就会回来上班了
 In that case, he'll be back on shift
 in a couple of hours.
 
-229
+233
 00:14:54,416 --> 00:14:57,808
 我知道了. 好吧, 看来得等了
 I see. Oh well, these'll have to wait.
 
-230
+234
 00:14:59,830 --> 00:15:02,346
 变色龙青年观光游通知您
 Chameleon Youth Tours announce the departure
 
-231
+235
 00:15:02,410 --> 00:15:05,220
 飞往罗马的419航班即将起飞
 of their flight number Four-One-Nine to Rome.
 
-232
+236
 00:15:05,480 --> 00:15:08,520
 请所有旅客在候机室集合
 Will all passengers please
 assemble in the departure lounge.
 
-233
+237
 00:15:09,390 --> 00:15:11,016
 不要忘了您的明信片
 Don't forget your postcards.
 
-234
+238
 00:15:11,248 --> 00:15:14,270
 把它们交给我, 我们将会帮你们寄出去...
 Give them back to me
 and we'll post them for you when...
 
-235
+239
 00:15:15,616 --> 00:15:17,430
 你找到你的机票了吗?
 Have you found your ticket yet?
 
-236
+240
 00:15:17,504 --> 00:15:19,568
 我不知道, 好像是在某个地方弄丢了
 I don't know. I seem to have lost it somewhere.
 
-237
+241
 00:15:19,690 --> 00:15:21,680
 但你认得我的, 对吧, 我从你这里买的票
 But you remember me, don't you?
 I bought the ticket off you.
 
-238
+242
 00:15:21,792 --> 00:15:23,900
 又太多人了...名字是什么?
 There are so many people...
 what was the name?
 
-239
+243
 00:15:24,010 --> 00:15:25,380
 呃, Samantha Briggs
 Err, Samantha Briggs.
 
-240
+244
 00:15:25,580 --> 00:15:27,640
 噢, 机票上写的是 S. Briggs
 Oh, it had S. Briggs on the ticket.
 
-241
+245
 00:15:27,720 --> 00:15:29,600
 S. Briggs has already checked in.
 S. Briggs 已经检票进去了
 
-242
+246
 00:15:29,770 --> 00:15:32,016
 哦不. 到底是谁...
 Oh no. Well, who the heck...
 
-243
+247
 00:15:32,240 --> 00:15:33,640
 你记得那姑娘长什么样吗?
 Look, can you remember what she looked like?
 
-244
+248
 00:15:33,776 --> 00:15:36,560
 姑娘? 我好像记得拿票的是个小伙子
 She? I seem to remember a boy with that ticket.
 
-245
+249
 00:15:36,816 --> 00:15:39,792
 Jamie! 他偷走了票. 我说, 你们必须要拦住他!
 Jamie! He's pinched it.
 Look you have to stop him!
 
-246
+250
 00:15:39,856 --> 00:15:41,540
 我没法拦住飞机
 I can't hold up the flight.
 
-247
+251
 00:15:41,610 --> 00:15:42,660
 - 但是听着...   - 我很抱歉
 - But look...  - I'm sorry.
 
-248
+252
 00:15:42,740 --> 00:15:44,660
 我帮不了你什么了
 There's nothing more
 I can do for you.
 
-249
+253
 00:15:47,050 --> 00:15:47,936
 你好
 Hello.
 
-250
+254
 00:15:49,584 --> 00:15:52,160
 是的, 好, 你真是太好了
 Yes, all right. That's very kind of you.
 
-251
+255
 00:15:53,440 --> 00:15:56,250
 你很幸运, 你的票找到了
 You're very fortunate.
 Your ticket's just been found.
 
-252
+256
 00:15:56,330 --> 00:15:59,872
 - 噢好, 谁捡到了?  - 恐怕我们不能告诉你
 - Oh good. Well who got it?
 - We can't tell you that I'm afraid.
 
-253
+257
 00:15:59,936 --> 00:16:02,560
 但我们经理想要见你, 那就在那边
 But our manager would like to see you.
 He's just through there.
 
-254
+258
 00:16:02,690 --> 00:16:04,180
 好, 拜
 Oh right, ta.
 
-255
+259
 00:16:05,776 --> 00:16:08,896
 现在, 谁的明信片准备好了?
 Now, who's got their postcards ready?
 
-256
+260
 00:16:10,890 --> 00:16:13,616
 - 呃, 是你想见我?  - 是, 的确
 - Er, you wanted to see me?  - Yes, indeed.
 
-257
+261
 00:16:14,960 --> 00:16:16,896
 你再也逃不了了!
 You won't escape again!
 
-258
+262
 00:16:23,200 --> 00:16:25,960
 变色龙419, 准许出港
 Chameleon Four-One-Nine. Clearance correct.
 
-259
+263
 00:16:26,610 --> 00:16:28,980
 变色龙419, 准许滑行
 Chameleon Four-One-Nine. Taxi Clearance?
 
-260
+264
 00:16:29,310 --> 00:16:31,872
 变色龙419, 沿南滑行道滑行,
 Chameleon Four-One-Nine.
 Taxi following southern taxiway
 
-261
+265
 00:16:31,952 --> 00:16:35,472
 - 准备离开27号跑道  - 收到
 - for departure runway two-seven. - Roger.
 
-262
+266
 00:16:35,632 --> 00:16:38,304
 这一次他们就有皇家空军跟在屁股后面了!
 Well this time they'll have the RAF on their tail!
 
-263
+267
 00:16:38,432 --> 00:16:41,456
 如今这些战斗机可以到达多高, 总指挥?
 How high can fighters go these days, Commandant?
 
-264
+268
 00:16:41,500 --> 00:16:44,560
 - 哦, 十英里以上  - 好逊
 - Oh, ten miles plus. - How futile.
 
-265
+269
 00:16:50,230 --> 00:16:52,160
 - 曼斯顿皇家空军基地, 先生  - 哦好
 - RAF Manston, sir.  - Oh, good.
 
-266
+270
 00:16:52,656 --> 00:16:56,848
 你好, 老小子. 变色龙的罗马航班刚刚起飞
 Hello, old boy.
 The Chameleon Rome flight's just taken off.
 
-267
+271
 00:16:57,070 --> 00:17:02,096
 他们在琥珀一号上, 飞行高度210
 They're on Amber One,
 at flight level two-one-zero.
 
-268
+272
 00:17:02,528 --> 00:17:04,970
 好, 祝好
 Right. Good man.
 
-269
+273
 00:17:05,088 --> 00:17:08,400
 你们可以解开安全带了, 谢谢
 You can unfasten your seat belts now. Thank you.
 
-270
+274
 00:17:08,576 --> 00:17:09,696
 你没事吧?
 Are you all right?
 
-271
+275
 00:17:09,850 --> 00:17:12,480
 - 啊, 我会没事的  - 好
 - Oh aye, I'll be all right. - Good.
 
-272
+276
 00:17:22,440 --> 00:17:25,200
 他们正要跨越50英里的标记点
 That's the fifty-mile mark they're passing now.
 
-273
+277
 00:17:25,344 --> 00:17:27,472
 通常你们在这个距离看不到他们吧
 Normally you don't plot them at this range?
 
-274
+278
 00:17:27,550 --> 00:17:29,024
 看不到, 有太多飞机需要控制了
 No, there's too much traffic to control.
 
-275
+279
 00:17:29,104 --> 00:17:32,080
 一旦他们起飞, 进入空中走廊, 就跟我们没关系了
 Once they're up and away on their air corridor,
 we're finished with them.
 
-276
+280
 00:17:32,320 --> 00:17:34,040
 你好, 盖特威克机场
 Hello, Gatwick Airport.
 
-277
+281
 00:17:34,360 --> 00:17:36,750
 这里是皇家空军241号, 你们可以听到吗?
 This is RAF Two-Four-One. How do you read me?
 
-278
+282
 00:17:37,080 --> 00:17:40,672
 盖特威克机场答复RAF-241, 我们可以清晰地听到
 Gatwick Airport to RAF Two-Four-One.
 We read you loud and clear.
 
-279
+283
 00:17:40,752 --> 00:17:42,624
 变色龙的飞机正在视野内
 Have the Chameleon aircraft in sight.
 
-280
+284
 00:17:42,656 --> 00:17:45,376
 正在一万英尺高度尾随, 朝南飞行
 Am following at ten thousand feet, heading due south.
 
-281
+285
 00:17:45,920 --> 00:17:50,064
 就是他, 咬住尾巴. 目前看来进展不错!
 That's him. Right on the tail. So far so good!
 
-282
+286
 00:17:56,880 --> 00:17:58,400
 都搞定了
 All set.
 
-283
+287
 00:18:01,580 --> 00:18:02,960
 有什么东西在跟着我们
 Something's following us.
 
-284
+288
 00:18:03,400 --> 00:18:05,520
 有另外一家飞机走同一路线?
 Another airliner going the same way?
 
-285
+289
 00:18:05,760 --> 00:18:07,780
 不, 太小了
 No, it's too small.
 
-286
+290
 00:18:08,864 --> 00:18:12,320
 是架战斗机. 给我雷达数据
 It's a fighter. Give me a radar reading.
 
-287
+291
 00:18:13,344 --> 00:18:15,744
 方位23-79
 Two-three decimal seven-nine.
 
-288
+292
 00:18:25,568 --> 00:18:27,392
 Heslington, 战斗机偏离航线了!
 Heslington, that fighter's off course!
 
-289
+293
 00:18:28,130 --> 00:18:30,780
 盖特威克机场呼叫RAF-241, 你可以听到吗?
 Gatwick to RAF Two-Four-One. Do you read me?
 
-290
+294
 00:18:31,616 --> 00:18:33,456
 那飞机可不是简单地偏离航线
 That plane isn't just off course.
 
-291
+295
 00:18:33,504 --> 00:18:35,600
 - 有事情发生了  - 你说得对, 它失控了
 - Something's happened to it.
 - You're right. It's out of control.
 
-292
+296
 00:18:35,840 --> 00:18:38,864
 盖特威克机场呼叫RAF-241, 你可以听到吗?
 Gatwick to RAF Two-Four-One. Do you read me?
 
-293
+297
 00:18:39,472 --> 00:18:40,930
 我觉得你收不到回答了
 I don't think you'll get a reply.
 
-294
+298
 00:18:41,000 --> 00:18:42,830
 信号变弱了, 已经要从雷达上消失了
 It's fading, dropping out of our radar.
 
-295
+299
 00:18:42,880 --> 00:18:46,560
 Jean, 给我接皇家空军, 那家飞机坠毁了
 Jean, get me RAF Manston. That plane's crashed.
 
-296
+300
 00:18:46,752 --> 00:18:49,136
 看变色龙的飞机! 肯定也出什么事了
 Look at the Chameleon plane!
 There's something wrong with that too.
 
-297
+301
 00:18:49,184 --> 00:18:49,776
 唔
 Hmmm?
 
-298
+302
 00:18:49,888 --> 00:18:51,696
 它停止不动了! 不可能啊
 It's standing still! Impossible.
 
-299
+303
 00:18:51,760 --> 00:18:53,392
 不, 先生, 光点是静止的
 No sir, the blip's stationary.
 
-300
+304
 00:18:53,550 --> 00:18:55,152
 这只意味着一件事情
 That can only mean one thing...
 
-301
+305
 00:18:56,816 --> 00:18:58,390
 它也坠毁了!
 It's crashing too!
 
-302
+306
 00:19:16,010 --> 00:19:18,560
 立即向飞行甲板汇报
 Report to the flight deck immediately.
 
-303
+307
 00:19:24,160 --> 00:19:28,112
 下一航班有多少人需要护照才能离开机场?
 How many people require passports
 in order to leave the airport on the next flight?
 
-304
+308
 00:19:28,190 --> 00:19:30,912
 - 25个  - 这里你漏了一个
 - Twenty-Five.  - You missed this one here.
 
-305
+309
 00:19:31,264 --> 00:19:32,864
 对不起
 I'm sorry.
 
-306
+310
 00:19:33,920 --> 00:19:35,200
 继续吧
 Carry on.
 
-307
+311
 00:19:45,790 --> 00:19:48,290
 海上救援队报告说没有找到, 先生
 Negative report from Air Sea Rescue, sir.
 
-308
+312
 00:19:48,350 --> 00:19:51,696
 但有两架飞机掉下去, 肯定会有残骸的痕迹啊
 But with two aircraft ditching
 there must be some signs of wreckage.
 
-309
+313
 00:19:51,776 --> 00:19:54,730
 你为什么觉得变色龙的飞机是坠落到海里了?
 Why do you think the Chameleon plane
 crashed into the sea?
 
-310
+314
 00:19:54,944 --> 00:19:57,264
 因为它从我们的雷达屏幕上消失了!
 Because it disappeared off our radar screen!
 
-311
+315
 00:19:57,376 --> 00:19:58,576
 但它一开始是静止没动!
 But it stood still first!
 
-312
+316
 00:19:58,672 --> 00:20:01,616
 因为它肯定是跟空军的飞机撞上了, 然后掉落下去
 Because it must have collided with
 the RAF plane and dropped like a stone.
 
-313
+317
 00:20:01,872 --> 00:20:03,488
 你为什么会这么想
 Why do you think that?
 
-314
+318
 00:20:03,610 --> 00:20:07,664
 要知道, 当一架飞机像那样在雷达上静止不动
 You see, when a plane on that radar
 appears to stand still,
 
-315
+319
 00:20:07,712 --> 00:20:10,352
 那么它事实上就是直线下落了
 it is in point of fact dropping straight down.
 
-316
+320
 00:20:10,400 --> 00:20:12,832
 - 直线上升怎么样?   - 噢, 我亲爱的博士
 - What about straight up?
 - Oh my dear Doctor!
 
-317
+321
 00:20:13,290 --> 00:20:15,712
 要能像那样跑出我们雷达的范围
 To get above our radar umbrella like that
 
-318
+322
 00:20:15,776 --> 00:20:19,568
 它必须垂直爬上达到100英里高
 it'd have to climb vertically
 until it was a hundred miles high.
 
-319
+323
 00:20:19,920 --> 00:20:22,224
 那该死的高度就是外太空了
 The darned thing would be in outer space.
 
-320
+324
 00:20:22,464 --> 00:20:23,664
 正是这个!
 Exactly!
