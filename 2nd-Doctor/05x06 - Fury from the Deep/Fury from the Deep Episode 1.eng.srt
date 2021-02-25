@@ -1,1020 +1,1287 @@
-1
+﻿1
 00:00:07,002 --> 00:00:13,002
 Sincro: wyxchari
 
 2
-00:01:23,580 --> 00:01:26,898
+00:01:18,540 --> 00:01:22,080
 There Victoria, up you get.
 
 3
-00:01:27,984 --> 00:01:30,547
+00:01:22,660 --> 00:01:25,640
 Trust you to bring us right down in the middle of the sea.
 
 4
-00:01:30,769 --> 00:01:33,778
+00:01:25,780 --> 00:01:28,620
 The TARDIS is perfectly capable of floating you know.
 
 5
-00:01:34,206 --> 00:01:35,892
+00:01:29,500 --> 00:01:31,190
 Where are we exactly?
 
 6
-00:01:36,187 --> 00:01:37,557
+00:01:31,260 --> 00:01:32,740
 Oh England undoubtedly.
 
 7
-00:01:37,737 --> 00:01:39,041
+00:01:32,860 --> 00:01:34,340
 Aye, you can tell by the weather.
 
 8
-00:01:39,340 --> 00:01:40,493
+00:01:34,500 --> 00:01:35,790
 And by the cliffs.
 
 9
-00:01:40,822 --> 00:01:42,797
+00:01:36,020 --> 00:01:38,090
 We always seem to land on this planet.
 
 10
-00:01:43,041 --> 00:01:47,728
-Aye, it's always England. You'd think for all the hammering the TARDIS has got, you've gone an' spiked it
+00:01:38,220 --> 00:01:39,600
+Aye, it's always England.
 
 11
-00:01:49,476 --> 00:01:57,647
-Hey, what are you doing? Hey, what's all this stuff Doctor?
+00:01:39,760 --> 00:01:43,020
+You'd think for all the hammering the TARDIS has got, you've gone an' spiked it
 
 12
-00:01:57,889 --> 00:02:00,378
-Foam, you silly. You often see the stuff along the sea shore.
+00:01:44,440 --> 00:01:45,840
+Hey, what are you doing?
 
 13
-00:02:00,590 --> 00:02:02,584
-But not big lumps like this, aye Doctor?
+00:01:51,280 --> 00:01:52,940
+Hey, what's all this stuff Doctor?
 
 14
-00:02:02,874 --> 00:02:06,807
-No, not usually. Jamie. Hey Jamie, feel that.
+00:01:53,180 --> 00:01:55,670
+Foam, you silly. You often see the stuff along the sea shore.
 
 15
-00:02:32,866 --> 00:02:34,172
-Hey, look at that. Maybe that's where the foam's coming from.
+00:01:55,780 --> 00:01:57,880
+But not big lumps like this, aye Doctor?
 
 16
-00:02:34,497 --> 00:02:36,736
-Oh I hardly think so, Jamie. Let's go and see.
+00:01:58,320 --> 00:01:59,920
+No, not usually. Jamie.
 
 17
-00:02:55,161 --> 00:02:56,052
-What is it?
+00:02:00,600 --> 00:02:02,380
+Hey Jamie, feel that.
 
 18
-00:02:57,377 --> 00:03:00,004
-Just what it says, Jamie. Euro Sea Gas.
+00:02:26,980 --> 00:02:30,280
+Hey, look at that. Maybe that's where the foam's coming from.
 
 19
-00:03:00,419 --> 00:03:03,457
-Gas from the sea? Oh, who are you trying to kid?
+00:02:30,380 --> 00:02:33,020
+Oh I hardly think so, Jamie. Let's go and see.
 
 20
-00:03:03,670 --> 00:03:05,974
-And it has nothing to do with the foam then.
+00:02:50,840 --> 00:02:52,140
+What is it?
 
 21
-00:03:06,521 --> 00:03:08,572
-No. No, I shouldn't think so.
+00:02:53,570 --> 00:02:56,200
+Just what it says, Jamie. Euro Sea Gas.
 
 22
-00:03:19,361 --> 00:03:20,491
-Would it not budge?
+00:02:56,420 --> 00:02:59,650
+Gas from the sea? Oh, who are you trying to kid?
 
 23
-00:03:21,870 --> 00:03:27,209
-No, can't budge it, I'm afraid Jamie. Ah well, have to use this.
+00:02:59,820 --> 00:03:02,170
+And it has nothing to do with the foam then.
 
 24
-00:03:28,851 --> 00:03:32,411
-It's a Sonic Screwdriver. Never fails.
+00:03:02,520 --> 00:03:04,570
+No. No, I shouldn't think so.
 
 25
-00:03:40,664 --> 00:03:47,702
-There we are. Neat isn't it? All done by sound waves. Now what have we got here?
+00:03:15,460 --> 00:03:16,940
+Would it not budge?
 
 26
-00:03:49,018 --> 00:03:50,491
-Oh yes.
+00:03:17,980 --> 00:03:20,340
+No, can't budge it, I'm afraid Jamie.
 
 27
-00:03:53,832 --> 00:03:56,932
-What is it? What's that noise?
+00:03:20,780 --> 00:03:23,720
+Ah well, have to use this.
 
 28
-00:03:57,458 --> 00:03:58,935
-I don't know Jamie.
+00:03:24,280 --> 00:03:27,840
+-What's that? - A Sonic Screwdriver.
 
 29
-00:04:20,095 --> 00:04:21,116
-I can hear it too.
+00:03:28,080 --> 00:03:29,520
+Never fails.
 
 30
-00:04:21,426 --> 00:04:24,926
-Yes. Probably throbbing from a pump, you know.
+00:03:36,760 --> 00:03:40,220
+There we are. Neat isn't it?
 
 31
-00:04:25,343 --> 00:04:31,830
-Doctor please hurry up. I don't like this place. It's so quiet. I feel as if we're being watched.
+00:03:40,440 --> 00:03:44,520
+All done by sound waves. Now what have we got here?
 
 32
-00:04:32,365 --> 00:04:33,305
-Alright Victoria.
+00:03:45,580 --> 00:03:46,900
+Oh yes.
 
 33
-00:04:36,081 --> 00:04:37,256
-Jamie!
+00:03:50,460 --> 00:03:53,230
+What is it? What's that noise?
 
 34
-00:05:38,861 --> 00:05:43,016
-Doctor! DOCTOR!
+00:03:54,050 --> 00:03:55,530
+I don't know Jamie.
 
 35
-00:05:47,485 --> 00:05:51,626
-Victoria... Jamie you there?
+00:04:17,300 --> 00:04:19,420
+- I can hear it too.  - Yes.
 
 36
-00:05:54,948 --> 00:05:58,175
-I can't move... my legs.
+00:04:20,180 --> 00:04:22,360
+Probably throbbing from a pump, you know.
 
 37
-00:05:58,936 --> 00:06:02,746
-What happened? What do you want?
+00:04:22,620 --> 00:04:24,280
+Doctor please hurry up.
 
 38
-00:06:04,616 --> 00:06:12,979
-Would someone kindly tell us where we are?... Why don't you answer?
+00:04:24,460 --> 00:04:27,300
+I don't like this place. It's so quiet.
 
 39
-00:06:13,569 --> 00:06:15,342
-Come on where are we?
+00:04:27,580 --> 00:04:29,340
+I feel as if we're being watched.
 
 40
-00:06:16,316 --> 00:06:19,941
-What have they done? Can't move...
+00:04:29,660 --> 00:04:30,740
+Alright Victoria.
 
 41
-00:06:20,565 --> 00:06:25,288
-I think we've... we've been tranquilised Victoria. Tranquilised.
+00:04:33,340 --> 00:04:34,420
+Now then, Jamie.
 
 42
-00:06:25,526 --> 00:06:26,961
-Eh? Who do they think they are?
+00:04:58,780 --> 00:04:59,760
+Doctor!
 
 43
-00:06:27,157 --> 00:06:31,450
-We should be the ones asking the questions. I expect quite a lot of answers.
+00:05:38,140 --> 00:05:39,320
+Doctor! 
 
 44
-00:06:31,637 --> 00:06:32,549
-What is this place?
+00:05:40,780 --> 00:05:41,740
+Doctor?
 
 45
-00:06:32,802 --> 00:06:33,660
-You mean you don't know?
+00:05:45,440 --> 00:05:46,740
+Victoria?
 
 46
-00:06:33,847 --> 00:06:34,975
-If only I could just get up...
+00:05:48,760 --> 00:05:50,080
+Jamie you there?
 
 47
-00:06:35,198 --> 00:06:36,327
-I wouldn't try if I were you.
+00:05:52,380 --> 00:05:55,500
+I can't move... my legs.
 
 48
-00:06:36,533 --> 00:06:40,492
-You know, in this condition it's just a little difficult to communicate.
+00:05:56,030 --> 00:05:59,840
+What happened? What do you want?
 
 49
-00:06:40,673 --> 00:06:42,104
-Shall we give them some U4 sir?
+00:06:02,980 --> 00:06:06,560
+Would someone kindly tell us where we are, please?
 
 50
-00:06:42,276 --> 00:06:42,788
-Eh?
+00:06:09,400 --> 00:06:11,200
+Why don't you answer?
 
 51
-00:06:42,921 --> 00:06:44,224
-Yes. Do that Mr. Harris.
+00:06:12,000 --> 00:06:13,580
+Come on, where are we?
 
 52
-00:06:44,457 --> 00:06:45,117
-Oh no.
+00:06:14,700 --> 00:06:18,040
+What have they done? Can't move...
 
 53
-00:06:45,283 --> 00:06:46,468
-I think it's alright Victoria.
+00:06:18,480 --> 00:06:23,380
+I think we've... we've been tranquilised Victoria. Tranquilised.
 
 54
-00:06:46,692 --> 00:06:47,244
-No...
+00:06:23,580 --> 00:06:24,880
+Eh? Who do they think they are?
 
 55
-00:06:47,389 --> 00:06:49,238
-I think it's an antidote. There's nothing we can do about it you know...
+00:06:25,120 --> 00:06:26,940
+We should be the ones asking the questions.
 
 56
-00:06:55,471 --> 00:06:59,233
-Oh yes. That's better... Thank you. Thank you very much.
+00:06:28,160 --> 00:06:29,760
+I expect quite a lot of answers.
 
 57
-00:07:01,587 --> 00:07:04,628
-You were on the beach, by the pipe line, in a restricted area. Now why?
+00:06:29,920 --> 00:06:31,260
+What is this place?
 
 58
-00:07:05,205 --> 00:07:06,694
-We were lost that's all.
+00:06:31,360 --> 00:06:32,260
+You mean you don't know?
 
 59
-00:07:06,924 --> 00:07:10,297
-You were tampering with the emergency release valve remote control. You're a saboteur.
+00:06:32,340 --> 00:06:33,780
+If only I could just get up...
 
 60
-00:07:10,564 --> 00:07:12,588
-He's not. He's a doctor.
+00:06:33,860 --> 00:06:35,040
+I wouldn't try if I were you.
 
 61
-00:07:12,809 --> 00:07:15,537
-I can assure you. I was only being curious.
+00:06:35,240 --> 00:06:39,560
+You know, in this condition it's just a little difficult to communicate.
 
 62
-00:07:15,752 --> 00:07:17,703
-I don't really think how they could have anything...
+00:06:39,640 --> 00:06:41,040
+Shall we give them some U4 sir?
 
 63
-00:07:17,895 --> 00:07:24,424
-When I want your opinion Harris, I'll ask for it. In the mean time, lock them up in one of the cabins. I'll interrogate them later. And you lot get back to work.
+00:06:41,120 --> 00:06:42,920
+Yes. Do that Mr. Harris.
 
 64
-00:07:26,134 --> 00:07:28,162
-Is he always as charming as that?
+00:06:43,480 --> 00:06:44,940
+- Oh no.   - I think it's alright Victoria.
 
 65
-00:07:28,343 --> 00:07:33,340
-We're in something of an emergency at the moment. You see, we've lost contact with one of our rigs at sea.
+00:06:45,040 --> 00:06:46,220
+- Take it away from me, please.  - I think it's an antidote. 
 
 66
-00:07:33,861 --> 00:07:36,370
-Communications have broken down?
+00:06:46,320 --> 00:06:48,160
+There's nothing we can do about it you know...
 
 67
-00:07:36,579 --> 00:07:42,209
-No that's what's so curious about it. As far as we can tell our video link is functioning normally. The crew just aren't answering.
+00:06:54,200 --> 00:06:56,540
+Oh yes. That's better... Thank you.
 
 68
-00:07:42,477 --> 00:07:44,149
-You can't blame us for that surely.
+00:06:57,280 --> 00:06:59,080
+Thank you very much, yes!
 
 69
-00:07:44,368 --> 00:07:51,410
-There's also been a drop in pressure in the feed line from the rigs. You were seen tampering with the release valve on the pipeline.
+00:07:00,640 --> 00:07:03,920
+You were on the beach, by the pipe line, in a restricted area. Now why?
 
 70
-00:07:51,728 --> 00:07:53,679
-I told you I was merely being curious.
+00:07:04,540 --> 00:07:05,820
+We were lost that's all.
 
 71
-00:07:53,894 --> 00:07:55,186
-Were you?
+00:07:05,860 --> 00:07:08,440
+You were tampering with the emergency release valve remote control.
 
 72
-00:07:55,396 --> 00:07:56,159
-Are you calling us liars?
+00:07:08,580 --> 00:07:09,660
+You're a saboteur.
 
 73
-00:07:56,370 --> 00:08:01,241
-No. But you must admit your sudden appearance here inside our restricted area is suspicious.
+00:07:09,800 --> 00:07:11,940
+He's not. He's a doctor.
 
 74
-00:08:01,623 --> 00:08:03,964
-That's no reason to shoot us down like animals.
+00:07:12,040 --> 00:07:14,630
+I can assure you. I was only being curious.
 
 75
-00:08:04,174 --> 00:08:14,922
-Maybe not, but we were under security alert and Mr Robson... well, is under considerable pressure himself. I'm sorry, but I shall have to do what he says and lock you up.
+00:07:14,940 --> 00:07:16,580
+I don't really think how they could have anything...
 
 76
-00:08:15,208 --> 00:08:15,803
-Oh dear.
+00:07:16,680 --> 00:07:18,440
+When I want your opinion Harris, I'll ask for it.
 
 77
-00:08:16,042 --> 00:08:17,125
-Would you... er... follow me?
+00:07:18,770 --> 00:07:21,360
+In the mean time, lock them up in one of the cabins. 
+I'll interrogate them later. 
 
 78
-00:08:17,429 --> 00:08:18,375
-Why do we always...
+00:07:21,860 --> 00:07:23,860
+And you lot get back to work.
 
 79
-00:08:37,052 --> 00:08:38,923
-May I see your pass please madam?
+00:07:25,520 --> 00:07:27,500
+Is he always as charming as that?
 
 80
-00:08:39,211 --> 00:08:39,976
-Pass?
+00:07:27,820 --> 00:07:29,860
+We're in something of an emergency at the moment.
 
 81
-00:08:40,238 --> 00:08:45,976
-I have instructions that no one is to leave or enter the compound without a written pass from Chief Robson. Not until after the emergency.
+00:07:30,000 --> 00:07:33,100
+You see, we've lost contact with one of our rigs at sea.
 
 82
-00:08:46,207 --> 00:08:51,178
-But you know who I am. My husband is second in command to Chief Robson.
+00:07:33,240 --> 00:07:35,470
+Communications have broken down?
 
 83
-00:08:51,387 --> 00:08:52,318
-Yes Mrs Harris, I...
+00:07:35,670 --> 00:07:37,285
+No, that's what's so curious about it.
 
 84
-00:08:52,497 --> 00:08:56,113
-Then let me pass... please.
+00:07:37,480 --> 00:07:40,380
+As far as we can tell our video link is functioning normally.
 
 85
-00:08:56,686 --> 00:08:59,892
-Sorry madam. I think you should return to the residential block.
+00:07:40,500 --> 00:07:41,860
+The crew just aren't answering.
 
 86
-00:09:08,184 --> 00:09:13,716
-I'm sorry but there is nothing I can do to help you until you tell me what you were doing with that release valve on the pipe line.
+00:07:41,960 --> 00:07:43,760
+You can't blame us for that surely.
 
 87
-00:09:14,737 --> 00:09:17,062
-It wasn't the valve I was interested in.
+00:07:43,900 --> 00:07:46,980
+There's also been a drop in pressure in the feed line from the rigs.
 
 88
-00:09:17,405 --> 00:09:17,932
-Oh?
+00:07:47,080 --> 00:07:50,510
+You were seen tampering with the release valve on the pipeline.
 
 89
-00:09:18,113 --> 00:09:20,907
-I heard a movement coming from inside the pipe.
+00:07:50,820 --> 00:07:53,160
+I told you I was merely being curious.
 
 90
-00:09:21,154 --> 00:09:22,345
-Movement?
+00:07:53,280 --> 00:07:54,280
+Were you?
 
 91
-00:09:22,798 --> 00:09:23,436
-Yes.
+00:07:54,380 --> 00:07:55,580
+Are you calling us liars?
 
 92
-00:09:23,786 --> 00:09:24,650
-Oh it's alright, you can go.
+00:07:55,680 --> 00:08:00,960
+No. But you must admit your sudden appearance here 
+inside our restricted area is suspicious.
 
 93
-00:09:24,854 --> 00:09:27,234
-Yes. Movement. Don't ask me what it was.
+00:08:01,320 --> 00:08:03,720
+That's no reason to shoot us down like animals.
 
 94
-00:09:27,538 --> 00:09:35,421
-I'm not sure what you're trying to suggest, but I can assure you, marine life couldn't possibly get inside the pipeline tube. It would never get pass the drill pumps.
+00:08:04,060 --> 00:08:06,615
+Maybe not, but we were under security alert
 
 95
-00:09:35,627 --> 00:09:39,521
-Aye, that's it. Maybe there was something inside that tube because I heard it too.
+00:08:06,680 --> 00:08:10,600
+and Mr Robson... well, is under considerable pressure himself.
 
 96
-00:09:39,788 --> 00:09:40,694
-And so did I.
+00:08:11,240 --> 00:08:13,980
+I'm sorry, but I shall have to do what he says...
 
 97
-00:09:40,975 --> 00:09:46,490
-Well if the pressure is down in the pipes, perhaps that's the reason why... marine life has got into the pipe.
+00:08:14,040 --> 00:08:15,580
+- and lock you up.  - Oh dear.
 
 98
-00:09:46,722 --> 00:09:51,947
-But that's impossible. We've spent years of time, money and research into perfecting our emergency system.
+00:08:15,760 --> 00:08:17,300
+Would you... er... follow me?
 
 99
-00:09:52,143 --> 00:09:56,685
-Well, perhaps there's a fracture in the pipes - a break, and something has got in that way?
+00:08:17,720 --> 00:08:19,820
+- Come along, this way.   - Why do we always...
 
 100
-00:09:57,027 --> 00:09:57,765
-Oh I doubt it.
+00:08:37,360 --> 00:08:39,280
+May I see your pass please madam?
 
 101
-00:09:58,989 --> 00:10:09,118
-Mr Harris. I don't wish to appear interfering, but don't you think it'd be a good idea to turn off the gas - at least until you've had a chance to check.
+00:08:39,420 --> 00:08:40,380
+Pass?
 
 102
-00:10:09,349 --> 00:10:11,160
-Chief Robson would never agree to that.
+00:08:40,560 --> 00:08:42,920
+I have instructions that no one is to leave or enter the compound
 
 103
-00:10:11,351 --> 00:10:12,054
-Why not?
+00:08:42,980 --> 00:08:44,500
+without a written pass from Chief Robson.
 
 104
-00:10:12,274 --> 00:10:18,289
-Well he doesn't believe in working to the book. He prides himself that the flow has never been shut off ever since he took charge.
+00:08:44,900 --> 00:08:46,460
+Not until after the emergency.
 
 105
-00:10:18,509 --> 00:10:19,861
-Well he sounds like a very silly man.
+00:08:46,620 --> 00:08:48,280
+But you know who I am.
 
 106
-00:10:20,092 --> 00:10:24,802
-Hmmm. But he appears to be right about one thing. You seem to know quite a lot about our business.
+00:08:49,160 --> 00:08:51,700
+My husband is second in command to Chief Robson.
 
 107
-00:10:33,323 --> 00:10:40,953
-Ah, Chief. We've gained contact with Rig D. Come in Rig D. Come in please. Rig D. Can you hear me please?
+00:08:51,880 --> 00:08:54,060
+- Yes Mrs Harris, I...  - Then let me pass.
 
 108
-00:10:41,252 --> 00:10:44,662
-Yes. Rig D to HQ. I can hear you.
+00:08:55,280 --> 00:08:56,240
+Please.
 
 109
-00:10:44,919 --> 00:10:46,920
-CARNEY? What the dickens is going on out there?
+00:08:57,080 --> 00:09:00,400
+Sorry madam. I think you should return to the residential block.
 
 110
-00:10:47,158 --> 00:10:49,487
-Everything is quite alright, Mr Robson.
+00:09:08,640 --> 00:09:11,140
+I'm sorry but there is nothing I can do to help you
 
 111
-00:10:49,742 --> 00:10:50,268
-What?
+00:09:11,220 --> 00:09:14,360
+until you tell me what you were doing with that release valve on the pipe line.
 
 112
-00:10:50,492 --> 00:10:52,710
-We have the situation under control.
+00:09:15,380 --> 00:09:17,460
+It wasn't the valve I was interested in.
 
 113
-00:10:52,961 --> 00:10:54,938
-Would you speak up man. I can't hear a word you're saying.
+00:09:17,800 --> 00:09:18,560
+Oh?
 
 114
-00:10:55,191 --> 00:10:55,890
-Don't worry...
+00:09:18,620 --> 00:09:21,620
+I heard a movement coming from inside the pipe.
 
 115
-00:10:56,096 --> 00:10:57,167
-Price, are we losing volume?
+00:09:21,720 --> 00:09:22,960
+A movement?
 
 116
-00:10:57,327 --> 00:11:00,202
-No, sir. I don't understand. Could you speak up a little louder Mr Carney?
+00:09:24,200 --> 00:09:25,220
+Oh it's alright, you can go.
 
 117
-00:11:00,522 --> 00:11:02,527
-Everything is under control.
+00:09:25,420 --> 00:09:27,760
+Yes. Movement. Don't ask me what it was.
 
 118
-00:11:03,009 --> 00:11:08,000
-Carney? What happened to the emergency crew we sent you? Have they arrived yet?
+00:09:28,060 --> 00:09:30,560
+I'm not sure what you're trying to suggest,
 
 119
-00:11:08,198 --> 00:11:12,144
-Yes... Yes... But they must stay here for the time being.
+00:09:30,640 --> 00:09:34,560
+but I can assure you, marine life couldn't possibly get inside the pipeline tube.
 
 120
-00:11:12,483 --> 00:11:13,151
-What?
+00:09:34,660 --> 00:09:36,120
+It would never get pass the drill pumps.
 
 121
-00:11:13,401 --> 00:11:17,293
-They had a slight accident. Two men out of action.
+00:09:36,220 --> 00:09:39,460
+Aye, that's as maybe, but there was something inside that tube
 
 122
-00:11:17,514 --> 00:11:20,183
-Now listen Carney. You get that rig fixed A1 and quick.
+00:09:39,520 --> 00:09:42,000
+- because I heard it too.  - And so did I.
 
 123
-00:11:20,437 --> 00:11:22,022
-But it will take some time.
+00:09:42,060 --> 00:09:45,160
+Well if the pressure is down in the pipes, perhaps that's the reason why...
 
 124
-00:11:22,300 --> 00:11:25,495
-What? What did you say? What's wrong with this thing.
+00:09:45,220 --> 00:09:47,720
+Perhaps marine life has got into the pipe.
 
 125
-00:11:25,799 --> 00:11:29,691
-I don't know, sir. It must be their end. He seems to be whispering.
+00:09:47,820 --> 00:09:48,780
+But that's impossible.
 
 126
-00:11:29,999 --> 00:11:31,745
-Everything is under control.
+00:09:48,896 --> 00:09:52,960
+We've spent years of time, money and research into perfecting our emergency system.
 
 127
-00:11:31,948 --> 00:11:33,005
-Carney, speak up man.
+00:09:53,180 --> 00:09:56,040
+Well, perhaps there's a fracture in the pipes - a break,
 
 128
-00:11:33,311 --> 00:11:35,129
-Everything is under control.
+00:09:56,160 --> 00:09:59,360
+- and something has got in that way?   - Oh I doubt it.
 
 129
-00:11:35,448 --> 00:11:36,336
-Carney...
+00:10:00,260 --> 00:10:06,020
+Mr Harris. I don't wish to appear interfering,
 
 130
-00:11:39,618 --> 00:11:41,025
-I think we've lost contact again sir.
+00:10:06,100 --> 00:10:08,700
+but don't you think it'd be a good idea to turn off the gas -
 
 131
-00:11:41,255 --> 00:11:41,977
-Fix it man.
+00:10:08,760 --> 00:10:10,640
+at least until you've had a chance to check.
 
 132
-00:11:45,755 --> 00:11:47,149
-Price is getting too old for his job.
+00:10:10,740 --> 00:10:13,200
+- Chief Robson would never agree to that.   - Why not?
 
 133
-00:11:47,367 --> 00:11:50,819
-Mr. Robson, I think we should turn off the gas flow coming from the rig. Make a check.
+00:10:13,400 --> 00:10:15,580
+Well he doesn't believe in working to the book.
 
 134
-00:11:51,818 --> 00:11:52,888
-You think what Mr Harris?
+00:10:15,960 --> 00:10:20,120
+He prides himself that the flow has never been shut off ever since he took charge.
 
 135
-00:11:53,119 --> 00:11:57,860
-That Doctor chap. The stranger. He said he heard a movement coming from inside the pipe line on the beach.
+00:10:20,280 --> 00:10:21,520
+Well he sounds like a very silly man.
 
 136
-00:11:58,060 --> 00:12:01,048
-Oh did he now. Did he say what he thought it was? Mice?
+00:10:21,660 --> 00:10:24,110
+Hmmm. But he appears to be right about one thing.
 
 137
-00:12:02,021 --> 00:12:03,157
-Chief?
+00:10:24,300 --> 00:10:26,580
+You seem to know quite a lot about our business.
 
 138
-00:12:03,521 --> 00:12:06,707
-She's down at propeller 3. Pressure's on just 157.
+00:10:35,000 --> 00:10:38,100
+Ah, Chief. We've gained contact with Rig D.
 
 139
-00:12:07,189 --> 00:12:08,462
-Are you sure?
+00:10:38,280 --> 00:10:40,365
+Come in Rig D. Come in please.
 
 140
-00:12:08,824 --> 00:12:09,759
-Yes. Sure.
+00:10:41,140 --> 00:10:42,820
+Rig D. Can you hear me please?
 
 141
-00:12:09,965 --> 00:12:14,333
-That means the gas flow pressure is down 3% every...
+00:10:42,940 --> 00:10:46,460
+Yes. Rig D to HQ. I can hear you.
 
 142
-00:12:14,525 --> 00:12:15,411
-Twenty minutes.
+00:10:46,600 --> 00:10:48,860
+CARNEY? What the dickens is going on out there?
 
 143
-00:12:15,618 --> 00:12:17,789
-Doesn't that prove that something must be blocking the pipe line?
+00:10:49,000 --> 00:10:52,120
+- Everything is quite alright, Mr...  - What?
 
 144
-00:12:17,981 --> 00:12:20,950
-It proves nothing of the sort. It's probably a faulty gauge that's all. Check it.
+00:10:52,260 --> 00:10:54,680
+... have the situation under control.
 
 145
-00:12:21,133 --> 00:12:22,603
-Look, at least give it the benefit of the doubt.
+00:10:54,920 --> 00:10:57,000
+Would you speak up man. I can't hear a word you're saying.
 
 146
-00:12:22,802 --> 00:12:26,699
-When you want to find out about pipe lines and rigs Mr Harris, the thing to do is to go out and see and work on them.
+00:10:57,080 --> 00:10:58,660
+- Don't worry...  - are we losing volume?
 
 147
-00:12:26,892 --> 00:12:28,829
-Look I'm merely saying that if something had got into the tube...
+00:10:58,820 --> 00:11:00,360
+No, sir. I don't understand.
 
 148
-00:12:29,005 --> 00:12:30,078
-You let me worry about that.
+00:11:00,580 --> 00:11:02,580
+Could you speak up a little louder Mr Carney?
 
 149
-00:12:30,919 --> 00:12:51,227
-But Mr Robson, please listen. This ties up with what I've been trying to tell you. For three weeks now, there's been a regular and increasing build up of falls in pressure... Look I think you should at least look at my calculations. The time ratio of the increases and falls corresponds to form a definite progressive pattern. I'll get them.
+00:11:02,680 --> 00:11:04,660
+Everything is ...
 
 150
-00:12:51,601 --> 00:12:54,583
-What are you trying to prove Harris? That I don't know my job?
+00:11:05,100 --> 00:11:08,900
+Carney? What happened to the emergency crew we sent you?
 
 151
-00:12:54,874 --> 00:13:02,502
-No. Just that I know mine. It's your decision whether you take notice of my work but I must put it on record that I have offered the information.
+00:11:09,400 --> 00:11:11,000
+- Have they arrived yet?  - Yes!
 
 152
-00:13:03,180 --> 00:13:14,381
-Don't threaten me boy. I've eaten up sods like you for breakfast. You think you can baffle me with your little bits of paper don't you? Alright, you go ahead and get them. I'll show you where you've gone wrong.
+00:11:11,060 --> 00:11:14,280
+Yes... But they must stay here for the time ...
 
 153
-00:13:17,615 --> 00:13:18,639
-Did you make a thorough check?
+00:11:14,660 --> 00:11:15,420
+They what?
 
 154
-00:13:18,848 --> 00:13:20,374
-Yes I checked it. Seems to be working properly.
+00:11:15,760 --> 00:11:19,500
+They had a slight accident. Two men out of action.
 
 155
-00:13:20,850 --> 00:13:21,498
-It's gone.
+00:11:19,760 --> 00:11:22,600
+Now listen Carney. You get that rig fixed A1 and quick.
 
 156
-00:13:21,817 --> 00:13:24,668
-Doesn't seem to be anything wrong with her.
+00:11:22,800 --> 00:11:24,760
+But it will take some time.
 
 157
-00:13:24,954 --> 00:13:26,600
-It's gone. The file's gone.
+00:11:24,900 --> 00:11:28,300
+What? What did you say? What's wrong with this thing.
 
 158
-00:13:26,827 --> 00:13:28,397
-Well well well. Has it now?
+00:11:28,660 --> 00:11:32,290
+I don't know, sir. It must be their end. He seems to be whispering.
 
 159
-00:13:28,724 --> 00:13:35,215
-I'm sure I put it in here this morning... er I must have left the file on my desk at home. I'll go home and get...
+00:11:32,540 --> 00:11:34,340
+Everything is under control.
 
 160
-00:13:35,429 --> 00:13:37,562
-You won't. You'll stay here. I'm not doing your job as well as my own.
+00:11:34,440 --> 00:11:35,800
+Carney, speak up man.
 
 161
-00:13:37,772 --> 00:13:40,686
-What's the matter sir? Are you scared that I might prove you wrong?
+00:11:35,910 --> 00:11:37,720
+Everything is under control.
 
 162
-00:13:41,936 --> 00:13:52,333
-No. You go ahead. But you'd better have something more than a high blown theory, because if you haven't, I'm going to take up and chop you up into little pieces and throw you back to your crummy little university. Alright?
+00:11:38,040 --> 00:11:38,930
+Carney...
 
 163
-00:13:57,018 --> 00:13:57,897
-I've got it.
+00:11:41,700 --> 00:11:43,400
+I think we've lost contact again sir.
 
 164
-00:13:58,741 --> 00:14:03,049
-Put that down Victoria. Can you see anyone?
+00:11:43,500 --> 00:11:44,570
+Fix it man.
 
 165
-00:14:03,294 --> 00:14:04,212
-All clear.
+00:11:48,350 --> 00:11:49,740
+Price is getting too old for his job.
 
 166
-00:14:04,554 --> 00:14:05,815
-You think you can make it?
+00:11:49,920 --> 00:11:53,520
+Mr. Robson, I think we should turn off the gas flow
+coming from the rig. Make a check.
 
 167
-00:14:06,038 --> 00:14:07,350
-Of course I can make it. Hold on.
+00:11:54,410 --> 00:11:55,480
+You think what Mr Harris?
 
 168
-00:14:07,589 --> 00:14:12,010
-Don't bother, Jamie. You can do it with this.
+00:11:55,710 --> 00:11:58,620
+That Doctor chap. The stranger. He said he heard a movement
 
 169
-00:14:12,233 --> 00:14:14,583
-Pick a lock with that hairpin? Don't be daft.
+00:11:58,680 --> 00:12:00,700
+coming from inside the pipe line on the beach.
 
 170
-00:14:18,866 --> 00:14:19,807
-Clumsy.
+00:12:00,800 --> 00:12:03,820
+Oh did he now. Did he say what he thought it was? Mice?
 
 171
-00:14:24,677 --> 00:14:27,130
-Maggie. Where have you been? I've been trying to contact you.
+00:12:04,620 --> 00:12:05,750
+Chief?
 
 172
-00:14:27,342 --> 00:14:31,879
-I was on my way to the village, but Robson's clamped down on security. I was just coming to find you for a pass.
+00:12:06,120 --> 00:12:09,300
+She's down at propeller 3. Pressure's on just 157.
 
 173
-00:14:32,077 --> 00:14:33,242
-Yes. There's been a bit of a flap on.
+00:12:10,020 --> 00:12:13,060
+- 157? Are you sure?   - Yes. Sir.
 
 174
-00:14:33,445 --> 00:14:34,398
-Well can I have a pass?
+00:12:13,400 --> 00:12:17,820
+- That means the gas flow pressure is down 3% every.. .- Twenty minutes.
 
 175
-00:14:34,589 --> 00:14:36,571
-No. Not at the moment. Look. Could you do something for me?
+00:12:17,900 --> 00:12:20,380
+Doesn't that prove that something must be blocking the pipe line?
 
 176
-00:14:36,850 --> 00:14:37,574
-Yes what is it?
+00:12:20,500 --> 00:12:21,540
+It proves nothing of the sort.
 
 177
-00:14:37,857 --> 00:14:43,800
-There's a file - it's probably in the middle draw of my desk in the study. Could you get it and bring it to me at the control room?
+00:12:21,640 --> 00:12:23,420
+It's probably a faulty gauge that's all. Check it.
 
 178
-00:14:44,011 --> 00:14:45,463
-Alright darling. But what's the panic?
+00:12:23,540 --> 00:12:25,200
+Look, at least give it the benefit of the doubt.
 
 179
-00:14:45,662 --> 00:14:46,740
-I'll explain later. Go along.
+00:12:25,340 --> 00:12:27,740
+When you want to find out about pipe lines and rigs Mr Harris,
 
 180
-00:14:47,002 --> 00:14:48,296
-Alright darling.
+00:12:27,800 --> 00:12:29,340
+the thing to do is to go out and see and work on them.
 
 181
-00:14:58,076 --> 00:14:59,904
-Oh he's stuck.
+00:12:29,420 --> 00:12:31,880
+Look I'm merely saying that if something had got into the tube...
 
 182
-00:15:00,306 --> 00:15:04,633
-No he's not. Are you ready Jamie. Right.
+00:12:31,940 --> 00:12:33,540
+You let me worry about that.
 
 183
-00:15:15,106 --> 00:15:16,946
-Told you not to bother.
+00:12:34,080 --> 00:12:36,100
+But Mr Robson, please listen.
 
 184
-00:15:18,537 --> 00:15:20,701
-Sorry, about that Jamie.
+00:12:36,640 --> 00:12:39,220
+This ties up with what I've been trying to tell you.
 
 185
-00:16:10,907 --> 00:16:16,691
-Ow... Seaweed?
+00:12:39,540 --> 00:12:43,740
+For three weeks now, there's been a regular and increasing build up of falls in pressure...
 
 186
-00:16:45,317 --> 00:16:49,917
-Mr. Robson. Could I speak with you please?
+00:12:44,680 --> 00:12:47,440
+Look I think you should at least look at my calculations.
 
 187
-00:16:50,379 --> 00:16:52,902
-Van Lutyens. I thought you were at the Control Rig.
+00:12:48,180 --> 00:12:52,980
+The time ratio of the increases and falls 
+corresponds to form a definite progressive pattern.
 
 188
-00:16:53,131 --> 00:16:54,700
-I just got back on the supply boat.
+00:12:53,120 --> 00:12:54,780
+- So?  -  I'll get them.
 
 189
-00:16:54,946 --> 00:16:55,868
-Something wrong?
+00:12:54,980 --> 00:12:58,220
+What are you trying to prove Harris? That I don't know my job?
 
 190
-00:16:56,168 --> 00:16:59,879
-I'm not quite sure. The men out there seem very restless.
+00:12:58,340 --> 00:13:00,600
+No, sir. Just that I do know mine.
 
 191
-00:17:00,172 --> 00:17:02,124
-Restless? What are you talking about?
+00:13:01,240 --> 00:13:03,660
+It's your decision whether you take notice of my work
 
 192
-00:17:02,423 --> 00:17:04,439
-You lost contact with Rig D didn't you?
+00:13:03,720 --> 00:13:06,620
+but I must put it on record that I have offered the information.
 
 193
-00:17:04,706 --> 00:17:06,830
-Yes it was only a temporary fault. We regained contact within the hour.
+00:13:06,880 --> 00:13:10,820
+Don't threaten me boy. I've eaten up sods like you for breakfast.
 
 194
-00:17:07,010 --> 00:17:15,067
-Then why didn't you tell us that? Unusual incidents like that only cause tension on the rigs.
+00:13:11,100 --> 00:13:13,660
+You think you can baffle me with your little bits of paper don't you?
 
 195
-00:17:15,262 --> 00:17:19,147
-Don't tell me what happened out on the rigs. I spent four years on one of those things without a break.
+00:13:14,060 --> 00:13:15,520
+Alright, you go ahead and get them.
 
 196
-00:17:19,487 --> 00:17:23,080
-Then you should know better than anyone how important it is to keep up the morale of the crew.
+00:13:15,660 --> 00:13:17,520
+I'll show you where you've gone wrong.
 
 197
-00:17:23,253 --> 00:17:26,961
-What do you want me to do? Wipe their noses for them? Mind your own business van Lutyens.
+00:13:21,210 --> 00:13:22,230
+Did you make a thorough check?
 
 198
-00:17:29,403 --> 00:17:36,133
-Mr Robson. I think you're forgetting we also have an interest in Euro Sea Gas.
+00:13:22,340 --> 00:13:24,660
+- Yes I checked it. Seems to be working properly.   - It's gone.
 
 199
-00:17:36,356 --> 00:17:37,039
-We?
+00:13:25,200 --> 00:13:27,380
+Doesn't seem to be anything wrong with her.
 
 200
-00:17:37,240 --> 00:17:39,467
-I'm here for the Dutch Government, not for myself.
+00:13:28,550 --> 00:13:30,460
+It's gone. The file's gone.
 
 201
-00:17:39,753 --> 00:17:43,321
-You're here to offer me your expert advice, not spread alarm amongst my crews.
+00:13:30,520 --> 00:13:32,220
+Well well well. Has it now?
 
 202
-00:17:43,563 --> 00:17:45,175
-How dare you say that to me?
+00:13:32,400 --> 00:13:34,690
+I'm sure I put it in here this morning...
 
 203
-00:17:45,580 --> 00:17:50,214
-I didn't ask you to come here - it was Megan Jones and those fools on the board. I said it wouldn't work and it never has.
+00:13:34,840 --> 00:13:37,480
+Err, I must have left the file on my desk at home.
 
 204
-00:17:50,479 --> 00:17:52,242
-Only because you're too proud to accept advice.
+00:13:37,960 --> 00:13:39,980
+- I'll go home and get...  - You won't. You'll stay here. 
 
 205
-00:17:52,443 --> 00:17:57,020
-Let's get one thing straight, my friend - when I need your advice I'll ask for it.
+00:13:40,060 --> 00:13:41,500
+I'm not doing your job as well as my own.
 
 206
-00:18:20,754 --> 00:18:23,898
-Control. Chief Baxter at Control Rig. Is Robson there?
+00:13:41,680 --> 00:13:44,460
+What's the matter sir? Are you scared that I might prove you wrong?
 
 207
-00:18:24,136 --> 00:18:28,230
-Yes sir. Mr. Robson sir. Chief Baxter from Control Rig sir.
+00:13:46,020 --> 00:13:49,290
+No. You go ahead. But you'd better have something more than a high blown theory,
 
 208
-00:18:30,855 --> 00:18:34,785
-Right. Yes Baxter, what is it?
+00:13:49,360 --> 00:13:53,030
+because if you haven't, I'm going to take up and chop you up into little pieces
 
 209
-00:18:34,989 --> 00:18:36,185
-Van Lutyens arrive there yet sir?
+00:13:53,080 --> 00:13:56,760
+and throw you back to your crummy little university. Alright?
 
 210
-00:18:36,413 --> 00:18:37,532
-Yes. Why?
+00:14:01,140 --> 00:14:02,040
+I've got it.
 
 211
-00:18:37,720 --> 00:18:39,070
-Did he tell you how the men feel sir?
+00:14:03,020 --> 00:14:04,700
+Put that down Victoria.
 
 212
-00:18:39,241 --> 00:18:43,714
-Now listen Baxter. I'm in charge of this outfit - not van Lutyens. You take orders from me not him.
+00:14:06,060 --> 00:14:07,440
+Can you see anyone?
 
 213
-00:18:43,905 --> 00:18:45,483
-Yes sir. But there's something else.
+00:14:07,540 --> 00:14:08,610
+All clear.
 
 214
-00:18:45,694 --> 00:18:46,439
-What else?
+00:14:08,860 --> 00:14:10,210
+You think you can make it?
 
 215
-00:18:46,616 --> 00:18:48,019
-Something seems to have got inside the pipe lines.
+00:14:10,400 --> 00:14:11,900
+Of course I can make it. Hold on.
 
 216
-00:18:48,221 --> 00:18:49,557
-Inside the pipe lines?
+00:14:12,700 --> 00:14:16,410
+Don't bother, Jamie. You can do it with this.
 
 217
-00:18:49,745 --> 00:18:50,821
-We've all heard it sir.
+00:14:16,760 --> 00:14:19,200
+Pick a lock with that hairpin? Don't be daft.
 
 218
-00:18:50,992 --> 00:18:51,965
-Heard what?
+00:14:23,020 --> 00:14:24,200
+Clumsy.
 
 219
-00:18:52,131 --> 00:19:01,096
-This sound. At first I thought it was something to do with the pumps, but it isn't. Most peculiar sound. A sort of regular thumping, pulsating... like a heartbeat.
+00:14:29,320 --> 00:14:31,530
+Maggie. Where have you been? I've been trying to contact you.
 
 220
-00:19:02,069 --> 00:19:04,150
-That's the noise I heard on the beach.
+00:14:31,740 --> 00:14:35,080
+I was on my way to the village, but Robson's clamped down on security.
 
 221
-00:19:04,350 --> 00:19:05,164
-What is it Doctor?
+00:14:35,140 --> 00:14:36,620
+I was just coming to find you for a pass.
 
 222
-00:19:05,358 --> 00:19:10,529
-I don't know, but we're going to find out. Come on, Jamie. Oh... ah Victoria. No. Not you.
+00:14:36,700 --> 00:14:37,860
+Yes. There's been a bit of a flap on.
 
 223
-00:19:10,743 --> 00:19:11,686
-Why not?
+00:14:37,940 --> 00:14:39,800
+- Well can I have a pass?  - No. Not at the moment.
 
 224
-00:19:11,910 --> 00:19:16,422
-I think it'd be better if you... er... stayed back in the bunk room... hmmm?... please.
+00:14:39,860 --> 00:14:42,060
+- Look. Could you do something for me?  - Yes what is it?
 
 225
-00:19:16,854 --> 00:19:17,495
-Alright.
+00:14:42,250 --> 00:14:45,636
+There's a file - it's probably in the middle draw of my desk in the study.
 
 226
-00:19:44,504 --> 00:19:45,392
-Control.
+00:14:45,680 --> 00:14:48,700
+Could you get it and bring it to me at the control room?
 
 227
-00:19:45,781 --> 00:19:50,597
-Mrs Harris here. Married Block 420. Could I speak to my husband please?
+00:14:48,780 --> 00:14:50,320
+Alright darling. But what's the panic?
 
 228
-00:19:53,513 --> 00:19:54,729
-Have you recalibrated it?
+00:14:50,440 --> 00:14:51,940
+I'll explain later. Go along.
 
 229
-00:19:54,969 --> 00:19:56,265
-I've just done Phase two.
+00:14:52,060 --> 00:14:53,240
+Alright darling.
 
 230
-00:19:56,493 --> 00:19:57,418
-Start on Phase three.
+00:15:03,000 --> 00:15:06,680
+- Oh he's stuck.  - No he's not.
 
 231
-00:19:57,639 --> 00:19:58,431
-Mr Robson.
+00:15:07,440 --> 00:15:09,680
+Are you ready Jamie. Right.
 
 232
-00:19:58,691 --> 00:20:00,252
-Yes Harris. Where are your figures?
+00:15:20,080 --> 00:15:21,760
+Told you not to bother.
 
 233
-00:20:00,494 --> 00:20:07,890
-Oh I haven't got them, sir. I sent my wife for them, but she's not well. I wondered if I could go and...
+00:15:23,300 --> 00:15:25,620
+Sorry, about that Jamie.
 
 234
-00:20:08,079 --> 00:20:09,725
-I would not. Tell her to call a doctor, not pester you.
+00:16:21,420 --> 00:16:23,000
+Ow... Seaweed?
 
 235
-00:20:09,933 --> 00:20:11,805
-But Dr. Patterson is still out at Rig D sir.
+00:16:50,680 --> 00:16:53,640
+Mr. Robson. Mr. Robson. 
 
 236
-00:20:12,012 --> 00:20:13,909
-Tell her to get one in from the outside.
+00:16:54,940 --> 00:16:56,320
+Could I speak with you please?
 
 237
-00:20:14,140 --> 00:20:17,948
-But you've still go the compound on full emergency alert. Remember?
+00:16:56,720 --> 00:16:59,420
+Van Lutyens. I thought you were at the Control Rig.
 
 238
-00:20:18,544 --> 00:20:22,004
-Alright. But make it quick.
+00:16:59,480 --> 00:17:00,980
+I just got back on the supply boat.
 
 239
-00:22:14,396 --> 00:22:15,875
-What's that thing supposed to do?
+00:17:01,240 --> 00:17:02,360
+Something wrong?
 
 240
-00:22:16,086 --> 00:22:23,037
-It's an impeller Jamie. It pumps gas from the main pipeline out to sea. Come on Jamie.
+00:17:02,580 --> 00:17:06,140
+I'm not quite sure. The men out there seem very restless.
 
 241
-00:22:33,955 --> 00:22:35,443
-This is the pipeline, then.
+00:17:06,540 --> 00:17:08,120
+Restless? What are you talking about?
 
 242
-00:22:35,636 --> 00:22:39,775
-Yes. Yes. They all are. It's a continuation of the pipe we found on the beach.
+00:17:08,740 --> 00:17:10,700
+You lost contact with Rig D didn't you?
 
 243
-00:22:40,088 --> 00:22:42,011
-Aye? But we can see inside the pipe.
+00:17:10,860 --> 00:17:13,500
+Yes it was only a temporary fault. We regained contact within the hour.
 
 244
-00:22:42,237 --> 00:22:48,401
-Yes. It's transparent for checking condensation and... er... anything else that might get inside.
+00:17:13,580 --> 00:17:14,720
+Then why didn't you tell us that?
 
 245
-00:22:55,065 --> 00:23:00,581
-Hello? Is anybody there? Oh come on...
+00:17:17,860 --> 00:17:21,760
+Unusual incidents like that only cause tension on the rigs.
 
 246
-00:23:19,927 --> 00:23:22,116
-There it is again Jamie. Can you hear it?
+00:17:21,900 --> 00:17:23,540
+Don't tell me what happened out on the rigs.
 
 247
-00:23:22,480 --> 00:23:23,743
-Aye. What is it?
+00:17:23,700 --> 00:17:26,000
+I spent four years on one of those things without a break.
 
 248
-00:23:23,967 --> 00:23:27,606
-Your guess is as good as mine. There's something inside.
+00:17:26,200 --> 00:17:27,560
+Then you should know better than anyone
 
 249
-00:23:28,179 --> 00:23:29,762
-DOCTOR!
+00:17:27,640 --> 00:17:29,880
+how important it is to keep up the morale of the crew.
 
 250
-00:23:30,761 --> 00:23:32,250
-Victoria! Come on.
+00:17:29,960 --> 00:17:31,740
+What do you want me to do? Wipe their noses for them?
 
 251
-00:23:33,882 --> 00:23:42,081
-Jamie... Jamie... help!
+00:17:31,980 --> 00:17:33,420
+Mind your own business van Lutyens.
 
 252
-00:23:42,724 --> 00:23:43,916
-Victoria. Where are you?
+00:17:36,060 --> 00:17:42,980
+Mr Robson. I think you're forgetting 
+we also have an interest in Euro Sea Gas.
 
 253
-00:23:44,244 --> 00:23:46,523
-Doctor... Jamie...
+00:17:43,080 --> 00:17:43,880
+We?
 
 254
-00:23:58,125 --> 00:23:59,929
-Victoria. We're coming.
+00:17:44,040 --> 00:17:46,140
+I'm here for the Dutch Government, not for myself.
 
 255
-00:24:00,414 --> 00:24:02,500
-Doctor... Jamie... hurry.
+00:17:46,750 --> 00:17:50,320
+You're here to offer me your expert advice,
+ not spread alarm amongst my crews.
+
+256
+00:17:50,440 --> 00:17:52,000
+How dare you say that to me?
+
+257
+00:17:52,720 --> 00:17:56,060
+I didn't ask you to come here - 
+it was Megan Jones and those fools on the board.
+
+258
+00:17:56,120 --> 00:17:57,560
+I said it wouldn't work and it never has.
+
+259
+00:17:57,640 --> 00:17:59,420
+Only because you're too proud to accept advice.
+
+260
+00:17:59,500 --> 00:18:01,480
+Let's get one thing straight, my friend
+
+261
+00:18:01,700 --> 00:18:04,320
+When I need your advice I'll ask for it.
+
+262
+00:18:28,140 --> 00:18:31,300
+Control. Chief Baxter at Control Rig. Is Robson there?
+
+263
+00:18:31,400 --> 00:18:32,320
+Yes sir.
+
+264
+00:18:32,640 --> 00:18:35,820
+Mr. Robson sir. Chief Baxter from Control Rig sir.
+
+265
+00:18:35,900 --> 00:18:36,620
+Right.
+
+266
+00:18:41,500 --> 00:18:42,520
+Yes Baxter, what is it?
+
+267
+00:18:42,620 --> 00:18:45,240
+- Van Lutyens arrive there yet sir?   - Yes. Why?
+
+268
+00:18:45,320 --> 00:18:46,760
+Did he tell you how the men feel sir?
+
+269
+00:18:46,940 --> 00:18:50,140
+Now listen Baxter. I'm in charge of this outfit - not van Lutyens.
+
+270
+00:18:50,220 --> 00:18:52,160
+- You take orders from me not him.  - Yes sir.
+
+271
+00:18:52,280 --> 00:18:53,900
+- But there's something else.   - What else?
+
+272
+00:18:53,980 --> 00:18:55,660
+Something seems to have got inside the pipe lines.
+
+273
+00:18:55,920 --> 00:18:57,840
+- Inside the pipe lines?   - We've all heard it sir.
+
+274
+00:18:57,960 --> 00:18:59,660
+- Heard what?  - This sound. 
+
+275
+00:18:59,830 --> 00:19:02,520
+At first I thought it was something to do with the pumps, but it isn't.
+
+276
+00:19:02,740 --> 00:19:04,291
+Most peculiar sound.
+
+277
+00:19:04,480 --> 00:19:08,820
+A sort of regular thumping, pulsating... like a heartbeat.
+
+278
+00:19:10,060 --> 00:19:12,220
+That's the noise I heard on the beach.
+
+279
+00:19:12,320 --> 00:19:13,160
+What is it Doctor?
+
+280
+00:19:13,240 --> 00:19:15,540
+I don't know, but we're going to find out. Come on, Jamie.
+
+281
+00:19:16,020 --> 00:19:18,420
+Oh... ah Victoria. No. Not you.
+
+282
+00:19:18,520 --> 00:19:20,760
+- Why not?  - I think it'd be better if you... 
+
+283
+00:19:20,840 --> 00:19:24,420
+Err... stayed back in the bunk room... hmmm?... please.
+
+284
+00:19:24,550 --> 00:19:25,620
+Alright.
+
+285
+00:19:52,800 --> 00:19:53,700
+Control.
+
+286
+00:19:54,000 --> 00:19:56,840
+Mrs Harris here. Married Block 420.
+
+287
+00:19:57,260 --> 00:19:59,290
+Could I speak to my husband please?
+
+288
+00:20:01,940 --> 00:20:03,420
+Have you recalibrated it?
+
+289
+00:20:03,520 --> 00:20:04,960
+I've just done Phase two.
+
+290
+00:20:05,060 --> 00:20:06,110
+Start on Phase three.
+
+291
+00:20:06,200 --> 00:20:07,130
+Mr Robson.
+
+292
+00:20:07,460 --> 00:20:08,950
+Yes Harris. Where are your figures?
+
+293
+00:20:11,180 --> 00:20:12,920
+Oh I haven't got them, sir.
+
+294
+00:20:13,120 --> 00:20:15,200
+I sent my wife for them, but she's not well.
+
+295
+00:20:15,340 --> 00:20:17,080
+- I wondered if I could go and...  - I would not. 
+
+296
+00:20:17,220 --> 00:20:18,580
+Tell her to call a doctor, not pester you.
+
+297
+00:20:18,640 --> 00:20:20,680
+But Dr. Patterson is still out at Rig D sir.
+
+298
+00:20:20,720 --> 00:20:22,600
+Tell her to get one in from the outside.
+
+299
+00:20:22,840 --> 00:20:26,640
+But you've still go the compound on full emergency alert. Remember?
+
+300
+00:20:27,420 --> 00:20:30,700
+Alright. But make it quick.
+
+301
+00:22:24,090 --> 00:22:25,570
+What's that thing supposed to do?
+
+302
+00:22:25,780 --> 00:22:27,520
+It's an impeller Jamie.
+
+303
+00:22:27,660 --> 00:22:32,000
+It pumps gas from the main pipeline out to sea. Come on.
+
+304
+00:22:44,460 --> 00:22:46,880
+- This is the pipeline, then.  - Yes. Yes. They all are.
+
+305
+00:22:47,000 --> 00:22:50,380
+It's a continuation of the pipe we found on the beach.
+
+306
+00:22:50,480 --> 00:22:52,410
+Aye? But we can see inside the pipe.
+
+307
+00:22:52,630 --> 00:22:56,580
+Yes. It's transparent for checking condensation and...
+
+308
+00:22:56,660 --> 00:22:58,920
+er... anything else that might get inside.
+
+309
+00:23:05,780 --> 00:23:08,620
+Hello? Is anybody there?
+
+310
+00:23:09,460 --> 00:23:11,180
+Oh come on...
+
+311
+00:23:31,020 --> 00:23:33,210
+There it is again Jamie. Can you hear it?
+
+312
+00:23:33,440 --> 00:23:34,840
+Aye. What is it?
+
+313
+00:23:35,060 --> 00:23:38,700
+Your guess is as good as mine. There's something inside.
+
+314
+00:23:39,270 --> 00:23:40,640
+DOCTOR!
+
+315
+00:23:41,860 --> 00:23:43,500
+Victoria! Come on.
+
+316
+00:23:45,200 --> 00:23:49,020
+- Jamie!  - Victoria!
+
+317
+00:23:50,140 --> 00:23:53,500
+Jamie... help!
+
+318
+00:23:53,580 --> 00:23:55,520
+Victoria. Where are you?
+
+319
+00:23:55,880 --> 00:23:58,640
+Doctor... Jamie...
+
+320
+00:24:12,000 --> 00:24:14,020
+- Victoria. We're coming.  - Jamie!
 
