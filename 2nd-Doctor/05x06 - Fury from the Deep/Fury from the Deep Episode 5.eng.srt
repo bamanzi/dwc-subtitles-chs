@@ -1,1168 +1,1262 @@
-1
+﻿1
 00:00:10,002 --> 00:00:11,002
 Sincro: wyxchari
 
 2
-00:00:34,373 --> 00:00:40,992
-With the Control Rig gone we can draw only one conclusion. The weed is trying to take over all the rigs and form one vast colony.
+00:00:27,120 --> 00:00:30,240
+With the Control Rig gone we can draw only one conclusion.
 
 3
-00:00:41,282 --> 00:00:42,404
-With what objective?
+00:00:30,420 --> 00:00:34,160
+The weed is trying to take over all the rigs and form one vast colony.
 
 4
-00:00:42,627 --> 00:00:45,653
-The saturation of the British Isles and perhaps in time the entire planet.
+00:00:34,280 --> 00:00:35,400
+With what objective?
 
 5
-00:00:45,940 --> 00:00:47,089
-Is such a thing possible?
+00:00:35,820 --> 00:00:38,950
+The saturation of the British Isles and perhaps in time the entire planet.
 
 6
-00:00:47,285 --> 00:00:50,492
-Well, yes. Unless we can find the nerve centre and destroy it.
+00:00:39,100 --> 00:00:40,200
+Is such a thing possible?
 
 7
-00:00:50,699 --> 00:00:53,844
-But how can we possibly do that? It could be anywhere out there in the North Sea.
+00:00:40,260 --> 00:00:43,580
+Well, yes. Unless we can find the nerve centre and destroy it.
 
 8
-00:00:54,025 --> 00:00:55,042
-Yes, that is the difficulty.
+00:00:43,740 --> 00:00:45,250
+But how can we possibly do that?
 
 9
-00:00:55,238 --> 00:00:55,842
-Doctor!
+00:00:45,300 --> 00:00:46,860
+It could be anywhere out there in the North Sea.
 
 10
-00:00:56,025 --> 00:00:56,548
-What is it?
+00:00:46,940 --> 00:00:48,020
+Yes, that is the difficulty.
 
 11
-00:00:56,705 --> 00:00:57,418
-Doctor! The pipeline, quick!
+00:00:48,080 --> 00:00:49,020
+- Doctor!   - What is it?
 
 12
-00:00:57,607 --> 00:00:58,362
-Quickly! Quickly!
+00:00:49,120 --> 00:00:51,660
+- Doctor! The pipeline, quick!   - Quickly! Quickly!
 
 13
-00:00:58,602 --> 00:00:59,345
-What's happened?
+00:00:51,720 --> 00:00:53,180
+- What's happened?  - Here!
 
 14
-00:00:59,509 --> 00:01:00,843
-Here! Come up!
+00:00:53,700 --> 00:00:54,920
+Come up!
 
 15
-00:01:05,656 --> 00:01:07,403
+00:00:59,040 --> 00:01:00,760
 What is heaven's name is that?
 
 16
-00:01:08,676 --> 00:01:10,114
+00:01:01,970 --> 00:01:03,600
 The advanced guard.
 
 17
-00:01:11,077 --> 00:01:16,619
-I don't understand. What's happening?
+00:01:04,370 --> 00:01:05,880
+I don't understand.
 
 18
-00:01:18,210 --> 00:01:20,541
-The first part of the invasion.
+00:01:08,900 --> 00:01:10,280
+What's happening?
 
 19
-00:01:20,762 --> 00:01:22,322
-Doctor, don't go near!
+00:01:11,720 --> 00:01:13,680
+The first part of the invasion.
 
 20
-00:01:22,610 --> 00:01:26,548
-It's begun. The battle of the giants!
+00:01:14,160 --> 00:01:15,760
+Doctor, don't go near!
 
 21
-00:01:30,001 --> 00:01:35,995
-Feed HQ calling Rig F. Feed HQ calling Rig F, can you hear me? Come in please.
+00:01:16,760 --> 00:01:20,140
+It's begun. The battle of the giants!
 
 22
-00:01:36,782 --> 00:01:40,673
-Oh Mr Harris. I can't raise any of the rigs. Not one!
+00:01:23,600 --> 00:01:27,560
+Feed HQ calling Rig F. Feed HQ calling Rig F.
 
 23
-00:01:40,900 --> 00:01:41,860
-This is unbelievable!
+00:01:27,740 --> 00:01:29,780
+Can you hear me? Come in please.
 
 24
-00:01:42,058 --> 00:01:48,427
-I'll try again, sir. Feed HQ calling Rig B. Feed HQ calling Rig B, can you hear me?
+00:01:30,380 --> 00:01:34,270
+Oh Mr Harris. I can't raise any of the rigs. Not one!
 
 25
-00:01:49,371 --> 00:01:50,681
-Well keep trying man!
+00:01:34,360 --> 00:01:36,620
+- This is unbelievable!  - I'll try again, sir.
 
 26
-00:01:50,923 --> 00:01:55,887
-You're wasting your time, Miss Jones. By now all those rigs will have been taken over by the weed colony.
+00:01:37,140 --> 00:01:42,280
+Feed HQ calling Rig B. Feed HQ calling Rig B, can you hear me?
 
 27
-00:01:56,096 --> 00:01:58,424
-I don't care about the rigs. What's happened to the crews?
+00:01:43,240 --> 00:01:46,120
+- Well keep trying man!   - You're wasting your time, Miss Jones.
 
 28
-00:01:58,827 --> 00:01:59,692
-The worst, I'm afraid.
+00:01:46,820 --> 00:01:49,760
+By now all those rigs will have been taken over by the weed colony.
 
 29
-00:01:59,893 --> 00:02:00,811
-Then we've got to destroy the rigs.
+00:01:49,880 --> 00:01:52,160
+I don't care about the rigs. What's happened to the crews?
 
 30
-00:02:01,011 --> 00:02:01,472
-No!
+00:01:52,420 --> 00:01:53,290
+The worst, I'm afraid.
 
 31
-00:02:01,670 --> 00:02:02,438
-No, we daren't do that.
+00:01:53,400 --> 00:01:54,960
+- Then we've got to destroy the rigs.   - No!
 
 32
-00:02:02,613 --> 00:02:03,170
-Why not?
+00:01:55,020 --> 00:01:56,300
+- No, we daren't do that.   - Why not?
 
 33
-00:02:03,361 --> 00:02:07,254
-Well that would spread this menace over a wide area and make it impossible to attack it.
+00:01:56,420 --> 00:01:58,764
+Well that would spread this menace over a wide area
 
 34
-00:02:07,450 --> 00:02:08,511
-Well what are we going to do?
+00:01:58,780 --> 00:02:00,420
+and make it impossible to attack it.
 
 35
-00:02:08,748 --> 00:02:10,333
-No, what is the weed going to do?
+00:02:00,540 --> 00:02:02,110
+Well what are we going to do?
 
 36
-00:02:10,579 --> 00:02:11,930
-What can it do?
+00:02:02,160 --> 00:02:04,280
+No, what is the weed going to do?
 
 37
-00:02:12,205 --> 00:02:20,254
-Well, let's think. Now I imagine that in the first place the weed was drawn up by one of the drilling rigs.
+00:02:04,340 --> 00:02:05,530
+What can it do?
 
 38
-00:02:20,435 --> 00:02:25,062
-No, no, anything that comes up through the bores would be cleared by the engineers at the source, otherwise it would block the pumps.
+00:02:06,300 --> 00:02:11,560
+Well, let's think. Now I imagine that in the first place...
 
 39
-00:02:25,254 --> 00:02:29,582
-Precisely. And the engineers who cleared it much have touched it, yes?
+00:02:11,600 --> 00:02:14,240
+the weed was drawn up by one of the drilling rigs.
 
 40
-00:02:29,742 --> 00:02:32,883
-Yes, so they must have been amongst the first to be controlled.
+00:02:14,280 --> 00:02:16,150
+No, no, anything that comes up through the bores...
 
 41
-00:02:33,085 --> 00:02:36,753
-You see then, this attack, and it is an attack, follows a set pattern.
+00:02:16,200 --> 00:02:18,020
+would be cleared by the engineers at the source,
 
 42
-00:02:37,001 --> 00:02:37,981
-How do you mean?
+00:02:18,040 --> 00:02:19,380
+otherwise it would block the pumps.
 
 43
-00:02:38,169 --> 00:02:40,732
-Top priority people have been attacked first.
+00:02:19,460 --> 00:02:23,820
+Precisely. And the engineers who cleared it much have touched it, yes?
 
 44
-00:02:40,970 --> 00:02:48,524
-If your theory is correct, the weed now controls two people who know the entire layout and structure of this whole compound.
+00:02:23,940 --> 00:02:27,080
+Yes, so they must have been amongst the first to be controlled.
 
 45
-00:02:48,769 --> 00:02:52,117
-Yes, I'm very much afraid that is true.
+00:02:27,280 --> 00:02:31,080
+You see then, this attack, and it is an attack, follows a set pattern.
 
 46
-00:02:52,482 --> 00:02:56,824
-Robson was here not long ago. We must find him and prevent them using him, for his own sake as well as ours.
+00:02:31,500 --> 00:02:35,160
+- How do you mean? - Top priority people have been attacked first.
 
 47
-00:02:57,004 --> 00:02:58,148
-Yes I agree. Price.
+00:02:36,180 --> 00:02:40,380
+If your theory is correct, the weed now controls two people...
 
 48
-00:02:58,343 --> 00:02:58,881
-Sir.
+00:02:40,440 --> 00:02:43,360
+who know the entire layout and structure of this whole compound.
 
 49
-00:02:59,075 --> 00:03:03,811
-Get security to search the entire Compound. I want Mr Robson found and put under armed guard in his cabin.
+00:02:43,820 --> 00:02:46,420
+Yes, I'm very much afraid that is true.
 
 50
-00:03:03,975 --> 00:03:04,863
-Very good, sir.
+00:02:47,280 --> 00:02:49,260
+Robson was here not long ago. We must find him...
 
 51
-00:03:05,021 --> 00:03:08,529
-Doctor! There's one thing that doesn't fit in with your theory.
+00:02:49,320 --> 00:02:51,620
+... and prevent them using him, for his own sake as well as ours.
 
 52
-00:03:08,737 --> 00:03:09,741
-Oh, and what's that?
+00:02:51,680 --> 00:02:53,280
+- Yes I agree. Price.   - Sir.
 
 53
-00:03:09,920 --> 00:03:13,438
-When Victoria was locked in the Oxygen Room. Now she's nothing to do with the personnel here.
+00:02:53,340 --> 00:02:55,500
+Get security to search the entire Compound.
 
 54
-00:03:13,653 --> 00:03:20,392
-Yes, that's something that's being puzzling me too. But she disturbed somebody who was interfering with the oxygen supplies.
+00:02:55,720 --> 00:02:58,540
+I want Mr Robson found and put under armed guard in his cabin.
 
 55
-00:03:20,688 --> 00:03:22,323
-Someone wearing a gas mask.
-
-56
-00:03:22,538 --> 00:03:29,281
-Now supposing that person was under the control of the weed. He was wearing a gas mask for one reason only.
-
-57
-00:03:29,928 --> 00:03:33,106
-Because to him pure oxygen would be toxic.
-
-58
-00:03:33,361 --> 00:03:34,609
-Exactly, Mr Harris.
-
-59
-00:03:34,803 --> 00:03:37,527
-Well then we can use the oxygen as a weapon against the weed!
-
-60
-00:03:37,734 --> 00:03:40,641
-Well it's... it's only a theory at the moment.
-
-61
-00:03:40,831 --> 00:03:45,081
-Well as Mr Harris said before, you've been right so far. There's no reason why you shouldn't be now.
-
-62
-00:03:45,391 --> 00:03:50,281
-Oh, how nice to be trusted. But I only hope I am right.
-
-63
-00:04:07,242 --> 00:04:08,985
-Good, see that he stays there.
-
-64
-00:04:09,219 --> 00:04:09,829
-Mr Harris.
-
-65
-00:04:10,012 --> 00:04:10,482
-Yes?
-
-66
-00:04:10,691 --> 00:04:11,589
-They've found Mr Robson.
-
-67
-00:04:11,731 --> 00:04:12,497
-Good. Where?
-
-68
-00:04:12,628 --> 00:04:14,305
-In his cabin, lying on his bunk apparently.
-
-69
-00:04:14,467 --> 00:04:15,401
-Oh well, that's a relief.
-
-70
-00:04:15,550 --> 00:04:16,713
-There's a guard at the door, sir.
-
-71
-00:04:16,845 --> 00:04:17,325
-Good.
-
-72
-00:04:17,586 --> 00:04:19,414
-Mr Harris. I want to see Mr Robson.
-
-73
-00:04:19,660 --> 00:04:21,129
-Robson? But he's ill, he won't be able to put two...
-
-74
-00:04:21,281 --> 00:04:22,505
-I want to see him.
-
-75
-00:04:22,642 --> 00:04:25,908
-But you've seen him already. Surely you could see that he was in no fit state to help us in anyway.
-
-76
-00:04:26,056 --> 00:04:31,664
-I fully realise that, Mr Harris, but we're old friends, he might talk to me. There's just a possibility that he may know something that could help us.
-
-77
-00:04:31,865 --> 00:04:37,757
-I see. All right, but I'm coming with you. Robson's in an unpredictable state at the moment, he could be violent.
-
-78
-00:04:37,949 --> 00:04:40,011
-All right, you come too Perkins.
-
-79
-00:04:40,161 --> 00:04:41,182
-Yes, Miss Jones.
-
-80
-00:04:41,362 --> 00:04:44,573
-Oh, if anything happens, Price, anything at all, I'll be with Miss Jones in Mr Robson's cabin.
-
-81
-00:04:44,709 --> 00:04:45,161
+00:02:58,640 --> 00:02:59,440
 Very good, sir.
 
+56
+00:02:59,560 --> 00:03:03,320
+Doctor! There's one thing that doesn't fit in with your theory.
+
+57
+00:03:03,440 --> 00:03:04,360
+Oh, and what's that?
+
+58
+00:03:04,440 --> 00:03:06,520
+When Victoria was locked in the Oxygen Room.
+
+59
+00:03:06,580 --> 00:03:08,600
+Now she's nothing to do with the personnel here.
+
+60
+00:03:08,680 --> 00:03:11,240
+Yes, that's something that's being puzzling me too.
+
+61
+00:03:11,400 --> 00:03:15,460
+But she disturbed somebody who was interfering with the oxygen supplies.
+
+62
+00:03:15,560 --> 00:03:17,400
+Someone wearing a gas mask.
+
+63
+00:03:17,480 --> 00:03:21,480
+Now supposing that person was under the control of the weed.
+
+64
+00:03:21,880 --> 00:03:24,320
+He was wearing a gas mask for one reason only.
+
+65
+00:03:25,120 --> 00:03:28,260
+Because to him pure oxygen would be toxic.
+
+66
+00:03:28,360 --> 00:03:29,640
+Exactly, Mr Harris.
+
+67
+00:03:29,800 --> 00:03:32,680
+Well then we can use the oxygen as a weapon against the weed!
+
+68
+00:03:32,740 --> 00:03:35,200
+Well it's... it's only a theory at the moment.
+
+69
+00:03:35,630 --> 00:03:38,240
+Well as Mr Harris said before, you've been right so far.
+
+70
+00:03:38,320 --> 00:03:39,740
+There's no reason why you shouldn't be now.
+
+71
+00:03:40,490 --> 00:03:45,500
+Oh, how nice to be trusted. But I only hope I am right.
+
+72
+00:04:02,780 --> 00:04:04,680
+Good, see that he stays there.
+
+73
+00:04:04,880 --> 00:04:05,920
+- Mr Harris.   - Yes?
+
+74
+00:04:05,980 --> 00:04:07,660
+- They've found Mr Robson.   - Good. Where?
+
+75
+00:04:07,760 --> 00:04:10,760
+- In his cabin, lying on his bunk apparently.  - Oh well, that's a relief.
+
+76
+00:04:10,840 --> 00:04:12,400
+- There's a guard at the door, sir.   - Good.
+
+77
+00:04:12,480 --> 00:04:15,160
+Mr Harris. I want to see Mr Robson.
+
+78
+00:04:15,260 --> 00:04:16,780
+Robson? But he's ill, he won't be able to ...
+
+79
+00:04:16,860 --> 00:04:19,040
+- I want to see him.  - But you've seen him already.
+
+80
+00:04:19,100 --> 00:04:21,700
+Surely you could see that he was in no fit state to help us in anyway.
+
+81
+00:04:21,800 --> 00:04:25,360
+I fully realise that, Mr Harris, but we're old friends, he might talk to me.
+
 82
-00:04:45,323 --> 00:04:45,731
-Chief.
+00:04:25,440 --> 00:04:27,780
+There's just a possibility that he may know something that could help us.
 
 83
-00:04:45,908 --> 00:04:46,739
-I'm right with you, sir.
+00:04:27,860 --> 00:04:31,260
+I see. All right, but I'm coming with you.
 
 84
-00:04:47,349 --> 00:04:49,995
-Look, why don't you get the Minister to call up the National Defences?
+00:04:31,420 --> 00:04:34,040
+Robson's in an unpredictable state at the moment, he could be violent.
 
 85
-00:04:50,143 --> 00:04:51,897
-What exactly do you suppose the armed forces could do?
+00:04:34,340 --> 00:04:36,880
+- All right, you come too Perkins.  - Yes, Miss Jones.
 
 86
-00:04:52,070 --> 00:04:54,302
-Well attack this weed, or whatever it is.
+00:04:37,360 --> 00:04:39,280
+Oh, if anything happens, Price, anything at all,
 
 87
-00:04:54,452 --> 00:04:56,527
-How? If we attack the rig, what about the men out there?
+00:04:39,360 --> 00:04:41,500
+- I'll be with Miss Jones in Mr Robson's cabin.   - Very good, sir.
 
 88
-00:04:56,722 --> 00:04:58,322
-But we don't know that they are there.
+00:04:41,540 --> 00:04:42,540
+- Chief.   - I'm right with you, sir.
 
 89
-00:04:58,462 --> 00:05:07,374
-Equally, we don't know that they aren't. They could be prisoners, anything. Anyway, even if we blow the rigs out of the sea, there's no guarantee it will end this nightmare. It might well spread the menace, as the Doctor suggested.
+00:04:43,640 --> 00:04:46,320
+Look, why don't you get the Minister to call up the National Defences?
 
 90
-00:05:07,575 --> 00:05:08,351
-This way please, Miss Jones.
+00:04:46,360 --> 00:04:48,400
+What exactly do you suppose the armed forces could do?
 
 91
-00:05:08,482 --> 00:05:09,056
-Right!
+00:04:48,460 --> 00:04:50,940
+Well attack this weed, or whatever it is.
 
 92
-00:05:09,212 --> 00:05:12,157
-And come along, Perkins. Don't look so worried, man, you might as well go home.
+00:04:50,980 --> 00:04:53,460
+How? If we attack the rig, what about the men out there?
 
 93
-00:05:21,482 --> 00:05:22,896
-If you please, Harris.
+00:04:53,500 --> 00:04:54,700
+But we don't know that they are there.
 
 94
-00:05:23,081 --> 00:05:25,118
-Miss Jones, I'd rather you let me or Perkins come in with you.
+00:04:54,760 --> 00:04:56,540
+Equally, we don't know that they aren't.
 
 95
-00:05:25,300 --> 00:05:28,299
-No! Now don't fuss, Harris, I'll be perfectly all right.
+00:04:56,620 --> 00:04:58,060
+They could be prisoners, anything.
 
 96
-00:05:41,595 --> 00:05:57,297
-Robson. Robson! John. John. It's all right John, it's me, Megan, Megan Jones.
+00:04:58,400 --> 00:05:00,220
+Anyway, even if we blow the rigs out of the sea,
 
 97
-00:06:00,144 --> 00:06:01,510
-Megan.
+00:05:00,280 --> 00:05:01,780
+there's no guarantee it will end this nightmare.
 
 98
-00:06:01,727 --> 00:06:03,377
-I want to try to help you.
+00:05:01,900 --> 00:05:03,970
+It might well spread the menace, as the Doctor suggested.
 
 99
-00:06:05,695 --> 00:06:09,628
-Can't help. No one can help.
+00:05:04,000 --> 00:05:05,650
+- This way please, Miss Jones.   - Right!
 
 100
-00:06:10,003 --> 00:06:12,691
-John, can you tell us what happened?
+00:05:05,720 --> 00:05:06,780
+And come along, Perkins.
 
 101
-00:06:14,614 --> 00:06:16,224
-No.
+00:05:06,840 --> 00:05:08,750
+Don't look so worried, man, you might as well go home.
 
 102
-00:06:17,512 --> 00:06:22,428
-John, listen to me. We can't help you unless you help us.
+00:05:18,080 --> 00:05:19,440
+If you please, Harris.
 
 103
-00:06:23,014 --> 00:06:25,801
-Can't help, no one... can help.
+00:05:19,520 --> 00:05:21,980
+Miss Jones, I'd rather you let me or Perkins come in with you.
 
 104
-00:06:26,036 --> 00:06:31,176
-Yes we can, John, if you let us. Now whatever it is that's affecting you, you've got to fight it!
+00:05:22,060 --> 00:05:25,100
+No! Now don't fuss, Harris, I'll be perfectly all right.
 
 105
-00:06:31,361 --> 00:06:32,019
-Can't fight.
-
-106
-00:06:32,197 --> 00:06:33,502
-You've got to fight it, John!
-
-107
-00:06:33,682 --> 00:06:34,369
-Can't fight it.
-
-108
-00:06:34,520 --> 00:06:57,235
-Now come on, Robson! Robson! Now listen to me. I'm director of the board. I put you in charge of this area and I can just as easily send you back to the rigs. Do you understand me, Robson? Now pull yourself together, man!
-
-109
-00:06:59,184 --> 00:06:59,937
-Megan.
-
-110
-00:07:00,162 --> 00:07:01,092
-Pull yourself together!
-
-111
-00:07:01,265 --> 00:07:08,428
-Megan... Megan... help me.. help... Help me, Megan!
-
-112
-00:07:08,637 --> 00:07:09,285
-John.
-
-113
-00:07:09,498 --> 00:07:09,986
-Help!
-
-114
-00:07:10,251 --> 00:07:11,305
-It's all right, John.
-
-115
-00:07:11,490 --> 00:07:13,505
-Miss Jones!
-
-116
-00:07:13,730 --> 00:07:18,133
-John, can you hear me? Can you hear me?
-
-117
-00:07:22,203 --> 00:07:27,915
-It's as if he was in a trance, hypnotised. I thought for a minute he was rational.
-
-118
-00:07:28,089 --> 00:07:29,846
-I think we'd better let him rest.
-
-119
-00:07:51,005 --> 00:07:53,364
-Harris, is there nothing we can do to help him?
-
-120
-00:07:53,602 --> 00:07:58,243
-No, the Doctor couldn't help my... my wife... so I'm sure there is nothing he can...
-
-121
-00:07:58,425 --> 00:08:03,707
-No. No, of course not. As far as I can see the only thing to do is to destroy this weed. Come on.
-
-122
-00:08:10,557 --> 00:08:13,837
-He does look worried this time. It's beginning to give me the willies.
-
-123
-00:08:14,323 --> 00:08:19,350
-Yes. I wish we could go back to the TARDIS. Leave all this trouble behind.
-
-124
-00:08:19,540 --> 00:08:22,814
-We couldn't do that. You know the Doctor would never leave these people. Not while there's...
-
-125
-00:08:23,018 --> 00:08:24,623
-Oh I know, I know!
-
-126
-00:08:24,804 --> 00:08:34,548
-Oh, Victoria, you're not going to start again, are you? Look, the Doctor's got enough trouble as it is. So let him just sit and work it out. Anyway, he says there's an obvious answer to this seaweed stuff.
-
-127
-00:08:34,940 --> 00:08:36,683
-Is there? What do you mean?
-
-128
-00:08:36,878 --> 00:08:38,350
-A way of fighting it.
-
-129
-00:08:38,527 --> 00:08:40,659
-If it's that obvious he would have thought of it by now.
-
-130
-00:08:40,913 --> 00:08:41,561
-Aye.
-
-131
-00:08:46,605 --> 00:08:49,781
-Well Doctor, have you thought of a way in which we can attack this weed?
-
-132
-00:08:50,695 --> 00:08:51,603
-Doctor!
-
-133
-00:08:52,968 --> 00:08:56,036
-Oh, Miss Jones. No, I'm afraid I haven't.
-
-134
-00:08:56,253 --> 00:08:58,169
-Well have you any idea what it might do next?
-
-135
-00:08:58,479 --> 00:09:01,132
-Well I think it has little alternative, but to attack us here.
-
-136
-00:09:01,373 --> 00:09:01,962
-Here!
-
-137
-00:09:02,188 --> 00:09:02,816
-But why?
-
-138
-00:09:02,984 --> 00:09:09,949
-'Cause this is the gas distribution centre. It will want to gain control of it! We must find a way of attacking its nerve centre before it does.
-
-139
-00:09:10,117 --> 00:09:11,496
-But where is the nerve centre?
-
-140
-00:09:11,661 --> 00:09:12,750
-That's the trouble, we don't know.
-
-141
-00:09:12,933 --> 00:09:15,058
-And we're not sure yet quite how to destroy it, are we?
-
-142
-00:09:15,226 --> 00:09:18,182
-No, but there... there is something at the back of my mind.
-
-143
-00:09:18,336 --> 00:09:19,330
-Well what about the oxygen?
-
-144
-00:09:19,500 --> 00:09:20,926
-Yes, that is a possibility.
-
-145
-00:09:21,149 --> 00:09:23,167
-Then we must put the oxygen supply room under guard.
-
-146
-00:09:23,343 --> 00:09:23,998
-Right!
-
-147
-00:09:54,215 --> 00:09:59,584
-Yes. Yes.
-
-148
-00:10:34,512 --> 00:10:36,370
-The whole of the oxygen store?
-
-149
-00:10:36,555 --> 00:10:38,790
-Yes, sir, and there are no reserves left at all.
-
-150
-00:10:39,308 --> 00:10:41,426
-They seem to be one step ahead of us all the time
-
-151
-00:10:41,608 --> 00:10:47,181
-Yes, I was right. Someone amongst us here is under the control of the weed.
-
-152
-00:10:47,359 --> 00:10:48,980
-You mean apart from Robson and Van Lutyens.
-
-153
-00:10:49,172 --> 00:10:50,481
-Yes, I'm afraid so.
-
-154
-00:10:50,688 --> 00:10:52,772
-How will we find out who they are?
-
-155
-00:10:52,961 --> 00:10:54,653
-Don't know, that's the difficulty.
-
-156
-00:10:54,836 --> 00:10:58,873
-Well, we must have a personnel check. Now there's a fingerprint file in security.
-
-157
-00:10:59,049 --> 00:10:59,555
-Yes.
-
-158
-00:10:59,720 --> 00:11:00,781
-Doctor, I shall need your help.
-
-159
-00:11:00,993 --> 00:11:01,484
-Yes.
-
-160
-00:11:03,139 --> 00:11:05,203
-Hey you two, just a moment! Stop!
-
-161
-00:11:05,420 --> 00:11:09,558
-Hey, come back. You wont get away from me!
-
-162
-00:11:10,547 --> 00:11:12,154
-Careful!
-
-163
-00:11:36,219 --> 00:11:37,571
-Didn't know what hit him, did he?
-
-164
-00:11:39,726 --> 00:11:42,540
-Yes Jamie, I'm... I'm sure you're right.
-
-165
-00:11:43,246 --> 00:11:46,017
-There's a wee bit of power left in the old McCrimmon punch yet.
-
-166
-00:11:46,300 --> 00:11:51,661
-I'm sorry to disillusion you, Jamie, but... I don't think it was the punch that did it.
-
-167
-00:11:52,020 --> 00:11:52,763
-Mr Harris!
-
-168
-00:11:52,942 --> 00:11:53,551
-What is it?
-
-169
-00:11:53,744 --> 00:11:55,002
-I think you better come, sir. Quickly!
-
-170
-00:12:07,430 --> 00:12:08,622
-What's the trouble?
-
-171
-00:12:08,809 --> 00:12:09,899
-The pipeline room.
-
-172
-00:12:10,149 --> 00:12:11,301
-But it's incredible
-
-173
-00:12:11,480 --> 00:12:13,028
-Why can't we do something?
-
-174
-00:12:13,267 --> 00:12:17,296
-We have to trust this strange Doctor. He's the only one who seems to be able to anticipate events.
-
-175
-00:12:17,481 --> 00:12:19,502
-Don't you think that in itself is suspect?
-
-176
-00:12:19,653 --> 00:12:21,970
-He's our only hope. Come on.
-
-177
-00:12:31,821 --> 00:12:33,029
-What's happened to it, Doctor?
-
-178
-00:12:34,073 --> 00:12:36,692
-It's beginning to expand, like it did in the TARDIS.
-
-179
-00:12:37,282 --> 00:12:38,770
-Is there no way of stopping it?
-
-180
-00:12:39,116 --> 00:12:40,711
-No. I should have thought of this.
-
-181
-00:12:40,898 --> 00:12:43,139
-But you mean this horrible stuff's growing all the time?
-
-182
-00:12:43,340 --> 00:12:44,481
-I'm very much afraid so!
-
-183
-00:12:44,898 --> 00:12:49,891
-Mr Harris, sir. Mr Harris. Mr Robson's broken out of his cabin. He's attacked the guard!
-
-184
-00:12:50,070 --> 00:12:51,383
-Doctor, look at that!
-
-185
-00:13:06,957 --> 00:13:14,044
-Right, Jamie, back. Back, everyone back. Come along.
-
-186
-00:13:14,629 --> 00:13:16,710
-Miss Jones, I think it's time you went. Come along.
-
-187
-00:13:17,217 --> 00:13:17,959
-Where's Victoria?
-
-188
-00:13:18,161 --> 00:13:18,892
-She was here.
-
-189
-00:13:19,082 --> 00:13:20,015
-RED EMERGENCY ALERT! RED EMERGENCY ALERT!
-
-190
-00:13:20,186 --> 00:13:20,897
-But, where is she?
-
-191
-00:13:21,085 --> 00:13:22,206
-I don't know! She was standing right beside you.
-
-192
-00:13:22,369 --> 00:13:23,216
-I thought she was with you!
-
-193
-00:13:23,366 --> 00:13:23,969
-No!
-
-194
-00:13:28,458 --> 00:13:29,081
-Hey!
-
-195
-00:13:29,410 --> 00:13:30,102
-The doors!
-
-196
-00:13:30,440 --> 00:13:32,301
-Open these doors! Open these doors!
-
-197
-00:13:32,575 --> 00:13:33,793
-Let's try here, Jamie!
-
-198
-00:13:34,123 --> 00:13:35,801
-They've closed too.
-
-199
-00:13:36,059 --> 00:13:37,451
-They're not, come along!
-
-200
-00:13:38,068 --> 00:13:58,035
-Jamie, I... the doors, they're heavy. I can't hold them! Jamie, hurry! Jamie! Jamie, come on! This way, in here. Hurry up, I can't hold them!
-
-201
-00:14:03,955 --> 00:14:05,240
-Now what do we do?
-
-202
-00:14:05,406 --> 00:14:07,920
-We must look for Victoria. You go that way, I'll go this.
-
-203
-00:14:08,172 --> 00:14:09,089
-All right.
-
-204
-00:14:50,534 --> 00:14:56,369
-Seal off the pipeline room, completely! Close the pipeline - in and out! Well come on, man, don't just stand there!
-
-205
-00:14:56,624 --> 00:15:02,032
-Guards! You must find Mr Robson. Search everywhere.
-
-206
-00:16:01,214 --> 00:16:01,859
-Mr Harris!
-
-207
-00:16:02,218 --> 00:16:03,068
-What is it?
-
-208
-00:16:03,460 --> 00:16:04,580
-Mr Robson has just taken off.
-
-209
-00:16:11,101 --> 00:16:12,799
-Hey, have you seen Victoria?
-
-210
-00:16:12,979 --> 00:16:13,734
-No I haven't.
-
-211
-00:16:13,901 --> 00:16:14,779
-Look, haven't you found her yet?
-
-212
-00:16:14,949 --> 00:16:15,948
-No, I was hoping you had.
-
-213
-00:16:16,102 --> 00:16:17,391
-But she was standing right beside us...
-
-214
-00:16:17,542 --> 00:16:18,597
-No, no, no...
-
-215
-00:16:18,722 --> 00:16:20,854
-Doctor, it's Robson. He's trying to get away in one of the company helicopters.
-
-216
-00:16:21,010 --> 00:16:21,699
-What?
-
-217
-00:16:23,212 --> 00:16:24,952
-I'm afraid he's got your young girl with him.
-
-218
-00:16:25,169 --> 00:16:28,867
-Oh no. Oh no. Can I speak to him from here?
-
-219
-00:16:29,097 --> 00:16:29,928
-Yes. Price, switch to RT.
-
-220
-00:16:30,247 --> 00:16:30,930
-Yes, sir.
-
-221
-00:16:31,088 --> 00:16:31,698
-This one?
-
-222
-00:16:31,817 --> 00:16:32,331
-Yes.
-
-223
-00:16:32,442 --> 00:16:36,487
-Robson. Robson. Robson, listen to me. Can you hear me?
-
-224
-00:16:36,648 --> 00:16:44,998
-Robson. Come back, man, come back. Robson, don't you realise what they're trying to do to you? They're trying to control you!
-
-225
-00:16:45,174 --> 00:16:45,937
-Now listen to me.
-
-226
-00:16:46,226 --> 00:16:47,385
-Robson. Robson.
-
-227
-00:16:47,560 --> 00:16:48,831
-Listen! Listen!
-
-228
-00:16:49,002 --> 00:17:00,430
-I have the girl. She is my prisoner. She is my hostage. Do you understand? If you want her to live, come over to us. Come over to us.
-
-229
-00:17:00,648 --> 00:17:02,759
+00:05:38,190 --> 00:05:41,403
 Robson. Robson!
 
+106
+00:05:47,460 --> 00:05:50,460
+John. John.
+
+107
+00:05:51,980 --> 00:05:54,620
+It's all right John, it's me, Megan, Megan Jones.
+
+108
+00:05:57,140 --> 00:05:58,160
+Megan.
+
+109
+00:05:58,740 --> 00:06:00,080
+I want to try to help you.
+
+110
+00:06:02,860 --> 00:06:06,500
+Can't help. No one can help.
+
+111
+00:06:07,240 --> 00:06:09,460
+John, can you tell us what happened?
+
+112
+00:06:11,860 --> 00:06:13,120
+No.
+
+113
+00:06:15,000 --> 00:06:19,320
+John, listen to me. We can't help you unless you help us.
+
+114
+00:06:20,510 --> 00:06:23,300
+Can't help, no one... can help.
+
+115
+00:06:23,530 --> 00:06:25,520
+Yes we can, John, if you let us.
+
+116
+00:06:26,260 --> 00:06:28,720
+Now whatever it is that's affecting you, you've got to fight it!
+
+117
+00:06:28,800 --> 00:06:30,840
+- Can't fight.  -  You've got to fight it, John!
+
+118
+00:06:30,920 --> 00:06:34,900
+- Can't fight it. -  Now come on, Robson! Robson!
+
+119
+00:06:42,440 --> 00:06:46,480
+Now listen to me. I'm director of the board.
+
+120
+00:06:47,280 --> 00:06:49,200
+I put you in charge of this area
+
+121
+00:06:49,240 --> 00:06:51,340
+and I can just as easily send you back to the rigs.
+
+122
+00:06:51,380 --> 00:06:52,720
+Do you understand me, Robson?
+
+123
+00:06:53,480 --> 00:06:55,540
+Now pull yourself together, man!
+
+124
+00:06:57,180 --> 00:06:59,100
+- Megan.   - Pull yourself together!
+
+125
+00:06:59,220 --> 00:07:03,460
+Megan... Megan... help me.. help...
+
+126
+00:07:04,316 --> 00:07:06,500
+Help me, Megan!
+
+127
+00:07:06,730 --> 00:07:07,740
+- John.   - Help!
+
+128
+00:07:07,780 --> 00:07:09,360
+- It's all right, John.   - Miss Jones!
+
+129
+00:07:11,460 --> 00:07:16,520
+John, can you hear me? Can you hear me?
+
+130
+00:07:20,740 --> 00:07:24,020
+It's as if he was in a trance, hypnotised.
+
+131
+00:07:24,740 --> 00:07:27,860
+- I thought for a minute he was rational.   - I think we'd better let him rest.
+
+132
+00:07:49,700 --> 00:07:52,060
+Harris, is there nothing we can do to help him?
+
+133
+00:07:52,200 --> 00:07:54,180
+No, the Doctor couldn't help my... my wife...
+
+134
+00:07:54,820 --> 00:07:56,940
+so I'm sure there is nothing he can...
+
+135
+00:07:57,000 --> 00:07:58,280
+No. No, of course not.
+
+136
+00:07:58,520 --> 00:08:01,940
+As far as I can see the only thing to do is to destroy this weed.
+
+137
+00:08:02,040 --> 00:08:02,980
+Come on.
+
+138
+00:08:09,250 --> 00:08:13,040
+He does look worried this time. It's beginning to give me the willies.
+
+139
+00:08:13,360 --> 00:08:16,660
+Yes. I wish we could go back to the TARDIS.
+
+140
+00:08:16,800 --> 00:08:19,640
+- Leave all this trouble behind.  - We couldn't do that.
+
+141
+00:08:19,740 --> 00:08:21,380
+You know the Doctor would never leave these people.
+
+142
+00:08:21,500 --> 00:08:23,320
+- Not while there's...  - Oh I know, I know!
+
+143
+00:08:23,540 --> 00:08:26,120
+Oh, Victoria, you're not going to start again, are you?
+
+144
+00:08:26,620 --> 00:08:28,624
+Look, the Doctor's got enough trouble as it is.
+
+145
+00:08:28,720 --> 00:08:30,160
+So let him just sit and work it out.
+
+146
+00:08:31,140 --> 00:08:33,840
+Anyway, he says there's an obvious answer to this seaweed stuff.
+
+147
+00:08:34,040 --> 00:08:35,980
+Is there? What do you mean?
+
+148
+00:08:36,140 --> 00:08:37,650
+A way of fighting it.
+
+149
+00:08:37,820 --> 00:08:39,950
+If it's that obvious he would have thought of it by now.
+
+150
+00:08:40,040 --> 00:08:40,860
+Aye.
+
+151
+00:08:46,200 --> 00:08:49,380
+Well Doctor, have you thought of a way in which we can attack this weed?
+
+152
+00:08:50,290 --> 00:08:51,200
+Doctor!
+
+153
+00:08:52,560 --> 00:08:55,630
+Oh, Miss Jones. No, I'm afraid I haven't.
+
+154
+00:08:55,760 --> 00:08:57,940
+Well have you any idea what it might do next?
+
+155
+00:08:58,070 --> 00:08:59,770
+Well I think it has little alternative,
+
+156
+00:08:59,800 --> 00:09:01,260
+- but to attack us here.   - Here?!
+
+157
+00:09:01,320 --> 00:09:04,340
+- But why?   - 'Cause this is the gas distribution centre.
+
+158
+00:09:04,440 --> 00:09:05,920
+It will want to gain control of it!
+
+159
+00:09:06,420 --> 00:09:09,540
+We must find a way of attacking its nerve centre before it does.
+
+160
+00:09:09,580 --> 00:09:11,090
+But where is the nerve centre?
+
+161
+00:09:11,180 --> 00:09:12,350
+That's the trouble, we don't know.
+
+162
+00:09:12,560 --> 00:09:14,650
+And we're not sure yet quite how to destroy it, are we?
+
+163
+00:09:14,820 --> 00:09:17,780
+No, but there... there is something at the back of my mind.
+
+164
+00:09:17,820 --> 00:09:20,980
+- Well what about the oxygen?   - Yes, that is a possibility.
+
+165
+00:09:21,040 --> 00:09:23,280
+Then we must put the oxygen supply room under guard.
+
+166
+00:09:23,300 --> 00:09:24,100
+Right!
+
+167
+00:09:54,160 --> 00:09:59,180
+Yes. Yes.
+
+168
+00:10:35,410 --> 00:10:37,270
+The whole of the oxygen store?
+
+169
+00:10:37,340 --> 00:10:39,690
+Yes, sir, and there are no reserves left at all.
+
+170
+00:10:40,500 --> 00:10:42,620
+They seem to be one step ahead of us all the time
+
+171
+00:10:42,720 --> 00:10:44,400
+Yes, I was right.
+
+172
+00:10:44,620 --> 00:10:48,300
+Someone amongst us here is under the control of the weed.
+
+173
+00:10:48,340 --> 00:10:50,140
+You mean apart from Robson and Van Lutyens.
+
+174
+00:10:50,260 --> 00:10:51,680
+Yes, I'm afraid so.
+
+175
+00:10:51,880 --> 00:10:53,970
+How will we find out who they are?
+
+176
+00:10:54,120 --> 00:10:55,900
+Don't know, that's the difficulty.
+
+177
+00:10:56,080 --> 00:10:58,020
+Well, we must have a personnel check.
+
+178
+00:10:58,140 --> 00:11:00,520
+- Now there's a fingerprint file in security.  - Yes.
+
+179
+00:11:00,580 --> 00:11:02,680
+- Doctor, I shall need your help.   - Yes.
+
+180
+00:11:04,330 --> 00:11:07,040
+Hey you two, just a moment! Stop!
+
+181
+00:11:07,840 --> 00:11:10,960
+Hey, come back. You wont get away from me!
+
+182
+00:11:11,920 --> 00:11:13,350
+Careful!
+
+183
+00:11:37,560 --> 00:11:39,380
+Didn't know what hit him, did he?
+
+184
+00:11:40,920 --> 00:11:44,340
+Yes Jamie, I'm... I'm sure you're right.
+
+185
+00:11:44,440 --> 00:11:47,920
+There's a wee bit of power left in the old McCrimmon punch yet.
+
+186
+00:11:47,980 --> 00:11:50,710
+I'm sorry to disillusion you, Jamie, but...
+
+187
+00:11:51,040 --> 00:11:53,440
+I don't think it was the punch that did it.
+
+188
+00:11:54,080 --> 00:11:55,240
+- Mr Harris!   - What is it?
+
+189
+00:11:55,340 --> 00:11:56,660
+I think you better come, sir. Quickly!
+
+190
+00:12:09,760 --> 00:12:12,020
+- What's the trouble?  - The pipeline room.
+
+191
+00:12:12,420 --> 00:12:15,160
+- But it's incredible   - Why can't we do something?
+
+192
+00:12:15,760 --> 00:12:17,380
+We have to trust this strange Doctor.
+
+193
+00:12:17,420 --> 00:12:19,790
+He's the only one who seems to be able to anticipate events.
+
+194
+00:12:19,880 --> 00:12:22,000
+Don't you think that in itself is suspect?
+
+195
+00:12:22,180 --> 00:12:24,470
+He's our only hope. Come on.
+
+196
+00:12:34,320 --> 00:12:35,680
+What's happened to it, Doctor?
+
+197
+00:12:36,680 --> 00:12:39,560
+It's beginning to expand, like it did in the TARDIS.
+
+198
+00:12:39,780 --> 00:12:41,270
+Is there no way of stopping it?
+
+199
+00:12:41,610 --> 00:12:43,600
+No. I should have thought of this.
+
+200
+00:12:43,660 --> 00:12:45,880
+But you mean this horrible stuff's growing all the time?
+
+201
+00:12:45,960 --> 00:12:47,220
+I'm very much afraid so!
+
+202
+00:12:47,690 --> 00:12:51,400
+Mr Harris, sir. Mr Harris. Mr Robson's broken out of his cabin.
+
+203
+00:12:51,540 --> 00:12:52,840
+He's attacked the guard!
+
+204
+00:12:53,200 --> 00:12:54,580
+Doctor, look at that!
+
+205
+00:13:13,860 --> 00:13:17,200
+Right, Jamie, back. Back, everyone back. Come along.
+
+206
+00:13:17,860 --> 00:13:20,160
+Miss Jones, I think it's time you went. Come along.
+
+207
+00:13:20,540 --> 00:13:20,610
+FIXME RED EMERGENCY ALERT! RED EMERGENCY ALERT!
+
+208
+00:13:20,610 --> 00:13:22,100
+- Where's Victoria?   - She was here.
+FIXME RED EMERGENCY ALERT! RED EMERGENCY ALERT!
+
+209
+00:13:22,100 --> 00:13:22,520
+FIXME RED EMERGENCY ALERT! RED EMERGENCY ALERT!
+
+210
+00:13:22,520 --> 00:13:23,300
+FIXME But, where is she?
+FIXME RED EMERGENCY ALERT! RED EMERGENCY ALERT!
+
+211
+00:13:23,300 --> 00:13:24,290
+FIXME But, where is she?
+
+212
+00:13:24,480 --> 00:13:25,600
+FIXME I don't know! She was standing right beside you.
+
+213
+00:13:25,760 --> 00:13:27,360
+- I thought she was with you!   - No!
+
+214
+00:13:31,600 --> 00:13:32,480
+Hey!
+
+215
+00:13:32,810 --> 00:13:33,500
+The doors!
+
+216
+00:13:33,600 --> 00:13:35,860
+Open these doors! Open these doors!
+
+217
+00:13:36,400 --> 00:13:37,490
+Let's try here, Jamie!
+
+218
+00:13:37,900 --> 00:13:39,300
+They've closed too.
+
+219
+00:13:39,420 --> 00:13:40,860
+They're not, come along!
+
+220
+00:13:41,760 --> 00:13:47,037
+FIXME Jamie, I... the doors, they're heavy.
+
+221
+00:13:49,600 --> 00:13:52,480
+I can't hold them! Jamie, hurry!
+
+222
+00:13:53,880 --> 00:13:57,000
+Jamie! Jamie, come on!
+
+223
+00:13:57,080 --> 00:13:59,120
+- Where?  - This way, in here.
+
+224
+00:13:59,620 --> 00:14:01,730
+Hurry up, I can't hold them!
+
+225
+00:14:07,880 --> 00:14:09,180
+Now what do we do?
+
+226
+00:14:09,260 --> 00:14:12,060
+We must look for Victoria. You go that way, I'll go this.
+
+227
+00:14:12,220 --> 00:14:13,100
+All right.
+
+228
+00:14:55,020 --> 00:14:57,080
+Seal off the pipeline room, completely!
+
+229
+00:14:57,320 --> 00:14:59,020
+Close the pipeline - in and out!
+
 230
-00:17:02,948 --> 00:17:04,640
-He's switched off, sir.
+00:14:59,180 --> 00:15:00,980
+Well come on, man, don't just stand there!
 
 231
-00:17:05,647 --> 00:17:07,391
-What did he mean come over to us?
+00:15:01,220 --> 00:15:04,938
+Guards! You must find Mr Robson.
 
 232
-00:17:07,555 --> 00:17:08,703
-Well he meant exactly what he said!
+00:15:05,600 --> 00:15:07,160
+Search everywhere.
 
 233
-00:17:08,848 --> 00:17:09,926
-You mean they want you?
+00:16:06,660 --> 00:16:08,840
+- Mr Harris!   - What is it?
 
 234
-00:17:10,067 --> 00:17:11,399
-Yes, they must think I'm a serious menace.
+00:16:08,920 --> 00:16:10,340
+Mr Robson has just taken off.
 
 235
-00:17:11,539 --> 00:17:12,695
-But you won't go, surely?
+00:16:16,700 --> 00:16:19,120
+- Hey, have you seen Victoria?   - No I haven't.
 
 236
-00:17:12,825 --> 00:17:13,609
-But of course.
+00:16:19,400 --> 00:16:21,860
+- Look, haven't you found her yet?   - No, I was hoping you had.
 
 237
-00:17:13,703 --> 00:17:15,594
-But we need you here, you're our only hope.
+00:16:21,940 --> 00:16:23,780
+- But she was standing right beside us...   - No, no, no...
 
 238
-00:17:15,732 --> 00:17:18,129
-Doctor, we can't let him take Victoria! Now we've got to do something to stop him!
+00:16:23,880 --> 00:16:26,540
+Doctor, it's Robson. He's trying to get away in one of the company helicopters.
 
 239
-00:17:18,294 --> 00:17:21,256
-You can't go with that man, you can see he's not responsible.
+00:16:26,610 --> 00:16:27,290
+What?
 
 240
-00:17:21,426 --> 00:17:22,613
-Jamie's right, we've got to go after him.
+00:16:29,110 --> 00:16:30,850
+I'm afraid he's got your young girl with him.
 
 241
-00:17:22,774 --> 00:17:24,168
-Yes, you can use the company helicopter.
+00:16:32,140 --> 00:16:33,340
+Oh no. Oh no.
 
 242
-00:17:24,308 --> 00:17:26,973
-Harris! If we let this man go now, what hope have we got?
+00:16:33,860 --> 00:16:36,000
+- Can I speak to him from here?   - Yes. Price, switch to RT.
 
 243
-00:17:27,123 --> 00:17:30,939
-Miss Jones, I have a feeling that Mr Robson is going to lead us to the nerve centre of the colony.
+00:16:36,060 --> 00:16:38,340
+- This one, please.  - Robson. Robson.
 
 244
-00:17:31,090 --> 00:17:34,429
-Price, tell the helicopter crew to stand by. Doctor, come with me. I'll get you some transport.
+00:16:39,660 --> 00:16:41,620
+Robson, listen to me. Can you hear me?
 
 245
-00:17:44,822 --> 00:17:49,903
-Good! Thank you, Price. Tell them not to lose touch. Oh, and Price, the Doctor and the boy, are they airborne yet?
+00:16:42,420 --> 00:16:45,120
+Robson. Come back, man, come back.
 
 246
-00:17:50,120 --> 00:17:51,873
-No, sir, they're just approaching the air field.
+00:16:46,240 --> 00:16:49,180
+Robson, don't you realise what they're trying to do to you?
 
 247
-00:18:35,249 --> 00:18:37,839
-Mr Harris, sir. Mr Harris, the Doctor's airborne.
+00:16:49,460 --> 00:16:51,060
+They're trying to control you!
 
 248
-00:18:38,023 --> 00:18:43,383
-Good! Doctor, can you see Robson.
+00:16:51,160 --> 00:16:52,980
+- Now listen to me.   - Robson.
 
 249
-00:18:44,454 --> 00:18:47,368
-No, can't see anything here.
+00:16:53,260 --> 00:16:54,400
+Listen! Listen!
 
 250
-00:18:47,550 --> 00:18:53,528
-All right, listen carefully. We managed to track him on the Radar scope. He just landed on the control rig complex.
+00:16:54,720 --> 00:16:59,480
+I have the girl. She is my prisoner. She is my hostage.
 
 251
-00:18:53,727 --> 00:18:55,454
-The control rig complex.
+00:16:59,720 --> 00:17:01,000
+Do you understand?
 
 252
-00:18:56,474 --> 00:18:58,362
-What? Say again.
+00:17:01,300 --> 00:17:04,560
+If you want her to live, come over to us.
 
 253
-00:18:58,657 --> 00:19:00,761
-We are proceeding there now.
+00:17:05,100 --> 00:17:08,820
+- Come over to us.  - Robson. Robson!
 
 254
-00:19:12,376 --> 00:19:13,527
-What chance have they got?
+00:17:08,920 --> 00:17:10,540
+He's switched off, sir.
 
 255
-00:19:13,680 --> 00:19:15,041
-Your guess is as good as mine.
+00:17:12,040 --> 00:17:13,740
+What did he mean come over to us?
 
 256
-00:19:15,312 --> 00:19:16,429
-What do we do now?
+00:17:13,800 --> 00:17:16,060
+- Well he meant exactly what he said!   - You mean they want you?
 
 257
-00:19:16,579 --> 00:19:17,223
-We sit and wait.
+00:17:16,140 --> 00:17:17,860
+Yes, they must think I'm a serious menace.
 
 258
-00:19:17,334 --> 00:19:18,263
-But we can't...
+00:17:17,920 --> 00:17:19,800
+- But you won't go, surely? - But of course.
 
 259
-00:19:18,408 --> 00:19:21,852
-If the Doctor hasn't done something within an hour, I'm evacuating the compound.
+00:17:19,860 --> 00:17:21,880
+But we need you here, you're our only hope.
 
 260
-00:19:21,980 --> 00:19:22,472
-No...
+00:17:21,960 --> 00:17:23,360
+Doctor, we can't let him take Victoria!
 
 261
-00:19:22,598 --> 00:19:23,657
-And that's final, Miss Jones!
+00:17:23,400 --> 00:17:24,700
+Now we've got to do something to stop him!
 
 262
-00:19:29,828 --> 00:19:33,899
-Jamie, there's the control rig complex.
+00:17:24,720 --> 00:17:27,840
+You can't go with that man, you can see he's not responsible.
 
 263
-00:19:34,266 --> 00:19:37,688
-Hey Doctor, one of those towers is all covered in white.
+00:17:27,900 --> 00:17:29,040
+Jamie's right, we've got to go after him.
 
 264
-00:19:37,880 --> 00:19:42,165
-Yes, it's foam. That's the nerve centre.
+00:17:29,100 --> 00:17:30,800
+Yes, you can use the company helicopter.
 
 265
-00:19:50,002 --> 00:19:51,530
-Robson's helicopter.
+00:17:31,540 --> 00:17:33,620
+Harris! If we let this man go now, what hope have we got?
 
 266
-00:19:51,738 --> 00:19:52,161
-Yes.
+00:17:33,700 --> 00:17:35,440
+Miss Jones, I have a feeling that ...
 
 267
-00:19:52,375 --> 00:19:53,360
-We can't land there.
+00:17:35,500 --> 00:17:37,820
+Mr Robson is going to lead us to the nerve centre of the colony.
 
 268
-00:19:53,503 --> 00:19:54,888
-Oh yes we can, Jamie.
+00:17:37,880 --> 00:17:39,380
+Price, tell the helicopter crew to stand by.
 
 269
-00:20:19,181 --> 00:20:21,766
-Come on in, the water's lovely.
+00:17:39,440 --> 00:17:42,080
+Doctor, come with me. I'll get you some transport.
 
 270
-00:20:33,614 --> 00:20:34,934
-Go on, Jamie.
+00:17:51,800 --> 00:17:54,250
+Good! Thank you, Price. Tell them not to lose touch.
 
 271
-00:20:38,704 --> 00:20:39,762
-Goodbye.
+00:17:54,320 --> 00:17:57,060
+Oh, and Price, the Doctor and the boy, are they airborne yet?
 
 272
-00:21:01,616 --> 00:21:03,360
-So far so good, Jamie.
+00:17:57,220 --> 00:17:59,220
+No, sir, they're just approaching the air field.
 
 273
-00:21:03,658 --> 00:21:04,857
-But the driver, will he wait for us?
+00:18:42,940 --> 00:18:45,980
+Mr Harris, sir. Mr Harris, the Doctor's airborne.
 
 274
-00:21:05,012 --> 00:21:06,180
-Oh yes, he said he'd hang around.
+00:18:49,080 --> 00:18:51,080
+Doctor, can you see Robson?
 
 275
-00:21:08,107 --> 00:21:09,783
-Where do we go from here?
+00:18:52,150 --> 00:18:55,060
+No, can't see anything here.
 
 276
-00:21:09,989 --> 00:21:12,641
-I think we'll go down that way.
+00:18:55,100 --> 00:18:58,340
+All right, listen carefully. We managed to track him on the Radar scope.
 
 277
-00:21:13,122 --> 00:21:14,974
-Like walking into the lion's den.
+00:18:58,600 --> 00:19:01,220
+He just landed on the control rig complex.
 
 278
-00:21:15,177 --> 00:21:20,813
-Jamie, we're already in the lion's den. What we've got to concentrate on is keeping our heads out of his mouth.
+00:19:01,420 --> 00:19:03,560
+The control rig complex.
 
 279
-00:21:36,868 --> 00:21:39,892
-It's very quiet. Do you think Victoria really is down here?
+00:19:04,170 --> 00:19:06,060
+What? Say again.
 
 280
-00:21:40,075 --> 00:21:41,388
-There's nowhere else she can be.
+00:19:06,940 --> 00:19:08,640
+We are proceeding there now.
 
 281
-00:21:41,536 --> 00:21:42,819
-Aye, I suppose you're right.
+00:19:20,370 --> 00:19:21,560
+What chance have they got?
 
 282
-00:21:45,106 --> 00:21:49,134
-Jamie! Jamie! Now there's no element of surprise!
+00:19:21,680 --> 00:19:23,040
+Your guess is as good as mine.
 
 283
-00:21:49,865 --> 00:21:51,533
-Jamie! Doctor!
+00:19:23,460 --> 00:19:25,400
+- What do we do now?   - We sit and wait.
 
 284
-00:21:51,721 --> 00:21:52,683
-See I was right.
+00:19:25,480 --> 00:19:28,560
+- But we can't...  - If the Doctor hasn't done something within an hour...
 
 285
-00:21:52,847 --> 00:21:53,830
-Now, Jamie!
+00:19:28,620 --> 00:19:30,160
+I'm evacuating the compound.
 
 286
-00:21:54,050 --> 00:21:55,360
-What's the matter?
+00:19:30,180 --> 00:19:31,680
+- No...   - And that's final, Miss Jones!
 
 287
-00:21:56,083 --> 00:21:57,920
-If you were hunting, what would you do?
+00:19:38,120 --> 00:19:41,890
+Jamie, there's the control rig complex.
 
 288
-00:21:58,080 --> 00:22:01,763
-Well I'd set a... oh I see, you think it might be a trap.
+00:19:42,720 --> 00:19:46,060
+Hey Doctor, one of those towers is all covered in white.
 
 289
-00:22:02,079 --> 00:22:05,602
-Might be. We'll lets be cautious just in case, hey?
+00:19:46,180 --> 00:19:50,160
+Yes, it's foam. That's the nerve centre.
 
 290
-00:22:28,390 --> 00:22:29,683
-Here we go.
+00:19:58,600 --> 00:20:00,660
+- Robson's helicopter.   - Yes.
 
 291
-00:22:42,092 --> 00:22:43,613
-It's Robson!
+00:20:00,740 --> 00:20:03,660
+- We can't land there.   - Oh yes we can, Jamie.
 
 292
-00:22:45,416 --> 00:22:49,067
+00:20:28,000 --> 00:20:30,760
+Come on in, the water's lovely.
+
+293
+00:20:42,210 --> 00:20:43,780
+Go on, Jamie.
+
+294
+00:20:47,880 --> 00:20:48,840
+Goodbye.
+
+295
+00:21:11,110 --> 00:21:12,860
+So far so good, Jamie.
+
+296
+00:21:13,150 --> 00:21:14,680
+But the driver, will he wait for us?
+
+297
+00:21:14,740 --> 00:21:16,480
+Oh yes, he said he'd hang around.
+
+298
+00:21:17,600 --> 00:21:19,280
+Where do we go from here?
+
+299
+00:21:19,480 --> 00:21:22,140
+I think we'll go down that way.
+
+300
+00:21:22,620 --> 00:21:24,640
+Like walking into the lion's den.
+
+301
+00:21:24,700 --> 00:21:27,420
+Jamie, we're already in the lion's den.
+
+302
+00:21:27,740 --> 00:21:30,900
+What we've got to concentrate on is keeping our heads out of his mouth.
+
+303
+00:21:46,560 --> 00:21:49,960
+It's very quiet. Do you think Victoria really is down here?
+
+304
+00:21:50,020 --> 00:21:51,400
+There's nowhere else she can be.
+
+305
+00:21:51,460 --> 00:21:52,760
+Aye, I suppose you're right.
+
+306
+00:21:54,900 --> 00:21:58,930
+Jamie! Jamie! Now there's no element of surprise!
+
+307
+00:21:59,520 --> 00:22:01,330
+Jamie! Doctor!
+
+308
+00:22:01,520 --> 00:22:02,780
+See I was right.
+
+309
+00:22:02,860 --> 00:22:05,160
+- Now, Jamie!   - What's the matter?
+
+310
+00:22:06,180 --> 00:22:08,020
+If you were hunting, what would you do?
+
+311
+00:22:08,300 --> 00:22:12,440
+Well I'd set a... oh I see, you think it might be a trap.
+
+312
+00:22:12,540 --> 00:22:15,780
+Might be. We'll lets be cautious just in case, hey?
+
+313
+00:22:38,790 --> 00:22:40,080
+Here we go.
+
+314
+00:22:52,720 --> 00:22:54,100
+It's Robson!
+
+315
+00:22:56,300 --> 00:23:00,060
 Come in, Doctor. I've been waiting for you.
 
