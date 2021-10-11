@@ -1,0 +1,1653 @@
+1
+00:00:00,000 --> 00:00:04,800
+<b>The Evil of the Daleks</b>(Episode 1)
+<b>《Daleks 的邪恶》</b> (第一部分)
+
+2
+00:00:05,000 --> 00:00:07,200
+Doctor Who (1963) 04x09b
+原为《神秘博士》老版第四季第九集
+
+3
+00:00:08,000 --> 00:00:10,800
+【时间轴/翻译】巴蛮子sz
+
+4
+00:00:11,000 --> 00:00:13,800
+<i>基于 opentitles.org 英文字幕翻译</i>
+
+5
+00:00:11,000 --> 00:00:14,800
+（注意：此字幕的时间轴按2021动画重制版重新调整）
+
+5
+00:00:15,000 --> 00:00:17,800
+Sincro: wyxchari
+
+6
+00:00:41,810 --> 00:00:46,810
+<i>(Gatwick airport. The TARDIS is beging taken away on the back of a lorry.)</i>
+<i>(故事接《无面一族》, 在伦敦盖特威克机场, TARDIS被一辆拖车拖走了)</i>
+
+7
+00:00:51,920 --> 00:00:53,744
+- DOCTOR: Jamie!  - JAMIE: The TARDIS!
+
+8
+00:01:33,488 --> 00:01:34,736
+DOCTOR: Excuse me!
+打扰一下!
+
+9
+00:01:36,928 --> 00:01:37,536
+HALL: Eh?
+诶?
+
+10
+00:01:37,744 --> 00:01:39,472
+JAMIE: I wonder if you could help us?
+请问你可否帮我们一下?
+
+11
+00:01:39,696 --> 00:01:42,352
+HALL: My mate likes the wireless turned on at full blast.
+我的同事喜欢把无线电开到最大声
+
+12
+00:01:42,400 --> 00:01:44,336
+- HALL: I have to keep this turned down.  - DOCTOR: Oh, I see
+- 我就把我的助听器拿下来了  - 哦, 明白了
+
+13
+00:01:44,464 --> 00:01:46,430
+- JAMIE: Who's taken the TARDIS?  -  HALL: The what?
+- 谁拖走了 TARDIS ?  - 什么东西?
+
+14
+00:01:46,480 --> 00:01:49,040
+DOCTOR: He means the police telephone box.
+他是说那个警用电话亭
+
+15
+00:01:49,088 --> 00:01:50,384
+HALL: He said 'TARDIS' or something.
+但他说的是 TARDIS 什么的
+
+16
+00:01:50,620 --> 00:01:53,550
+DOCTOR: Yes. Well, TARDIS... That's, uh...
+that's another name for it.
+对, TARDIS 是...那是另外一个名字
+
+17
+00:01:53,616 --> 00:01:54,830
+HALL: Oh, foreign is he?
+哦, 他是外国人吧
+
+18
+00:01:54,912 --> 00:01:57,744
+JAMIE: Me, foreign? You're the one that's foreign! I'm Scottish!
+我, 外国人? 你才是外国人! 我是苏格兰人
+
+19
+00:01:57,800 --> 00:02:01,200
+DOCTOR: Uh, that's right. TARDIS is a... is a Gaelic word. Jamie, hush!
+啊, 那就对了. TARDIS 是盖尔语的说法. Jamie, 安静
+
+20
+00:02:01,376 --> 00:02:04,000
+- JAMIE: It's getting further away all the time! - DOCTOR: Yes, I know.
+- 它离我们越来越远了  - 是的, 我知道
+
+21
+00:02:05,040 --> 00:02:07,760
+DOCTOR: Well anyway, it's... it's our property
+and we've come to collect it.
+不管怎样...那是我们的东西, 我们是来认领的
+
+22
+00:02:08,048 --> 00:02:10,656
+HALL: Oh, you mean the...uh, the police box?
+哦, 你是说那个... 那个警用电话亭?
+
+23
+00:02:10,688 --> 00:02:11,344
+DOCTOR: Yes!
+正是!
+
+24
+00:02:11,560 --> 00:02:13,168
+HALL: Well, uh... Well, that's gone.
+哦, 这个...它不在这里了
+
+25
+00:02:13,296 --> 00:02:15,632
+DOCTOR: Oh, we know it's gone. That's the whole point.
+噢, 我们知道它不在这里了. 说的就是这个问题
+
+26
+00:02:15,664 --> 00:02:17,500
+JAMIE: ...Its ours and somebody's stolen it!
+它是我们的, 有人偷走了它
+
+27
+00:02:17,860 --> 00:02:20,050
+HALL: Ah, well, I don't know about that. I got a note here somewhere.
+啊, 这我可我不知道. 我这里有个记录, 在哪儿呢?
+
+28
+00:02:21,648 --> 00:02:25,440
+HALL: Yeah, here we are. There.
+耶, 在这里. 你看
+
+29
+00:02:25,952 --> 00:02:28,224
+HALL: "Police Tel. Box. Collection: 3 o'clock".
+．警用电话亭 登记时间：下午三点"
+
+30
+00:02:28,240 --> 00:02:29,050
+DOCTOR: Let me see this please.
+请让我看一下
+
+31
+00:02:29,168 --> 00:02:30,000
+HALL: Been signed for.
+上面有签名
+
+32
+00:02:30,272 --> 00:02:33,600
+DOCTOR: Oh, yes. So I see. Er... "J Smith".
+哦, 是的, 我看到了．嗯..."J Smith"
+
+33
+00:02:34,090 --> 00:02:35,904
+DOCTOR: Doesn't really help us, does it?
+这好像帮不了我们什么, 对不?
+
+34
+00:02:35,920 --> 00:02:37,680
+HALL: Yeah. Well, I just do what I'm told.
+这个...我的职责范围只能管到这里
+
+35
+00:02:37,824 --> 00:02:39,776
+HALL: Better see the airport commandant or someone.
+你们最好去找一下机场负责人什么的
+
+36
+00:02:39,780 --> 00:02:42,580
+DOCTOR: Oh, no. I... I don't think we'd better do that.
+不, 我...我觉得我们最好不要去
+
+37
+00:02:42,660 --> 00:02:45,072
+Um, Jamie, I think we'd better talk to the police.
+Jamie, 我觉得我们最好还是去找警察
+
+38
+00:02:45,540 --> 00:02:48,920
+HALL: Of course I, um... I do know the name of the firm what picked it up.
+当然, 不过...我还真知道拖走它的那个公司的名字
+
+39
+00:02:48,976 --> 00:02:49,632
+DOCTOR: You do?!
+你知道?
+
+40
+00:02:49,696 --> 00:02:52,700
+HALL: Yeah, firm name of, uh... Leatherman.
+是的, 商号名字是...Leatherman
+
+41
+00:02:52,910 --> 00:02:54,680
+- JAMIE: Leatherman. Now that's a clue!
+- DOCTOR: Thank you very much.
+- Leatherman, 有条线索了  - 非常感谢
+
+42
+00:02:55,080 --> 00:02:56,740
+JAMIE:  Just a minute. Now, what street do they...?
+等一下, 他们在那条街?
+
+43
+00:02:56,820 --> 00:02:58,090
+JAMIE: Doctor, wait...
+博士, 等等..
+
+44
+00:03:06,380 --> 00:03:08,690
+- HALL: Did you get all that?  - KENNEDY: Every word.
+- 你都听到了吗?   - 一字不落
+
+45
+00:03:08,710 --> 00:03:11,470
+KENNEDY: We'd better get going. Get your money back at the warehouse.
+我们得走了．去仓库拿你的钱吧
+
+46
+00:03:20,750 --> 00:03:22,530
+JAMIE: We should have followed that clue he gave us.
+我们应该沿着刚才他给我们那条线索走
+
+47
+00:03:22,740 --> 00:03:25,580
+DOCTOR: Perhaps. I think we'd better keep an eye on him.
+也许吧, 我觉得我们最好盯着他
+
+48
+00:03:25,712 --> 00:03:26,320
+JAMIE: Why?
+为什么
+
+49
+00:03:26,384 --> 00:03:29,170
+DOCTOR: Well, didn't you notice his overalls?
+They were much too small for him,
+你没有注意到他的工作服吗? 对他来说有点太小了
+
+50
+00:03:29,310 --> 00:03:31,930
+DOCTOR: and the top sheet of his clipboard was different to all the others
+而且他那个纸夹板最上面那页跟其它页都不一样
+
+51
+00:03:32,090 --> 00:03:34,580
+DOCTOR: And when we mentioned the police, he became friendly!
+当我们说要去找警察的时候, 他就突然变得友好了
+
+52
+00:03:34,750 --> 00:03:36,040
+JAMIE: Aye. Hey, may...
+真是．嘿, 也许．．
+
+53
+00:03:52,220 --> 00:03:54,370
+KENNEDY: Kennedy to base. Kennedy to base. Do you read me?
+Kennedy 呼叫基地, Kennedy 呼叫基地, 你能听到吗
+
+54
+00:03:55,910 --> 00:03:57,650
+KENNEDY: Kennedy to base. Do you read?
+Kennedy 呼叫基地, 你能听到吗
+
+55
+00:03:58,112 --> 00:03:59,010
+WATERFIELD: Yes.
+听到
+
+56
+00:03:59,232 --> 00:04:01,184
+KENNEDY: The Doctor and his friend are following Bob Hall.
+博士和他的同伴在跟踪 Bob Hall
+
+57
+00:04:01,690 --> 00:04:03,500
+WATERFIELD: I knew they would suspect him.
+我就知道他们会怀疑他
+
+58
+00:04:03,940 --> 00:04:05,410
+KENNEDY: I'll go on to the warehouse.
+我现在去仓库
+
+59
+00:04:06,030 --> 00:04:08,070
+WATERFIELD: Very good, Mr Kennedy.
+很好, Kennedy 先生
+
+60
+00:04:18,576 --> 00:04:21,280
+- DOCTOR: That's him. There he goes. - JAMIE: Oh, no!
+- 就是他, 在那儿呢 - 哦, 不
+
+61
+00:04:21,936 --> 00:04:23,232
+DRIVER: For Hire. Eh?
+走吗, 嗯?
+
+62
+00:04:23,792 --> 00:04:25,200
+DOCTOR: Follow that car!
+跟住那辆车
+
+63
+00:04:36,560 --> 00:04:38,940
+- WATERFIELD: Yes? - PERRY: Perry, sir.
+- 谁啊?  - Perry 啊, 先生
+
+64
+00:04:39,100 --> 00:04:42,600
+WATERFIELD: Oh, uh... One moment Mr. Perry.
+哦, 稍等一下, Perry 先生
+
+65
+00:04:44,432 --> 00:04:45,488
+PERRY: It's here.
+我找到了
+
+66
+00:04:45,696 --> 00:04:46,650
+WATERFIELD: Good.
+很好
+
+67
+00:04:46,880 --> 00:04:49,690
+PERRY: Like me to open the shutters, sir? Lovely day outside.
+需要我打开百页窗吗, 先生? 外面阳光不错
+
+68
+00:04:49,904 --> 00:04:53,104
+WATERFIELD: I have a choice between the sun or noise, Mr Perry.
+我在阳光和噪音之间做了一个选择, Perry先生.
+
+69
+00:04:53,424 --> 00:04:56,590
+WATERFIELD: I regret shutting out one,
+but at least I keep out the other.
+虽然享受不到阳光有点可惜, 但至少噪音还是被挡住了
+
+70
+00:04:56,640 --> 00:04:57,484
+PERRY: Yes.
+是
+
+71
+00:04:57,664 --> 00:05:00,656
+PERRY: Ah, I say! That's very good.
+啊, 我得说, 这件很不错啊
+
+72
+00:05:01,100 --> 00:05:03,680
+PERRY: Just come in, eh? Mint condition.
+是刚到的? 成色也还不错
+
+73
+00:05:03,872 --> 00:05:06,736
+PERRY: Eighteen, uh, seventy. Is it?
+是18世纪70年代的, 是吧?
+
+74
+00:05:06,912 --> 00:05:08,080
+WATERFIELD: Approximately.
+差不多
+
+75
+00:05:08,144 --> 00:05:10,880
+PERRY: Don't know who your contacts are, sir, but this is marvellous!
+不知道您的客户都是谁, 先生, 不过这件非常棒!
+
+76
+00:05:10,976 --> 00:05:13,808
+WATERFIELD: Well, Victorian timepieces are my speciality, Mr. Perry.
+是, 维多利亚时期的时钟算是我的专长, Perry先生
+
+77
+00:05:13,872 --> 00:05:15,680
+PERRY: Wish you'd tell me who makes them for you, sir.
+真期望您能告诉我是谁给您做的, 先生
+
+78
+00:05:16,070 --> 00:05:20,000
+WATERFIELD: But then you would be as wise as I,
+and that wouldn't do at all, would it?
+那样的话你就跟我一样聪明了, 这样可行不通, 是吧?
+
+79
+00:05:20,128 --> 00:05:23,360
+PERRY: Whoever makes them, Mr. Waterfield, they'd fool an expert.
+不管是谁做的, Waterfield 先生, 他们绝对可以骗过专家
+
+80
+00:05:23,550 --> 00:05:27,530
+PERRY: If I didn't know it was impossible,
+I would say it was absolutely genuine.
+要是我并不知道这并不可能, 我得说这件绝对是真品
+
+81
+00:05:28,944 --> 00:05:31,850
+WATERFIELD: And, uh, there was no trouble with the box?
+另外, 这个亭子不会有什么问题吧
+
+82
+00:05:32,070 --> 00:05:35,430
+PERRY: Apparently not. A bit out of our line, isn't it, sir?
+看起来不会. 有点不在我们主业上, 对不, 先生?
+
+83
+00:05:35,490 --> 00:05:36,790
+PERRY: A battered old police box?
+一座破旧的警用电话亭?
+
+84
+00:05:36,830 --> 00:05:40,870
+WATERFIELD: The whims and caprices of our patrons is our line, Mr Perry.
+让客户感到新奇、多变就是我们的主业, Perry先生
+
+85
+00:05:41,040 --> 00:05:42,670
+PERRY: Hmm. Odd though.
+唔, 还是有点怪
+
+86
+00:05:44,850 --> 00:05:48,470
+WATERFIELD: Mr Perry, I pay you the sum of 50 guineas per week, do I not?
+Perry先生, 每星期我付给你50金币, 有吧?
+
+87
+00:05:48,750 --> 00:05:52,410
+PERRY: Pounds, actually sir. 50 pounds.
+英镑, 先生, 50英镑
+<i>（几尼金币是英国1663-1813年的货币, 1813年之后被英镑所替代）</i>
+
+88
+00:05:52,830 --> 00:05:54,995
+WATERFIELD: Yes, uh... I hope I may be forgiven...
+是的...我期望你能原谅我
+
+89
+00:05:55,024 --> 00:05:58,256
+WATERFIELD: ... if I believe that entitles me
+to demanding less curiosity of you.
+...我觉得这些钱能够容许我要求你别那么好奇
+
+90
+00:05:58,560 --> 00:05:59,392
+PERRY: Sorry, sir.
+抱歉, 先生
+
+91
+00:05:59,456 --> 00:06:02,528
+WATERFIELD: It is, I think you will agree, a princely salary.
+我想你也同意, 这笔薪水是相当可观的
+
+92
+00:06:02,608 --> 00:06:07,456
+PERRY: No complaints on that score.
+Long as I'm not asked to do anything dicey.
+我对此完全满意. 只要不让我去做一些太危险的事情
+
+93
+00:06:07,632 --> 00:06:09,970
+- WATERFIELD: "Dicey?"  - PERRY: Crooked. Illegal.
+- “危险的? “  - 出格的, 非法的
+
+94
+00:06:11,280 --> 00:06:13,248
+WATERFIELD: Your candor is refreshing, Mr. Perry,
+你还挺直率的, Perry 先生
+
+95
+00:06:13,310 --> 00:06:16,432
+WATERFIELD: ...even if your judgement of character is somewhat questionable.
+不过你对别人的判断有点问题
+
+96
+00:06:16,464 --> 00:06:19,440
+- PERRY: I didn't mean that...
+- WATERFIELD: I know perfectly well what you meant.
+- 我并不是这个意思...    - 我完全知道你什么意思
+
+97
+00:06:20,256 --> 00:06:24,960
+WATERFIELD: You may rest assured,
+I shall not ask you to do anything "dicey. "
+你放心吧, 我不会要求你做任何“危险”的事情
+
+98
+00:06:25,008 --> 00:06:25,792
+PERRY: No, sir.
+您不会的, 先生
+
+99
+00:06:26,640 --> 00:06:29,100
+WATERFIELD: I think you are wanted in the shop, Mr. Perry.
+我觉得你该去店面了, Perry先生
+
+100
+00:06:29,190 --> 00:06:33,550
+PERRY: And the, um... the telephone box, uh... What do we do with it?
+还有那个...那个电话亭...我们拿它怎么办?
+
+101
+00:06:33,680 --> 00:06:36,160
+WATERFIELD: Do? We do nothing.
+怎么办? 什么也不办
+
+102
+00:06:36,432 --> 00:06:38,480
+PERRY: Oh, right.
+哦, 好的
+
+103
+00:06:42,096 --> 00:06:43,984
+WATERFIELD: Nothing, except wait.
+什么也不做, 就是等着
+
+104
+00:06:47,424 --> 00:06:50,064
+DOCTOR: This is his car. He must be around here somewhere.
+这是他的车. 他肯定就在附近什么地方
+
+105
+00:07:07,984 --> 00:07:09,728
+KENNEDY: You sure you weren't followed?
+你肯定你没有被跟踪吗?
+
+106
+00:07:10,080 --> 00:07:12,350
+HALL: No! Course I wasn't.
+没有, 当然没有
+
+107
+00:07:13,344 --> 00:07:16,704
+HALL: Hey, you haven't told me
+what this little caper's about yet, uh, Kennedy.
+嘿, 你还没有告诉我这一切到底是怎么回事, Kennedy
+
+108
+00:07:19,264 --> 00:07:20,736
+KENNEDY: Counted the money yet then, have ya?
+钱已经数过了, 对吗?
+
+109
+00:07:20,800 --> 00:07:21,504
+HALL: No, not yet.
+没, 还没呢
+
+110
+00:07:22,130 --> 00:07:25,070
+KENNEDY: Or do you think I made a mistake
+giving ya two-fifty instead of seventy-five.
+或许你认为我搞错了, 我给了你250, 而不是75?
+
+111
+00:07:25,392 --> 00:07:26,992
+KENNEDY: We thought you might like a little  extra.
+我们觉得你可能会喜欢这一小笔奖金
+
+112
+00:07:27,424 --> 00:07:29,232
+- HALL: What for?  - KENNEDY: You know those two at the hangar?
+- 是做什么的?  - 你记得在机库的那两个家伙吧?
+
+113
+00:07:29,408 --> 00:07:30,864
+- HALL: Yeah?  - KENNEDY: They're outside.
+- 怎样?   - 他们就在外面
+
+114
+00:07:30,976 --> 00:07:32,496
+KENNEDY: You weren't followed!
+你还说没被跟踪!
+
+115
+00:07:33,248 --> 00:07:36,128
+KENNEDY: We'll be ready for them, won't we?
+That's what the extra's for.
+我们得做点准备, 对吧. 多给你的钱就为了这
+
+116
+00:07:37,168 --> 00:07:38,272
+HALL: Now listen...
+听我说...
+
+117
+00:07:38,320 --> 00:07:40,592
+KENNEDY: You on one side of the door, me on the other. Right?
+你到门的这边, 我到那边, 行吧
+
+118
+00:07:40,688 --> 00:07:42,464
+KENNEDY: Straight over their heads.
+They won't even know what hit them.
+直接对准他们的脑袋, 他们连是什么都不会知道
+
+119
+00:07:42,512 --> 00:07:43,648
+HALL: Ah, not me, mate.
+不, 我不干, 伙计
+
+120
+00:07:43,710 --> 00:07:45,392
+KENNEDY: It's a bit late to argue, isn't it? They're outside.
+现在才说有点太晚了吧, 是不? 他们已经在外面了
+
+121
+00:07:45,540 --> 00:07:47,940
+HALL: Now listen, I'm not getting mixed up in a kidnapping, and that's flat!
+听着, 我是不会卷入一场绑架的, 没得商量
+
+122
+00:07:48,064 --> 00:07:48,976
+KENNEDY: Oh, dear...
+哦, 天啊
+
+123
+00:07:55,860 --> 00:07:56,700
+JAMIE: Doctor?
+博士?
+
+124
+00:07:59,680 --> 00:08:00,980
+DOCTOR: Well, have you tried the door?
+这里, 你试过这扇门吗?
+
+125
+00:08:07,328 --> 00:08:09,072
+DOCTOR: It's the man in the overalls!
+是那个穿工作服的家伙!
+
+126
+00:08:12,000 --> 00:08:13,488
+DOCTOR: It's all right. He's alive.
+没事, 他还活着
+
+127
+00:08:14,790 --> 00:08:18,650
+HALL: Oh, dear... Where's Ken...
+哦, 老天, 哪儿去了Ken...
+
+128
+00:08:18,768 --> 00:08:20,470
+DOCTOR: Ken? Ken who?
+Ken? Ken 什么?
+
+129
+00:08:20,500 --> 00:08:22,290
+JAMIE: Make him tell us where the TARDIS is!
+让他告诉我们 TARDIS 哪儿去了!
+
+130
+00:08:22,690 --> 00:08:24,320
+DOCTOR: No good, he's out cold.
+不太妙, 他晕过去了
+
+131
+00:08:25,220 --> 00:08:27,360
+JAMIE: See if we can find some water somewhere.
+看看我们能不能哪里找到一点水
+
+132
+00:08:28,690 --> 00:08:33,470
+DOCTOR: Hello, this is something. This really is something.
+嘿, 这里有情况, 这里真有点情况
+
+133
+00:08:35,050 --> 00:08:38,256
+DOCTOR: But, why pay him to help steal the TARDIS
+奇怪, 为什么付钱让他帮忙偷走TARDIS
+
+134
+00:08:39,040 --> 00:08:40,320
+DOCTOR: ...and then knock him on the head?
+又来砸他的头?
+
+135
+00:08:40,384 --> 00:08:41,890
+JAMIE: Well, why steal the TARDIS anyway?
+到底为什么要偷 TARDIS 呢?
+
+136
+00:08:42,240 --> 00:08:44,300
+DOCTOR: That's what's been bothering me, Jamie, too.
+一直困扰我的也是这个, Jamie
+
+137
+00:08:44,368 --> 00:08:45,632
+JAMIE: There's no water here.
+这里没有水
+
+138
+00:08:45,952 --> 00:08:47,850
+JAMIE: Hey, that looks a lot of money, Doctor.
+嘿, 看起来是一大笔钱, 博士
+
+139
+00:08:47,920 --> 00:08:50,380
+DOCTOR: It's between two and three hundred pounds.
+大概200到300英镑
+
+140
+00:08:50,540 --> 00:08:52,840
+DOCTOR: Yes, it is a lot, at least for what he had to do
+这的确不少, 对于要他干的事情来说
+
+141
+00:08:53,140 --> 00:08:55,600
+DOCTOR: - put on a pair of overalls and just hang around.
+—— 也就是穿上工作服兜两个圈子
+
+142
+00:08:56,240 --> 00:08:57,856
+JAMIE: Come to think of it, why hang around?
+突然在想, 为什么要兜圈子?
+
+143
+00:08:57,888 --> 00:09:01,660
+DOCTOR: He was obviously planted.
+Why not just go off in the lorry?
+他显然是受人安排的. 为什么不跟着货车一起跑掉呢?
+
+144
+00:09:02,860 --> 00:09:04,220
+JAMIE: You found something else?
+你找到了其它什么东西吗?
+
+145
+00:09:04,540 --> 00:09:05,420
+DOCTOR: I don't know.
+我说不好
+
+146
+00:09:15,160 --> 00:09:17,920
+DOCTOR: Yes, this man rolled his own cigarettes
+哈, 这个人是自己卷烟抽的
+
+147
+00:09:18,064 --> 00:09:21,070
+DOCTOR: So these must belong to somebody else.
+That's a fair assumption.所以这东西属于其他某个人, 这是比较合理的假设
+
+148
+00:09:21,920 --> 00:09:23,220
+JAMIE: What's that?
+那是什么?
+
+149
+00:09:23,280 --> 00:09:24,560
+DOCTOR: It's all right. It's only a train.
+没事, 那是火车的声音
+
+150
+00:09:24,688 --> 00:09:26,528
+- JAMIE: A what?  - DOCTOR: Well, it's a train.
+- 什么?  - 哦, 它叫火车
+
+151
+00:09:26,928 --> 00:09:30,432
+DOCTOR: There are carriages and they go on wheels,
+on rails, and they're drawn by a stea...
+上面有车厢, 下面有轮子, 跑在铁轨上, 它们是靠蒸汽牵引着...
+
+152
+00:09:30,592 --> 00:09:32,000
+DOCTOR: Hey, come back!
+嘿, 回来!
+
+153
+00:09:38,480 --> 00:09:40,010
+JAMIE: Well, give us a hand!
+来, 帮我们搭把手
+
+154
+00:09:44,860 --> 00:09:47,830
+JAMIE: Aw, not a sign of him. The only chance we had.
+噢, 不见他踪影了. 我们唯一的机会啊
+
+155
+00:09:48,270 --> 00:09:50,210
+DOCTOR: There is this...
+还有这个...
+
+156
+00:09:50,496 --> 00:09:54,150
+DOCTOR: "The Tricolour". It's a coffee bar apparently.
+”三原色“. 这看起来是一个咖啡馆
+
+157
+00:09:54,352 --> 00:09:56,272
+- DOCTOR: And that's not all...  - JAMIE: Well, what else?
+- 还不止这点 - 还有什么?
+
+158
+00:09:56,320 --> 00:09:58,896
+DOCTOR: Well, normally people pull out their matches from right to left.
+通常来说人们都是从右往左抽火柴
+
+159
+00:09:58,976 --> 00:10:00,860
+DOCTOR: These have been torn out from left to right.
+但这些是从左到右抽取的
+
+160
+00:10:00,928 --> 00:10:02,140
+JAMIE: What does that mean?
+这说明什么?
+
+161
+00:10:02,540 --> 00:10:06,336
+DOCTOR: It means we've got to find a coffee bar called "The Tricolour"
+这说明我们要去找一个叫做”三原色“的咖啡馆
+
+162
+00:10:07,740 --> 00:10:12,140
+DOCTOR: and look for a man called Ken or Kenneth
+- someone who's left-handed.
+找寻一个叫做 Ken 或者 Kenneth 的人, 这人还是个左撇子
+
+163
+00:10:12,330 --> 00:10:13,660
+JAMIE: Now we've got something to go on!
+现在我们可以继续了!
+
+164
+00:10:14,416 --> 00:10:17,968
+DOCTOR: But it's so little, Jamie. It's too little.
+线索还比较弱, Jamie, 或者说非常弱
+
+165
+00:10:18,832 --> 00:10:21,776
+DOCTOR: He might only have been there once.
+There's no guarantee he'll ever go there again.
+他可能只去过那个地方一次, 不敢说他还会再去那里
+
+166
+00:10:21,808 --> 00:10:25,080
+JAMIE: Now, don't give up Doctor. Remember Bruce.
+别放弃, 博士. 记住 Bruce
+
+167
+00:10:25,610 --> 00:10:26,480
+DOCTOR: Bruce?
+哪个 Bruce?
+
+168
+00:10:26,710 --> 00:10:32,310
+JAMIE: Robert Bruce.
+<i>(注：苏格兰国王罗伯特一世. 之前领导苏格兰独立运动多年, 最后其地位终于被承认)</i>
+
+169
+00:10:38,280 --> 00:10:39,088
+KENNEDY: Look, I told...
+看, 我跟你说过...
+
+170
+00:10:39,120 --> 00:10:41,424
+WATERFIELD: And they were not aware that you were watching?
+他们没有发现你在监视吗?
+
+171
+00:10:41,504 --> 00:10:44,272
+KENNEDY: No, they were too busy trying to work it all out.
+没有, 他们一直忙着搞明白是怎么回事
+
+172
+00:10:44,352 --> 00:10:45,344
+WATERFIELD: Good.
+很好
+
+173
+00:10:45,392 --> 00:10:48,368
+KENNEDY: That Bob Hall was a bit of a problem.
+I didn't think he'd turn nasty.
+那个 Bob Hall 有点麻烦. 我没想到他会变得棘手
+
+174
+00:10:49,030 --> 00:10:50,640
+WATERFIELD: You didn't hurt him?
+你没有伤害他吧?
+
+175
+00:10:50,860 --> 00:10:52,470
+KENNEDY: Him? You're joking.
+他? 你开玩笑吧
+
+176
+00:10:52,650 --> 00:10:54,240
+WATERFIELD: I can assure you that I am not.
+我可以保证我没有
+
+177
+00:10:54,430 --> 00:10:56,432
+KENNEDY: He's a lot bigger than me, you know.
+他比我块头大多了, 你知道吧
+
+178
+00:10:56,480 --> 00:10:58,624
+No, I just baggered him one and that was it.
+没有, 我只是打了他一下, 仅此而已
+
+179
+00:10:58,720 --> 00:11:02,496
+WATERFIELD: That was what? Kennedy, I must know
+precisely what has happened.
+仅此而已?  Kennedy, 我必须知道到底发生了什么
+
+180
+00:11:02,688 --> 00:11:04,256
+WATERFIELD: How badly injured was Hall?
+Hall 伤得有多严重?
+
+181
+00:11:04,380 --> 00:11:05,968
+KENNEDY: Well, a bit dazed, that's all.
+就是有点晕了, 仅此而已
+
+182
+00:11:06,000 --> 00:11:08,680
+KENNEDY He just mumbled something
+and made a run for it when they weren't looking.
+他嘟哝了几句什么, 然后趁他们没看见就跑了
+
+183
+00:11:09,248 --> 00:11:10,690
+WATERFIELD: And where is he now?
+那他现在在哪儿?
+
+184
+00:11:10,850 --> 00:11:12,464
+KENNEDY: Well, I went round to his place later.
+我后来去了他的地方
+
+185
+00:11:12,576 --> 00:11:14,832
+KENNEDY:  There he was coming out the front door,
+zip bag and everything.
+他正从前门出来, 打包好了一切
+
+186
+00:11:14,890 --> 00:11:16,592
+KENNEDY: He got in a cab and went to Euston.
+他坐进一辆车, 去了 Euston
+
+187
+00:11:16,704 --> 00:11:19,184
+WATERFIELD: Were you able to find another hansom and follow him?
+你就不能找个什么人跟着他吗?
+
+188
+00:11:19,264 --> 00:11:19,920
+KENNEDY: Eh?
+嗯?
+
+189
+00:11:20,608 --> 00:11:21,920
+WATERFIELD: Did you follow him?
+你有没有跟着他?
+
+190
+00:11:22,096 --> 00:11:25,408
+KENNEDY: Yeah, yeah. Don't worry about him.
+He's gone up north.
+有, 有, 别担心他了, 他去北方了
+
+191
+00:11:25,520 --> 00:11:27,248
+WATERFIELD: That disposes of that.
+那就估计没问题了
+
+192
+00:11:27,984 --> 00:11:32,640
+WATERFIELD: Now, this is extremely important:
+you did leave the matches?
+现在, 这个问题至关重要：你的确留下火柴了吗?
+
+193
+00:11:32,704 --> 00:11:36,160
+KENNEDY: Don't worry about it.
+The Doctor found the cigarettes and the matches.
+别担心这个, 博士已经发现了卷烟和火柴
+
+194
+00:11:36,224 --> 00:11:39,264
+WATERFIELD: And you are certain they were the ones
+bearing the name of the coffee shop?
+你确定就是带有咖啡店名称的那盒?
+
+195
+00:11:39,312 --> 00:11:40,710
+- KENNEDY: Coffee bar. -  WATERFIELD: Yes.
+- 是咖啡馆  - 对
+
+196
+00:11:40,800 --> 00:11:43,872
+KENNEDY: Yes. I told you, it worked like a charm.
+I never thought it would.
+确定, 我说过了, 进展非常顺利. 我都没想到
+
+197
+00:11:43,920 --> 00:11:46,800
+KENNEDY: but you were quite right.
+He got onto the name on the matches straight away.
+不过你是对的, 他直接就注意到了火柴上面的名字
+
+198
+00:11:47,008 --> 00:11:51,560
+WATERFIELD: Well, just one last thing, to make quite sure:
+好, 最后一件事, 我得确认一下
+
+199
+00:11:58,016 --> 00:12:01,024
+WATERFIELD: now you are certain that these are the people that you saw?
+你看看, 你确认他们就是这两个人?
+
+200
+00:12:01,296 --> 00:12:03,472
+KENNEDY: That's them, yeah. Yeah, definite.
+就是他们, 对的, 对的, 绝对
+
+201
+00:12:03,872 --> 00:12:08,160
+WATERFIELD: Right. Well, I shall want you to keep out of sight.
+You'd better stay in the house.
+好. 现在, 你先躲起来, 最好不要出门
+
+202
+00:12:08,384 --> 00:12:11,408
+WATERFIELD: And on no account are you to talk
+to Mr. Perry about any of this.
+在任何情况下都不要跟 Perry 谈起这件事
+
+203
+00:12:11,456 --> 00:12:12,372
+KENNEDY: OK.
+好吧
+
+204
+00:12:12,470 --> 00:12:14,300
+WATERFIELD: "OK."? What does that mean?
+好吧? 这什么意思?
+
+205
+00:12:14,570 --> 00:12:16,640
+KENNEDY: What? Yes!
+什么? 好的!
+
+206
+00:12:18,480 --> 00:12:22,960
+WATERFIELD: Oh, I know that my attitude may
+appear strange to you on occasions, Kennedy.
+哦, 我知道有时候我的态度会显得比较奇怪, Kennedy
+
+207
+00:12:23,120 --> 00:12:26,220
+KENNEDY: You want to play the part of the
+Victorian grandfather, that's all right by me.
+你想要扮演维多利亚老爷爷, 我完全没意见
+
+208
+00:12:26,340 --> 00:12:28,560
+KENNEDY: Must be a pretty good gimmick.
+You pay me well enough.
+你这肯定是一个相当不错的局. 不过你给我的报酬相当不错
+
+209
+00:12:28,660 --> 00:12:31,580
+WATERFIELD: It, uh... helps to sell to our customers.
+这...对我们的生意有帮助
+
+210
+00:12:31,640 --> 00:12:36,020
+KENNEDY: Yeah, sure, sure. You've, uh... never told me
+行, 当然, 当然. 你从来...没有告诉过我
+
+211
+00:12:36,140 --> 00:12:38,920
+KENNEDY: ...what it is exactly you've got
+against this Doctor and his friend.
+你对博士和他的朋友到底有什么过节
+
+212
+00:12:39,130 --> 00:12:41,300
+KENNEDY: Some kind of vendetta or something?
+是复仇什么的吗?
+
+213
+00:12:41,940 --> 00:12:44,300
+WATERFIELD: Explanations are not part of our arrangement.
+我并没有必要向你解释
+
+214
+00:12:44,320 --> 00:12:45,120
+KENNEDY: Oh, just wondering.
+哦, 只是好奇
+
+215
+00:12:45,160 --> 00:12:48,120
+WATERFIELD: Imagination is a virtue, but it can become a vice.
+想象力是个优点, 但也可能变成缺点
+
+216
+00:12:49,000 --> 00:12:50,820
+KENNEDY: Mind me own business, yeah. I get the message.
+管好我自己的事, 好, 我知道了
+
+217
+00:12:51,580 --> 00:12:53,720
+WATERFIELD: Ask Mr. Perry to come and see me, will you, please?
+让 Perry 先生过来见我, 帮忙叫一下?
+
+218
+00:13:38,780 --> 00:13:39,920
+KENNEDY: He wants to see you.
+他想要见你
+
+219
+00:13:40,040 --> 00:13:41,520
+PERRY: Oh, thank you.
+哦, 谢谢你
+
+220
+00:13:43,940 --> 00:13:46,200
+- WATERFIELD: Who is it?  - PERRY: It's Perry, sir.
+- 谁啊  - 是 Perry, 先生
+
+221
+00:13:46,440 --> 00:13:48,170
+WATERFIELD: One moment.
+等一下
+
+222
+00:13:51,960 --> 00:13:53,380
+PERRY: You wanted to see me, sir?
+你想要见我, 先生?
+
+223
+00:13:53,780 --> 00:13:59,160
+WATERFIELD: Yes, I have an extremely important
+and delicate task for you to perform.
+是的, 我有一个非常重要、非常棘手的任务, 需要你去办
+
+224
+00:13:59,260 --> 00:14:00,250
+PERRY: Oh, yes?
+哦, 是什么?
+
+225
+00:14:00,620 --> 00:14:03,100
+PERRY: I say, you got a new delivery.
+咦, 你又有新货啦
+
+226
+00:14:03,820 --> 00:14:04,660
+WATERFIELD: Y... yes.
+是...是的
+
+227
+00:14:04,780 --> 00:14:06,360
+PERRY: I didn't see it arrive.
+但我没有看到它送过来
+
+228
+00:14:06,680 --> 00:14:10,260
+WATERFIELD: It was delivered last night.
+I've only just brought it in myself.
+它是昨晚投递的, 我自己把它拿进来了
+
+229
+00:14:11,120 --> 00:14:13,460
+WATERFIELD: It is, uh... for a new customer.
+那是...给一个新客户的
+
+230
+00:14:13,740 --> 00:14:14,520
+PERRY: Oh, yes?
+哦, 是吗?
+
+231
+00:14:14,600 --> 00:14:18,950
+WATERFIELD: A Dr. Galloway. He's extremely wealthy
+and an ardent collector...
+Galloway 博士, 他相当富有, 非常喜欢收藏
+
+232
+00:14:19,080 --> 00:14:20,860
+PERRY: Of, uh... Victoriana, sir?
+是个...维多利亚迷, 是吗?
+
+233
+00:14:20,960 --> 00:14:24,180
+WATERFIELD: No less. I do not know the Doctor personally,
+的确. 我自己也不认识这位博士
+
+234
+00:14:24,440 --> 00:14:28,240
+WATERFIELD: but we have arranged to meet
+in the coffee shop, uh... bar, nearby.
+但我们约好了在附近的咖啡店, 哦, 咖啡馆, 见面
+
+235
+00:14:28,420 --> 00:14:30,340
+- PERRY: Oh, the Tricolour, sir?  - WATERFIELD: Yes.
+- 哦, 三原色, 是吗?   - 是的
+
+236
+00:14:30,880 --> 00:14:34,360
+WATERFIELD: Unfortunately, I am unable to keep the appointment,
+但不幸的是, 我没法赴约了
+
+237
+00:14:34,420 --> 00:14:36,800
+WATERFIELD: so I want you to go instead, Mr. Perry.
+所以我想你替我去, Perry 先生。
+
+238
+00:14:37,220 --> 00:14:40,800
+WATERFIELD: Here is a photograph of Dr. Galloway.
+这里有 Galloway 博士的照片
+
+239
+00:14:41,280 --> 00:14:44,740
+WATERFIELD: This is his assistant and secretary, Mr. James McCrimmon.
+这是他的助手和秘书, James McCrimmon 先生.
+
+240
+00:14:46,280 --> 00:14:48,670
+WATERFIELD: Now I want you to ask the Doctor to come to the shop tonight,
+我想让你请博士晚上到店里来
+
+241
+00:14:49,120 --> 00:14:52,810
+- WATERFIELD: say at, uh... ten o' clock.  - PERRY: Ten o'clock, sir?!
+- 约在...十点  - 十点, 先生?
+
+242
+00:14:52,820 --> 00:14:57,500
+WATERFIELD: Yes. Oh, don't worry, Mr. Perry.
+I shall be attending to him myself.
+是的。哦, 别担心, Perry 先生。我自己招待他
+
+243
+00:14:57,760 --> 00:15:00,100
+- WATERFIELD: You needn't wait. - PERRY: Oh, right sir.
+- 你不用在这里等  - 哦, 好的, 先生
+
+244
+00:15:00,380 --> 00:15:03,917
+WATERFIELD: The Doctor is notoriously unpunctual.
+这位博士是出了名的不准时
+
+245
+00:15:03,980 --> 00:15:06,960
+WATERFIELD: I fear you may have a long and tedious wait.
+恐怕你得耐心多等一会儿了
+
+246
+00:15:07,080 --> 00:15:09,300
+PERRY: I shall find him sir. Do you want me to go now?
+我会找到他的, 先生。你想让我现在就去吗?
+
+247
+00:15:09,360 --> 00:15:10,820
+WATERFIELD: If you please, Mr. Perry.
+如果你愿意的话, Perry 先生
+
+248
+00:15:50,720 --> 00:15:52,130
+PERRY: And what are you doing?
+你在这里干什么?
+
+249
+00:15:52,240 --> 00:15:53,930
+KENNEDY: I... I can't make Mr. Waterfield hear me. I knocked.
+我...刚才 Waterfield 估计没听到我,  我敲门了
+
+250
+00:15:54,100 --> 00:15:56,090
+- PERRY: He's busy.  - KENNEDY: O.K. I'll try later.
+- 他正忙  - 好, 我稍后再来
+
+251
+00:16:11,840 --> 00:16:13,470
+JAMIE: Don't look so depressed, Doctor.
+别这么丧气, 博士
+
+252
+00:16:14,300 --> 00:16:16,210
+DOCTOR: If only we knew what he looked like, Jamie.
+我们要是知道他长什么样子就好了, Jamie
+
+253
+00:16:16,380 --> 00:16:18,900
+JAMIE: We'll ask one of the lasses in a moment, when things get quieter.
+我们一会儿问问某个女士, 要是还没什么头绪的话
+
+254
+00:16:19,460 --> 00:16:21,300
+DOCTOR: We've got to untangle this, you know.
+我们得解开这个谜题, 是吧
+
+255
+00:16:21,460 --> 00:16:23,160
+JAMIE: It's all quite obvious to me.
+对我来说, 这很显然
+
+256
+00:16:23,280 --> 00:16:26,840
+They're just robbers. thieves, you understand.
+他们就是抢劫犯, 小偷, 你明白吗?
+
+257
+00:16:27,200 --> 00:16:29,620
+DOCTOR: No, no, there's more to it than that.
+不, 不, 这事没那么简单
+
+258
+00:16:29,800 --> 00:16:32,500
+DOCTOR: Why leave that man in the hangar to give us a clue?
+为什么要在机库留一个人给我们留下线索呢?
+
+259
+00:16:32,620 --> 00:16:35,040
+JAMIE: Which we haven't followed up, you know. "Leatherman?"
+我们还没有跟那条线索呢, ”Leatherman"
+
+260
+00:16:35,500 --> 00:16:37,940
+DOCTOR: There is no delivery firm of that name.
+没有哪个送货公司叫那个名字
+
+261
+00:16:38,140 --> 00:16:41,030
+DOCTOR: Not in the London area, anyway.
+I checked in the phone book.
+至少伦敦地区没有。我查过电话本了
+
+262
+00:16:41,200 --> 00:16:43,100
+JAMIE: But surely there's more places than London.
+但显然不止伦敦这一个地方啊
+
+263
+00:16:43,180 --> 00:16:44,150
+DOCTOR: Maybe.
+也许吧
+
+264
+00:16:46,240 --> 00:16:48,070
+JAMIE: Do you think this some sort of a trap, Doctor?
+你觉得这是某种陷阱吗, 博士?
+
+265
+00:16:48,120 --> 00:16:51,470
+DOCTOR: Yes, but if only we knew who our enemies are...
+是的, 要是我们知道我们的敌人是谁就好了...
+
+266
+00:16:51,750 --> 00:16:53,390
+JAMIE: Not the Chameleons again!
+不会又是变色龙吧?
+<i>(注：上一集04x08 The Faceless Ones 中的主要敌人)</i>
+
+267
+00:16:53,590 --> 00:16:55,466
+DOCTOR: No, something else.
+不, 是其它什么东西
+
+268
+00:16:55,640 --> 00:16:59,520
+DOCTOR: I can feel them, closing in all around us.
+我能感觉到, 就在我们周边逼近
+
+269
+00:17:03,300 --> 00:17:07,460
+WATERFIELD: I've done everything that you've asked of me.
+Isn't that enough?
+我已经做了所有你要求我做的事情, 还不够吗?
+
+270
+00:17:08,480 --> 00:17:11,940
+WATERFIELD: Now you must tell me the truth.
+Do you hear?! The truth!
+现在你必须告诉我真相, 听到没? 真相!
+
+271
+00:17:14,360 --> 00:17:17,840
+WATERFIELD: But, you must tell me. I demand!
+不, 你必须告诉我! 我强烈要求!
+
+272
+00:17:19,320 --> 00:17:22,460
+WATERFIELD: I'm talking to you! Come back!
+我跟你说话呢! 回来!
+
+273
+00:18:00,860 --> 00:18:03,440
+JAMIE: Oh, if only the laird could see that!
+哦, 要是领主看见这个就好了!
+
+274
+00:18:04,840 --> 00:18:07,620
+JAMIE: Why do I get all the difficult tasks, Doctor?
+为什么这些困难的任务总让我来, 博士?
+
+275
+00:18:08,020 --> 00:18:10,790
+DOCTOR: Because you're so much better at them than I am, Jamie.
+因为在这方面你比我强多了, Jamie
+
+276
+00:18:10,880 --> 00:18:12,060
+DOCTOR: What did you find out?
+你发现什么了吗?
+
+277
+00:18:12,220 --> 00:18:15,480
+JAMIE: None of the lasses here could remember
+anybody called Ken or Kenneth.
+这些女士们没一个记得谁叫做 Ken 或者 Kenneth
+
+278
+00:18:15,620 --> 00:18:16,480
+DOCTOR: Oh, dear.
+哦, 天啊
+
+279
+00:18:16,560 --> 00:18:18,660
+JAMIE: Aye. But, they do have a different lot on duty in the evening.
+哦, 不过, 到了晚上又会是另外一批人
+
+280
+00:18:18,760 --> 00:18:20,180
+Now, maybe they'll know.也许他们会知道
+
+281
+00:18:22,800 --> 00:18:26,300
+DOCTOR: Jamie, I'm being stared at.
+Is there something wrong with me?
+Jamie, 有人在盯着我看。我有什么地方不对劲吗?
+
+282
+00:18:26,670 --> 00:18:28,110
+JAMIE: You mean up here Doctor?
+你是说这里吗, 博士?
+
+283
+00:18:28,180 --> 00:18:29,590
+DOCTOR: Is my hair in disarray?
+我的头发乱了?
+
+284
+00:18:30,140 --> 00:18:31,360
+JAMIE: Well, no more than usual.
+唔, 没比平常乱
+
+285
+00:18:31,540 --> 00:18:33,830
+DOCTOR: Do I look strange or bizarre?
+我看起来比较奇怪?
+
+286
+00:18:34,160 --> 00:18:35,980
+JAMIE: Aye. Well, maybe I'm just used to you.
+啊, 还好, 也许我看你已经习惯了
+
+287
+00:18:36,180 --> 00:18:38,600
+DOCTOR: That's some comfort. Look out, he's coming over.
+这我放心一点了。你看, 他过来了
+
+288
+00:18:39,100 --> 00:18:40,420
+PERRY: I beg your pardon.
+打扰一下
+
+289
+00:18:41,600 --> 00:18:42,760
+DOCTOR: Not at all.
+没事
+
+290
+00:18:42,980 --> 00:18:44,220
+PERRY: It is Dr. Galloway, isn't it?
+Galloway 博士, 是吗
+
+291
+00:18:44,260 --> 00:18:45,580
+- JAMIE: Dr. Gallo-?  - PERRY: ...and Mr. McCrimmon.
+- Gallo...?  - 以及 McCrimmon 先生
+
+292
+00:18:45,860 --> 00:18:47,320
+JAMIE: Aye, I'm Jamie McCrimmon.
+是啊, 我是 Jamie McCrimmon
+
+293
+00:18:47,360 --> 00:18:48,420
+PERRY: My card.
+我的名片
+
+294
+00:18:50,380 --> 00:18:53,120
+DOCTOR: Yes, uh...Mr. Perry?
+我是。你是...Perry 先生?
+
+295
+00:18:53,240 --> 00:18:56,650
+PERRY: Mr. Waterfield's frightfully sorry,
+but he can't meet you as arranged.
+Waterfield 他表示非常抱歉, 他不能来赴约了
+
+296
+00:18:58,300 --> 00:18:59,940
+DOCTOR: Oh. Oh, dear. What a pity.
+哦, 哦, 太遗憾了
+
+297
+00:18:59,960 --> 00:19:02,560
+PERRY: But, he says if you'd care to come to the shop at about...
+不过, 他说如果你愿意到店里来的话
+
+298
+00:19:02,680 --> 00:19:05,280
+PERRY: uh... ten tonight, he'll see to you personally.
+今晚十点, 他会亲自见你
+
+299
+00:19:05,640 --> 00:19:07,400
+DOCTOR: At about 10.
+大约10点是吧
+
+300
+00:19:08,100 --> 00:19:10,450
+DOCTOR: Oh, yes, uh... We'll be there.
+哦, 好... 我们会到的
+
+301
+00:19:10,620 --> 00:19:11,530
+PERRY: Righto.
+太好了
+
+302
+00:19:11,580 --> 00:19:13,710
+DOCTOR: Right! Right!
+好, 好
+
+303
+00:19:18,940 --> 00:19:22,220
+DOCTOR: "Edward Waterfield: Genuine Victoriana".
+Edward Waterfield：维多利亚真品店
+
+304
+00:19:22,340 --> 00:19:25,620
+JAMIE: Can't be a mistake. Even though he
+got your name wrong, he knew mine.
+应该没错了, 虽然他把你的名字搞错了, 他倒是知道我的
+
+305
+00:19:25,880 --> 00:19:28,660
+DOCTOR: I wonder if Mr. Kenneth has found us.
+我在想是不是 Kenneth 先生先发现了我们
+
+306
+00:19:29,020 --> 00:19:30,860
+DOCTOR: "K. Perry Esquire".
+
+307
+00:19:31,280 --> 00:19:36,620
+DOCTORYes, I think we'll go and see Mr. Edward Waterfield.
+是了, 我想我们得去见见 Edward Waterfield 先生
+
+308
+00:19:37,620 --> 00:19:40,400
+WATERFIELD: And he, uh... definitely said he would be here?
+那他...的确说了他会来这里?
+
+309
+00:19:40,440 --> 00:19:41,880
+- PERRY: Yes, sir.  - WATERFIELD: Thank you.
+- 是的, 先生  - 谢谢你
+
+310
+00:19:42,300 --> 00:19:44,510
+WATERFIELD: You have done excellently, Mr. Perry.
+你做得很好, Perry 先生
+
+311
+00:19:45,520 --> 00:19:47,420
+- WATERFIELD: Good night.  - PERRY: See you in the morning, sir.
+- 晚安  - 明早见, 先生
+
+312
+00:19:48,400 --> 00:19:51,560
+WATERFIELD: Uh, yes. Yes, in the morning.
+呃, 好, 好的, 早上见
+
+313
+00:20:01,280 --> 00:20:04,040
+WATERFIELD: Kennedy? Kennedy?
+
+314
+00:20:09,140 --> 00:20:12,780
+WATERFIELD: The Doctor is coming here tonight.
+I shall want you to help me.
+博士今晚要过来, 我期望你帮我一下
+
+315
+00:20:13,220 --> 00:20:16,660
+WATERFIELD: And you had better put some warm clothes on. Dark things.
+你最好穿点厚衣服。有点脏活儿(???)
+
+316
+00:20:16,780 --> 00:20:20,020
+KENNEDY: All right. You'd better make sure
+that police box is well covered-up,
+好的。你最好把这个警亭好好遮盖一下
+
+317
+00:20:20,060 --> 00:20:21,610
+KENNEDY: in case the Doctor starts snooping about.
+免得博士四处乱翻
+
+318
+00:20:23,200 --> 00:20:24,120
+KENNEDY: Yes.
+对
+
+319
+00:22:38,040 --> 00:22:40,100
+DALEK: Who are you?
+你是谁?
+
+320
+00:22:43,240 --> 00:22:45,480
+DALEK: Who are you?
+你是谁?
+
+321
+00:22:48,180 --> 00:22:50,180
+DALEK: Answer!
+回答!
+
